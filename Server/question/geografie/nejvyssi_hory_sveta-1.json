@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Seřaďte hory podle nadmořské výšky (1 = nejvyšší)",
+  "questions":
+  [
+    {
+      "name": "Nupce",
+      "value": "8"
+    },
+    {
+      "name": "Šiša Pangma",
+      "value": "6"
+    },
+    {
+      "name": "Mount Everest",
+      "value": "1"
+    },
+    {
+      "name": "Nanga Parbat",
+      "value": "4"
+    },
+    {
+      "name": "Kunjang Kiš",
+      "value": "9"
+    },
+    {
+      "name": "Manáslu",
+      "value": "3"
+    },
+    {
+      "name": "Mašerbrum",
+      "value": "10"
+    },
+    {
+      "name": "Broad Peak",
+      "value": "5"
+    },
+    {
+      "name": "Makalu",
+      "value": "2"
+    },
+    {
+      "name": "Gjačung Kang",
+      "value": "7"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Které zvíře má latinský název?",
+  "questions":
+  [
+    {
+      "name": "Mustela putorius",
+      "value": "Tchoř"
+    },
+    {
+      "name": "Bubo bubo",
+      "value": "Výr"
+    },
+    {
+      "name": "Sciurus vulgaris",
+      "value": "Veverka"
+    },
+    {
+      "name": "Eguus asinus",
+      "value": "Osel"
+    },
+    {
+      "name": "Vulpes Vulpes",
+      "value": "Liška"
+    },
+    {
+      "name": "Loxodonta africana",
+      "value": "Slon"
+    },
+    {
+      "name": "Ovis aries",
+      "value": "Ovce"
+    },
+    {
+      "name": "Citellus citellus",
+      "value": "Sysel"
+    },
+    {
+      "name": "Panthera leo",
+      "value": "Lev"
+    },
+    {
+      "name": "Felis silvestris",
+      "value": "Kočka"
+    }
+  ]
+}

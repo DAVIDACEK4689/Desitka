@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Seřaďte filmy podle vzniku (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Nedotknutelní",
+      "value": "9"
+    },
+    {
+      "name": "Dokonalý trik",
+      "value": "6"
+    },
+    {
+      "name": "Hon",
+      "value": "10"
+    },
+    {
+      "name": "Jára Cimrman ležící, spící",
+      "value": "2"
+    },
+    {
+      "name": "Moderní doba",
+      "value": "1"
+    },
+    {
+      "name": "96 hodin",
+      "value": "8"
+    },
+    {
+      "name": "Americký gangster",
+      "value": "7"
+    },
+    {
+      "name": "Medvěd",
+      "value": "3"
+    },
+    {
+      "name": "Americká krása",
+      "value": "5"
+    },
+    {
+      "name": "Gauneři",
+      "value": "4"
+    }
+  ]
+}

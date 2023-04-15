@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Který herec získal oscara za roli v tomto filmu? (celé jméno)",
+  "questions":
+  [
+    {
+      "name": "Charly",
+      "value": "Cliff Robertson"
+    },
+    {
+      "name": "Francouzská spojka",
+      "value": "Gene Hackman"
+    },
+    {
+      "name": "Návrat domů",
+      "value": "Jon Voight"
+    },
+    {
+      "name": "Stráž na Rýnu",
+      "value": "Paul Lukas"
+    },
+    {
+      "name": "Most přes řeku Kwai",
+      "value": "Alec Guinness"
+    },
+    {
+      "name": "Philadelphia",
+      "value": "Tom Hanks"
+    },
+    {
+      "name": "Revenant Zmrtvýchvstání",
+      "value": "Leonardo DiCaprio"
+    },
+    {
+      "name": "Muži zítřka",
+      "value": "Spencer Tracy"
+    },
+    {
+      "name": "Yankee Doodle Dandy",
+      "value": "James Cagney"
+    },
+    {
+      "name": "(cenu odmítl)",
+      "value": "Marlon Brando"
+    }
+  ]
+}

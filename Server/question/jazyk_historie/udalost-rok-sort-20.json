@@ -1,0 +1,47 @@
+{
+  "id": "20",
+  "text": "Seřaďte události podle roku (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Objevení Ameriky",
+      "value": "4"
+    },
+    {
+      "name": "Umírá William Shakespeare",
+      "value": "5"
+    },
+    {
+      "name": "Páskový, cívkový magnetofon",
+      "value": "7"
+    },
+    {
+      "name": "Trumanova doktrína",
+      "value": "9"
+    },
+    {
+      "name": "Měnová reforma v Československu",
+      "value": "10"
+    },
+    {
+      "name": "Vyhlášen Australský svaz",
+      "value": "6"
+    },
+    {
+      "name": "První konstantinopolský koncil",
+      "value": "1"
+    },
+    {
+      "name": "Mnichovská dohoda",
+      "value": "8"
+    },
+    {
+      "name": "Bitva u Lipan",
+      "value": "3"
+    },
+    {
+      "name": "Bitva na Katataunských polích",
+      "value": "2"
+    }
+  ]
+}

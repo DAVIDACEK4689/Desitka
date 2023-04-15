@@ -1,0 +1,47 @@
+{
+  "id": "4",
+  "text": "Seřaďte písničky podle vzniku (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Bee Gees: Stayin’ Alive",
+      "value": "4"
+    },
+    {
+      "name": "Celine Dion: My Heart Will Go On",
+      "value": "7"
+    },
+    {
+      "name": "Bobby Darin: Mack the Knife",
+      "value": "2"
+    },
+    {
+      "name": "Stevie Wonder: Superstition",
+      "value": "3"
+    },
+    {
+      "name": "Elvis Presley: Don’t Be Cruel",
+      "value": "1"
+    },
+    {
+      "name": "Adele: Hello",
+      "value": "10"
+    },
+    {
+      "name": "Whitney Houston: I Will Always Love You",
+      "value": "6"
+    },
+    {
+      "name": "Black Eyed Peas: I Gotta Feeling",
+      "value": "9"
+    },
+    {
+      "name": "Beyoncé with Jay-Z: Crazy in Love",
+      "value": "8"
+    },
+    {
+      "name": "Michael Jackson: Beat It",
+      "value": "5"
+    }
+  ]
+}

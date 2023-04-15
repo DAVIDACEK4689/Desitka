@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Ve které zemi najdeme tuto památku?",
+  "questions":
+  [
+    {
+      "name": "Pražský hrad",
+      "value": "Česká republika"
+    },
+    {
+      "name": "Socha Svobody",
+      "value": "USA"
+    },
+    {
+      "name": "Imamova mešita",
+      "value": "Irán"
+    },
+    {
+      "name": "Palác Ishak Pasha",
+      "value": "Turecko"
+    },
+    {
+      "name": "Humayunova hrobka",
+      "value": "Indie"
+    },
+    {
+      "name": "Skalní město Petra",
+      "value": "Jordánsko"
+    },
+    {
+      "name": "Chrám Vasila Blaženého",
+      "value": "Rusko"
+    },
+    {
+      "name": "Pont du Gard",
+      "value": "Francie"
+    },
+    {
+      "name": "Machu Picchu",
+      "value": "Peru"
+    },
+    {
+      "name": "Skalní dóm",
+      "value": "Jeruzalém"
+    }
+  ]
+}

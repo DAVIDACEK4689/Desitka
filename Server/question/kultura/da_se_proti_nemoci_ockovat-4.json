@@ -1,0 +1,47 @@
+{
+  "id": "4",
+  "text": "Dá se proti této nemoci očkovat?",
+  "questions":
+  [
+    {
+      "name": "Varikokéla",
+      "value": "NE"
+    },
+    {
+      "name": "Leukoplakie",
+      "value": "NE"
+    },
+    {
+      "name": "Spalničky",
+      "value": "ANO"
+    },
+    {
+      "name": "Alopecie",
+      "value": "NE"
+    },
+    {
+      "name": "Klíšťová encefalitida",
+      "value": "ANO"
+    },
+    {
+      "name": "Rotavirové gastroenteritidy",
+      "value": "ANO"
+    },
+    {
+      "name": "Kawasakiho choroba",
+      "value": "NE"
+    },
+    {
+      "name": "Žlutá zimnice",
+      "value": "ANO"
+    },
+    {
+      "name": "Downův syndrom",
+      "value": "NE"
+    },
+    {
+      "name": "Sklerodermie",
+      "value": "NE"
+    }
+  ]
+}

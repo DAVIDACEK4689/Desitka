@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Ke kterému náboženství patří tento text?",
+  "questions":
+  [
+    {
+      "name": "Korán",
+      "value": "Islám"
+    },
+    {
+      "name": "Aranyakas",
+      "value": "Hinduismus"
+    },
+    {
+      "name": "Wu-ťing",
+      "value": "Konfucianismus"
+    },
+    {
+      "name": "Védy",
+      "value": "Hinduismus"
+    },
+    {
+      "name": "Kojiki",
+      "value": "Šintoismus"
+    },
+    {
+      "name": "Nový zákon",
+      "value": "Křesťanství"
+    },
+    {
+      "name": "Daozang",
+      "value": "Taoismus"
+    },
+    {
+      "name": "Tóra",
+      "value": "Judaismus"
+    },
+    {
+      "name": "Avesta",
+      "value": "Zoroastrismus"
+    },
+    {
+      "name": "Mahábhárata",
+      "value": "Hinduismus"
+    }
+  ]
+}

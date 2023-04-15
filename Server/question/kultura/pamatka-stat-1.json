@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Ve které zemi najdeme tuto památku?",
+  "questions":
+  [
+    {
+      "name": "Zakázané město",
+      "value": "Čína"
+    },
+    {
+      "name": "Mešita Badshahi",
+      "value": "Pákistán"
+    },
+    {
+      "name": "Alcatraz",
+      "value": "USA"
+    },
+    {
+      "name": "Bazilika sv. Petra",
+      "value": "Vatikán"
+    },
+    {
+      "name": "Velká čínská zeď",
+      "value": "Čína"
+    },
+    {
+      "name": "Koloseum",
+      "value": "Itálie"
+    },
+    {
+      "name": "Teotihuacan",
+      "value": "Mexiko"
+    },
+    {
+      "name": "Ait Ben Haddou",
+      "value": "Maroko"
+    },
+    {
+      "name": "Hrad Carcassonne",
+      "value": "Francie"
+    },
+    {
+      "name": "Palác Potala",
+      "value": "Tibet"
+    }
+  ]
+}

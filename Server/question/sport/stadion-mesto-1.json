@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "V jakém městě najdeme tento stadion?",
+  "questions":
+  [
+    {
+      "name": "Murrayfield stadium",
+      "value": "Edinburgh"
+    },
+    {
+      "name": "Grundig Stadion",
+      "value": "Norimberk"
+    },
+    {
+      "name": "Estadio Vicente Calderón",
+      "value": "Madrid"
+    },
+    {
+      "name": "Stade Vélodrome",
+      "value": "Marseille"
+    },
+    {
+      "name": "Aviva Stadium",
+      "value": "Dublin"
+    },
+    {
+      "name": "Estadio de La Cartuja",
+      "value": "Sevilla"
+    },
+    {
+      "name": "Wanda Metropolitano",
+      "value": "Madrid"
+    },
+    {
+      "name": "Anfield Road",
+      "value": "Liverpool"
+    },
+    {
+      "name": "Estádio José Alvalade",
+      "value": "Lisabon"
+    },
+    {
+      "name": "Arena Naţională",
+      "value": "Bukurešť"
+    }
+  ]
+}

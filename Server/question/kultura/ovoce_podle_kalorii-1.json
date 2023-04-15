@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Seřaďtě ovoce podle počtu kalorií (1 = nejvíce)",
+  "questions":
+  [
+    {
+      "name": "Avokádo",
+      "value": "1"
+    },
+    {
+      "name": "Broskve",
+      "value": "8"
+    },
+    {
+      "name": "Meruňky",
+      "value": "6"
+    },
+    {
+      "name": "Banány",
+      "value": "2"
+    },
+    {
+      "name": "Hroznové víno",
+      "value": "4"
+    },
+    {
+      "name": "Jahody",
+      "value": "10"
+    },
+    {
+      "name": "Hrušky",
+      "value": "9"
+    },
+    {
+      "name": "Kiwi",
+      "value": "5"
+    },
+    {
+      "name": "Pomeranče",
+      "value": "3"
+    },
+    {
+      "name": "Jablka",
+      "value": "7"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "4",
+  "text": "Seřaďte války podle roku propuknutí (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Švýcarsko-burgundská válka",
+      "value": "4"
+    },
+    {
+      "name": "Vojenský převrat v Čadu",
+      "value": "10"
+    },
+    {
+      "name": "Druhá americká válka za nezávislost",
+      "value": "8"
+    },
+    {
+      "name": "Šmalkaldská válka",
+      "value": "5"
+    },
+    {
+      "name": "Portugalská občanská válka",
+      "value": "9"
+    },
+    {
+      "name": "Válka o nezávislost Haity",
+      "value": "7"
+    },
+    {
+      "name": "Livonské války",
+      "value": "6"
+    },
+    {
+      "name": "Husitské války",
+      "value": "3"
+    },
+    {
+      "name": "Markomanské války",
+      "value": "2"
+    },
+    {
+      "name": "Dácké války",
+      "value": "1"
+    }
+  ]
+}

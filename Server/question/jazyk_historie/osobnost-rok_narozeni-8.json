@@ -1,0 +1,47 @@
+{
+  "id": "8",
+  "text": "Seřaďte osobnosti podle roku narození (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Abraham Lincoln",
+      "value": "9"
+    },
+    {
+      "name": "Michelangelo",
+      "value": "5"
+    },
+    {
+      "name": "Mikuláš Koperník",
+      "value": "4"
+    },
+    {
+      "name": "Immanuel Kant",
+      "value": "8"
+    },
+    {
+      "name": "Konstantin Veliký",
+      "value": "2"
+    },
+    {
+      "name": "Šalamoun",
+      "value": "1"
+    },
+    {
+      "name": "Kardinál Richelieu",
+      "value": "6"
+    },
+    {
+      "name": "Vilém Dobyvatel",
+      "value": "3"
+    },
+    {
+      "name": "Isaac Newton",
+      "value": "7"
+    },
+    {
+      "name": "Theodore Roosevelt",
+      "value": "10"
+    }
+  ]
+}

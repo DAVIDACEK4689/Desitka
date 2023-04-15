@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Seřaďte sochaře podle roku narození (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Leonardo da Vinci",
+      "value": "3"
+    },
+    {
+      "name": "Salvador Dalí",
+      "value": "10"
+    },
+    {
+      "name": "Donatello",
+      "value": "2"
+    },
+    {
+      "name": "Pablo Picasso",
+      "value": "8"
+    },
+    {
+      "name": "Constantin Brancusi",
+      "value": "7"
+    },
+    {
+      "name": "Auguste Rodin",
+      "value": "6"
+    },
+    {
+      "name": "Miguel Angel Buonarroti",
+      "value": "4"
+    },
+    {
+      "name": "Antonio Canova",
+      "value": "5"
+    },
+    {
+      "name": "Lorenzo Ghiberti",
+      "value": "1"
+    },
+    {
+      "name": "Marcel Duchamp",
+      "value": "9"
+    }
+  ]
+}

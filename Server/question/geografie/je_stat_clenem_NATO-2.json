@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Je tento stát členem NATO?",
+  "questions":
+  [
+    {
+      "name": "Island",
+      "value": "ANO"
+    },
+    {
+      "name": "Polsko",
+      "value": "ANO"
+    },
+    {
+      "name": "USA",
+      "value": "ANO"
+    },
+    {
+      "name": "Dánsko",
+      "value": "ANO"
+    },
+    {
+      "name": "Švýcarsko",
+      "value": "NE"
+    },
+    {
+      "name": "Rakousko",
+      "value": "NE"
+    },
+    {
+      "name": "Bosna a Hercegovina",
+      "value": "NE"
+    },
+    {
+      "name": "Itálie",
+      "value": "ANO"
+    },
+    {
+      "name": "Estonsko",
+      "value": "ANO"
+    },
+    {
+      "name": "Kanada",
+      "value": "ANO"
+    }
+  ]
+}

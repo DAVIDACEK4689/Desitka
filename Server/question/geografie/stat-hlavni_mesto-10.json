@@ -1,0 +1,47 @@
+{
+  "id": "10",
+  "text": "Jaké je hlavní město?",
+  "questions":
+  [
+    {
+      "name": "Dánsko",
+      "value": "Kodaň"
+    },
+    {
+      "name": "Libye",
+      "value": "Tripolis"
+    },
+    {
+      "name": "Rovníková Guinea",
+      "value": "Malabo"
+    },
+    {
+      "name": "Jordánsko",
+      "value": "Ammán"
+    },
+    {
+      "name": "Malta",
+      "value": "Valletta"
+    },
+    {
+      "name": "Portugalsko",
+      "value": "Lisabon"
+    },
+    {
+      "name": "Svatý Kryštof a Nevis",
+      "value": "Basseterre"
+    },
+    {
+      "name": "Slovinsko",
+      "value": "Lublaň"
+    },
+    {
+      "name": "Kyrgyzstán",
+      "value": "Biškek"
+    },
+    {
+      "name": "Belize",
+      "value": "Belmopan"
+    }
+  ]
+}

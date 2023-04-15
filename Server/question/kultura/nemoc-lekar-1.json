@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Jak se nazývá lékař, jehož oborem je?",
+  "questions":
+  [
+    {
+      "name": "Moč",
+      "value": "Urolog"
+    },
+    {
+      "name": "Žlázy s vnitřní sekrecí",
+      "value": "Endokrinolog"
+    },
+    {
+      "name": "Stáří",
+      "value": "Geriatr"
+    },
+    {
+      "name": "Ženské pohlavní orgány",
+      "value": "Gynekolog"
+    },
+    {
+      "name": "Pohybový aparát",
+      "value": "Ortoped"
+    },
+    {
+      "name": "Alergie",
+      "value": "Alergolog"
+    },
+    {
+      "name": "Trávicí systém",
+      "value": "Gastroenterolog"
+    },
+    {
+      "name": "Plíce",
+      "value": "Pneumolog"
+    },
+    {
+      "name": "Infekční nemoci",
+      "value": "Infektolog"
+    },
+    {
+      "name": "Kůže",
+      "value": "Dermatolog"
+    }
+  ]
+}

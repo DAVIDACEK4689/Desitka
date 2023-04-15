@@ -1,0 +1,47 @@
+{
+  "id": "9",
+  "text": "Seřaďte osobnosti podle roku narození (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Woodrow Wilson",
+      "value": "8"
+    },
+    {
+      "name": "Joseph Smith mladší",
+      "value": "5"
+    },
+    {
+      "name": "Tomáš Akvinský",
+      "value": "2"
+    },
+    {
+      "name": "Ježíš Kristus",
+      "value": "1"
+    },
+    {
+      "name": "Ulysses S. Grant",
+      "value": "7"
+    },
+    {
+      "name": "Karl Marx",
+      "value": "6"
+    },
+    {
+      "name": "Mahátmá Gandhi",
+      "value": "9"
+    },
+    {
+      "name": "Papež Jan Pavel II.",
+      "value": "10"
+    },
+    {
+      "name": "Andrew Jackson",
+      "value": "4"
+    },
+    {
+      "name": "Jindřich VIII. Tudor",
+      "value": "3"
+    }
+  ]
+}

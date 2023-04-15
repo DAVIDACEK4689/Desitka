@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Která barva chybí v názvu filmu? (1. pád)",
+  "questions":
+  [
+    {
+      "name": "? kotel",
+      "value": "Černá"
+    },
+    {
+      "name": "? rytíř",
+      "value": "Černá"
+    },
+    {
+      "name": "? karta",
+      "value": "Zelená"
+    },
+    {
+      "name": "? laguna",
+      "value": "Modrá"
+    },
+    {
+      "name": "? pás",
+      "value": "Červená"
+    },
+    {
+      "name": "? labuť",
+      "value": "Černá"
+    },
+    {
+      "name": "? samet",
+      "value": "Modrá"
+    },
+    {
+      "name": "? drak",
+      "value": "Červená"
+    },
+    {
+      "name": "Piráti z Karibiku: Prokletí ? perly",
+      "value": "Černá"
+    },
+    {
+      "name": "Futurama: ? trpaslík",
+      "value": "Fialová"
+    }
+  ]
+}

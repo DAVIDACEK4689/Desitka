@@ -1,0 +1,47 @@
+{
+  "id": "3",
+  "text": "Dá se proti této nemoci očkovat?",
+  "questions":
+  [
+    {
+      "name": "Příušnice",
+      "value": "ANO"
+    },
+    {
+      "name": "Fenylketonurie",
+      "value": "NE"
+    },
+    {
+      "name": "Pásový opar",
+      "value": "ANO"
+    },
+    {
+      "name": "Horečka Dengue",
+      "value": "NE"
+    },
+    {
+      "name": "Cholera",
+      "value": "ANO"
+    },
+    {
+      "name": "Vzteklina",
+      "value": "ANO"
+    },
+    {
+      "name": "Zarděnky",
+      "value": "ANO"
+    },
+    {
+      "name": "Břišní tyfus",
+      "value": "ANO"
+    },
+    {
+      "name": "Angína",
+      "value": "NE"
+    },
+    {
+      "name": "Žloutenka",
+      "value": "ANO"
+    }
+  ]
+}

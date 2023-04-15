@@ -1,0 +1,47 @@
+{
+  "id": "4",
+  "text": "Ve které zemi najdeme tento park?",
+  "questions":
+  [
+    {
+      "name": "Karákorám",
+      "value": "Pákistán"
+    },
+    {
+      "name": "Nahuel Huapi",
+      "value": "Argentina"
+    },
+    {
+      "name": "Tierra del Fuego",
+      "value": "Argentina/Chile"
+    },
+    {
+      "name": "Ordes y Monte Perdido",
+      "value": "Španělsko"
+    },
+    {
+      "name": "Yellowston",
+      "value": "USA"
+    },
+    {
+      "name": "Aoraki - Mount Cook",
+      "value": "Nový Zéland"
+    },
+    {
+      "name": "Queen Elizabeth",
+      "value": "Uganda"
+    },
+    {
+      "name": "Kilimandžáro",
+      "value": "Tanzanie/Tanzánie"
+    },
+    {
+      "name": "Jostedalsbreen",
+      "value": "Norsko"
+    },
+    {
+      "name": "Iguazú",
+      "value": "Brazílie/Argentina"
+    }
+  ]
+}

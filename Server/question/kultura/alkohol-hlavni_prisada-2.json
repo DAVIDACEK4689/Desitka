@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Jaká je hlavní alkoholická přísada nápoje?",
+  "questions":
+  [
+    {
+      "name": "Piňa Colada",
+      "value": "Rum"
+    },
+    {
+      "name": "Old Fashioned",
+      "value": "Whisky"
+    },
+    {
+      "name": "Gimlet drink",
+      "value": "Gin"
+    },
+    {
+      "name": "Aperol Spritz",
+      "value": "Prosecco"
+    },
+    {
+      "name": "French Martini Cocktail",
+      "value": "Vodka"
+    },
+    {
+      "name": "Royal Hawaiian",
+      "value": "Gin"
+    },
+    {
+      "name": "Sex on the beach",
+      "value": "Vodka"
+    },
+    {
+      "name": "Screwdriver",
+      "value": "Vodka"
+    },
+    {
+      "name": "Hurricane Cocktail",
+      "value": "Rum"
+    },
+    {
+      "name": "Cosmopolitan",
+      "value": "Vodka"
+    }
+  ]
+}

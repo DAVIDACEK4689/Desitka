@@ -1,0 +1,47 @@
+{
+  "id": "3",
+  "text": "Seřaďte státy podle počtu obyvatel (1 = nejvíce)",
+  "questions":
+  [
+    {
+      "name": "Jižní Korea",
+      "value": "2"
+    },
+    {
+      "name": "Irák",
+      "value": "3"
+    },
+    {
+      "name": "Burkina Faso",
+      "value": "4"
+    },
+    {
+      "name": "Sierra Leone",
+      "value": "7"
+    },
+    {
+      "name": "Kazachstán",
+      "value": "6"
+    },
+    {
+      "name": "Moldavsko",
+      "value": "10"
+    },
+    {
+      "name": "Mauritánie",
+      "value": "8"
+    },
+    {
+      "name": "Uruguay",
+      "value": "9"
+    },
+    {
+      "name": "Francie",
+      "value": "1"
+    },
+    {
+      "name": "Mali",
+      "value": "5"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Seřaďtě budovy podle výšky (1 = nejvyšší)",
+  "questions":
+  [
+    {
+      "name": "Kuej-jang Financial Center Tower 1",
+      "value": "10"
+    },
+    {
+      "name": "Al Hamra Tower",
+      "value": "9"
+    },
+    {
+      "name": "Marina 101",
+      "value": "7"
+    },
+    {
+      "name": "CITIC Tower",
+      "value": "1"
+    },
+    {
+      "name": "111 West 57th Street",
+      "value": "6"
+    },
+    {
+      "name": "Landmark 81",
+      "value": "4"
+    },
+    {
+      "name": "Ťin Mao Tower",
+      "value": "8"
+    },
+    {
+      "name": "Lachta Centr",
+      "value": "3"
+    },
+    {
+      "name": "Shanghai World Financial Center",
+      "value": "2"
+    },
+    {
+      "name": "Changsha IFS Tower T1",
+      "value": "5"
+    }
+  ]
+}

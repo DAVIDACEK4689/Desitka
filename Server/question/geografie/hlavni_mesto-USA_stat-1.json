@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Hlavním městem kterého amerického státu je?",
+  "questions":
+  [
+    {
+      "name": "Providence",
+      "value": "Rhode Island"
+    },
+    {
+      "name": "Trenton",
+      "value": "New Jersey"
+    },
+    {
+      "name": "Juneau",
+      "value": "Aljaška"
+    },
+    {
+      "name": "Boston",
+      "value": "Massachusetts"
+    },
+    {
+      "name": "Atlanta",
+      "value": "Georgie"
+    },
+    {
+      "name": "Austin",
+      "value": "Texas"
+    },
+    {
+      "name": "Little Rock",
+      "value": "Arkansas"
+    },
+    {
+      "name": "Salt Lake City",
+      "value": "Utah"
+    },
+    {
+      "name": "Boise",
+      "value": "Idaho"
+    },
+    {
+      "name": "Dover",
+      "value": "Delaware"
+    }
+  ]
+}

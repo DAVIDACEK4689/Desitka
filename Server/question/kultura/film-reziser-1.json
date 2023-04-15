@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Kdo je režisérem tohoto filmu?",
+  "questions":
+  [
+    {
+      "name": "Halloween",
+      "value": "Carpenter"
+    },
+    {
+      "name": "Jak ukrást Venuši",
+      "value": "Wyler"
+    },
+    {
+      "name": "Četa",
+      "value": "Stone"
+    },
+    {
+      "name": "Rozum a cit",
+      "value": "Lee"
+    },
+    {
+      "name": "Hodný, zlý a ošklivý",
+      "value": "Leone"
+    },
+    {
+      "name": "Nesmiřitelní",
+      "value": "Eastwood"
+    },
+    {
+      "name": "Mechanický pomeranč",
+      "value": "Kubrick"
+    },
+    {
+      "name": "Řím",
+      "value": "Fellini"
+    },
+    {
+      "name": "Kmotr",
+      "value": "Coppola"
+    },
+    {
+      "name": "Zelená míle",
+      "value": "Darabont"
+    }
+  ]
+}

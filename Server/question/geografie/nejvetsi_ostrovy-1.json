@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Seřaďte ostrovy podle rozlohy (1 = největší)",
+  "questions":
+  [
+    {
+      "name": "Jižní ostrov (Nový Zéland)",
+      "value": "6"
+    },
+    {
+      "name": "Nová Guinea",
+      "value": "2"
+    },
+    {
+      "name": "Grónsko",
+      "value": "1"
+    },
+    {
+      "name": "Mindanao",
+      "value": "10"
+    },
+    {
+      "name": "Kuba (hlavní ostrov)",
+      "value": "9"
+    },
+    {
+      "name": "Luzon",
+      "value": "8"
+    },
+    {
+      "name": "Borneo",
+      "value": "3"
+    },
+    {
+      "name": "Madagaskar",
+      "value": "4"
+    },
+    {
+      "name": "Baffinův ostrov",
+      "value": "5"
+    },
+    {
+      "name": "Jáva",
+      "value": "7"
+    }
+  ]
+}

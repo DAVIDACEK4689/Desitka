@@ -1,0 +1,47 @@
+{
+  "id": "4",
+  "text": "Seřaďtě budovy podle výšky (1 = nejvyšší)",
+  "questions":
+  [
+    {
+      "name": "Shun Hing Square",
+      "value": "9"
+    },
+    {
+      "name": "Zifeng Tower",
+      "value": "2"
+    },
+    {
+      "name": "China Resources Headquarters",
+      "value": "8"
+    },
+    {
+      "name": "Trump International Hotel and Tower",
+      "value": "6"
+    },
+    {
+      "name": "Suzhou IFS",
+      "value": "3"
+    },
+    {
+      "name": "Wuhan Center",
+      "value": "5"
+    },
+    {
+      "name": "Merdeka 118",
+      "value": "1"
+    },
+    {
+      "name": "The Exchange 106",
+      "value": "4"
+    },
+    {
+      "name": "International Finance Centre",
+      "value": "7"
+    },
+    {
+      "name": "Eton Place Dalian Tower 1",
+      "value": "10"
+    }
+  ]
+}

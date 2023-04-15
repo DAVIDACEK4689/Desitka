@@ -1,0 +1,47 @@
+{
+  "id": "6",
+  "text": "Seřaďte osobnosti podle roku narození (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Albert Einstein",
+      "value": "9"
+    },
+    {
+      "name": "Harry Truman",
+      "value": "10"
+    },
+    {
+      "name": "Stephen Grover Cleveland",
+      "value": "7"
+    },
+    {
+      "name": "James Medison",
+      "value": "4"
+    },
+    {
+      "name": "Benjamin Franklin",
+      "value": "3"
+    },
+    {
+      "name": "Španělský král Filip II.",
+      "value": "2"
+    },
+    {
+      "name": "Platón",
+      "value": "1"
+    },
+    {
+      "name": "Ludwig van Beethoven",
+      "value": "5"
+    },
+    {
+      "name": "Robert E. Lee",
+      "value": "6"
+    },
+    {
+      "name": "Vladimir Iljič Lenin",
+      "value": "8"
+    }
+  ]
+}

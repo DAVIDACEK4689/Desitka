@@ -1,0 +1,47 @@
+{
+  "id": "3",
+  "text": "Seřaďtě budovy podle výšky (1 = nejvyšší)",
+  "questions":
+  [
+    {
+      "name": "Willis Tower",
+      "value": "4"
+    },
+    {
+      "name": "Haeundae LCT The Sharp Landmark Tower",
+      "value": "9"
+    },
+    {
+      "name": "International Commerce Centre",
+      "value": "3"
+    },
+    {
+      "name": "One Vanderbilt",
+      "value": "5"
+    },
+    {
+      "name": "Tung-kuan International Trade Center 1",
+      "value": "6"
+    },
+    {
+      "name": "Lotte World Tower",
+      "value": "1"
+    },
+    {
+      "name": "432 Park Avenue",
+      "value": "7"
+    },
+    {
+      "name": "Princess Tower",
+      "value": "8"
+    },
+    {
+      "name": "Guangzhou CTF Finance Centre",
+      "value": "2"
+    },
+    {
+      "name": "23 Marina",
+      "value": "10"
+    }
+  ]
+}

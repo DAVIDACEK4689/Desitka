@@ -1,0 +1,47 @@
+{
+  "id": "5",
+  "text": "Kdo je režisérem tohoto filmu?",
+  "questions":
+  [
+    {
+      "name": "Silnice",
+      "value": "Fellini"
+    },
+    {
+      "name": "Rivalové",
+      "value": "Howard"
+    },
+    {
+      "name": "Diktátor",
+      "value": "Chaplin"
+    },
+    {
+      "name": "Star Wars: Epizoda IV. – Nová naděje",
+      "value": "Lucas"
+    },
+    {
+      "name": "Pianista",
+      "value": "Polanski"
+    },
+    {
+      "name": "Dokonalý trik",
+      "value": "Nolan"
+    },
+    {
+      "name": "Někdo to rád horké",
+      "value": "Wilder"
+    },
+    {
+      "name": "Trosečník",
+      "value": "Zemeckis"
+    },
+    {
+      "name": "Ben Hur",
+      "value": "Wyler"
+    },
+    {
+      "name": "Vlk z Wall Street",
+      "value": "Scorsese"
+    }
+  ]
+}

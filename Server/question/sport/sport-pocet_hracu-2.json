@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Kolik hráčů je na hřišti při tomto sportu?",
+  "questions":
+  [
+    {
+      "name": "Pozemní hokej",
+      "value": "11"
+    },
+    {
+      "name": "Futsal",
+      "value": "5"
+    },
+    {
+      "name": "Bandy",
+      "value": "11"
+    },
+    {
+      "name": "Házená",
+      "value": "7"
+    },
+    {
+      "name": "Basketbal",
+      "value": "5"
+    },
+    {
+      "name": "Lední hokej",
+      "value": "6"
+    },
+    {
+      "name": "Lakros",
+      "value": "6"
+    },
+    {
+      "name": "Rugby",
+      "value": "15"
+    },
+    {
+      "name": "Americký fotbal",
+      "value": "11"
+    },
+    {
+      "name": "Polní lakros",
+      "value": "10"
+    }
+  ]
+}

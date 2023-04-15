@@ -1,0 +1,47 @@
+{
+  "id": "10",
+  "text": "Seřaďte osobnosti podle roku narození (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Jean-Jacques Rousseau",
+      "value": "4"
+    },
+    {
+      "name": "Otto von Bismarck",
+      "value": "7"
+    },
+    {
+      "name": "Královna Viktorie",
+      "value": "8"
+    },
+    {
+      "name": "Cicero",
+      "value": "1"
+    },
+    {
+      "name": "Mark Twain",
+      "value": "9"
+    },
+    {
+      "name": "Wolfgang Amadeus Mozart",
+      "value": "6"
+    },
+    {
+      "name": "George Washington",
+      "value": "5"
+    },
+    {
+      "name": "Richard Nixon",
+      "value": "10"
+    },
+    {
+      "name": "Wiliam Shakespeare",
+      "value": "3"
+    },
+    {
+      "name": "Čingischán",
+      "value": "2"
+    }
+  ]
+}

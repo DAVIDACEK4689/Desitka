@@ -1,0 +1,47 @@
+{
+  "id": "3",
+  "text": "Který herec je spojen s touto rolí? (celé jméno)",
+  "questions":
+  [
+    {
+      "name": "Jack Sparrow",
+      "value": "Johnny Depp"
+    },
+    {
+      "name": "Tony Manero",
+      "value": "John Travolta"
+    },
+    {
+      "name": "Axel Foley",
+      "value": "Eddie Murphy"
+    },
+    {
+      "name": "Arthur Fonzarelli",
+      "value": "Henry Winkler"
+    },
+    {
+      "name": "Iron Man",
+      "value": "Robert Downey Jr."
+    },
+    {
+      "name": "Rocky Balboa",
+      "value": "Sylvester Stallone"
+    },
+    {
+      "name": "John McClane",
+      "value": "Bruce Willis"
+    },
+    {
+      "name": "Indiana Jones",
+      "value": "Harrison Ford"
+    },
+    {
+      "name": "Tony Montana",
+      "value": "Al Pacino"
+    },
+    {
+      "name": "Kapitán Jean Luc Picard",
+      "value": "Patrick Stewart"
+    }
+  ]
+}

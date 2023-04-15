@@ -1,0 +1,47 @@
+{
+  "id": "17",
+  "text": "Seřaďte události podle roku (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Město Florencie zakazuje karetní hry",
+      "value": "4"
+    },
+    {
+      "name": "Velký požár Říma",
+      "value": "1"
+    },
+    {
+      "name": "Založen Google",
+      "value": "10"
+    },
+    {
+      "name": "Krach na Newyorské burze",
+      "value": "6"
+    },
+    {
+      "name": "Americkým prezidentem zvolen Bill Clinton",
+      "value": "9"
+    },
+    {
+      "name": "Umírá Fridrich I. Barbarossa",
+      "value": "3"
+    },
+    {
+      "name": "Zánik Velkomoravské říše",
+      "value": "2"
+    },
+    {
+      "name": "Němci kapituljí u Stalingradu",
+      "value": "7"
+    },
+    {
+      "name": "V Londýně vypukla morová pandemie",
+      "value": "5"
+    },
+    {
+      "name": "Namíchána první Kofola.",
+      "value": "8"
+    }
+  ]
+}

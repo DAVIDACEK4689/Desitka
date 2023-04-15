@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Seřaďte hory podle nadmořské výšky (1 = nejvyšší)",
+  "questions":
+  [
+    {
+      "name": "Annapurna",
+      "value": "6"
+    },
+    {
+      "name": "Distaghil Sar",
+      "value": "8"
+    },
+    {
+      "name": "Himalčuli",
+      "value": "7"
+    },
+    {
+      "name": "Kančendženga",
+      "value": "2"
+    },
+    {
+      "name": "Dhaulágirí",
+      "value": "5"
+    },
+    {
+      "name": "Ngadi Čuli",
+      "value": "9"
+    },
+    {
+      "name": "Čo Oju",
+      "value": "4"
+    },
+    {
+      "name": "K2",
+      "value": "1"
+    },
+    {
+      "name": "Nandá Déví",
+      "value": "10"
+    },
+    {
+      "name": "Lhoce",
+      "value": "3"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Seřaďte malíře podle roku narození (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Caravaggio",
+      "value": "2"
+    },
+    {
+      "name": "Salvador Dalí",
+      "value": "10"
+    },
+    {
+      "name": "Auguste Renoir",
+      "value": "7"
+    },
+    {
+      "name": "Pablo Picasso",
+      "value": "9"
+    },
+    {
+      "name": "Rembrandt",
+      "value": "4"
+    },
+    {
+      "name": "Vincent van Gogh",
+      "value": "8"
+    },
+    {
+      "name": "Claude Monet",
+      "value": "6"
+    },
+    {
+      "name": "Francisco Goya",
+      "value": "5"
+    },
+    {
+      "name": "Leonardo da Vinci",
+      "value": "1"
+    },
+    {
+      "name": "Diego Velázquez",
+      "value": "3"
+    }
+  ]
+}

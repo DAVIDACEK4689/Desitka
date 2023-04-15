@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Seřaďte seriály podle premiéry (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Dva a půl chlapa",
+      "value": "7"
+    },
+    {
+      "name": "Akta X",
+      "value": "3"
+    },
+    {
+      "name": "Přátelé",
+      "value": "5"
+    },
+    {
+      "name": "Frasier",
+      "value": "4"
+    },
+    {
+      "name": "Stranger Things",
+      "value": "10"
+    },
+    {
+      "name": "Hříšní lidé města pražského",
+      "value": "1"
+    },
+    {
+      "name": "Dexter",
+      "value": "9"
+    },
+    {
+      "name": "Jak jsem poznal vaši matku",
+      "value": "8"
+    },
+    {
+      "name": "Monty Pythonův létající cirkus",
+      "value": "2"
+    },
+    {
+      "name": "Futurama",
+      "value": "6"
+    }
+  ]
+}

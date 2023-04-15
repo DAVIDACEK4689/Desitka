@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Jaká je hlavní alkoholická přísada nápoje?",
+  "questions":
+  [
+    {
+      "name": "Bourbon Old Fashioned",
+      "value": "Whisky"
+    },
+    {
+      "name": "Daiquiri",
+      "value": "Rum"
+    },
+    {
+      "name": "Blackberry Bramble Cocktail",
+      "value": "Gin"
+    },
+    {
+      "name": "Margarita",
+      "value": "Tequila"
+    },
+    {
+      "name": "Cuba libre",
+      "value": "Rum"
+    },
+    {
+      "name": "Mojito",
+      "value": "Rum"
+    },
+    {
+      "name": "Mai Tai",
+      "value": "Rum"
+    },
+    {
+      "name": "French 75",
+      "value": "Gin"
+    },
+    {
+      "name": "Bloody Mary",
+      "value": "Vodka"
+    },
+    {
+      "name": "Irská káva",
+      "value": "Whisky"
+    }
+  ]
+}

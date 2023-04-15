@@ -1,0 +1,47 @@
+{
+  "id": "4",
+  "text": "Kdo je režisérem tohoto filmu?",
+  "questions":
+  [
+    {
+      "name": "Návrat do budoucnosti",
+      "value": "Zemeckis"
+    },
+    {
+      "name": "Psycho",
+      "value": "Hitchcock"
+    },
+    {
+      "name": "Klub rváčů",
+      "value": "Fincher"
+    },
+    {
+      "name": "Gran Torino",
+      "value": "Eastwood"
+    },
+    {
+      "name": "Dvanáct rozhněvaných mužů",
+      "value": "Lumet"
+    },
+    {
+      "name": "Titanic",
+      "value": "Cameron"
+    },
+    {
+      "name": "Muž na Měsíci",
+      "value": "Forman"
+    },
+    {
+      "name": "Pán prstenů: Návrat krále",
+      "value": "Jackson"
+    },
+    {
+      "name": "Pulp Fiction: Historky z podsvětí",
+      "value": "Tarantino"
+    },
+    {
+      "name": "Zachraňte vojína Ryana",
+      "value": "Spielberg"
+    }
+  ]
+}

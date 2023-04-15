@@ -1,0 +1,47 @@
+{
+  "id": "15",
+  "text": "Seřaďte státy podle počtu obyvatel (1 = nejvíce)",
+  "questions":
+  [
+    {
+      "name": "Rusko",
+      "value": "1"
+    },
+    {
+      "name": "Konžská republika",
+      "value": "10"
+    },
+    {
+      "name": "Česko",
+      "value": "7"
+    },
+    {
+      "name": "Sýrie",
+      "value": "4"
+    },
+    {
+      "name": "Zimbabwe",
+      "value": "6"
+    },
+    {
+      "name": "Kambodža",
+      "value": "5"
+    },
+    {
+      "name": "Madagaskar",
+      "value": "2"
+    },
+    {
+      "name": "Izrael",
+      "value": "9"
+    },
+    {
+      "name": "Chile",
+      "value": "3"
+    },
+    {
+      "name": "Papua Nová Guinea",
+      "value": "8"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Jaká je výsledek rovnice?",
+  "questions":
+  [
+    {
+      "name": "5 na pátou",
+      "value": "3125"
+    },
+    {
+      "name": "Sqrt(5)*sqrt(5)+2",
+      "value": "7"
+    },
+    {
+      "name": "(2^3)^3",
+      "value": "512"
+    },
+    {
+      "name": "2+3*4^2",
+      "value": "50"
+    },
+    {
+      "name": "9/6*2",
+      "value": "3"
+    },
+    {
+      "name": "Derivace x^2",
+      "value": "2x"
+    },
+    {
+      "name": "(-3)^3",
+      "value": "-27"
+    },
+    {
+      "name": "Limita x->0 pro sin(x)/x",
+      "value": "1"
+    },
+    {
+      "name": "20% ze 40",
+      "value": "8"
+    },
+    {
+      "name": "(-5)^0",
+      "value": "1"
+    }
+  ]
+}

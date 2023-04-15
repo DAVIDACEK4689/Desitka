@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Seřaďte ostrovy podle rozlohy (1 = největší)",
+  "questions":
+  [
+    {
+      "name": "Velká Británie",
+      "value": "4"
+    },
+    {
+      "name": "Sumatra",
+      "value": "1"
+    },
+    {
+      "name": "Viktoriin ostrov",
+      "value": "3"
+    },
+    {
+      "name": "Ellesmerův ostrov",
+      "value": "5"
+    },
+    {
+      "name": "Severní ostrov (Nový Zéland)",
+      "value": "7"
+    },
+    {
+      "name": "Irsko",
+      "value": "10"
+    },
+    {
+      "name": "Sulawesi (Celebes)",
+      "value": "6"
+    },
+    {
+      "name": "Honšú",
+      "value": "2"
+    },
+    {
+      "name": "Island (hlavní ostrov)",
+      "value": "9"
+    },
+    {
+      "name": "Newfoundland",
+      "value": "8"
+    }
+  ]
+}

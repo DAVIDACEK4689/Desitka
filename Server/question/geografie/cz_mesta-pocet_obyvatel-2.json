@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Seřaďte města podle počtu obyvatel",
+  "questions":
+  [
+    {
+      "name": "Příbram",
+      "value": "6"
+    },
+    {
+      "name": "Prostějov",
+      "value": "3"
+    },
+    {
+      "name": "Frýdek-Místek",
+      "value": "2"
+    },
+    {
+      "name": "Litoměřice",
+      "value": "10"
+    },
+    {
+      "name": "Havířov",
+      "value": "1"
+    },
+    {
+      "name": "Orlová",
+      "value": "7"
+    },
+    {
+      "name": "Přerov",
+      "value": "4"
+    },
+    {
+      "name": "Vsetín",
+      "value": "8"
+    },
+    {
+      "name": "Česká Lípa",
+      "value": "5"
+    },
+    {
+      "name": "Šumperk",
+      "value": "9"
+    }
+  ]
+}

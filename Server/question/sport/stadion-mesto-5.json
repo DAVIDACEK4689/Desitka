@@ -1,0 +1,47 @@
+{
+  "id": "5",
+  "text": "V jakém městě najdeme tento stadion?",
+  "questions":
+  [
+    {
+      "name": "Stadion krále Baudouina",
+      "value": "Brusel"
+    },
+    {
+      "name": "Ibrox Stadium",
+      "value": "Glasgow"
+    },
+    {
+      "name": "Stadion Crvena Zvezda",
+      "value": "Bělehrad"
+    },
+    {
+      "name": "Etihad Stadium",
+      "value": "Manchester"
+    },
+    {
+      "name": "Stadion Narodowy",
+      "value": "Varšava"
+    },
+    {
+      "name": "Stade Gerland",
+      "value": "Lyon"
+    },
+    {
+      "name": "Estadio Benito Villamarín",
+      "value": "Sevilla"
+    },
+    {
+      "name": "Lužniki",
+      "value": "Moskva"
+    },
+    {
+      "name": "Millennium Stadium",
+      "value": "Cardiff"
+    },
+    {
+      "name": "Estadio Santiago Bernabéu",
+      "value": "Madrid"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Seřaďtě filmy podle výdělku (1 = nejvýdělečnější)",
+  "questions":
+  [
+    {
+      "name": "Hobit: Neočekávaná cesta",
+      "value": "9"
+    },
+    {
+      "name": "Avengers",
+      "value": "3"
+    },
+    {
+      "name": "Alenka v říši divů",
+      "value": "8"
+    },
+    {
+      "name": "Titanic",
+      "value": "2"
+    },
+    {
+      "name": "Toy Story 3: Příběh hraček",
+      "value": "7"
+    },
+    {
+      "name": "Temný rytíř",
+      "value": "10"
+    },
+    {
+      "name": "Joker",
+      "value": "5"
+    },
+    {
+      "name": "Transformers 3",
+      "value": "4"
+    },
+    {
+      "name": "Avengers: Endgame",
+      "value": "1"
+    },
+    {
+      "name": "Toy Story 4: Příběh hraček",
+      "value": "6"
+    }
+  ]
+}

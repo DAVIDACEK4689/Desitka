@@ -1,0 +1,47 @@
+{
+  "id": "12",
+  "text": "Seřaďte státy podle počtu obyvatel (1 = nejvíce)",
+  "questions":
+  [
+    {
+      "name": "Čína",
+      "value": "1"
+    },
+    {
+      "name": "Afghánistán",
+      "value": "2"
+    },
+    {
+      "name": "Island",
+      "value": "10"
+    },
+    {
+      "name": "Chorvatsko",
+      "value": "6"
+    },
+    {
+      "name": "Jamajka",
+      "value": "7"
+    },
+    {
+      "name": "Jižní Súdán",
+      "value": "3"
+    },
+    {
+      "name": "Kostarika",
+      "value": "5"
+    },
+    {
+      "name": "Severní Makedonie",
+      "value": "8"
+    },
+    {
+      "name": "Estonsko",
+      "value": "9"
+    },
+    {
+      "name": "Togo",
+      "value": "4"
+    }
+  ]
+}

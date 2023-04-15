@@ -1,0 +1,47 @@
+{
+  "id": "4",
+  "text": "Který herec je spojen s touto rolí? (celé jméno)",
+  "questions":
+  [
+    {
+      "name": "Mr. Bean",
+      "value": "Rowan Atkinson"
+    },
+    {
+      "name": "The Joker",
+      "value": "Heath Ledger"
+    },
+    {
+      "name": "Dr. Sean Maguire",
+      "value": "Robin Williams"
+    },
+    {
+      "name": "Han Solo",
+      "value": "Harrison Ford"
+    },
+    {
+      "name": "Vivian Ward",
+      "value": "Julia Roberts"
+    },
+    {
+      "name": "Mitch Buchannon",
+      "value": "David Hasselhoff"
+    },
+    {
+      "name": "Cordell Walker",
+      "value": "Chuck Norris"
+    },
+    {
+      "name": "Dr. Gregory House",
+      "value": "Hugh Laurie"
+    },
+    {
+      "name": "Luke Skywalker",
+      "value": "Mark Hamill"
+    },
+    {
+      "name": "Hannibal Lecter",
+      "value": "Anthony Hopkins"
+    }
+  ]
+}

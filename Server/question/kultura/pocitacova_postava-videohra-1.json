@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "V jaké herní sérii vystupuje tato postava?",
+  "questions":
+  [
+    {
+      "name": "Geralt z Rivie",
+      "value": "Zaklínač"
+    },
+    {
+      "name": "Duke Nukem",
+      "value": "Duke Nukem"
+    },
+    {
+      "name": "Hitman",
+      "value": "Hitman"
+    },
+    {
+      "name": "Nathan Drake",
+      "value": "Uncharted"
+    },
+    {
+      "name": "Solid Snake",
+      "value": "Metal Gear Solid"
+    },
+    {
+      "name": "B.J. Blazkowicz",
+      "value": "Wolfenstein"
+    },
+    {
+      "name": "Gordon Freeman",
+      "value": "Half-Life"
+    },
+    {
+      "name": "Marcus Fénix",
+      "value": "Gears of War"
+    },
+    {
+      "name": "John Marston",
+      "value": "Red Dead Redemption"
+    },
+    {
+      "name": "Kratos",
+      "value": "God of War"
+    }
+  ]
+}

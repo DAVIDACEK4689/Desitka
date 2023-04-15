@@ -1,0 +1,47 @@
+{
+  "id": "10",
+  "text": "Seřaďte události podle roku (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Neúspěšný vpád arabského vojska na území Palestiny",
+      "value": "3"
+    },
+    {
+      "name": "Vražda Jána Kuciaka",
+      "value": "10"
+    },
+    {
+      "name": "Pokusný let helikoptérou",
+      "value": "9"
+    },
+    {
+      "name": "Bitva u Domažlic",
+      "value": "5"
+    },
+    {
+      "name": "Edikt milánský",
+      "value": "2"
+    },
+    {
+      "name": "Bitva u Hradce Králové",
+      "value": "6"
+    },
+    {
+      "name": "Vznik Trojspolku",
+      "value": "7"
+    },
+    {
+      "name": "Bitva u Thermopyl",
+      "value": "1"
+    },
+    {
+      "name": "První pražská defenestrace",
+      "value": "4"
+    },
+    {
+      "name": "Dieselový motor",
+      "value": "8"
+    }
+  ]
+}

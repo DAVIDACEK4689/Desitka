@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Seřaďte události 60.let minulého století (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Sovětský svaz vyslal prvního člověka do vesmíru",
+      "value": "1"
+    },
+    {
+      "name": "Atentát na Johna Fitzgeralda Kennedyho",
+      "value": "4"
+    },
+    {
+      "name": "Karibská krize",
+      "value": "3"
+    },
+    {
+      "name": "Upálil se Jan Palach",
+      "value": "9"
+    },
+    {
+      "name": "Šestidenní válka",
+      "value": "6"
+    },
+    {
+      "name": "První přistání na Měsíci - Apollo 11",
+      "value": "10"
+    },
+    {
+      "name": "Zastřelen Martin Luther King",
+      "value": "8"
+    },
+    {
+      "name": "Zahájena stavba Berlínské zdi",
+      "value": "2"
+    },
+    {
+      "name": "Československá televize poprvé vysílala Večerníček",
+      "value": "5"
+    },
+    {
+      "name": "První úspěšná transplantace srdce",
+      "value": "7"
+    }
+  ]
+}

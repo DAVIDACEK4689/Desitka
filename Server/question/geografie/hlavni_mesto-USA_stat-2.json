@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Hlavním městem kterého amerického státu je?",
+  "questions":
+  [
+    {
+      "name": "Topeka",
+      "value": "Kansas"
+    },
+    {
+      "name": "Des Moines",
+      "value": "Iowa"
+    },
+    {
+      "name": "Baton Rouge",
+      "value": "Louisiana"
+    },
+    {
+      "name": "Bismarck",
+      "value": "Severní Dakota"
+    },
+    {
+      "name": "Jefferson City",
+      "value": "Missouri"
+    },
+    {
+      "name": "Concord",
+      "value": "New Hampshire"
+    },
+    {
+      "name": "Pierre",
+      "value": "Jižní Dakota"
+    },
+    {
+      "name": "Santa Fe",
+      "value": "Nové Mexiko"
+    },
+    {
+      "name": "Salem",
+      "value": "Oregon"
+    },
+    {
+      "name": "Jackson",
+      "value": "Mississippi"
+    }
+  ]
+}

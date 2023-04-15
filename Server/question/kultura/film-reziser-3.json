@@ -1,0 +1,47 @@
+{
+  "id": "3",
+  "text": "Kdo je režisérem tohoto filmu?",
+  "questions":
+  [
+    {
+      "name": "Sladký život",
+      "value": "Fellini"
+    },
+    {
+      "name": "Čínská čtvrť",
+      "value": "Polanski"
+    },
+    {
+      "name": "Gladiátor",
+      "value": "Scott"
+    },
+    {
+      "name": "Temný rytíř",
+      "value": "Nolan"
+    },
+    {
+      "name": "Lid versus Larry Flynt",
+      "value": "Forman"
+    },
+    {
+      "name": "Apollo 13",
+      "value": "Howard"
+    },
+    {
+      "name": "Vítězové a poražení",
+      "value": "Stone"
+    },
+    {
+      "name": "Dannyho parťáci",
+      "value": "Soderbergh"
+    },
+    {
+      "name": "Vesmírná odysea",
+      "value": "Kubrick"
+    },
+    {
+      "name": "Forrest Gump",
+      "value": "Zemeckis"
+    }
+  ]
+}

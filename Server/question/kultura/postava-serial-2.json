@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Ze kterého seriálu známe tuto postavu?",
+  "questions":
+  [
+    {
+      "name": "Kelly Taylor",
+      "value": "Beverly Hills 90210"
+    },
+    {
+      "name": "Damon Salvatore",
+      "value": "Upíří deníky"
+    },
+    {
+      "name": "Ted Mosby",
+      "value": "Jak jsem poznal vaši matku"
+    },
+    {
+      "name": "Ned Flenders",
+      "value": "Simpsonovi"
+    },
+    {
+      "name": "Dr. Meredith Grey",
+      "value": "Chirurgové"
+    },
+    {
+      "name": "Bree Van de Kamp",
+      "value": "Zoufalé manželky"
+    },
+    {
+      "name": "Sheldon Cooper",
+      "value": "Teorie velkého třesku"
+    },
+    {
+      "name": "Van Der Woodsen",
+      "value": "Super drbna"
+    },
+    {
+      "name": "Eleven",
+      "value": "Stranger Things"
+    },
+    {
+      "name": "Rick Grimes",
+      "value": "Živí mrtví"
+    }
+  ]
+}

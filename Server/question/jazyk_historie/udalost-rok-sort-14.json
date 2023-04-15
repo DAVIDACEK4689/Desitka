@@ -1,0 +1,47 @@
+{
+  "id": "14",
+  "text": "Seřaďte události podle roku (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Československo vyhrálo mistrovství Evropy",
+      "value": "10"
+    },
+    {
+      "name": "Belgická revoluce",
+      "value": "4"
+    },
+    {
+      "name": "Otevřena Eiffelova věž",
+      "value": "5"
+    },
+    {
+      "name": "Bolevecká katastrofa",
+      "value": "7"
+    },
+    {
+      "name": "Bitva v Teutoburském lese",
+      "value": "1"
+    },
+    {
+      "name": "Rentgenové záření",
+      "value": "6"
+    },
+    {
+      "name": "Vyhlášena Monroeova doktrína",
+      "value": "3"
+    },
+    {
+      "name": "Karibská krize",
+      "value": "9"
+    },
+    {
+      "name": "Bitva u Waterloo",
+      "value": "2"
+    },
+    {
+      "name": "Winston Churchill ve Fultonském projevu poprvé použil termín železná opona",
+      "value": "8"
+    }
+  ]
+}

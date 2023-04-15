@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Seřaďte státy USA podle rozlohy (1 = největší)",
+  "questions":
+  [
+    {
+      "name": "Západní Virginie",
+      "value": "9"
+    },
+    {
+      "name": "Nebraska",
+      "value": "5"
+    },
+    {
+      "name": "Tennessee",
+      "value": "7"
+    },
+    {
+      "name": "Jižní Karolína",
+      "value": "8"
+    },
+    {
+      "name": "Oregon",
+      "value": "2"
+    },
+    {
+      "name": "Wyoming",
+      "value": "3"
+    },
+    {
+      "name": "Kansas",
+      "value": "4"
+    },
+    {
+      "name": "Massachusetts",
+      "value": "10"
+    },
+    {
+      "name": "Kalifornie",
+      "value": "1"
+    },
+    {
+      "name": "Georgie",
+      "value": "6"
+    }
+  ]
+}

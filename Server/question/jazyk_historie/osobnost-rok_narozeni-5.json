@@ -1,0 +1,47 @@
+{
+  "id": "5",
+  "text": "Seřaďte osobnosti podle roku narození (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Ivan IV. Hrozný",
+      "value": "3"
+    },
+    {
+      "name": "Ronald Reagan",
+      "value": "10"
+    },
+    {
+      "name": "Charles Dickens",
+      "value": "7"
+    },
+    {
+      "name": "Galileo Galilei",
+      "value": "4"
+    },
+    {
+      "name": "Alexandr Veliký",
+      "value": "1"
+    },
+    {
+      "name": "Oliver Cromwell",
+      "value": "5"
+    },
+    {
+      "name": "Alexander Hamilton",
+      "value": "6"
+    },
+    {
+      "name": "Adolf Hitler",
+      "value": "9"
+    },
+    {
+      "name": "Julius Caesar",
+      "value": "2"
+    },
+    {
+      "name": "Nikola Tesla",
+      "value": "8"
+    }
+  ]
+}

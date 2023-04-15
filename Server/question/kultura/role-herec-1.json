@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Který herec je spojen s touto rolí? (celé jméno)",
+  "questions":
+  [
+    {
+      "name": "Neo",
+      "value": "Keanu Reeves"
+    },
+    {
+      "name": "Harry Callahan",
+      "value": "Clint Eastwood"
+    },
+    {
+      "name": "Harry Potter",
+      "value": "Daniel Redcliffe"
+    },
+    {
+      "name": "Thomas Magnum",
+      "value": "Tom Selleck"
+    },
+    {
+      "name": "Arthur Fleck",
+      "value": "Joaquin Phoenix"
+    },
+    {
+      "name": "Travis Bickle",
+      "value": "Robert De Niro"
+    },
+    {
+      "name": "Lisa Rowe",
+      "value": "Angelina Jolie"
+    },
+    {
+      "name": "Peter Venkman",
+      "value": "Bill Murray"
+    },
+    {
+      "name": "Terminátor",
+      "value": "Arnold Schwarzenegger"
+    },
+    {
+      "name": "Tyrion Lannister",
+      "value": "Peter Dinklage"
+    }
+  ]
+}

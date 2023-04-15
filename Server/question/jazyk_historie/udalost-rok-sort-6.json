@@ -1,0 +1,47 @@
+{
+  "id": "6",
+  "text": "Seřaďte události podle roku (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Pochod na Řím",
+      "value": "7"
+    },
+    {
+      "name": "Ludvík IX. přesunul svůj dvůr do Versailles",
+      "value": "1"
+    },
+    {
+      "name": "Varšavská smlouva",
+      "value": "8"
+    },
+    {
+      "name": "Začína občanska válka v Americe",
+      "value": "5"
+    },
+    {
+      "name": "Hladomor v českých zemích, epidemie moru v Moskvě",
+      "value": "4"
+    },
+    {
+      "name": "Zimbabwe získalo nezávislost",
+      "value": "9"
+    },
+    {
+      "name": "Fonograf",
+      "value": "6"
+    },
+    {
+      "name": "Začíná válka o polské následovnictví",
+      "value": "3"
+    },
+    {
+      "name": "Začíná devítiletá válka",
+      "value": "2"
+    },
+    {
+      "name": "Nelson Mandela zvolen prezidentem JAR",
+      "value": "10"
+    }
+  ]
+}

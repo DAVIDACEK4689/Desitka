@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Seřaďte osobnosti podle roku narození (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Francis Bacon",
+      "value": "6"
+    },
+    {
+      "name": "Aristoteles",
+      "value": "1"
+    },
+    {
+      "name": "Winston Churchill",
+      "value": "10"
+    },
+    {
+      "name": "Kryštof Kolumbus",
+      "value": "4"
+    },
+    {
+      "name": "Petr Iljič Čajkovskij",
+      "value": "9"
+    },
+    {
+      "name": "Carl Linné",
+      "value": "7"
+    },
+    {
+      "name": "Svatý Augustin",
+      "value": "2"
+    },
+    {
+      "name": "Fridrich I. Barbarossa",
+      "value": "3"
+    },
+    {
+      "name": "Martin Luther",
+      "value": "5"
+    },
+    {
+      "name": "Richard Wagner",
+      "value": "8"
+    }
+  ]
+}

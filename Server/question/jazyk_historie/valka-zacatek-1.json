@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Seřaďte války podle roku propuknutí (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Válka (občanská) Severu proti Jihu v USA",
+      "value": "6"
+    },
+    {
+      "name": "Genocida v Rwandě",
+      "value": "10"
+    },
+    {
+      "name": "1. křížová výprava",
+      "value": "3"
+    },
+    {
+      "name": "3. punská válka",
+      "value": "2"
+    },
+    {
+      "name": "Řecká osvobozenecká válka",
+      "value": "4"
+    },
+    {
+      "name": "Anglo-burská válka",
+      "value": "7"
+    },
+    {
+      "name": "Španělská občanská válka",
+      "value": "9"
+    },
+    {
+      "name": "Války s Pyrrhem",
+      "value": "1"
+    },
+    {
+      "name": "1. válka za sjednocení Itálie",
+      "value": "5"
+    },
+    {
+      "name": "Válka za nezávislost Kréty",
+      "value": "8"
+    }
+  ]
+}

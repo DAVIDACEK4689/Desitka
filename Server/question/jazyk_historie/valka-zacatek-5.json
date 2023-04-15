@@ -1,0 +1,47 @@
+{
+  "id": "5",
+  "text": "Seřaďte války podle roku propuknutí (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Války galské-Caesarovo tažení v Galii",
+      "value": "3"
+    },
+    {
+      "name": "Černá válka",
+      "value": "7"
+    },
+    {
+      "name": "Pequotská válka",
+      "value": "5"
+    },
+    {
+      "name": "Válka o Gran Chaco",
+      "value": "10"
+    },
+    {
+      "name": "Řecko-perské války",
+      "value": "1"
+    },
+    {
+      "name": "Belgická válka za nezávislost",
+      "value": "9"
+    },
+    {
+      "name": "1. punská válka",
+      "value": "2"
+    },
+    {
+      "name": "Válka o španělské dědictví",
+      "value": "6"
+    },
+    {
+      "name": "Stoletá válka",
+      "value": "4"
+    },
+    {
+      "name": "Pandžábská válka",
+      "value": "8"
+    }
+  ]
+}

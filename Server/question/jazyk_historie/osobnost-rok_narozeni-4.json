@@ -1,0 +1,47 @@
+{
+  "id": "4",
+  "text": "Seřaďte osobnosti podle roku narození (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Královna Elizabeth I.",
+      "value": "5"
+    },
+    {
+      "name": "Johann Wolfgang von Goethe",
+      "value": "8"
+    },
+    {
+      "name": "Ludvík XVI.",
+      "value": "9"
+    },
+    {
+      "name": "Jakub I. Stuart",
+      "value": "6"
+    },
+    {
+      "name": "Atilla Bič Boží",
+      "value": "3"
+    },
+    {
+      "name": "Thomas Edison",
+      "value": "10"
+    },
+    {
+      "name": "Mohamed",
+      "value": "4"
+    },
+    {
+      "name": "Augustus, Gaius Octavius",
+      "value": "2"
+    },
+    {
+      "name": "James Cook",
+      "value": "7"
+    },
+    {
+      "name": "Sokrates",
+      "value": "1"
+    }
+  ]
+}

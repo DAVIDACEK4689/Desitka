@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Seřaďte skladatele podle roku narození (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Wolfgang Amadeus Mozart",
+      "value": "4"
+    },
+    {
+      "name": "Ludwig van Beethoven",
+      "value": "5"
+    },
+    {
+      "name": "Giovanni Pierluigi da Palestrina",
+      "value": "1"
+    },
+    {
+      "name": "Franz Schubert",
+      "value": "6"
+    },
+    {
+      "name": "Richard Strauss",
+      "value": "8"
+    },
+    {
+      "name": "Georg Philipp Telemann",
+      "value": "2"
+    },
+    {
+      "name": "Joseph Haydn",
+      "value": "3"
+    },
+    {
+      "name": "Sergei S. Prokofiew",
+      "value": "9"
+    },
+    {
+      "name": "Dmitrij Šostakovič",
+      "value": "10"
+    },
+    {
+      "name": "Petr Iljič Čajkovskij",
+      "value": "7"
+    }
+  ]
+}

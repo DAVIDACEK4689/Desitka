@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Kolik hráčů je na hřišti při tomto sportu?",
+  "questions":
+  [
+    {
+      "name": "Kriket",
+      "value": "11"
+    },
+    {
+      "name": "Kabaddi",
+      "value": "7"
+    },
+    {
+      "name": "Box lakros",
+      "value": "6"
+    },
+    {
+      "name": "Dámský Lakros",
+      "value": "12"
+    },
+    {
+      "name": "Kanadský fotbal",
+      "value": "12"
+    },
+    {
+      "name": "Florbal",
+      "value": "6"
+    },
+    {
+      "name": "Softball",
+      "value": "9"
+    },
+    {
+      "name": "Ultimate Frisbee",
+      "value": "7"
+    },
+    {
+      "name": "Fotbal",
+      "value": "11"
+    },
+    {
+      "name": "Baseball",
+      "value": "9"
+    }
+  ]
+}

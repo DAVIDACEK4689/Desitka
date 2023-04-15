@@ -1,0 +1,47 @@
+{
+  "id": "10",
+  "text": "Seřaďte státy podle počtu obyvatel (1 = nejvíce)",
+  "questions":
+  [
+    {
+      "name": "Alžírsko",
+      "value": "3"
+    },
+    {
+      "name": "Kyrgyzstán",
+      "value": "7"
+    },
+    {
+      "name": "Bělorusko",
+      "value": "6"
+    },
+    {
+      "name": "Guyana",
+      "value": "10"
+    },
+    {
+      "name": "Čad",
+      "value": "4"
+    },
+    {
+      "name": "Turkmenistán",
+      "value": "8"
+    },
+    {
+      "name": "Německo",
+      "value": "2"
+    },
+    {
+      "name": "Portugalsko",
+      "value": "5"
+    },
+    {
+      "name": "Lotyšsko",
+      "value": "9"
+    },
+    {
+      "name": "Mexiko",
+      "value": "1"
+    }
+  ]
+}

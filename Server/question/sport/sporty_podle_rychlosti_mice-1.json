@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Seřaďte tyto sporty podle rychlosti, které dosáhne míček (1 = nejrychlejší)?",
+  "questions":
+  [
+    {
+      "name": "Golf",
+      "value": "9"
+    },
+    {
+      "name": "Kriket",
+      "value": "2"
+    },
+    {
+      "name": "Kriket",
+      "value": "3"
+    },
+    {
+      "name": "Fotbal",
+      "value": "5"
+    },
+    {
+      "name": "Tenis (muži)",
+      "value": "8"
+    },
+    {
+      "name": "Volejbal",
+      "value": "1"
+    },
+    {
+      "name": "Tenis (ženy)",
+      "value": "6"
+    },
+    {
+      "name": "Stolní tenis",
+      "value": "4"
+    },
+    {
+      "name": "Squash",
+      "value": "7"
+    },
+    {
+      "name": "Pelota",
+      "value": "10"
+    }
+  ]
+}

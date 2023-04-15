@@ -1,0 +1,47 @@
+{
+  "id": "3",
+  "text": "Hlavním městem kterého amerického státu je?",
+  "questions":
+  [
+    {
+      "name": "Springfield",
+      "value": "Illinois"
+    },
+    {
+      "name": "Columbia",
+      "value": "Jižní Karolína"
+    },
+    {
+      "name": "Augusta",
+      "value": "Maine"
+    },
+    {
+      "name": "Columbus",
+      "value": "Ohio"
+    },
+    {
+      "name": "Richmond",
+      "value": "Virginie"
+    },
+    {
+      "name": "Honolulu",
+      "value": "Havaj"
+    },
+    {
+      "name": "Phoenix",
+      "value": "Arizona"
+    },
+    {
+      "name": "Oklahoma City",
+      "value": "Oklahoma"
+    },
+    {
+      "name": "Denver",
+      "value": "Colorado"
+    },
+    {
+      "name": "Olympia",
+      "value": "Washington"
+    }
+  ]
+}

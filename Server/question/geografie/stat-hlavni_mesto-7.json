@@ -1,0 +1,47 @@
+{
+  "id": "7",
+  "text": "Jaké je hlavní město?",
+  "questions":
+  [
+    {
+      "name": "Turecko",
+      "value": "Ankara"
+    },
+    {
+      "name": "Saúdská Arábie",
+      "value": "Rijád"
+    },
+    {
+      "name": "Finsko",
+      "value": "Helsinky"
+    },
+    {
+      "name": "Irsko",
+      "value": "Dublin"
+    },
+    {
+      "name": "Srbsko",
+      "value": "Bělehrad"
+    },
+    {
+      "name": "Burkina Faso",
+      "value": "Ouagadougou"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "value": "Bissau"
+    },
+    {
+      "name": "Mikronésie",
+      "value": "Palikir"
+    },
+    {
+      "name": "Nauru",
+      "value": "Yaren"
+    },
+    {
+      "name": "Burundi",
+      "value": "Gitega"
+    }
+  ]
+}

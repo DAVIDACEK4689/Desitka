@@ -1,0 +1,47 @@
+{
+  "id": "3",
+  "text": "Seřaďte prvky podle hustoty (1 = nejmneší)",
+  "questions":
+  [
+    {
+      "name": "Křemen",
+      "value": "8"
+    },
+    {
+      "name": "Sůl kuchyňská",
+      "value": "4"
+    },
+    {
+      "name": "Kaolín",
+      "value": "5"
+    },
+    {
+      "name": "Klíh",
+      "value": "1"
+    },
+    {
+      "name": "Uhlík",
+      "value": "6"
+    },
+    {
+      "name": "Měď",
+      "value": "10"
+    },
+    {
+      "name": "Křemík",
+      "value": "7"
+    },
+    {
+      "name": "Bakelit",
+      "value": "2"
+    },
+    {
+      "name": "Celuloid",
+      "value": "3"
+    },
+    {
+      "name": "Čedič",
+      "value": "9"
+    }
+  ]
+}

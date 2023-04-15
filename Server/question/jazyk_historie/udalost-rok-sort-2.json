@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Seřaďte události podle roku (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Založeno Pruské království",
+      "value": "3"
+    },
+    {
+      "name": "Gilotina",
+      "value": "4"
+    },
+    {
+      "name": "Umírá Karel Gott",
+      "value": "10"
+    },
+    {
+      "name": "Začíná válka o Falklandy",
+      "value": "8"
+    },
+    {
+      "name": "Druhé slavnostní otevření Národního divadla",
+      "value": "7"
+    },
+    {
+      "name": "Leopold Sulovský jako první Čech vystoupil na Mount Everest",
+      "value": "9"
+    },
+    {
+      "name": "Přemysl Otakar I. obdržel Zlatou bulu sicilskou",
+      "value": "2"
+    },
+    {
+      "name": "Rotační elektromotor",
+      "value": "6"
+    },
+    {
+      "name": "Napoleon poražen v bitvě u Lipska",
+      "value": "5"
+    },
+    {
+      "name": "Římané se stahují z Britských ostrovů",
+      "value": "1"
+    }
+  ]
+}

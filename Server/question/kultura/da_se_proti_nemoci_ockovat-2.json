@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Dá se proti této nemoci očkovat?",
+  "questions":
+  [
+    {
+      "name": "Černý kašel",
+      "value": "ANO"
+    },
+    {
+      "name": "Meniérova choroba",
+      "value": "NE"
+    },
+    {
+      "name": "AIDS",
+      "value": "NE"
+    },
+    {
+      "name": "Dětská mozková obrna",
+      "value": "ANO"
+    },
+    {
+      "name": "Perikarditida",
+      "value": "NE"
+    },
+    {
+      "name": "Atopický ekzém",
+      "value": "NE"
+    },
+    {
+      "name": "Intoxikace",
+      "value": "NE"
+    },
+    {
+      "name": "COVID-19",
+      "value": "ANO"
+    },
+    {
+      "name": "Ebola",
+      "value": "NE"
+    },
+    {
+      "name": "Hypertyreóza",
+      "value": "NE"
+    }
+  ]
+}

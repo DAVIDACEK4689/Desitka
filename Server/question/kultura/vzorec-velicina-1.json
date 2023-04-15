@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Jaká veličina se spočítá pomocí tohoto vzorce?",
+  "questions":
+  [
+    {
+      "name": "M/v",
+      "value": "Hybnost"
+    },
+    {
+      "name": "W/t",
+      "value": "Výkon"
+    },
+    {
+      "name": "1/f",
+      "value": "Perioda"
+    },
+    {
+      "name": "I*R",
+      "value": "Napětí"
+    },
+    {
+      "name": "M*g*h",
+      "value": "Energie"
+    },
+    {
+      "name": "F*S",
+      "value": "Práce"
+    },
+    {
+      "name": "V/t",
+      "value": "Zrychlení"
+    },
+    {
+      "name": "F/S",
+      "value": "Tlak"
+    },
+    {
+      "name": "M/V",
+      "value": "Hustota"
+    },
+    {
+      "name": "V*t",
+      "value": "Dráha"
+    }
+  ]
+}

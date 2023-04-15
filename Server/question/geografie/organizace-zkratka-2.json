@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Jakou zkratku má tato organizace?",
+  "questions":
+  [
+    {
+      "name": "Evropská organizace pro bezpečnost letového provozu",
+      "value": "Eurocontrol"
+    },
+    {
+      "name": "Organizace amerických států",
+      "value": "OAS"
+    },
+    {
+      "name": "Jihoafrické společenství pro rozvoj",
+      "value": "SADC"
+    },
+    {
+      "name": "Asijsko-tichomořská hospodářská spolupráce",
+      "value": "APEC"
+    },
+    {
+      "name": "Organizace OSN pro výživu a zemědělství",
+      "value": "FAO"
+    },
+    {
+      "name": "Mezinárodní hnutí Červeného kříže a Červeného půlměsíce",
+      "value": "ICRC"
+    },
+    {
+      "name": "Organizace pro bezpečnost a spolupráci v Evropě",
+      "value": "OSCE"
+    },
+    {
+      "name": "Rada Evropy",
+      "value": "CoE"
+    },
+    {
+      "name": "Mezinárodní měnový fond",
+      "value": "MMF"
+    },
+    {
+      "name": "Mezinárodní organizace práce",
+      "value": "ILO"
+    }
+  ]
+}

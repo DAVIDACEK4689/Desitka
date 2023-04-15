@@ -1,0 +1,47 @@
+{
+  "id": "4",
+  "text": "Jakou poznávací značku má?",
+  "questions":
+  [
+    {
+      "name": "Sýrie",
+      "value": "SYR"
+    },
+    {
+      "name": "Guinea",
+      "value": "RG"
+    },
+    {
+      "name": "Rumunsko",
+      "value": "RO"
+    },
+    {
+      "name": "Súdán",
+      "value": "SUD"
+    },
+    {
+      "name": "Svatá Lucie",
+      "value": "WL"
+    },
+    {
+      "name": "Francie",
+      "value": "F"
+    },
+    {
+      "name": "Dominikánská republika",
+      "value": "DOM"
+    },
+    {
+      "name": "Švýcarsko",
+      "value": "CH"
+    },
+    {
+      "name": "Mexiko",
+      "value": "MEX"
+    },
+    {
+      "name": "Uzbekistán",
+      "value": "UZ"
+    }
+  ]
+}

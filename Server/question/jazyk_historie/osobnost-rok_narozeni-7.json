@@ -1,0 +1,47 @@
+{
+  "id": "7",
+  "text": "Seřaďte osobnosti podle roku narození (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Jana z Arku",
+      "value": "2"
+    },
+    {
+      "name": "Jan Kalvín",
+      "value": "4"
+    },
+    {
+      "name": "George W. Bush",
+      "value": "10"
+    },
+    {
+      "name": "Karel Veliký",
+      "value": "1"
+    },
+    {
+      "name": "John Adams",
+      "value": "7"
+    },
+    {
+      "name": "René Descartes",
+      "value": "5"
+    },
+    {
+      "name": "Friedrich Nietzsche",
+      "value": "8"
+    },
+    {
+      "name": "Leonardo da Vinci",
+      "value": "3"
+    },
+    {
+      "name": "Vincent van Gogh",
+      "value": "9"
+    },
+    {
+      "name": "Adam Smith",
+      "value": "6"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "22",
+  "text": "Seřaďte události podle roku (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Velká Británie opouští EU",
+      "value": "10"
+    },
+    {
+      "name": "USA kupují od Ruska Aljašku",
+      "value": "5"
+    },
+    {
+      "name": "Zánik Svaté říše římské",
+      "value": "4"
+    },
+    {
+      "name": "Plnící pero",
+      "value": "6"
+    },
+    {
+      "name": "Jomkipurská válka",
+      "value": "8"
+    },
+    {
+      "name": "Bitva na Bílé hoře",
+      "value": "1"
+    },
+    {
+      "name": "Bitva v Kurském oblouku",
+      "value": "7"
+    },
+    {
+      "name": "V Praze byla zahájena expedice Tatra kolem světa",
+      "value": "9"
+    },
+    {
+      "name": "Uzavřen Karlovický mír",
+      "value": "2"
+    },
+    {
+      "name": "Začínají války o dědictví španělské",
+      "value": "3"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "6",
+  "text": "Seřaďte města od nejvýchodnějšího k nejzápadnějšímu (nejvýchodnější = 1)",
+  "questions":
+  [
+    {
+      "name": "Kapské Město",
+      "value": "8"
+    },
+    {
+      "name": "Lima",
+      "value": "1"
+    },
+    {
+      "name": "Dublin",
+      "value": "3"
+    },
+    {
+      "name": "Londýn",
+      "value": "5"
+    },
+    {
+      "name": "Bogotá",
+      "value": "2"
+    },
+    {
+      "name": "Helsinky",
+      "value": "9"
+    },
+    {
+      "name": "Milán",
+      "value": "6"
+    },
+    {
+      "name": "Neapol",
+      "value": "7"
+    },
+    {
+      "name": "Glasgow",
+      "value": "4"
+    },
+    {
+      "name": "Perth",
+      "value": "10"
+    }
+  ]
+}

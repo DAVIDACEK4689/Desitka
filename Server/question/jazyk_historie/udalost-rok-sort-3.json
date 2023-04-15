@@ -1,0 +1,47 @@
+{
+  "id": "3",
+  "text": "Seřaďte události podle roku (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Zrušení nevolnictví v Rusku",
+      "value": "5"
+    },
+    {
+      "name": "Brumairový převrat",
+      "value": "3"
+    },
+    {
+      "name": "Havárie elektrárny Fukušima",
+      "value": "9"
+    },
+    {
+      "name": "Toleranční patent",
+      "value": "2"
+    },
+    {
+      "name": "Červencová revoluce",
+      "value": "4"
+    },
+    {
+      "name": "Začíná válka o dědictví bavorské",
+      "value": "1"
+    },
+    {
+      "name": "Komunistický převrat v Československu",
+      "value": "6"
+    },
+    {
+      "name": "Tenisté Tomáš Berdych a Petra Kvitová vyhráli Hopmanův pohár",
+      "value": "10"
+    },
+    {
+      "name": "Juan Carlos I. se stává králem Španělska",
+      "value": "8"
+    },
+    {
+      "name": "Atentát na Johna Fitzgeralda Kennedyho",
+      "value": "7"
+    }
+  ]
+}

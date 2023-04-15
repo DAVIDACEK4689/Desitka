@@ -1,0 +1,47 @@
+{
+  "id": "4",
+  "text": "Seřaďte města od nejvýchodnějšího k nejzápadnějšímu (nejvýchodnější = 1)",
+  "questions":
+  [
+    {
+      "name": "Brisbane",
+      "value": "10"
+    },
+    {
+      "name": "Melbourne",
+      "value": "9"
+    },
+    {
+      "name": "Jakarta",
+      "value": "7"
+    },
+    {
+      "name": "Vladivostok",
+      "value": "8"
+    },
+    {
+      "name": "Asunción",
+      "value": "1"
+    },
+    {
+      "name": "Singapur",
+      "value": "6"
+    },
+    {
+      "name": "Rio de Janeiro",
+      "value": "2"
+    },
+    {
+      "name": "Amsterdam",
+      "value": "3"
+    },
+    {
+      "name": "Bangkok",
+      "value": "5"
+    },
+    {
+      "name": "Teherán",
+      "value": "4"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "21",
+  "text": "Seřaďte události podle roku (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Einstein publikuje Obecnou teorii relativity",
+      "value": "7"
+    },
+    {
+      "name": "Bitva u Lovosic",
+      "value": "5"
+    },
+    {
+      "name": "Zasedá Tridentský koncil",
+      "value": "4"
+    },
+    {
+      "name": "Vulkán, sopka Vesuv ničí Pompeje a Herculaneum",
+      "value": "1"
+    },
+    {
+      "name": "Upálil se Jan Palach",
+      "value": "8"
+    },
+    {
+      "name": "Bitva u Chlumce",
+      "value": "2"
+    },
+    {
+      "name": "Václav Havel abdikoval na úřad prezidenta",
+      "value": "9"
+    },
+    {
+      "name": "Dreyfusova aféra",
+      "value": "6"
+    },
+    {
+      "name": "Vstup Čr do EU",
+      "value": "10"
+    },
+    {
+      "name": "Bitna na Vítkově",
+      "value": "3"
+    }
+  ]
+}

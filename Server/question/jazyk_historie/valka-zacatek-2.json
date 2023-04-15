@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Seřaďte války podle roku propuknutí (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Válka Dvou bratrů",
+      "value": "4"
+    },
+    {
+      "name": "Britsko-argentinská válka o Falklandy",
+      "value": "8"
+    },
+    {
+      "name": "Povstání Rudých Khmérů",
+      "value": "9"
+    },
+    {
+      "name": "Irská občanská válka",
+      "value": "6"
+    },
+    {
+      "name": "Turecké výboje",
+      "value": "1"
+    },
+    {
+      "name": "Válka za nezávislost USA",
+      "value": "3"
+    },
+    {
+      "name": "Válka v Afganistánu",
+      "value": "7"
+    },
+    {
+      "name": "Válka v Jugoslávii",
+      "value": "10"
+    },
+    {
+      "name": "Irokézská válka",
+      "value": "2"
+    },
+    {
+      "name": "Helderbergská válka",
+      "value": "5"
+    }
+  ]
+}

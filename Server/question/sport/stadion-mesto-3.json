@@ -1,0 +1,47 @@
+{
+  "id": "3",
+  "text": "V jakém městě najdeme tento stadion?",
+  "questions":
+  [
+    {
+      "name": "Old Trafford",
+      "value": "Manchester"
+    },
+    {
+      "name": "San Siro",
+      "value": "Milán"
+    },
+    {
+      "name": "Wembley",
+      "value": "Londýn"
+    },
+    {
+      "name": "Estádio da Luz",
+      "value": "Lisabon"
+    },
+    {
+      "name": "Croke Park",
+      "value": "Dublin"
+    },
+    {
+      "name": "Tottenham Hotspur Stadium",
+      "value": "Londýn"
+    },
+    {
+      "name": "Estádio do Dragão",
+      "value": "Porto"
+    },
+    {
+      "name": "Zentralstadion",
+      "value": "Lipsko"
+    },
+    {
+      "name": "Allianz Arena",
+      "value": "Mnichov"
+    },
+    {
+      "name": "Ernst-Happel-Stadion",
+      "value": "Vídeň"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Seřaďte disciplíny desetiboje od první k poslední",
+  "questions":
+  [
+    {
+      "name": "Běh na 1500 m",
+      "value": "10"
+    },
+    {
+      "name": "Běh na 100 m",
+      "value": "1"
+    },
+    {
+      "name": "Běh na 400 m",
+      "value": "5"
+    },
+    {
+      "name": "Skok vysoký",
+      "value": "4"
+    },
+    {
+      "name": "Skok o tyči",
+      "value": "8"
+    },
+    {
+      "name": "Skok daleký",
+      "value": "2"
+    },
+    {
+      "name": "Překážkový běh na 110 m",
+      "value": "6"
+    },
+    {
+      "name": "Vrh koulí",
+      "value": "3"
+    },
+    {
+      "name": "Hod diskem",
+      "value": "7"
+    },
+    {
+      "name": "Hod oštěpem",
+      "value": "9"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Ve kterém městě sídlí tato zpravodajská agentura?",
+  "questions":
+  [
+    {
+      "name": "RIA",
+      "value": "Moskva"
+    },
+    {
+      "name": "CUP",
+      "value": "Toronto"
+    },
+    {
+      "name": "Xinhua",
+      "value": "Peking"
+    },
+    {
+      "name": "TASS",
+      "value": "Moskva"
+    },
+    {
+      "name": "APA",
+      "value": "Vídeň"
+    },
+    {
+      "name": "﻿AFP",
+      "value": "Paříž"
+    },
+    {
+      "name": "AP",
+      "value": "New York"
+    },
+    {
+      "name": "Yonhap",
+      "value": "Soul"
+    },
+    {
+      "name": "РОСТА",
+      "value": "Moskva"
+    },
+    {
+      "name": "AICA",
+      "value": "Buenos Aires"
+    }
+  ]
+}

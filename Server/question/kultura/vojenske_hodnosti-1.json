@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Seřaďtě vojenské hodnosti (1 = nejnižší)",
+  "questions":
+  [
+    {
+      "name": "Praporčík",
+      "value": "4"
+    },
+    {
+      "name": "Vojín",
+      "value": "1"
+    },
+    {
+      "name": "Nadporučík",
+      "value": "6"
+    },
+    {
+      "name": "Plukovník",
+      "value": "8"
+    },
+    {
+      "name": "Poručík",
+      "value": "5"
+    },
+    {
+      "name": "Rotný",
+      "value": "2"
+    },
+    {
+      "name": "Brigádní generál",
+      "value": "9"
+    },
+    {
+      "name": "Nadrotmistr",
+      "value": "3"
+    },
+    {
+      "name": "Podplukovník",
+      "value": "7"
+    },
+    {
+      "name": "Armádní generál",
+      "value": "10"
+    }
+  ]
+}

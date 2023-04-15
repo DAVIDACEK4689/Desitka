@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Ze kterého filmu známe tuto postavu?",
+  "questions":
+  [
+    {
+      "name": "Howard Hughes",
+      "value": "Letec"
+    },
+    {
+      "name": "Frances Amélie Poulain",
+      "value": "Amélie z Montmartru"
+    },
+    {
+      "name": "Truman Burbank",
+      "value": "Truman Show"
+    },
+    {
+      "name": "Viktor Hujer",
+      "value": "Marečku, podejte mi pero!"
+    },
+    {
+      "name": "Augustus Waters",
+      "value": "Hvězdy nám nepřály"
+    },
+    {
+      "name": "Billy Mack",
+      "value": "Láska nebeská"
+    },
+    {
+      "name": "Christian Grey",
+      "value": "Padesát odstínů šedi"
+    },
+    {
+      "name": "Maximus Decimus Meridius",
+      "value": "Gladiátor"
+    },
+    {
+      "name": "Willy Wonka",
+      "value": "Karlík a továrna na čokoládu"
+    },
+    {
+      "name": "Hannibal Lecter",
+      "value": "Mlčení jehňátek"
+    }
+  ]
+}

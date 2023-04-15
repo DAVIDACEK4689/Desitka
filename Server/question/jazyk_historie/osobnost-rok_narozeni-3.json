@@ -1,0 +1,47 @@
+{
+  "id": "3",
+  "text": "Seřaďte osobnosti podle roku narození (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Edgar Allan Poe",
+      "value": "8"
+    },
+    {
+      "name": "Izraelský král David",
+      "value": "1"
+    },
+    {
+      "name": "Voltaire",
+      "value": "7"
+    },
+    {
+      "name": "Francouzský král Ludvík XIV.",
+      "value": "6"
+    },
+    {
+      "name": "Karel IV.",
+      "value": "3"
+    },
+    {
+      "name": "John F. Kennedy",
+      "value": "10"
+    },
+    {
+      "name": "John Lock",
+      "value": "5"
+    },
+    {
+      "name": "Charles Darwin",
+      "value": "9"
+    },
+    {
+      "name": "Dante Alighieri",
+      "value": "2"
+    },
+    {
+      "name": "François Villon",
+      "value": "4"
+    }
+  ]
+}

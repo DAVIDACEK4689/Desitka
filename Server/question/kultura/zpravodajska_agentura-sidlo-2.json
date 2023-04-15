@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Ve kterém městě sídlí tato zpravodajská agentura?",
+  "questions":
+  [
+    {
+      "name": "MAP",
+      "value": "Rabat"
+    },
+    {
+      "name": "Interfax",
+      "value": "Moskva"
+    },
+    {
+      "name": "PAP",
+      "value": "Varšava"
+    },
+    {
+      "name": "IRNA",
+      "value": "Teherán"
+    },
+    {
+      "name": "Reuters",
+      "value": "Londýn"
+    },
+    {
+      "name": "ITIM",
+      "value": "Tel Aviv"
+    },
+    {
+      "name": "Sid",
+      "value": "Neuss"
+    },
+    {
+      "name": "SAD",
+      "value": "Hamburk"
+    },
+    {
+      "name": "APN",
+      "value": "Moskva"
+    },
+    {
+      "name": "ČTK",
+      "value": "Praha"
+    }
+  ]
+}

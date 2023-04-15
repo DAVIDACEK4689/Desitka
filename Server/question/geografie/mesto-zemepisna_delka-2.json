@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Seřaďte města od nejvýchodnějšího k nejzápadnějšímu (nejvýchodnější = 1)",
+  "questions":
+  [
+    {
+      "name": "Hong Kong",
+      "value": "9"
+    },
+    {
+      "name": "Edinburgh",
+      "value": "4"
+    },
+    {
+      "name": "Vídeň",
+      "value": "6"
+    },
+    {
+      "name": "Alžír",
+      "value": "5"
+    },
+    {
+      "name": "Panama City",
+      "value": "1"
+    },
+    {
+      "name": "La Paz",
+      "value": "2"
+    },
+    {
+      "name": "Johannesburg",
+      "value": "8"
+    },
+    {
+      "name": "Caracas",
+      "value": "3"
+    },
+    {
+      "name": "Atény",
+      "value": "7"
+    },
+    {
+      "name": "Auckland",
+      "value": "10"
+    }
+  ]
+}

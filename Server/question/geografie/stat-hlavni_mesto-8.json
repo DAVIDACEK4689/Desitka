@@ -1,0 +1,47 @@
+{
+  "id": "8",
+  "text": "Jaké je hlavní město?",
+  "questions":
+  [
+    {
+      "name": "Francie",
+      "value": "Paříž"
+    },
+    {
+      "name": "Švýcarsko",
+      "value": "Bern"
+    },
+    {
+      "name": "Ázerbájdžán",
+      "value": "Baku"
+    },
+    {
+      "name": "Libérie",
+      "value": "Monrovia"
+    },
+    {
+      "name": "Bahrajn",
+      "value": "Manáma"
+    },
+    {
+      "name": "Švédsko",
+      "value": "Stockholm"
+    },
+    {
+      "name": "Nepál",
+      "value": "Káthmándú"
+    },
+    {
+      "name": "Palau",
+      "value": "Ngerulmud"
+    },
+    {
+      "name": "Černá Hora",
+      "value": "Podgorica"
+    },
+    {
+      "name": "Angola",
+      "value": "Luanda"
+    }
+  ]
+}

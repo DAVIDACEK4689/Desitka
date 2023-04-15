@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Jaké je hlavní město?",
+  "questions":
+  [
+    {
+      "name": "Šalomounovy ostrovy",
+      "value": "Honiara"
+    },
+    {
+      "name": "Island",
+      "value": "Reykjavík"
+    },
+    {
+      "name": "Sýrie",
+      "value": "Damašek"
+    },
+    {
+      "name": "Honduras",
+      "value": "Tegucigalpa"
+    },
+    {
+      "name": "Peru",
+      "value": "Lima"
+    },
+    {
+      "name": "Jižní Súdán",
+      "value": "Džuba"
+    },
+    {
+      "name": "Kapverdy",
+      "value": "Praia"
+    },
+    {
+      "name": "Čína",
+      "value": "Peking"
+    },
+    {
+      "name": "Konžská demokratická republika",
+      "value": "Kinshasa"
+    },
+    {
+      "name": "Bělorusko",
+      "value": "Minsk"
+    }
+  ]
+}

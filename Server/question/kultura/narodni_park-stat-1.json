@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Ve které zemi najdeme tento park?",
+  "questions":
+  [
+    {
+      "name": "Sajama",
+      "value": "Bolívie"
+    },
+    {
+      "name": "Jotunheimen",
+      "value": "Norsko"
+    },
+    {
+      "name": "Namib-Naukluft",
+      "value": "Namibie"
+    },
+    {
+      "name": "Galapágy",
+      "value": "Ekvádor"
+    },
+    {
+      "name": "Cinque Terre",
+      "value": "Itálie"
+    },
+    {
+      "name": "Urho Kekkonena",
+      "value": "Finsko"
+    },
+    {
+      "name": "Torres del Paine",
+      "value": "Chile"
+    },
+    {
+      "name": "Grand Canyon",
+      "value": "USA/Spojené státy americké"
+    },
+    {
+      "name": "Triglav",
+      "value": "Itálie/Slovinsko"
+    },
+    {
+      "name": "Egmont",
+      "value": "Nový Zéland"
+    }
+  ]
+}

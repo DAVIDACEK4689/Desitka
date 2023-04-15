@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Seřaďte města od nejvýchodnějšího k nejzápadnějšímu (nejvýchodnější = 1)",
+  "questions":
+  [
+    {
+      "name": "Guatemala City",
+      "value": "1"
+    },
+    {
+      "name": "Šanghaj",
+      "value": "9"
+    },
+    {
+      "name": "Varšava",
+      "value": "5"
+    },
+    {
+      "name": "Santiago de Chile",
+      "value": "2"
+    },
+    {
+      "name": "Dakar",
+      "value": "3"
+    },
+    {
+      "name": "Peking",
+      "value": "7"
+    },
+    {
+      "name": "Manila",
+      "value": "8"
+    },
+    {
+      "name": "Kodaň",
+      "value": "4"
+    },
+    {
+      "name": "Bukurešť",
+      "value": "6"
+    },
+    {
+      "name": "Port Moresby",
+      "value": "10"
+    }
+  ]
+}

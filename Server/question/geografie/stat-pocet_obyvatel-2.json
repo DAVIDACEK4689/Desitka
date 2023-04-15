@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Seřaďte státy podle počtu obyvatel (1 = nejvíce)",
+  "questions":
+  [
+    {
+      "name": "Zambie",
+      "value": "4"
+    },
+    {
+      "name": "Niger",
+      "value": "3"
+    },
+    {
+      "name": "Řecko",
+      "value": "5"
+    },
+    {
+      "name": "Laos",
+      "value": "6"
+    },
+    {
+      "name": "Kosovo",
+      "value": "9"
+    },
+    {
+      "name": "Kapverdy",
+      "value": "10"
+    },
+    {
+      "name": "Mosambik",
+      "value": "2"
+    },
+    {
+      "name": "Mongolsko",
+      "value": "7"
+    },
+    {
+      "name": "Jižní Afrika",
+      "value": "1"
+    },
+    {
+      "name": "Arménie",
+      "value": "8"
+    }
+  ]
+}

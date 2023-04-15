@@ -1,0 +1,47 @@
+{
+  "id": "3",
+  "text": "Který herec získal oscara za roli v tomto filmu? (celé jméno)",
+  "questions":
+  [
+    {
+      "name": "Training Day",
+      "value": "Denzel Washington"
+    },
+    {
+      "name": "Pianista",
+      "value": "Adrien Brody"
+    },
+    {
+      "name": "Zuřící býk",
+      "value": "Robert De Niro"
+    },
+    {
+      "name": "Král Richard: Zrození šampiónek",
+      "value": "Will Smith"
+    },
+    {
+      "name": "Poslední komando",
+      "value": "Emil Jannings"
+    },
+    {
+      "name": "Denunciant",
+      "value": "Victor McLaglen"
+    },
+    {
+      "name": "Marty",
+      "value": "Ernest Borgnine"
+    },
+    {
+      "name": "V přístavu",
+      "value": "Marlon Brando"
+    },
+    {
+      "name": "Norimberský proces",
+      "value": "Maximilian Schell"
+    },
+    {
+      "name": "Umělec",
+      "value": "Jean Dujardin"
+    }
+  ]
+}

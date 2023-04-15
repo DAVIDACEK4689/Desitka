@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Jak se nazývá věda o ?",
+  "questions":
+  [
+    {
+      "name": "O pavoukovcích",
+      "value": "Arachnologie"
+    },
+    {
+      "name": "Lázních",
+      "value": "Balneologie"
+    },
+    {
+      "name": "Drahých kamenech",
+      "value": "Gemologie"
+    },
+    {
+      "name": "Tvorbě slov",
+      "value": "Derivologie"
+    },
+    {
+      "name": "Lingvistickém původu slova",
+      "value": "Etymologie"
+    },
+    {
+      "name": "Ptácích",
+      "value": "Ornitologie"
+    },
+    {
+      "name": "Kůži",
+      "value": "Dermatologie"
+    },
+    {
+      "name": "Koktavosti",
+      "value": "Balbutologie"
+    },
+    {
+      "name": "Kočkách",
+      "value": "Felinologie"
+    },
+    {
+      "name": "Víně a vinařství",
+      "value": "Enologie"
+    }
+  ]
+}

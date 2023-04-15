@@ -1,0 +1,47 @@
+{
+  "id": "3",
+  "text": "Ve které zemi najdeme tento park?",
+  "questions":
+  [
+    {
+      "name": "Serengeti",
+      "value": "Tanzánie/Tanzanie"
+    },
+    {
+      "name": "Los Glaciares",
+      "value": "Argentina"
+    },
+    {
+      "name": "Aconcagua",
+      "value": "Argentina"
+    },
+    {
+      "name": "Tikal",
+      "value": "Guatemala"
+    },
+    {
+      "name": "Erins",
+      "value": "Francie"
+    },
+    {
+      "name": "Canaima",
+      "value": "Venezuela"
+    },
+    {
+      "name": "Vysoké Taury",
+      "value": "Rakousko/Polsko"
+    },
+    {
+      "name": "Eduardo Avaroa",
+      "value": "Bolívie"
+    },
+    {
+      "name": "Velký korálový útes",
+      "value": "Austrálie"
+    },
+    {
+      "name": "Banff",
+      "value": "Kanada"
+    }
+  ]
+}

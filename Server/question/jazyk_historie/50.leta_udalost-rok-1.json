@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Seřaďte události 50.let minulého století (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Začíná Korejská válka",
+      "value": "1"
+    },
+    {
+      "name": "Jaroslav Heyrovský převzal Nobelovu cenu za chemii",
+      "value": "10"
+    },
+    {
+      "name": "XX. sjezd KSSS, kde Chruščov zkritizoval Stalinovy zločiny",
+      "value": "9"
+    },
+    {
+      "name": "Varšavská smlouva",
+      "value": "7"
+    },
+    {
+      "name": "Umírá Stalin",
+      "value": "4"
+    },
+    {
+      "name": "Popravena Milada Horáková",
+      "value": "2"
+    },
+    {
+      "name": "Premiéra filmu Pyšná princezna",
+      "value": "3"
+    },
+    {
+      "name": "Začíná válka ve Vietnamu",
+      "value": "8"
+    },
+    {
+      "name": "Měnová reforma v Československu",
+      "value": "5"
+    },
+    {
+      "name": "Byla založena organizace CERN",
+      "value": "6"
+    }
+  ]
+}

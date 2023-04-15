@@ -1,0 +1,47 @@
+{
+  "id": "4",
+  "text": "Seřaďte státy podle počtu obyvatel (1 = nejvíce)",
+  "questions":
+  [
+    {
+      "name": "Kanada",
+      "value": "2"
+    },
+    {
+      "name": "Ghana",
+      "value": "4"
+    },
+    {
+      "name": "Pobřeží slonoviny",
+      "value": "5"
+    },
+    {
+      "name": "Burundi",
+      "value": "6"
+    },
+    {
+      "name": "Gabon",
+      "value": "8"
+    },
+    {
+      "name": "Maledivy",
+      "value": "10"
+    },
+    {
+      "name": "Lesotho",
+      "value": "9"
+    },
+    {
+      "name": "Maroko",
+      "value": "3"
+    },
+    {
+      "name": "Finsko",
+      "value": "7"
+    },
+    {
+      "name": "Indie",
+      "value": "1"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Ze kterého seriálu známe tuto postavu?",
+  "questions":
+  [
+    {
+      "name": "Jon Snow",
+      "value": "Hra o trůny"
+    },
+    {
+      "name": "Turanga Leela",
+      "value": "Futurama"
+    },
+    {
+      "name": "Jughead",
+      "value": "Riverdale"
+    },
+    {
+      "name": "Jay Pritchett",
+      "value": "Taková normální rodinka"
+    },
+    {
+      "name": "Carrie Bradshaw",
+      "value": "Sex ve městě"
+    },
+    {
+      "name": "June Osborne/Offred",
+      "value": "Příběh služebnice"
+    },
+    {
+      "name": "Adam Bernau",
+      "value": "Návštěvníci"
+    },
+    {
+      "name": "Jack Bauer",
+      "value": "24 hodin"
+    },
+    {
+      "name": "Ross Geller",
+      "value": "Přátelé"
+    },
+    {
+      "name": "Arnold Rimmer",
+      "value": "Červený trpaslík"
+    }
+  ]
+}

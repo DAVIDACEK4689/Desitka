@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Ze které země pochází tato kapela?",
+  "questions":
+  [
+    {
+      "name": "Metallica",
+      "value": "USA"
+    },
+    {
+      "name": "Nirvana",
+      "value": "USA"
+    },
+    {
+      "name": "ABBA",
+      "value": "Švédsko"
+    },
+    {
+      "name": "Elán",
+      "value": "Slovensko"
+    },
+    {
+      "name": "Daft Punk",
+      "value": "Francie"
+    },
+    {
+      "name": "Nickelback",
+      "value": "Kanada"
+    },
+    {
+      "name": "Thin Lizzy",
+      "value": "Irsko"
+    },
+    {
+      "name": "Arcade Fire",
+      "value": "Kanada"
+    },
+    {
+      "name": "Aqua",
+      "value": "Dánsko"
+    },
+    {
+      "name": "The Beatles",
+      "value": "Anglie/Velká Británie"
+    }
+  ]
+}

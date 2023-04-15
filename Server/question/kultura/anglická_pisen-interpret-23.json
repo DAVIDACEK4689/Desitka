@@ -1,0 +1,47 @@
+{
+  "id": "23",
+  "text": "Kdo nazpíval tuto písničku? (celé jméno)",
+  "questions":
+  [
+    {
+      "name": "Born to Die",
+      "value": "Lana Del Rey"
+    },
+    {
+      "name": "Blurred Lines",
+      "value": "Robin Thicke"
+    },
+    {
+      "name": "Maps",
+      "value": "Maroon 5"
+    },
+    {
+      "name": "Zombie",
+      "value": "Cranberries"
+    },
+    {
+      "name": "Whenever, Wherever",
+      "value": "Shakira"
+    },
+    {
+      "name": "What Do You Mean?",
+      "value": "Justin Bieber"
+    },
+    {
+      "name": "Good Vibrations",
+      "value": "Beach Boys"
+    },
+    {
+      "name": "Wide Awake",
+      "value": "Katy Perry"
+    },
+    {
+      "name": "All of Me",
+      "value": "John Legend"
+    },
+    {
+      "name": "Thriller",
+      "value": "Michael Jackson"
+    }
+  ]
+}

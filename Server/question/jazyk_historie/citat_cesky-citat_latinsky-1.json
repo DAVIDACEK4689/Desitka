@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Jaký je latinský překlad tohoto citátu?",
+  "questions":
+  [
+    {
+      "name": "Budiž světlo",
+      "value": "Fiat lux"
+    },
+    {
+      "name": "Myslím, tedy jsem",
+      "value": "Cogito ergo sum"
+    },
+    {
+      "name": "Přes překážky ke hvězdám/Trnitou cestou ke hvězdám",
+      "value": "Per aspera ad astra"
+    },
+    {
+      "name": "Pamatuj na smrt",
+      "value": "Memento mori"
+    },
+    {
+      "name": "Vím, že nic nevím",
+      "value": "Scio me nihil scire"
+    },
+    {
+      "name": "Člověk člověku vlkem",
+      "value": "Homo homini lupus"
+    },
+    {
+      "name": "Městu a světu",
+      "value": "Urbi et Orbi"
+    },
+    {
+      "name": "Radujme se tedy",
+      "value": "Gaudeamus igitur"
+    },
+    {
+      "name": "Dokud dýchám, doufám",
+      "value": "Dum spiro spero"
+    },
+    {
+      "name": "Každý začátek je těžký",
+      "value": "Omne principium grave"
+    }
+  ]
+}

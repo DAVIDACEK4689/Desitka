@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Seřaďte města podle počtu obyvatel (1 = nejvíce)",
+  "questions":
+  [
+    {
+      "name": "Dháka",
+      "value": "3"
+    },
+    {
+      "name": "São Paulo",
+      "value": "1"
+    },
+    {
+      "name": "Rio de Janeiro",
+      "value": "7"
+    },
+    {
+      "name": "Istanbul",
+      "value": "5"
+    },
+    {
+      "name": "Peking",
+      "value": "2"
+    },
+    {
+      "name": "Buenos Aires",
+      "value": "4"
+    },
+    {
+      "name": "Bogotá",
+      "value": "9"
+    },
+    {
+      "name": "Los Angeles",
+      "value": "8"
+    },
+    {
+      "name": "Lagos",
+      "value": "6"
+    },
+    {
+      "name": "Jakarta",
+      "value": "10"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "3",
+  "text": "Seřaďte státy USA podle rozlohy (1 = největší)",
+  "questions":
+  [
+    {
+      "name": "Maryland",
+      "value": "9"
+    },
+    {
+      "name": "Nevada",
+      "value": "3"
+    },
+    {
+      "name": "Montana",
+      "value": "1"
+    },
+    {
+      "name": "Severní Karolína",
+      "value": "6"
+    },
+    {
+      "name": "Maine",
+      "value": "8"
+    },
+    {
+      "name": "Idaho",
+      "value": "5"
+    },
+    {
+      "name": "Virginie",
+      "value": "7"
+    },
+    {
+      "name": "New Jersey",
+      "value": "10"
+    },
+    {
+      "name": "Minnesota",
+      "value": "4"
+    },
+    {
+      "name": "Arizona",
+      "value": "2"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "7",
+  "text": "Kdo je autorem této knihy?",
+  "questions":
+  [
+    {
+      "name": "Zaklínač",
+      "value": "Sapkowski"
+    },
+    {
+      "name": "Oliver Twist",
+      "value": "Dickens"
+    },
+    {
+      "name": "Hamlet",
+      "value": "Shakespeare"
+    },
+    {
+      "name": "Zámek",
+      "value": "Kafka"
+    },
+    {
+      "name": "Hana",
+      "value": "Mornštajnová"
+    },
+    {
+      "name": "Evžen Oněgin",
+      "value": "Puškin"
+    },
+    {
+      "name": "Sbohem armádo",
+      "value": "Hemingway"
+    },
+    {
+      "name": "Pygmalion",
+      "value": "Shaw"
+    },
+    {
+      "name": "Alchymista",
+      "value": "Coelho"
+    },
+    {
+      "name": "Golet v údolí",
+      "value": "Olbracht"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Seřaďtě budovy podle výšky (1 = nejvyšší)",
+  "questions":
+  [
+    {
+      "name": "Burdž Chalífa",
+      "value": "1"
+    },
+    {
+      "name": "Shanghai Tower",
+      "value": "2"
+    },
+    {
+      "name": "Ping An International Finance Centre",
+      "value": "4"
+    },
+    {
+      "name": "Wuhan Greenland Center",
+      "value": "6"
+    },
+    {
+      "name": "One World Trade Center",
+      "value": "5"
+    },
+    {
+      "name": "KK100",
+      "value": "7"
+    },
+    {
+      "name": "Burj Mohammed bin Rashid",
+      "value": "9"
+    },
+    {
+      "name": "Empire State Building",
+      "value": "10"
+    },
+    {
+      "name": "Abrádž Al-Bajt",
+      "value": "3"
+    },
+    {
+      "name": "CITIC Plaza",
+      "value": "8"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Který herec je spojen s touto rolí? (celé jméno)",
+  "questions":
+  [
+    {
+      "name": "Severus Snape",
+      "value": "Alan Rickman"
+    },
+    {
+      "name": "Deadpool",
+      "value": "Ryan Reynolds"
+    },
+    {
+      "name": "Al Bundy",
+      "value": "Ed O'Neill"
+    },
+    {
+      "name": "Raymond Babbitt",
+      "value": "Dustin Hoffman"
+    },
+    {
+      "name": "Wolverine",
+      "value": "Hugh Jackman"
+    },
+    {
+      "name": "Jack Dawson",
+      "value": "Leonardo DiCaprio"
+    },
+    {
+      "name": "Jack Sparrow",
+      "value": "Johnny Depp"
+    },
+    {
+      "name": "The Tramp",
+      "value": "Charlie Chaplin"
+    },
+    {
+      "name": "Forrest Gump",
+      "value": "Tom Hanks"
+    },
+    {
+      "name": "Marty McFly",
+      "value": "Michael J. Fox"
+    }
+  ]
+}

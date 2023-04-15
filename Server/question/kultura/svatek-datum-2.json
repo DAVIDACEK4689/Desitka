@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Který den v roce si připomínáme? (příklad odpovědi: 5.11.)",
+  "questions":
+  [
+    {
+      "name": "Den památky obětí holocaustu",
+      "value": "27.1."
+    },
+    {
+      "name": "Den veteránů",
+      "value": "11.11."
+    },
+    {
+      "name": "Den nezávislosti USA",
+      "value": "4.7."
+    },
+    {
+      "name": "Den učitelů",
+      "value": "28.3."
+    },
+    {
+      "name": "Den památky obětí vyhlazení obce Lidice",
+      "value": "10.6."
+    },
+    {
+      "name": "Tři Králové",
+      "value": "6.1."
+    },
+    {
+      "name": "Památný den sokolstva",
+      "value": "8.10."
+    },
+    {
+      "name": "Den vstupu Čr do NATO",
+      "value": "12.3."
+    },
+    {
+      "name": "Den vzdělanosti",
+      "value": "7.4."
+    },
+    {
+      "name": "Den prezidentů (USA)",
+      "value": "19.2."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Seřaďte řeky podle délky (1 = nejdelší)",
+  "questions":
+  [
+    {
+      "name": "Paraná",
+      "value": "8"
+    },
+    {
+      "name": "Madeira",
+      "value": "9"
+    },
+    {
+      "name": "Nil",
+      "value": "2"
+    },
+    {
+      "name": "Dunaj",
+      "value": "10"
+    },
+    {
+      "name": "Chuang-che (Žlutá řeka)",
+      "value": "4"
+    },
+    {
+      "name": "Jang-c’-ťiang",
+      "value": "3"
+    },
+    {
+      "name": "Amur",
+      "value": "6"
+    },
+    {
+      "name": "Jenisej",
+      "value": "7"
+    },
+    {
+      "name": "Amazonka",
+      "value": "1"
+    },
+    {
+      "name": "Kongo",
+      "value": "5"
+    }
+  ]
+}

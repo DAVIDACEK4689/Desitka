@@ -1,0 +1,47 @@
+{
+  "id": "5",
+  "text": "Seřaďte události podle roku (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Abdikuje Boris Jelcin",
+      "value": "10"
+    },
+    {
+      "name": "Vydán Rudolfův majestát",
+      "value": "5"
+    },
+    {
+      "name": "Vzniká Velkomoravské říše",
+      "value": "3"
+    },
+    {
+      "name": "Na orbitu Země vypuštěna první vesmírná stanice Saljut 1",
+      "value": "9"
+    },
+    {
+      "name": "Vznik Osmanské říše",
+      "value": "4"
+    },
+    {
+      "name": "Objev papíru",
+      "value": "1"
+    },
+    {
+      "name": "Umírá Stalin",
+      "value": "7"
+    },
+    {
+      "name": "Spojené státy vypouští umělou družici Explorer 1",
+      "value": "8"
+    },
+    {
+      "name": "Konec americké války za nezávislost proti Velké Británii",
+      "value": "6"
+    },
+    {
+      "name": "Vzniká Franská říše",
+      "value": "2"
+    }
+  ]
+}

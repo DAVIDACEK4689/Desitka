@@ -1,0 +1,47 @@
+{
+  "id": "25",
+  "text": "Seřaďte události podle roku (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Zrušení otroctví na území USA",
+      "value": "3"
+    },
+    {
+      "name": "Česká televize spustila nový dětský kanál ČT :D",
+      "value": "10"
+    },
+    {
+      "name": "Zapínací zip",
+      "value": "4"
+    },
+    {
+      "name": "Havárie americké ropné plošiny v Mexickém zálivu",
+      "value": "9"
+    },
+    {
+      "name": "Byla založena organizace CERN",
+      "value": "6"
+    },
+    {
+      "name": "Morová epidemie ve Francii (Marseille)",
+      "value": "1"
+    },
+    {
+      "name": "Zánik České a Slovenské Federativní republiky",
+      "value": "8"
+    },
+    {
+      "name": "Šestidenní válka",
+      "value": "7"
+    },
+    {
+      "name": "Začíná sedmiletá válka",
+      "value": "2"
+    },
+    {
+      "name": "První přenos radiového signálu přes Atlantik",
+      "value": "5"
+    }
+  ]
+}

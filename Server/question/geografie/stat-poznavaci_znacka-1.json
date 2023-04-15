@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Jakou poznávací značku má?",
+  "questions":
+  [
+    {
+      "name": "Thajsko",
+      "value": "T"
+    },
+    {
+      "name": "Řecko",
+      "value": "GR"
+    },
+    {
+      "name": "Česko",
+      "value": "CZ"
+    },
+    {
+      "name": "Jemen",
+      "value": "YAR"
+    },
+    {
+      "name": "Indie",
+      "value": "IND"
+    },
+    {
+      "name": "Středoafrická republika",
+      "value": "RCA"
+    },
+    {
+      "name": "Austrálie",
+      "value": "AUS"
+    },
+    {
+      "name": "Spojené království",
+      "value": "UK"
+    },
+    {
+      "name": "Zimbabwe",
+      "value": "ZW"
+    },
+    {
+      "name": "Andorra",
+      "value": "AND"
+    }
+  ]
+}

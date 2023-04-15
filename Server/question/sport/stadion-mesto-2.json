@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "V jakém městě najdeme tento stadion?",
+  "questions":
+  [
+    {
+      "name": "Camp Nou",
+      "value": "Barcelona"
+    },
+    {
+      "name": "Stadio San Paolo",
+      "value": "Neapol"
+    },
+    {
+      "name": "Veltins-Arena",
+      "value": "Gelsenkirchen"
+    },
+    {
+      "name": "Stadion Hrazdan",
+      "value": "Jerevan"
+    },
+    {
+      "name": "Imtech Arena",
+      "value": "Hamburk"
+    },
+    {
+      "name": "Celtic Park",
+      "value": "Glasgow"
+    },
+    {
+      "name": "Friends Arena",
+      "value": "Stockholm"
+    },
+    {
+      "name": "Dinamo Arena",
+      "value": "Tbilisi"
+    },
+    {
+      "name": "Hampden Park",
+      "value": "Glasgow"
+    },
+    {
+      "name": "Atatürkův olympijský stadion",
+      "value": "Istanbul"
+    }
+  ]
+}

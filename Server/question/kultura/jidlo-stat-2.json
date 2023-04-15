@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Pro který stát je typický tento pokrm?",
+  "questions":
+  [
+    {
+      "name": "Chilaquiles",
+      "value": "Mexiko"
+    },
+    {
+      "name": "Chelow Kabab",
+      "value": "Írán"
+    },
+    {
+      "name": "Matoke",
+      "value": "Uganda"
+    },
+    {
+      "name": "Pho",
+      "value": "Vietnam"
+    },
+    {
+      "name": "Ceviche",
+      "value": "Peru"
+    },
+    {
+      "name": "Mandazi",
+      "value": "Tanzánie"
+    },
+    {
+      "name": "Bandeja Paisa",
+      "value": "Kolumbie"
+    },
+    {
+      "name": "Adobo",
+      "value": "Filipíny"
+    },
+    {
+      "name": "Kabuli Palaw",
+      "value": "Afghánistán"
+    },
+    {
+      "name": "Sushi",
+      "value": "Japonsko"
+    }
+  ]
+}

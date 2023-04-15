@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Je tento stát členem EU?",
+  "questions":
+  [
+    {
+      "name": "Lucembursko",
+      "value": "ANO"
+    },
+    {
+      "name": "Rakousko",
+      "value": "ANO"
+    },
+    {
+      "name": "Ázerbájdžán",
+      "value": "NE"
+    },
+    {
+      "name": "Lichtenštejnsko",
+      "value": "NE"
+    },
+    {
+      "name": "Spojené království",
+      "value": "NE"
+    },
+    {
+      "name": "Česká republika/Česko",
+      "value": "ANO"
+    },
+    {
+      "name": "Vatikán",
+      "value": "NE"
+    },
+    {
+      "name": "Dánsko",
+      "value": "ANO"
+    },
+    {
+      "name": "Nizozemsko",
+      "value": "ANO"
+    },
+    {
+      "name": "Maďarsko",
+      "value": "ANO"
+    }
+  ]
+}

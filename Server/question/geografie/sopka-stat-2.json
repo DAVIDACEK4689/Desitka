@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Ve kterém státu najdeme tuto sopku?",
+  "questions":
+  [
+    {
+      "name": "Hekla",
+      "value": "Island"
+    },
+    {
+      "name": "Mount Rainier",
+      "value": "USA"
+    },
+    {
+      "name": "Kilauea",
+      "value": "USA"
+    },
+    {
+      "name": "Vulkán Osorno",
+      "value": "Chile"
+    },
+    {
+      "name": "Cotopaxi",
+      "value": "Ekvádor"
+    },
+    {
+      "name": "Vesuv",
+      "value": "Itálie"
+    },
+    {
+      "name": "Merapi",
+      "value": "Indonésie"
+    },
+    {
+      "name": "Mount Teide",
+      "value": "Španělsko"
+    },
+    {
+      "name": "Fuji (Fudži)",
+      "value": "Japonsko"
+    },
+    {
+      "name": "Popocatépetl",
+      "value": "Mexiko"
+    }
+  ]
+}

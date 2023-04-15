@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Seřaďte města podle počtu obyvatel",
+  "questions":
+  [
+    {
+      "name": "Písek",
+      "value": "8"
+    },
+    {
+      "name": "Chomutov",
+      "value": "3"
+    },
+    {
+      "name": "Pardubice",
+      "value": "2"
+    },
+    {
+      "name": "Tábor",
+      "value": "6"
+    },
+    {
+      "name": "Cheb",
+      "value": "7"
+    },
+    {
+      "name": "Karlovy Vary",
+      "value": "4"
+    },
+    {
+      "name": "Plzeň",
+      "value": "1"
+    },
+    {
+      "name": "Mladá Boleslav",
+      "value": "5"
+    },
+    {
+      "name": "Kroměříž",
+      "value": "9"
+    },
+    {
+      "name": "Hodonín",
+      "value": "10"
+    }
+  ]
+}

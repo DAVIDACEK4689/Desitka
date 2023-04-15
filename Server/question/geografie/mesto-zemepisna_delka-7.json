@@ -1,0 +1,47 @@
+{
+  "id": "7",
+  "text": "Seřaďte města od nejvýchodnějšího k nejzápadnějšímu (nejvýchodnější = 1)",
+  "questions":
+  [
+    {
+      "name": "Hamburk",
+      "value": "6"
+    },
+    {
+      "name": "Birmingham",
+      "value": "5"
+    },
+    {
+      "name": "Havana",
+      "value": "2"
+    },
+    {
+      "name": "Bělehrad",
+      "value": "7"
+    },
+    {
+      "name": "Moskva",
+      "value": "9"
+    },
+    {
+      "name": "Kingston",
+      "value": "3"
+    },
+    {
+      "name": "Káhira",
+      "value": "8"
+    },
+    {
+      "name": "Mekka",
+      "value": "10"
+    },
+    {
+      "name": "Mexico City",
+      "value": "1"
+    },
+    {
+      "name": "Montevideo",
+      "value": "4"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "3",
+  "text": "Seřaďte města od nejvýchodnějšího k nejzápadnějšímu (nejvýchodnější = 1)",
+  "questions":
+  [
+    {
+      "name": "Reykjavík",
+      "value": "3"
+    },
+    {
+      "name": "Kuala Lumpur",
+      "value": "10"
+    },
+    {
+      "name": "Buenos Aires",
+      "value": "1"
+    },
+    {
+      "name": "Barcelona",
+      "value": "5"
+    },
+    {
+      "name": "Budapešť",
+      "value": "6"
+    },
+    {
+      "name": "Bombaj",
+      "value": "9"
+    },
+    {
+      "name": "Salvador",
+      "value": "2"
+    },
+    {
+      "name": "Petrohrad",
+      "value": "7"
+    },
+    {
+      "name": "Nairobi",
+      "value": "8"
+    },
+    {
+      "name": "Belfast",
+      "value": "4"
+    }
+  ]
+}

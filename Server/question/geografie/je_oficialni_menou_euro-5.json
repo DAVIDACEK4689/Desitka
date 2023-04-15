@@ -1,0 +1,47 @@
+{
+  "id": "5",
+  "text": "Je oficiální měnou tohoto státu euro?",
+  "questions":
+  [
+    {
+      "name": "Malta",
+      "value": "ANO"
+    },
+    {
+      "name": "Slovensko",
+      "value": "ANO"
+    },
+    {
+      "name": "Černá Hora",
+      "value": "NE"
+    },
+    {
+      "name": "Lichtenštejnsko",
+      "value": "NE"
+    },
+    {
+      "name": "Arménie",
+      "value": "NE"
+    },
+    {
+      "name": "Vatikán",
+      "value": "NE"
+    },
+    {
+      "name": "Rumunsko",
+      "value": "NE"
+    },
+    {
+      "name": "Německo",
+      "value": "ANO"
+    },
+    {
+      "name": "Kypr",
+      "value": "ANO"
+    },
+    {
+      "name": "Bosna a Hercegovina",
+      "value": "NE"
+    }
+  ]
+}

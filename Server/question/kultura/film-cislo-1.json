@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Které číslo patří místo otazníku?",
+  "questions":
+  [
+    {
+      "name": "? let smíchu",
+      "value": "30"
+    },
+    {
+      "name": "? let panic",
+      "value": "40"
+    },
+    {
+      "name": "? hodin v Paříži",
+      "value": "48"
+    },
+    {
+      "name": "? podezřelých",
+      "value": "460"
+    },
+    {
+      "name": "Barbie a ? tančících princezen",
+      "value": "12"
+    },
+    {
+      "name": "? kulek",
+      "value": "800"
+    },
+    {
+      "name": "? šatů",
+      "value": "27"
+    },
+    {
+      "name": "? : Dobytí ráje",
+      "value": "1492"
+    },
+    {
+      "name": "? Minut",
+      "value": "15"
+    },
+    {
+      "name": "? Hráčů se smrtí",
+      "value": "9"
+    }
+  ]
+}

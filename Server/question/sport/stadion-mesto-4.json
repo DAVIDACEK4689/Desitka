@@ -1,0 +1,47 @@
+{
+  "id": "4",
+  "text": "V jakém městě najdeme tento stadion?",
+  "questions":
+  [
+    {
+      "name": "Puskás Aréna",
+      "value": "Budapest"
+    },
+    {
+      "name": "Gazprom Arena",
+      "value": "Petrohrad"
+    },
+    {
+      "name": "Twickenham Stadium",
+      "value": "Londýn"
+    },
+    {
+      "name": "Emirates Stadium",
+      "value": "Londýn"
+    },
+    {
+      "name": "Estadio Mestalla",
+      "value": "Valencie"
+    },
+    {
+      "name": "Mercedes-Benz Arena",
+      "value": "Stuttgart"
+    },
+    {
+      "name": "Stadium of Light",
+      "value": "Sunderland"
+    },
+    {
+      "name": "Signal Iduna Park",
+      "value": "Dortmund"
+    },
+    {
+      "name": "Parc des Princes",
+      "value": "Paříž"
+    },
+    {
+      "name": "Stadio Olimpico",
+      "value": "Řím"
+    }
+  ]
+}

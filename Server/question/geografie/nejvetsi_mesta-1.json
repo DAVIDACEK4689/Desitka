@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Seřaďte města podle počtu obyvatel (1 = nejvíce)",
+  "questions":
+  [
+    {
+      "name": "New York",
+      "value": "6"
+    },
+    {
+      "name": "Ciudad de México",
+      "value": "2"
+    },
+    {
+      "name": "Londýn",
+      "value": "10"
+    },
+    {
+      "name": "Bombaj",
+      "value": "4"
+    },
+    {
+      "name": "Moskva",
+      "value": "8"
+    },
+    {
+      "name": "Ósaka",
+      "value": "5"
+    },
+    {
+      "name": "Šanghaj",
+      "value": "1"
+    },
+    {
+      "name": "Káhira",
+      "value": "3"
+    },
+    {
+      "name": "Manila",
+      "value": "7"
+    },
+    {
+      "name": "Paříž",
+      "value": "9"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Jakou značku má základní jednotka této veličiny?",
+  "questions":
+  [
+    {
+      "name": "Termodynamická teplota",
+      "value": "K"
+    },
+    {
+      "name": "Elektrický proud",
+      "value": "A"
+    },
+    {
+      "name": "Tlak",
+      "value": "Pa"
+    },
+    {
+      "name": "Frekvence",
+      "value": "Hz"
+    },
+    {
+      "name": "Dráha",
+      "value": "M"
+    },
+    {
+      "name": "Síla",
+      "value": "N"
+    },
+    {
+      "name": "Látkové množství",
+      "value": "Mol"
+    },
+    {
+      "name": "Teplo",
+      "value": "J"
+    },
+    {
+      "name": "Elektrický náboj",
+      "value": "C"
+    },
+    {
+      "name": "Svítivost",
+      "value": "Cd"
+    }
+  ]
+}

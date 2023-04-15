@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Dá se proti této nemoci očkovat?",
+  "questions":
+  [
+    {
+      "name": "Záškrt",
+      "value": "ANO"
+    },
+    {
+      "name": "Divertikulóza",
+      "value": "NE"
+    },
+    {
+      "name": "Cholecystitida",
+      "value": "NE"
+    },
+    {
+      "name": "Cystická fibróza",
+      "value": "NE"
+    },
+    {
+      "name": "Chřipka",
+      "value": "ANO"
+    },
+    {
+      "name": "Tetanus",
+      "value": "ANO"
+    },
+    {
+      "name": "Plané neštovice",
+      "value": "ANO"
+    },
+    {
+      "name": "Tuberkulóza",
+      "value": "ANO"
+    },
+    {
+      "name": "Kartagenerův syndrom",
+      "value": "NE"
+    },
+    {
+      "name": "Malárie",
+      "value": "ANO"
+    }
+  ]
+}

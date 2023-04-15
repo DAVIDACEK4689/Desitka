@@ -1,0 +1,47 @@
+{
+  "id": "5",
+  "text": "Seřaďte města od nejvýchodnějšího k nejzápadnějšímu (nejvýchodnější = 1)",
+  "questions":
+  [
+    {
+      "name": "Tokyo",
+      "value": "9"
+    },
+    {
+      "name": "Adelaide",
+      "value": "8"
+    },
+    {
+      "name": "São Paulo",
+      "value": "2"
+    },
+    {
+      "name": "Ankara",
+      "value": "5"
+    },
+    {
+      "name": "Mnichov",
+      "value": "4"
+    },
+    {
+      "name": "Córdoba",
+      "value": "1"
+    },
+    {
+      "name": "Sydney",
+      "value": "10"
+    },
+    {
+      "name": "Nové Dillí",
+      "value": "6"
+    },
+    {
+      "name": "Nagasaki",
+      "value": "7"
+    },
+    {
+      "name": "Lisabon",
+      "value": "3"
+    }
+  ]
+}

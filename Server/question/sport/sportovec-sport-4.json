@@ -1,0 +1,47 @@
+{
+  "id": "4",
+  "text": "S jakým sportem je spojen tento sportovec?",
+  "questions":
+  [
+    {
+      "name": "Michael Phelps",
+      "value": "Plavání"
+    },
+    {
+      "name": "Andy Murray",
+      "value": "Tenis"
+    },
+    {
+      "name": "Martin Fourcade",
+      "value": "Biatlon"
+    },
+    {
+      "name": "Alberto Contador",
+      "value": "Cyklistika"
+    },
+    {
+      "name": "Kenenisa Bekele",
+      "value": "Atletika"
+    },
+    {
+      "name": "Maurice Greene",
+      "value": "Atletika"
+    },
+    {
+      "name": "Tom Brady",
+      "value": "Americký fotbal"
+    },
+    {
+      "name": "Cadel Evans",
+      "value": "Cyklistika"
+    },
+    {
+      "name": "Birgit Fischerová",
+      "value": "Kanoistika"
+    },
+    {
+      "name": "Charles Pahud de Mortanges",
+      "value": "Jezdectví"
+    }
+  ]
+}

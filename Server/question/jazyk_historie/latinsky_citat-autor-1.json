@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Kdo je autorem tohoto citátu?",
+  "questions":
+  [
+    {
+      "name": "Homo homini lupus",
+      "value": "Plautus"
+    },
+    {
+      "name": "Amor ut lacrima: oculis oritur, in pectus cadit",
+      "value": "Syrus"
+    },
+    {
+      "name": "Dubium est initium sapientiae",
+      "value": "Descartes"
+    },
+    {
+      "name": "Veni, vidi, vici",
+      "value": "Caesar"
+    },
+    {
+      "name": "De omnibus dubitandum est",
+      "value": "Aristoteles"
+    },
+    {
+      "name": "Carpe diem",
+      "value": "Horatius"
+    },
+    {
+      "name": "Tempora mutantur et nos mutamur in illis",
+      "value": "Cicero"
+    },
+    {
+      "name": "Cogito ergo sum",
+      "value": "Descartes"
+    },
+    {
+      "name": "Veritas odium parit",
+      "value": "Publius"
+    },
+    {
+      "name": "Omnis habet sua dona dies",
+      "value": "Martialis"
+    }
+  ]
+}

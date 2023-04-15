@@ -1,0 +1,47 @@
+{
+  "id": "10",
+  "text": "Jakou poznávací značku má?",
+  "questions":
+  [
+    {
+      "name": "Gambie",
+      "value": "WAG"
+    },
+    {
+      "name": "Ukrajina",
+      "value": "UA"
+    },
+    {
+      "name": "Papua Nová Guinea",
+      "value": "PNG"
+    },
+    {
+      "name": "Fidži",
+      "value": "FJI"
+    },
+    {
+      "name": "Guernsey",
+      "value": "GBG"
+    },
+    {
+      "name": "Faerské ostrovy",
+      "value": "FO"
+    },
+    {
+      "name": "Alderney",
+      "value": "GBA"
+    },
+    {
+      "name": "Monako",
+      "value": "MC"
+    },
+    {
+      "name": "Afghánistán",
+      "value": "AFG"
+    },
+    {
+      "name": "Dánsko",
+      "value": "DK"
+    }
+  ]
+}

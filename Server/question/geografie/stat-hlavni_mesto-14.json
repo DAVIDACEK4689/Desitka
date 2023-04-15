@@ -1,0 +1,47 @@
+{
+  "id": "14",
+  "text": "Jaké je hlavní město?",
+  "questions":
+  [
+    {
+      "name": "Vanuatu",
+      "value": "Port Vila"
+    },
+    {
+      "name": "Senegal",
+      "value": "Dakar"
+    },
+    {
+      "name": "Malajsie",
+      "value": "Kuala Lumpur"
+    },
+    {
+      "name": "Mongolsko",
+      "value": "Ulánbátar"
+    },
+    {
+      "name": "Andorra",
+      "value": "Andorra la Vella"
+    },
+    {
+      "name": "Mauritánie",
+      "value": "Nuakšott"
+    },
+    {
+      "name": "Spojené království",
+      "value": "Londýn"
+    },
+    {
+      "name": "Alžírsko",
+      "value": "Alžír"
+    },
+    {
+      "name": "Samoa",
+      "value": "Apia"
+    },
+    {
+      "name": "Arménie",
+      "value": "Jerevan"
+    }
+  ]
+}

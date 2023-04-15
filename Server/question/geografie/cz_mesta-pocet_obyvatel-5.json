@@ -1,0 +1,47 @@
+{
+  "id": "5",
+  "text": "Seřaďte města podle počtu obyvatel",
+  "questions":
+  [
+    {
+      "name": "České Budějovice",
+      "value": "2"
+    },
+    {
+      "name": "Most",
+      "value": "4"
+    },
+    {
+      "name": "Nový Jičín",
+      "value": "10"
+    },
+    {
+      "name": "Ostrava",
+      "value": "1"
+    },
+    {
+      "name": "Kladno",
+      "value": "3"
+    },
+    {
+      "name": "Třebíč",
+      "value": "6"
+    },
+    {
+      "name": "Český Těšín",
+      "value": "8"
+    },
+    {
+      "name": "Havlíčkův Brod",
+      "value": "9"
+    },
+    {
+      "name": "Jablonec nad Nisou",
+      "value": "5"
+    },
+    {
+      "name": "Uherské Hradiště",
+      "value": "7"
+    }
+  ]
+}

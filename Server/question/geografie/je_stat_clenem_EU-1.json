@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Je tento stát členem EU?",
+  "questions":
+  [
+    {
+      "name": "Litva",
+      "value": "ANO"
+    },
+    {
+      "name": "Turecko",
+      "value": "NE"
+    },
+    {
+      "name": "Rumunsko",
+      "value": "ANO"
+    },
+    {
+      "name": "Francie",
+      "value": "ANO"
+    },
+    {
+      "name": "Slovinsko",
+      "value": "ANO"
+    },
+    {
+      "name": "Belgie",
+      "value": "ANO"
+    },
+    {
+      "name": "Norsko",
+      "value": "NE"
+    },
+    {
+      "name": "Španělsko",
+      "value": "ANO"
+    },
+    {
+      "name": "Švédsko",
+      "value": "ANO"
+    },
+    {
+      "name": "Bulharsko",
+      "value": "ANO"
+    }
+  ]
+}

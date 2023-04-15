@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Seřaďte státy USA podle rozlohy (1 = největší)",
+  "questions":
+  [
+    {
+      "name": "Texas",
+      "value": "1"
+    },
+    {
+      "name": "Wisconsin",
+      "value": "5"
+    },
+    {
+      "name": "Illinois",
+      "value": "6"
+    },
+    {
+      "name": "Michigan",
+      "value": "3"
+    },
+    {
+      "name": "Vermont",
+      "value": "8"
+    },
+    {
+      "name": "Rhode Island",
+      "value": "10"
+    },
+    {
+      "name": "Washington",
+      "value": "4"
+    },
+    {
+      "name": "New Hampshire",
+      "value": "9"
+    },
+    {
+      "name": "Pensylvánie",
+      "value": "7"
+    },
+    {
+      "name": "Nové Mexiko",
+      "value": "2"
+    }
+  ]
+}

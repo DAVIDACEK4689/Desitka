@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Kdo složil toto dílo?",
+  "questions":
+  [
+    {
+      "name": "Čardášová princezna",
+      "value": "Kálmán"
+    },
+    {
+      "name": "Aida",
+      "value": "Verdi"
+    },
+    {
+      "name": "Óda na radost",
+      "value": "Beethoven"
+    },
+    {
+      "name": "Rekviem",
+      "value": "Verdi"
+    },
+    {
+      "name": "Labutí jezero",
+      "value": "Čajkovskij"
+    },
+    {
+      "name": "Má Vlast",
+      "value": "Smetana"
+    },
+    {
+      "name": "Peer Gynt",
+      "value": "Grieg"
+    },
+    {
+      "name": "Slovanský tanec",
+      "value": "Dvořák"
+    },
+    {
+      "name": "Čtvero ročních období",
+      "value": "Vivaldi"
+    },
+    {
+      "name": "Lazebník sevillský",
+      "value": "Rossini"
+    }
+  ]
+}

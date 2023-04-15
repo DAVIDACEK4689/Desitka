@@ -1,0 +1,47 @@
+{
+  "id": "12",
+  "text": "Seřaďte události podle roku (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Narodil se T.G.Masaryk",
+      "value": "4"
+    },
+    {
+      "name": "Celonárodní židovské povstání proti Římu",
+      "value": "1"
+    },
+    {
+      "name": "Adolf Hitler se stal předsedou NSDAP",
+      "value": "6"
+    },
+    {
+      "name": "Zformulována teorie relativity",
+      "value": "7"
+    },
+    {
+      "name": "Vilém I. prohlášen německým císařem",
+      "value": "5"
+    },
+    {
+      "name": "Založení katolické ligy",
+      "value": "3"
+    },
+    {
+      "name": "Ztroskotala vzducholoď Italia",
+      "value": "8"
+    },
+    {
+      "name": "Jaroslav Heyrovský převzal Nobelovu cenu za chemii",
+      "value": "9"
+    },
+    {
+      "name": "Zastřelen Martin Luther King",
+      "value": "10"
+    },
+    {
+      "name": "Umírá Alžběta I.",
+      "value": "2"
+    }
+  ]
+}

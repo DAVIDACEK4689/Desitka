@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Seřaďte tělesa sluneční soustavy podle hmotnosti",
+  "questions":
+  [
+    {
+      "name": "Saturn",
+      "value": "2"
+    },
+    {
+      "name": "Pluto",
+      "value": "10"
+    },
+    {
+      "name": "Měsíc",
+      "value": "9"
+    },
+    {
+      "name": "Neptun",
+      "value": "3"
+    },
+    {
+      "name": "Uran",
+      "value": "4"
+    },
+    {
+      "name": "Merkur",
+      "value": "8"
+    },
+    {
+      "name": "Venuše",
+      "value": "6"
+    },
+    {
+      "name": "Země",
+      "value": "5"
+    },
+    {
+      "name": "Mars",
+      "value": "7"
+    },
+    {
+      "name": "Jupiter",
+      "value": "1"
+    }
+  ]
+}

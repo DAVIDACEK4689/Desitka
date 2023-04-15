@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Seřaďte prezidenty USA (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Andrew Johnson",
+      "value": "3"
+    },
+    {
+      "name": "Franklin Delano Roosevelt",
+      "value": "6"
+    },
+    {
+      "name": "Abraham Lincoln",
+      "value": "2"
+    },
+    {
+      "name": "Thomas Jefferson",
+      "value": "1"
+    },
+    {
+      "name": "Dwight David Eisenhower",
+      "value": "7"
+    },
+    {
+      "name": "Jimmy Carter",
+      "value": "10"
+    },
+    {
+      "name": "John Fitzgerald Kennedy",
+      "value": "8"
+    },
+    {
+      "name": "Theodore Roosevelt",
+      "value": "5"
+    },
+    {
+      "name": "Richard Nixon",
+      "value": "9"
+    },
+    {
+      "name": "James Abram Garfield",
+      "value": "4"
+    }
+  ]
+}

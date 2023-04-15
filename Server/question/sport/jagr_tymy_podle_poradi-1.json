@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Seřaďte týmy Jaromíra Jágra podle působení (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Florida Panthers",
+      "value": "2"
+    },
+    {
+      "name": "New Jersey Devils",
+      "value": "3"
+    },
+    {
+      "name": "Philadelphia Flyers",
+      "value": "6"
+    },
+    {
+      "name": "New York Rangers",
+      "value": "8"
+    },
+    {
+      "name": "Avangard Omsk",
+      "value": "7"
+    },
+    {
+      "name": "Dallas Stars",
+      "value": "5"
+    },
+    {
+      "name": "Calgary Flames",
+      "value": "1"
+    },
+    {
+      "name": "Washington Capitals",
+      "value": "9"
+    },
+    {
+      "name": "Boston Bruins",
+      "value": "4"
+    },
+    {
+      "name": "Pittsburgh Penguins",
+      "value": "10"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "3",
+  "text": "Je tento stát členem NATO?",
+  "questions":
+  [
+    {
+      "name": "Francie",
+      "value": "ANO"
+    },
+    {
+      "name": "Spojené království",
+      "value": "ANO"
+    },
+    {
+      "name": "Chorvatsko",
+      "value": "ANO"
+    },
+    {
+      "name": "Arménie",
+      "value": "NE"
+    },
+    {
+      "name": "Bělorusko",
+      "value": "NE"
+    },
+    {
+      "name": "Vatikán",
+      "value": "NE"
+    },
+    {
+      "name": "Kypr",
+      "value": "NE"
+    },
+    {
+      "name": "Monako",
+      "value": "NE"
+    },
+    {
+      "name": "Švédsko",
+      "value": "NE"
+    },
+    {
+      "name": "Španělsko",
+      "value": "ANO"
+    }
+  ]
+}

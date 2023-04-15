@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Seřaďte knihy podle počtu překladů (1 = nejpřekládanější)",
+  "questions":
+  [
+    {
+      "name": "Alenka v říši divů",
+      "value": "4"
+    },
+    {
+      "name": "Důmyslný rytíř don Quijote de la Mancha",
+      "value": "5"
+    },
+    {
+      "name": "Malý princ",
+      "value": "3"
+    },
+    {
+      "name": "Deník Anny Frankové",
+      "value": "7"
+    },
+    {
+      "name": "Alchymista",
+      "value": "8"
+    },
+    {
+      "name": "Harry Potter",
+      "value": "6"
+    },
+    {
+      "name": "Pinocchiova dobrodružství",
+      "value": "2"
+    },
+    {
+      "name": "Pán prstenů",
+      "value": "10"
+    },
+    {
+      "name": "1984",
+      "value": "9"
+    },
+    {
+      "name": "Bible",
+      "value": "1"
+    }
+  ]
+}

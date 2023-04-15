@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Seřaďtě umělecké slohy podle doby vzniku (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Baroko",
+      "value": "4"
+    },
+    {
+      "name": "Biedermeier",
+      "value": "8"
+    },
+    {
+      "name": "Renesance",
+      "value": "3"
+    },
+    {
+      "name": "Secese",
+      "value": "10"
+    },
+    {
+      "name": "Empír",
+      "value": "7"
+    },
+    {
+      "name": "Gotika",
+      "value": "2"
+    },
+    {
+      "name": "Románský sloh",
+      "value": "1"
+    },
+    {
+      "name": "Rokoko",
+      "value": "5"
+    },
+    {
+      "name": "Historismus",
+      "value": "9"
+    },
+    {
+      "name": "Klasicismus",
+      "value": "6"
+    }
+  ]
+}

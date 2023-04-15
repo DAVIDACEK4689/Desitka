@@ -1,0 +1,47 @@
+{
+  "id": "4",
+  "text": "Jaké je hlavní město?",
+  "questions":
+  [
+    {
+      "name": "Jamajka",
+      "value": "Kingston"
+    },
+    {
+      "name": "Konžská republika",
+      "value": "Brazzaville"
+    },
+    {
+      "name": "Zambie",
+      "value": "Lusaka"
+    },
+    {
+      "name": "Rusko",
+      "value": "Moskva"
+    },
+    {
+      "name": "Mosambik",
+      "value": "Maputo"
+    },
+    {
+      "name": "Malawi",
+      "value": "Lilongwe"
+    },
+    {
+      "name": "Salvador",
+      "value": "San Salvador"
+    },
+    {
+      "name": "Bosna a Hercegovina",
+      "value": "Sarajevo"
+    },
+    {
+      "name": "Litva",
+      "value": "Vilnius"
+    },
+    {
+      "name": "Benin",
+      "value": "Porto Novo"
+    }
+  ]
+}

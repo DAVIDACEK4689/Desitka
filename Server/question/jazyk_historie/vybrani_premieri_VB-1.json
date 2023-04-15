@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Seřaďte premiéry VB (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Tony Blair",
+      "value": "5"
+    },
+    {
+      "name": "Boris Johnson",
+      "value": "8"
+    },
+    {
+      "name": "Harold Wilson",
+      "value": "3"
+    },
+    {
+      "name": "Margaret Thatcherová",
+      "value": "4"
+    },
+    {
+      "name": "David Cameron",
+      "value": "6"
+    },
+    {
+      "name": "Theresa Mayová",
+      "value": "7"
+    },
+    {
+      "name": "Liz Trussová",
+      "value": "9"
+    },
+    {
+      "name": "Neville Chamberlain",
+      "value": "1"
+    },
+    {
+      "name": "Winston Churchill",
+      "value": "2"
+    },
+    {
+      "name": "Rishi Sunak",
+      "value": "10"
+    }
+  ]
+}

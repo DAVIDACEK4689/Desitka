@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Seřaďte jezera podle rozlohy (1 = největší)",
+  "questions":
+  [
+    {
+      "name": "Malawi",
+      "value": "6"
+    },
+    {
+      "name": "Athabasca",
+      "value": "10"
+    },
+    {
+      "name": "Ontarijské jezero",
+      "value": "8"
+    },
+    {
+      "name": "Erijské jezero",
+      "value": "7"
+    },
+    {
+      "name": "Tanganika",
+      "value": "3"
+    },
+    {
+      "name": "Ladožské jezero",
+      "value": "9"
+    },
+    {
+      "name": "Bajkal",
+      "value": "4"
+    },
+    {
+      "name": "Viktoriino jezero",
+      "value": "2"
+    },
+    {
+      "name": "Michigan-Huron",
+      "value": "1"
+    },
+    {
+      "name": "Velké Medvědí jezero",
+      "value": "5"
+    }
+  ]
+}

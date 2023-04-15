@@ -1,0 +1,47 @@
+{
+  "id": "4",
+  "text": "Který herec získal oscara za roli v tomto filmu? (celé jméno)",
+  "questions":
+  [
+    {
+      "name": "Mlčení jehňátek",
+      "value": "Anthony Hopkins"
+    },
+    {
+      "name": "Elmer Gantry",
+      "value": "Burt Lancaster"
+    },
+    {
+      "name": "Příběh z Filadelfie",
+      "value": "James Stewart"
+    },
+    {
+      "name": "Svobodný člověk",
+      "value": "Lionel Barrymore"
+    },
+    {
+      "name": "Dívka ze Západu",
+      "value": "Lee Marvin"
+    },
+    {
+      "name": "Ztracený víkend",
+      "value": "Ray Milland"
+    },
+    {
+      "name": "Africká Královna",
+      "value": "Humphrey Bogart"
+    },
+    {
+      "name": "Hamlet",
+      "value": "Laurence Olivier"
+    },
+    {
+      "name": "Milk",
+      "value": "Sean Penn"
+    },
+    {
+      "name": "Leaving Las Vegas",
+      "value": "Nicolas Cage"
+    }
+  ]
+}

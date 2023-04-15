@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Seřaďte nerosty na MOhsově stupnici tvrdosti (1 = nejměkčí)",
+  "questions":
+  [
+    {
+      "name": "Ortoklas (živec)",
+      "value": "6"
+    },
+    {
+      "name": "Fluorit (kazivec)",
+      "value": "4"
+    },
+    {
+      "name": "Topaz",
+      "value": "8"
+    },
+    {
+      "name": "Diamant",
+      "value": "10"
+    },
+    {
+      "name": "Křemen",
+      "value": "7"
+    },
+    {
+      "name": "Sůl kamenná nebo sádrovec",
+      "value": "2"
+    },
+    {
+      "name": "Kalcit - vápenec",
+      "value": "3"
+    },
+    {
+      "name": "Mastek",
+      "value": "1"
+    },
+    {
+      "name": "Korund",
+      "value": "9"
+    },
+    {
+      "name": "Apatit",
+      "value": "5"
+    }
+  ]
+}

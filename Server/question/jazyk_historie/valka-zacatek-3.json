@@ -1,0 +1,47 @@
+{
+  "id": "3",
+  "text": "Seřaďte války podle roku propuknutí (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Pařížská komuna",
+      "value": "6"
+    },
+    {
+      "name": "Peloponéská válka",
+      "value": "1"
+    },
+    {
+      "name": "Tisícidenní válka",
+      "value": "7"
+    },
+    {
+      "name": "Třicetiletá válka",
+      "value": "2"
+    },
+    {
+      "name": "První světová válka",
+      "value": "8"
+    },
+    {
+      "name": "Prusko-francouzská válka",
+      "value": "5"
+    },
+    {
+      "name": "Sedmiletá válka",
+      "value": "3"
+    },
+    {
+      "name": "Korejská válka",
+      "value": "10"
+    },
+    {
+      "name": "Krícká válka",
+      "value": "4"
+    },
+    {
+      "name": "Druhá světová válka",
+      "value": "9"
+    }
+  ]
+}

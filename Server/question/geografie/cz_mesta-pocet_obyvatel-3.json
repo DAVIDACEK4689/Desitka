@@ -1,0 +1,47 @@
+{
+  "id": "3",
+  "text": "Seřaďte města podle počtu obyvatel",
+  "questions":
+  [
+    {
+      "name": "Kolín",
+      "value": "8"
+    },
+    {
+      "name": "Trutnov",
+      "value": "9"
+    },
+    {
+      "name": "Brno",
+      "value": "1"
+    },
+    {
+      "name": "Hradec Králové",
+      "value": "2"
+    },
+    {
+      "name": "Třinec",
+      "value": "7"
+    },
+    {
+      "name": "Ústí nad Labem",
+      "value": "3"
+    },
+    {
+      "name": "Zlín",
+      "value": "4"
+    },
+    {
+      "name": "Opava",
+      "value": "5"
+    },
+    {
+      "name": "Litvínov",
+      "value": "10"
+    },
+    {
+      "name": "Děčín",
+      "value": "6"
+    }
+  ]
+}

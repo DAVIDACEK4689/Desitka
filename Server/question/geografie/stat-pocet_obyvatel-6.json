@@ -1,0 +1,47 @@
+{
+  "id": "6",
+  "text": "Seřaďte státy podle počtu obyvatel (1 = nejvíce)",
+  "questions":
+  [
+    {
+      "name": "Černá Hora",
+      "value": "10"
+    },
+    {
+      "name": "Kuba",
+      "value": "5"
+    },
+    {
+      "name": "Guinea",
+      "value": "4"
+    },
+    {
+      "name": "Ekvádor",
+      "value": "3"
+    },
+    {
+      "name": "Nepál",
+      "value": "2"
+    },
+    {
+      "name": "Švédsko",
+      "value": "6"
+    },
+    {
+      "name": "Slovinsko",
+      "value": "9"
+    },
+    {
+      "name": "Salvador",
+      "value": "7"
+    },
+    {
+      "name": "Vietnam",
+      "value": "1"
+    },
+    {
+      "name": "Nikaragua",
+      "value": "8"
+    }
+  ]
+}

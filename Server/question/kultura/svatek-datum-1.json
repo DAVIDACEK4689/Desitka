@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Který den v roce si připomínáme? (příklad odpovědi: 5.11.)",
+  "questions":
+  [
+    {
+      "name": "Den Kryštofa Kolumba",
+      "value": "8.10."
+    },
+    {
+      "name": "Den památky Jana Palacha",
+      "value": "16.1."
+    },
+    {
+      "name": "Květnové povstání českého lidu",
+      "value": "5.5"
+    },
+    {
+      "name": "Den vzniku Československa",
+      "value": "28.10."
+    },
+    {
+      "name": "Den památky obětí invaze a následné okupace vojsky Varšavské smlouvy",
+      "value": "21.8."
+    },
+    {
+      "name": "Den svatého Patrika",
+      "value": "17.3."
+    },
+    {
+      "name": "Světový den knihy a autorských práv",
+      "value": "23.4."
+    },
+    {
+      "name": "Den vítězství",
+      "value": "8.5."
+    },
+    {
+      "name": "Den příchodu Cyrila a Metoděje",
+      "value": "5.7."
+    },
+    {
+      "name": "Mezinárodní den studenstva",
+      "value": "17.11."
+    }
+  ]
+}

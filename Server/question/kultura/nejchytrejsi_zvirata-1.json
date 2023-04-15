@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Seřaďtě zvířata podle inteligence (1 = nejchytřejší)",
+  "questions":
+  [
+    {
+      "name": "Krysa",
+      "value": "10"
+    },
+    {
+      "name": "Šimpanz",
+      "value": "3"
+    },
+    {
+      "name": "Chobotnice",
+      "value": "6"
+    },
+    {
+      "name": "Holub",
+      "value": "9"
+    },
+    {
+      "name": "Prase",
+      "value": "7"
+    },
+    {
+      "name": "Orangutan",
+      "value": "1"
+    },
+    {
+      "name": "Slon",
+      "value": "4"
+    },
+    {
+      "name": "Papoušek",
+      "value": "5"
+    },
+    {
+      "name": "Vrána",
+      "value": "8"
+    },
+    {
+      "name": "Delfín",
+      "value": "2"
+    }
+  ]
+}

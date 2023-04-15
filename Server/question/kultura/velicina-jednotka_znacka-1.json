@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Jakou značku má základní jednotka této veličiny?",
+  "questions":
+  [
+    {
+      "name": "Molární hmotnost",
+      "value": "Kg/mol"
+    },
+    {
+      "name": "Rychlost",
+      "value": "M/s"
+    },
+    {
+      "name": "Práce",
+      "value": "J"
+    },
+    {
+      "name": "Čas",
+      "value": "S"
+    },
+    {
+      "name": "Energie",
+      "value": "J"
+    },
+    {
+      "name": "Elektrická kapacita",
+      "value": "F"
+    },
+    {
+      "name": "Výkon",
+      "value": "W"
+    },
+    {
+      "name": "Hmotnost",
+      "value": "Kg"
+    },
+    {
+      "name": "Délka",
+      "value": "M"
+    },
+    {
+      "name": "Elektrické napětí",
+      "value": "V"
+    }
+  ]
+}

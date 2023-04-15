@@ -1,0 +1,47 @@
+{
+  "id": "18",
+  "text": "Seřaďte události podle roku (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Vestfálský mír",
+      "value": "5"
+    },
+    {
+      "name": "V platnost vstoupila Maastrichtská smlouva",
+      "value": "9"
+    },
+    {
+      "name": "Bitva u Jankova",
+      "value": "4"
+    },
+    {
+      "name": "Mrakodrap Burdž Chalífa v Dubaji",
+      "value": "10"
+    },
+    {
+      "name": "Bitva na Moravském poli",
+      "value": "2"
+    },
+    {
+      "name": "Začíná stoletá válka",
+      "value": "3"
+    },
+    {
+      "name": "Karel Veliký korunován římským císařem",
+      "value": "1"
+    },
+    {
+      "name": "Bostonslé pití čaje",
+      "value": "6"
+    },
+    {
+      "name": "Pakt Ribbentrop–Molotov",
+      "value": "8"
+    },
+    {
+      "name": "Jízdní kolo s pedály",
+      "value": "7"
+    }
+  ]
+}

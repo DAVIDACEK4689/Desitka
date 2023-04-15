@@ -1,0 +1,47 @@
+{
+  "id": "6",
+  "text": "Kdo je režisérem tohoto filmu?",
+  "questions":
+  [
+    {
+      "name": "Počátek",
+      "value": "Nolan"
+    },
+    {
+      "name": "Manhattan",
+      "value": "Allen"
+    },
+    {
+      "name": "Avatar",
+      "value": "Cameron"
+    },
+    {
+      "name": "Master & Commander: Odvrácená strana světa",
+      "value": "Weir"
+    },
+    {
+      "name": "Schindlerův seznam",
+      "value": "Spielberg"
+    },
+    {
+      "name": "Prázdniny v Římě",
+      "value": "Wyler"
+    },
+    {
+      "name": "Tygr a drak",
+      "value": "Lee"
+    },
+    {
+      "name": "I.T. – Mimozemšťan",
+      "value": "Spielberg"
+    },
+    {
+      "name": "Tenkrát na Západě",
+      "value": "Leone"
+    },
+    {
+      "name": "Zkrocená hora",
+      "value": "Lee"
+    }
+  ]
+}

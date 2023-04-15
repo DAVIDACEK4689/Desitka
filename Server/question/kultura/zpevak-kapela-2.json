@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Se kterou kapelou je spojen tento zpěvák?",
+  "questions":
+  [
+    {
+      "name": "Robb Flynn",
+      "value": "Machine Head"
+    },
+    {
+      "name": "John Lennon",
+      "value": "Beatles"
+    },
+    {
+      "name": "Ian Watkins",
+      "value": "LostProphets"
+    },
+    {
+      "name": "Jim Morrison",
+      "value": "Doors"
+    },
+    {
+      "name": "Johnny Rotten",
+      "value": "Sex Pistols"
+    },
+    {
+      "name": "Joe Strummer",
+      "value": "Clash"
+    },
+    {
+      "name": "Steve Perry",
+      "value": "Journey"
+    },
+    {
+      "name": "Johnny Van Zant",
+      "value": "Lynyrd Skynyrd"
+    },
+    {
+      "name": "Ray Davies",
+      "value": "Kinks"
+    },
+    {
+      "name": "Freddie Mercury",
+      "value": "Queen"
+    }
+  ]
+}

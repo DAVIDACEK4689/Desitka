@@ -1,0 +1,47 @@
+{
+  "id": "4",
+  "text": "Seřaďte města podle počtu obyvatel",
+  "questions":
+  [
+    {
+      "name": "Karviná",
+      "value": "5"
+    },
+    {
+      "name": "Chrudim",
+      "value": "9"
+    },
+    {
+      "name": "Praha",
+      "value": "1"
+    },
+    {
+      "name": "Olomouc",
+      "value": "3"
+    },
+    {
+      "name": "Teplice",
+      "value": "6"
+    },
+    {
+      "name": "Krnov",
+      "value": "10"
+    },
+    {
+      "name": "Jihlava",
+      "value": "4"
+    },
+    {
+      "name": "Liberec",
+      "value": "2"
+    },
+    {
+      "name": "Břeclav",
+      "value": "8"
+    },
+    {
+      "name": "Znojmo",
+      "value": "7"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Seřaďte osobnosti podle roku narození (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Jules Mazarin",
+      "value": "2"
+    },
+    {
+      "name": "Johann Sebastian Bach",
+      "value": "3"
+    },
+    {
+      "name": "Josif Vissarionovič Stalin",
+      "value": "8"
+    },
+    {
+      "name": "Franklin D. Roosevelt",
+      "value": "9"
+    },
+    {
+      "name": "Sigmund Freud",
+      "value": "7"
+    },
+    {
+      "name": "Napoleon Bonaparte",
+      "value": "5"
+    },
+    {
+      "name": "Albrecht z Valdštejna",
+      "value": "1"
+    },
+    {
+      "name": "Thomas Jefferson",
+      "value": "4"
+    },
+    {
+      "name": "Elvis Presley",
+      "value": "10"
+    },
+    {
+      "name": "Oscar Wilde",
+      "value": "6"
+    }
+  ]
+}

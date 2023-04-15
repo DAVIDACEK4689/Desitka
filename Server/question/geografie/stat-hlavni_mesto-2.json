@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Jaké je hlavní město?",
+  "questions":
+  [
+    {
+      "name": "Itálie",
+      "value": "Řím"
+    },
+    {
+      "name": "Svatá Lucie",
+      "value": "Castries"
+    },
+    {
+      "name": "Indie",
+      "value": "Nové Dillí"
+    },
+    {
+      "name": "Slovensko",
+      "value": "Bratislava"
+    },
+    {
+      "name": "Albánie",
+      "value": "Tirana"
+    },
+    {
+      "name": "Laos",
+      "value": "Vientiane"
+    },
+    {
+      "name": "Palestina",
+      "value": "Rámaláh"
+    },
+    {
+      "name": "Niger",
+      "value": "Niamey"
+    },
+    {
+      "name": "Turkmenistán",
+      "value": "Ašchabad"
+    },
+    {
+      "name": "Botswana",
+      "value": "Gaborone"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Který herec získal oscara za roli v tomto filmu? (celé jméno)",
+  "questions":
+  [
+    {
+      "name": "Člověk pro každé počasí",
+      "value": "Paul Scofield"
+    },
+    {
+      "name": "Jako zabít ptáčka",
+      "value": "Gregory Peck"
+    },
+    {
+      "name": "Králova řeč",
+      "value": "Colin Firth"
+    },
+    {
+      "name": "Život je krásný",
+      "value": "Roberto Benigni"
+    },
+    {
+      "name": "Četař York",
+      "value": "Gary Cooper"
+    },
+    {
+      "name": "Rain Man",
+      "value": "Dustin Hoffman"
+    },
+    {
+      "name": "Farář u svatého Dominika",
+      "value": "Bing Crosby"
+    },
+    {
+      "name": "Maršál",
+      "value": "John Wayne"
+    },
+    {
+      "name": "Přelet nad kukaččím hnízdem",
+      "value": "Jack Nicholson"
+    },
+    {
+      "name": "Wall Street",
+      "value": "Michael Douglas"
+    }
+  ]
+}

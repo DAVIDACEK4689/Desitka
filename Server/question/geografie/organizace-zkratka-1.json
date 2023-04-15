@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Jakou zkratku má tato organizace?",
+  "questions":
+  [
+    {
+      "name": "Evropský patentový úřad",
+      "value": "EPO"
+    },
+    {
+      "name": "Mezinárodní olympijský výbor",
+      "value": "IOC"
+    },
+    {
+      "name": "Mezinárodní soudní dvůr",
+      "value": "ICJ"
+    },
+    {
+      "name": "Organizace OSN pro výchovu, vědu a kulturu",
+      "value": "UNESCO"
+    },
+    {
+      "name": "Mezinárodní námořní organizace",
+      "value": "IMO"
+    },
+    {
+      "name": "Skupina afrických, karibských a tichomořských států",
+      "value": "OACPS"
+    },
+    {
+      "name": "Dětský fond Organizace spojených národů",
+      "value": "UNICEF"
+    },
+    {
+      "name": "Světová obchodní organizace",
+      "value": "WTO"
+    },
+    {
+      "name": "Světová banka",
+      "value": "WB"
+    },
+    {
+      "name": "Organizace pro hospodářskou spolupráci a rozvoj",
+      "value": "OECD"
+    }
+  ]
+}

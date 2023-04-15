@@ -1,0 +1,47 @@
+{
+  "id": "8",
+  "text": "Jakou poznávací značku má?",
+  "questions":
+  [
+    {
+      "name": "Estonsko",
+      "value": "EST"
+    },
+    {
+      "name": "Jamajka",
+      "value": "JA"
+    },
+    {
+      "name": "Kolumbie",
+      "value": "CO"
+    },
+    {
+      "name": "Trinidad a Tobago",
+      "value": "TT"
+    },
+    {
+      "name": "Kuba",
+      "value": "C"
+    },
+    {
+      "name": "Etiopie",
+      "value": "ETH"
+    },
+    {
+      "name": "Pobřeží slonoviny",
+      "value": "CI"
+    },
+    {
+      "name": "Maroko",
+      "value": "MA"
+    },
+    {
+      "name": "Španělsko",
+      "value": "E"
+    },
+    {
+      "name": "Lotyšsko",
+      "value": "LV"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "7",
+  "text": "Seřaďte události podle roku (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "Elektrická žárovka",
+      "value": "7"
+    },
+    {
+      "name": "Zavedení Gregoriánského kalendáře",
+      "value": "2"
+    },
+    {
+      "name": "Války o rakouské dědictví",
+      "value": "4"
+    },
+    {
+      "name": "Křišťálová noc",
+      "value": "9"
+    },
+    {
+      "name": "Počátek americké války za nezávislost",
+      "value": "5"
+    },
+    {
+      "name": "Havárie jaderné elektrárny Jaslovské Bohunice",
+      "value": "10"
+    },
+    {
+      "name": "Spojení království Velké Británie a Irska",
+      "value": "6"
+    },
+    {
+      "name": "Vznik Československa",
+      "value": "8"
+    },
+    {
+      "name": "První tištěné, papírové peníze v Evropě",
+      "value": "3"
+    },
+    {
+      "name": "Zánik Západořímské říše",
+      "value": "1"
+    }
+  ]
+}

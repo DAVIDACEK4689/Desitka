@@ -1,0 +1,47 @@
+{
+  "id": "3",
+  "text": "Ve které zemi najdeme tuto památku?",
+  "questions":
+  [
+    {
+      "name": "Angkor Vat",
+      "value": "Kambodža"
+    },
+    {
+      "name": "Ani",
+      "value": "Turecko"
+    },
+    {
+      "name": "Tádž Mahal",
+      "value": "Indie"
+    },
+    {
+      "name": "Fontána di Trevli",
+      "value": "Itálie"
+    },
+    {
+      "name": "Zlatý chrám",
+      "value": "Indie"
+    },
+    {
+      "name": "Golden Gate Bridge",
+      "value": "USA"
+    },
+    {
+      "name": "Chichén Itzá",
+      "value": "Mexiko"
+    },
+    {
+      "name": "Sagrada Familia",
+      "value": "Španělsko"
+    },
+    {
+      "name": "Akropolis",
+      "value": "Řecko"
+    },
+    {
+      "name": "Spišský hrad",
+      "value": "Slovensko"
+    }
+  ]
+}

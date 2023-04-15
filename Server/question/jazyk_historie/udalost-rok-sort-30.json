@@ -1,0 +1,47 @@
+{
+  "id": "30",
+  "text": "Seřaďte události podle roku (1 = nejstarší)",
+  "questions":
+  [
+    {
+      "name": "V Pensylvánii se roztavil reaktor jaderné elektrárny",
+      "value": "10"
+    },
+    {
+      "name": "Umírá T.G.Masaryk",
+      "value": "9"
+    },
+    {
+      "name": "Bartolomějská noc",
+      "value": "3"
+    },
+    {
+      "name": "Bitva u Naissu",
+      "value": "1"
+    },
+    {
+      "name": "Založen Petrohrad",
+      "value": "4"
+    },
+    {
+      "name": "V Československu zahájeno pravidelné rozhlasové vysílání",
+      "value": "8"
+    },
+    {
+      "name": "Vandalové dobyli Kartágo",
+      "value": "2"
+    },
+    {
+      "name": "První papírové dolary v Americe",
+      "value": "6"
+    },
+    {
+      "name": "Podzemní dráha v New Yorku",
+      "value": "7"
+    },
+    {
+      "name": "Bitva u Kolína",
+      "value": "5"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "2",
+  "text": "Jak se nazývá lékař, jehož oborem je?",
+  "questions":
+  [
+    {
+      "name": "Operační léčba zranění",
+      "value": "Chirurg"
+    },
+    {
+      "name": "Mozek",
+      "value": "Neurolog"
+    },
+    {
+      "name": "Srdce",
+      "value": "Kardiolog"
+    },
+    {
+      "name": "Rakovina",
+      "value": "Onkolog"
+    },
+    {
+      "name": "Ušní, nosní a krční nemoci",
+      "value": "Otorinolaryngolog"
+    },
+    {
+      "name": "Ledviny",
+      "value": "Nefrolog"
+    },
+    {
+      "name": "Mrtvoly",
+      "value": "Patolog"
+    },
+    {
+      "name": "Zuby",
+      "value": "Stomatolog"
+    },
+    {
+      "name": "Zrak",
+      "value": "Oftalmolog"
+    },
+    {
+      "name": "Děti",
+      "value": "Pediatr"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Seřaďte pokerové kombinace (1 = nejvyšší)?",
+  "questions":
+  [
+    {
+      "name": "Barva",
+      "value": "5"
+    },
+    {
+      "name": "Full house",
+      "value": "4"
+    },
+    {
+      "name": "Nejvyšší karta",
+      "value": "10"
+    },
+    {
+      "name": "Trojice",
+      "value": "7"
+    },
+    {
+      "name": "Pár",
+      "value": "9"
+    },
+    {
+      "name": "Královská postupka",
+      "value": "1"
+    },
+    {
+      "name": "Čtveřice",
+      "value": "3"
+    },
+    {
+      "name": "Postupka",
+      "value": "6"
+    },
+    {
+      "name": "Postupka v barvě",
+      "value": "2"
+    },
+    {
+      "name": "Dva páry",
+      "value": "8"
+    }
+  ]
+}

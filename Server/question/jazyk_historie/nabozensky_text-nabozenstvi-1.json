@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Ke kterému náboženství patří tento text?",
+  "questions":
+  [
+    {
+      "name": "Tipitaka",
+      "value": "Buddhismus"
+    },
+    {
+      "name": "Mahájánové sútry",
+      "value": "Buddhismus"
+    },
+    {
+      "name": "Midraš",
+      "value": "Judaismus"
+    },
+    {
+      "name": "Talmud",
+      "value": "Judaismus"
+    },
+    {
+      "name": "Tanakh",
+      "value": "Judaismus"
+    },
+    {
+      "name": "Hadis",
+      "value": "Islám"
+    },
+    {
+      "name": "Kybalion",
+      "value": "Hermetismus"
+    },
+    {
+      "name": "Liezi",
+      "value": "Taoismus"
+    },
+    {
+      "name": "Starý zákon",
+      "value": "Křesťanství"
+    },
+    {
+      "name": "Tao Te Ching",
+      "value": "Taoismus"
+    }
+  ]
+}

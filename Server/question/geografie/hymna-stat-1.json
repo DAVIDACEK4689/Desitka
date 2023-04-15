@@ -1,0 +1,47 @@
+{
+  "id": "1",
+  "text": "Jaký stát má tuto hymnu?",
+  "questions":
+  [
+    {
+      "name": "Kimi Ga Yo",
+      "value": "Japonsko"
+    },
+    {
+      "name": "The Star Spangled Banner",
+      "value": "USA"
+    },
+    {
+      "name": "La Marseillaise",
+      "value": "Francie"
+    },
+    {
+      "name": "Jana Gana Mana",
+      "value": "Indie"
+    },
+    {
+      "name": "Marcha Real",
+      "value": "Španělsko"
+    },
+    {
+      "name": "Hatikvah",
+      "value": "Izrael"
+    },
+    {
+      "name": "Wilhelmus van Nassouwe",
+      "value": "Nizozemsko/Holandsko"
+    },
+    {
+      "name": "God Save the Queen",
+      "value": "Velké Británie/Spojené království/Anglie"
+    },
+    {
+      "name": "Ee Mungu Nguvu Yetu",
+      "value": "Keňa"
+    },
+    {
+      "name": "Ja Vi Elsker Dette Landet",
+      "value": "Norsko"
+    }
+  ]
+}
