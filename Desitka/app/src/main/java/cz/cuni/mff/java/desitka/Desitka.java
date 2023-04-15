@@ -784,7 +784,7 @@ public class Desitka extends AppCompatActivity {
                     return true;
                 }
                 else if (itemId == R.id.about_game) {
-                    Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.seznam.cz"));
+                    Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/DAVIDACEK4689/Desitka"));
                     startActivity(browserIntent);
                     return true;
                 }
