@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Desitka" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@android:color/holo_orange_dark</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:windowBackground">@drawable/background</item>
+        <item name="android:statusBarColor">@android:color/black</item>
+
+        <item name="android:popupMenuStyle">@style/PopupMenu</item>
+        <item name="android:itemTextAppearance">@style/PopupMenuItem</item>
+    </style>
+
+
+    <style name="PopupMenu" parent="@style/Widget.AppCompat.PopupMenu">
+        <item name="android:popupBackground">@android:color/holo_orange_dark</item>
+    </style>
+
+    <!-- To change Popup Menu Item's text color and text size-->
+    <style name="PopupMenuItem" parent="@android:style/TextAppearance.Widget.IconMenu.Item">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+</resources>

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:visibility="gone"
+            android:id="@+id/starting_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <!-- including navbar -->
+            <include
+                android:id="@+id/navbar"
+                layout="@layout/navbar"/>
+
+            <ImageView
+                android:id="@+id/title_picture"
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:layout_below="@+id/navbar"
+                android:layout_centerHorizontal="true"
+                android:layout_marginStart="50dp"
+                android:layout_marginTop="50dp"
+                android:layout_marginEnd="50dp"
+                android:layout_marginBottom="50dp"
+                android:contentDescription="@string/title_picture"
+                android:src="@drawable/title_picture" />
+
+            <RelativeLayout
+                android:id="@+id/buttons"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/title_picture">
+
+                <RelativeLayout
+                    android:visibility="gone"
+                    android:id="@+id/starting_buttons"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center">
+
+                    <Button
+                        android:id="@+id/single_player_button"
+                        android:layout_width="300dp"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:text="@string/play_online"
+                        android:textAllCaps="false"
+                        android:textSize="30sp" />
+
+                    <Button
+                        android:id="@+id/multiplayer_button"
+                        android:layout_width="300dp"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/single_player_button"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="10dp"
+                        android:text="@string/play_with_friends"
+                        android:textAllCaps="false"
+                        android:textSize="30sp" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:visibility="gone"
+                    android:id="@+id/friend_game_buttons"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center">
+
+                    <Button
+                        android:id="@+id/setup_game_button"
+                        android:layout_width="300dp"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:text="@string/create_game"
+                        android:textAllCaps="false"
+                        android:textSize="30sp" />
+
+                    <Button
+                        android:id="@+id/join_game_button"
+                        android:layout_width="300dp"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/setup_game_button"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="10dp"
+                        android:text="@string/join_game"
+                        android:textAllCaps="false"
+                        android:textSize="30sp" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:visibility="gone"
+                    android:id="@+id/create_game_buttons"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/player_count_view"
+                        android:layout_width="300dp"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:textAlignment="center"
+                        android:text="@string/player_count"
+                        android:textSize="30sp" />
+
+                    <LinearLayout
+                        android:id="@+id/player_counts"
+                        android:layout_width="300dp"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/player_count_view"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="10dp"
+                        android:weightSum="4">
+
+                        <TextView
+                            android:id="@+id/player_count1"
+                            android:layout_width="0dp"
+                            android:layout_height="60dp"
+                            android:layout_weight="1"
+                            android:textSize="30sp"
+                            android:gravity="center"
+                            android:background="@android:color/holo_orange_light"
+                            android:text="@string/player_count2"/>
+
+                        <TextView
+                            android:id="@+id/player_count2"
+                            android:layout_width="0dp"
+                            android:layout_height="60dp"
+                            android:layout_weight="1"
+                            android:textSize="30sp"
+                            android:gravity="center"
+                            android:background="@android:color/holo_orange_dark"
+                            android:text="@string/player_count3"/>
+
+                        <TextView
+                            android:id="@+id/player_count3"
+                            android:layout_width="0dp"
+                            android:layout_height="60dp"
+                            android:layout_weight="1"
+                            android:textSize="30sp"
+                            android:gravity="center"
+                            android:background="@android:color/holo_orange_light"
+                            android:text="@string/player_count4"/>
+
+                        <TextView
+                            android:id="@+id/player_count4"
+                            android:layout_width="0dp"
+                            android:layout_height="60dp"
+                            android:layout_weight="1"
+                            android:textSize="30sp"
+                            android:gravity="center"
+                            android:background="@android:color/holo_orange_light"
+                            android:text="@string/player_count5"/>
+                    </LinearLayout>
+
+                    <Button
+                        android:id="@+id/create_game_button"
+                        android:layout_width="300dp"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/player_counts"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="20dp"
+                        android:textAlignment="center"
+                        android:text="@string/confirm_create_game"
+                        android:textAllCaps="false"
+                        android:textSize="30sp" />
+
+                </RelativeLayout>
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:visibility="gone"
+            android:id="@+id/change_name_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/change_player_name_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:textSize="30sp"
+                android:text="@string/enter_player_name"/>
+
+
+            <EditText
+                android:id="@+id/change_player_name_input"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/change_player_name_view"
+                android:layout_marginTop="20dp"
+                android:layout_centerHorizontal="true"
+                android:inputType="textPersonName"
+                android:maxLength="8"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:importantForAutofill="no"
+                android:labelFor="@+id/change_player_name_input"/>
+
+            <Button
+                android:id="@+id/change_name_button"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/change_player_name_input"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="25dp"
+                android:text="@string/confirm"
+                android:textAllCaps="false"
+                android:textSize="25sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:visibility="gone"
+            android:id="@+id/join_game_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/game_code_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:textSize="30sp"
+                android:text="@string/game_code"/>
+
+
+            <EditText
+                android:id="@+id/game_code_input"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/game_code_text"
+                android:layout_marginTop="20dp"
+                android:layout_centerHorizontal="true"
+                android:inputType="textPersonName"
+                android:maxLength="8"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:importantForAutofill="no"
+                android:labelFor="@+id/game_code_input"/>
+
+            <Button
+                android:id="@+id/confirm_code_button"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/game_code_input"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="25dp"
+                android:text="@string/confirm_join_game"
+                android:textAllCaps="false"
+                android:textSize="30sp"/>
+
+            <Button
+                android:id="@+id/return_to_menu"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/confirm_code_button"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="10dp"
+                android:text="@string/move_back"
+                android:textAllCaps="false"
+                android:textSize="30sp"/>
+        </RelativeLayout>
+    </RelativeLayout>
+</ScrollView>
