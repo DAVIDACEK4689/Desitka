@@ -40,8 +40,8 @@
 ---
 ## Jak to spustit
 - Doporučuji zhlédnout přiložená videa 
-    - [spusteni]
-    - [pouziti]
+    - [spusteni](spusteni.mkv)
+    - [hrani](hrani.mp4)
 
 - Tady je spuštění písemně:
     - vytvořit účet na [ngrok](https://ngrok.com/)
