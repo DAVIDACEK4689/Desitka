@@ -211,7 +211,7 @@ public class Desitka extends AppCompatActivity {
         findContent();
         initialize();
         actions();
-        getPlayerName();
+        loadPlayerName();
         setStartingScene();
     }
 
@@ -225,7 +225,7 @@ public class Desitka extends AppCompatActivity {
     /**
      * Get player name from shared preferences
      */
-    private void getPlayerName() {
+    private void loadPlayerName() {
         playerName = sharedPreferences.getString("username", "");
         playerNameTitle.setText(playerName);
     }
@@ -455,13 +455,13 @@ public class Desitka extends AppCompatActivity {
      * set the UI for the starting scene
      */
     private void setStartingScene() {
+        startingContent.setVisibility(RelativeLayout.VISIBLE);
+        gameContent.setVisibility(RelativeLayout.GONE);
+
         if (playerName.equals("")) {
             setChangeNameScene();
         }
         else {
-            startingContent.setVisibility(RelativeLayout.VISIBLE);
-            gameContent.setVisibility(RelativeLayout.GONE);
-
             startingLayout.setVisibility(RelativeLayout.VISIBLE);
             changeNameLayout.setVisibility(RelativeLayout.GONE);
             joinGameLayout.setVisibility(RelativeLayout.GONE);
