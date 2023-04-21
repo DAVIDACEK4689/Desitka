@@ -11,7 +11,7 @@ import java.util.Random;
  * Abstract class that represents a game.
  */
 abstract class Game {
-    private static final int MAX_SCORE = 1;
+    private static final int MAX_SCORE = 2;
     private static List<Question> questions;
     private final long creationTime;
 
