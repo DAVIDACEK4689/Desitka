@@ -556,7 +556,7 @@ public class Desitka extends AppCompatActivity {
      * Configure the timer for the answer scene
      */
     private void answersTimer() {
-        new CountDownTimer(20000, 1000) {
+        countDownTimer = new CountDownTimer(20000, 1000) {
             @Override
             public void onTick(long millisUntilFinished) {
                 questionTimer.setText(String.valueOf((int) (millisUntilFinished / 1000)));
@@ -598,7 +598,7 @@ public class Desitka extends AppCompatActivity {
      * Configure the timer for the player score scene
      */
     private void playerScoreTimer() {
-        new CountDownTimer(10000, 1000) {
+        countDownTimer = new CountDownTimer(10000, 1000) {
             @Override
             public void onTick(long millisUntilFinished) {
                 playersScoreTimer.setText(String.valueOf((int) (millisUntilFinished / 1000)));
@@ -1277,19 +1277,28 @@ public class Desitka extends AppCompatActivity {
         }
 
         /**
+         * method to print message to server
+         * @param message message to be printed
+         */
+        public void print(String message) {
+            printer.println(message);
+            printer.flush();
+        }
+
+        /**
          * connect to server and communicate with it
          */
         @Override
         public void run() {
 
-            try (Socket client = new Socket("4.tcp.eu.ngrok.io", 16368)) {
+            try (Socket client = new Socket("7.tcp.eu.ngrok.io", 18504)) {
                 // OPEN CONNECTION
                 reader = new BufferedReader(new InputStreamReader(client.getInputStream()));
                 printer = new PrintWriter(client.getOutputStream(), true);
 
                 // SEARCHING FOR GAME
-                printer.println(playerName);
-                printer.println(gameRequest);
+                print(playerName);
+                print(gameRequest);
                 boolean gameFound = searchGame();
 
                 // IF GAME NOT FOUND
@@ -1419,8 +1428,8 @@ public class Desitka extends AppCompatActivity {
             while (myAnswer == null) {
                 Thread.yield();
             }
-            printer.println(myAnswerID);
-            printer.println(myAnswer);
+            print(String.valueOf(myAnswerID));
+            print(myAnswer);
             myAnswer = null;
         }
 
@@ -1499,7 +1508,7 @@ public class Desitka extends AppCompatActivity {
          * configure start game timer
          */
         private void startGameTimer() {
-            new CountDownTimer(5000, 1000) {
+            countDownTimer = new CountDownTimer(5000, 1000) {
                 @Override
                 public void onTick(long millisUntilFinished) {
                     joinedGameTimer.setText(String.format(getApplicationContext().getResources().getString(R.string.game_start), millisUntilFinished / 1000));
@@ -1549,7 +1558,7 @@ public class Desitka extends AppCompatActivity {
             long gameCreationTime = Long.parseLong(readLine());
             long timeToWait = gameCreationTime + 60000 - currentTime;
 
-            runOnUiThread(() -> new CountDownTimer(timeToWait, 1000) {
+            runOnUiThread(() -> countDownTimer = new CountDownTimer(timeToWait, 1000) {
                 @Override
                 public void onTick(long millisUntilFinished) {
                     if (playersFound) {
@@ -1602,7 +1611,7 @@ public class Desitka extends AppCompatActivity {
                 return true;
             }
             else if (gameRequest.equals("createGame")) {
-                printer.println(playerCountSelected.getText().toString());
+                print(playerCountSelected.getText().toString());
                 gameCode = readLine();
 
                 // FOR USERS WHO PLAYS FRIEND GAME AGAIN (GAME HAS THE SAME CODE)
@@ -1613,7 +1622,7 @@ public class Desitka extends AppCompatActivity {
                 return true;
             }
             else {
-                printer.println(gameCodeInput.getText().toString());
+                print(gameCodeInput.getText().toString());
                 String response = readLine();
 
                 switch (response) {
@@ -1690,7 +1699,7 @@ public class Desitka extends AppCompatActivity {
      * configure answer verdict timer
      */
     private void answerVerdictTimer() {
-        new CountDownTimer(5000, 1000) {
+        countDownTimer = new CountDownTimer(5000, 1000) {
             @Override
             public void onTick(long millisUntilFinished) {
             }
