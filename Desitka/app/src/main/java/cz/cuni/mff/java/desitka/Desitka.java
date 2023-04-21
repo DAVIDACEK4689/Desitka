@@ -1262,8 +1262,8 @@ public class Desitka extends AppCompatActivity {
      * Client thread to connect and communicate with server
      */
     class ClientThread implements Runnable {
-        private BufferedReader bufferedReader;
-        private PrintWriter printwriter;
+        private BufferedReader reader;
+        private PrintWriter printer;
 
         private final String gameRequest;
 
@@ -1283,13 +1283,13 @@ public class Desitka extends AppCompatActivity {
         public void run() {
 
             try (Socket client = new Socket("4.tcp.eu.ngrok.io", 16368)) {
-                // READER AND PRINTWRITER
-                bufferedReader = new BufferedReader(new InputStreamReader(client.getInputStream()));
-                printwriter = new PrintWriter(client.getOutputStream(), true);
+                // OPEN CONNECTION
+                reader = new BufferedReader(new InputStreamReader(client.getInputStream()));
+                printer = new PrintWriter(client.getOutputStream(), true);
 
                 // SEARCHING FOR GAME
-                printwriter.println(playerName);
-                printwriter.println(gameRequest);
+                printer.println(playerName);
+                printer.println(gameRequest);
                 boolean gameFound = searchGame();
 
                 // IF GAME NOT FOUND
@@ -1305,7 +1305,7 @@ public class Desitka extends AppCompatActivity {
                 // We lost internet connection - connectivity Manager will handle it
             }
             catch (IOException e) {
-                // cancel game timer - it is surely defined
+                // cancel game timer
                 countDownTimer.cancel();
 
                 // notify user
@@ -1323,9 +1323,10 @@ public class Desitka extends AppCompatActivity {
                 });
             }
             finally {
+                // CLOSE CONNECTION
                 try {
-                    bufferedReader.close();
-                    printwriter.close();
+                    reader.close();
+                    printer.close();
                 }
                 catch (IOException e) {
                     e.printStackTrace();
@@ -1418,8 +1419,8 @@ public class Desitka extends AppCompatActivity {
             while (myAnswer == null) {
                 Thread.yield();
             }
-            printwriter.println(myAnswerID);
-            printwriter.println(myAnswer);
+            printer.println(myAnswerID);
+            printer.println(myAnswer);
             myAnswer = null;
         }
 
@@ -1581,10 +1582,10 @@ public class Desitka extends AppCompatActivity {
          * @throws IOException IOException
          */
         private String readLine() throws IOException {
-            while (!bufferedReader.ready()){
+            while (!reader.ready()){
                 Thread.yield();
             }
-            return bufferedReader.readLine();
+            return reader.readLine();
         }
 
         /**
@@ -1601,7 +1602,7 @@ public class Desitka extends AppCompatActivity {
                 return true;
             }
             else if (gameRequest.equals("createGame")) {
-                printwriter.println(playerCountSelected.getText().toString());
+                printer.println(playerCountSelected.getText().toString());
                 gameCode = readLine();
 
                 // FOR USERS WHO PLAYS FRIEND GAME AGAIN (GAME HAS THE SAME CODE)
@@ -1612,7 +1613,7 @@ public class Desitka extends AppCompatActivity {
                 return true;
             }
             else {
-                printwriter.println(gameCodeInput.getText().toString());
+                printer.println(gameCodeInput.getText().toString());
                 String response = readLine();
 
                 switch (response) {
