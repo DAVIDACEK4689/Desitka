@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Desitka</string>
+    <string name="title_picture">title picture</string>
+    <string name="play_online">Hrát online</string>
+    <string name="play_with_friends">Hrát s přáteli</string>
+    <string name="create_game">Vytvořit hru</string>
+    <string name="join_game">Připojit se ke hře</string>
+    <string name="player_count">Počet hráčů:</string>
+    <string name="player_count2">2</string>
+    <string name="player_count3">3</string>
+    <string name="player_count4">4</string>
+    <string name="player_count5">5</string>
+    <string name="confirm_create_game">Vytvořit</string>
+    <string name="enter_player_name">Jméno hráče:</string>
+    <string name="confirm">Potvrdit</string>
+    <string name="game_code">Kód hry:</string>
+    <string name="confirm_join_game">Připojit</string>
+    <string name="move_back">Zpět</string>
+    <string name="game_preparation">Příprava hry</string>
+    <string name="pass_question">Pasovat</string>
+    <string name="ranking">Pořadí:</string>
+    <string name="end_game">Ukončit</string>
+    <string name="player_on_move">Na tahu je %1$s</string>
+    <string name="your_turn">Jste na tahu</string>
+    <string name="wrong_answer">%1$s vypadává ze hry</string>
+    <string name="players_in_round">%1$d/%2$d</string>
+    <string name="correct_answer">%1$s získává bod</string>
+    <string name="round_score">Skóre: %1$d</string>
+    <string name="game_start">Hra začne za %1$d</string>
+    <string name="waiting_time">Registrace: %1$d</string>
+    <string name="joined_players">Hráči: (%1$d/%2$d)</string>
+    <string name="player_passes">%1$s pasuje</string>
+    <string name="question_solution">Řešení:</string>
+    <string name="new_game">Nová hra</string>
+    <string name="play_again">Hrát znovu</string>
+
+    <string name="no_internet_connection">Aplikace vyžaduje pro správné fungování internetové připojení</string>
+    <string name="players_not_found">Hráči nenalezeni</string>
+    <string name="invalid_game_code">Nesprávný kód hry</string>
+    <string name="name_already_joined">Hráč s Vaším jménem již hraje</string>
+
+
+</resources>

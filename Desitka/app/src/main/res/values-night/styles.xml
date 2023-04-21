@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- To change the color of the navigation bar-->
+    <style name="NavbarTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:background">@android:color/holo_orange_dark</item>
+    </style>
+
+
+    <!-- To change Popup Menu's background color-->
+    <style name="PopupMenu" parent="@style/Widget.AppCompat.PopupMenu">
+        <item name="android:popupBackground">@android:color/holo_orange_dark</item>
+    </style>
+
+
+    <!-- To change Popup Menu Item's text color and text size-->
+    <style name="PopupMenuItem" parent="@android:style/TextAppearance.Widget.IconMenu.Item">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+</resources>
