@@ -10,6 +10,7 @@ public class Question {
     private String text;
     private List<SubQuestion> questions;
 
+
     /**
      * Checks if the answer is correct.
      * @param questionID the ID of the sub-question
@@ -20,6 +21,7 @@ public class Question {
         return questions.get(questionID).value.equalsIgnoreCase(answer);
     }
 
+
     /**
      * Get text of the question.
      * @return the text of the question
@@ -27,6 +29,7 @@ public class Question {
     public String getText() {
         return text;
     }
+
 
     /**
      * Get sub-questions of question.
@@ -36,12 +39,14 @@ public class Question {
         return questions;
     }
 
+
     /**
      * A class representing a sub-question.
      */
     static class SubQuestion {
         private String name;
         private String value;
+
 
         /**
          * Get text of the sub-question.
@@ -50,6 +55,7 @@ public class Question {
         public String getText() {
             return name;
         }
+
 
         /**
          * Get the correct answer of the sub-question.

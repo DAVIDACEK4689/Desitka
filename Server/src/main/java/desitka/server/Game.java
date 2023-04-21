@@ -20,15 +20,12 @@ abstract class Game {
     private final List<Integer> questionIDs = new ArrayList<>();
     private final Random random = new Random();
 
-
     private volatile int PLAYER_COUNT;
     private volatile int onMoveIndex;
     private volatile String playerOnMove;
 
-
     private volatile boolean roundStarted;
     private volatile boolean roundEvaluated;
-
 
     private Question question;
     private int ROUND = 0;
@@ -46,6 +43,7 @@ abstract class Game {
         return creationTime;
     }
 
+
     /**
      * Returns the list of players in the game.
      *
@@ -54,6 +52,7 @@ abstract class Game {
     public List<Server.Player> getPlayers() {
         return players;
     }
+
 
     /**
      * Constructor.
@@ -67,6 +66,7 @@ abstract class Game {
         loadQuestionIDs();
     }
 
+
     /**
      * Loads the list of question IDs.
      */
@@ -75,6 +75,7 @@ abstract class Game {
             questionIDs.add(i);
         }
     }
+
 
     /**
      * Loads the list of questions from the specified file.
@@ -86,6 +87,7 @@ abstract class Game {
         questions = QuestionParser.getQuestions(file);
     }
 
+
     /**
      * Adds a player to the game.
      *
@@ -94,6 +96,7 @@ abstract class Game {
     protected void addPlayer(Server.Player player) {
         players.add(player);
     }
+
 
     /**
      * Removes a player from the game.
@@ -104,6 +107,7 @@ abstract class Game {
         players.remove(player);
         PLAYER_COUNT--;
     }
+
 
     /**
      * Check player inactivity. If the player has not responded for 3 times, remove him from the game.
@@ -116,6 +120,7 @@ abstract class Game {
         }
     }
 
+
     /**
      * Decides whether the answer is correct.
      *
@@ -127,6 +132,7 @@ abstract class Game {
         return question.isAnswerCorrect(questionID, answer);
     }
 
+
     /**
      * Get the number of players in the game.
      * @return the number of players in the game
@@ -134,6 +140,7 @@ abstract class Game {
     public int getPlayersCount () {
         return PLAYER_COUNT;
     }
+
 
     /**
      * Post the question to all players.
@@ -149,6 +156,7 @@ abstract class Game {
         });
     }
 
+
     /**
      * Randomly choose next question.
      */
@@ -156,6 +164,7 @@ abstract class Game {
         int randomIndex = random.nextInt(questionIDs.size()-1);
         question = questions.remove(randomIndex);
     }
+
 
     /**
      * Notify other players that a player has joined the game.
@@ -169,6 +178,7 @@ abstract class Game {
         }
     }
 
+
     /**
      * Decides whether the game is ready to start. Game is ready to start if all players have joined.
      * @return true if all players has joined, false otherwise
@@ -176,6 +186,7 @@ abstract class Game {
     public boolean ready() {
         return players.size() == PLAYER_COUNT;
     }
+
 
     /**
      * Decides whether the round is finished. Round is finished if there is no active player in round.
@@ -185,6 +196,7 @@ abstract class Game {
         return playersInRound.size() == 0;
     }
 
+
     /**
      * Start next round. All players are synchronized at this point.
      */
@@ -192,21 +204,26 @@ abstract class Game {
         roundStartReadyPlayers++;
 
         if (roundStartReadyPlayers == PLAYER_COUNT) {
+            // UPDATE PLAYERS IN ROUND
             playersInRound.clear();
             playersInRound.addAll(players);
 
+            // GET PLAYER ON MOVE
             onMoveIndex = ROUND % PLAYER_COUNT;
             playerOnMove = playersInRound.get(onMoveIndex).getPlayerName();
 
+            // CHOOSE QUESTION
             ROUND++;
             chooseQuestion();
             postQuestion();
 
+            // UPDATE VALUES
             roundStartReadyPlayers = 0;
             roundEvaluated = false;
             roundStarted = true;
         }
     }
+
 
     /**
      * Evaluate the round. All players are synchronized at this point.
@@ -215,10 +232,12 @@ abstract class Game {
         roundEvaluateReadyPlayers++;
 
         if (roundEvaluateReadyPlayers == PLAYER_COUNT) {
+            // FIND MAX SCORE
             List<Server.Player> playerScoreList = new ArrayList<>(players);
             playerScoreList.sort((p1, p2) -> p2.getScore() - p1.getScore());
             playerMaxScore = playerScoreList.get(0).getScore();
 
+            // NOTIFY PLAYERS
             players.forEach(player -> {
                 player.print(String.valueOf(players.size()));
                 player.print(String.valueOf(gameFinished()));
@@ -228,11 +247,13 @@ abstract class Game {
                 });
             });
 
+            // UPDATE VALUES
             roundEvaluateReadyPlayers = 0;
             roundStarted = false;
             roundEvaluated = true;
         }
     }
+
 
     /**
      * Decides whether the game is finished. Game is finished if the player with the highest score
@@ -243,6 +264,7 @@ abstract class Game {
     public boolean gameFinished() {
         return playerMaxScore >= MAX_SCORE || PLAYER_COUNT <= 1;
     }
+
 
     /**
      * Schedule the next player to play.
@@ -258,12 +280,14 @@ abstract class Game {
         playerOnMove = playersInRound.get(onMoveIndex).getPlayerName();
     }
 
+
     /**
      * End the round.
      */
     private void endRound() {
         players.forEach(player -> player.print("roundFinished"));
     }
+
 
     /**
      * Method to check whether it is the player's turn.
@@ -299,6 +323,7 @@ abstract class Game {
         }
     }
 
+
     /**
      * Check answer correctness.
      *
@@ -317,6 +342,7 @@ abstract class Game {
         }
     }
 
+
     /**
      * Method to check whether the round has started. Important for synchronization.
      *
@@ -326,6 +352,7 @@ abstract class Game {
         return roundStarted;
     }
 
+
     /**
      * Method to check whether the round has been evaluated. Important for synchronization.
      *
@@ -334,6 +361,7 @@ abstract class Game {
     public boolean roundEvaluated() {
         return roundEvaluated;
     }
+
 
     /**
      * Method to check whether a player with given name has already joined the game.
@@ -351,6 +379,7 @@ abstract class Game {
     }
 }
 
+
 /**
  * Class to represent a SinglePlayerGame.
  * This Game has default number of players = 3 and no code.
@@ -366,6 +395,7 @@ class SinglePlayerGame extends Game {
     }
 
 }
+
 
 /**
  * Class to represent a FriendGame.
@@ -384,6 +414,7 @@ class FriendGame extends Game {
         gameCode = generateGameCode();
     }
 
+
     /**
      * Constructor for FriendGame which will be played again. The game code is the same as before
      *
@@ -394,6 +425,7 @@ class FriendGame extends Game {
         this.gameCode = gameCode;
     }
 
+
     /**
      * Generate a random game code.
      *
@@ -402,6 +434,7 @@ class FriendGame extends Game {
     private String generateGameCode() {
         return RandomStringUtils.randomAlphabetic(8).toLowerCase();
     }
+
 
     /**
      * Get the game code.

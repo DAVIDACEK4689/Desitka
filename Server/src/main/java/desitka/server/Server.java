@@ -23,6 +23,7 @@ public class Server {
     // IF THERE WAS GAME EVALUATION, PLAYER NEEDS MORE TIME TO ANSWER - 35 seconds
     private final long EXTRA_TIME = 30_000;
 
+
     /**
      * Starts the server on the specified port and loads questions from the specified file.
      *
@@ -39,6 +40,7 @@ public class Server {
             new Player(serverSocket.accept()).start();
         }
     }
+
 
     /**
      * Inner class representing a player on the server.
@@ -70,6 +72,7 @@ public class Server {
             printer.flush();
         }
 
+
         /**
          * Returns the player name.
          *
@@ -99,35 +102,29 @@ public class Server {
             this.clientSocket = socket;
         }
 
+
         /**
          * Runs the player thread.
          */
         public void run() {
             try {
-                printer = new PrintWriter(clientSocket.getOutputStream(), true);
+                // OPEN CONNECTION
                 reader = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
-                System.out.println(clientSocket);
+                printer = new PrintWriter(clientSocket.getOutputStream(), true);
 
                 // SEARCHING FOR GAME
                 playerName = readLine();
                 String gameType = readLine();
                 boolean gameFound = searchGame(gameType);
 
-                // WAITING FOR OTHER PLAYERS
+                // IF GAME NOT FOUND, CLOSE CONNECTION
                 if (!gameFound) {
-                    reader.close();
-                    printer.close();
-                    clientSocket.close();
                     return;
                 }
+
+                // WAIT FOR PLAYERS AND START GAME
                 waitForPlayers();
-
-                // PLAYING
-                System.out.println("Game started");
                 playGame();
-
-                // GAME FINISHED
-                System.out.println("Game finished");
 
                 // ADD FRIEND GAME TO BE PLAYED AGAIN IF THERE IS MORE THAN ONE PLAYER
                 int players = game.getPlayersCount();
@@ -135,16 +132,24 @@ public class Server {
                     String gameCode = ((FriendGame) game).getGameCode();
                     friendGames.add(new FriendGame(players, gameCode));
                 }
-
-                // CLOSE CONNECTION
-                reader.close();
-                printer.close();
-                clientSocket.close();
             }
             catch (IOException e) {
                 System.out.println(e.getMessage());
             }
+            finally {
+                // CLOSE CONNECTION
+                try {
+                    reader.close();
+                    printer.close();
+                    clientSocket.close();
+                }
+                catch (IOException e) {
+                    e.printStackTrace();
+                }
+
+            }
         }
+
 
         /**
          * Plays the game, which consists of rounds.
@@ -158,6 +163,7 @@ public class Server {
                 evaluateRound();
             }
         }
+
 
         /**
          * Plays a round of the game.
@@ -174,6 +180,7 @@ public class Server {
                 }
             }
         }
+
 
         /**
          * Makes a turn in the game. Only one player can make a turn at a time.
@@ -197,6 +204,7 @@ public class Server {
             // SCHEDULE NEXT PLAYER
             game.scheduleNextPlayer();
         }
+
 
         /**
          * Load Player Answer. If player does not respond in 40 seconds, We expect that he lost connection
@@ -223,6 +231,7 @@ public class Server {
             myAnswer = readLine();
         }
 
+
         /**
          * Starts a round of the game.
          */
@@ -234,6 +243,7 @@ public class Server {
                 Thread.yield();
             }
         }
+
 
         /**
          * Evaluates a round of the game.
@@ -249,6 +259,7 @@ public class Server {
             // PROVIDE EXTRA TIME FOR ANSWER
             extraTime = EXTRA_TIME;
         }
+
 
         /**
          * Waits for other players to join the game.
@@ -266,6 +277,7 @@ public class Server {
             }
         }
 
+
         /**
          * Reads a line from the input stream.
          *
@@ -278,6 +290,7 @@ public class Server {
             }
             return reader.readLine();
         }
+
 
         /**
          * Searches for a game to join.
@@ -320,6 +333,7 @@ public class Server {
             return true;
         }
 
+
         /**
          * adds a score to the player's round score.
          */
@@ -327,12 +341,14 @@ public class Server {
             roundScore += 1;
         }
 
+
         /**
          * resets the player's round score.
          */
         public void resetScore() {
             roundScore = 0;
         }
+
 
         /**
          * increase NoResponseTime of the player. If noResponseTime reaches 3, the player is removed from the game.
@@ -343,6 +359,7 @@ public class Server {
             }
         }
 
+
         /**
          * Get player noResponseTime.
          * @return noResponseTime
@@ -351,6 +368,7 @@ public class Server {
             return noResponseTime;
         }
 
+
         /**
          * resets the player's noResponseTime.
          */
@@ -358,6 +376,7 @@ public class Server {
             noResponseTime = 0;
         }
     }
+
 
     /**
      * Searches for a single player game to join.
@@ -369,6 +388,7 @@ public class Server {
             createSinglePlayerGame(player);
         }
     }
+
 
     /**
      * Removes single player games that are older than 60 seconds.
@@ -405,6 +425,7 @@ public class Server {
         return false;
     }
 
+
     /**
      * Adds a player to a game.
      *
@@ -420,6 +441,7 @@ public class Server {
         }
     }
 
+
     /**
      * Removes a game from the list of accessible games.
      *
@@ -434,6 +456,7 @@ public class Server {
         }
     }
 
+
     /**
      * Create a single player game.
      *
@@ -445,6 +468,7 @@ public class Server {
         newGame.addPlayer(player);
         singlePlayerGames.add(newGame);
     }
+
 
     /**
      * Searches for a friend game to join.
@@ -465,6 +489,7 @@ public class Server {
         throw new NonExistingGame("Game with code " + code + " does not exist");
     }
 
+
     /**
      * Removes friend games that are older than 60 seconds.
      */
@@ -483,6 +508,7 @@ public class Server {
         friendGames.subList(0, index).clear();
     }
 
+
     /**
      * Checks if the player's name is already joined in the game.
      *
@@ -496,6 +522,7 @@ public class Server {
         }
     }
 
+
     /**
      * Creates a friend game.
      * @param player the player creating the game
@@ -508,6 +535,7 @@ public class Server {
         friendGames.add(friendGame);
     }
 
+
     /**
      * Exception thrown when a searched FriendGame does not exist.
      */
@@ -516,6 +544,7 @@ public class Server {
             super(errorMessage);
         }
     }
+
 
     /**
      * Exception thrown when a player tries to join a game with a name that is already taken.
