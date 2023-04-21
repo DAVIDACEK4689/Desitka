@@ -25,7 +25,8 @@
 ---
 
 ## Použité technologie
-- Je potřeba nějaká technologie, která z notebooku vytvoří server, já jsem použil `ngrok`. Potom již stačí spustit server a potom mobilní aplikaci
+- Pro komunikaci mezi zařízeními je používán `wifi` protokol
+- Pro vytvoření serveru z notebooku používám technologii `ngrok`. Pak již stačí spustit nejprve server a poté mobilní aplikaci
 
 ### ngrok
 - Více na [ngrok](https://ngrok.com/) a [stack_overflow](https://stackoverflow.com/questions/59492505/how-connect-two-pc-over-two-different-wifi-with-java-socket)
