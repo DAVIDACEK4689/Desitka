@@ -33,11 +33,16 @@
     <string name="question_solution">Řešení:</string>
     <string name="new_game">Nová hra</string>
     <string name="play_again">Hrát znovu</string>
-
     <string name="no_internet_connection">Aplikace vyžaduje pro správné fungování internetové připojení</string>
     <string name="players_not_found">Hráči nenalezeni</string>
     <string name="invalid_game_code">Nesprávný kód hry</string>
     <string name="name_already_joined">Hráč s Vaším jménem již hraje</string>
+    <string name="ok">OK</string>
+    <string name="server_error">Nastala chyba při komunikaci se serverem</string>
+    <string name="question_mark">\?</string>
+    <string name="change_application_theme">Změna motivu bude aktivní až po restartu aplikace.\n</string>
+    <string name="restart">RESTARTOVAT</string>
+    <string name="close">ZAVŘÍT</string>
 
 
 </resources>

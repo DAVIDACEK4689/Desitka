@@ -1,15 +1,16 @@
 package cz.cuni.mff.java.desitka;
 
 import android.app.AlertDialog;
-import android.content.BroadcastReceiver;
+import android.app.UiModeManager;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
-import android.content.IntentFilter;
 import android.content.SharedPreferences;
+import android.content.res.Configuration;
 import android.graphics.Color;
 import android.net.ConnectivityManager;
-import android.net.NetworkInfo;
+import android.net.Network;
+import android.net.NetworkRequest;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.CountDownTimer;
@@ -27,7 +28,9 @@ import android.widget.PopupMenu;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatDelegate;
 import androidx.core.content.ContextCompat;
 
 import java.io.BufferedReader;
@@ -41,6 +44,7 @@ public class Desitka extends AppCompatActivity {
     private String playerName;
     private Thread clientThread;
     private String gameCode = "";
+    private boolean isInternetAvailable = false;
 
     private final String[] questionAnswers = new String[10];
 
@@ -175,25 +179,15 @@ public class Desitka extends AppCompatActivity {
     // Service to get internet availability
     ConnectivityManager connectivityManager;
 
-    // Network receiver to check internet availability
-    ConnectivityReceiver connectivityReceiver;
+    // Network callback to check internet availability
+    ConnectivityManager.NetworkCallback networkCallback;
 
     // Input manager to hide keyboard
     InputMethodManager inputMethodManager;
 
+    // Count down timer to show time left
+    CountDownTimer countDownTimer;
 
-    /**
-     * Class to monitor internet availability
-     */
-    public class ConnectivityReceiver extends BroadcastReceiver {
-
-        @Override
-        public void onReceive(Context context, Intent intent) {
-            if (!isInternetAvailable()) {
-                requestInternetConnection();
-            }
-        }
-    }
 
     /**
      * Method called when the activity is starting.
@@ -215,11 +209,45 @@ public class Desitka extends AppCompatActivity {
         setStartingScene();
     }
 
+    /**
+     * method called on the end of the activity - unregister network callback
+     */
     @Override
     protected void onDestroy() {
+        connectivityManager.unregisterNetworkCallback(networkCallback);
         super.onDestroy();
-        unregisterReceiver(connectivityReceiver);
     }
+
+
+    /**
+     * Switch between light and dark mode
+     * @param newConfig The new device configuration.
+     */
+    @Override
+    public void onConfigurationChanged(@NonNull Configuration newConfig) {
+        super.onConfigurationChanged(newConfig);
+
+        // If user is on welcome screen, recreate activity to change background
+        if (startingButtons.getVisibility() == View.VISIBLE) {
+            recreate();
+        }
+        else {
+            alertDialogBuilder = new AlertDialog.Builder(Desitka.this);
+            alertDialogBuilder
+                    .setCancelable(false)
+                    .setMessage(R.string.change_application_theme)
+                    .setNeutralButton(R.string.restart, (dialog, id) -> {
+                        dialog.cancel();
+                        recreate();
+                    })
+                    .setNegativeButton(R.string.close, (dialog, id) -> {
+                        dialog.cancel();
+                    });
+            alert = alertDialogBuilder.create();
+            alert.show();
+        }
+    }
+
 
 
     /**
@@ -334,7 +362,7 @@ public class Desitka extends AppCompatActivity {
      * Set the UI for the question scene
      */
     private void setQuestionTimer() {
-        new CountDownTimer(50000, 1000) {
+        countDownTimer = new CountDownTimer(50000, 1000) {
             @Override
             public void onTick(long millisUntilFinished) {
                 questionTimer.setText(String.valueOf((int)(millisUntilFinished / 1000)));
@@ -606,17 +634,32 @@ public class Desitka extends AppCompatActivity {
         initializeLayouts();
         initializePreferences();
         initializeConnectivityManager();
-        initializeConnectivityReceiver();
+        initializeNetworkCallback();
         initializeInputMethodManager();
     }
 
     /**
-     * Initialize Connectivity Receiver for monitoring network connection
+     * Initialize network callback to check for internet connection
      */
-    private void initializeConnectivityReceiver() {
-        connectivityReceiver = new ConnectivityReceiver();
-        IntentFilter intentFilter = new IntentFilter(ConnectivityManager.CONNECTIVITY_ACTION);
-        registerReceiver(connectivityReceiver, intentFilter);
+    private void initializeNetworkCallback() {
+        NetworkRequest.Builder builder = new NetworkRequest.Builder();
+        networkCallback = new ConnectivityManager.NetworkCallback() {
+            @Override
+            public void onAvailable(@NonNull Network network) {
+                isInternetAvailable = true;
+                super.onAvailable(network);
+            }
+
+            @Override
+            public void onLost(@NonNull Network network) {
+                isInternetAvailable = false;
+                requestInternetConnection();
+                super.onLost(network);
+            }
+        };
+
+        // Register the network callback
+        connectivityManager.registerNetworkCallback(builder.build(), networkCallback);
     }
 
 
@@ -896,7 +939,7 @@ public class Desitka extends AppCompatActivity {
      */
     private void singlePlayerAction() {
         singlePlayer.setOnClickListener(view -> {
-            if (!isInternetAvailable()) {
+            if (!isInternetAvailable) {
                 requestInternetConnection();
             }
             else {
@@ -913,7 +956,7 @@ public class Desitka extends AppCompatActivity {
      */
     private void multiplayerAction() {
         multiplayer.setOnClickListener(view -> {
-            if (!isInternetAvailable()) {
+            if (!isInternetAvailable) {
                 requestInternetConnection();
             }
             else {
@@ -1121,16 +1164,6 @@ public class Desitka extends AppCompatActivity {
 
 
     /**
-     * method to check whether internet connection is enabled
-     *
-     * @return boolean value
-     */
-    private boolean isInternetAvailable(){
-        NetworkInfo networkInfo = connectivityManager.getActiveNetworkInfo();
-        return networkInfo != null && networkInfo.isConnected();
-    }
-
-    /**
      * method to check whether it is player's turn
      *
      * @return true if it is player's turn, false otherwise
@@ -1144,17 +1177,32 @@ public class Desitka extends AppCompatActivity {
      * alert dialog requesting internet connection
      */
     private void requestInternetConnection() {
+        // cancel timer and interrupt client thread
+        cleanGame();
+
         alertDialogBuilder = new AlertDialog.Builder(Desitka.this);
         alertDialogBuilder
                 .setCancelable(false)
                 .setMessage(R.string.no_internet_connection)
-                .setNeutralButton("OK", (dialog, id) -> {
+                .setNeutralButton(R.string.ok, (dialog, id) -> {
                     dialog.cancel();
                     setStartingScene();
                 });
         alert = alertDialogBuilder.create();
         alert.show();
-        alert.getButton(DialogInterface.BUTTON_POSITIVE).setTextColor(Color.WHITE);
+    }
+
+    /**
+     * method to cancel timer and interrupt client thread to prevent memory leaks
+     */
+    private void cleanGame() {
+        if (countDownTimer != null) {
+            countDownTimer.cancel();
+        }
+
+        if (clientThread != null) {
+            clientThread.interrupt();
+        }
     }
 
 
@@ -1162,7 +1210,6 @@ public class Desitka extends AppCompatActivity {
      * Client thread to connect and communicate with server
      */
     class ClientThread implements Runnable {
-        private Socket client;
         private BufferedReader bufferedReader;
         private PrintWriter printwriter;
 
@@ -1182,10 +1229,11 @@ public class Desitka extends AppCompatActivity {
          */
         @Override
         public void run() {
-            try {
-                client = new Socket("7.tcp.eu.ngrok.io", 18785); // connect to server
+
+            try (Socket client = new Socket("4.tcp.eu.ngrok.io", 16368)) {
+                // READER AND PRINTWRITER
                 bufferedReader = new BufferedReader(new InputStreamReader(client.getInputStream()));
-                printwriter = new PrintWriter(client.getOutputStream(),true);
+                printwriter = new PrintWriter(client.getOutputStream(), true);
 
                 // SEARCHING FOR GAME
                 printwriter.println(playerName);
@@ -1194,37 +1242,54 @@ public class Desitka extends AppCompatActivity {
 
                 // IF GAME NOT FOUND
                 if (!gameFound) {
-                    printwriter.close();
-                    bufferedReader.close();
-                    client.close();
                     return;
                 }
 
+                // WAIT FOR PLAYERS AND START GAME
                 waitForPlayers();
                 startGame();
-
-                printwriter.close();
-                bufferedReader.close();
-                client.close();
             }
-            catch (InterruptedException | IOException e) {
-                throw new RuntimeException(e);
+            catch (InterruptedException e) {
+                // We lost internet connection - connectivity Manager will handle it
+            }
+            catch (IOException e) {
+                // cancel game timer - it is surely defined
+                countDownTimer.cancel();
+
+                // notify user
+                runOnUiThread(() -> {
+                    alertDialogBuilder = new AlertDialog.Builder(Desitka.this);
+                    alertDialogBuilder
+                            .setCancelable(false)
+                            .setMessage(R.string.server_error)
+                            .setNeutralButton(R.string.ok, (dialog, id) -> {
+                                dialog.cancel();
+                                setStartingScene();
+                            });
+                    alert = alertDialogBuilder.create();
+                    alert.show();
+                });
+            }
+            finally {
+                try {
+                    bufferedReader.close();
+                    printwriter.close();
+                }
+                catch (IOException e) {
+                    e.printStackTrace();
+                }
+
             }
         }
 
         /**
          * Start game round
          */
-        private void startRound() {
-            try {
-                initializeRound();
-                loadQuestion();
-                playRound();
-                loadPlayerScore();
-            }
-            catch (IOException | InterruptedException e) {
-                throw new RuntimeException(e);
-            }
+        private void startRound() throws IOException {
+            initializeRound();
+            loadQuestion();
+            playRound();
+            loadPlayerScore();
         }
 
         /**
@@ -1242,9 +1307,8 @@ public class Desitka extends AppCompatActivity {
          * load player Score
          *
          * @throws IOException IOException
-         * @throws InterruptedException InterruptedException
          */
-        private void loadPlayerScore() throws IOException, InterruptedException {
+        private void loadPlayerScore() throws IOException {
             gamePlayers = Integer.parseInt(readLine());
             gameFinished = Boolean.parseBoolean(readLine());
 
@@ -1266,9 +1330,8 @@ public class Desitka extends AppCompatActivity {
          * play round
          *
          * @throws IOException IOException
-         * @throws InterruptedException InterruptedException
          */
-        private void playRound() throws IOException, InterruptedException {
+        private void playRound() throws IOException {
             playerOnMove = readLine();
 
             while (!roundFinished()) {
@@ -1322,21 +1385,20 @@ public class Desitka extends AppCompatActivity {
          * Load question from server when starting new round
          *
          * @throws IOException IOException
-         * @throws InterruptedException InterruptedException
          */
-        private void loadQuestion() throws IOException, InterruptedException {
+        private void loadQuestion() throws IOException {
             questionText.setText(readLine());
             for (int i = 0; i < questions.length; i++) {
                 questions[i].setText(readLine());
                 questionAnswers[i] = readLine();
-                answers[i].setText("?");
+                answers[i].setText(R.string.question_mark);
             }
         }
 
         /**
          * play game
          */
-        private void playGame() {
+        private void playGame() throws IOException {
             while (!gameFinished()) {
                 while (!readyForNextRound) {
                     Thread.yield();
@@ -1348,7 +1410,7 @@ public class Desitka extends AppCompatActivity {
         /**
          * start game
          */
-        private void startGame() {
+        private void startGame() throws IOException {
             playersFound = true;
             playerOnMove = "gameStarted";
             readyForNextRound = true;
@@ -1392,9 +1454,8 @@ public class Desitka extends AppCompatActivity {
          * wait for other players to join
          *
          * @throws IOException IOException
-         * @throws InterruptedException InterruptedException
          */
-        private void waitForPlayers() throws IOException, InterruptedException {
+        private void waitForPlayers() throws IOException {
             startWaitingTimer();
 
             // WAITING FOR OTHER PLAYERS
@@ -1436,14 +1497,12 @@ public class Desitka extends AppCompatActivity {
                     alertDialogBuilder
                             .setCancelable(false)
                             .setMessage(R.string.players_not_found)
-                            .setNeutralButton("OK", (dialog, id) -> {
+                            .setNeutralButton(R.string.ok, (dialog, id) -> {
                                 dialog.cancel();
                                 setStartingScene();
                             });
                     alert = alertDialogBuilder.create();
                     alert.show();
-                    alert.getButton(DialogInterface.BUTTON_POSITIVE).setTextColor(Color.WHITE);
-
                 }
             }.start());
         }
@@ -1511,7 +1570,6 @@ public class Desitka extends AppCompatActivity {
                                     });
                             alert = alertDialogBuilder.create();
                             alert.show();
-                            alert.getButton(DialogInterface.BUTTON_POSITIVE).setTextColor(Color.WHITE);
                         });
                         return false;
 
@@ -1521,13 +1579,12 @@ public class Desitka extends AppCompatActivity {
                             alertDialogBuilder
                                     .setCancelable(false)
                                     .setMessage(R.string.name_already_joined)
-                                    .setNeutralButton("OK", (dialog, id) -> {
+                                    .setNeutralButton(R.string.ok, (dialog, id) -> {
                                                 dialog.cancel();
                                                 setStartingScene();
                                     });
                             alert = alertDialogBuilder.create();
                             alert.show();
-                            alert.getButton(DialogInterface.BUTTON_POSITIVE).setTextColor(Color.WHITE);
                         });
                         return false;
                 }
