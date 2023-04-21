@@ -1,9 +1,7 @@
 package cz.cuni.mff.java.desitka;
 
 import android.app.AlertDialog;
-import android.app.UiModeManager;
 import android.content.Context;
-import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.res.Configuration;
@@ -30,7 +28,6 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.app.AppCompatDelegate;
 import androidx.core.content.ContextCompat;
 
 import java.io.BufferedReader;
@@ -238,16 +235,14 @@ public class Desitka extends AppCompatActivity {
                     .setMessage(R.string.change_application_theme)
                     .setNeutralButton(R.string.restart, (dialog, id) -> {
                         dialog.cancel();
+                        cleanGame(); // IMPORTANT
                         recreate();
                     })
-                    .setNegativeButton(R.string.close, (dialog, id) -> {
-                        dialog.cancel();
-                    });
+                    .setNegativeButton(R.string.close, (dialog, id) -> dialog.cancel());
             alert = alertDialogBuilder.create();
             alert.show();
         }
     }
-
 
 
     /**
@@ -257,6 +252,7 @@ public class Desitka extends AppCompatActivity {
         playerName = sharedPreferences.getString("username", "");
         playerNameTitle.setText(playerName);
     }
+
 
     /**
      * Update player name in shared preferences
@@ -271,6 +267,7 @@ public class Desitka extends AppCompatActivity {
         preferencesEditor.apply();
     }
 
+
     /**
      * Initialize shared preferences and editor
      */
@@ -278,6 +275,7 @@ public class Desitka extends AppCompatActivity {
         sharedPreferences = getSharedPreferences("preferences", MODE_PRIVATE);
         preferencesEditor = sharedPreferences.edit();
     }
+
 
     /**
      * Find all the views in the layout and inflate them
@@ -289,6 +287,7 @@ public class Desitka extends AppCompatActivity {
         getLayoutInflater().inflate(R.layout.starting_layout, startingContent);
         getLayoutInflater().inflate(R.layout.game_layout, gameContent);
     }
+
 
     /**
      * Set the UI for the next player scene
@@ -321,6 +320,7 @@ public class Desitka extends AppCompatActivity {
         nextPlayerLayout.setVisibility(RelativeLayout.VISIBLE);
     }
 
+
     /**
      * Set the UI for the next player
      */
@@ -342,6 +342,7 @@ public class Desitka extends AppCompatActivity {
         passQuestion.setEnabled(false);
         answerQuestion.setEnabled(false);
     }
+
 
     /**
      * Set the UI for the player that plays
@@ -389,6 +390,7 @@ public class Desitka extends AppCompatActivity {
         }.start();
     }
 
+
     /**
      * check player answer
      */
@@ -404,6 +406,7 @@ public class Desitka extends AppCompatActivity {
         }
     }
 
+
     /**
      * evaluate player answer
      */
@@ -418,6 +421,7 @@ public class Desitka extends AppCompatActivity {
             wrongAnswerUI();
         }
     }
+
 
     /**
      * check answer correctness
@@ -438,6 +442,7 @@ public class Desitka extends AppCompatActivity {
         playersInRound.setText(String.format(getApplicationContext().getResources().getString(R.string.players_in_round), roundPlayers, gamePlayers));
     }
 
+
     /**
      * Set the UI for correct answer
      */
@@ -446,6 +451,7 @@ public class Desitka extends AppCompatActivity {
         answerVerdict.setText(String.format(getApplicationContext().getResources().getString(R.string.correct_answer), playerOnMove));
         playerScore.setText(String.format(getApplicationContext().getResources().getString(R.string.round_score), roundScore));
     }
+
 
     /**
      * Set the UI for player answers
@@ -457,6 +463,7 @@ public class Desitka extends AppCompatActivity {
         answers[answerID].setText(questionAnswers[answerID]);
     }
 
+
     /**
      * Set the UI for Question scene
      */
@@ -466,6 +473,7 @@ public class Desitka extends AppCompatActivity {
         questionLayout.setVisibility(RelativeLayout.VISIBLE);
         questionScoreLayout.setVisibility(LinearLayout.VISIBLE);
     }
+
 
     /**
      * Set the UI for Game Joining scene
@@ -478,6 +486,7 @@ public class Desitka extends AppCompatActivity {
         gameCodeLayout.setVisibility(RelativeLayout.VISIBLE);
         Arrays.stream(joinedPlayers).forEach(player -> player.setVisibility(TextView.GONE));
     }
+
 
     /**
      * set the UI for the starting scene
@@ -500,6 +509,7 @@ public class Desitka extends AppCompatActivity {
         }
     }
 
+
     /**
      * Set the UI for the change name scene
      */
@@ -510,6 +520,7 @@ public class Desitka extends AppCompatActivity {
         changeName.setEnabled(false);
     }
 
+
     /**
      * Set the UI for the join game scene
      */
@@ -518,6 +529,7 @@ public class Desitka extends AppCompatActivity {
         startingLayout.setVisibility(RelativeLayout.GONE);
         joinGameLayout.setVisibility(RelativeLayout.VISIBLE);
     }
+
 
     /**
      * Set the UI for the answer scene
@@ -538,6 +550,7 @@ public class Desitka extends AppCompatActivity {
         playerScore.setText("");
         answersTimer();
     }
+
 
     /**
      * Configure the timer for the answer scene
@@ -561,6 +574,7 @@ public class Desitka extends AppCompatActivity {
         }.start();
     }
 
+
     /**
      * Set the UI for the player score scene
      */
@@ -578,6 +592,7 @@ public class Desitka extends AppCompatActivity {
             playerScoreTimer();
         }
     }
+
 
     /**
      * Configure the timer for the player score scene
@@ -598,6 +613,7 @@ public class Desitka extends AppCompatActivity {
             }
         }.start();
     }
+
 
     /**
      * Set the UI for game finished scene
@@ -623,6 +639,7 @@ public class Desitka extends AppCompatActivity {
         endGame.setVisibility(RelativeLayout.VISIBLE);
     }
 
+
     /**
      * Initialize components of the UI
      */
@@ -637,6 +654,7 @@ public class Desitka extends AppCompatActivity {
         initializeNetworkCallback();
         initializeInputMethodManager();
     }
+
 
     /**
      * Initialize network callback to check for internet connection
@@ -669,6 +687,7 @@ public class Desitka extends AppCompatActivity {
     private void initializeInputMethodManager() {
         inputMethodManager = (InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE);
     }
+
 
     /**
      * Initialize the TextViews
@@ -715,6 +734,7 @@ public class Desitka extends AppCompatActivity {
         playersScoreTimer = findViewById(R.id.players_score_timer);
     }
 
+
     /**
      * Initialize the Layouts
      */
@@ -722,6 +742,7 @@ public class Desitka extends AppCompatActivity {
         initializeStartingLayouts();
         initializeGameLayouts();
     }
+
 
     /**
      * Initialize the starting layouts
@@ -736,6 +757,7 @@ public class Desitka extends AppCompatActivity {
         friendGameButtons = findViewById(R.id.friend_game_buttons);
         createGameButtons = findViewById(R.id.create_game_buttons);
     }
+
 
     /**
      * Initialize the game layouts
@@ -754,6 +776,7 @@ public class Desitka extends AppCompatActivity {
         answerVerdictLayout = findViewById(R.id.answer_verdict_layout);
     }
 
+
     /**
      * Initialize the Action Listeners
      */
@@ -763,6 +786,7 @@ public class Desitka extends AppCompatActivity {
         imageViewsActions();
         editTextsActions();
     }
+
 
     /**
      * Initialize the TextViews actions
@@ -787,6 +811,7 @@ public class Desitka extends AppCompatActivity {
         }
     }
 
+
     /**
      * set the question detail scene UI
      */
@@ -797,6 +822,7 @@ public class Desitka extends AppCompatActivity {
         answerQuestion.setEnabled(false);
     }
 
+
     /**
      * initialize ImageView actions
      */
@@ -805,12 +831,14 @@ public class Desitka extends AppCompatActivity {
         menuIconActions();
     }
 
+
     /**
      * set the home icon actions
      */
     private void homeIconActions() {
         homeIcon.setOnClickListener(view -> setStartingScene());
     }
+
 
     /**
      * set the menu icon actions
@@ -840,6 +868,7 @@ public class Desitka extends AppCompatActivity {
         });
     }
 
+
     /**
      * set the edit texts actions
      */
@@ -848,6 +877,7 @@ public class Desitka extends AppCompatActivity {
         gameCodeActions();
         answerActions();
     }
+
 
     /**
      * set the answer actions
@@ -868,6 +898,7 @@ public class Desitka extends AppCompatActivity {
             }
         });
     }
+
 
     /**
      * set the create player name actions
@@ -891,6 +922,7 @@ public class Desitka extends AppCompatActivity {
         });
     }
 
+
     /**
      * set the game code actions
      */
@@ -912,6 +944,7 @@ public class Desitka extends AppCompatActivity {
             }
         });
     }
+
 
     /**
      * Initialize the buttons actions
@@ -951,6 +984,7 @@ public class Desitka extends AppCompatActivity {
         });
     }
 
+
     /**
      * set the multiplayer button action
      */
@@ -966,6 +1000,7 @@ public class Desitka extends AppCompatActivity {
         });
     }
 
+
     /**
      * set the set up game button action
      */
@@ -976,6 +1011,7 @@ public class Desitka extends AppCompatActivity {
         });
     }
 
+
     /**
      * set the join game button action
      */
@@ -985,6 +1021,7 @@ public class Desitka extends AppCompatActivity {
             setJoinGameScene();
         });
     }
+
 
     /**
      * set the create game button action
@@ -997,6 +1034,7 @@ public class Desitka extends AppCompatActivity {
         });
     }
 
+
     /**
      * set the change name button action
      */
@@ -1008,8 +1046,8 @@ public class Desitka extends AppCompatActivity {
 
             inputMethodManager.hideSoftInputFromWindow(changePlayerNameInput.getWindowToken(), 0);
         });
-
     }
+
 
     /**
      * set the confirm code button action
@@ -1022,6 +1060,7 @@ public class Desitka extends AppCompatActivity {
         });
     }
 
+
     /**
      * set the return to menu button action
      */
@@ -1033,12 +1072,14 @@ public class Desitka extends AppCompatActivity {
         });
     }
 
+
     /**
      * set the pass question button action
      */
     private void passQuestionAction() {
         passQuestion.setOnClickListener(view -> myAnswer = "pass");
     }
+
 
     /**
      * set the answer question button action
@@ -1050,6 +1091,7 @@ public class Desitka extends AppCompatActivity {
         });
     }
 
+
     /**
      * set the return to question button action
      */
@@ -1060,6 +1102,7 @@ public class Desitka extends AppCompatActivity {
             inputMethodManager.hideSoftInputFromWindow(gameCodeInput.getWindowToken(), 0);
         });
     }
+
 
     /**
      * set the play again button action
@@ -1076,8 +1119,8 @@ public class Desitka extends AppCompatActivity {
                 confirmCode.performClick();
             }
         });
-
     }
+
 
     /**
      * set the return to menu button action
@@ -1091,6 +1134,7 @@ public class Desitka extends AppCompatActivity {
         });
     }
 
+
     /**
      * Initialize the buttons
      */
@@ -1098,6 +1142,7 @@ public class Desitka extends AppCompatActivity {
         initializeStartingButtons();
         initializeGameButtons();
     }
+
 
     /**
      * Initialize the starting buttons
@@ -1113,6 +1158,7 @@ public class Desitka extends AppCompatActivity {
         returnToMenu = findViewById(R.id.return_to_menu);
     }
 
+
     /**
      * Initialize the game buttons
      */
@@ -1124,6 +1170,7 @@ public class Desitka extends AppCompatActivity {
         endGame = findViewById(R.id.end_game);
     }
 
+
     /**
      * Initialize the ImageViews
      */
@@ -1131,6 +1178,7 @@ public class Desitka extends AppCompatActivity {
         homeIcon = findViewById(R.id.home_icon);
         menuIcon = findViewById(R.id.menu_icon);
     }
+
 
     /**
      * Initialize the EditTexts
@@ -1140,6 +1188,7 @@ public class Desitka extends AppCompatActivity {
         initializeGameEditTexts();
     }
 
+
     /**
      * Initialize the starting StartingEditTexts
      */
@@ -1148,12 +1197,14 @@ public class Desitka extends AppCompatActivity {
         gameCodeInput = findViewById(R.id.game_code_input);
     }
 
+
     /**
      * Initialize the game GameEditTexts
      */
     private void initializeGameEditTexts() {
         answerInput = findViewById(R.id.answer_input);
     }
+
 
     /**
      * initialization of internet network service
@@ -1191,6 +1242,7 @@ public class Desitka extends AppCompatActivity {
         alert = alertDialogBuilder.create();
         alert.show();
     }
+
 
     /**
      * method to cancel timer and interrupt client thread to prevent memory leaks
@@ -1282,6 +1334,7 @@ public class Desitka extends AppCompatActivity {
             }
         }
 
+
         /**
          * Start game round
          */
@@ -1291,6 +1344,7 @@ public class Desitka extends AppCompatActivity {
             playRound();
             loadPlayerScore();
         }
+
 
         /**
          * initialize round
@@ -1302,6 +1356,7 @@ public class Desitka extends AppCompatActivity {
             playerScoreLoaded = false;
             readyForNextRound = false;
         }
+
 
         /**
          * load player Score
@@ -1326,6 +1381,7 @@ public class Desitka extends AppCompatActivity {
             playerScoreLoaded = true;
         }
 
+
         /**
          * play round
          *
@@ -1340,6 +1396,7 @@ public class Desitka extends AppCompatActivity {
             }
         }
 
+
         /**
          * Load player answer from server
          *
@@ -1353,6 +1410,7 @@ public class Desitka extends AppCompatActivity {
             answer = readLine();
         }
 
+
         /**
          * Answer question if my turn
          */
@@ -1364,6 +1422,7 @@ public class Desitka extends AppCompatActivity {
             printwriter.println(myAnswer);
             myAnswer = null;
         }
+
 
         /**
          * Schedule next player
@@ -1381,6 +1440,7 @@ public class Desitka extends AppCompatActivity {
             playerOnMoveUpdated = true;
         }
 
+
         /**
          * Load question from server when starting new round
          *
@@ -1395,6 +1455,7 @@ public class Desitka extends AppCompatActivity {
             }
         }
 
+
         /**
          * play game
          */
@@ -1406,6 +1467,7 @@ public class Desitka extends AppCompatActivity {
                 startRound();
             }
         }
+
 
         /**
          * start game
@@ -1420,6 +1482,7 @@ public class Desitka extends AppCompatActivity {
             playGame();
         }
 
+
         /**
          * play game UI
          */
@@ -1429,6 +1492,7 @@ public class Desitka extends AppCompatActivity {
                 startGameTimer();
             });
         }
+
 
         /**
          * configure start game timer
@@ -1450,6 +1514,7 @@ public class Desitka extends AppCompatActivity {
             }.start();
         }
 
+
         /**
          * wait for other players to join
          *
@@ -1470,6 +1535,7 @@ public class Desitka extends AppCompatActivity {
                 });
             }
         }
+
 
         /**
          * Wait max 60 seconds for other players to join
@@ -1506,6 +1572,7 @@ public class Desitka extends AppCompatActivity {
                 }
             }.start());
         }
+
 
         /**
          * read line from server
@@ -1593,6 +1660,7 @@ public class Desitka extends AppCompatActivity {
         }
     }
 
+
     /**
      * initialize round UI
      */
@@ -1604,6 +1672,7 @@ public class Desitka extends AppCompatActivity {
         playerScore.setText(String.format(getApplicationContext().getResources().getString(R.string.round_score), roundScore));
     }
 
+
     /**
      * set answer Verdict scene
      */
@@ -1614,6 +1683,7 @@ public class Desitka extends AppCompatActivity {
         answerVerdictLayout.setVisibility(View.VISIBLE);
         answerVerdictTimer();
     }
+
 
     /**
      * configure answer verdict timer
@@ -1633,6 +1703,7 @@ public class Desitka extends AppCompatActivity {
         }.start();
     }
 
+
     /**
      * set Player Passes scene
      */
@@ -1645,6 +1716,7 @@ public class Desitka extends AppCompatActivity {
         playerPassesLayout.setVisibility(View.VISIBLE);
         new Handler().postDelayed(this::setNextScene, 5000);
     }
+
 
     /**
      * set Next Player scene
@@ -1659,6 +1731,7 @@ public class Desitka extends AppCompatActivity {
         }
     }
 
+
     /**
      * wait for next player
      */
@@ -1671,6 +1744,7 @@ public class Desitka extends AppCompatActivity {
         }
         playerOnMoveUpdated = false;
     }
+
 
     /**
      * check if game is finished
