@@ -1147,7 +1147,7 @@ public class Desitka extends AppCompatActivity {
         alertDialogBuilder = new AlertDialog.Builder(Desitka.this);
         alertDialogBuilder
                 .setCancelable(false)
-                .setMessage("Aplikace vyžaduje pro správné fungování internetové připojení")
+                .setMessage(R.string.no_internet_connection)
                 .setNeutralButton("OK", (dialog, id) -> {
                     dialog.cancel();
                     setStartingScene();
@@ -1435,7 +1435,7 @@ public class Desitka extends AppCompatActivity {
                     alertDialogBuilder = new AlertDialog.Builder(Desitka.this);
                     alertDialogBuilder
                             .setCancelable(false)
-                            .setMessage("Hráči nenalezeni")
+                            .setMessage(R.string.players_not_found)
                             .setNeutralButton("OK", (dialog, id) -> {
                                 dialog.cancel();
                                 setStartingScene();
@@ -1504,7 +1504,7 @@ public class Desitka extends AppCompatActivity {
                             alertDialogBuilder = new AlertDialog.Builder(Desitka.this);
                             alertDialogBuilder
                                     .setCancelable(false)
-                                    .setMessage("Nesprávný kód hry")
+                                    .setMessage(R.string.invalid_game_code)
                                     .setNeutralButton("OK", (dialog, id) -> {
                                             dialog.cancel();
                                             setStartingScene();
@@ -1520,7 +1520,7 @@ public class Desitka extends AppCompatActivity {
                             alertDialogBuilder = new AlertDialog.Builder(Desitka.this);
                             alertDialogBuilder
                                     .setCancelable(false)
-                                    .setMessage("Hráč s Vaším jménem již hraje")
+                                    .setMessage(R.string.name_already_joined)
                                     .setNeutralButton("OK", (dialog, id) -> {
                                                 dialog.cancel();
                                                 setStartingScene();
