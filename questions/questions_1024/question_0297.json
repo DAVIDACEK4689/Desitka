@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle úmrtí",
+  "questions": [
+    {
+      "key": "Benito Mussolini",
+      "values": [
+        "Vietnam",
+        "Brazílie",
+        "Itálie",
+        "Švédsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lev Nikolajevič Tolstoj",
+      "values": [
+        "Francie",
+        "Bolívie",
+        "Rusko",
+        "Zambie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivan Luťanský",
+      "values": [
+        "Itálie",
+        "Libye",
+        "Vietnam",
+        "Dominikánská republika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Falco",
+      "values": [
+        "Brazílie",
+        "Dominikánská republika",
+        "Německo",
+        "Švédsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Barbora z Nikomédie",
+      "values": [
+        "Turecko",
+        "Bolívie",
+        "Francie",
+        "Alžírsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Björn Železný bok",
+      "values": [
+        "Švédsko",
+        "Zambie",
+        "Itálie",
+        "Alžírsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Konrad Adenauer",
+      "values": [
+        "Zambie",
+        "Německo",
+        "Turecko",
+        "Švédsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Maxim Gorkij",
+      "values": [
+        "Brazílie",
+        "Rusko",
+        "Irsko",
+        "Dominikánská republika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Svatý Kryštof",
+      "values": [
+        "Brazílie",
+        "Turecko",
+        "Rusko",
+        "Libye"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "David Livingstone",
+      "values": [
+        "Vietnam",
+        "Zambie",
+        "Dominikánská republika",
+        "Irsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

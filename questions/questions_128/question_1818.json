@@ -1,0 +1,105 @@
+{
+  "text": "Určete rok podle dopravy",
+  "questions": [
+    {
+      "key": "General Motors",
+      "values": [
+        "1968",
+        "1850",
+        "1908",
+        "1980"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dálnice D2",
+      "values": [
+        "1947",
+        "1940",
+        "1995",
+        "1980"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Radotínský most",
+      "values": [
+        "2003",
+        "2010",
+        "1990",
+        "2011"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "CMR",
+      "values": [
+        "1947",
+        "1956",
+        "1897",
+        "1939"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zavedení pravostranného provozu v Československu",
+      "values": [
+        "1985",
+        "1955",
+        "1939",
+        "2022"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Útok sarinem v tokijském metru",
+      "values": [
+        "1850",
+        "2011",
+        "1953",
+        "1995"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zřícení silničního mostu ve Vilémově",
+      "values": [
+        "1957",
+        "1995",
+        "1789",
+        "2014"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nehoda českých umělců v Mongolsku",
+      "values": [
+        "2015",
+        "1955",
+        "1968",
+        "1995"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Špindlerův most",
+      "values": [
+        "1940",
+        "1980",
+        "2011",
+        "1910"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Teroristický útok na Atatürkově letišti",
+      "values": [
+        "2016",
+        "1668",
+        "1985",
+        "1947"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

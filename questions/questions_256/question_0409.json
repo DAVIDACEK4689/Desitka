@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] aktivistu?",
+  "questions": [
+    {
+      "key": "Daniel Landa",
+      "values": [
+        "českého",
+        "italského",
+        "indického",
+        "jihoafrického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Claudia Cardinalová",
+      "values": [
+        "francouzského",
+        "italského",
+        "australského",
+        "íránského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Frank Zappa",
+      "values": [
+        "amerického",
+        "britského",
+        "německého",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Cibulka",
+      "values": [
+        "českého",
+        "slovenského",
+        "indického",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Klára Šimáčková Laurenčíková",
+      "values": [
+        "italského",
+        "australského",
+        "českého",
+        "jihoafrického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Amanda Knoxová",
+      "values": [
+        "amerického",
+        "indického",
+        "ruského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tim Robbins",
+      "values": [
+        "indického",
+        "českého",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Erin Brockovich",
+      "values": [
+        "australského",
+        "ukrajinského",
+        "italského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Laverne Cox",
+      "values": [
+        "íránského",
+        "francouzského",
+        "amerického",
+        "indického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Václav Krása",
+      "values": [
+        "kanadského",
+        "českého",
+        "běloruského",
+        "íránského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

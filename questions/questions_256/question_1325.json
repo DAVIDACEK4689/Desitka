@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] mediální firmu?",
+  "questions": [
+    {
+      "key": "Netflix",
+      "values": [
+        "britskou",
+        "americkou",
+        "českou",
+        "japonskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pixar",
+      "values": [
+        "americkou",
+        "britskou",
+        "českou",
+        "japonskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "DreamWorks Animation",
+      "values": [
+        "japonskou",
+        "americkou",
+        "britskou",
+        "českou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sony",
+      "values": [
+        "americkou",
+        "japonskou",
+        "českou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vltava Labe Media",
+      "values": [
+        "japonskou",
+        "českou",
+        "britskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mladá fronta",
+      "values": [
+        "americkou",
+        "japonskou",
+        "britskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Empresa Media",
+      "values": [
+        "japonskou",
+        "americkou",
+        "českou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Euromedia Group",
+      "values": [
+        "japonskou",
+        "britskou",
+        "českou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fox Broadcasting Company",
+      "values": [
+        "českou",
+        "britskou",
+        "japonskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Square Enix",
+      "values": [
+        "českou",
+        "britskou",
+        "japonskou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

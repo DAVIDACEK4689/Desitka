@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte spisovatele podle literárního díla",
+  "questions": [
+    {
+      "key": "Obraz Doriana Graye",
+      "values": [
+        "Oscar Wilde",
+        "Alexandr Sergejevič Puškin",
+        "Erich Kästner",
+        "Edgar Allan Poe"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zločin a trest",
+      "values": [
+        "Erich Kästner",
+        "Jules Verne",
+        "Johann Wolfgang von Goethe",
+        "Fjodor Michajlovič Dostojevskij"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Taras Bulba",
+      "values": [
+        "Stephen King",
+        "Hans Christian Andersen",
+        "Nikolaj Vasiljevič Gogol",
+        "Charles Dickens"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dobrodružství Toma Sawyera",
+      "values": [
+        "George Orwell",
+        "Mark Twain",
+        "Roald Dahl",
+        "Hans Christian Andersen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Childe Haroldova pouť",
+      "values": [
+        "Stephen King",
+        "Charles Dickens",
+        "George Gordon Byron",
+        "Haruki Murakami"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Didactica magna",
+      "values": [
+        "Jan Amos Komenský",
+        "George Orwell",
+        "Astrid Lindgrenová",
+        "Edgar Allan Poe"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tracyho tygr",
+      "values": [
+        "Friedrich Schiller",
+        "Karel May",
+        "Edgar Allan Poe",
+        "William Saroyan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "1Q84",
+      "values": [
+        "Alexandr Sergejevič Puškin",
+        "Haruki Murakami",
+        "Mark Twain",
+        "Edgar Allan Poe"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Podivuhodné cesty",
+      "values": [
+        "Jan Amos Komenský",
+        "Nikolaj Vasiljevič Gogol",
+        "Mark Twain",
+        "Jules Verne"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Příběhy Arthura Gordona Pyma",
+      "values": [
+        "Edgar Allan Poe",
+        "bratři Strugačtí",
+        "Martin Luther",
+        "Stephen King"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte autora podle stavby",
+  "questions": [
+    {
+      "key": "Socha Svobody",
+      "values": [
+        "Gustave Eiffel",
+        "Giovanni Battista Alliprandi",
+        "Bohumír Kozák",
+        "Kamil Roškot"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nuselský most",
+      "values": [
+        "Jiří Stibral",
+        "Karel Filsak",
+        "Stanislav Hubička",
+        "Václav Aulický"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Baťův mrakodrap",
+      "values": [
+        "Carlo Lurago",
+        "Gustave Eiffel",
+        "Frank Gehry",
+        "Vladimír Karfík"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dům U Černé Matky Boží",
+      "values": [
+        "Giovanni Battista Alliprandi",
+        "Norman Foster",
+        "Josef Gočár",
+        "Vladimír Karfík"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Svatá Hora",
+      "values": [
+        "Bohumír Kozák",
+        "Frank Lloyd Wright",
+        "Carlo Lurago",
+        "Josef Danda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hudební divadlo Karlín",
+      "values": [
+        "Friedrich Ohmann",
+        "Carlo Lurago",
+        "Stanislav Franc",
+        "Jože Plečnik"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vodní nádrž Pastviny",
+      "values": [
+        "Pavel Janák",
+        "Kamil Roškot",
+        "Otakar Novotný",
+        "Antonín Balšánek"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Divadlo Josefa Kajetána Tyla",
+      "values": [
+        "Vojtěch Ignác Ullmann",
+        "Ladislav Machoň",
+        "Jan Kaplický",
+        "Antonín Balšánek"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gröbova vila",
+      "values": [
+        "Josef Schulz",
+        "Carlo Lurago",
+        "Jože Plečnik",
+        "Adolf Loos"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Španělská synagoga",
+      "values": [
+        "Adolf Loos",
+        "Karel Prager",
+        "Jan Kaplický",
+        "Vojtěch Ignác Ullmann"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

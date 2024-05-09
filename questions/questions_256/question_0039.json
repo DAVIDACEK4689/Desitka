@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Londýn",
+      "values": [
+        "Slovensko",
+        "Česko",
+        "Irsko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kodaň",
+      "values": [
+        "Belgie",
+        "Nizozemsko",
+        "Itálie",
+        "Dánsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bari",
+      "values": [
+        "Německo",
+        "Dánsko",
+        "Itálie",
+        "Maďarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Trnava",
+      "values": [
+        "Česko",
+        "Nizozemsko",
+        "Slovensko",
+        "Belgie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Trevír",
+      "values": [
+        "Německo",
+        "Nizozemsko",
+        "Spojené království",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Newcastle upon Tyne",
+      "values": [
+        "Itálie",
+        "Belgie",
+        "Spojené království",
+        "Maďarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Freiburg im Breisgau",
+      "values": [
+        "Slovensko",
+        "Německo",
+        "Belgie",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nottingham",
+      "values": [
+        "Maďarsko",
+        "Dánsko",
+        "Spojené království",
+        "Nizozemsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stirling",
+      "values": [
+        "Polsko",
+        "Spojené království",
+        "Slovensko",
+        "Dánsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Londonderry",
+      "values": [
+        "Belgie",
+        "Německo",
+        "Spojené království",
+        "Česko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

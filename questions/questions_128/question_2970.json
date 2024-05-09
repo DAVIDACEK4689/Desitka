@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] román?",
+  "questions": [
+    {
+      "key": "Paní Bovaryová",
+      "values": [
+        "francouzský",
+        "americký",
+        "italský",
+        "slovenský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dobrodružství Toma Sawyera",
+      "values": [
+        "australský",
+        "americký",
+        "italský",
+        "kanadský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tulák po hvězdách",
+      "values": [
+        "italský",
+        "norský",
+        "americký",
+        "slovenský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Příběh dvou měst",
+      "values": [
+        "norský",
+        "anglický",
+        "americký",
+        "francouzský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Muž z Vysokého zámku",
+      "values": [
+        "kanadský",
+        "španělský",
+        "americký",
+        "slovenský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Střet králů",
+      "values": [
+        "americký",
+        "australský",
+        "britský",
+        "norský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hedvábník",
+      "values": [
+        "japonský",
+        "rakouský",
+        "anglický",
+        "polský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pod skleněným zvonem",
+      "values": [
+        "americký",
+        "francouzský",
+        "australský",
+        "německý"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Frantina",
+      "values": [
+        "český",
+        "polský",
+        "norský",
+        "japonský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kočovníci severu",
+      "values": [
+        "ruský",
+        "americký",
+        "rakouský",
+        "japonský"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

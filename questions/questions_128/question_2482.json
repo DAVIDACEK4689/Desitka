@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] novináře?",
+  "questions": [
+    {
+      "key": "Karel Jaromír Erben",
+      "values": [
+        "slovenského",
+        "českého",
+        "sovětského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Dienstbier starší",
+      "values": [
+        "českého",
+        "kolumbijského",
+        "chorvatského",
+        "izraelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Narghís Mohammadiová",
+      "values": [
+        "íránského",
+        "saúdskoarabského",
+        "kolumbijského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavel Černocký",
+      "values": [
+        "švédského",
+        "českého",
+        "mexického",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Barák",
+      "values": [
+        "bulharského",
+        "britského",
+        "izraelského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jozef Miloslav Hurban",
+      "values": [
+        "britského",
+        "bulharského",
+        "slovenského",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Přemysl Čech",
+      "values": [
+        "českého",
+        "španělského",
+        "belgického",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Szymon Hołownia",
+      "values": [
+        "sovětského",
+        "francouzského",
+        "polského",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Patrik Eichler",
+      "values": [
+        "francouzského",
+        "polského",
+        "sovětského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ed Yong",
+      "values": [
+        "nizozemského",
+        "československého",
+        "britského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

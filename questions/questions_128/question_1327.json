@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] evropskou kulturu?",
+  "questions": [
+    {
+      "key": "Tramping",
+      "values": [
+        "ázerbájdžánskou",
+        "řeckou",
+        "českou",
+        "arménskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Noc Guye Fawkese",
+      "values": [
+        "irskou",
+        "gruzínskou",
+        "nizozemskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sokol",
+      "values": [
+        "dánskou",
+        "švýcarskou",
+        "gruzínskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Galský fotbal",
+      "values": [
+        "irskou",
+        "řeckou",
+        "ukrajinskou",
+        "českou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Když přišli nacisté",
+      "values": [
+        "ukrajinskou",
+        "německou",
+        "švédskou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Riverdance",
+      "values": [
+        "irskou",
+        "španělskou",
+        "francouzskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Benátská škola",
+      "values": [
+        "irskou",
+        "arménskou",
+        "španělskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tarantela",
+      "values": [
+        "italskou",
+        "dánskou",
+        "polskou",
+        "českou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Častuška",
+      "values": [
+        "nizozemskou",
+        "britskou",
+        "ruskou",
+        "polskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Koninginnedag",
+      "values": [
+        "německou",
+        "švédskou",
+        "nizozemskou",
+        "českou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

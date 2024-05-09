@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] ledního hokejistu?",
+  "questions": [
+    {
+      "key": "Sidney Crosby",
+      "values": [
+        "sovětského",
+        "švédského",
+        "kanadského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Milan Michálek",
+      "values": [
+        "německého",
+        "švýcarského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ondřej Kaše",
+      "values": [
+        "slovinského",
+        "českého",
+        "slovenského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Čaloun",
+      "values": [
+        "polského",
+        "československého",
+        "rakouského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mark Messier",
+      "values": [
+        "kanadského",
+        "sovětského",
+        "švýcarského",
+        "finského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jakub Jeřábek",
+      "values": [
+        "českého",
+        "kanadského",
+        "švýcarského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zdeněk Okál",
+      "values": [
+        "československého",
+        "polského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Robert Kovařík",
+      "values": [
+        "českého",
+        "lotyšského",
+        "finského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marcel Hossa",
+      "values": [
+        "kanadského",
+        "lotyšského",
+        "slovenského",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Myšák",
+      "values": [
+        "kanadského",
+        "finského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

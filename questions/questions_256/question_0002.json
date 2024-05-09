@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] biologa?",
+  "questions": [
+    {
+      "key": "Katherine Oppenheimer",
+      "values": [
+        "německého",
+        "estonského",
+        "amerického",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "David Attenborough",
+      "values": [
+        "nizozemského",
+        "německého",
+        "estonského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dian Fosseyová",
+      "values": [
+        "nizozemského",
+        "německého",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bohuslav Brouk",
+      "values": [
+        "amerického",
+        "německého",
+        "českého",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Emanuel Rádl",
+      "values": [
+        "německého",
+        "francouzského",
+        "českého",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Francis Crick",
+      "values": [
+        "britského",
+        "nizozemského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Václav Hampl",
+      "values": [
+        "českého",
+        "nizozemského",
+        "estonského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Otto Heinrich Warburg",
+      "values": [
+        "českého",
+        "britského",
+        "estonského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jonas Salk",
+      "values": [
+        "amerického",
+        "britského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vilém Kurz starší",
+      "values": [
+        "britského",
+        "českého",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

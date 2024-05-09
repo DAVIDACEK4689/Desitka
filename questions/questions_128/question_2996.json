@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] ledního hokejistu?",
+  "questions": [
+    {
+      "key": "Zbyněk Michálek",
+      "values": [
+        "lotyšského",
+        "sovětského",
+        "slovinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mike Modano",
+      "values": [
+        "švýcarského",
+        "polského",
+        "rumunského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roberts Bukarts",
+      "values": [
+        "lotyšského",
+        "rakouského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marcel Hossa",
+      "values": [
+        "slovenského",
+        "rumunského",
+        "polského",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miroslav Lacký",
+      "values": [
+        "švýcarského",
+        "britského",
+        "německého",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Adam Jánošík",
+      "values": [
+        "finského",
+        "slovenského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Boris Žabka",
+      "values": [
+        "československého",
+        "polského",
+        "ruského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Trevor Linden",
+      "values": [
+        "slovinského",
+        "finského",
+        "britského",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Richard Lintner",
+      "values": [
+        "slovinského",
+        "slovenského",
+        "ruského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cam Neely",
+      "values": [
+        "kanadského",
+        "lotyšského",
+        "britského",
+        "německého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

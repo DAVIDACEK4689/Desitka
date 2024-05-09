@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Robert De Niro",
+      "values": [
+        "malajsijského",
+        "amerického",
+        "novozélandského",
+        "belgického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vladimír Dvořák",
+      "values": [
+        "japonského",
+        "maďarského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vincent Cassel",
+      "values": [
+        "polského",
+        "francouzského",
+        "rakouského",
+        "islandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gustáv Valach",
+      "values": [
+        "slovenského",
+        "nizozemského",
+        "rakouského",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert Hájek",
+      "values": [
+        "portugalského",
+        "italského",
+        "českého",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kai",
+      "values": [
+        "jihoafrického",
+        "slovenského",
+        "německého",
+        "jihokorejského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Burtka",
+      "values": [
+        "norského",
+        "thajského",
+        "amerického",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michael Biehn",
+      "values": [
+        "chorvatského",
+        "amerického",
+        "islandského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexander Pschill",
+      "values": [
+        "rakouského",
+        "ruského",
+        "maďarského",
+        "tureckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Renato Pozzetto",
+      "values": [
+        "italského",
+        "francouzského",
+        "jamajského",
+        "australského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

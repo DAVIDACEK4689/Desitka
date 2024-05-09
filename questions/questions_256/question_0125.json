@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Emil František Burian",
+      "values": [
+        "ukrajinského",
+        "českého",
+        "slovenského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ľudovít Štúr",
+      "values": [
+        "slovenského",
+        "srbského",
+        "vietnamského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Taras Ševčenko",
+      "values": [
+        "italského",
+        "amerického",
+        "ruského",
+        "ukrajinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lope de Vega",
+      "values": [
+        "anglického",
+        "vietnamského",
+        "španělského",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miloš Doležal",
+      "values": [
+        "rumunského",
+        "chilského",
+        "českého",
+        "skotského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Thomas Hardy",
+      "values": [
+        "anglického",
+        "polského",
+        "řeckého",
+        "skotského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Guido Gezelle",
+      "values": [
+        "řeckého",
+        "španělského",
+        "srbského",
+        "belgického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tommaso Campanella",
+      "values": [
+        "francouzského",
+        "vietnamského",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eduard Albert",
+      "values": [
+        "slovenského",
+        "srbského",
+        "českého",
+        "anglického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miroslav Válek",
+      "values": [
+        "perského",
+        "slovenského",
+        "amerického",
+        "chilského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] šlechtice?",
+  "questions": [
+    {
+      "key": "Tycho Brahe",
+      "values": [
+        "rakouského",
+        "albánského",
+        "dánského",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ernest Rutherford",
+      "values": [
+        "polského",
+        "britského",
+        "italského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Novalis",
+      "values": [
+        "monackého",
+        "nizozemského",
+        "ruského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Imrich Tököly",
+      "values": [
+        "švédského",
+        "slezského",
+        "uherského",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vojtěch z Pernštejna",
+      "values": [
+        "ruského",
+        "nizozemského",
+        "moravského",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andrej Hadik",
+      "values": [
+        "albánského",
+        "německého",
+        "portugalského",
+        "uherského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Žofia Bošňáková",
+      "values": [
+        "gruzínského",
+        "slovenského",
+        "uherského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Louis Berthier",
+      "values": [
+        "monackého",
+        "španělského",
+        "francouzského",
+        "moravského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jáchym Oldřich z Hradce",
+      "values": [
+        "českého",
+        "monackého",
+        "dánského",
+        "moravského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stanisław Żółkiewski",
+      "values": [
+        "francouzského",
+        "polského",
+        "nizozemského",
+        "českého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

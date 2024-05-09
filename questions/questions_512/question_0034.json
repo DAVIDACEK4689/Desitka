@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotografa?",
+  "questions": [
+    {
+      "key": "Alfons Mucha",
+      "values": [
+        "italského",
+        "polského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dan Bárta",
+      "values": [
+        "slovenského",
+        "českého",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Hanzelka",
+      "values": [
+        "italského",
+        "dánského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "František Drtikol",
+      "values": [
+        "kanadského",
+        "anglického",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robert Vano",
+      "values": [
+        "francouzského",
+        "kanadského",
+        "anglického",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Heinrich Harrer",
+      "values": [
+        "rakouského",
+        "německého",
+        "polského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Christian Aaron Boulogne",
+      "values": [
+        "anglického",
+        "rakouského",
+        "kanadského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Kolbaba",
+      "values": [
+        "německého",
+        "slovenského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zdzisław Beksiński",
+      "values": [
+        "italského",
+        "rakouského",
+        "polského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pattie Boydová",
+      "values": [
+        "anglického",
+        "dánského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

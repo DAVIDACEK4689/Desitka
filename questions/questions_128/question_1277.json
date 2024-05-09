@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vynálezce?",
+  "questions": [
+    {
+      "key": "Thomas Alva Edison",
+      "values": [
+        "irského",
+        "amerického",
+        "ukrajinského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Louis Pasteur",
+      "values": [
+        "belgického",
+        "francouzského",
+        "britského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "William Thomson",
+      "values": [
+        "francouzského",
+        "sovětského",
+        "švédského",
+        "irského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimir Grigorjevič Fjodorov",
+      "values": [
+        "českého",
+        "amerického",
+        "ruského",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Les Paul",
+      "values": [
+        "amerického",
+        "ruského",
+        "sovětského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Carl Zeiss",
+      "values": [
+        "německého",
+        "polského",
+        "ukrajinského",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Franz Reichelt",
+      "values": [
+        "rakouského",
+        "maďarského",
+        "švýcarského",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stanisław Ulam",
+      "values": [
+        "italského",
+        "amerického",
+        "maďarského",
+        "belgického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bill Nye",
+      "values": [
+        "belgického",
+        "polského",
+        "sovětského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Barnes Wallis",
+      "values": [
+        "slovenského",
+        "rakouského",
+        "britského",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

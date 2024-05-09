@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Vojtěch Dyk",
+      "values": [
+        "gruzínského",
+        "českého",
+        "thajského",
+        "novozélandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Christian Bale",
+      "values": [
+        "namibijského",
+        "britského",
+        "indonéského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Csongor Kassai",
+      "values": [
+        "mexického",
+        "slovenského",
+        "novozélandského",
+        "marockého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Daniel Brühl",
+      "values": [
+        "jihoafrického",
+        "španělského",
+        "islandského",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Fanta",
+      "values": [
+        "ruského",
+        "bulharského",
+        "gruzínského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Felix Mallard",
+      "values": [
+        "irského",
+        "malajsijského",
+        "portugalského",
+        "australského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Maxim Galkin",
+      "values": [
+        "německého",
+        "ruského",
+        "marockého",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Beau Bridges",
+      "values": [
+        "amerického",
+        "polského",
+        "namibijského",
+        "čínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michal Kubovčík",
+      "values": [
+        "bulharského",
+        "slovenského",
+        "francouzského",
+        "argentinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lux Pascal",
+      "values": [
+        "slovenského",
+        "indonéského",
+        "chilského",
+        "brazilského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

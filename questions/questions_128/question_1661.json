@@ -1,0 +1,105 @@
+{
+  "text": "Určete kontinent podle měny",
+  "questions": [
+    {
+      "key": "Francouzský frank",
+      "values": [
+        "Jižní Amerika",
+        "Afrika",
+        "Evropa",
+        "Asie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rumunský lei",
+      "values": [
+        "Severní Amerika",
+        "Evropa",
+        "Afrika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "CFA frank",
+      "values": [
+        "Evropa",
+        "Jižní Amerika",
+        "Severní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Řecká drachma",
+      "values": [
+        "Evropa",
+        "Afrika",
+        "Jižní Amerika",
+        "Asie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Argentinské peso",
+      "values": [
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Afrika",
+        "Evropa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kapverdské escudo",
+      "values": [
+        "Jižní Amerika",
+        "Afrika",
+        "Severní Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Singapurský dolar",
+      "values": [
+        "Afrika",
+        "Jižní Amerika",
+        "Severní Amerika",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Maďarské pengő",
+      "values": [
+        "Severní Amerika",
+        "Evropa",
+        "Asie",
+        "Afrika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paraguayský guaraní",
+      "values": [
+        "Evropa",
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Asie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kostarický colón",
+      "values": [
+        "Asie",
+        "Severní Amerika",
+        "Afrika",
+        "Evropa"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

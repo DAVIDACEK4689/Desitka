@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Linda Rybová",
+      "values": [
+        "irskou",
+        "venezuelskou",
+        "českou",
+        "nizozemskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kaley Cuoco",
+      "values": [
+        "americkou",
+        "českou",
+        "izraelskou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vanessa Paradis",
+      "values": [
+        "švýcarskou",
+        "německou",
+        "ruskou",
+        "francouzskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kirsten Dunstová",
+      "values": [
+        "americkou",
+        "italskou",
+        "japonskou",
+        "irskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Barbora Mottlová",
+      "values": [
+        "polskou",
+        "americkou",
+        "českou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stella Maxwell",
+      "values": [
+        "maďarskou",
+        "australskou",
+        "britskou",
+        "českou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zuzka Light",
+      "values": [
+        "ukrajinskou",
+        "českou",
+        "namibijskou",
+        "brazilskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Veronika Machová",
+      "values": [
+        "francouzskou",
+        "indickou",
+        "českou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alicia Silverstoneová",
+      "values": [
+        "ruskou",
+        "švýcarskou",
+        "americkou",
+        "českou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anita Pallenbergová",
+      "values": [
+        "německou",
+        "rakouskou",
+        "švýcarskou",
+        "brazilskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] román?",
+  "questions": [
+    {
+      "key": "Na západní frontě klid",
+      "values": [
+        "německý",
+        "český",
+        "rakouský",
+        "slovenský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bídníci",
+      "values": [
+        "francouzský",
+        "španělský",
+        "americký",
+        "japonský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hrabě Monte Cristo",
+      "values": [
+        "americký",
+        "německý",
+        "francouzský",
+        "irský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vojna a mír",
+      "values": [
+        "rakouský",
+        "australský",
+        "francouzský",
+        "ruský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Malé ženy",
+      "values": [
+        "španělský",
+        "český",
+        "rakouský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Obsluhoval jsem anglického krále",
+      "values": [
+        "irský",
+        "španělský",
+        "český",
+        "slovenský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hledání ztraceného času",
+      "values": [
+        "francouzský",
+        "japonský",
+        "rakouský",
+        "italský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hrozny hněvu",
+      "values": [
+        "americký",
+        "anglický",
+        "německý",
+        "ruský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Námi to končí",
+      "values": [
+        "španělský",
+        "americký",
+        "anglický",
+        "irský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Příběh opravdového člověka",
+      "values": [
+        "slovenský",
+        "anglický",
+        "ruský",
+        "japonský"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

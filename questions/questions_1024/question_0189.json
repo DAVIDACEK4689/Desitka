@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte oblast podle ptáka",
+  "questions": [
+    {
+      "key": "Kos černý",
+      "values": [
+        "Orientální oblast",
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vlaštovka obecná",
+      "values": [
+        "celosvětové rozšíření",
+        "Jižní Amerika",
+        "Orientální oblast",
+        "Severní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ledňáček říční",
+      "values": [
+        "Orientální oblast",
+        "Antarktida",
+        "celosvětové rozšíření",
+        "Jižní oceán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hrdlička zahradní",
+      "values": [
+        "Antarktida",
+        "Orientální oblast",
+        "celosvětové rozšíření",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Páv korunkatý",
+      "values": [
+        "Afrika",
+        "Antarktida",
+        "celosvětové rozšíření",
+        "Orientální oblast"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Papoušek šedý",
+      "values": [
+        "celosvětové rozšíření",
+        "Jižní Amerika",
+        "Afrika",
+        "Antarktida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vrabec polní",
+      "values": [
+        "Severní Amerika",
+        "celosvětové rozšíření",
+        "Afrika",
+        "Orientální oblast"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ara ararauna",
+      "values": [
+        "Jižní Amerika",
+        "Severní Amerika",
+        "Antarktida",
+        "Jižní oceán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Orel bělohlavý",
+      "values": [
+        "Jižní Amerika",
+        "Antarktida",
+        "Jižní oceán",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Albatros stěhovavý",
+      "values": [
+        "Jižní Amerika",
+        "Jižní oceán",
+        "Antarktida",
+        "Orientální oblast"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

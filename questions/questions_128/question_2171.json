@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistu?",
+  "questions": [
+    {
+      "key": "Jan Kodeš",
+      "values": [
+        "československého",
+        "rakouského",
+        "jihoafrického",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Hřebec",
+      "values": [
+        "chorvatského",
+        "belgického",
+        "československého",
+        "brazilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vladimír Zábrodský",
+      "values": [
+        "československého",
+        "norského",
+        "švédského",
+        "bulharského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Juan Martín del Potro",
+      "values": [
+        "českého",
+        "maďarského",
+        "sovětského",
+        "argentinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Denis Shapovalov",
+      "values": [
+        "kanadského",
+        "indického",
+        "francouzského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Damm",
+      "values": [
+        "českého",
+        "jihoafrického",
+        "československého",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David Goffin",
+      "values": [
+        "belgického",
+        "francouzského",
+        "chilského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tommy Haas",
+      "values": [
+        "německého",
+        "chilského",
+        "íránského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mikael Ymer",
+      "values": [
+        "slovenského",
+        "českého",
+        "sovětského",
+        "švédského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jimmy Arias",
+      "values": [
+        "norského",
+        "amerického",
+        "indického",
+        "bulharského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

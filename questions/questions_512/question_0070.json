@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Clint Eastwood",
+      "values": [
+        "italského",
+        "novozélandského",
+        "francouzského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roman Polański",
+      "values": [
+        "amerického",
+        "srbského",
+        "ruského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Budař",
+      "values": [
+        "kanadského",
+        "českého",
+        "ruského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miloš Nedbal",
+      "values": [
+        "kanadského",
+        "hongkongského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kevin Spacey",
+      "values": [
+        "rakouského",
+        "českého",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaroslav Dudek",
+      "values": [
+        "norského",
+        "britského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexander Skarsgård",
+      "values": [
+        "irského",
+        "francouzského",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Elmar Klos",
+      "values": [
+        "irského",
+        "japonského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tim Robbins",
+      "values": [
+        "amerického",
+        "dánského",
+        "švédského",
+        "novozélandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Emir Kusturica",
+      "values": [
+        "francouzského",
+        "srbského",
+        "amerického",
+        "španělského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

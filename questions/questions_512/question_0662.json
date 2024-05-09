@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Ronaldo",
+      "values": [
+        "rumunského",
+        "skotského",
+        "polského",
+        "brazilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel Poborský",
+      "values": [
+        "československého",
+        "českého",
+        "španělského",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vladimír Coufal",
+      "values": [
+        "ekvádorského",
+        "českého",
+        "dánského",
+        "egyptského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Roberto Carlos",
+      "values": [
+        "francouzského",
+        "italského",
+        "brazilského",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Olivier Giroud",
+      "values": [
+        "českého",
+        "severoirského",
+        "francouzského",
+        "kamerunského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Martin Škrtel",
+      "values": [
+        "srbského",
+        "slovenského",
+        "nizozemského",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hugo Lloris",
+      "values": [
+        "skotského",
+        "rumunského",
+        "nigerijského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marián Čišovský",
+      "values": [
+        "sovětského",
+        "uruguayského",
+        "slovenského",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Keylor Navas",
+      "values": [
+        "kostarického",
+        "rakouského",
+        "italského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ousmane Dembélé",
+      "values": [
+        "švýcarského",
+        "ukrajinského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

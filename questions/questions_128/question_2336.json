@@ -1,0 +1,105 @@
+{
+  "text": "Určete etnický původ podle Čecha",
+  "questions": [
+    {
+      "key": "Ewa Farna",
+      "values": [
+        "polský původ",
+        "arménský původ",
+        "slovenský původ",
+        "asijský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chantal Poullain",
+      "values": [
+        "řecký původ",
+        "italský původ",
+        "francouzský původ",
+        "maďarský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Martha Elefteriadu",
+      "values": [
+        "vietnamský původ",
+        "řecký původ",
+        "britský původ",
+        "asijský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Klára Samková",
+      "values": [
+        "italský původ",
+        "běloruský původ",
+        "makedonský původ",
+        "estonský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karolína Kurková",
+      "values": [
+        "asijský původ",
+        "běloruský původ",
+        "slovenský původ",
+        "řecký původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marek Epstein",
+      "values": [
+        "vietnamský původ",
+        "řecký původ",
+        "židovský původ",
+        "ukrajinský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anna Fárová",
+      "values": [
+        "arménský původ",
+        "chorvatský původ",
+        "francouzský původ",
+        "etiopský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Thai Dai Van Nguyen",
+      "values": [
+        "slovenský původ",
+        "srbský původ",
+        "vietnamský původ",
+        "arménský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vladimír Bystrov",
+      "values": [
+        "francouzský původ",
+        "ukrajinský původ",
+        "chorvatský původ",
+        "ruský původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Christian Chu",
+      "values": [
+        "francouzský původ",
+        "vietnamský původ",
+        "chorvatský původ",
+        "řecký původ"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

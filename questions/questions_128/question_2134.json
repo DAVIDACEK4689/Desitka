@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Édith Piaf",
+      "values": [
+        "švédskou",
+        "německou",
+        "francouzskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lenka Dusilová",
+      "values": [
+        "českou",
+        "australskou",
+        "kanadskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Priyanka Chopra",
+      "values": [
+        "islandskou",
+        "ukrajinskou",
+        "indickou",
+        "nizozemskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zora Kolínska",
+      "values": [
+        "slovenskou",
+        "rumunskou",
+        "švýcarskou",
+        "australskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Markéta Poulíčková",
+      "values": [
+        "kubánskou",
+        "českou",
+        "maďarskou",
+        "japonskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jitka Charvátová",
+      "values": [
+        "jamajskou",
+        "maďarskou",
+        "kolumbijskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Milena Zahrynowská",
+      "values": [
+        "kanadskou",
+        "izraelskou",
+        "českou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dannii Minogue",
+      "values": [
+        "japonskou",
+        "barbadoskou",
+        "australskou",
+        "českou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Margaréta Ondrejková",
+      "values": [
+        "švédskou",
+        "izraelskou",
+        "slovenskou",
+        "barbadoskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Caroline Corr",
+      "values": [
+        "maďarskou",
+        "americkou",
+        "rumunskou",
+        "irskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

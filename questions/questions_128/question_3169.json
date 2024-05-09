@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle vodstva",
+  "questions": [
+    {
+      "key": "Azovské moře",
+      "values": [
+        "Rusko",
+        "Řecko",
+        "Vietnam",
+        "Ukrajina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Barentsovo moře",
+      "values": [
+        "Papua Nová Guinea",
+        "Egypt",
+        "Černá Hora",
+        "Norsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Norské moře",
+      "values": [
+        "Madagaskar",
+        "Island",
+        "Jižní Korea",
+        "Ukrajina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Arabské moře",
+      "values": [
+        "Írán",
+        "Černá Hora",
+        "Papua Nová Guinea",
+        "Jižní Korea"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Malstróm",
+      "values": [
+        "Estonsko",
+        "Norsko",
+        "Vietnam",
+        "Papua Nová Guinea"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hormuzský průliv",
+      "values": [
+        "Madagaskar",
+        "Černá Hora",
+        "Írán",
+        "Japonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Žluté moře",
+      "values": [
+        "Írán",
+        "Jižní Korea",
+        "Estonsko",
+        "Island"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Irské moře",
+      "values": [
+        "Jižní Korea",
+        "Spojené království",
+        "Rusko",
+        "Irsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Severní mořská cesta",
+      "values": [
+        "Egypt",
+        "Jižní Korea",
+        "Rusko",
+        "Írán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ománský záliv",
+      "values": [
+        "Estonsko",
+        "Madagaskar",
+        "Írán",
+        "Spojené království"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

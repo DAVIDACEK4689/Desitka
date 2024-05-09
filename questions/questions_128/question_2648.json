@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Almaty",
+      "values": [
+        "Pero",
+        "Bolívie",
+        "Kazachstán",
+        "Slovinsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marathón",
+      "values": [
+        "Řecko",
+        "Marshallovy ostrovy",
+        "Kapverdy",
+        "Indie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Čierna nad Tisou",
+      "values": [
+        "Grónsko",
+        "Slovensko",
+        "Rumunsko",
+        "Srí Lanka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Skadar",
+      "values": [
+        "Bolívie",
+        "Albánie",
+        "Somálsko",
+        "Kamerun"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Şanlıurfa",
+      "values": [
+        "Švýcarsko",
+        "Argentina",
+        "Island",
+        "Turecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Safed",
+      "values": [
+        "Kapverdy",
+        "Thajsko",
+        "Izrael",
+        "Litva"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Iquitos",
+      "values": [
+        "Zambie",
+        "Bangladéš",
+        "Gambie",
+        "Pero"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ilulissat",
+      "values": [
+        "Grónsko",
+        "Niger",
+        "Abcházie",
+        "Tuvalu"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Skien",
+      "values": [
+        "Lotyšsko",
+        "Omán",
+        "Palau",
+        "Norsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ittoqqortoormiit",
+      "values": [
+        "Kambodža",
+        "Argentina",
+        "Jemen",
+        "Grónsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Karolína Krézlová",
+      "values": [
+        "českou",
+        "izraelskou",
+        "indickou",
+        "rakouskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nico",
+      "values": [
+        "finskou",
+        "německou",
+        "íránskou",
+        "maďarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tonya Graves",
+      "values": [
+        "irskou",
+        "norskou",
+        "australskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Adriana Lima",
+      "values": [
+        "uruguayskou",
+        "kubánskou",
+        "íránskou",
+        "brazilskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lisa Robin Kelly",
+      "values": [
+        "finskou",
+        "rakouskou",
+        "izraelskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josephine Langfordová",
+      "values": [
+        "australskou",
+        "švýcarskou",
+        "norskou",
+        "španělskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Shay Mitchell",
+      "values": [
+        "řeckou",
+        "kanadskou",
+        "čínskou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Teresa Branna",
+      "values": [
+        "českou",
+        "jihoafrickou",
+        "bulharskou",
+        "kanadskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Golšifte Farahaníová",
+      "values": [
+        "íránskou",
+        "uruguayskou",
+        "jihoafrickou",
+        "bermudskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Anna Campová",
+      "values": [
+        "belgickou",
+        "českou",
+        "americkou",
+        "bermudskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

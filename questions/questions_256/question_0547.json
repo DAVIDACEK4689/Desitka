@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] hudební skupinu?",
+  "questions": [
+    {
+      "key": "Bee Gees",
+      "values": [
+        "německou",
+        "nizozemskou",
+        "britskou",
+        "finskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jamaron",
+      "values": [
+        "slovinskou",
+        "australskou",
+        "kanadskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Daft Punk",
+      "values": [
+        "švýcarskou",
+        "francouzskou",
+        "španělskou",
+        "finskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "HammerFall",
+      "values": [
+        "islandskou",
+        "švédskou",
+        "ukrajinskou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lake Malawi",
+      "values": [
+        "českou",
+        "španělskou",
+        "švýcarskou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Il Divo",
+      "values": [
+        "dánskou",
+        "českou",
+        "britskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Palaye Royale",
+      "values": [
+        "českou",
+        "španělskou",
+        "švédskou",
+        "kanadskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kalush Orchestra",
+      "values": [
+        "irskou",
+        "českou",
+        "britskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fifth Harmony",
+      "values": [
+        "kanadskou",
+        "americkou",
+        "dánskou",
+        "slovinskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "New Element",
+      "values": [
+        "českou",
+        "italskou",
+        "slovinskou",
+        "maďarskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

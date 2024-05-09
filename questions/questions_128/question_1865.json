@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] bankéře?",
+  "questions": [
+    {
+      "key": "Ľudovít Ódor",
+      "values": [
+        "britského",
+        "ruského",
+        "slovenského",
+        "československého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Stráský",
+      "values": [
+        "rumunského",
+        "ruského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Richard Salzmann",
+      "values": [
+        "českého",
+        "italského",
+        "ruského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Salomon",
+      "values": [
+        "českého",
+        "německého",
+        "britského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fuggerové",
+      "values": [
+        "rumunského",
+        "německého",
+        "slovenského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Walter Funk",
+      "values": [
+        "německého",
+        "italského",
+        "rumunského",
+        "československého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gustav Krupp von Bohlen und Halbach",
+      "values": [
+        "německého",
+        "ruského",
+        "slovenského",
+        "československého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Carlo Azeglio Ciampi",
+      "values": [
+        "italského",
+        "československého",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ion Țiriac",
+      "values": [
+        "rumunského",
+        "československého",
+        "německého",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Imrich Karvaš",
+      "values": [
+        "československého",
+        "slovenského",
+        "italského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "David Švehlík",
+      "values": [
+        "britského",
+        "českého",
+        "kanadského",
+        "litevského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joséphine de Beauharnais",
+      "values": [
+        "kanadského",
+        "francouzského",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Lux",
+      "values": [
+        "italského",
+        "maďarského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vilém Tell",
+      "values": [
+        "amerického",
+        "švýcarského",
+        "maďarského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dagmar Dánská",
+      "values": [
+        "amerického",
+        "kanadského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Charlotta Cordayová",
+      "values": [
+        "německého",
+        "francouzského",
+        "českého",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Camille Claudelová",
+      "values": [
+        "litevského",
+        "britského",
+        "kanadského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ferenc Deák",
+      "values": [
+        "německého",
+        "amerického",
+        "britského",
+        "maďarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oldřich Brněnský",
+      "values": [
+        "českého",
+        "litevského",
+        "monackého",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jermain Defoe",
+      "values": [
+        "britského",
+        "německého",
+        "maďarského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

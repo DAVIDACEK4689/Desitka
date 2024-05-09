@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Tomáš Vaclík",
+      "values": [
+        "nigerijského",
+        "švýcarského",
+        "českého",
+        "chilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Peter Olayinka",
+      "values": [
+        "československého",
+        "nigerijského",
+        "ekvádorského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bojan Krkić",
+      "values": [
+        "španělského",
+        "švédského",
+        "ghanského",
+        "bulharského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Clarence Seedorf",
+      "values": [
+        "uruguayského",
+        "nigerijského",
+        "švýcarského",
+        "nizozemského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miroslav Klose",
+      "values": [
+        "německého",
+        "polského",
+        "alžírského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Juraj Kucka",
+      "values": [
+        "brazilského",
+        "slovenského",
+        "italského",
+        "anglického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bukayo Saka",
+      "values": [
+        "rakouského",
+        "severoirského",
+        "anglického",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marek Kincl",
+      "values": [
+        "českého",
+        "chorvatského",
+        "alžírského",
+        "československého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marcel Sabitzer",
+      "values": [
+        "bulharského",
+        "kostarického",
+        "rakouského",
+        "mexického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomáš Wiesner",
+      "values": [
+        "finského",
+        "brazilského",
+        "tureckého",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

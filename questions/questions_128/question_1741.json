@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle teroristického útoku",
+  "questions": [
+    {
+      "key": "Teroristický útok na beslanskou školu",
+      "values": [
+        "Německo",
+        "Rusko",
+        "Japonsko",
+        "Turecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Teroristické útoky na vlaky na Mladoboleslavsku 2017",
+      "values": [
+        "Indie",
+        "Spojené království",
+        "Česko",
+        "Rakousko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bombové útoky na madridské vlaky 2004",
+      "values": [
+        "Španělsko",
+        "Egypt",
+        "Nový Zéland",
+        "Rakousko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Útok sarinem v tokijském metru",
+      "values": [
+        "Francie",
+        "Japonsko",
+        "Španělsko",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bombový útok v Petrohradu 2023",
+      "values": [
+        "Spojené království",
+        "Německo",
+        "Rusko",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Teroristické útoky v Bruselu v březnu 2016",
+      "values": [
+        "Itálie",
+        "Belgie",
+        "Japonsko",
+        "Egypt"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Teroristický útok v Hurghadě 2017",
+      "values": [
+        "Francie",
+        "Egypt",
+        "Turecko",
+        "Španělsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Teroristický útok na letišti Domodědovo",
+      "values": [
+        "Japonsko",
+        "Francie",
+        "Rakousko",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Atentát v Boloni",
+      "values": [
+        "Rusko",
+        "Německo",
+        "Itálie",
+        "Turecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Útok na americká velvyslanectví v Nairobi a Dar es Salaamu",
+      "values": [
+        "Turecko",
+        "Německo",
+        "Keňa",
+        "Rakousko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

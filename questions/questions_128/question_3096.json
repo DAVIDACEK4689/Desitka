@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Mel Gibson",
+      "values": [
+        "japonského",
+        "sovětského",
+        "novozélandského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kevin Spacey",
+      "values": [
+        "islandského",
+        "amerického",
+        "španělského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jonathan Brandis",
+      "values": [
+        "irského",
+        "japonského",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ed Harris",
+      "values": [
+        "finského",
+        "amerického",
+        "německého",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Čáp",
+      "values": [
+        "švýcarského",
+        "italského",
+        "sovětského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stan Neumann",
+      "values": [
+        "kanadského",
+        "belgického",
+        "francouzského",
+        "chorvatského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Joe Mantegna",
+      "values": [
+        "amerického",
+        "ukrajinského",
+        "indického",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Makoto Šinkai",
+      "values": [
+        "francouzského",
+        "slovenského",
+        "japonského",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Červinka",
+      "values": [
+        "amerického",
+        "estonského",
+        "nizozemského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jim Reardon",
+      "values": [
+        "indického",
+        "českého",
+        "mexického",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

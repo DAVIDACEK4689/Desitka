@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vegetariána?",
+  "questions": [
+    {
+      "key": "Iva Kubelková",
+      "values": [
+        "finského",
+        "českého",
+        "francouzského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Romain Rolland",
+      "values": [
+        "francouzského",
+        "českého",
+        "indického",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Höger",
+      "values": [
+        "českého",
+        "izraelského",
+        "německého",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mayim Bialik",
+      "values": [
+        "australského",
+        "amerického",
+        "slovenského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sam Altman",
+      "values": [
+        "britského",
+        "ruského",
+        "amerického",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Radim Špaček",
+      "values": [
+        "irského",
+        "českého",
+        "slovenského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Natalie Imbruglia",
+      "values": [
+        "izraelského",
+        "rakouského",
+        "australského",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Forest Whitaker",
+      "values": [
+        "španělského",
+        "britského",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Isaac Bashevis Singer",
+      "values": [
+        "finského",
+        "ruského",
+        "nizozemského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Abbie Cornish",
+      "values": [
+        "australského",
+        "italského",
+        "finského",
+        "indického"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

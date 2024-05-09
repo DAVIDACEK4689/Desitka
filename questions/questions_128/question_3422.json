@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Vojtěch Dyk",
+      "values": [
+        "českého",
+        "srbského",
+        "maďarského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Matěj Ruppert",
+      "values": [
+        "moldavského",
+        "slovenského",
+        "českého",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Paddy Kelly",
+      "values": [
+        "srbského",
+        "nizozemského",
+        "finského",
+        "irského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Patrik Stoklasa",
+      "values": [
+        "belgického",
+        "českého",
+        "jamajského",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Peter Pecha",
+      "values": [
+        "slovenského",
+        "jihoafrického",
+        "islandského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Sklenář",
+      "values": [
+        "brazilského",
+        "finského",
+        "českého",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jimmy Fallon",
+      "values": [
+        "mexického",
+        "skotského",
+        "australského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Joshua Bassett",
+      "values": [
+        "argentinského",
+        "skotského",
+        "australského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Booba",
+      "values": [
+        "francouzského",
+        "jihoafrického",
+        "švýcarského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "AronChupa",
+      "values": [
+        "kolumbijského",
+        "švédského",
+        "jamajského",
+        "irského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

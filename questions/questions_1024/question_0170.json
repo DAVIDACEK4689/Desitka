@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "Pavel Fischer",
+      "values": [
+        "švýcarského",
+        "britského",
+        "portugalského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marian Jurečka",
+      "values": [
+        "německého",
+        "českého",
+        "britského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mirek Topolánek",
+      "values": [
+        "českého",
+        "kanadského",
+        "maďarského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Al Capone",
+      "values": [
+        "německého",
+        "českého",
+        "švýcarského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mel Gibson",
+      "values": [
+        "švýcarského",
+        "maďarského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Giovanni Boccaccio",
+      "values": [
+        "francouzského",
+        "maďarského",
+        "portugalského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Radovan Lukavský",
+      "values": [
+        "francouzského",
+        "českého",
+        "italského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Zahradníček",
+      "values": [
+        "francouzského",
+        "německého",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Gazdík",
+      "values": [
+        "švýcarského",
+        "kanadského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roman Joch",
+      "values": [
+        "francouzského",
+        "českého",
+        "švýcarského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

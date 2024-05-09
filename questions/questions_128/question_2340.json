@@ -1,0 +1,105 @@
+{
+  "text": "Určete etnický původ podle Čecha",
+  "questions": [
+    {
+      "key": "Klára Issová",
+      "values": [
+        "syrský původ",
+        "maďarský původ",
+        "etiopský původ",
+        "běloruský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Cina",
+      "values": [
+        "vietnamský původ",
+        "asijský původ",
+        "makedonský původ",
+        "arménský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Věra Tichánková",
+      "values": [
+        "ruský původ",
+        "slovenský původ",
+        "asijský původ",
+        "řecký původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joachim Barrande",
+      "values": [
+        "ruský původ",
+        "asijský původ",
+        "maďarský původ",
+        "francouzský původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jozef Chovanec",
+      "values": [
+        "slovenský původ",
+        "italský původ",
+        "chorvatský původ",
+        "kanadský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vlado Milunić",
+      "values": [
+        "evropský původ",
+        "chorvatský původ",
+        "kanadský původ",
+        "britský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Micuko Aojama",
+      "values": [
+        "japonský původ",
+        "chorvatský původ",
+        "ruský původ",
+        "afghánský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Statis Prusalis",
+      "values": [
+        "běloruský původ",
+        "italský původ",
+        "evropský původ",
+        "řecký původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Igor Ardašev",
+      "values": [
+        "ruský původ",
+        "evropský původ",
+        "makedonský původ",
+        "etiopský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Giulio Broggio",
+      "values": [
+        "makedonský původ",
+        "chorvatský původ",
+        "italský původ",
+        "asijský původ"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

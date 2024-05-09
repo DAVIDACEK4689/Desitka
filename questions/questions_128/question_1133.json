@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Berenika Kohoutová",
+      "values": [
+        "tureckou",
+        "nizozemskou",
+        "americkou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lejla Abbasová",
+      "values": [
+        "brazilskou",
+        "bulharskou",
+        "českou",
+        "bermudskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Klára Doležalová",
+      "values": [
+        "mexickou",
+        "českou",
+        "bermudskou",
+        "řeckou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kelly McGillis",
+      "values": [
+        "jihoafrickou",
+        "americkou",
+        "řeckou",
+        "mexickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andrea Nováková",
+      "values": [
+        "jihoafrickou",
+        "australskou",
+        "srbskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Natalia Dyer",
+      "values": [
+        "italskou",
+        "irskou",
+        "americkou",
+        "kolumbijskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cristin Miliotiová",
+      "values": [
+        "švýcarskou",
+        "americkou",
+        "brazilskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jella Haase",
+      "values": [
+        "německou",
+        "španělskou",
+        "indickou",
+        "norskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Virginia Madsen",
+      "values": [
+        "brazilskou",
+        "slovenskou",
+        "americkou",
+        "norskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zuzana Ďurdinová",
+      "values": [
+        "finskou",
+        "českou",
+        "maďarskou",
+        "rakouskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

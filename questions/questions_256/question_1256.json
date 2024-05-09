@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Quentin Tarantino",
+      "values": [
+        "japonského",
+        "amerického",
+        "italského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dan Přibáň",
+      "values": [
+        "ukrajinského",
+        "amerického",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kevin Spacey",
+      "values": [
+        "ruského",
+        "japonského",
+        "amerického",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "David Furnish",
+      "values": [
+        "japonského",
+        "kanadského",
+        "italského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Mach",
+      "values": [
+        "amerického",
+        "německého",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zdeněk Zelenka",
+      "values": [
+        "českého",
+        "belgického",
+        "polského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Schulhoff",
+      "values": [
+        "srbského",
+        "českého",
+        "hongkongského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaromil Jireš",
+      "values": [
+        "dánského",
+        "českého",
+        "kanadského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dave Franco",
+      "values": [
+        "amerického",
+        "polského",
+        "australského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Burgess Meredith",
+      "values": [
+        "belgického",
+        "amerického",
+        "ruského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

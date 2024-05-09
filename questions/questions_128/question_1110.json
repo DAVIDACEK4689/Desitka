@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Oscar Wilde",
+      "values": [
+        "italského",
+        "irského",
+        "tureckého",
+        "islandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Hora",
+      "values": [
+        "českého",
+        "francouzského",
+        "britského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Šrí Činmoj",
+      "values": [
+        "skotského",
+        "chilského",
+        "íránského",
+        "indického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "John Keats",
+      "values": [
+        "anglického",
+        "španělského",
+        "švédského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dietrich Eckart",
+      "values": [
+        "německého",
+        "švédského",
+        "palestinského",
+        "čínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vratislav Effenberger",
+      "values": [
+        "chilského",
+        "ruského",
+        "českého",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Czesław Miłosz",
+      "values": [
+        "polského",
+        "britského",
+        "vietnamského",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alois Gallat",
+      "values": [
+        "britského",
+        "slovenského",
+        "švýcarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Milan Jablonský",
+      "values": [
+        "australského",
+        "českého",
+        "belgického",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Heřman Chromý",
+      "values": [
+        "švýcarského",
+        "vietnamského",
+        "australského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

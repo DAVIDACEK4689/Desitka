@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle zaniklé stavby",
+  "questions": [
+    {
+      "key": "Berlínská zeď",
+      "values": [
+        "Polsko",
+        "Lotyšsko",
+        "Maďarsko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vůdcův bunkr",
+      "values": [
+        "Rusko",
+        "Itálie",
+        "Maďarsko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alexandrijská knihovna",
+      "values": [
+        "Izrael",
+        "Itálie",
+        "Egypt",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Šalomounův chrám",
+      "values": [
+        "Maďarsko",
+        "Egypt",
+        "Německo",
+        "Izrael"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Maják na ostrově Faros",
+      "values": [
+        "Izrael",
+        "Itálie",
+        "Spojené království",
+        "Egypt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Druhý chrám",
+      "values": [
+        "Rusko",
+        "Izrael",
+        "Polsko",
+        "Lotyšsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vysílač Konstantynow",
+      "values": [
+        "Lotyšsko",
+        "Polsko",
+        "Spojené království",
+        "Německo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ipaťjevův dům",
+      "values": [
+        "Lotyšsko",
+        "Egypt",
+        "Itálie",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Křišťálový palác",
+      "values": [
+        "Egypt",
+        "Itálie",
+        "Maďarsko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stadion Ference Puskáse",
+      "values": [
+        "Maďarsko",
+        "Egypt",
+        "Itálie",
+        "Lotyšsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

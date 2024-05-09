@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotografa?",
+  "questions": [
+    {
+      "key": "František Drtikol",
+      "values": [
+        "slovenského",
+        "německého",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Frank Herbert",
+      "values": [
+        "lucemburského",
+        "britského",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "David Horváth",
+      "values": [
+        "sovětského",
+        "švédského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Agnès Varda",
+      "values": [
+        "francouzského",
+        "švédského",
+        "kanadského",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Roman Blaško",
+      "values": [
+        "francouzského",
+        "českého",
+        "nizozemského",
+        "anglického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Heinrich Hoffmann",
+      "values": [
+        "slovenského",
+        "německého",
+        "brazilského",
+        "kubánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michael Bílek",
+      "values": [
+        "brazilského",
+        "německého",
+        "českého",
+        "jihoafrického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anton Corbijn",
+      "values": [
+        "anglického",
+        "maďarského",
+        "nizozemského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Julia Margaret Cameronová",
+      "values": [
+        "ruského",
+        "vietnamského",
+        "britského",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Topi Pigula",
+      "values": [
+        "německého",
+        "českého",
+        "rumunského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

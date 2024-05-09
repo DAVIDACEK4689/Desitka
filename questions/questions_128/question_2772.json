@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] architekta?",
+  "questions": [
+    {
+      "key": "Josef Hlávka",
+      "values": [
+        "brazilského",
+        "španělského",
+        "polského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Giorgio Vasari",
+      "values": [
+        "chorvatského",
+        "italského",
+        "finského",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Maxmilián Kaňka",
+      "values": [
+        "francouzského",
+        "japonského",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sébastien Le Prestre de Vauban",
+      "values": [
+        "amerického",
+        "japonského",
+        "francouzského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ferdinand Fellner",
+      "values": [
+        "rakouského",
+        "německého",
+        "švýcarského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paul Blobel",
+      "values": [
+        "brazilského",
+        "slovenského",
+        "norského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karl Ernstberger",
+      "values": [
+        "tureckého",
+        "ruského",
+        "českého",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miroslav Šik",
+      "values": [
+        "nizozemského",
+        "švýcarského",
+        "slovenského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Giovanni Maria Filippi",
+      "values": [
+        "dánského",
+        "rakouského",
+        "slovinského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hector Guimard",
+      "values": [
+        "španělského",
+        "japonského",
+        "chorvatského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

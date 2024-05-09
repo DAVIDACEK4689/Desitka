@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Anne Franková",
+      "values": [
+        "vietnamského",
+        "italského",
+        "nizozemského",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jindřich Plachta",
+      "values": [
+        "českého",
+        "belgického",
+        "mexického",
+        "novozélandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Erich von Däniken",
+      "values": [
+        "rakouského",
+        "italského",
+        "švýcarského",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Friedrich Dürrenmatt",
+      "values": [
+        "švýcarského",
+        "belgického",
+        "ázerbájdžánského",
+        "indického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Johann Gottfried Herder",
+      "values": [
+        "německého",
+        "argentinského",
+        "jihoafrického",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zuzana Cigánová",
+      "values": [
+        "australského",
+        "ruského",
+        "dánského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Světlana Alexijevičová",
+      "values": [
+        "rumunského",
+        "litevského",
+        "francouzského",
+        "běloruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alejandro Jodorowsky",
+      "values": [
+        "kolumbijského",
+        "filipínského",
+        "belgického",
+        "chilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Samo Chalupka",
+      "values": [
+        "rumunského",
+        "amerického",
+        "srbského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimir Sergejevič Solovjov",
+      "values": [
+        "libanonského",
+        "řeckého",
+        "ruského",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle lázně",
+  "questions": [
+    {
+      "key": "Zakopané",
+      "values": [
+        "Itálie",
+        "Polsko",
+        "Španělsko",
+        "Řecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cáchy",
+      "values": [
+        "Slovensko",
+        "Polsko",
+        "Ukrajina",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Győr",
+      "values": [
+        "Španělsko",
+        "Řecko",
+        "Polsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kolobřeh",
+      "values": [
+        "Španělsko",
+        "Německo",
+        "Polsko",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karpacz",
+      "values": [
+        "Ukrajina",
+        "Německo",
+        "Polsko",
+        "Španělsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Soči",
+      "values": [
+        "Rusko",
+        "Ukrajina",
+        "Španělsko",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bad Ischl",
+      "values": [
+        "Slovensko",
+        "Španělsko",
+        "Řecko",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mosonmagyaróvár",
+      "values": [
+        "Maďarsko",
+        "Itálie",
+        "Spojené království",
+        "Ukrajina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Międzyzdroje",
+      "values": [
+        "Spojené království",
+        "Polsko",
+        "Maďarsko",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bad Schandau",
+      "values": [
+        "Německo",
+        "Rusko",
+        "Řecko",
+        "Rakousko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

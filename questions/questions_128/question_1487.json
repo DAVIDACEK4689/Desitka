@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Lisa Marie Presleyová",
+      "values": [
+        "americkou",
+        "britskou",
+        "novozélandskou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Brittany Murphyová",
+      "values": [
+        "americkou",
+        "ruskou",
+        "australskou",
+        "uruguayskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Björk",
+      "values": [
+        "brazilskou",
+        "islandskou",
+        "moldavskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zuzana Burianová",
+      "values": [
+        "českou",
+        "barbadoskou",
+        "finskou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Thalía",
+      "values": [
+        "mexickou",
+        "moldavskou",
+        "polskou",
+        "srbskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Beth Hart",
+      "values": [
+        "kanadskou",
+        "nizozemskou",
+        "peruánskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lene Nystrømová",
+      "values": [
+        "italskou",
+        "chorvatskou",
+        "španělskou",
+        "norskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cristina Scuccia",
+      "values": [
+        "jihokorejskou",
+        "italskou",
+        "srbskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jana Chládková",
+      "values": [
+        "španělskou",
+        "norskou",
+        "britskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Barbora Skočdopolová",
+      "values": [
+        "kubánskou",
+        "českou",
+        "německou",
+        "kanadskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Sylvester Stallone",
+      "values": [
+        "japonského",
+        "italského",
+        "amerického",
+        "novozélandského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Václav Lohniský",
+      "values": [
+        "švédského",
+        "britského",
+        "českého",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Václav Vorlíček",
+      "values": [
+        "švýcarského",
+        "slovenského",
+        "kanadského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Orson Welles",
+      "values": [
+        "amerického",
+        "francouzského",
+        "estonského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jeanne Moreau",
+      "values": [
+        "francouzského",
+        "hongkongského",
+        "norského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jon Hamm",
+      "values": [
+        "britského",
+        "amerického",
+        "islandského",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jakub Sommer",
+      "values": [
+        "japonského",
+        "českého",
+        "italského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paľo Bielik",
+      "values": [
+        "slovenského",
+        "mexického",
+        "amerického",
+        "estonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Béla Tarr",
+      "values": [
+        "chorvatského",
+        "francouzského",
+        "irského",
+        "maďarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Olexandr Dovženko",
+      "values": [
+        "rakouského",
+        "sovětského",
+        "norského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

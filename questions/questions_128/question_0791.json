@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Ramen",
+      "values": [
+        "řeckou",
+        "irskou",
+        "japonskou",
+        "tibetskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lečo",
+      "values": [
+        "italskou",
+        "maďarskou",
+        "americkou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Utopenec",
+      "values": [
+        "českou",
+        "arabskou",
+        "arménskou",
+        "brazilskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Croissant",
+      "values": [
+        "českou",
+        "francouzskou",
+        "korejskou",
+        "belgickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vídeňská melange",
+      "values": [
+        "americkou",
+        "kanadskou",
+        "slovenskou",
+        "rakouskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Srbská kuchyně",
+      "values": [
+        "balkánskou",
+        "ruskou",
+        "polskou",
+        "indickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bánh mì",
+      "values": [
+        "polskou",
+        "perskou",
+        "vietnamskou",
+        "čínskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jambalaya",
+      "values": [
+        "slovenskou",
+        "vietnamskou",
+        "australskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kyjevský kotlet",
+      "values": [
+        "belgickou",
+        "litevskou",
+        "ukrajinskou",
+        "španělskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cepelíny",
+      "values": [
+        "norskou",
+        "litevskou",
+        "ruskou",
+        "středomořskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

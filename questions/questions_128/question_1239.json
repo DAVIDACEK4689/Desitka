@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte město podle české kultury",
+  "questions": [
+    {
+      "key": "Becherovka",
+      "values": [
+        "Jablonné v Podještědí",
+        "Karlovy Vary",
+        "Teplice",
+        "Polná"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Slezské zemské muzeum",
+      "values": [
+        "Doksy",
+        "Štramberk",
+        "Hradec Králové",
+        "Opava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Muzeum v přírodě Vysočina",
+      "values": [
+        "Chrudim",
+        "Unhošť",
+        "Hlinsko",
+        "Brno"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ottendorferův dům",
+      "values": [
+        "Boskovice",
+        "Uherské Hradiště",
+        "Svitavy",
+        "Most"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Drahúš",
+      "values": [
+        "Telč",
+        "Postoloprty",
+        "Český Krumlov",
+        "Litvínov"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Naučná stezka kolem Zelené hory",
+      "values": [
+        "Žďár nad Sázavou",
+        "Telč",
+        "Doksy",
+        "Mariánská Lázeň"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Městské muzeum Loreta",
+      "values": [
+        "Český Brod",
+        "Hronov",
+        "Chlumec nad Cidlinou",
+        "Krásná Lípa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Park Antonína Švehly",
+      "values": [
+        "Český Krumlov",
+        "Červený Kostelec",
+        "Říčany",
+        "Příbram"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Neuwingerova smrt",
+      "values": [
+        "Hejnice",
+        "Sobotka",
+        "Jablonné v Podještědí",
+        "Louny"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Naučná stezka Žizníkovský rybník",
+      "values": [
+        "Česká Lípa",
+        "Havlíčkův Brod",
+        "Litoměřice",
+        "Kamenický Šenov"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

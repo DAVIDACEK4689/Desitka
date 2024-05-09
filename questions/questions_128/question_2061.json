@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] televizní seriál?",
+  "questions": [
+    {
+      "key": "Pán času",
+      "values": [
+        "britský",
+        "americký",
+        "australský",
+        "francouzský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bridgertonovi",
+      "values": [
+        "australský",
+        "francouzský",
+        "jugoslávský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fauda",
+      "values": [
+        "britský",
+        "islandský",
+        "izraelský",
+        "norský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pan Tau",
+      "values": [
+        "rakouský",
+        "německý",
+        "československý",
+        "australský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mladá modrá krev",
+      "values": [
+        "italský",
+        "jugoslávský",
+        "izraelský",
+        "švédský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Špionky",
+      "values": [
+        "rakouský",
+        "italský",
+        "francouzský",
+        "německý"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Skam",
+      "values": [
+        "švédský",
+        "americký",
+        "norský",
+        "australský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Calimero",
+      "values": [
+        "britský",
+        "švédský",
+        "italský",
+        "francouzský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "LazyTown",
+      "values": [
+        "francouzský",
+        "islandský",
+        "norský",
+        "novozélandský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Skins",
+      "values": [
+        "britský",
+        "německý",
+        "americký",
+        "švédský"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

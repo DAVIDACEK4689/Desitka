@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Marek Eben",
+      "values": [
+        "uruguayského",
+        "nizozemského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Kotvald",
+      "values": [
+        "nizozemského",
+        "polského",
+        "českého",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michal Mareda",
+      "values": [
+        "švédského",
+        "českého",
+        "maďarského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivo Jahelka",
+      "values": [
+        "jihoafrického",
+        "českého",
+        "novozélandského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Fanta",
+      "values": [
+        "alžírského",
+        "českého",
+        "rumunského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zbyněk Drda",
+      "values": [
+        "brazilského",
+        "dánského",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Norbi Kovács",
+      "values": [
+        "slovenského",
+        "norského",
+        "argentinského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tito Jackson",
+      "values": [
+        "portorického",
+        "finského",
+        "amerického",
+        "kolumbijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Éric Charden",
+      "values": [
+        "norského",
+        "českého",
+        "kanadského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Antonín Smrčka",
+      "values": [
+        "srbského",
+        "českého",
+        "kolumbijského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

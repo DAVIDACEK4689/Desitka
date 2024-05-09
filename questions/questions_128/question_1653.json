@@ -1,0 +1,105 @@
+{
+  "text": "Určete kontinent podle měny",
+  "questions": [
+    {
+      "key": "Libra šterlinků",
+      "values": [
+        "Evropa",
+        "Asie",
+        "Afrika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bulharský lev",
+      "values": [
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Evropa",
+        "Afrika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kanadský dolar",
+      "values": [
+        "Asie",
+        "Evropa",
+        "Jižní Amerika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Peso",
+      "values": [
+        "Asie",
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Portugalské escudo",
+      "values": [
+        "Evropa",
+        "Jižní Amerika",
+        "Asie",
+        "Severní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Saúdský rijál",
+      "values": [
+        "Asie",
+        "Afrika",
+        "Jižní Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Moldavský lei",
+      "values": [
+        "Evropa",
+        "Jižní Amerika",
+        "Afrika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Afghánský afghání",
+      "values": [
+        "Jižní Amerika",
+        "Asie",
+        "Evropa",
+        "Afrika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gibraltarská libra",
+      "values": [
+        "Evropa",
+        "Jižní Amerika",
+        "Asie",
+        "Afrika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Belizský dolar",
+      "values": [
+        "Asie",
+        "Afrika",
+        "Severní Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

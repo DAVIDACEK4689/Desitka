@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Vlasta Burian",
+      "values": [
+        "českého",
+        "švédského",
+        "ruského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Walt Disney",
+      "values": [
+        "francouzského",
+        "švýcarského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Slávek Boura",
+      "values": [
+        "rakouského",
+        "indického",
+        "jihoafrického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marek Dospiva",
+      "values": [
+        "rakouského",
+        "českého",
+        "španělského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Richard Branson",
+      "values": [
+        "italského",
+        "ukrajinského",
+        "britského",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Guccio Gucci",
+      "values": [
+        "kanadského",
+        "amerického",
+        "italského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bohumír Ďuričko",
+      "values": [
+        "ruského",
+        "českého",
+        "ukrajinského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Bartončík",
+      "values": [
+        "španělského",
+        "řeckého",
+        "českého",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Helena Rubinsteinová",
+      "values": [
+        "nizozemského",
+        "italského",
+        "španělského",
+        "polského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Dienstl",
+      "values": [
+        "švýcarského",
+        "řeckého",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

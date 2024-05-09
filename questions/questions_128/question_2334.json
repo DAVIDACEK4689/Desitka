@@ -1,0 +1,105 @@
+{
+  "text": "Určete etnický původ podle Čecha",
+  "questions": [
+    {
+      "key": "Tomáš Garrigue Masaryk",
+      "values": [
+        "chorvatský původ",
+        "maďarský původ",
+        "polský původ",
+        "slovenský původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Václav Noid Bárta",
+      "values": [
+        "arménský původ",
+        "běloruský původ",
+        "slovenský původ",
+        "maďarský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Skopeček",
+      "values": [
+        "židovský původ",
+        "chorvatský původ",
+        "italský původ",
+        "řecký původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavel Horváth",
+      "values": [
+        "maďarský původ",
+        "britský původ",
+        "evropský původ",
+        "japonský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Baxtrix",
+      "values": [
+        "řecký původ",
+        "ukrajinský původ",
+        "kanadský původ",
+        "arménský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lilian Malkina",
+      "values": [
+        "polský původ",
+        "estonský původ",
+        "židovský původ",
+        "syrský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andrej Poleščuk",
+      "values": [
+        "francouzský původ",
+        "italský původ",
+        "chorvatský původ",
+        "běloruský původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lichnovští z Voštic",
+      "values": [
+        "asijský původ",
+        "srbský původ",
+        "polský původ",
+        "vietnamský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Teresa Branna",
+      "values": [
+        "asijský původ",
+        "evropský původ",
+        "polský původ",
+        "makedonský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marek Střeštík",
+      "values": [
+        "maďarský původ",
+        "chorvatský původ",
+        "srbský původ",
+        "ruský původ"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

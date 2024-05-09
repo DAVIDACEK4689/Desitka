@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] televizní stanici?",
+  "questions": [
+    {
+      "key": "Deutsche Welle",
+      "values": [
+        "americkou",
+        "českou",
+        "kanadskou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rai",
+      "values": [
+        "japonskou",
+        "italskou",
+        "německou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Disney Channel",
+      "values": [
+        "italskou",
+        "americkou",
+        "britskou",
+        "německou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fox Broadcasting Company",
+      "values": [
+        "norskou",
+        "japonskou",
+        "italskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Óčko Black",
+      "values": [
+        "jihokorejskou",
+        "českou",
+        "francouzskou",
+        "kanadskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Showtime",
+      "values": [
+        "americkou",
+        "slovenskou",
+        "ruskou",
+        "kanadskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eurosport 2",
+      "values": [
+        "českou",
+        "jihokorejskou",
+        "kanadskou",
+        "japonskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "VH1",
+      "values": [
+        "norskou",
+        "americkou",
+        "českou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "MSNBC",
+      "values": [
+        "chorvatskou",
+        "americkou",
+        "italskou",
+        "českou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Óčko Expres",
+      "values": [
+        "českou",
+        "německou",
+        "italskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

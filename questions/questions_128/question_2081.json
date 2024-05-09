@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Sanna Marinová",
+      "values": [
+        "finského",
+        "gruzínského",
+        "britského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Georgi Dimitrov",
+      "values": [
+        "kambodžského",
+        "gruzínského",
+        "bulharského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexandr Zacharčenko",
+      "values": [
+        "ukrajinského",
+        "amerického",
+        "zimbabwského",
+        "filipínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Walburga Habsburg Douglas",
+      "values": [
+        "švédského",
+        "eritrejského",
+        "ázerbájdžánského",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alu Alchanov",
+      "values": [
+        "iráckého",
+        "singapurského",
+        "bolivijského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rudolf Diels",
+      "values": [
+        "německého",
+        "gruzínského",
+        "polského",
+        "ázerbájdžánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sergej Kruglov",
+      "values": [
+        "kyrgyzského",
+        "albánského",
+        "sovětského",
+        "salvadorského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Drnek",
+      "values": [
+        "gruzínského",
+        "filipínského",
+        "českého",
+        "kyperského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vjačeslav Volodin",
+      "values": [
+        "ruského",
+        "bolivijského",
+        "iráckého",
+        "maltského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Anna Grodzká",
+      "values": [
+        "polského",
+        "srbského",
+        "pruského",
+        "německého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

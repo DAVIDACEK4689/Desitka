@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte sport podle německého sportovce",
+  "questions": [
+    {
+      "key": "Jürgen Klopp",
+      "values": [
+        "basketbalista",
+        "strongmani",
+        "fotbalista",
+        "tenista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marco Reus",
+      "values": [
+        "tenista",
+        "akrobatický letec",
+        "fotbalista",
+        "basketbalista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Ullrich",
+      "values": [
+        "cyklista",
+        "horolezec",
+        "golfista",
+        "šermíř"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jürgen Klinsmann",
+      "values": [
+        "tenista",
+        "bobista",
+        "fotbalista",
+        "jezdec"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dennis Schröder",
+      "values": [
+        "boxer",
+        "gymnasta",
+        "stolní tenista",
+        "basketbalista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sami Khedira",
+      "values": [
+        "horolezec",
+        "strongmani",
+        "fotbalista",
+        "tenista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robert Enke",
+      "values": [
+        "gymnasta",
+        "fotbalista",
+        "boxer",
+        "biatlonista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jochen Mass",
+      "values": [
+        "strongmani",
+        "tenista",
+        "cyklista",
+        "pilot"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marcel Kittel",
+      "values": [
+        "cyklista",
+        "jezdec",
+        "basketbalista",
+        "šermíř"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ralf Rangnick",
+      "values": [
+        "fotbalista",
+        "skeletonisté",
+        "šachista",
+        "basketbalista"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

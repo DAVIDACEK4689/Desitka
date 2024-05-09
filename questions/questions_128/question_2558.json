@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte sport podle německého sportovce",
+  "questions": [
+    {
+      "key": "Mick Schumacher",
+      "values": [
+        "basketbalista",
+        "jezdec",
+        "biatlonista",
+        "pilot"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Toni Kroos",
+      "values": [
+        "fotbalista",
+        "skeletonisté",
+        "tenista",
+        "šermíř"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gerd Müller",
+      "values": [
+        "fotbalista",
+        "akrobatický letec",
+        "basketbalista",
+        "boxer"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Peter Draisaitl",
+      "values": [
+        "tenista",
+        "lední hokejista",
+        "bobista",
+        "jezdec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Emanuel Lasker",
+      "values": [
+        "šachista",
+        "lední hokejista",
+        "biatlonista",
+        "pilot"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alex Čejka",
+      "values": [
+        "šachista",
+        "golfista",
+        "gymnasta",
+        "stolní tenista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Justus Strelow",
+      "values": [
+        "jezdec",
+        "biatlonista",
+        "strongmani",
+        "stolní tenista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tommy Haas",
+      "values": [
+        "šermíř",
+        "tenista",
+        "akrobatický letec",
+        "biatlonista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andreas Brehme",
+      "values": [
+        "fotbalista",
+        "lední hokejista",
+        "boxer",
+        "golfista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hakan Çalhanoğlu",
+      "values": [
+        "cyklista",
+        "fotbalista",
+        "akrobatický letec",
+        "lední hokejista"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

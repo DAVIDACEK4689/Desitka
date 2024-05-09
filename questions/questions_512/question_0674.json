@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Milan Baroš",
+      "values": [
+        "australského",
+        "rumunského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Adam Hložek",
+      "values": [
+        "chorvatského",
+        "argentinského",
+        "polského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Luís Figo",
+      "values": [
+        "kamerunského",
+        "dánského",
+        "portugalského",
+        "československého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Matěj Kovář",
+      "values": [
+        "velšského",
+        "slovenského",
+        "českého",
+        "uruguayského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomáš Chorý",
+      "values": [
+        "švýcarského",
+        "nizozemského",
+        "českého",
+        "anglického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "George Best",
+      "values": [
+        "senegalského",
+        "skotského",
+        "severoirského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Valentin Afonin",
+      "values": [
+        "skotského",
+        "srbského",
+        "sovětského",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Diego Simeone",
+      "values": [
+        "srbského",
+        "argentinského",
+        "australského",
+        "kostarického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mauricio Pochettino",
+      "values": [
+        "argentinského",
+        "nizozemského",
+        "kolumbijského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jaroslav Plašil",
+      "values": [
+        "brazilského",
+        "polského",
+        "českého",
+        "australského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

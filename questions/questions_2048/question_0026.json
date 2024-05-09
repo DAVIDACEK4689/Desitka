@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle českého sportovce",
+  "questions": [
+    {
+      "key": "Jaromír Soukup",
+      "values": [
+        "rybář",
+        "lední hokejista",
+        "boxer",
+        "jezdec"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ben Cristovao",
+      "values": [
+        "golfista",
+        "kanoista",
+        "bojový umělec",
+        "judista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Daniel Landa",
+      "values": [
+        "golfista",
+        "lední hokejista",
+        "jezdec",
+        "automobilový závodník"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Plekanec",
+      "values": [
+        "kanoista",
+        "bojový umělec",
+        "jezdec",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Lehečka",
+      "values": [
+        "bojový umělec",
+        "boxer",
+        "tenista",
+        "rybář"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Milan Baroš",
+      "values": [
+        "fotbalista",
+        "judista",
+        "bojový umělec",
+        "boxer"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Bican",
+      "values": [
+        "golfista",
+        "bojový umělec",
+        "fotbalista",
+        "automobilový závodník"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lukáš Pollert",
+      "values": [
+        "automobilový závodník",
+        "kanoista",
+        "tenista",
+        "boxer"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivan Lendl",
+      "values": [
+        "bojový umělec",
+        "tenista",
+        "lední hokejista",
+        "jezdec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Jákl",
+      "values": [
+        "jezdec",
+        "fotbalista",
+        "judista",
+        "lední hokejista"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

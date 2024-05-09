@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] ledního hokejistu?",
+  "questions": [
+    {
+      "key": "Robert Reichel",
+      "values": [
+        "československého",
+        "slovinského",
+        "ruského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rostislav Klesla",
+      "values": [
+        "slovinského",
+        "českého",
+        "švýcarského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tomáš Martinec",
+      "values": [
+        "polského",
+        "německého",
+        "slovenského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Richard Král",
+      "values": [
+        "lotyšského",
+        "ruského",
+        "československého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Nosek",
+      "values": [
+        "sovětského",
+        "českého",
+        "amerického",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Phil Esposito",
+      "values": [
+        "lotyšského",
+        "slovenského",
+        "kanadského",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roberts Bukarts",
+      "values": [
+        "českého",
+        "lotyšského",
+        "švédského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Kořenář",
+      "values": [
+        "finského",
+        "československého",
+        "polského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimír Kameš",
+      "values": [
+        "finského",
+        "českého",
+        "slovenského",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Maurice Richard",
+      "values": [
+        "švýcarského",
+        "kanadského",
+        "slovinského",
+        "československého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

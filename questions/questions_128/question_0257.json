@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle archeologické lokality",
+  "questions": [
+    {
+      "key": "Babylón",
+      "values": [
+        "Federativní státy Mikronésie",
+        "Maďarsko",
+        "Česko",
+        "Irák"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Obrazce na planině Nazca",
+      "values": [
+        "Tunisko",
+        "Kambodža",
+        "Španělsko",
+        "Pero"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hora křížů",
+      "values": [
+        "Litva",
+        "Jordánsko",
+        "Ukrajina",
+        "Chorvatsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paestum",
+      "values": [
+        "Itálie",
+        "Rusko",
+        "Indonésie",
+        "Litva"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chersonésos",
+      "values": [
+        "Rusko",
+        "Ukrajina",
+        "Írán",
+        "Federativní státy Mikronésie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eridu",
+      "values": [
+        "Albánie",
+        "Slovensko",
+        "Francie",
+        "Irák"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Iunu",
+      "values": [
+        "Egypt",
+        "Sýrie",
+        "Ukrajina",
+        "Afghánistán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Blatnohrad",
+      "values": [
+        "Maďarsko",
+        "Albánie",
+        "Turecko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Salona",
+      "values": [
+        "Pákistán",
+        "Česko",
+        "Chorvatsko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Denisova jeskyně",
+      "values": [
+        "Indonésie",
+        "Rusko",
+        "Irák",
+        "Albánie"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [jazyk] literaturu?",
+  "questions": [
+    {
+      "key": "Korán",
+      "values": [
+        "hebrejskou",
+        "perskou",
+        "latinskou",
+        "arabskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tisíc a jedna noc",
+      "values": [
+        "arabskou",
+        "hebrejskou",
+        "perskou",
+        "latinskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Starověká římská literatura",
+      "values": [
+        "latinskou",
+        "hebrejskou",
+        "arabskou",
+        "perskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sindibád",
+      "values": [
+        "latinskou",
+        "perskou",
+        "arabskou",
+        "hebrejskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Avesta",
+      "values": [
+        "arabskou",
+        "hebrejskou",
+        "latinskou",
+        "perskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sibylina proroctví",
+      "values": [
+        "arabskou",
+        "hebrejskou",
+        "latinskou",
+        "perskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Orthographia Bohemica",
+      "values": [
+        "arabskou",
+        "hebrejskou",
+        "latinskou",
+        "perskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eugen Brikcius",
+      "values": [
+        "hebrejskou",
+        "perskou",
+        "arabskou",
+        "latinskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Statuta Konrádova",
+      "values": [
+        "latinskou",
+        "arabskou",
+        "perskou",
+        "hebrejskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Klasická filologie",
+      "values": [
+        "hebrejskou",
+        "arabskou",
+        "perskou",
+        "latinskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

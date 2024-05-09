@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] cyklistu?",
+  "questions": [
+    {
+      "key": "Jonas Vingegaard",
+      "values": [
+        "dánského",
+        "belgického",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mathieu van der Poel",
+      "values": [
+        "německého",
+        "francouzského",
+        "nizozemského",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mark Cavendish",
+      "values": [
+        "nizozemského",
+        "britského",
+        "italského",
+        "československého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nino Schurter",
+      "values": [
+        "italského",
+        "slovinského",
+        "nizozemského",
+        "švýcarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bekim Aziri",
+      "values": [
+        "slovenského",
+        "dánského",
+        "britského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Raymond Poulidor",
+      "values": [
+        "francouzského",
+        "slovenského",
+        "nizozemského",
+        "kolumbijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sepp Kuss",
+      "values": [
+        "dánského",
+        "slovinského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nairo Quintana",
+      "values": [
+        "britského",
+        "kolumbijského",
+        "belgického",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Benčík",
+      "values": [
+        "slovinského",
+        "kolumbijského",
+        "československého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Adam Yates",
+      "values": [
+        "italského",
+        "britského",
+        "kolumbijského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

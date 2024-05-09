@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Varnsdorf",
+      "values": [
+        "Emže",
+        "Něva",
+        "Sebnice",
+        "Mandava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dobřichovice",
+      "values": [
+        "Ploučnice",
+        "Malše",
+        "Berounka",
+        "Mandava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Veltrusy",
+      "values": [
+        "Don",
+        "Vltava",
+        "Bečva",
+        "Sázava"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Azov",
+      "values": [
+        "Chrudimka",
+        "Váha",
+        "Rýn",
+        "Don"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Troyes",
+      "values": [
+        "Tibera",
+        "Dněpr",
+        "Seina",
+        "Úslava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Staré Křečany",
+      "values": [
+        "Mandava",
+        "Dyje",
+        "Temže",
+        "Polenz"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dobříň",
+      "values": [
+        "Labe",
+        "Volha",
+        "Tibera",
+        "Temže"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Seifhennersdorf",
+      "values": [
+        "Mandava",
+        "Loira",
+        "Eufrat",
+        "Ploučnice"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Svádov",
+      "values": [
+        "Rýn",
+        "Lužická Nisa",
+        "Labe",
+        "Inn"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nemojov",
+      "values": [
+        "Bečva",
+        "Inn",
+        "Hornád",
+        "Labe"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

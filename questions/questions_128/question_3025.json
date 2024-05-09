@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle zálivu",
+  "questions": [
+    {
+      "key": "Akabský záliv",
+      "values": [
+        "Turecko",
+        "Austrálie",
+        "Chorvatsko",
+        "Egypt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zlatý roh",
+      "values": [
+        "Itálie",
+        "Turecko",
+        "Chorvatsko",
+        "Austrálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Neapolský záliv",
+      "values": [
+        "Itálie",
+        "Egypt",
+        "Mexiko",
+        "Austrálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karinské moře",
+      "values": [
+        "Chorvatsko",
+        "Egypt",
+        "Turecko",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Žraločí zátoka",
+      "values": [
+        "Mexiko",
+        "Chorvatsko",
+        "Austrálie",
+        "Egypt"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kvarnerský záliv",
+      "values": [
+        "Austrálie",
+        "Itálie",
+        "Chorvatsko",
+        "Mexiko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Novigradské moře",
+      "values": [
+        "Mexiko",
+        "Turecko",
+        "Egypt",
+        "Chorvatsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kalifornský záliv",
+      "values": [
+        "Mexiko",
+        "Turecko",
+        "Austrálie",
+        "Egypt"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tarentský záliv",
+      "values": [
+        "Austrálie",
+        "Chorvatsko",
+        "Turecko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Limský záliv",
+      "values": [
+        "Austrálie",
+        "Egypt",
+        "Mexiko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

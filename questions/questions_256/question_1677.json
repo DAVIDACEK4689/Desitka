@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Jiří Schelinger",
+      "values": [
+        "britského",
+        "moldavského",
+        "českého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Milan Lasica",
+      "values": [
+        "irského",
+        "britského",
+        "slovenského",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Plíhal",
+      "values": [
+        "jamajského",
+        "portorického",
+        "českého",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Milan Cais",
+      "values": [
+        "dánského",
+        "českého",
+        "sovětského",
+        "jamajského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Theo James",
+      "values": [
+        "slovenského",
+        "jamajského",
+        "španělského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Billy Idol",
+      "values": [
+        "srbského",
+        "jihoafrického",
+        "slovenského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dan McCafferty",
+      "values": [
+        "slovenského",
+        "skotského",
+        "britského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vitas",
+      "values": [
+        "belgického",
+        "jihoafrického",
+        "ruského",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mick Hucknall",
+      "values": [
+        "britského",
+        "islandského",
+        "srbského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert Palmer",
+      "values": [
+        "rakouského",
+        "britského",
+        "německého",
+        "islandského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

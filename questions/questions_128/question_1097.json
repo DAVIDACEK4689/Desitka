@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [národnost] komunistu?",
+  "questions": [
+    {
+      "key": "Karl Marx",
+      "values": [
+        "amerického",
+        "britského",
+        "německého",
+        "brazilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ratko Mladić",
+      "values": [
+        "jugoslávského",
+        "čínského",
+        "rumunského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Elena Ceaușescuová",
+      "values": [
+        "rumunského",
+        "nizozemského",
+        "francouzského",
+        "moldavského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Angela Davisová",
+      "values": [
+        "čínského",
+        "amerického",
+        "sovětského",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Richard Sorge",
+      "values": [
+        "řeckého",
+        "německého",
+        "maďarského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ramón Mercader",
+      "values": [
+        "moldavského",
+        "britského",
+        "španělského",
+        "brazilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Traian Băsescu",
+      "values": [
+        "německého",
+        "španělského",
+        "moldavského",
+        "rumunského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Žores Ivanovič Alfjorov",
+      "values": [
+        "německého",
+        "ruského",
+        "vietnamského",
+        "kambodžského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vlastislav Toman",
+      "values": [
+        "italského",
+        "českého",
+        "jugoslávského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Manolis Glezos",
+      "values": [
+        "řeckého",
+        "bulharského",
+        "ázerbájdžánského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

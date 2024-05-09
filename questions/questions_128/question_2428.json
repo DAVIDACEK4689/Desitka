@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] videohru?",
+  "questions": [
+    {
+      "key": "Fortnite Battle Royale",
+      "values": [
+        "americkou",
+        "dánskou",
+        "ruskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Grand Theft Auto IV",
+      "values": [
+        "slovenskou",
+        "britskou",
+        "ukrajinskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "The Elder Scrolls",
+      "values": [
+        "finskou",
+        "jihokorejskou",
+        "rakouskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Diablo II",
+      "values": [
+        "ruskou",
+        "americkou",
+        "finskou",
+        "srbskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Undertale",
+      "values": [
+        "ruskou",
+        "německou",
+        "nizozemskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Horizon Forbidden West",
+      "values": [
+        "australskou",
+        "nizozemskou",
+        "dánskou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "OGame",
+      "values": [
+        "dánskou",
+        "běloruskou",
+        "německou",
+        "finskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Battlefield 1",
+      "values": [
+        "švédskou",
+        "americkou",
+        "německou",
+        "australskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Unreal",
+      "values": [
+        "japonskou",
+        "běloruskou",
+        "americkou",
+        "německou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hello Neighbor",
+      "values": [
+        "kanadskou",
+        "francouzskou",
+        "ruskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

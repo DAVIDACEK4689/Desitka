@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] hokejového trenéra?",
+  "questions": [
+    {
+      "key": "Bobby Orr",
+      "values": [
+        "československého",
+        "slovenského",
+        "kanadského",
+        "lotyšského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Kochta",
+      "values": [
+        "československého",
+        "finského",
+        "lotyšského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Richard Farda",
+      "values": [
+        "kanadského",
+        "finského",
+        "ruského",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eduard Farda",
+      "values": [
+        "finského",
+        "lotyšského",
+        "československého",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rudolf Potsch",
+      "values": [
+        "kanadského",
+        "československého",
+        "slovenského",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Štrbák",
+      "values": [
+        "slovenského",
+        "německého",
+        "ruského",
+        "československého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Boris Žabka",
+      "values": [
+        "slovenského",
+        "kanadského",
+        "amerického",
+        "finského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Raimo Helminen",
+      "values": [
+        "kanadského",
+        "lotyšského",
+        "finského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sami Kapanen",
+      "values": [
+        "finského",
+        "československého",
+        "lotyšského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jaroslav Walter",
+      "values": [
+        "lotyšského",
+        "německého",
+        "československého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

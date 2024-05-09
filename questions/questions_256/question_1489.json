@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle českého sportovce",
+  "questions": [
+    {
+      "key": "Ben Cristovao",
+      "values": [
+        "golfista",
+        "tenista",
+        "veslař",
+        "bojový umělec"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michal Neuvirth",
+      "values": [
+        "judista",
+        "lední hokejista",
+        "kajakář",
+        "akrobatický letec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Rakoncaj",
+      "values": [
+        "lední hokejista",
+        "šachista",
+        "horolezec",
+        "kajakář"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marek Langhamer",
+      "values": [
+        "rybář",
+        "plavec",
+        "fotbalista",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaromír Blažek",
+      "values": [
+        "boxer",
+        "veslař",
+        "fotbalista",
+        "cyklista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Nováček",
+      "values": [
+        "bojový umělec",
+        "tenista",
+        "lyžař",
+        "rychlostní kanoista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jakub Jeřábek",
+      "values": [
+        "rychlostní kanoista",
+        "ragbista",
+        "lyžař",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zdeněk Okál",
+      "values": [
+        "tenista",
+        "judista",
+        "lední hokejista",
+        "akrobatický letec"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Vavroušek",
+      "values": [
+        "horolezec",
+        "lyžař",
+        "zápasník",
+        "lední hokejista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert Hamrla",
+      "values": [
+        "lední hokejista",
+        "cyklista",
+        "boxer",
+        "zápasník"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

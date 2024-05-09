@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Klub ligových kanonýrů",
+      "values": [
+        "kolumbijského",
+        "francouzského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Arsène Wenger",
+      "values": [
+        "brazilského",
+        "francouzského",
+        "polského",
+        "paraguayského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Peter Crouch",
+      "values": [
+        "zimbabwského",
+        "španělského",
+        "anglického",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Claudio Ranieri",
+      "values": [
+        "slovinského",
+        "baskického",
+        "slovenského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lilian Thuram",
+      "values": [
+        "baskického",
+        "uruguayského",
+        "francouzského",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roberto Martínez",
+      "values": [
+        "panamského",
+        "rumunského",
+        "španělského",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Glenn Hoddle",
+      "values": [
+        "slovinského",
+        "anglického",
+        "gruzínského",
+        "peruánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Federico Chiesa",
+      "values": [
+        "maďarského",
+        "kanadského",
+        "francouzského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gino van Kessel",
+      "values": [
+        "maďarského",
+        "nizozemského",
+        "českého",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gunnar Nordahl",
+      "values": [
+        "německého",
+        "černohorského",
+        "marockého",
+        "švédského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

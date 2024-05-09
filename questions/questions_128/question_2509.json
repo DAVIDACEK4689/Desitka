@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Chryzantéma",
+      "values": [
+        "Mongolsko",
+        "Japonsko",
+        "Austrálie",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mochyně",
+      "values": [
+        "Austrálie",
+        "Brazílie",
+        "Madagaskar",
+        "Mexiko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Juka",
+      "values": [
+        "Brazílie",
+        "Austrálie",
+        "Mongolsko",
+        "Mexiko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Javor jasanolistý",
+      "values": [
+        "Brazílie",
+        "Mongolsko",
+        "Mexiko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dochan psárkovitý",
+      "values": [
+        "Brazílie",
+        "Madagaskar",
+        "Austrálie",
+        "Nový Zéland"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ďáblík bahenní",
+      "values": [
+        "Madagaskar",
+        "Nový Zéland",
+        "Česko",
+        "Mongolsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Latnatec",
+      "values": [
+        "Brazílie",
+        "Mexiko",
+        "Česko",
+        "Madagaskar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dřípatka horská",
+      "values": [
+        "Austrálie",
+        "Česko",
+        "Mexiko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Čípek objímavý",
+      "values": [
+        "Mexiko",
+        "Brazílie",
+        "Česko",
+        "Japonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jetel rolní",
+      "values": [
+        "Mexiko",
+        "Japonsko",
+        "Česko",
+        "Austrálie"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

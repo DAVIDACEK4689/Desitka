@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] klavíristu?",
+  "questions": [
+    {
+      "key": "Axl Rose",
+      "values": [
+        "německého",
+        "maďarského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Matyáš Novák",
+      "values": [
+        "francouzského",
+        "izraelského",
+        "českého",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivan Klánský",
+      "values": [
+        "norského",
+        "německého",
+        "finského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "John Legend",
+      "values": [
+        "amerického",
+        "ukrajinského",
+        "polského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Leopold Koželuh",
+      "values": [
+        "rakouského",
+        "čínského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Joe Walsh",
+      "values": [
+        "maďarského",
+        "slovenského",
+        "finského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Amanda Palmerová",
+      "values": [
+        "finského",
+        "australského",
+        "maďarského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Max Reger",
+      "values": [
+        "německého",
+        "gruzínského",
+        "japonského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladimir Ashkenazy",
+      "values": [
+        "ruského",
+        "českého",
+        "japonského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Valentina Lisitsa",
+      "values": [
+        "maďarského",
+        "kanadského",
+        "francouzského",
+        "ukrajinského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

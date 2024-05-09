@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vegetariána?",
+  "questions": [
+    {
+      "key": "Pamela Anderson",
+      "values": [
+        "německého",
+        "ruského",
+        "izraelského",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jana Paulová",
+      "values": [
+        "kanadského",
+        "australského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Penélope Cruzová",
+      "values": [
+        "irského",
+        "rakouského",
+        "německého",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Líza Simpsonová",
+      "values": [
+        "amerického",
+        "izraelského",
+        "slovenského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Billy Idol",
+      "values": [
+        "finského",
+        "irského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Helena Houdová",
+      "values": [
+        "českého",
+        "indického",
+        "ruského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ilona Staller",
+      "values": [
+        "italského",
+        "rakouského",
+        "slovenského",
+        "finského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Viliam Poltikovič",
+      "values": [
+        "italského",
+        "amerického",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miloslav Král",
+      "values": [
+        "českého",
+        "italského",
+        "amerického",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladimír Vogeltanz",
+      "values": [
+        "českého",
+        "indického",
+        "irského",
+        "britského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

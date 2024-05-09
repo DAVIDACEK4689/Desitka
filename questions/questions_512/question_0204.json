@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Lékořice lysá",
+      "values": [
+        "Mongolsko",
+        "Nový Zéland",
+        "Česko",
+        "Brazílie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Břečťan popínavý",
+      "values": [
+        "Mexiko",
+        "Austrálie",
+        "Nový Zéland",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Šalvěj",
+      "values": [
+        "Nový Zéland",
+        "Austrálie",
+        "Mexiko",
+        "Madagaskar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mochyně",
+      "values": [
+        "Mongolsko",
+        "Brazílie",
+        "Mexiko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Violka",
+      "values": [
+        "Madagaskar",
+        "Nový Zéland",
+        "Mexiko",
+        "Brazílie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hrušeň obecná",
+      "values": [
+        "Mexiko",
+        "Nový Zéland",
+        "Česko",
+        "Brazílie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Třezalka",
+      "values": [
+        "Česko",
+        "Mexiko",
+        "Madagaskar",
+        "Nový Zéland"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aloisie citronová",
+      "values": [
+        "Mexiko",
+        "Madagaskar",
+        "Austrálie",
+        "Brazílie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bodlák obecný",
+      "values": [
+        "Brazílie",
+        "Madagaskar",
+        "Mongolsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kandík psí zub",
+      "values": [
+        "Austrálie",
+        "Nový Zéland",
+        "Brazílie",
+        "Česko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

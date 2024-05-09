@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle ekonomiky",
+  "questions": [
+    {
+      "key": "SK Slavia Praha",
+      "values": [
+        "Polsko",
+        "Řecko",
+        "Česko",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sapa",
+      "values": [
+        "Itálie",
+        "Česko",
+        "Řecko",
+        "Jižní Korea"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zlotý",
+      "values": [
+        "Rusko",
+        "Řecko",
+        "Jižní Korea",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Asijští tygři",
+      "values": [
+        "Itálie",
+        "Řecko",
+        "Nizozemsko",
+        "Jižní Korea"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kaizen",
+      "values": [
+        "Nizozemsko",
+        "Jižní Korea",
+        "Japonsko",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Východoevropský oligarcha",
+      "values": [
+        "Jižní Korea",
+        "Řecko",
+        "Nizozemsko",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ropovod Družba",
+      "values": [
+        "Německo",
+        "Česko",
+        "Polsko",
+        "Japonsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Evropská energetická burza",
+      "values": [
+        "Německo",
+        "Česko",
+        "Nizozemsko",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Italská lira",
+      "values": [
+        "Německo",
+        "Nizozemsko",
+        "Japonsko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Burza cenných papírů Praha",
+      "values": [
+        "Německo",
+        "Česko",
+        "Itálie",
+        "Řecko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

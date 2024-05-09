@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotografa?",
+  "questions": [
+    {
+      "key": "Radek Jaroš",
+      "values": [
+        "rumunského",
+        "slovenského",
+        "anglického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Koudelka",
+      "values": [
+        "jihoafrického",
+        "ruského",
+        "kubánského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel Drbohlav",
+      "values": [
+        "českého",
+        "slovenského",
+        "ruského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kevin Carter",
+      "values": [
+        "maďarského",
+        "anglického",
+        "jihoafrického",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Berounský",
+      "values": [
+        "slovenského",
+        "vietnamského",
+        "rumunského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Carel Struycken",
+      "values": [
+        "nizozemského",
+        "francouzského",
+        "slovenského",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Roger Fenton",
+      "values": [
+        "italského",
+        "anglického",
+        "lucemburského",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mark Borthwick",
+      "values": [
+        "jihoafrického",
+        "lucemburského",
+        "rakouského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jevgenij Chalděj",
+      "values": [
+        "sovětského",
+        "rakouského",
+        "polského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Wols",
+      "values": [
+        "brazilského",
+        "amerického",
+        "kubánského",
+        "německého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

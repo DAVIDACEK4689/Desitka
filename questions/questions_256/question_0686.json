@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte britského režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Americká krása",
+      "values": [
+        "Stephen Daldry",
+        "Adrian Lyne",
+        "John Guillermin",
+        "Sam Mendes"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Batman začíná",
+      "values": [
+        "John Guillermin",
+        "Christopher Nolan",
+        "Ridley Scott",
+        "Michael Apted"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Klan Gucci",
+      "values": [
+        "Sam Mendes",
+        "Mike Newell",
+        "Ridley Scott",
+        "Peter Howitt"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Skleněné peklo",
+      "values": [
+        "Alfred Hitchcock",
+        "Simon Wells",
+        "John Guillermin",
+        "Peter Howitt"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jeden svět nestačí",
+      "values": [
+        "John Glen",
+        "Michael Apted",
+        "Simon Wells",
+        "Kirk Jones"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Anglický pacient",
+      "values": [
+        "Anthony Minghella",
+        "Alfred Hitchcock",
+        "Danny Boyle",
+        "Ridley Scott"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Návrat do Cold Mountain",
+      "values": [
+        "Anthony Minghella",
+        "Michael Apted",
+        "Sam Mendes",
+        "Roger Spottiswoode"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Diamanty jsou věčné",
+      "values": [
+        "Terry Gilliam",
+        "Peter Howitt",
+        "Adrian Lyne",
+        "Guy Hamilton"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Thunderball",
+      "values": [
+        "Anthony Minghella",
+        "Peter Howitt",
+        "Stephen Daldry",
+        "Terence Young"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Čtyři svatby a jeden pohřeb",
+      "values": [
+        "Guy Hamilton",
+        "Richard Attenborough",
+        "Adrian Lyne",
+        "Mike Newell"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

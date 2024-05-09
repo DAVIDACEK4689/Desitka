@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Plzeň",
+      "values": [
+        "Česko",
+        "Slovensko",
+        "Maďarsko",
+        "Irsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Neapol",
+      "values": [
+        "Belgie",
+        "Nizozemsko",
+        "Itálie",
+        "Portugalsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Liverpool",
+      "values": [
+        "Spojené království",
+        "Česko",
+        "Maďarsko",
+        "Portugalsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hannover",
+      "values": [
+        "Německo",
+        "Belgie",
+        "Česko",
+        "Maďarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Toruň",
+      "values": [
+        "Slovensko",
+        "Maďarsko",
+        "Spojené království",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lübeck",
+      "values": [
+        "Německo",
+        "Rakousko",
+        "Polsko",
+        "Portugalsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Perugia",
+      "values": [
+        "Belgie",
+        "Dánsko",
+        "Irsko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ancona",
+      "values": [
+        "Spojené království",
+        "Nizozemsko",
+        "Itálie",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Darmstadt",
+      "values": [
+        "Spojené království",
+        "Německo",
+        "Česko",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Frankfurt nad Odrou",
+      "values": [
+        "Maďarsko",
+        "Belgie",
+        "Německo",
+        "Nizozemsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

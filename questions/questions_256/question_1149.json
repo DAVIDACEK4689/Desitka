@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Luka Modrić",
+      "values": [
+        "chorvatského",
+        "marockého",
+        "belgického",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Manuel Neuer",
+      "values": [
+        "rakouského",
+        "německého",
+        "albánského",
+        "tureckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Milan Škoda",
+      "values": [
+        "českého",
+        "albánského",
+        "anglického",
+        "kolumbijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stanislav Vlček",
+      "values": [
+        "finského",
+        "argentinského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Kalas",
+      "values": [
+        "francouzského",
+        "rumunského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Luboš Kubík",
+      "values": [
+        "československého",
+        "chorvatského",
+        "švýcarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mychajlo Mudryk",
+      "values": [
+        "gambijského",
+        "ukrajinského",
+        "ruského",
+        "kolumbijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tomáš Jun",
+      "values": [
+        "gruzínského",
+        "uruguayského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rijád Mahriz",
+      "values": [
+        "portugalského",
+        "alžírského",
+        "slovenského",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Christopher Nkunku",
+      "values": [
+        "švédského",
+        "kostarického",
+        "francouzského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

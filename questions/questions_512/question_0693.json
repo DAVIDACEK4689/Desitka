@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "Kryštof Kolumbus",
+      "values": [
+        "amerického",
+        "německého",
+        "italského",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Galileo Galilei",
+      "values": [
+        "švýcarského",
+        "kanadského",
+        "italského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fernão de Magalhães",
+      "values": [
+        "německého",
+        "českého",
+        "francouzského",
+        "portugalského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vasco da Gama",
+      "values": [
+        "portugalského",
+        "kanadského",
+        "britského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Lux",
+      "values": [
+        "českého",
+        "kanadského",
+        "britského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jean Cocteau",
+      "values": [
+        "britského",
+        "amerického",
+        "francouzského",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Bělobrádek",
+      "values": [
+        "českého",
+        "německého",
+        "švýcarského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alyssa Milano",
+      "values": [
+        "portugalského",
+        "amerického",
+        "švýcarského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michele Placido",
+      "values": [
+        "italského",
+        "britského",
+        "francouzského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michal Semín",
+      "values": [
+        "amerického",
+        "kanadského",
+        "českého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

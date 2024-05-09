@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [typ] stavbu?",
+  "questions": [
+    {
+      "key": "Sedm divů světa",
+      "values": [
+        "zahradní",
+        "historickou",
+        "obytnou",
+        "průmyslovou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Věznice",
+      "values": [
+        "obytnou",
+        "zahradní",
+        "udržitelnou",
+        "podzemní"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ropná rafinerie",
+      "values": [
+        "vojenskou",
+        "podzemní",
+        "udržitelnou",
+        "průmyslovou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chodník",
+      "values": [
+        "obytnou",
+        "vojenskou",
+        "historickou",
+        "zahradní"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dráha",
+      "values": [
+        "průmyslovou",
+        "zemědělskou",
+        "dopravní",
+        "vojenskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Balustráda",
+      "values": [
+        "průmyslovou",
+        "udržitelnou",
+        "vojenskou",
+        "zahradní"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Opevnění",
+      "values": [
+        "vojenskou",
+        "obytnou",
+        "průmyslovou",
+        "historickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vápenka",
+      "values": [
+        "dopravní",
+        "podzemní",
+        "průmyslovou",
+        "historickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zřícenina",
+      "values": [
+        "vojenskou",
+        "dopravní",
+        "zemědělskou",
+        "zahradní"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chalupa",
+      "values": [
+        "obytnou",
+        "zahradní",
+        "zemědělskou",
+        "dopravní"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

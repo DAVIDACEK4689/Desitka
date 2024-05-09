@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistku?",
+  "questions": [
+    {
+      "key": "Karolína Plíšková",
+      "values": [
+        "českou",
+        "lotyšskou",
+        "chorvatskou",
+        "rakouskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Steffi Grafová",
+      "values": [
+        "řeckou",
+        "estonskou",
+        "tuniskou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Anna Kurnikovová",
+      "values": [
+        "polskou",
+        "španělskou",
+        "ruskou",
+        "kanadskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jeļena Ostapenková",
+      "values": [
+        "lotyšskou",
+        "belgickou",
+        "řeckou",
+        "kanadskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Naomi Ósakaová",
+      "values": [
+        "japonskou",
+        "československou",
+        "kanadskou",
+        "rumunskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sofia Keninová",
+      "values": [
+        "britskou",
+        "americkou",
+        "argentinskou",
+        "rumunskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Garbiñe Muguruzaová",
+      "values": [
+        "španělskou",
+        "australskou",
+        "německou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Camila Giorgiová",
+      "values": [
+        "italskou",
+        "francouzskou",
+        "lotyšskou",
+        "japonskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Peyton Stearnsová",
+      "values": [
+        "španělskou",
+        "brazilskou",
+        "švýcarskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gabriela Dabrowská",
+      "values": [
+        "kanadskou",
+        "československou",
+        "španělskou",
+        "dánskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

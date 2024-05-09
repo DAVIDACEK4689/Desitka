@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] kulturu?",
+  "questions": [
+    {
+      "key": "Haka",
+      "values": [
+        "rakouskou",
+        "egyptskou",
+        "ázerbájdžánskou",
+        "novozélandskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Generace Národního divadla",
+      "values": [
+        "indonéskou",
+        "švýcarskou",
+        "českou",
+        "skotskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jurta",
+      "values": [
+        "mongolskou",
+        "finskou",
+        "německou",
+        "rakouskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Šiacu",
+      "values": [
+        "japonskou",
+        "mexickou",
+        "egyptskou",
+        "indickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karl Friedrich Hieronymus von Münchhausen",
+      "values": [
+        "německou",
+        "maďarskou",
+        "angolskou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lord of the Dance",
+      "values": [
+        "americkou",
+        "britskou",
+        "íránskou",
+        "irskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Augustus z Prima Porty",
+      "values": [
+        "vatikánskou",
+        "ukrajinskou",
+        "španělskou",
+        "brazilskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fika",
+      "values": [
+        "dominikánskou",
+        "švédskou",
+        "maďarskou",
+        "německou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tušové malířství",
+      "values": [
+        "jihokorejskou",
+        "japonskou",
+        "ruskou",
+        "izraelskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Na špačka",
+      "values": [
+        "řeckou",
+        "ruskou",
+        "českou",
+        "německou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Přelet nad kukaččím hnízdem",
+      "values": [
+        "Zdeněk Zelenka",
+        "Miloš Forman",
+        "Věra Chytilová",
+        "Oldřich Lipský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "O princezně Jasněnce a létajícím ševci",
+      "values": [
+        "Robert Sedláček",
+        "Antonín Moskalyk",
+        "Zdeněk Troška",
+        "Martin Horský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nesmrtelná teta",
+      "values": [
+        "Václav Vorlíček",
+        "Zdeněk Zelenka",
+        "Karel Kachyňa",
+        "Antonín Moskalyk"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jak vytrhnout velrybě stoličku",
+      "values": [
+        "Karel Smyczek",
+        "Dušan Klein",
+        "Marie Poledňáková",
+        "Oldřich Lipský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Princezna ze mlejna 2",
+      "values": [
+        "Jiří Menzel",
+        "Karel Kachyňa",
+        "Zdeněk Troška",
+        "Bohdan Sláma"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kouzla králů",
+      "values": [
+        "Zdeněk Zelenka",
+        "Jindřich Polák",
+        "Antonín Moskalyk",
+        "Jiří Menzel"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ecce homo Homolka",
+      "values": [
+        "Jaroslav Papoušek",
+        "Marie Poledňáková",
+        "Martin Frič",
+        "Zdeněk Zelenka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bota jménem Melichar",
+      "values": [
+        "Věra Chytilová",
+        "Jan Svěrák",
+        "Zdeněk Troška",
+        "Václav Vorlíček"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zakleté pírko",
+      "values": [
+        "Tomáš Vorel",
+        "Zdeněk Podskalský",
+        "Zdeněk Troška",
+        "Marie Poledňáková"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Román pro muže",
+      "values": [
+        "Martin Frič",
+        "Martin Horský",
+        "Jaromil Jireš",
+        "Tomáš Bařina"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "František Halas",
+      "values": [
+        "sovětského",
+        "slovenského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Klaret",
+      "values": [
+        "slovenského",
+        "íránského",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Herman Melville",
+      "values": [
+        "německého",
+        "amerického",
+        "norského",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Campanus Vodňanský",
+      "values": [
+        "srbského",
+        "íránského",
+        "českého",
+        "anglického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Janko Kráľ",
+      "values": [
+        "slovenského",
+        "perského",
+        "palestinského",
+        "indického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miloš Horanský",
+      "values": [
+        "švýcarského",
+        "belgického",
+        "českého",
+        "perského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ján Botto",
+      "values": [
+        "italského",
+        "gruzínského",
+        "slovenského",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Hynek",
+      "values": [
+        "skotského",
+        "belgického",
+        "českého",
+        "albánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gabriela Mistralová",
+      "values": [
+        "gruzínského",
+        "tureckého",
+        "amerického",
+        "chilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Frédéric Mistral",
+      "values": [
+        "finského",
+        "francouzského",
+        "perského",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

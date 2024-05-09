@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Syrakusy",
+      "values": [
+        "Švédsko",
+        "Itálie",
+        "Albánie",
+        "Německo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Taba",
+      "values": [
+        "Egypt",
+        "Alžírsko",
+        "Kolumbie",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Akko",
+      "values": [
+        "Nizozemsko",
+        "Kazachstán",
+        "Izrael",
+        "Ekvádor"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mykolajiv",
+      "values": [
+        "Lotyšsko",
+        "Jamajka",
+        "Kamerun",
+        "Ukrajina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vyborg",
+      "values": [
+        "Brazílie",
+        "Chorvatsko",
+        "Rusko",
+        "Kazachstán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tivat",
+      "values": [
+        "Černá Hora",
+        "Jordánsko",
+        "Alžírsko",
+        "Barbados"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pärnu",
+      "values": [
+        "Estonsko",
+        "Slovinsko",
+        "Německo",
+        "Ekvádor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Severodvinsk",
+      "values": [
+        "Rusko",
+        "Západní Sahara",
+        "Gambie",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Palanga",
+      "values": [
+        "Indonésie",
+        "Černá Hora",
+        "Japonsko",
+        "Litva"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Norrköping",
+      "values": [
+        "Nizozemsko",
+        "Lotyšsko",
+        "Švédsko",
+        "Jordánsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

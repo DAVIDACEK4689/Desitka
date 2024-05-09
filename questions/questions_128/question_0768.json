@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] evropského podnikatele?",
+  "questions": [
+    {
+      "key": "Boris Kollár",
+      "values": [
+        "italského",
+        "belgického",
+        "slovenského",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Maurizio Gucci",
+      "values": [
+        "italského",
+        "španělského",
+        "ruského",
+        "monackého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Denys Šmyhal",
+      "values": [
+        "ukrajinského",
+        "švýcarského",
+        "monackého",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Albert Göring",
+      "values": [
+        "německého",
+        "italského",
+        "švýcarského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Kejval",
+      "values": [
+        "slovinského",
+        "švýcarského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pavel Bratinka",
+      "values": [
+        "švédského",
+        "českého",
+        "francouzského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Arvydas Sabonis",
+      "values": [
+        "řeckého",
+        "litevského",
+        "ruského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Franta Anýž",
+      "values": [
+        "ruského",
+        "běloruského",
+        "českého",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ferdinand de Lesseps",
+      "values": [
+        "českého",
+        "monackého",
+        "francouzského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stefano Casiraghi",
+      "values": [
+        "monackého",
+        "slovenského",
+        "španělského",
+        "italského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

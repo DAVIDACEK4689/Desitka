@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle ozbrojené síly",
+  "questions": [
+    {
+      "key": "Rudá armáda",
+      "values": [
+        "Sovětský svaz",
+        "Izrael",
+        "Sýrie",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hradní stráž",
+      "values": [
+        "Itálie",
+        "Sýrie",
+        "Československo",
+        "Česká republika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Luftstreitkräfte",
+      "values": [
+        "Německo",
+        "Izrael",
+        "Rusko",
+        "Ukrajina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Aeronautica Militare",
+      "values": [
+        "Izrael",
+        "Francie",
+        "Sovětský svaz",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lajtnant",
+      "values": [
+        "Česká republika",
+        "Německo",
+        "Sovětský svaz",
+        "Československo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Finanční stráž",
+      "values": [
+        "Francie",
+        "Česká republika",
+        "Itálie",
+        "Československo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Front",
+      "values": [
+        "Izrael",
+        "Polsko",
+        "Ukrajina",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gendarmerie nationale",
+      "values": [
+        "Francie",
+        "Česká republika",
+        "Ukrajina",
+        "Sovětský svaz"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Feldgendarmerie",
+      "values": [
+        "Německo",
+        "Česká republika",
+        "Sovětský svaz",
+        "Izrael"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rychlá divize",
+      "values": [
+        "Německo",
+        "Itálie",
+        "Československo",
+        "Sýrie"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

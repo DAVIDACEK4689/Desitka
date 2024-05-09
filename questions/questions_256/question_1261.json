@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] hudbu?",
+  "questions": [
+    {
+      "key": "Šanson",
+      "values": [
+        "českou",
+        "francouzskou",
+        "portugalskou",
+        "moldavskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Reggae",
+      "values": [
+        "slovenskou",
+        "americkou",
+        "jamajskou",
+        "německou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Adeste fideles",
+      "values": [
+        "francouzskou",
+        "mexickou",
+        "finskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roráty",
+      "values": [
+        "bosenskou",
+        "španělskou",
+        "portugalskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bossa nova",
+      "values": [
+        "německou",
+        "francouzskou",
+        "českou",
+        "brazilskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Goran Bregović",
+      "values": [
+        "bosenskou",
+        "českou",
+        "slovenskou",
+        "izraelskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jódlování",
+      "values": [
+        "finskou",
+        "moldavskou",
+        "rakouskou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Suzafon",
+      "values": [
+        "českou",
+        "finskou",
+        "mexickou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Baby Shark",
+      "values": [
+        "finskou",
+        "jihokorejskou",
+        "ukrajinskou",
+        "mexickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mocná hrstka",
+      "values": [
+        "českou",
+        "sovětskou",
+        "ruskou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

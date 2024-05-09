@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva o Alamo",
+      "values": [
+        "Byzanc",
+        "Mexiko",
+        "Osmanská říše",
+        "Germán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Lützenu",
+      "values": [
+        "Osmanská říše",
+        "Švédsko",
+        "Nizozemsko",
+        "Mexiko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva na řece Kalce",
+      "values": [
+        "Japonsko",
+        "Frank",
+        "Španělsko",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva o Širojamu",
+      "values": [
+        "starověký Řím",
+        "Česko",
+        "Japonsko",
+        "Mexiko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Vltavy",
+      "values": [
+        "Československo",
+        "Česko",
+        "Nizozemsko",
+        "Rakousko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Obléhání Karlštejna husity",
+      "values": [
+        "starověký Řím",
+        "Československo",
+        "Itálie",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Křižácká tažení do Egypta",
+      "values": [
+        "Skotsko",
+        "Byzanc",
+        "starověký Řím",
+        "Švédsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Legnana",
+      "values": [
+        "Rakousko",
+        "Československo",
+        "starověký Řek",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Operace Crusader",
+      "values": [
+        "Nový Zéland",
+        "Mexiko",
+        "Norsko",
+        "Germán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Krvavý týden",
+      "values": [
+        "habsburská monarchie",
+        "Rusko",
+        "Francie",
+        "Maďarsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

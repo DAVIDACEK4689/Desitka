@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Vavřinec Hradilek",
+      "values": [
+        "českého",
+        "ukrajinského",
+        "bulharského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marek Brodský",
+      "values": [
+        "francouzského",
+        "portugalského",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eric Bana",
+      "values": [
+        "německého",
+        "islandského",
+        "irského",
+        "australského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marc Anthony",
+      "values": [
+        "indonéského",
+        "amerického",
+        "švýcarského",
+        "bosenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dušan Kollár",
+      "values": [
+        "českého",
+        "izraelského",
+        "mexického",
+        "australského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladimír Hrabánek",
+      "values": [
+        "srbského",
+        "českého",
+        "venezuelského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "David Nykl",
+      "values": [
+        "kanadského",
+        "dánského",
+        "novozélandského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sean Murray",
+      "values": [
+        "australského",
+        "gruzínského",
+        "bulharského",
+        "indonéského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Benoît Poelvoorde",
+      "values": [
+        "guatemalského",
+        "slovenského",
+        "belgického",
+        "indického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Joseph Quinn",
+      "values": [
+        "norského",
+        "bosenského",
+        "japonského",
+        "britského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

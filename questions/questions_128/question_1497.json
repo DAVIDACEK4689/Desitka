@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] evropského podnikatele?",
+  "questions": [
+    {
+      "key": "Otto Frank",
+      "values": [
+        "britského",
+        "německého",
+        "italského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Václav Fischer",
+      "values": [
+        "německého",
+        "ukrajinského",
+        "monackého",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Adolf Dassler",
+      "values": [
+        "rakouského",
+        "německého",
+        "dánského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rustem Umerov",
+      "values": [
+        "řeckého",
+        "českého",
+        "ukrajinského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aleš Graf",
+      "values": [
+        "belgického",
+        "českého",
+        "slovinského",
+        "běloruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Robert Čásenský",
+      "values": [
+        "slovenského",
+        "českého",
+        "ukrajinského",
+        "monackého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Boleslav Čáp",
+      "values": [
+        "běloruského",
+        "švýcarského",
+        "řeckého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Giovanni Agnelli",
+      "values": [
+        "běloruského",
+        "italského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Matěj Bárta",
+      "values": [
+        "švýcarského",
+        "belgického",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marek Rosa",
+      "values": [
+        "litevského",
+        "slovenského",
+        "ruského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

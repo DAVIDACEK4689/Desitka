@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle pohoří",
+  "questions": [
+    {
+      "key": "Dolomity",
+      "values": [
+        "Rumunsko",
+        "Alžírsko",
+        "Francie",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dachstein",
+      "values": [
+        "Španělsko",
+        "Bulharsko",
+        "Česko",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Doupovské hory",
+      "values": [
+        "Řecko",
+        "Indie",
+        "Německo",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Teutoburský les",
+      "values": [
+        "Austrálie",
+        "Itálie",
+        "Černá Hora",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hercynská pohoří",
+      "values": [
+        "Slovensko",
+        "Bulharsko",
+        "Česko",
+        "Izrael"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jesenická oblast",
+      "values": [
+        "Alžírsko",
+        "Polsko",
+        "Česko",
+        "Maďarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ondřejník",
+      "values": [
+        "Česko",
+        "Indie",
+        "Maroko",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vysoký Atlas",
+      "values": [
+        "Maroko",
+        "Alžírsko",
+        "Itálie",
+        "Chorvatsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pindos",
+      "values": [
+        "Alžírsko",
+        "Česko",
+        "Itálie",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Slovenské rudohoří",
+      "values": [
+        "Maďarsko",
+        "Francie",
+        "Španělsko",
+        "Řecko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] román?",
+  "questions": [
+    {
+      "key": "Farma zvířat",
+      "values": [
+        "irský",
+        "anglický",
+        "ruský",
+        "italský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Obraz Doriana Graye",
+      "values": [
+        "německý",
+        "český",
+        "americký",
+        "irský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Evžen Oněgin",
+      "values": [
+        "německý",
+        "australský",
+        "ruský",
+        "český"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oliver Twist",
+      "values": [
+        "americký",
+        "ruský",
+        "anglický",
+        "český"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Utrpení mladého Werthera",
+      "values": [
+        "irský",
+        "německý",
+        "americký",
+        "ruský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mistr a Markétka",
+      "values": [
+        "český",
+        "americký",
+        "australský",
+        "ruský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Klub rváčů",
+      "values": [
+        "španělský",
+        "americký",
+        "německý",
+        "ruský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Malé ženy",
+      "values": [
+        "český",
+        "německý",
+        "španělský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Volání divočiny",
+      "values": [
+        "český",
+        "americký",
+        "španělský",
+        "ruský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Doktor Živago",
+      "values": [
+        "francouzský",
+        "irský",
+        "španělský",
+        "ruský"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

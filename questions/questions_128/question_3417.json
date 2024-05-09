@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle ekonomiky",
+  "questions": [
+    {
+      "key": "Sapa",
+      "values": [
+        "Rakousko",
+        "Madagaskar",
+        "Česko",
+        "Spojené království"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Východoevropský oligarcha",
+      "values": [
+        "Česko",
+        "Rusko",
+        "Maďarsko",
+        "Kazachstán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Burza cenných papírů Praha",
+      "values": [
+        "Japonsko",
+        "Německo",
+        "Nizozemsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "DAX",
+      "values": [
+        "Německo",
+        "Rakousko",
+        "Jižní Korea",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tenge",
+      "values": [
+        "Kazachstán",
+        "Japonsko",
+        "Finsko",
+        "Madagaskar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "BB Centrum",
+      "values": [
+        "Řecko",
+        "Česko",
+        "Kubo",
+        "Dánsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Groningenské ložisko zemního plynu",
+      "values": [
+        "Nizozemsko",
+        "Ukrajina",
+        "Dánsko",
+        "Švédsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Porcování medvěda",
+      "values": [
+        "Spojené království",
+        "Česko",
+        "Rakousko",
+        "Francie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Absolut",
+      "values": [
+        "Švédsko",
+        "Česko",
+        "Francie",
+        "Spojené království"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zákon o rozpočtových pravidlech",
+      "values": [
+        "Německo",
+        "Kazachstán",
+        "Česko",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

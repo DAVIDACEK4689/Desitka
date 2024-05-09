@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Jan Nedvěd",
+      "values": [
+        "finského",
+        "českého",
+        "kanadského",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Richard Harris",
+      "values": [
+        "australského",
+        "irského",
+        "jihokorejského",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Felix Slováček mladší",
+      "values": [
+        "rakouského",
+        "mexického",
+        "moldavského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimír Hron",
+      "values": [
+        "nizozemského",
+        "českého",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Cerha",
+      "values": [
+        "islandského",
+        "českého",
+        "uruguayského",
+        "argentinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Harich",
+      "values": [
+        "kanadského",
+        "slovenského",
+        "alžírského",
+        "novozélandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alessandro Moreschi",
+      "values": [
+        "australského",
+        "norského",
+        "italského",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fedez",
+      "values": [
+        "německého",
+        "islandského",
+        "italského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Al Green",
+      "values": [
+        "uruguayského",
+        "jihoafrického",
+        "amerického",
+        "kolumbijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Glen Campbell",
+      "values": [
+        "amerického",
+        "chorvatského",
+        "španělského",
+        "srbského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

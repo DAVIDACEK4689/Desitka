@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Čokoláda",
+      "values": [
+        "dominikánskou",
+        "mexickou",
+        "německou",
+        "indonéskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Moči",
+      "values": [
+        "kanadskou",
+        "skotskou",
+        "japonskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cupcake",
+      "values": [
+        "židovskou",
+        "americkou",
+        "italskou",
+        "belgickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Surimi",
+      "values": [
+        "japonskou",
+        "perskou",
+        "polskou",
+        "gruzínskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Halászlé",
+      "values": [
+        "maďarskou",
+        "švýcarskou",
+        "ruskou",
+        "mexickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Adžika",
+      "values": [
+        "gruzínskou",
+        "australskou",
+        "slovenskou",
+        "finskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Waldorfský salát",
+      "values": [
+        "tureckou",
+        "indonéskou",
+        "americkou",
+        "rakouskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Massaman curry",
+      "values": [
+        "thajskou",
+        "irskou",
+        "norskou",
+        "litevskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vigna hranatá",
+      "values": [
+        "indickou",
+        "arménskou",
+        "švédskou",
+        "japonskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Liberecký párek",
+      "values": [
+        "chorvatskou",
+        "islandskou",
+        "australskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

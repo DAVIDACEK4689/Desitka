@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Tomáš Garrigue Masaryk",
+      "values": [
+        "maďarského",
+        "italského",
+        "českého",
+        "indického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Leonid Iljič Brežněv",
+      "values": [
+        "sovětského",
+        "českého",
+        "běloruského",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Javier Milei",
+      "values": [
+        "italského",
+        "španělského",
+        "ukrajinského",
+        "argentinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rudolf Hess",
+      "values": [
+        "kambodžského",
+        "španělského",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dante Alighieri",
+      "values": [
+        "kolumbijského",
+        "ukrajinského",
+        "italského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Francisco Franco",
+      "values": [
+        "španělského",
+        "polského",
+        "kambodžského",
+        "tureckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Viktor Orbán",
+      "values": [
+        "maďarského",
+        "tureckého",
+        "polského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bill Clinton",
+      "values": [
+        "běloruského",
+        "tureckého",
+        "kolumbijského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petro Porošenko",
+      "values": [
+        "ukrajinského",
+        "španělského",
+        "německého",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nelson Mandela",
+      "values": [
+        "maďarského",
+        "chilského",
+        "rumunského",
+        "jihoafrického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

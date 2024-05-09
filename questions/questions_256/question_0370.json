@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalového trenéra?",
+  "questions": [
+    {
+      "key": "José Mourinho",
+      "values": [
+        "španělského",
+        "skotského",
+        "portugalského",
+        "srbského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Horst Siegl",
+      "values": [
+        "rumunského",
+        "německého",
+        "portugalského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mikel Arteta",
+      "values": [
+        "nizozemského",
+        "srbského",
+        "anglického",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Berger",
+      "values": [
+        "italského",
+        "československého",
+        "irského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miroslav Matušovič",
+      "values": [
+        "francouzského",
+        "anglického",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alan Shearer",
+      "values": [
+        "srbského",
+        "rumunského",
+        "anglického",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivo Knoflíček",
+      "values": [
+        "velšského",
+        "českého",
+        "francouzského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Kula",
+      "values": [
+        "chorvatského",
+        "chilského",
+        "českého",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miroslav Beránek",
+      "values": [
+        "argentinského",
+        "portugalského",
+        "australského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stanislav Levý",
+      "values": [
+        "českého",
+        "anglického",
+        "francouzského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Dobrý Will Hunting",
+      "values": [
+        "Gus Van Sant",
+        "Zack Snyder",
+        "Colin Trevorrow",
+        "Jason Friedberg a Aaron Seltzer"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kill Bill",
+      "values": [
+        "Catherine Hardwicke",
+        "Randall Wallace",
+        "Quentin Tarantino",
+        "Roger Corman"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Butch Cassidy a Sundance Kid",
+      "values": [
+        "Tom Shadyac",
+        "John Lasseter",
+        "Charles Shyer",
+        "George Roy Hill"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Temné stíny",
+      "values": [
+        "Tim Robbins",
+        "Tim Burton",
+        "Charles Shyer",
+        "Harold Ramis"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Monty Python a Svatý Grál",
+      "values": [
+        "Dean Parisot",
+        "Harold Ramis",
+        "Terry Gilliam",
+        "Chloé Zhaová"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Africká královna",
+      "values": [
+        "Jay Roach",
+        "John Huston",
+        "Ruben Fleischer",
+        "Rob Cohen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Všichni prezidentovi muži",
+      "values": [
+        "Joel Zwick",
+        "Rian Johnson",
+        "Alan Pakula",
+        "Martha Coolidge"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Až vyjde měsíc",
+      "values": [
+        "Sidney Lumet",
+        "Wes Anderson",
+        "Fritz Lang",
+        "Frank Capra"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vítejte v džungli",
+      "values": [
+        "Sam Raimi",
+        "Peter Berg",
+        "Randall Wallace",
+        "Nick Cassavetes"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Růžový panter znovu zasahuje",
+      "values": [
+        "Doug Liman",
+        "Adam Shankman",
+        "Blake Edwards",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

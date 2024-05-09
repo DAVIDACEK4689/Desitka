@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Yvetta Simonová",
+      "values": [
+        "španělskou",
+        "islandskou",
+        "českou",
+        "indickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ljuba Hermanová",
+      "values": [
+        "slovenskou",
+        "peruánskou",
+        "uruguayskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Olivia Rodrigová",
+      "values": [
+        "ukrajinskou",
+        "americkou",
+        "srbskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Helene Fischer",
+      "values": [
+        "německou",
+        "švédskou",
+        "brazilskou",
+        "srbskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nelly Gaierová",
+      "values": [
+        "řeckou",
+        "ukrajinskou",
+        "moldavskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kateřina Bohatová",
+      "values": [
+        "finskou",
+        "mexickou",
+        "českou",
+        "uruguayskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kaczi",
+      "values": [
+        "indickou",
+        "francouzskou",
+        "rumunskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Patti Scialfa",
+      "values": [
+        "portugalskou",
+        "kubánskou",
+        "americkou",
+        "peruánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jenny Lindová",
+      "values": [
+        "jihokorejskou",
+        "srbskou",
+        "švédskou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tal Wilkenfeld",
+      "values": [
+        "peruánskou",
+        "brazilskou",
+        "italskou",
+        "australskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

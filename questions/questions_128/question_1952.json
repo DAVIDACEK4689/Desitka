@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] panovníka?",
+  "questions": [
+    {
+      "key": "Šalomoun",
+      "values": [
+        "etiopského",
+        "uherského",
+        "makedonského",
+        "izraelského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mahá Vatčirálongkón",
+      "values": [
+        "saského",
+        "thajského",
+        "uherského",
+        "makedonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mamlúci",
+      "values": [
+        "sumerského",
+        "saského",
+        "uherského",
+        "egyptského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Grimaldiové",
+      "values": [
+        "monackého",
+        "saského",
+        "ruského",
+        "makedonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Muhammad Umar",
+      "values": [
+        "franského",
+        "afghánského",
+        "albánského",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Merovech",
+      "values": [
+        "monackého",
+        "indického",
+        "sumerského",
+        "franského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gudea",
+      "values": [
+        "sumerského",
+        "egyptského",
+        "uherského",
+        "perského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gaumáta",
+      "values": [
+        "perského",
+        "egyptského",
+        "etiopského",
+        "sumerského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ananda Mahidol",
+      "values": [
+        "thajského",
+        "etiopského",
+        "rumunského",
+        "afghánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Wilhelm Wied",
+      "values": [
+        "ruského",
+        "egyptského",
+        "albánského",
+        "franského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

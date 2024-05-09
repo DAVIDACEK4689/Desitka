@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] klavíristu?",
+  "questions": [
+    {
+      "key": "Axl Rose",
+      "values": [
+        "německého",
+        "francouzského",
+        "amerického",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Malásek",
+      "values": [
+        "japonského",
+        "francouzského",
+        "českého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sergej Prokofjev",
+      "values": [
+        "ruského",
+        "australského",
+        "norského",
+        "čínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ilja Hurník",
+      "values": [
+        "britského",
+        "maďarského",
+        "finského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Modest Petrovič Musorgskij",
+      "values": [
+        "norského",
+        "rakouského",
+        "ukrajinského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pavel Křížkovský",
+      "values": [
+        "finského",
+        "ukrajinského",
+        "českého",
+        "čínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaroslav Krombholc",
+      "values": [
+        "izraelského",
+        "českého",
+        "ruského",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Guy Marchand",
+      "values": [
+        "francouzského",
+        "italského",
+        "ruského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Maria Anna Mozartová",
+      "values": [
+        "izraelského",
+        "francouzského",
+        "rakouského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Leopold Koželuh",
+      "values": [
+        "britského",
+        "českého",
+        "amerického",
+        "izraelského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

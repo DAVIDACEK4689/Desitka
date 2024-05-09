@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Vídeň",
+      "values": [
+        "Rakousko",
+        "Moldavsko",
+        "Gambie",
+        "Pero"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Veľký Meder",
+      "values": [
+        "Benin",
+        "Kyrgyzstán",
+        "Západní Sahara",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vukovar",
+      "values": [
+        "Palau",
+        "Etiopie",
+        "Chorvatsko",
+        "Gambie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vodice",
+      "values": [
+        "Libye",
+        "Keňa",
+        "Chorvatsko",
+        "Libanon"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Basra",
+      "values": [
+        "Belgie",
+        "Pákistán",
+        "Turecko",
+        "Irák"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Natal",
+      "values": [
+        "Brazílie",
+        "Sýrie",
+        "Ukrajina",
+        "Chorvatsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Entebbe",
+      "values": [
+        "Írán",
+        "Kapverdy",
+        "Chorvatsko",
+        "Uganda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ngerulmud",
+      "values": [
+        "Grónsko",
+        "Slovinsko",
+        "Palau",
+        "Eritrea"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Moroni",
+      "values": [
+        "Ázerbájdžán",
+        "Thajsko",
+        "Rakousko",
+        "Komora"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nikopolis",
+      "values": [
+        "Abcházie",
+        "Řecko",
+        "Zambie",
+        "Austrálie"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

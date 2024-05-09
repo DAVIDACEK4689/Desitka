@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Milan Rastislav Štefánik",
+      "values": [
+        "slovenského",
+        "pruského",
+        "řeckého",
+        "haitského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Muhammad Rezá Pahlaví",
+      "values": [
+        "amerického",
+        "ruského",
+        "srbského",
+        "íránského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "António Guterres",
+      "values": [
+        "kanadského",
+        "srbského",
+        "jihoafrického",
+        "portugalského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Igor Sergejevič Ivanov",
+      "values": [
+        "ruského",
+        "amerického",
+        "belgického",
+        "dominikánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tamím bin Hamad Ál Thání",
+      "values": [
+        "rakouského",
+        "německého",
+        "katarského",
+        "československého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Wenzel Jaksch",
+      "values": [
+        "iráckého",
+        "německého",
+        "anglického",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Šebestián Hněvkovský",
+      "values": [
+        "českého",
+        "bulharského",
+        "ukrajinského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Léon Degrelle",
+      "values": [
+        "dánského",
+        "kubánského",
+        "libyjského",
+        "belgického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michail Suslov",
+      "values": [
+        "panamského",
+        "sovětského",
+        "afghánského",
+        "palestinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oleg Blochin",
+      "values": [
+        "ázerbájdžánského",
+        "kolumbijského",
+        "maltského",
+        "ukrajinského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

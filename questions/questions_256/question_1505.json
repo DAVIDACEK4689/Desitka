@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] operního pěvce?",
+  "questions": [
+    {
+      "key": "Štefan Margita",
+      "values": [
+        "slovenského",
+        "ruského",
+        "amerického",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Adam Plachetka",
+      "values": [
+        "ruského",
+        "českého",
+        "rumunského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jon Vickers",
+      "values": [
+        "španělského",
+        "amerického",
+        "kanadského",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marian Vojtko",
+      "values": [
+        "českého",
+        "slovenského",
+        "rumunského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Emil Burian",
+      "values": [
+        "italského",
+        "českého",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eduard Haken",
+      "values": [
+        "českého",
+        "amerického",
+        "italského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "José Carreras",
+      "values": [
+        "italského",
+        "ruského",
+        "slovenského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dmitrij Chvorostovskij",
+      "values": [
+        "amerického",
+        "ruského",
+        "španělského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bohumil Benoni",
+      "values": [
+        "českého",
+        "slovenského",
+        "španělského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Emil Pollert",
+      "values": [
+        "německého",
+        "kanadského",
+        "rumunského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

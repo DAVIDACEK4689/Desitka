@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Jan Kuchta",
+      "values": [
+        "československého",
+        "argentinského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Harry Maguire",
+      "values": [
+        "německého",
+        "anglického",
+        "australského",
+        "nigerijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mario Balotelli",
+      "values": [
+        "italského",
+        "sovětského",
+        "uruguayského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Milan Škriniar",
+      "values": [
+        "českého",
+        "velšského",
+        "norského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lukáš Masopust",
+      "values": [
+        "českého",
+        "československého",
+        "nizozemského",
+        "anglického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ondřej Lingr",
+      "values": [
+        "egyptského",
+        "rumunského",
+        "chorvatského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Holeš",
+      "values": [
+        "nizozemského",
+        "anglického",
+        "nigerijského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gennaro Gattuso",
+      "values": [
+        "italského",
+        "skotského",
+        "kostarického",
+        "československého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David Hovorka",
+      "values": [
+        "kolumbijského",
+        "belgického",
+        "českého",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cesc Fàbregas",
+      "values": [
+        "polského",
+        "brazilského",
+        "španělského",
+        "chorvatského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

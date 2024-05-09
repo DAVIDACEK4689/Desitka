@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Růže",
+      "values": [
+        "Madagaskar",
+        "Nový Zéland",
+        "Mongolsko",
+        "Mexiko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rakytník",
+      "values": [
+        "Mongolsko",
+        "Austrálie",
+        "Brazílie",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Penízek rolní",
+      "values": [
+        "Nový Zéland",
+        "Austrálie",
+        "Mongolsko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomel",
+      "values": [
+        "Austrálie",
+        "Brazílie",
+        "Madagaskar",
+        "Japonsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Řebčík",
+      "values": [
+        "Nový Zéland",
+        "Brazílie",
+        "Japonsko",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Drchnička rolní",
+      "values": [
+        "Mongolsko",
+        "Austrálie",
+        "Česko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Prstnatec",
+      "values": [
+        "Madagaskar",
+        "Mongolsko",
+        "Česko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Prstnatec Fuchsův",
+      "values": [
+        "Nový Zéland",
+        "Mongolsko",
+        "Brazílie",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Árón východní",
+      "values": [
+        "Austrálie",
+        "Mexiko",
+        "Česko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čistec přímý",
+      "values": [
+        "Brazílie",
+        "Česko",
+        "Mongolsko",
+        "Madagaskar"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

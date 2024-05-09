@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle barokní stavby",
+  "questions": [
+    {
+      "key": "Fontána di Trevi",
+      "values": [
+        "Itálie",
+        "Nizozemsko",
+        "Slovensko",
+        "Ukrajina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Španělské schody",
+      "values": [
+        "Francie",
+        "Anglie",
+        "Itálie",
+        "Ukrajina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Klášter Melk",
+      "values": [
+        "Španělsko",
+        "Ukrajina",
+        "Rusko",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zámek Charlottenburg",
+      "values": [
+        "Německo",
+        "Rusko",
+        "Rakousko",
+        "Ukrajina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zámek Mirabell",
+      "values": [
+        "Rakousko",
+        "Itálie",
+        "Česko",
+        "Ukrajina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hohe Brücke",
+      "values": [
+        "Francie",
+        "Rakousko",
+        "Česko",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vysoká pec Barbora",
+      "values": [
+        "Rakousko",
+        "Rusko",
+        "Česko",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Palazzo Barberini",
+      "values": [
+        "Anglie",
+        "Rakousko",
+        "Francie",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Královský palác na Bratislavském hradě",
+      "values": [
+        "Ukrajina",
+        "Rusko",
+        "Slovensko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Klášter Poblet",
+      "values": [
+        "Německo",
+        "Rusko",
+        "Nizozemsko",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

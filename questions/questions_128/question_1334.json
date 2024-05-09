@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte město podle parku",
+  "questions": [
+    {
+      "key": "Moravské náměstí",
+      "values": [
+        "Brno",
+        "Ostrava",
+        "Třebíč",
+        "Londýn"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hulvácký les",
+      "values": [
+        "Londýn",
+        "Brno",
+        "Budapešť",
+        "Ostrava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Schreberovy zahrádky",
+      "values": [
+        "Brno",
+        "Hradec Králové",
+        "Plzeň",
+        "Jihlava"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Halda Hrabůvka",
+      "values": [
+        "Ostrava",
+        "Budapešť",
+        "Hradec Králové",
+        "České Budějovice"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Park Michalov",
+      "values": [
+        "Londýn",
+        "Brno",
+        "Plzeň",
+        "Přerov"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kapucínské zahrady",
+      "values": [
+        "Londýn",
+        "České Budějovice",
+        "Brno",
+        "Jihlava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tiergarten",
+      "values": [
+        "Třebíč",
+        "Budapešť",
+        "Berlín",
+        "Přerov"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Týnské údolí",
+      "values": [
+        "Jihlava",
+        "České Budějovice",
+        "Ostrava",
+        "Třebíč"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Janáčkovo stromořadí",
+      "values": [
+        "Brno",
+        "Přerov",
+        "Třebíč",
+        "Plzeň"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Areál pevných kontrol pro orientační běh Bělský les",
+      "values": [
+        "Budapešť",
+        "Přerov",
+        "České Budějovice",
+        "Ostrava"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

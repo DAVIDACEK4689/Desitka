@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Přelet nad kukaččím hnízdem",
+      "values": [
+        "Miloš Forman",
+        "Bořivoj Zeman",
+        "Jaromil Jireš",
+        "Jiří Krejčík"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Starci na chmelu",
+      "values": [
+        "Václav Wasserman",
+        "Ladislav Rychman",
+        "Jiří Menzel",
+        "Václav Binovec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Z pekla štěstí",
+      "values": [
+        "Miroslav Sobota",
+        "Martin Horský",
+        "Zdeněk Troška",
+        "Otakar Vávra"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jedna ruka netleská",
+      "values": [
+        "Martin Horský",
+        "Václav Wasserman",
+        "Vojtěch Jasný",
+        "David Ondříček"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Knoflíkáři",
+      "values": [
+        "Saša Gedeon",
+        "Jindřich Polák",
+        "Petr Zelenka",
+        "František Vláčil"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kameňák 2",
+      "values": [
+        "Jan Prušinovský",
+        "Zdeněk Troška",
+        "Pavel Juráček",
+        "Karel Smyczek"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Smradi",
+      "values": [
+        "Ondřej Trojan",
+        "Alice Nellis",
+        "Antonín Moskalyk",
+        "Zdeněk Tyc"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Donšajni",
+      "values": [
+        "Miloš Forman",
+        "Zdeněk Zelenka",
+        "Robert Sedláček",
+        "Jiří Menzel"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ďáblova past",
+      "values": [
+        "Vojtěch Jasný",
+        "Marie Poledňáková",
+        "Jiří Vejdělek",
+        "František Vláčil"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ďábelské líbánky",
+      "values": [
+        "Bohdan Sláma",
+        "Zdeněk Podskalský",
+        "Otakar Vávra",
+        "Roman Vávra"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

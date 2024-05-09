@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Van Helsing",
+      "values": [
+        "Dean Parisot",
+        "Charles Shyer",
+        "Stephen Sommers",
+        "Peter Segal"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dannyho parťáci",
+      "values": [
+        "Steven Soderbergh",
+        "Rob Reiner",
+        "Barry Levinson",
+        "Roger Kumble"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "The Gray Man",
+      "values": [
+        "Rian Johnson",
+        "Wes Craven",
+        "bratři Russoové",
+        "Catherine Hardwicke"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sám doma 3",
+      "values": [
+        "David Fincher",
+        "Raja Gosnell",
+        "Joe Johnston",
+        "Orson Welles"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Válka Roseových",
+      "values": [
+        "Danny DeVito",
+        "Barry Levinson",
+        "Martha Coolidge",
+        "Joel Zwick"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Neúplatní",
+      "values": [
+        "George Lucas",
+        "Gregory Hoblit",
+        "Steven Soderbergh",
+        "Brian De Palma"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kate a Leopold",
+      "values": [
+        "Chloé Zhaová",
+        "James Mangold",
+        "Robert Eggers",
+        "David Frankel"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Misery nechce zemřít",
+      "values": [
+        "Joel Schumacher",
+        "Rob Reiner",
+        "Martin Brest",
+        "Marc Webb"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Legenda o sovích strážcích",
+      "values": [
+        "Dean Parisot",
+        "Zack Snyder",
+        "Bob Gale",
+        "Gus Van Sant"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Baby Boom",
+      "values": [
+        "Mel Brooks",
+        "Charles Shyer",
+        "Mark Neveldine",
+        "David Fincher"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

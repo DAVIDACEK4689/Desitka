@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte město podle české kultury",
+  "questions": [
+    {
+      "key": "Velký strahovský stadion",
+      "values": [
+        "Polná",
+        "Teplice",
+        "Praha",
+        "Louny"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Moser",
+      "values": [
+        "Karlovy Vary",
+        "Třebechovice pod Orebem",
+        "Broumov",
+        "Příbram"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sono Centrum",
+      "values": [
+        "Loštice",
+        "Unhošť",
+        "Svitavy",
+        "Brno"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dům U Jonáše",
+      "values": [
+        "Pardubice",
+        "Červený Kostelec",
+        "Semily",
+        "Abertamy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vojenské muzeum na demarkační linii",
+      "values": [
+        "Krásná Lípa",
+        "Kadaň",
+        "Rokycany",
+        "Lipnice nad Sázavou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Šolcův statek",
+      "values": [
+        "Chrudim",
+        "Havlíčkův Brod",
+        "Frýdlant",
+        "Sobotka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fakulta designu a umění Ladislava Sutnara Západočeské univerzity",
+      "values": [
+        "Plzeň",
+        "Jičín",
+        "Nepomuk",
+        "Bruntál"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Naučná stezka Hruboskalsko",
+      "values": [
+        "Říčany",
+        "Týn nad Vltavou",
+        "Kamenický Šenov",
+        "Turnov"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Naučná stezka Terasy Ještědu",
+      "values": [
+        "Dubí",
+        "Jablonné v Podještědí",
+        "Sobotka",
+        "Liberec"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Putování za vodou",
+      "values": [
+        "Rožďalovice",
+        "Kadaň",
+        "Litoměřice",
+        "Frýdlant"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

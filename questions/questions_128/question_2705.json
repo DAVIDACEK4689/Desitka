@@ -1,0 +1,105 @@
+{
+  "text": "Určete město podle kultury",
+  "questions": [
+    {
+      "key": "Entropa",
+      "values": [
+        "Brusel",
+        "Londýn",
+        "Helsinky",
+        "Baku"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "The Guardian",
+      "values": [
+        "Bělehrad",
+        "Budapešť",
+        "Londýn",
+        "Amsterdam"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Národní parlamentní knihovna Japonska",
+      "values": [
+        "Lisabon",
+        "Tokio",
+        "Dublin",
+        "Brusel"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Avicii Arena",
+      "values": [
+        "Stockholm",
+        "Vilnius",
+        "Reykjavík",
+        "Peking"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eurovision Song Contest 2014",
+      "values": [
+        "Kodaň",
+        "Stockholm",
+        "Brusel",
+        "Bělehrad"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mořské varhany",
+      "values": [
+        "Lisabon",
+        "Zadar",
+        "Stockholm",
+        "Tel Aviv"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sigur Rós",
+      "values": [
+        "Reykjavík",
+        "Baku",
+        "Šanghaj",
+        "Dublin"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Brána Beskyd",
+      "values": [
+        "Frýdlant nad Ostravicí",
+        "Tel Aviv",
+        "Šanghaj",
+        "Baku"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Daily Mirror",
+      "values": [
+        "Bělehrad",
+        "Londýn",
+        "Dublin",
+        "Brusel"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Světová výstava 1937",
+      "values": [
+        "Paříž",
+        "Helsinky",
+        "Reykjavík",
+        "Zadar"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva u Borodina",
+      "values": [
+        "1471",
+        "1863",
+        "1254",
+        "1812"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Povstání ve varšavském ghettu",
+      "values": [
+        "1915",
+        "1651",
+        "1861",
+        "1943"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Operace Gomora",
+      "values": [
+        "1066",
+        "1644",
+        "1943",
+        "1014"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Chotusic",
+      "values": [
+        "1742",
+        "1968",
+        "1438",
+        "1621"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Útok na Hadí ostrov",
+      "values": [
+        "1709",
+        "1434",
+        "1410",
+        "2022"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Boje o Liptovský Mikuláš",
+      "values": [
+        "1945",
+        "1288",
+        "1177",
+        "849"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Liberce",
+      "values": [
+        "1991",
+        "1916",
+        "1757",
+        "1288"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Útok na Tarent",
+      "values": [
+        "1940",
+        "1437",
+        "1666",
+        "1916"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Jarmúku",
+      "values": [
+        "1461",
+        "1920",
+        "636",
+        "1456"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva o Tangu",
+      "values": [
+        "1431",
+        "1435",
+        "1914",
+        "495"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

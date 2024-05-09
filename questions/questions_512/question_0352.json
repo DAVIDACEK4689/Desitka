@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte malíře podle obrazu",
+  "questions": [
+    {
+      "key": "Mona Lisa",
+      "values": [
+        "Leonardo da Vinci",
+        "Édouard Manet",
+        "Raffael Santi",
+        "Alfons Mucha"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sixtinská kaple",
+      "values": [
+        "Sandro Botticelli",
+        "Eugène Delacroix",
+        "Gustav Klimt",
+        "Édouard Manet"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Slovanská epopej",
+      "values": [
+        "Raffael Santi",
+        "Salvador Dalí",
+        "Alfons Mucha",
+        "Édouard Manet"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dáma s hranostajem",
+      "values": [
+        "Raffael Santi",
+        "Sandro Botticelli",
+        "Albrecht Dürer",
+        "Leonardo da Vinci"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zlatá Adele",
+      "values": [
+        "Pablo Picasso",
+        "Gustav Klimt",
+        "Salvador Dalí",
+        "Raffael Santi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zahrada pozemských rozkoší",
+      "values": [
+        "Albrecht Dürer",
+        "Hieronymus Bosch",
+        "Pablo Picasso",
+        "Alfons Mucha"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vitruviánský muž",
+      "values": [
+        "Leonardo da Vinci",
+        "Pablo Picasso",
+        "Alfons Mucha",
+        "Hieronymus Bosch"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Snídaně v trávě",
+      "values": [
+        "Sandro Botticelli",
+        "Salvador Dalí",
+        "Gustav Klimt",
+        "Édouard Manet"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Madona ve skalách",
+      "values": [
+        "Édouard Manet",
+        "Albrecht Dürer",
+        "Leonardo da Vinci",
+        "Salvador Dalí"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Primavera",
+      "values": [
+        "Leonardo da Vinci",
+        "Gustav Klimt",
+        "Pablo Picasso",
+        "Sandro Botticelli"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

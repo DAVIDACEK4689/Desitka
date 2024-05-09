@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Niccolò Machiavelli",
+      "values": [
+        "italského",
+        "peruánského",
+        "argentinského",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexander Hamilton",
+      "values": [
+        "amerického",
+        "palestinského",
+        "dominikánského",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rustem Umerov",
+      "values": [
+        "jemenského",
+        "ukrajinského",
+        "rumunského",
+        "turkmenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ladislav Zápotocký",
+      "values": [
+        "lotyšského",
+        "českého",
+        "tureckého",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alija Izetbegović",
+      "values": [
+        "iráckého",
+        "srbského",
+        "argentinského",
+        "bosenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Volodymyr Hrojsman",
+      "values": [
+        "estonského",
+        "řeckého",
+        "ukrajinského",
+        "keňského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Borut Pahor",
+      "values": [
+        "ukrajinského",
+        "ruského",
+        "slovinského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jumdžágín Cedenbal",
+      "values": [
+        "slovenského",
+        "francouzského",
+        "ukrajinského",
+        "mongolského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Herbert Backe",
+      "values": [
+        "estonského",
+        "kolumbijského",
+        "vietnamského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Abdul Rašíd Dóstum",
+      "values": [
+        "amerického",
+        "bulharského",
+        "afghánského",
+        "filipínského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

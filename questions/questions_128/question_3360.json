@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Eminem",
+      "values": [
+        "amerického",
+        "mexického",
+        "islandského",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dan Bárta",
+      "values": [
+        "norského",
+        "švýcarského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jack Black",
+      "values": [
+        "japonského",
+        "nizozemského",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Ryšavý",
+      "values": [
+        "belgického",
+        "českého",
+        "izraelského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rudolf Pellar",
+      "values": [
+        "dánského",
+        "českého",
+        "jihoafrického",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jimmy Somerville",
+      "values": [
+        "skotského",
+        "německého",
+        "kolumbijského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Richard Pachman",
+      "values": [
+        "nizozemského",
+        "moldavského",
+        "českého",
+        "chorvatského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jonathan Groff",
+      "values": [
+        "jihokorejského",
+        "amerického",
+        "jihoafrického",
+        "novozélandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Johann Nepomuk Nestroy",
+      "values": [
+        "alžírského",
+        "dánského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Randy Blythe",
+      "values": [
+        "australského",
+        "amerického",
+        "jamajského",
+        "českého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

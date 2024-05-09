@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Jitrocel kopinatý",
+      "values": [
+        "Nový Zéland",
+        "Madagaskar",
+        "Brazílie",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Banánovník",
+      "values": [
+        "Austrálie",
+        "Mongolsko",
+        "Brazílie",
+        "Mexiko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Devětsil lékařský",
+      "values": [
+        "Mexiko",
+        "Nový Zéland",
+        "Brazílie",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Janovec metlatý",
+      "values": [
+        "Nový Zéland",
+        "Česko",
+        "Brazílie",
+        "Austrálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Netýkavka",
+      "values": [
+        "Mexiko",
+        "Madagaskar",
+        "Brazílie",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hloh jednosemenný",
+      "values": [
+        "Česko",
+        "Mexiko",
+        "Nový Zéland",
+        "Brazílie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rozpuk jízlivý",
+      "values": [
+        "Mongolsko",
+        "Česko",
+        "Mexiko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jeřáb muk",
+      "values": [
+        "Brazílie",
+        "Česko",
+        "Mexiko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kokořík vonný",
+      "values": [
+        "Mongolsko",
+        "Nový Zéland",
+        "Brazílie",
+        "Mexiko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paprika křovitá",
+      "values": [
+        "Česko",
+        "Brazílie",
+        "Austrálie",
+        "Mongolsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

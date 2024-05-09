@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle premiéra",
+  "questions": [
+    {
+      "key": "Andrej Babiš",
+      "values": [
+        "Rusko",
+        "Česko",
+        "Slovensko",
+        "Ukrajina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Margaret Thatcherová",
+      "values": [
+        "Izrael",
+        "Spojené království",
+        "Portugalsko",
+        "Bulharsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rishi Sunak",
+      "values": [
+        "Portugalsko",
+        "Španělsko",
+        "Maďarsko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Rusnok",
+      "values": [
+        "Bulharsko",
+        "Turecko",
+        "Portugalsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jarosław Kaczyński",
+      "values": [
+        "Estonsko",
+        "Polsko",
+        "Španělsko",
+        "Japonsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Giorgia Meloniová",
+      "values": [
+        "Itálie",
+        "Norsko",
+        "Švédsko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "António de Oliveira Salazar",
+      "values": [
+        "Indie",
+        "Portugalsko",
+        "Moldavsko",
+        "Španělsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Wojciech Jaruzelski",
+      "values": [
+        "Polsko",
+        "Nizozemsko",
+        "Estonsko",
+        "Finsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Naréndra Módí",
+      "values": [
+        "Turecko",
+        "Indie",
+        "Spojené království",
+        "Nizozemsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Husní Mubárak",
+      "values": [
+        "Polsko",
+        "Egypt",
+        "Portugalsko",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

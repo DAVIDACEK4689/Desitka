@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] malíře?",
+  "questions": [
+    {
+      "key": "John Wayne Gacy",
+      "values": [
+        "kolumbijského",
+        "italského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Edvard Munch",
+      "values": [
+        "norského",
+        "italského",
+        "španělského",
+        "kolumbijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Auguste Renoir",
+      "values": [
+        "švýcarského",
+        "francouzského",
+        "nizozemského",
+        "kolumbijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marcel Duchamp",
+      "values": [
+        "švýcarského",
+        "norského",
+        "rakouského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Helene Schjerfbecková",
+      "values": [
+        "rakouského",
+        "českého",
+        "finského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Julius von Payer",
+      "values": [
+        "francouzského",
+        "rakouského",
+        "polského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miroslav Tichý",
+      "values": [
+        "německého",
+        "japonského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Damien Hirst",
+      "values": [
+        "slovenského",
+        "britského",
+        "ruského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ernst Ludwig Kirchner",
+      "values": [
+        "německého",
+        "francouzského",
+        "nizozemského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "James Ensor",
+      "values": [
+        "chorvatského",
+        "francouzského",
+        "nizozemského",
+        "belgického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

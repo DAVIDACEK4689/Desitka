@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] psychologa?",
+  "questions": [
+    {
+      "key": "Sigmund Freud",
+      "values": [
+        "rakouského",
+        "izraelského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Philip Zimbardo",
+      "values": [
+        "francouzského",
+        "amerického",
+        "polského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jeroným Klimeš",
+      "values": [
+        "německého",
+        "rakouského",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Daniel Krištof",
+      "values": [
+        "německého",
+        "českého",
+        "rakouského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "George Herbert Mead",
+      "values": [
+        "amerického",
+        "kanadského",
+        "švýcarského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladimír Vondráček",
+      "values": [
+        "švýcarského",
+        "nizozemského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lawrence Kohlberg",
+      "values": [
+        "amerického",
+        "nizozemského",
+        "německého",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Donald Woods Winnicott",
+      "values": [
+        "rakouského",
+        "kanadského",
+        "britského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Milton Erickson",
+      "values": [
+        "amerického",
+        "nizozemského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marshall Rosenberg",
+      "values": [
+        "německého",
+        "izraelského",
+        "švýcarského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

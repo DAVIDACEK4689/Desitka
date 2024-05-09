@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] šlechtice?",
+  "questions": [
+    {
+      "key": "Bernard Montgomery",
+      "values": [
+        "slezského",
+        "ruského",
+        "řeckého",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Princ Henrik",
+      "values": [
+        "německého",
+        "francouzského",
+        "uherského",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Horatio Kitchener",
+      "values": [
+        "britského",
+        "rakouského",
+        "španělského",
+        "albánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pierre Cambronne",
+      "values": [
+        "monackého",
+        "moravského",
+        "francouzského",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Eusebius z Lichtenštejna",
+      "values": [
+        "slovenského",
+        "dánského",
+        "moravského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Diviš Czernin",
+      "values": [
+        "českého",
+        "německého",
+        "albánského",
+        "uherského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexej Grigorjevič Orlov",
+      "values": [
+        "polského",
+        "moravského",
+        "britského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Casimir Pulaski",
+      "values": [
+        "monackého",
+        "polského",
+        "albánského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hans von Seeckt",
+      "values": [
+        "dánského",
+        "britského",
+        "německého",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Otto Serényi",
+      "values": [
+        "moravského",
+        "monackého",
+        "slovenského",
+        "gruzínského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle etnické skupiny",
+  "questions": [
+    {
+      "key": "Eskymáci",
+      "values": [
+        "Rusko",
+        "Indie",
+        "Írán",
+        "Izrael"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sámové",
+      "values": [
+        "Rusko",
+        "Jihoafrická republika",
+        "Maďarsko",
+        "Srbsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Slováci",
+      "values": [
+        "Indie",
+        "Ukrajina",
+        "Srbsko",
+        "Izrael"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Prajzové",
+      "values": [
+        "Česko",
+        "Srbsko",
+        "Irák",
+        "Írán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sentinelci",
+      "values": [
+        "Indie",
+        "Polsko",
+        "Maďarsko",
+        "Egypt"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chorvati",
+      "values": [
+        "Jihoafrická republika",
+        "Srbsko",
+        "Rusko",
+        "Indie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bosňáci",
+      "values": [
+        "Srbsko",
+        "Maďarsko",
+        "Rusko",
+        "Spojené království"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Italové",
+      "values": [
+        "Polsko",
+        "Slovinsko",
+        "Ukrajina",
+        "Izrael"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mursiové",
+      "values": [
+        "Etiopie",
+        "Izrael",
+        "Irák",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Asyřané",
+      "values": [
+        "Spojené království",
+        "Irák",
+        "Slovinsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

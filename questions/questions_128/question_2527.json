@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] generála?",
+  "questions": [
+    {
+      "key": "Karel Kutlvašr",
+      "values": [
+        "myanmarského",
+        "ruského",
+        "bulharského",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alois Vašátko",
+      "values": [
+        "rumunského",
+        "finského",
+        "československého",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bedřich Homola",
+      "values": [
+        "italského",
+        "britského",
+        "československého",
+        "myanmarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "František Šádek",
+      "values": [
+        "australského",
+        "československého",
+        "argentinského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lenka Šmerdová",
+      "values": [
+        "italského",
+        "českého",
+        "švédského",
+        "búrského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Širó Išii",
+      "values": [
+        "rumunského",
+        "japonského",
+        "slovenského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nikolaj Judenič",
+      "values": [
+        "ruského",
+        "španělského",
+        "kanadského",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Heinz Harmel",
+      "values": [
+        "albánského",
+        "amerického",
+        "polského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Leopold Firt",
+      "values": [
+        "československého",
+        "japonského",
+        "ruského",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavel Alexandrovič",
+      "values": [
+        "polského",
+        "rumunského",
+        "finského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

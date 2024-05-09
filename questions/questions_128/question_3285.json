@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Cillian Murphy",
+      "values": [
+        "irského",
+        "sovětského",
+        "jihokorejského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bohumil Klepl",
+      "values": [
+        "českého",
+        "španělského",
+        "amerického",
+        "marockého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Broněk Černý",
+      "values": [
+        "norského",
+        "jamajského",
+        "mexického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Arquette",
+      "values": [
+        "venezuelského",
+        "švédského",
+        "kanadského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rutger Hauer",
+      "values": [
+        "rakouského",
+        "japonského",
+        "norského",
+        "nizozemského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Matt Czuchry",
+      "values": [
+        "řeckého",
+        "sovětského",
+        "kanadského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Luděk Eliáš",
+      "values": [
+        "švýcarského",
+        "maďarského",
+        "belgického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roman Knižka",
+      "values": [
+        "norského",
+        "německého",
+        "izraelského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Johan Hegg",
+      "values": [
+        "izraelského",
+        "švédského",
+        "ukrajinského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavel Doucek",
+      "values": [
+        "českého",
+        "izraelského",
+        "bosenského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

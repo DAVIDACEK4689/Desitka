@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] architekta?",
+  "questions": [
+    {
+      "key": "Dušan Jurkovič",
+      "values": [
+        "slovinského",
+        "francouzského",
+        "slovenského",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Letzel",
+      "values": [
+        "brazilského",
+        "finského",
+        "českého",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Kasl",
+      "values": [
+        "českého",
+        "norského",
+        "britského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Otakar Binar",
+      "values": [
+        "ruského",
+        "britského",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Buckminster Fuller",
+      "values": [
+        "britského",
+        "německého",
+        "amerického",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mimar Sinan",
+      "values": [
+        "japonského",
+        "tureckého",
+        "brazilského",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zdeněk Fránek",
+      "values": [
+        "nizozemského",
+        "českého",
+        "tureckého",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Peter Behrens",
+      "values": [
+        "polského",
+        "německého",
+        "slovinského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Philip Johnson",
+      "values": [
+        "německého",
+        "amerického",
+        "ruského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Einhard",
+      "values": [
+        "německého",
+        "slovenského",
+        "řeckého",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

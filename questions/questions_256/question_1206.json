@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Kolja",
+      "values": [
+        "Martin Frič",
+        "Zdeněk Zelenka",
+        "Jiří Krejčík",
+        "Jan Svěrák"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Anděl Páně 2",
+      "values": [
+        "Jan Prušinovský",
+        "Jiří Strach",
+        "Jaromil Jireš",
+        "Oldřich Lipský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bouřlivé víno",
+      "values": [
+        "Saša Gedeon",
+        "Karel Lamač",
+        "Václav Vorlíček",
+        "David Ondříček"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zlatí úhoři",
+      "values": [
+        "Karel Smyczek",
+        "David Ondříček",
+        "Jan Schmidt",
+        "Karel Kachyňa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aristokratka ve varu",
+      "values": [
+        "Jaromil Jireš",
+        "Antonín Moskalyk",
+        "Robert Sedláček",
+        "Jiří Vejdělek"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cesta z města",
+      "values": [
+        "Vojtěch Jasný",
+        "Karel Kachyňa",
+        "Tomáš Vorel",
+        "Zdeněk Zelenka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ve stínu",
+      "values": [
+        "Ladislav Smoljak",
+        "Jan Schmidt",
+        "Martin Horský",
+        "David Ondříček"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hotel Modrá hvězda",
+      "values": [
+        "Pavel Juráček",
+        "Svatopluk Innemann",
+        "Evald Schorm",
+        "Martin Frič"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Faunovo velmi pozdní odpoledne",
+      "values": [
+        "Zdeněk Zelenka",
+        "Věra Chytilová",
+        "Jindřich Polák",
+        "Bohdan Sláma"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bourák",
+      "values": [
+        "Ondřej Trojan",
+        "Bořivoj Zeman",
+        "Miloslav Šmídmajer",
+        "Robert Sedláček"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

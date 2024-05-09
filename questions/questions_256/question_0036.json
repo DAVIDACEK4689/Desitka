@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Zlín",
+      "values": [
+        "Česko",
+        "Slovensko",
+        "Irsko",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Košice",
+      "values": [
+        "Slovensko",
+        "Německo",
+        "Polsko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Poznaň",
+      "values": [
+        "Slovensko",
+        "Dánsko",
+        "Polsko",
+        "Rakousko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mohuč",
+      "values": [
+        "Německo",
+        "Dánsko",
+        "Nizozemsko",
+        "Belgie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bamberk",
+      "values": [
+        "Rakousko",
+        "Česko",
+        "Německo",
+        "Dánsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Essen",
+      "values": [
+        "Česko",
+        "Německo",
+        "Portugalsko",
+        "Dánsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Münster",
+      "values": [
+        "Německo",
+        "Itálie",
+        "Nizozemsko",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Freiberg",
+      "values": [
+        "Slovensko",
+        "Německo",
+        "Irsko",
+        "Belgie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Straubing",
+      "values": [
+        "Rakousko",
+        "Slovensko",
+        "Německo",
+        "Nizozemsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Reading",
+      "values": [
+        "Spojené království",
+        "Belgie",
+        "Dánsko",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Haag",
+      "values": [
+        "Německo",
+        "Argentina",
+        "Nizozemsko",
+        "Burkina Faso"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Naarden",
+      "values": [
+        "Nizozemsko",
+        "Súdán",
+        "Bangladéš",
+        "Myanmar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Turzovka",
+      "values": [
+        "Súdán",
+        "Srbsko",
+        "Uzbekistán",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Litschau",
+      "values": [
+        "Paraguay",
+        "Rakousko",
+        "Indonésie",
+        "Saúdská Arábie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marchegg",
+      "values": [
+        "Libérie",
+        "Mexiko",
+        "Německo",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Baia Mare",
+      "values": [
+        "Marshallovy ostrovy",
+        "Černá Hora",
+        "Rumunsko",
+        "Portugalsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Honfleur",
+      "values": [
+        "Francie",
+        "Súdán",
+        "Alžírsko",
+        "Egypt"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Spišské Podhradie",
+      "values": [
+        "Moldavsko",
+        "Středoafrická republika",
+        "Slovensko",
+        "Gambie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kirkenes",
+      "values": [
+        "Pákistán",
+        "Rumunsko",
+        "Nigérie",
+        "Norsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kúfa",
+      "values": [
+        "Austrálie",
+        "Albánie",
+        "Irák",
+        "Indie"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

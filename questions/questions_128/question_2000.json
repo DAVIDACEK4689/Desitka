@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Oskar Kokoschka",
+      "values": [
+        "rakouského",
+        "německého",
+        "českého",
+        "indického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Padych",
+      "values": [
+        "českého",
+        "egyptského",
+        "amerického",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Světlana Alexijevičová",
+      "values": [
+        "rumunského",
+        "belgického",
+        "nizozemského",
+        "běloruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Edgar Rice Burroughs",
+      "values": [
+        "čínského",
+        "novozélandského",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mikuláš Zrinský",
+      "values": [
+        "norského",
+        "ázerbájdžánského",
+        "estonského",
+        "maďarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mahathir Mohamad",
+      "values": [
+        "srbského",
+        "amerického",
+        "gruzínského",
+        "malajsijského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Boris Akunin",
+      "values": [
+        "slovinského",
+        "italského",
+        "ruského",
+        "argentinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bohumil Pospíšil",
+      "values": [
+        "slovenského",
+        "bulharského",
+        "českého",
+        "litevského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miguel Ángel Asturias",
+      "values": [
+        "malajsijského",
+        "kyrgyzského",
+        "guatemalského",
+        "novozélandského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Siegfried Lenz",
+      "values": [
+        "filipínského",
+        "chorvatského",
+        "rumunského",
+        "německého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

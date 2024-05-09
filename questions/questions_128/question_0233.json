@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte rok podle politiky",
+  "questions": [
+    {
+      "key": "Velká francouzská revoluce",
+      "values": [
+        "1851",
+        "1805",
+        "1789",
+        "1858"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luhanská lidová republika",
+      "values": [
+        "1807",
+        "1699",
+        "2014",
+        "2015"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pittsburská dohoda",
+      "values": [
+        "1774",
+        "1918",
+        "1989",
+        "2016"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Saintgermainská smlouva",
+      "values": [
+        "1789",
+        "1991",
+        "1919",
+        "1945"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dubnová ústava",
+      "values": [
+        "1807",
+        "1848",
+        "2023",
+        "1865"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rúrská krize",
+      "values": [
+        "1972",
+        "1809",
+        "1789",
+        "1923"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aféra Bamberg",
+      "values": [
+        "1920",
+        "1807",
+        "1998",
+        "1860"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Summit v Reykjavíku",
+      "values": [
+        "1968",
+        "1788",
+        "1955",
+        "1986"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Druhá marocká krize",
+      "values": [
+        "1819",
+        "1911",
+        "1985",
+        "1788"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Něrčinská smlouva",
+      "values": [
+        "1689",
+        "1867",
+        "2006",
+        "1968"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

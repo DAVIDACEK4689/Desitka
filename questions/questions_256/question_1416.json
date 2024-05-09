@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [typ] organizaci?",
+  "questions": [
+    {
+      "key": "Komunistická strana Československa",
+      "values": [
+        "zdravotnickou",
+        "zaniklou",
+        "zločineckou",
+        "partyzánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Berdychův gang",
+      "values": [
+        "zločineckou",
+        "zdravotnickou",
+        "mezinárodní",
+        "náboženskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hanza",
+      "values": [
+        "zaniklou",
+        "fiktivní",
+        "ekologickou",
+        "leteckou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hospodářské společenství západoafrických států",
+      "values": [
+        "hospodářskou",
+        "mezinárodní",
+        "humanitární",
+        "zaniklou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nadnárodní korporace",
+      "values": [
+        "fiktivní",
+        "politickou",
+        "hospodářskou",
+        "zločineckou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mudžáhid",
+      "values": [
+        "náboženskou",
+        "partyzánskou",
+        "politickou",
+        "leteckou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gang",
+      "values": [
+        "fiktivní",
+        "zločineckou",
+        "náboženskou",
+        "partyzánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "SS",
+      "values": [
+        "zločineckou",
+        "politickou",
+        "vědeckou",
+        "vzdělávací"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Schlaraffia",
+      "values": [
+        "hospodářskou",
+        "mezinárodní",
+        "ekologickou",
+        "leteckou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Restaurace",
+      "values": [
+        "vědeckou",
+        "vzdělávací",
+        "hospodářskou",
+        "fiktivní"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

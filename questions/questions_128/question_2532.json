@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Luís Figo",
+      "values": [
+        "portugalského",
+        "finského",
+        "švýcarského",
+        "ekvádorského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vratislav Lokvenc",
+      "values": [
+        "českého",
+        "irského",
+        "belgického",
+        "černohorského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Abdallah Sima",
+      "values": [
+        "slovinského",
+        "senegalského",
+        "italského",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jürgen Klinsmann",
+      "values": [
+        "nigerijského",
+        "kostarického",
+        "peruánského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vitor Roque",
+      "values": [
+        "německého",
+        "brazilského",
+        "nizozemského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jordan Henderson",
+      "values": [
+        "tožského",
+        "peruánského",
+        "anglického",
+        "alžírského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jakub Hromada",
+      "values": [
+        "alžírského",
+        "ruského",
+        "bulharského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Filip Zorvan",
+      "values": [
+        "kanadského",
+        "českého",
+        "paraguayského",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gérson",
+      "values": [
+        "polského",
+        "brazilského",
+        "belgického",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michy Batshuayi",
+      "values": [
+        "belgického",
+        "československého",
+        "anglického",
+        "mexického"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

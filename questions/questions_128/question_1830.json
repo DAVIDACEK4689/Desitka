@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Tomáš Garrigue Masaryk",
+      "values": [
+        "českého",
+        "keňského",
+        "rakouského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Malcolm X",
+      "values": [
+        "francouzského",
+        "myanmarského",
+        "amerického",
+        "moldavského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michail Kalinin",
+      "values": [
+        "kolumbijského",
+        "sovětského",
+        "irského",
+        "dominikánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vahagn Chačaturjan",
+      "values": [
+        "nizozemského",
+        "ázerbájdžánského",
+        "arménského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Viktor Medvedčuk",
+      "values": [
+        "libanonského",
+        "litevského",
+        "estonského",
+        "ukrajinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Polina Žemčužinová",
+      "values": [
+        "moldavského",
+        "sovětského",
+        "izraelského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Cyril Kotrlý",
+      "values": [
+        "kyperského",
+        "maďarského",
+        "českého",
+        "filipínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Austen Chamberlain",
+      "values": [
+        "lotyšského",
+        "nepálského",
+        "bolivijského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Andreas Hofer",
+      "values": [
+        "haitského",
+        "peruánského",
+        "rakouského",
+        "mongolského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Le Duan",
+      "values": [
+        "salvadorského",
+        "bosenského",
+        "mongolského",
+        "vietnamského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Čokoláda",
+      "values": [
+        "mexickou",
+        "židovskou",
+        "belgickou",
+        "tureckou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hákarl",
+      "values": [
+        "islandskou",
+        "dánskou",
+        "gruzínskou",
+        "švédskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Turecká kuchyně",
+      "values": [
+        "vietnamskou",
+        "švýcarskou",
+        "arménskou",
+        "středomořskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Láhevník ostnitý",
+      "values": [
+        "maďarskou",
+        "skotskou",
+        "indickou",
+        "mexickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Almdudler",
+      "values": [
+        "rakouskou",
+        "gruzínskou",
+        "řeckou",
+        "indickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Raclette",
+      "values": [
+        "islandskou",
+        "švýcarskou",
+        "rakouskou",
+        "řeckou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Brynzové halušky",
+      "values": [
+        "arabskou",
+        "chorvatskou",
+        "slovenskou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Unicum",
+      "values": [
+        "řeckou",
+        "kanadskou",
+        "maďarskou",
+        "arabskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pekingská kachna",
+      "values": [
+        "australskou",
+        "čínskou",
+        "francouzskou",
+        "arabskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Libanonská kuchyně",
+      "values": [
+        "čínskou",
+        "gruzínskou",
+        "portugalskou",
+        "arabskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

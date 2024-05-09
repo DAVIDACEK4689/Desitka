@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotografa?",
+  "questions": [
+    {
+      "key": "Dan Bárta",
+      "values": [
+        "mexického",
+        "českého",
+        "sovětského",
+        "vietnamského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alberto Vojtěch Frič",
+      "values": [
+        "mexického",
+        "českého",
+        "anglického",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ansel Adams",
+      "values": [
+        "maďarského",
+        "slovenského",
+        "amerického",
+        "kubánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mário Bihári",
+      "values": [
+        "německého",
+        "amerického",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Louis Daguerre",
+      "values": [
+        "kanadského",
+        "nizozemského",
+        "mexického",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Constantin Brâncuși",
+      "values": [
+        "nizozemského",
+        "rumunského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Reischig",
+      "values": [
+        "maďarského",
+        "polského",
+        "českého",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Nepomuk Langhans",
+      "values": [
+        "italského",
+        "českého",
+        "německého",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Patrick Demarchelier",
+      "values": [
+        "francouzského",
+        "nizozemského",
+        "anglického",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Juraj Šajmovič",
+      "values": [
+        "rumunského",
+        "brazilského",
+        "švédského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

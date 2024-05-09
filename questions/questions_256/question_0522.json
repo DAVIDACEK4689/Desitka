@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebníka?",
+  "questions": [
+    {
+      "key": "Vašo Patejdl",
+      "values": [
+        "švédského",
+        "švýcarského",
+        "portorického",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Axl Rose",
+      "values": [
+        "španělského",
+        "amerického",
+        "brazilského",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jake Paul",
+      "values": [
+        "amerického",
+        "jugoslávského",
+        "arménského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ivo Pešák",
+      "values": [
+        "bulharského",
+        "italského",
+        "arménského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marek Hlavica",
+      "values": [
+        "ukrajinského",
+        "českého",
+        "australského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavol Hammel",
+      "values": [
+        "jugoslávského",
+        "amerického",
+        "nizozemského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Káš",
+      "values": [
+        "švédského",
+        "českého",
+        "kanadského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Goran Bregović",
+      "values": [
+        "jugoslávského",
+        "kanadského",
+        "řeckého",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Luis Fonsi",
+      "values": [
+        "japonského",
+        "slovenského",
+        "indického",
+        "portorického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zubin Mehta",
+      "values": [
+        "indického",
+        "francouzského",
+        "portorického",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

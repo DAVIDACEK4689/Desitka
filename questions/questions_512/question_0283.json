@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "František Palacký",
+      "values": [
+        "japonského",
+        "srbského",
+        "brazilského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Magda Vášáryová",
+      "values": [
+        "ruského",
+        "ukrajinského",
+        "švédského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jack Kerouac",
+      "values": [
+        "polského",
+        "britského",
+        "amerického",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Richard Harris",
+      "values": [
+        "brazilského",
+        "kanadského",
+        "italského",
+        "irského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gabriel García Márquez",
+      "values": [
+        "brazilského",
+        "kolumbijského",
+        "britského",
+        "chilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rudolf Schuster",
+      "values": [
+        "slovenského",
+        "japonského",
+        "indického",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lenka Procházková",
+      "values": [
+        "českého",
+        "srbského",
+        "dánského",
+        "indického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Erich Kulka",
+      "values": [
+        "jihoafrického",
+        "vietnamského",
+        "chilského",
+        "izraelského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pier Paolo Pasolini",
+      "values": [
+        "ruského",
+        "polského",
+        "irského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pavol Országh Hviezdoslav",
+      "values": [
+        "slovenského",
+        "polského",
+        "argentinského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

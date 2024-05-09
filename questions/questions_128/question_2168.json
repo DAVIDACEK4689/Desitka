@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebníka?",
+  "questions": [
+    {
+      "key": "Vašo Patejdl",
+      "values": [
+        "jamajského",
+        "slovenského",
+        "ruského",
+        "portorického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adam Kajumi",
+      "values": [
+        "jugoslávského",
+        "argentinského",
+        "irského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Homola",
+      "values": [
+        "českého",
+        "irského",
+        "francouzského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Kumžák",
+      "values": [
+        "arménského",
+        "italského",
+        "českého",
+        "izraelského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michael Flatley",
+      "values": [
+        "rakouského",
+        "chorvatského",
+        "španělského",
+        "irského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alex Švamberk",
+      "values": [
+        "českého",
+        "arménského",
+        "jihokorejského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lil Tracy",
+      "values": [
+        "amerického",
+        "irského",
+        "jihoafrického",
+        "arménského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "John Giorno",
+      "values": [
+        "arménského",
+        "slovenského",
+        "polského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Yann Tiersen",
+      "values": [
+        "bulharského",
+        "italského",
+        "španělského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Joe Hisaiši",
+      "values": [
+        "japonského",
+        "indického",
+        "slovenského",
+        "norského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

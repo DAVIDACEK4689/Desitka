@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Tina Turner",
+      "values": [
+        "švýcarskou",
+        "japonskou",
+        "irskou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zuzana Navarová",
+      "values": [
+        "francouzskou",
+        "australskou",
+        "kolumbijskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marcela Holanová",
+      "values": [
+        "francouzskou",
+        "australskou",
+        "finskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Suzi Quatro",
+      "values": [
+        "švédskou",
+        "ruskou",
+        "polskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lucie Černíková",
+      "values": [
+        "indickou",
+        "maďarskou",
+        "českou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ellie Goulding",
+      "values": [
+        "italskou",
+        "polskou",
+        "britskou",
+        "brazilskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Thalía",
+      "values": [
+        "jihokorejskou",
+        "italskou",
+        "ukrajinskou",
+        "mexickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Leighton Meesterová",
+      "values": [
+        "americkou",
+        "mexickou",
+        "barbadoskou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Caroline Polachek",
+      "values": [
+        "uruguayskou",
+        "americkou",
+        "švédskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joan Osborne",
+      "values": [
+        "norskou",
+        "australskou",
+        "maďarskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

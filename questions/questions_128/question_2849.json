@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Poděbrady",
+      "values": [
+        "Labe",
+        "Lužnice",
+        "Don",
+        "Sázava"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Míšeň",
+      "values": [
+        "Eufrat",
+        "Dněpr",
+        "Labe",
+        "Úhlava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chrastava",
+      "values": [
+        "Váha",
+        "Úslava",
+        "Lužická Nisa",
+        "Hron"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vrútky",
+      "values": [
+        "Dunaj",
+        "Inn",
+        "Váha",
+        "Vltava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čerkasy",
+      "values": [
+        "Vltava",
+        "Úslava",
+        "Emže",
+        "Dněpr"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stádlec",
+      "values": [
+        "Lužnice",
+        "Svratka",
+        "Dunaj",
+        "Seina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cikháj",
+      "values": [
+        "Úhlava",
+        "Otava",
+        "Svratka",
+        "Metuje"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Malé Žernoseky",
+      "values": [
+        "Hornád",
+        "Labe",
+        "Lužická Nisa",
+        "Dyje"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hnačov",
+      "values": [
+        "Metuje",
+        "Cidlina",
+        "Něva",
+        "Úslava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Leer",
+      "values": [
+        "Úhlava",
+        "Malše",
+        "Eufrat",
+        "Emže"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

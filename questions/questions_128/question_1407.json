@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte kontinent podle fauny",
+  "questions": [
+    {
+      "key": "Tygr indický",
+      "values": [
+        "Střední Amerika",
+        "Antarktida",
+        "Evropa",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gaviál indický",
+      "values": [
+        "Afrika",
+        "Asie",
+        "Střední Amerika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pes hřivnatý",
+      "values": [
+        "Střední Amerika",
+        "Antarktida",
+        "Evropa",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Makak jávský",
+      "values": [
+        "Severní Amerika",
+        "Evropa",
+        "Asie",
+        "Střední Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Páv zelený",
+      "values": [
+        "Severní Amerika",
+        "Evropa",
+        "Antarktida",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rohatka ozdobná",
+      "values": [
+        "Střední Amerika",
+        "Jižní Amerika",
+        "Asie",
+        "Afrika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mravenečník čtyřprstý",
+      "values": [
+        "Evropa",
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Liška chama",
+      "values": [
+        "Severní Amerika",
+        "Evropa",
+        "Asie",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Krokodýl filipínský",
+      "values": [
+        "Antarktida",
+        "Severní Amerika",
+        "Afrika",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vlasatice třásnitá",
+      "values": [
+        "Asie",
+        "Střední Amerika",
+        "Antarktida",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte město podle české kultury",
+  "questions": [
+    {
+      "key": "Velký strahovský stadion",
+      "values": [
+        "Litvínov",
+        "Český Brod",
+        "Jičín",
+        "Praha"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mňága a Žďorp",
+      "values": [
+        "Valašské Meziříčí",
+        "Nepomuk",
+        "Loštice",
+        "Olomouc"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karlova Koruna",
+      "values": [
+        "Chlumec nad Cidlinou",
+        "Pardubice",
+        "Krnov",
+        "Loštice"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "V Kohoutovicích hořel pařez",
+      "values": [
+        "Litoměřice",
+        "Loštice",
+        "Brno",
+        "Vizovice"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bretschneiderovo ucho",
+      "values": [
+        "Liberec",
+        "Pardubice",
+        "Praha",
+        "Lipnice nad Sázavou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Slezské zemské muzeum",
+      "values": [
+        "Lipnice nad Sázavou",
+        "Český Brod",
+        "Opava",
+        "Mariánská Lázeň"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dittrichova hrobka",
+      "values": [
+        "Krásná Lípa",
+        "Brno",
+        "Česká Lípa",
+        "Litoměřice"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Boheminium",
+      "values": [
+        "Orel",
+        "Kyjov",
+        "Hlinsko",
+        "Mariánská Lázeň"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rodný dům Aloise Jiráska",
+      "values": [
+        "Orel",
+        "Kyjov",
+        "Hronov",
+        "České Budějovice"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Galerie Benedikta Rejta",
+      "values": [
+        "Litvínov",
+        "Hlinsko",
+        "Praha",
+        "Louny"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

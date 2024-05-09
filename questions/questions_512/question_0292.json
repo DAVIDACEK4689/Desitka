@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte britského režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Interstellar",
+      "values": [
+        "Ridley Scott",
+        "Alfred Hitchcock",
+        "Terry Gilliam",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Top Gun",
+      "values": [
+        "Sam Mendes",
+        "John Guillermin",
+        "Stephen Daldry",
+        "Tony Scott"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Skyfall",
+      "values": [
+        "Sam Mendes",
+        "Terry Gilliam",
+        "Paul Greengrass",
+        "Stephen Daldry"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Americká krása",
+      "values": [
+        "Sam Mendes",
+        "Christopher Nolan",
+        "Paul Greengrass",
+        "Ridley Scott"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Billy Elliot",
+      "values": [
+        "Stephen Daldry",
+        "Paul Greengrass",
+        "Sam Mendes",
+        "Alfred Hitchcock"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Blade Runner",
+      "values": [
+        "John Guillermin",
+        "Ridley Scott",
+        "Paul Greengrass",
+        "Alfred Hitchcock"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Černý jestřáb sestřelen",
+      "values": [
+        "John Guillermin",
+        "Paul Greengrass",
+        "Sam Mendes",
+        "Ridley Scott"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Batman začíná",
+      "values": [
+        "Christopher Nolan",
+        "Paul Greengrass",
+        "Tony Scott",
+        "John Guillermin"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Předčítač",
+      "values": [
+        "Stephen Daldry",
+        "Alfred Hitchcock",
+        "Sam Mendes",
+        "Paul Greengrass"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dvanáct opic",
+      "values": [
+        "Paul Greengrass",
+        "Terry Gilliam",
+        "Christopher Nolan",
+        "Sam Mendes"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

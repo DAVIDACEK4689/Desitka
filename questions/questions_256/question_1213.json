@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Pelíšky",
+      "values": [
+        "Karel Kachyňa",
+        "Petr Zelenka",
+        "Jan Hřebejk",
+        "Miloslav Šmídmajer"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "O princezně Jasněnce a létajícím ševci",
+      "values": [
+        "Zdeněk Troška",
+        "Petr Zelenka",
+        "František Vláčil",
+        "Tomáš Vorel"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jak básníci čekají na zázrak",
+      "values": [
+        "Dušan Klein",
+        "Jaromil Jireš",
+        "Jan Prušinovský",
+        "Antonín Moskalyk"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pupendo",
+      "values": [
+        "Martin Horský",
+        "Bořivoj Zeman",
+        "Otakar Vávra",
+        "Jan Hřebejk"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Což takhle dát si špenát",
+      "values": [
+        "Jiří Strach",
+        "Marie Poledňáková",
+        "Zdeněk Troška",
+        "Václav Vorlíček"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Babovřesky 2",
+      "values": [
+        "Karel Zeman",
+        "Roman Vávra",
+        "Zdeněk Troška",
+        "Jan Hřebejk"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tři životy",
+      "values": [
+        "Bohdan Sláma",
+        "Jiří Strach",
+        "Saša Gedeon",
+        "Hynek Bočan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sedmikrásky",
+      "values": [
+        "Bořivoj Zeman",
+        "Věra Chytilová",
+        "Antonín Moskalyk",
+        "Dušan Klein"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nevinnost",
+      "values": [
+        "Filip Renč",
+        "Jaroslav Papoušek",
+        "Jan Hřebejk",
+        "Ondřej Trojan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "O slavnosti a hostech",
+      "values": [
+        "Jan Němec",
+        "Hynek Bočan",
+        "Karel Smyczek",
+        "Karel Kachyňa"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

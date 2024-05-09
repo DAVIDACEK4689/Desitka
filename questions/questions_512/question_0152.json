@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] leteckou společnost?",
+  "questions": [
+    {
+      "key": "Smartwings",
+      "values": [
+        "irskou",
+        "českou",
+        "americkou",
+        "polskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ryanair",
+      "values": [
+        "německou",
+        "katarskou",
+        "nizozemskou",
+        "irskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Wizz Air",
+      "values": [
+        "britskou",
+        "nizozemskou",
+        "rakouskou",
+        "maďarskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lufthansa",
+      "values": [
+        "rakouskou",
+        "německou",
+        "americkou",
+        "českou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "KLM",
+      "values": [
+        "americkou",
+        "nizozemskou",
+        "maďarskou",
+        "českou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lauda Air",
+      "values": [
+        "rakouskou",
+        "americkou",
+        "českou",
+        "katarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "EasyJet",
+      "values": [
+        "českou",
+        "polskou",
+        "nizozemskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Qatar Airways",
+      "values": [
+        "britskou",
+        "maďarskou",
+        "irskou",
+        "katarskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Delta Air Lines",
+      "values": [
+        "českou",
+        "polskou",
+        "maďarskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eurowings",
+      "values": [
+        "americkou",
+        "polskou",
+        "maďarskou",
+        "německou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

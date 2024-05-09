@@ -1,0 +1,105 @@
+{
+  "text": "Určete rok podle televizního filmu",
+  "questions": [
+    {
+      "key": "Krakonošovo tajemství",
+      "values": [
+        "2020",
+        "2001",
+        "1985",
+        "2022"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Princezna a písař",
+      "values": [
+        "2021",
+        "2020",
+        "1998",
+        "2014"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nebojsa",
+      "values": [
+        "1986",
+        "2014",
+        "2023",
+        "1989"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Koloběžka první",
+      "values": [
+        "1980",
+        "2006",
+        "1984",
+        "1986"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Muzikál ze střední",
+      "values": [
+        "1985",
+        "2006",
+        "1980",
+        "2019"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dobře placená procházka",
+      "values": [
+        "2015",
+        "2008",
+        "1966",
+        "2016"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Duch nad zlato",
+      "values": [
+        "1989",
+        "2013",
+        "1993",
+        "2020"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "O chytrém Honzovi",
+      "values": [
+        "1966",
+        "2015",
+        "1993",
+        "1985"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vůně vanilky",
+      "values": [
+        "2002",
+        "1966",
+        "1998",
+        "2007"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Následníci 2",
+      "values": [
+        "2010",
+        "2019",
+        "2017",
+        "2008"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

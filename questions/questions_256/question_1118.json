@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] generála?",
+  "questions": [
+    {
+      "key": "Karel Janoušek",
+      "values": [
+        "československého",
+        "ruského",
+        "německého",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sepp Dietrich",
+      "values": [
+        "bulharského",
+        "polského",
+        "chorvatského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Dzúr",
+      "values": [
+        "československého",
+        "německého",
+        "polského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fedor von Bock",
+      "values": [
+        "slovenského",
+        "finského",
+        "německého",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Radek Hasala",
+      "values": [
+        "francouzského",
+        "českého",
+        "ukrajinského",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bohumír Lomský",
+      "values": [
+        "slovenského",
+        "italského",
+        "rakouského",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Erkinger ze Seinsheimu",
+      "values": [
+        "slovenského",
+        "švédského",
+        "izraelského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Bartík",
+      "values": [
+        "českého",
+        "rumunského",
+        "britského",
+        "finského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ruprecht Bavorský",
+      "values": [
+        "československého",
+        "německého",
+        "ukrajinského",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dietrich von Choltitz",
+      "values": [
+        "polského",
+        "německého",
+        "italského",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

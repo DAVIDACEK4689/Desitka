@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte kontinent podle souostroví",
+  "questions": [
+    {
+      "key": "Kanárské ostrovy",
+      "values": [
+        "Evropa",
+        "Antarktida",
+        "Asie",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Falklandy",
+      "values": [
+        "Afrika",
+        "Jižní Amerika",
+        "Evropa",
+        "Antarktida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Komory",
+      "values": [
+        "Evropa",
+        "Afrika",
+        "Asie",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Země Františka Josefa",
+      "values": [
+        "Antarktida",
+        "Severní Amerika",
+        "Evropa",
+        "Asie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Svatý Vincenc a Grenadiny",
+      "values": [
+        "Jižní Amerika",
+        "Evropa",
+        "Antarktida",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Velké Sundy",
+      "values": [
+        "Asie",
+        "Jižní Amerika",
+        "Severní Amerika",
+        "Antarktida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sundské ostrovy",
+      "values": [
+        "Afrika",
+        "Antarktida",
+        "Asie",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Komandorské ostrovy",
+      "values": [
+        "Asie",
+        "Afrika",
+        "Evropa",
+        "Severní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paracelské ostrovy",
+      "values": [
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Asie",
+        "Antarktida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ostrovy královny Alžběty",
+      "values": [
+        "Severní Amerika",
+        "Asie",
+        "Afrika",
+        "Evropa"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Zachraňte vojína Ryana",
+      "values": [
+        "James Mangold",
+        "Steven Spielberg",
+        "Justin Lin",
+        "Sofia Coppola"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Střihoruký Edward",
+      "values": [
+        "David Lynch",
+        "Wes Craven",
+        "Ben Stiller",
+        "Tim Burton"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Shrek 2",
+      "values": [
+        "Shane Black",
+        "William Wyler",
+        "Kelly Asbury",
+        "Kevin Reynolds"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Skrytá identita",
+      "values": [
+        "Quentin Tarantino",
+        "Darren Aronofsky",
+        "Edward Zwick",
+        "Martin Scorsese"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kmotr III",
+      "values": [
+        "Francis Ford Coppola",
+        "bratři Farrellyové",
+        "Brad Bird",
+        "Ben Stiller"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Simpsonovi ve filmu",
+      "values": [
+        "Stanley Kubrick",
+        "David Silverman",
+        "John Lasseter",
+        "Rob Cohen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sám doma 3",
+      "values": [
+        "McG",
+        "David Fincher",
+        "David Twohy",
+        "Raja Gosnell"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lepší pozdě nežli později",
+      "values": [
+        "Kevin Costner",
+        "Patty Jenkinsová",
+        "Nancy Meyers",
+        "Doug Liman"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nesmiřitelní",
+      "values": [
+        "Patty Jenkinsová",
+        "Clint Eastwood",
+        "Orson Welles",
+        "Jonathan Demme"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hartova válka",
+      "values": [
+        "Nancy Meyers",
+        "Shane Black",
+        "Jay Roach",
+        "Gregory Hoblit"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte téma podle filmu",
+  "questions": [
+    {
+      "key": "Van Helsing",
+      "values": [
+        "spisovatel",
+        "kanibalismus",
+        "romská tematika",
+        "upír"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Na nože",
+      "values": [
+        "pirát",
+        "upír",
+        "hasič",
+        "spisovatel"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rivalové",
+      "values": [
+        "sport",
+        "imigrace",
+        "romská tematika",
+        "hasič"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Orel Eddie",
+      "values": [
+        "automobil",
+        "životní prostředí",
+        "zvíře",
+        "sport"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kokosy na sněhu",
+      "values": [
+        "móda",
+        "automobil",
+        "politik",
+        "sport"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Šest medvědů s Cibulkou",
+      "values": [
+        "sexualita",
+        "pirát",
+        "cirkus",
+        "nemoc"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dva lidi v zoo",
+      "values": [
+        "anděl",
+        "dvojče",
+        "loupež",
+        "nemoc"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Temné stíny",
+      "values": [
+        "hasič",
+        "imigrace",
+        "upír",
+        "kanibalismus"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Muž ve stínu",
+      "values": [
+        "letectví",
+        "imigrace",
+        "skaut",
+        "spisovatel"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Smradi",
+      "values": [
+        "hasič",
+        "cirkus",
+        "životní prostředí",
+        "romská tematika"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

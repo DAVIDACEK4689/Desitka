@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte téma podle filmu",
+  "questions": [
+    {
+      "key": "Dobrý Will Hunting",
+      "values": [
+        "sériový vrah",
+        "učitel",
+        "spisovatel",
+        "nemoc"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Orel Eddie",
+      "values": [
+        "spisovatel",
+        "židovská tematika",
+        "sport",
+        "dvojče"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Muž z oceli",
+      "values": [
+        "policie",
+        "novinář",
+        "vlkodlak",
+        "dvojče"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kult hákového kříže",
+      "values": [
+        "loupež",
+        "skinheads",
+        "herec",
+        "sebevražda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Koyaanisqatsi",
+      "values": [
+        "křesťanská tematika",
+        "židovská tematika",
+        "životní prostředí",
+        "vlkodlak"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Úsměv Mony Lisy",
+      "values": [
+        "politik",
+        "sport",
+        "učitel",
+        "skinheads"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Něžné kuře",
+      "values": [
+        "učitel",
+        "pirát",
+        "cirkus",
+        "zvíře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Koně se také střílejí",
+      "values": [
+        "herec",
+        "hasič",
+        "novinář",
+        "sebevražda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Maratónec",
+      "values": [
+        "křesťanská tematika",
+        "židovská tematika",
+        "upír",
+        "sebevražda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fanny a Alexandr",
+      "values": [
+        "křesťanská tematika",
+        "móda",
+        "učitel",
+        "upír"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

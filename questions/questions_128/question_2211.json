@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle českého sportovce",
+  "questions": [
+    {
+      "key": "Radek Jaroš",
+      "values": [
+        "horolezec",
+        "sportovní střelec",
+        "volejbalista",
+        "skeletonisté"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Radek Martínek",
+      "values": [
+        "stolní tenista",
+        "šermíř",
+        "fotbalista",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Leopold König",
+      "values": [
+        "judista",
+        "kickboxeři",
+        "veslař",
+        "cyklista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Kostelecký",
+      "values": [
+        "bojový umělec",
+        "lyžař",
+        "sportovní střelec",
+        "jezdec"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stanislav Neckář",
+      "values": [
+        "taekwondisté",
+        "lední hokejista",
+        "horolezec",
+        "volejbalista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavel Trčala",
+      "values": [
+        "horolezec",
+        "pozemní hokejista",
+        "ragbista",
+        "rychlostní kanoista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vojtěch Plát",
+      "values": [
+        "taekwondisté",
+        "lyžař",
+        "stolní tenista",
+        "šachista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eduard Novák",
+      "values": [
+        "lední hokejista",
+        "veslař",
+        "šipkaři",
+        "golfista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Palouš",
+      "values": [
+        "taekwondisté",
+        "tenista",
+        "judista",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Lacina",
+      "values": [
+        "fotbalista",
+        "judista",
+        "baseballisté",
+        "šachista"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

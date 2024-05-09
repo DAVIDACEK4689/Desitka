@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte kontinent podle fauny",
+  "questions": [
+    {
+      "key": "Medvěd kodiak",
+      "values": [
+        "Antarktida",
+        "Jižní Amerika",
+        "Severní Amerika",
+        "Asie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hrabáč kapský",
+      "values": [
+        "Afrika",
+        "Jižní Amerika",
+        "Střední Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tuleň leopardí",
+      "values": [
+        "Severní Amerika",
+        "Asie",
+        "Antarktida",
+        "Evropa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Medvěd pyskatý",
+      "values": [
+        "Antarktida",
+        "Asie",
+        "Evropa",
+        "Střední Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Liška pouštní",
+      "values": [
+        "Evropa",
+        "Afrika",
+        "Jižní Amerika",
+        "Asie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Štika muskalunga",
+      "values": [
+        "Afrika",
+        "Jižní Amerika",
+        "Severní Amerika",
+        "Asie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tamarín vousatý",
+      "values": [
+        "Jižní Amerika",
+        "Afrika",
+        "Severní Amerika",
+        "Střední Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomistoma úzkohlavá",
+      "values": [
+        "Antarktida",
+        "Evropa",
+        "Severní Amerika",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Psohlavec orinocký",
+      "values": [
+        "Afrika",
+        "Jižní Amerika",
+        "Antarktida",
+        "Střední Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Varanovec bornejský",
+      "values": [
+        "Jižní Amerika",
+        "Asie",
+        "Evropa",
+        "Severní Amerika"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

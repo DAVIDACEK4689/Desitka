@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Giovanni Boccaccio",
+      "values": [
+        "kolumbijského",
+        "filipínského",
+        "italského",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Friedrich Dürrenmatt",
+      "values": [
+        "malajsijského",
+        "kyrgyzského",
+        "švýcarského",
+        "guatemalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Václav Renč",
+      "values": [
+        "nizozemského",
+        "českého",
+        "polského",
+        "vietnamského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Deepak Chopra",
+      "values": [
+        "malajsijského",
+        "albánského",
+        "indického",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marian Palla",
+      "values": [
+        "českého",
+        "kyrgyzského",
+        "chorvatského",
+        "islandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "August Šenoa",
+      "values": [
+        "polského",
+        "indického",
+        "chorvatského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nikolaj Leskov",
+      "values": [
+        "ruského",
+        "kubánského",
+        "japonského",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paul Leppin",
+      "values": [
+        "estonského",
+        "slovenského",
+        "egyptského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Malcolm Gladwell",
+      "values": [
+        "kyrgyzského",
+        "rakouského",
+        "kanadského",
+        "íránského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Długosz",
+      "values": [
+        "uruguayského",
+        "islandského",
+        "ukrajinského",
+        "polského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

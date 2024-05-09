@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] hudebního producenta?",
+  "questions": [
+    {
+      "key": "Eminem",
+      "values": [
+        "slovenského",
+        "francouzského",
+        "italského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "The Weeknd",
+      "values": [
+        "švédského",
+        "německého",
+        "kanadského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaro Slávik",
+      "values": [
+        "italského",
+        "řeckého",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Loreen",
+      "values": [
+        "slovenského",
+        "kanadského",
+        "švédského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ric Ocasek",
+      "values": [
+        "amerického",
+        "francouzského",
+        "řeckého",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Peterka",
+      "values": [
+        "řeckého",
+        "českého",
+        "francouzského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paulie Garand",
+      "values": [
+        "českého",
+        "švédského",
+        "francouzského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Moby",
+      "values": [
+        "italského",
+        "českého",
+        "amerického",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lou Reed",
+      "values": [
+        "amerického",
+        "francouzského",
+        "slovenského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Adam Levine",
+      "values": [
+        "švédského",
+        "německého",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

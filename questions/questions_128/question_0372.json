@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Na samotě u lesa",
+      "values": [
+        "Bohdan Sláma",
+        "Jaroslav Papoušek",
+        "Jan Prušinovský",
+        "Jiří Menzel"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sněženky a machři",
+      "values": [
+        "Petr Zelenka",
+        "Karel Smyczek",
+        "Karel Steklý",
+        "Saša Gedeon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Probudím se včera",
+      "values": [
+        "Roman Vávra",
+        "Tomáš Vorel",
+        "Svatopluk Innemann",
+        "Miloslav Šmídmajer"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Andělská tvář",
+      "values": [
+        "František Vláčil",
+        "Jaromil Jireš",
+        "Zdeněk Troška",
+        "Jiří Menzel"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Řekni to psem",
+      "values": [
+        "Bořivoj Zeman",
+        "Jan Svěrák",
+        "Tomáš Bařina",
+        "Robert Sedláček"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kam čert nemůže",
+      "values": [
+        "Zdeněk Podskalský",
+        "František Vláčil",
+        "Roman Vávra",
+        "Tomáš Vorel"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dny zrady",
+      "values": [
+        "Otakar Vávra",
+        "Miroslav Sobota",
+        "Jan Prušinovský",
+        "Václav Wasserman"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Plavecký mariáš",
+      "values": [
+        "Jiří Menzel",
+        "Ivan Passer",
+        "Věra Chytilová",
+        "Václav Wasserman"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Straka v hrsti",
+      "values": [
+        "Jaromil Jireš",
+        "Juraj Herz",
+        "Antonín Moskalyk",
+        "Karel Kachyňa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Krajina s nábytkem",
+      "values": [
+        "Miloš Forman",
+        "Ladislav Rychman",
+        "Karel Smyczek",
+        "Otakar Vávra"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

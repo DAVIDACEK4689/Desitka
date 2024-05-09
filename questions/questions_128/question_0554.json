@@ -1,0 +1,105 @@
+{
+  "text": "Určete rok podle televizního filmu",
+  "questions": [
+    {
+      "key": "Tajemství staré bambitky",
+      "values": [
+        "2022",
+        "2006",
+        "2011",
+        "2015"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kouzla králů",
+      "values": [
+        "2015",
+        "2017",
+        "1986",
+        "2008"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Šťastný smolař",
+      "values": [
+        "2008",
+        "2022",
+        "2012",
+        "2023"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tři životy",
+      "values": [
+        "2009",
+        "2023",
+        "2007",
+        "2008"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zázračný nos",
+      "values": [
+        "2016",
+        "2023",
+        "2014",
+        "1984"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Láska rohatá",
+      "values": [
+        "2014",
+        "2009",
+        "1966",
+        "2002"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "O štěstí a kráse",
+      "values": [
+        "2002",
+        "1986",
+        "2007",
+        "2020"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Camp Rock",
+      "values": [
+        "1985",
+        "2022",
+        "2008",
+        "1990"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Shrekoleda",
+      "values": [
+        "2007",
+        "2017",
+        "1986",
+        "2009"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "William a Kate",
+      "values": [
+        "1985",
+        "2017",
+        "2022",
+        "2011"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

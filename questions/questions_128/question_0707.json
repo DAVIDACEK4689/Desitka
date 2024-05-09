@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva u Vídně",
+      "values": [
+        "1683",
+        "1420",
+        "1278",
+        "1742"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Bachmače",
+      "values": [
+        "1918",
+        "1877",
+        "2022",
+        "1938"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva v Korálovém moři",
+      "values": [
+        "1942",
+        "1415",
+        "1619",
+        "1588"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Canburg",
+      "values": [
+        "1968",
+        "805",
+        "1920",
+        "1605"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "První bitva u Yper",
+      "values": [
+        "1242",
+        "533",
+        "1278",
+        "1914"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "První bitva u El Alameinu",
+      "values": [
+        "1995",
+        "1014",
+        "1812",
+        "1942"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Ayacucha",
+      "values": [
+        "1798",
+        "1415",
+        "1525",
+        "1824"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Baltická operace",
+      "values": [
+        "1453",
+        "1527",
+        "1944",
+        "1939"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Ceru",
+      "values": [
+        "1945",
+        "1993",
+        "1914",
+        "1297"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Uherského Ostrohu",
+      "values": [
+        "1433",
+        "1332",
+        "1920",
+        "1421"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

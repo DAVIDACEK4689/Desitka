@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Red 2",
+      "values": [
+        "Dean Parisot",
+        "bratři Coenové",
+        "Kevin Costner",
+        "Justin Lin"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Indiana Jones a království křišťálové lebky",
+      "values": [
+        "Noah Baumbach",
+        "Keenen Ivory Wayans",
+        "Steven Spielberg",
+        "Brian De Palma"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Polární expres",
+      "values": [
+        "Patty Jenkinsová",
+        "Robert Zemeckis",
+        "Robert Wise",
+        "Robert Rodriguez"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lásky jedné plavovlásky",
+      "values": [
+        "Miloš Forman",
+        "Todd Phillips",
+        "John Badham",
+        "Martin Scorsese"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fotr je lotr",
+      "values": [
+        "Patty Jenkinsová",
+        "Gregory Hoblit",
+        "Alfred Hitchcock",
+        "Jay Roach"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Iron Man 3",
+      "values": [
+        "Richard Kelly",
+        "Shane Black",
+        "Gregory Hoblit",
+        "George Roy Hill"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zoolander",
+      "values": [
+        "Woody Allen",
+        "Ben Stiller",
+        "McG",
+        "Nancy Meyers"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Temné stíny",
+      "values": [
+        "Robert Benton",
+        "Jonathan Demme",
+        "Stanley Kubrick",
+        "Tim Burton"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tenká červená linie",
+      "values": [
+        "Tim Burton",
+        "Fritz Lang",
+        "Kelly Asbury",
+        "Terrence Malick"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Koyaanisqatsi",
+      "values": [
+        "Martin Scorsese",
+        "Godfrey Reggio",
+        "David Fincher",
+        "Alan Taylor"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

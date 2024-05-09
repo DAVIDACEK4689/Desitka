@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] ateistu?",
+  "questions": [
+    {
+      "key": "Angelina Jolie",
+      "values": [
+        "bulharského",
+        "mexického",
+        "finského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jurij Andropov",
+      "values": [
+        "německého",
+        "italského",
+        "ruského",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eva Greenová",
+      "values": [
+        "ruského",
+        "gruzínského",
+        "francouzského",
+        "běloruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Diego Rivera",
+      "values": [
+        "slovinského",
+        "německého",
+        "mexického",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "William James Sidis",
+      "values": [
+        "bulharského",
+        "chilského",
+        "židovského",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michail Alexandrovič Bakunin",
+      "values": [
+        "islandského",
+        "dánského",
+        "ruského",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dave Lombardo",
+      "values": [
+        "českého",
+        "bulharského",
+        "amerického",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Artur Axmann",
+      "values": [
+        "mexického",
+        "belgického",
+        "ruského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Cronenberg",
+      "values": [
+        "indického",
+        "kanadského",
+        "německého",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Daniel Dennett",
+      "values": [
+        "italského",
+        "kubánského",
+        "amerického",
+        "švédského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

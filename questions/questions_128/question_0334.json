@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte režisérku podle filmu",
+  "questions": [
+    {
+      "key": "Dědictví aneb Kurvahošigutntag",
+      "values": [
+        "Sofia Coppola",
+        "Nancy Meyers",
+        "Věra Chytilová",
+        "Nora Ephronová"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Americké psycho",
+      "values": [
+        "Věra Chytilová",
+        "Agnieszka Hollandová",
+        "Nora Ephronová",
+        "Mary Harronová"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Líbáš jako Bůh",
+      "values": [
+        "Věra Chytilová",
+        "Marie Poledňáková",
+        "Joan Chen",
+        "Patty Jenkinsová"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lepší pozdě nežli později",
+      "values": [
+        "Nancy Meyers",
+        "Chloé Zhaová",
+        "Martha Coolidge",
+        "Kathryn Bigelowová"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kotva u přívozu",
+      "values": [
+        "Alice Nellis",
+        "Catherine Hardwicke",
+        "Marie Poledňáková",
+        "Patty Jenkinsová"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Triumf vůle",
+      "values": [
+        "Agnieszka Hollandová",
+        "Nora Ephronová",
+        "Leni Riefenstahlová",
+        "Kathryn Bigelowová"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hra o jablko",
+      "values": [
+        "Joan Chen",
+        "Chloé Zhaová",
+        "Věra Chytilová",
+        "Nora Ephronová"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Panelstory",
+      "values": [
+        "Agnieszka Hollandová",
+        "Marie Poledňáková",
+        "Věra Chytilová",
+        "Sofia Coppola"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Princ a já",
+      "values": [
+        "Nancy Meyers",
+        "Catherine Hardwicke",
+        "Sofia Coppola",
+        "Martha Coolidge"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Julie a Julia",
+      "values": [
+        "Joan Chen",
+        "Nora Ephronová",
+        "Agnieszka Hollandová",
+        "Kathryn Bigelowová"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

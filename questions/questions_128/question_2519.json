@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Sasanka",
+      "values": [
+        "Austrálie",
+        "Nový Zéland",
+        "Brazílie",
+        "Japonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Juvie ztepilá",
+      "values": [
+        "Japonsko",
+        "Brazílie",
+        "Nový Zéland",
+        "Mongolsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Šrucha",
+      "values": [
+        "Austrálie",
+        "Mexiko",
+        "Mongolsko",
+        "Brazílie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Soterek obecný",
+      "values": [
+        "Madagaskar",
+        "Japonsko",
+        "Nový Zéland",
+        "Austrálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jedovatec kořenující",
+      "values": [
+        "Česko",
+        "Madagaskar",
+        "Mexiko",
+        "Brazílie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dřín květnatý",
+      "values": [
+        "Česko",
+        "Austrálie",
+        "Mexiko",
+        "Madagaskar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pěťour srstnatý",
+      "values": [
+        "Česko",
+        "Brazílie",
+        "Nový Zéland",
+        "Austrálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kociánek dvoudomý",
+      "values": [
+        "Mexiko",
+        "Austrálie",
+        "Mongolsko",
+        "Madagaskar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lofofora",
+      "values": [
+        "Japonsko",
+        "Mongolsko",
+        "Mexiko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Černýš luční",
+      "values": [
+        "Nový Zéland",
+        "Česko",
+        "Brazílie",
+        "Madagaskar"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

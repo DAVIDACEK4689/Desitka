@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Nuuk",
+      "values": [
+        "Grónsko",
+        "Východní Timor",
+        "Myanmar",
+        "Komora"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Akaba",
+      "values": [
+        "Maďarsko",
+        "Kapverdy",
+        "Jordánsko",
+        "Srí Lanka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Windhoek",
+      "values": [
+        "Namibie",
+        "Jordánsko",
+        "Gabon",
+        "Vietnam"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fukušima",
+      "values": [
+        "Japonsko",
+        "Mosambik",
+        "Norsko",
+        "Bhútán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sisak",
+      "values": [
+        "Japonsko",
+        "Chorvatsko",
+        "Černá Hora",
+        "Gambie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pori",
+      "values": [
+        "Turkmenistán",
+        "Libérie",
+        "Finsko",
+        "Bulharsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bela Crkva",
+      "values": [
+        "Srbsko",
+        "Kamerun",
+        "Chorvatsko",
+        "Myanmar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mardin",
+      "values": [
+        "Bolívie",
+        "Pero",
+        "Švýcarsko",
+        "Turecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Šumen",
+      "values": [
+        "Abcházie",
+        "Vanuatu",
+        "Kiribati",
+        "Bulharsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Târgu Jiu",
+      "values": [
+        "Rumunsko",
+        "Bolívie",
+        "Estonsko",
+        "Ukrajina"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

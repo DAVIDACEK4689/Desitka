@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Buk lesní",
+      "values": [
+        "Brazílie",
+        "Austrálie",
+        "Česko",
+        "Japonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cypřiš",
+      "values": [
+        "Česko",
+        "Austrálie",
+        "Mexiko",
+        "Madagaskar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bolševník obecný",
+      "values": [
+        "Mexiko",
+        "Austrálie",
+        "Česko",
+        "Mongolsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Klokoč",
+      "values": [
+        "Mongolsko",
+        "Japonsko",
+        "Brazílie",
+        "Mexiko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pcháč",
+      "values": [
+        "Brazílie",
+        "Česko",
+        "Mongolsko",
+        "Japonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chrpa horská",
+      "values": [
+        "Mexiko",
+        "Česko",
+        "Nový Zéland",
+        "Austrálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kapustka obecná",
+      "values": [
+        "Japonsko",
+        "Brazílie",
+        "Mexiko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oreláník barvířský",
+      "values": [
+        "Nový Zéland",
+        "Mexiko",
+        "Japonsko",
+        "Brazílie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Opuč",
+      "values": [
+        "Mexiko",
+        "Mongolsko",
+        "Brazílie",
+        "Austrálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rozchodnice",
+      "values": [
+        "Mongolsko",
+        "Madagaskar",
+        "Brazílie",
+        "Česko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

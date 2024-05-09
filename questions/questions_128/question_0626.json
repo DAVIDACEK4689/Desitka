@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] letadlovou loď?",
+  "questions": [
+    {
+      "key": "Třída Nimitz",
+      "values": [
+        "indickou",
+        "americkou",
+        "thajskou",
+        "tureckou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Třída Essex",
+      "values": [
+        "tureckou",
+        "americkou",
+        "indickou",
+        "thajskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "INS Vikramaditya",
+      "values": [
+        "americkou",
+        "thajskou",
+        "japonskou",
+        "indickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hirjú",
+      "values": [
+        "americkou",
+        "indickou",
+        "japonskou",
+        "tureckou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "TCG Anadolu",
+      "values": [
+        "americkou",
+        "indickou",
+        "tureckou",
+        "thajskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Třída Kitty Hawk",
+      "values": [
+        "americkou",
+        "indickou",
+        "thajskou",
+        "japonskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Třída Midway",
+      "values": [
+        "indickou",
+        "tureckou",
+        "americkou",
+        "thajskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sórjú",
+      "values": [
+        "americkou",
+        "japonskou",
+        "tureckou",
+        "indickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zuikaku",
+      "values": [
+        "americkou",
+        "thajskou",
+        "japonskou",
+        "tureckou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Třída Forrestal",
+      "values": [
+        "tureckou",
+        "indickou",
+        "americkou",
+        "thajskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

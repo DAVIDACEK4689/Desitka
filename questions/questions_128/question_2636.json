@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Zuzana Norisová",
+      "values": [
+        "izraelskou",
+        "slovenskou",
+        "peruánskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mireille Mathieu",
+      "values": [
+        "francouzskou",
+        "moldavskou",
+        "uruguayskou",
+        "japonskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jarmila Šuláková",
+      "values": [
+        "slovenskou",
+        "barbadoskou",
+        "českou",
+        "kubánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Linda Perry",
+      "values": [
+        "švýcarskou",
+        "japonskou",
+        "barbadoskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Maryla Rodowicz",
+      "values": [
+        "polskou",
+        "francouzskou",
+        "peruánskou",
+        "izraelskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Izabella Scorupco",
+      "values": [
+        "srbskou",
+        "izraelskou",
+        "polskou",
+        "řeckou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Astrud Gilberto",
+      "values": [
+        "brazilskou",
+        "španělskou",
+        "polskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Laura Pausini",
+      "values": [
+        "chorvatskou",
+        "ruskou",
+        "finskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kate Pierson",
+      "values": [
+        "izraelskou",
+        "indickou",
+        "americkou",
+        "peruánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marija Šerifovićová",
+      "values": [
+        "nizozemskou",
+        "srbskou",
+        "francouzskou",
+        "švédskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

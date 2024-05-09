@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] svatého?",
+  "questions": [
+    {
+      "key": "Jan Nepomucký",
+      "values": [
+        "českého",
+        "anglického",
+        "arménského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Svatý Vavřinec",
+      "values": [
+        "španělského",
+        "súdánského",
+        "mexického",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Svatá Klára",
+      "values": [
+        "českého",
+        "francouzského",
+        "peruánského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Olga Nikolajevna",
+      "values": [
+        "irského",
+        "arménského",
+        "rakouského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimír Petřek",
+      "values": [
+        "ruského",
+        "rakouského",
+        "českého",
+        "libanonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anaklét",
+      "values": [
+        "rakouského",
+        "súdánského",
+        "polského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Francisco a Jacinta Marto",
+      "values": [
+        "belgického",
+        "portugalského",
+        "francouzského",
+        "anglického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Anicetus",
+      "values": [
+        "ugandského",
+        "ruského",
+        "arménského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Svatý Kolumba",
+      "values": [
+        "skotského",
+        "ukrajinského",
+        "peruánského",
+        "arménského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin de Porres",
+      "values": [
+        "peruánského",
+        "řeckého",
+        "arménského",
+        "italského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

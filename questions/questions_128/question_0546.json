@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle etnické skupiny",
+  "questions": [
+    {
+      "key": "Němci",
+      "values": [
+        "Thajsko",
+        "Pákistán",
+        "Rusko",
+        "Myanmar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zulové",
+      "values": [
+        "Srbsko",
+        "Jihoafrická republika",
+        "Mongolsko",
+        "Egypt"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Italové",
+      "values": [
+        "Mongolsko",
+        "Nepál",
+        "Brazílie",
+        "Slovinsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Indové",
+      "values": [
+        "Nepál",
+        "Singapur",
+        "Egypt",
+        "Thajsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gruzíni",
+      "values": [
+        "Francie",
+        "Rusko",
+        "Srbsko",
+        "Austrálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Králováci",
+      "values": [
+        "Česko",
+        "Nigérie",
+        "Írán",
+        "Turecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mordvinci",
+      "values": [
+        "Rusko",
+        "Srí Lanka",
+        "Afghánistán",
+        "Rwanda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bretonci",
+      "values": [
+        "Francie",
+        "Polsko",
+        "Etiopie",
+        "Španělsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marijci",
+      "values": [
+        "Kambodža",
+        "Izrael",
+        "Rusko",
+        "Keňa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bororové",
+      "values": [
+        "Brazílie",
+        "Austrálie",
+        "Švýcarsko",
+        "Francie"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

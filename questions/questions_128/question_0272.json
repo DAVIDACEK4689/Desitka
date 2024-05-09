@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle prezidenta",
+  "questions": [
+    {
+      "key": "Petr Pavel",
+      "values": [
+        "Alžírsko",
+        "Estonsko",
+        "Dominikánská republika",
+        "Česká republika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lech Kaczyński",
+      "values": [
+        "Mongolsko",
+        "Albánie",
+        "Irsko",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bronisław Komorowski",
+      "values": [
+        "Bulharsko",
+        "Rumunsko",
+        "Kyrgyzstán",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marcelo Rebelo de Sousa",
+      "values": [
+        "Portugalsko",
+        "Rusko",
+        "Slovinsko",
+        "Mosambik"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alar Karis",
+      "values": [
+        "Česká republika",
+        "Estonsko",
+        "Lotyšsko",
+        "Pákistán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vincent Auriol",
+      "values": [
+        "Francie",
+        "Somálsko",
+        "Ázerbájdžán",
+        "Nikaragua"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ibrahim Rugova",
+      "values": [
+        "Guatemala",
+        "Kosovo",
+        "Libanon",
+        "Brazílie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Carlo Azeglio Ciampi",
+      "values": [
+        "Vietnam",
+        "Venezuela",
+        "Lotyšsko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Konstantínos Karamanlís",
+      "values": [
+        "Turkmenistán",
+        "Řecko",
+        "Albánie",
+        "Litva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dalia Grybauskaitė",
+      "values": [
+        "Libanon",
+        "Turkmenistán",
+        "Ukrajina",
+        "Litva"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle souostroví",
+  "questions": [
+    {
+      "key": "Kanárské ostrovy",
+      "values": [
+        "Austrálie",
+        "Finsko",
+        "Řecko",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Azory",
+      "values": [
+        "Španělsko",
+        "Finsko",
+        "Portugalsko",
+        "Austrálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Špicberky",
+      "values": [
+        "Norsko",
+        "Argentina",
+        "Řecko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Galapágy",
+      "values": [
+        "Ekvádor",
+        "Spojené království",
+        "Argentina",
+        "Finsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Falklandy",
+      "values": [
+        "Spojené království",
+        "Austrálie",
+        "Finsko",
+        "Španělsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Santorini",
+      "values": [
+        "Argentina",
+        "Spojené království",
+        "Španělsko",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Baleáry",
+      "values": [
+        "Španělsko",
+        "Austrálie",
+        "Řecko",
+        "Finsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pitcairnovy ostrovy",
+      "values": [
+        "Spojené království",
+        "Norsko",
+        "Řecko",
+        "Argentina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ohňová země",
+      "values": [
+        "Portugalsko",
+        "Argentina",
+        "Ekvádor",
+        "Norsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alandy",
+      "values": [
+        "Ekvádor",
+        "Finsko",
+        "Nový Zéland",
+        "Austrálie"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

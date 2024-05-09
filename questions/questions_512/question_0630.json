@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Julia Robertsová",
+      "values": [
+        "americkou",
+        "švýcarskou",
+        "brazilskou",
+        "dánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lela Vémola",
+      "values": [
+        "českou",
+        "slovenskou",
+        "americkou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lejla Abbasová",
+      "values": [
+        "irskou",
+        "českou",
+        "britskou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tereza Maxová",
+      "values": [
+        "rakouskou",
+        "českou",
+        "argentinskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dominika Myslivcová",
+      "values": [
+        "argentinskou",
+        "dánskou",
+        "českou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petra Němcová",
+      "values": [
+        "ruskou",
+        "českou",
+        "izraelskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Brenda Song",
+      "values": [
+        "ruskou",
+        "argentinskou",
+        "jihoafrickou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lady Hamiltonová",
+      "values": [
+        "kanadskou",
+        "dánskou",
+        "britskou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Natálie Kotková",
+      "values": [
+        "americkou",
+        "irskou",
+        "českou",
+        "dánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Martina Stoessel",
+      "values": [
+        "britskou",
+        "dánskou",
+        "irskou",
+        "argentinskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

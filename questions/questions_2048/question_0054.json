@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] aktivistu?",
+  "questions": [
+    {
+      "key": "Jindřich Rajchl",
+      "values": [
+        "ruského",
+        "jihoafrického",
+        "indického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "George Orwell",
+      "values": [
+        "indického",
+        "českého",
+        "ruského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Charlie Sheen",
+      "values": [
+        "amerického",
+        "slovenského",
+        "francouzského",
+        "indického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vendula Pizingerová",
+      "values": [
+        "českého",
+        "indického",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lewis Hamilton",
+      "values": [
+        "britského",
+        "italského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karolina Světlá",
+      "values": [
+        "francouzského",
+        "slovenského",
+        "českého",
+        "jihoafrického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stephen King",
+      "values": [
+        "britského",
+        "jihoafrického",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Claudia Cardinalová",
+      "values": [
+        "italského",
+        "německého",
+        "indického",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Matka Tereza",
+      "values": [
+        "německého",
+        "indického",
+        "slovenského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ben Affleck",
+      "values": [
+        "českého",
+        "britského",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

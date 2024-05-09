@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte skladatele podle opery",
+  "questions": [
+    {
+      "key": "Kouzelná flétna",
+      "values": [
+        "Wolfgang Amadeus Mozart",
+        "Richard Wagner",
+        "Richard Strauss",
+        "Georg Friedrich Händel"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Její pastorkyňa",
+      "values": [
+        "Leoš Janáček",
+        "Antonín Dvořák",
+        "Bedřich Smetana",
+        "Georg Friedrich Händel"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Prsten Nibelungův",
+      "values": [
+        "Richard Wagner",
+        "Wolfgang Amadeus Mozart",
+        "Antonín Dvořák",
+        "Georg Friedrich Händel"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Così fan tutte",
+      "values": [
+        "Ludwig van Beethoven",
+        "Georg Friedrich Händel",
+        "Richard Strauss",
+        "Wolfgang Amadeus Mozart"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lohengrin",
+      "values": [
+        "Richard Wagner",
+        "Leoš Janáček",
+        "Antonín Dvořák",
+        "Ludwig van Beethoven"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tannhäuser",
+      "values": [
+        "Georg Friedrich Händel",
+        "Antonín Dvořák",
+        "Richard Wagner",
+        "Leoš Janáček"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fidelio",
+      "values": [
+        "Antonín Dvořák",
+        "Georg Friedrich Händel",
+        "Ludwig van Beethoven",
+        "Richard Strauss"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Růžový kavalír",
+      "values": [
+        "Richard Wagner",
+        "Antonín Dvořák",
+        "Bedřich Smetana",
+        "Richard Strauss"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Káťa Kabanová",
+      "values": [
+        "Ludwig van Beethoven",
+        "Leoš Janáček",
+        "Bedřich Smetana",
+        "Wolfgang Amadeus Mozart"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zlato Rýna",
+      "values": [
+        "Richard Strauss",
+        "Bedřich Smetana",
+        "Richard Wagner",
+        "Wolfgang Amadeus Mozart"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

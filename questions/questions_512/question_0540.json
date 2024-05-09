@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filozofa?",
+  "questions": [
+    {
+      "key": "Sókratés",
+      "values": [
+        "dánského",
+        "řeckého",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Patočka",
+      "values": [
+        "ruského",
+        "amerického",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anna Hogenová",
+      "values": [
+        "slovenského",
+        "slovinského",
+        "perského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Arthur Schopenhauer",
+      "values": [
+        "ruského",
+        "dánského",
+        "německého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Erasmus Rotterdamský",
+      "values": [
+        "českého",
+        "nizozemského",
+        "amerického",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bernard Bolzano",
+      "values": [
+        "nizozemského",
+        "českého",
+        "francouzského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Charles Louis Montesquieu",
+      "values": [
+        "francouzského",
+        "rakouského",
+        "českého",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rabíndranáth Thákur",
+      "values": [
+        "indického",
+        "francouzského",
+        "ruského",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexandr Dugin",
+      "values": [
+        "ruského",
+        "slovenského",
+        "indického",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Carlos Castaneda",
+      "values": [
+        "britského",
+        "rakouského",
+        "amerického",
+        "indického"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Melta",
+      "values": [
+        "českou",
+        "ukrajinskou",
+        "arménskou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Svíčková na smetaně",
+      "values": [
+        "mexickou",
+        "českou",
+        "anglickou",
+        "vietnamskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Minestrone",
+      "values": [
+        "německou",
+        "středomořskou",
+        "italskou",
+        "ruskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gazpacho",
+      "values": [
+        "balkánskou",
+        "španělskou",
+        "islandskou",
+        "italskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Katův šleh",
+      "values": [
+        "vietnamskou",
+        "tureckou",
+        "českou",
+        "maďarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Holandská omáčka",
+      "values": [
+        "francouzskou",
+        "belgickou",
+        "arménskou",
+        "indickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Frappé",
+      "values": [
+        "tureckou",
+        "řeckou",
+        "chorvatskou",
+        "australskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stoleté vejce",
+      "values": [
+        "portugalskou",
+        "čínskou",
+        "řeckou",
+        "švýcarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Raclette",
+      "values": [
+        "britskou",
+        "českou",
+        "maďarskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pappardelle",
+      "values": [
+        "chorvatskou",
+        "japonskou",
+        "balkánskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

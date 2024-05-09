@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] televizní stanici?",
+  "questions": [
+    {
+      "key": "FTV Prima",
+      "values": [
+        "finskou",
+        "japonskou",
+        "norskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "MTV",
+      "values": [
+        "americkou",
+        "ruskou",
+        "polskou",
+        "finskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nova Lady",
+      "values": [
+        "americkou",
+        "finskou",
+        "britskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Public Broadcasting Service",
+      "values": [
+        "italskou",
+        "americkou",
+        "německou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Prima Zoom",
+      "values": [
+        "slovenskou",
+        "českou",
+        "německou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Barrandov Krimi",
+      "values": [
+        "českou",
+        "japonskou",
+        "polskou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Yleisradio",
+      "values": [
+        "finskou",
+        "polskou",
+        "ruskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "NRK",
+      "values": [
+        "finskou",
+        "norskou",
+        "britskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nova TV",
+      "values": [
+        "finskou",
+        "kanadskou",
+        "chorvatskou",
+        "českou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Seoul Broadcasting System",
+      "values": [
+        "jihokorejskou",
+        "italskou",
+        "kanadskou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

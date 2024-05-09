@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Linda Bartošová",
+      "values": [
+        "německou",
+        "švédskou",
+        "britskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Iveta Maurerová",
+      "values": [
+        "jihoafrickou",
+        "ruskou",
+        "slovenskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Anna Kurnikovová",
+      "values": [
+        "ruskou",
+        "japonskou",
+        "australskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Barbara Palvinová",
+      "values": [
+        "izraelskou",
+        "venezuelskou",
+        "irskou",
+        "maďarskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petra Faltýnová",
+      "values": [
+        "českou",
+        "britskou",
+        "indickou",
+        "dánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Shannon Elizabeth",
+      "values": [
+        "americkou",
+        "českou",
+        "italskou",
+        "izraelskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Patricia Velásquezová",
+      "values": [
+        "brazilskou",
+        "rakouskou",
+        "indickou",
+        "venezuelskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ali Larter",
+      "values": [
+        "argentinskou",
+        "ruskou",
+        "brazilskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lea Šteflíčková",
+      "values": [
+        "nizozemskou",
+        "českou",
+        "britskou",
+        "indickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cassie",
+      "values": [
+        "švédskou",
+        "australskou",
+        "italskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

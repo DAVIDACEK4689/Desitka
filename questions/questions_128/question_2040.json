@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Tomáš Ujfaluši",
+      "values": [
+        "portugalského",
+        "českého",
+        "černohorského",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stanislav Tecl",
+      "values": [
+        "kolumbijského",
+        "tožského",
+        "brazilského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Keylor Navas",
+      "values": [
+        "ruského",
+        "anglického",
+        "argentinského",
+        "kostarického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Philippe Coutinho",
+      "values": [
+        "dánského",
+        "gambijského",
+        "kolumbijského",
+        "brazilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Léonard Kweuke",
+      "values": [
+        "československého",
+        "srbského",
+        "kostarického",
+        "kamerunského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Matthijs de Ligt",
+      "values": [
+        "španělského",
+        "švýcarského",
+        "polského",
+        "nizozemského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dries Mertens",
+      "values": [
+        "belgického",
+        "rumunského",
+        "švýcarského",
+        "severoirského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Günter Bittengel",
+      "values": [
+        "peruánského",
+        "portugalského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Vácha",
+      "values": [
+        "peruánského",
+        "českého",
+        "uruguayského",
+        "černohorského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nicolò Barella",
+      "values": [
+        "ukrajinského",
+        "sovětského",
+        "ghanského",
+        "italského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

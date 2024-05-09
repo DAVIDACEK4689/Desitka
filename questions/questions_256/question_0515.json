@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebníka?",
+  "questions": [
+    {
+      "key": "Jordan Haj",
+      "values": [
+        "chorvatského",
+        "řeckého",
+        "jamajského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vít Rotter",
+      "values": [
+        "českého",
+        "kanadského",
+        "britského",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kylie Minogue",
+      "values": [
+        "arménského",
+        "australského",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Serj Tankian",
+      "values": [
+        "německého",
+        "arménského",
+        "chorvatského",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ladislav Jakl",
+      "values": [
+        "jamajského",
+        "německého",
+        "rumunského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Skrillex",
+      "values": [
+        "francouzského",
+        "amerického",
+        "nizozemského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Angelo Michajlov",
+      "values": [
+        "indického",
+        "bulharského",
+        "českého",
+        "jihokorejského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Pavka",
+      "values": [
+        "řeckého",
+        "jugoslávského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Věrka Serďučka",
+      "values": [
+        "španělského",
+        "nizozemského",
+        "rakouského",
+        "ukrajinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roger Scruton",
+      "values": [
+        "arménského",
+        "indického",
+        "britského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

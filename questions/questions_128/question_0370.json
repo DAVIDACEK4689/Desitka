@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Dívka na koštěti",
+      "values": [
+        "Filip Renč",
+        "Jan Švankmajer",
+        "Václav Vorlíček",
+        "Jan Svěrák"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čertoviny",
+      "values": [
+        "Hynek Bočan",
+        "Ladislav Smoljak",
+        "Antonín Moskalyk",
+        "Zdeněk Troška"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Upír z Feratu",
+      "values": [
+        "Juraj Herz",
+        "Karel Lamač",
+        "Jan Svěrák",
+        "Václav Wasserman"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Krajina ve stínu",
+      "values": [
+        "Tomáš Vorel",
+        "Saša Gedeon",
+        "Ondřej Trojan",
+        "Bohdan Sláma"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Šest medvědů s Cibulkou",
+      "values": [
+        "Oldřich Lipský",
+        "David Ondříček",
+        "Roman Vávra",
+        "Bohdan Sláma"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Partie krásného dragouna",
+      "values": [
+        "Jan Schmidt",
+        "Václav Vorlíček",
+        "Jiří Sequens",
+        "Zdeněk Zelenka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Duch nad zlato",
+      "values": [
+        "Jindřich Honzl",
+        "Zdeněk Zelenka",
+        "Ladislav Rychman",
+        "Saša Gedeon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Madla zpívá Evropě",
+      "values": [
+        "Zbyněk Brynych",
+        "Jan Schmidt",
+        "Filip Renč",
+        "Václav Binovec"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Druhý tah pěšcem",
+      "values": [
+        "Karel Zeman",
+        "Petr Jákl",
+        "Zdeněk Tyc",
+        "Vít Olmer"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dnes naposled",
+      "values": [
+        "Jindřich Honzl",
+        "Tomáš Bařina",
+        "Jindřich Polák",
+        "Martin Frič"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

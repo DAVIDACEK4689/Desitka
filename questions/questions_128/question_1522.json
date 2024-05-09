@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte sport podle československého sportovce",
+  "questions": [
+    {
+      "key": "Luděk Čajka",
+      "values": [
+        "lední hokejista",
+        "kajakář",
+        "akrobatický letec",
+        "biatlonista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Klapáč",
+      "values": [
+        "fotbalista",
+        "vodní lyžař",
+        "šachista",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Kalous",
+      "values": [
+        "zápasník",
+        "vodní lyžař",
+        "veslař",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ivan Hodáč",
+      "values": [
+        "jezdec",
+        "lední hokejista",
+        "tenista",
+        "automobilový závodník"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Milan Vopička",
+      "values": [
+        "jezdec",
+        "biatlonista",
+        "tenista",
+        "atlet"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jozef Čapla",
+      "values": [
+        "atlet",
+        "basketbalista",
+        "lední hokejista",
+        "jezdec"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Milan Kajkl",
+      "values": [
+        "lední hokejista",
+        "atlet",
+        "horolezec",
+        "tenista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Látal",
+      "values": [
+        "lední hokejista",
+        "plavec",
+        "volejbalista",
+        "pozemní hokejista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Bušek",
+      "values": [
+        "fotbalista",
+        "atlet",
+        "judista",
+        "akrobatický letec"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Otoupalík",
+      "values": [
+        "plavec",
+        "lední hokejista",
+        "veslař",
+        "šachista"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

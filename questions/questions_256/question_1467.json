@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Vladimír Šmicer",
+      "values": [
+        "českého",
+        "československého",
+        "italského",
+        "tureckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David de Gea",
+      "values": [
+        "alžírského",
+        "slovenského",
+        "španělského",
+        "brazilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Rajnoch",
+      "values": [
+        "českého",
+        "ukrajinského",
+        "chilského",
+        "albánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Arjen Robben",
+      "values": [
+        "nizozemského",
+        "srbského",
+        "slovinského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zdeněk Ondrášek",
+      "values": [
+        "italského",
+        "nizozemského",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Villa",
+      "values": [
+        "sovětského",
+        "ghanského",
+        "kamerunského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Darwin Núñez",
+      "values": [
+        "uruguayského",
+        "srbského",
+        "japonského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paul Gascoigne",
+      "values": [
+        "australského",
+        "anglického",
+        "rumunského",
+        "gruzínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Arturo Vidal",
+      "values": [
+        "dánského",
+        "chilského",
+        "rumunského",
+        "marockého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Olexandr Zinčenko",
+      "values": [
+        "argentinského",
+        "ukrajinského",
+        "italského",
+        "gambijského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

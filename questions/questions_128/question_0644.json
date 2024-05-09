@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Simona Krainová",
+      "values": [
+        "irskou",
+        "českou",
+        "španělskou",
+        "kolumbijskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vlasta Fialová",
+      "values": [
+        "maďarskou",
+        "českou",
+        "americkou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Monika Hálová",
+      "values": [
+        "uruguayskou",
+        "italskou",
+        "brazilskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mariska Hargitay",
+      "values": [
+        "švýcarskou",
+        "australskou",
+        "americkou",
+        "švédskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gabriela Filippi",
+      "values": [
+        "argentinskou",
+        "španělskou",
+        "bulharskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vlasta Matulová",
+      "values": [
+        "americkou",
+        "kubánskou",
+        "českou",
+        "brazilskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stanislava Coufalová",
+      "values": [
+        "českou",
+        "tureckou",
+        "kubánskou",
+        "rakouskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Inbar Lavi",
+      "values": [
+        "bermudskou",
+        "izraelskou",
+        "chorvatskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexa Davalos",
+      "values": [
+        "slovenskou",
+        "kolumbijskou",
+        "argentinskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Debora Caprioglio",
+      "values": [
+        "českou",
+        "italskou",
+        "belgickou",
+        "uzbeckou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

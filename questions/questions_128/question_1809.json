@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] šlechtice?",
+  "questions": [
+    {
+      "key": "Karel starší ze Žerotína",
+      "values": [
+        "rakouského",
+        "ruského",
+        "polského",
+        "moravského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Theobald Czernin",
+      "values": [
+        "monackého",
+        "českého",
+        "ruského",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Albert von Thurn und Taxis",
+      "values": [
+        "španělského",
+        "albánského",
+        "německého",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Milota z Dědic",
+      "values": [
+        "nizozemského",
+        "britského",
+        "uherského",
+        "moravského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Diviš z Talmberka",
+      "values": [
+        "českého",
+        "ruského",
+        "rakouského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Diviš Černín z Chudenic",
+      "values": [
+        "monackého",
+        "českého",
+        "švédského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sebastião José de Carvalho e Melo",
+      "values": [
+        "rakouského",
+        "italského",
+        "nizozemského",
+        "portugalského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Wolfgang von Kempelen",
+      "values": [
+        "španělského",
+        "rakouského",
+        "uherského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bernadette Chiracová",
+      "values": [
+        "moravského",
+        "chorvatského",
+        "francouzského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alfred Montenuovo",
+      "values": [
+        "slezského",
+        "portugalského",
+        "uherského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

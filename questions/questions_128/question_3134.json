@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Pavel Liška",
+      "values": [
+        "španělského",
+        "českého",
+        "německého",
+        "tureckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "John Cena",
+      "values": [
+        "amerického",
+        "čínského",
+        "maďarského",
+        "gruzínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Austin Butler",
+      "values": [
+        "izraelského",
+        "gruzínského",
+        "amerického",
+        "chorvatského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Martin Freeman",
+      "values": [
+        "sovětského",
+        "britského",
+        "jamajského",
+        "islandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Braňo Polák",
+      "values": [
+        "jihoafrického",
+        "švýcarského",
+        "slovenského",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miguel Herrán",
+      "values": [
+        "chilského",
+        "španělského",
+        "belgického",
+        "bosenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Gelnar",
+      "values": [
+        "islandského",
+        "norského",
+        "českého",
+        "thajského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "LeVar Burton",
+      "values": [
+        "italského",
+        "čínského",
+        "amerického",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Martin Holec",
+      "values": [
+        "marockého",
+        "českého",
+        "čínského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Erich von Stroheim",
+      "values": [
+        "rakouského",
+        "bulharského",
+        "britského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

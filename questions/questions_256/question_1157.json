@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Petr Čech",
+      "values": [
+        "mexického",
+        "nigerijského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kevin De Bruyne",
+      "values": [
+        "českého",
+        "belgického",
+        "mexického",
+        "baskického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mick van Buren",
+      "values": [
+        "nizozemského",
+        "anglického",
+        "irského",
+        "kosovského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nikos Machlas",
+      "values": [
+        "ruského",
+        "mongolského",
+        "irského",
+        "řeckého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Ødegaard",
+      "values": [
+        "kostarického",
+        "kamerunského",
+        "ghanského",
+        "norského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Peter Crouch",
+      "values": [
+        "anglického",
+        "nizozemského",
+        "maďarského",
+        "skotského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kepa Arrizabalaga",
+      "values": [
+        "brazilského",
+        "španělského",
+        "kostarického",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sergio Rico",
+      "values": [
+        "chorvatského",
+        "portugalského",
+        "španělského",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alessandro Nesta",
+      "values": [
+        "italského",
+        "švédského",
+        "marockého",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Carlos Valderrama",
+      "values": [
+        "italského",
+        "kolumbijského",
+        "francouzského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

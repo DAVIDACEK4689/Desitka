@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Bratislava",
+      "values": [
+        "Tis",
+        "Volha",
+        "Lužnice",
+        "Dunaj"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Česká Lípa",
+      "values": [
+        "Berounka",
+        "Úslava",
+        "Dněpr",
+        "Ploučnice"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Turnov",
+      "values": [
+        "Lužická Nisa",
+        "Lužnice",
+        "Radbuza",
+        "Jizera"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lovosice",
+      "values": [
+        "Sázava",
+        "Úhlava",
+        "Rýn",
+        "Labe"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Samara",
+      "values": [
+        "Úslava",
+        "Spréva",
+        "Volha",
+        "Něva"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kaplice",
+      "values": [
+        "Úhlava",
+        "Dunaj",
+        "Malše",
+        "Tibera"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Levý Hradec",
+      "values": [
+        "Ploučnice",
+        "Hornád",
+        "Labe",
+        "Vltava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rouen",
+      "values": [
+        "Ohře",
+        "Seina",
+        "Bečva",
+        "Eufrat"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Melk",
+      "values": [
+        "Dněpr",
+        "Volha",
+        "Dunaj",
+        "Labe"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Orléans",
+      "values": [
+        "Tibera",
+        "Seina",
+        "Loira",
+        "Tis"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle bitvy",
+  "questions": [
+    {
+      "key": "Obležení Leningradu",
+      "values": [
+        "Španělsko",
+        "Česko",
+        "starověký Řek",
+        "Československo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Domažlic",
+      "values": [
+        "Rusko",
+        "Itálie",
+        "Česko",
+        "starověký Řek"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Invaze na Sicílii",
+      "values": [
+        "Česko",
+        "Spojené království",
+        "Itálie",
+        "Indie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Lützenu",
+      "values": [
+        "Česko",
+        "Indie",
+        "Švédsko",
+        "Norsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Útok na Bělgorodskou oblast",
+      "values": [
+        "Rusko",
+        "Spojené království",
+        "Česko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Marenga",
+      "values": [
+        "habsburská monarchie",
+        "Rakouské císařství",
+        "Indie",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Operace Bouře",
+      "values": [
+        "Švédsko",
+        "Španělsko",
+        "Chorvatsko",
+        "Rakousko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vylodění v Itálii",
+      "values": [
+        "Indie",
+        "habsburská monarchie",
+        "Mexiko",
+        "Rakousko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Vilémova",
+      "values": [
+        "habsburská monarchie",
+        "Švédsko",
+        "Španělsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Brůdku",
+      "values": [
+        "Mexiko",
+        "starověký Řek",
+        "Česko",
+        "starověký Řím"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

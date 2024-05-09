@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Ostřihom",
+      "values": [
+        "Bolívie",
+        "Botswana",
+        "Maďarsko",
+        "Mexiko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Trondheim",
+      "values": [
+        "Bangladéš",
+        "Srbsko",
+        "Súdán",
+        "Norsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Haarlem",
+      "values": [
+        "Etiopie",
+        "Nizozemsko",
+        "Ghana",
+        "Saúdská Arábie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Preveza",
+      "values": [
+        "Slovensko",
+        "Uganda",
+        "Řecko",
+        "Botswana"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Târgu Mureș",
+      "values": [
+        "Malajsie",
+        "Řecko",
+        "Rumunsko",
+        "Írán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Šymkent",
+      "values": [
+        "Indonésie",
+        "Bahrajn",
+        "Kazachstán",
+        "Marshallovy ostrovy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Enschede",
+      "values": [
+        "Gruzie",
+        "Vanuatu",
+        "Nizozemsko",
+        "Gambie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aktau",
+      "values": [
+        "Kazachstán",
+        "Bulharsko",
+        "Myanmar",
+        "Venezuela"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hamamacu",
+      "values": [
+        "Česko",
+        "Východní Timor",
+        "Japonsko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kapilavastu",
+      "values": [
+        "Kiribati",
+        "Zambie",
+        "Nepál",
+        "Myanmar"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

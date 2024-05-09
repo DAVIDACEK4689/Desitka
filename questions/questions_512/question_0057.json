@@ -1,0 +1,105 @@
+{
+  "text": "Určete bojiště podle bitvy",
+  "questions": [
+    {
+      "key": "Vyproštění francouzských vojáků ze základny Karin",
+      "values": [
+        "Rusko",
+        "Rakousko",
+        "Chorvatsko",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Operace Overlord",
+      "values": [
+        "Francie",
+        "Papua Nová Guinea",
+        "Uganda",
+        "Libye"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva o Berlín",
+      "values": [
+        "Rumunsko",
+        "Sasko",
+        "Maďarsko",
+        "Braniborsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Azincourtu",
+      "values": [
+        "Turecko",
+        "Francie",
+        "Rakousko",
+        "Španělsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Operace Entebbe",
+      "values": [
+        "Uganda",
+        "Ukrajina",
+        "Rumunsko",
+        "Irák"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Platají",
+      "values": [
+        "Polsko",
+        "Norsko",
+        "Izrael",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Brunanburhu",
+      "values": [
+        "Rusko",
+        "Somálsko",
+        "Spojené království",
+        "Polsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Lehnice",
+      "values": [
+        "Rusko",
+        "Slovensko",
+        "Polsko",
+        "Mongolsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Dien Bien Phu",
+      "values": [
+        "Vietnam",
+        "Rusko",
+        "Somálsko",
+        "Papua Nová Guinea"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Třetí bitva u Yper",
+      "values": [
+        "Japonsko",
+        "Sasko",
+        "Belgie",
+        "Izrael"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Semily",
+      "values": [
+        "Jizera",
+        "Malše",
+        "Mandava",
+        "Dyje"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nižbor",
+      "values": [
+        "Lužnice",
+        "Těrek",
+        "Berounka",
+        "Cidlina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čerčany",
+      "values": [
+        "Ploučnice",
+        "Hron",
+        "Rýn",
+        "Sázava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Krásné Březno",
+      "values": [
+        "Dněpr",
+        "Hornád",
+        "Labe",
+        "Radbuza"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ilava",
+      "values": [
+        "Tis",
+        "Volha",
+        "Váha",
+        "Svratka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vác",
+      "values": [
+        "Berounka",
+        "Mandava",
+        "Dunaj",
+        "Metuje"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Příchovice",
+      "values": [
+        "Úhlava",
+        "Mandava",
+        "Rýn",
+        "Visla"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sebuzín",
+      "values": [
+        "Temže",
+        "Vltava",
+        "Labe",
+        "Hron"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Újezd u Plánice",
+      "values": [
+        "Úslava",
+        "Ploučnice",
+        "Bečva",
+        "Chrudimka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Žalhostice",
+      "values": [
+        "Eufrat",
+        "Loira",
+        "Radbuza",
+        "Labe"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

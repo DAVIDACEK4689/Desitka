@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle terorismu",
+  "questions": [
+    {
+      "key": "Wagnerova skupina",
+      "values": [
+        "Rusko",
+        "Srbsko",
+        "Ukrajina",
+        "Afghánistán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Anders Behring Breivik",
+      "values": [
+        "Pákistán",
+        "Izrael",
+        "Německo",
+        "Norsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hizballáh",
+      "values": [
+        "Srbsko",
+        "Libanon",
+        "Německo",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sovětská válka v Afghánistánu",
+      "values": [
+        "Srbsko",
+        "Německo",
+        "Pákistán",
+        "Afghánistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tálibán",
+      "values": [
+        "Německo",
+        "Afghánistán",
+        "Libanon",
+        "Ukrajina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mnichovský masakr",
+      "values": [
+        "Srbsko",
+        "Izrael",
+        "Německo",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Irská republikánská armáda",
+      "values": [
+        "Norsko",
+        "Afghánistán",
+        "Spojené království",
+        "Srbsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jicchak Rabin",
+      "values": [
+        "Izrael",
+        "Srbsko",
+        "Německo",
+        "Norsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Let Malaysia Airlines 17",
+      "values": [
+        "Ukrajina",
+        "Pákistán",
+        "Německo",
+        "Libanon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Konflikt v Severním Irsku",
+      "values": [
+        "Spojené království",
+        "Rusko",
+        "Afghánistán",
+        "Ukrajina"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

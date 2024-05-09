@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte rok podle katastrofy",
+  "questions": [
+    {
+      "key": "Tornádo na Břeclavsku a Hodonínsku",
+      "values": [
+        "2021",
+        "2014",
+        "1976",
+        "1883"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Přehrada Desná",
+      "values": [
+        "1967",
+        "1902",
+        "1957",
+        "1916"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Výbuchy muničních skladů ve Vrběticích",
+      "values": [
+        "2014",
+        "1902",
+        "2021",
+        "2015"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Požár Říšského sněmu",
+      "values": [
+        "1966",
+        "2021",
+        "1933",
+        "1917"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bouře Daniel",
+      "values": [
+        "2007",
+        "2023",
+        "1968",
+        "1959"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Výbuch na dole Nelson III",
+      "values": [
+        "1902",
+        "1933",
+        "1934",
+        "2015"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Exploze panelového domu ve Frenštátě pod Radhoštěm",
+      "values": [
+        "1932",
+        "2013",
+        "1987",
+        "2012"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mont Pelée",
+      "values": [
+        "1991",
+        "2015",
+        "1902",
+        "1967"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sojuz 1",
+      "values": [
+        "2004",
+        "2021",
+        "1967",
+        "1908"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Havárie u Sevesa",
+      "values": [
+        "1934",
+        "1976",
+        "2005",
+        "2017"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

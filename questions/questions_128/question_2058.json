@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistku?",
+  "questions": [
+    {
+      "key": "Linda Fruhvirtová",
+      "values": [
+        "brazilskou",
+        "lotyšskou",
+        "černohorskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Viktoria Azarenková",
+      "values": [
+        "italskou",
+        "běloruskou",
+        "dánskou",
+        "egyptskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ashleigh Bartyová",
+      "values": [
+        "černohorskou",
+        "chorvatskou",
+        "řeckou",
+        "australskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marta Kosťuková",
+      "values": [
+        "ukrajinskou",
+        "švýcarskou",
+        "nizozemskou",
+        "brazilskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martina Trevisanová",
+      "values": [
+        "polskou",
+        "japonskou",
+        "švýcarskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Viktorija Golubicová",
+      "values": [
+        "německou",
+        "maďarskou",
+        "švýcarskou",
+        "kanadskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Samantha Stosurová",
+      "values": [
+        "italskou",
+        "australskou",
+        "kanadskou",
+        "estonskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Naděžda Petrovová",
+      "values": [
+        "ruskou",
+        "brazilskou",
+        "československou",
+        "egyptskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Arantxa Rusová",
+      "values": [
+        "americkou",
+        "britskou",
+        "egyptskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kateryna Baindlová",
+      "values": [
+        "francouzskou",
+        "kolumbijskou",
+        "ukrajinskou",
+        "rumunskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

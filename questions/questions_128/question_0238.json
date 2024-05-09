@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte rok podle politiky",
+  "questions": [
+    {
+      "key": "Proces se Slánským",
+      "values": [
+        "1997",
+        "1922",
+        "1952",
+        "1919"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Svatá aliance",
+      "values": [
+        "1815",
+        "1907",
+        "2013",
+        "1805"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Prosincová ústava",
+      "values": [
+        "2012",
+        "1851",
+        "1952",
+        "1867"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Poslanecký klub České pirátské strany",
+      "values": [
+        "1923",
+        "2012",
+        "2017",
+        "1986"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Projev v Červeném Hrádku",
+      "values": [
+        "1907",
+        "1923",
+        "1851",
+        "1989"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Moskevský mír",
+      "values": [
+        "1917",
+        "2012",
+        "1940",
+        "1920"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karlovarská usnesení",
+      "values": [
+        "1878",
+        "1904",
+        "1865",
+        "1819"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roman Smetana",
+      "values": [
+        "1917",
+        "1783",
+        "2012",
+        "2002"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Atentát na Šinzóa Abeho",
+      "values": [
+        "2022",
+        "1919",
+        "1689",
+        "1807"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vstup Rakouska do Evropské unie",
+      "values": [
+        "1914",
+        "1972",
+        "1995",
+        "1774"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

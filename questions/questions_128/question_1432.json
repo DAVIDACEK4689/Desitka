@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "Veronika Žilková",
+      "values": [
+        "maďarského",
+        "českého",
+        "litevského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bernard Arnault",
+      "values": [
+        "kanadského",
+        "švýcarského",
+        "francouzského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luciano Pavarotti",
+      "values": [
+        "litevského",
+        "italského",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jeanne Calmentová",
+      "values": [
+        "švýcarského",
+        "francouzského",
+        "maďarského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ferruccio Lamborghini",
+      "values": [
+        "amerického",
+        "portugalského",
+        "italského",
+        "litevského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jeroným Klimeš",
+      "values": [
+        "maďarského",
+        "českého",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Timothy McVeigh",
+      "values": [
+        "německého",
+        "portugalského",
+        "maďarského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vittorio De Sica",
+      "values": [
+        "britského",
+        "francouzského",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vittoria Savojská",
+      "values": [
+        "českého",
+        "kanadského",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kit Carson",
+      "values": [
+        "kanadského",
+        "francouzského",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

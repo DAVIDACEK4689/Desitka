@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "Jana Černochová",
+      "values": [
+        "českého",
+        "francouzského",
+        "německého",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Macaulay Culkin",
+      "values": [
+        "amerického",
+        "českého",
+        "portugalského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Francesco Petrarca",
+      "values": [
+        "italského",
+        "českého",
+        "německého",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Anežka Hrůzová",
+      "values": [
+        "francouzského",
+        "maďarského",
+        "českého",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eros Ramazzotti",
+      "values": [
+        "francouzského",
+        "švýcarského",
+        "italského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bartolomeu Dias",
+      "values": [
+        "portugalského",
+        "maďarského",
+        "italského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zuzana Roithová",
+      "values": [
+        "italského",
+        "kanadského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jeroným Klimeš",
+      "values": [
+        "italského",
+        "švýcarského",
+        "portugalského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Bartončík",
+      "values": [
+        "maďarského",
+        "francouzského",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Emanuel Filibert Savojský",
+      "values": [
+        "maďarského",
+        "italského",
+        "švýcarského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

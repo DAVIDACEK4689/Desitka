@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Reveň kadeřavá",
+      "values": [
+        "Mongolsko",
+        "Mexiko",
+        "Česko",
+        "Brazílie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kalina obecná",
+      "values": [
+        "Mongolsko",
+        "Brazílie",
+        "Česko",
+        "Mexiko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Slivoň",
+      "values": [
+        "Brazílie",
+        "Mexiko",
+        "Madagaskar",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Líska",
+      "values": [
+        "Madagaskar",
+        "Brazílie",
+        "Mongolsko",
+        "Austrálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Krásenka zpeřená",
+      "values": [
+        "Brazílie",
+        "Austrálie",
+        "Mexiko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Agáve obecná",
+      "values": [
+        "Mexiko",
+        "Brazílie",
+        "Mongolsko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Přeslička bahenní",
+      "values": [
+        "Česko",
+        "Mexiko",
+        "Madagaskar",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kajeput střídavolistý",
+      "values": [
+        "Nový Zéland",
+        "Austrálie",
+        "Mongolsko",
+        "Madagaskar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jahodník trávnice",
+      "values": [
+        "Nový Zéland",
+        "Brazílie",
+        "Mexiko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lnička setá",
+      "values": [
+        "Mongolsko",
+        "Austrálie",
+        "Brazílie",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

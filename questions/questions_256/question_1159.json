@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "José Mourinho",
+      "values": [
+        "polského",
+        "kostarického",
+        "francouzského",
+        "portugalského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bobby Charlton",
+      "values": [
+        "anglického",
+        "ruského",
+        "uruguayského",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Iker Casillas",
+      "values": [
+        "slovenského",
+        "španělského",
+        "baskického",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Roberto Firmino",
+      "values": [
+        "brazilského",
+        "portugalského",
+        "kanadského",
+        "marockého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miroslav Klose",
+      "values": [
+        "německého",
+        "slovenského",
+        "nizozemského",
+        "argentinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ederson",
+      "values": [
+        "brazilského",
+        "kosovského",
+        "skotského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michael Ballack",
+      "values": [
+        "kanadského",
+        "portugalského",
+        "rumunského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Claudio Ranieri",
+      "values": [
+        "italského",
+        "chilského",
+        "irského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dani Carvajal",
+      "values": [
+        "maďarského",
+        "řeckého",
+        "polského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Laurent Blanc",
+      "values": [
+        "francouzského",
+        "uruguayského",
+        "portugalského",
+        "irského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

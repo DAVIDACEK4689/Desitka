@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] klavíristu?",
+  "questions": [
+    {
+      "key": "Freddie Mercury",
+      "values": [
+        "rakouského",
+        "britského",
+        "italského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Václav Kopta",
+      "values": [
+        "českého",
+        "rakouského",
+        "maďarského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Andrea Bocelli",
+      "values": [
+        "britského",
+        "italského",
+        "polského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zdeněk Merta",
+      "values": [
+        "australského",
+        "italského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Steven Tyler",
+      "values": [
+        "rakouského",
+        "amerického",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Władysław Szpilman",
+      "values": [
+        "francouzského",
+        "českého",
+        "polského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vítězslav Novák",
+      "values": [
+        "maďarského",
+        "francouzského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ève Curie",
+      "values": [
+        "italského",
+        "ruského",
+        "maďarského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nick Cave",
+      "values": [
+        "českého",
+        "britského",
+        "australského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ludovico Einaudi",
+      "values": [
+        "amerického",
+        "italského",
+        "rakouského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

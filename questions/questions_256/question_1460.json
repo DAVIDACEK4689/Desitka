@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Pelé",
+      "values": [
+        "dánského",
+        "polského",
+        "australského",
+        "brazilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Radoslav Kováč",
+      "values": [
+        "českého",
+        "norského",
+        "irského",
+        "australského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Frank Lampard",
+      "values": [
+        "anglického",
+        "italského",
+        "českého",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michael Krmenčík",
+      "values": [
+        "argentinského",
+        "českého",
+        "kostarického",
+        "kolumbijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Isco",
+      "values": [
+        "senegalského",
+        "irského",
+        "norského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Sivok",
+      "values": [
+        "českého",
+        "finského",
+        "kolumbijského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Oblak",
+      "values": [
+        "tureckého",
+        "australského",
+        "velšského",
+        "slovinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zdeněk Svoboda",
+      "values": [
+        "švédského",
+        "belgického",
+        "japonského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Luis Suárez Miramontes",
+      "values": [
+        "ruského",
+        "španělského",
+        "polského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dušan Vlahović",
+      "values": [
+        "senegalského",
+        "srbského",
+        "alžírského",
+        "japonského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

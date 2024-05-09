@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle úmrtí",
+  "questions": [
+    {
+      "key": "Leonardo da Vinci",
+      "values": [
+        "Rusko",
+        "Francie",
+        "Turecko",
+        "Brazílie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Benito Mussolini",
+      "values": [
+        "Turecko",
+        "Brazílie",
+        "Itálie",
+        "Irsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Che Guevara",
+      "values": [
+        "Bolívie",
+        "Libye",
+        "Irsko",
+        "Vietnam"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lev Nikolajevič Tolstoj",
+      "values": [
+        "Libye",
+        "Brazílie",
+        "Švédsko",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Muammar Kaddáfí",
+      "values": [
+        "Libye",
+        "Bolívie",
+        "Dominikánská republika",
+        "Turecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ivan Luťanský",
+      "values": [
+        "Vietnam",
+        "Irsko",
+        "Brazílie",
+        "Libye"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Antonín Baťa",
+      "values": [
+        "Bolívie",
+        "Brazílie",
+        "Rusko",
+        "Turecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Falco",
+      "values": [
+        "Dominikánská republika",
+        "Rusko",
+        "Alžírsko",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Svatý Augustin",
+      "values": [
+        "Vietnam",
+        "Turecko",
+        "Libye",
+        "Alžírsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Barbora z Nikomédie",
+      "values": [
+        "Turecko",
+        "Vietnam",
+        "Dominikánská republika",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

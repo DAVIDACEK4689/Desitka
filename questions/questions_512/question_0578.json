@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] ateistu?",
+  "questions": [
+    {
+      "key": "Andrej Babiš",
+      "values": [
+        "českého",
+        "francouzského",
+        "polského",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bruce Lee",
+      "values": [
+        "kubánského",
+        "židovského",
+        "irského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ivo Vondrák",
+      "values": [
+        "českého",
+        "amerického",
+        "maďarského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Warren Buffett",
+      "values": [
+        "chorvatského",
+        "španělského",
+        "amerického",
+        "gruzínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Emma Thompsonová",
+      "values": [
+        "rumunského",
+        "norského",
+        "britského",
+        "mexického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Auguste Comte",
+      "values": [
+        "norského",
+        "židovského",
+        "francouzského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "PewDiePie",
+      "values": [
+        "švédského",
+        "finského",
+        "kubánského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Richard Branson",
+      "values": [
+        "britského",
+        "polského",
+        "albánského",
+        "chorvatského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Geert Wilders",
+      "values": [
+        "židovského",
+        "britského",
+        "nizozemského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Wil Wheaton",
+      "values": [
+        "irského",
+        "amerického",
+        "nizozemského",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

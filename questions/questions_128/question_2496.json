@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] novináře?",
+  "questions": [
+    {
+      "key": "František Gellner",
+      "values": [
+        "australského",
+        "kubánského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ondřej Höppner",
+      "values": [
+        "rakouského",
+        "amerického",
+        "českého",
+        "chorvatského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Hybeš",
+      "values": [
+        "chorvatského",
+        "běloruského",
+        "českého",
+        "arménského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eduard Chmelár",
+      "values": [
+        "slovenského",
+        "arménského",
+        "kanadského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paul Brunton",
+      "values": [
+        "běloruského",
+        "britského",
+        "kolumbijského",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Theodore Dreiser",
+      "values": [
+        "kolumbijského",
+        "amerického",
+        "australského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Václav Alois Jung",
+      "values": [
+        "chorvatského",
+        "rakouského",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karl Kreibich",
+      "values": [
+        "australského",
+        "íránského",
+        "britského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stephen Thomas Erlewine",
+      "values": [
+        "běloruského",
+        "britského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rush Limbaugh",
+      "values": [
+        "běloruského",
+        "japonského",
+        "nizozemského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

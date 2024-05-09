@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle sportovní organizace",
+  "questions": [
+    {
+      "key": "Clash of the Stars",
+      "values": [
+        "Spojené království",
+        "Německo",
+        "Česko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "UEFA",
+      "values": [
+        "Švýcarsko",
+        "Chorvatsko",
+        "Egypt",
+        "Spojené království"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Deutscher Turnverband",
+      "values": [
+        "Egypt",
+        "Československo",
+        "Rakousko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sokol",
+      "values": [
+        "Španělsko",
+        "Egypt",
+        "Česko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "ASC Dukla",
+      "values": [
+        "Rakousko",
+        "Chorvatsko",
+        "Švýcarsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mezinárodní basketbalová federace",
+      "values": [
+        "Spojené království",
+        "Švýcarsko",
+        "Řecko",
+        "Finsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Professional Darts Corporation",
+      "values": [
+        "Švýcarsko",
+        "Německo",
+        "Španělsko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mezinárodní florbalová federace",
+      "values": [
+        "Spojené království",
+        "Řecko",
+        "Finsko",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mezinárodní horolezecká federace",
+      "values": [
+        "Španělsko",
+        "Německo",
+        "Švýcarsko",
+        "Rakousko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nextbike",
+      "values": [
+        "Švýcarsko",
+        "Chorvatsko",
+        "Německo",
+        "Španělsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

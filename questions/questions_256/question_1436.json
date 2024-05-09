@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] miliardáře?",
+  "questions": [
+    {
+      "key": "Steve Jobs",
+      "values": [
+        "ruského",
+        "českého",
+        "amerického",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Walt Disney",
+      "values": [
+        "amerického",
+        "slovenského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Warren Buffett",
+      "values": [
+        "britského",
+        "amerického",
+        "ruského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marek Dospiva",
+      "values": [
+        "rakouského",
+        "amerického",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "David Rockefeller",
+      "values": [
+        "britského",
+        "slovenského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bernie Ecclestone",
+      "values": [
+        "britského",
+        "českého",
+        "ukrajinského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ivan Zach",
+      "values": [
+        "ruského",
+        "britského",
+        "českého",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaroslav Haščák",
+      "values": [
+        "slovenského",
+        "ruského",
+        "rakouského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vince McMahon",
+      "values": [
+        "amerického",
+        "ukrajinského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Edsel Ford",
+      "values": [
+        "slovenského",
+        "českého",
+        "amerického",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

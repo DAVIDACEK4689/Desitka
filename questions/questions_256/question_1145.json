@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] malíře?",
+  "questions": [
+    {
+      "key": "Marilyn Manson",
+      "values": [
+        "italského",
+        "rakouského",
+        "francouzského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Francisco Goya",
+      "values": [
+        "britského",
+        "japonského",
+        "finského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "El Greco",
+      "values": [
+        "řeckého",
+        "španělského",
+        "japonského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Diego Velázquez",
+      "values": [
+        "britského",
+        "španělského",
+        "rakouského",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Masaccio",
+      "values": [
+        "rakouského",
+        "německého",
+        "italského",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Man Ray",
+      "values": [
+        "amerického",
+        "norského",
+        "kolumbijského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Théodore Géricault",
+      "values": [
+        "francouzského",
+        "belgického",
+        "britského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Edward Hopper",
+      "values": [
+        "amerického",
+        "belgického",
+        "řeckého",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Peter Oriešek",
+      "values": [
+        "ukrajinského",
+        "slovenského",
+        "belgického",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andrea Mantegna",
+      "values": [
+        "italského",
+        "kolumbijského",
+        "slovenského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

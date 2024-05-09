@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Raquel Welchová",
+      "values": [
+        "namibijskou",
+        "ruskou",
+        "italskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lejla Abbasová",
+      "values": [
+        "venezuelskou",
+        "dánskou",
+        "českou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Milla Jovovich",
+      "values": [
+        "americkou",
+        "slovenskou",
+        "irskou",
+        "venezuelskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petra Němcová",
+      "values": [
+        "dánskou",
+        "brazilskou",
+        "polskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lily Collins",
+      "values": [
+        "americkou",
+        "irskou",
+        "rakouskou",
+        "brazilskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Natálie Kotková",
+      "values": [
+        "francouzskou",
+        "českou",
+        "irskou",
+        "slovenskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miranda Kerr",
+      "values": [
+        "nizozemskou",
+        "australskou",
+        "německou",
+        "maďarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eva Čerešňáková",
+      "values": [
+        "českou",
+        "kanadskou",
+        "japonskou",
+        "dánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tereza Chlebovská",
+      "values": [
+        "irskou",
+        "českou",
+        "argentinskou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Janet Jonesová",
+      "values": [
+        "americkou",
+        "ruskou",
+        "australskou",
+        "venezuelskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Gareth Bale",
+      "values": [
+        "velšského",
+        "černohorského",
+        "egyptského",
+        "gambijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Egon Vůch",
+      "values": [
+        "českého",
+        "kostarického",
+        "brazilského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Florin Niță",
+      "values": [
+        "polského",
+        "rumunského",
+        "jamajského",
+        "kamerunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kamil Vacek",
+      "values": [
+        "švédského",
+        "českého",
+        "brazilského",
+        "jamajského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adam Vlkanova",
+      "values": [
+        "švýcarského",
+        "portugalského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jamie Carragher",
+      "values": [
+        "peruánského",
+        "kanadského",
+        "egyptského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dani Olmo",
+      "values": [
+        "chorvatského",
+        "ghanského",
+        "španělského",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Claudio Caniggia",
+      "values": [
+        "anglického",
+        "argentinského",
+        "senegalského",
+        "československého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nicolas Penner",
+      "values": [
+        "českého",
+        "amerického",
+        "francouzského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Thilo Kehrer",
+      "values": [
+        "finského",
+        "německého",
+        "amerického",
+        "skotského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

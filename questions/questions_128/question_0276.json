@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle prezidenta",
+  "questions": [
+    {
+      "key": "Volodymyr Zelenskyj",
+      "values": [
+        "Ukrajina",
+        "Gambie",
+        "Madagaskar",
+        "Tanzanie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michal Kováč",
+      "values": [
+        "Portugalsko",
+        "Slovensko",
+        "Kazachstán",
+        "Angola"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cyril Ramaphosa",
+      "values": [
+        "Somálsko",
+        "Jihoafrická republika",
+        "Jemen",
+        "Čečenci"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Yoweri Museveni",
+      "values": [
+        "Bolívie",
+        "Senegal",
+        "Rusko",
+        "Uganda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nguyễn Phú Trọng",
+      "values": [
+        "Pákistán",
+        "Vietnam",
+        "Kyrgyzstán",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Evo Morales",
+      "values": [
+        "Alžírsko",
+        "Bolívie",
+        "Jižní Korea",
+        "Estonsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "George Vella",
+      "values": [
+        "Malta",
+        "Gabon",
+        "Jugoslávie",
+        "Zair"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ferenc Mádl",
+      "values": [
+        "Maďarsko",
+        "Island",
+        "Irák",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Idriss Déby",
+      "values": [
+        "Čad",
+        "Namibie",
+        "Gabon",
+        "Litva"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jules Grévy",
+      "values": [
+        "Finsko",
+        "Bělorusko",
+        "Mosambik",
+        "Francie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

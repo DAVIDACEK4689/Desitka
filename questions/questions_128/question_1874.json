@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Lenka Filipová",
+      "values": [
+        "francouzskou",
+        "novozélandskou",
+        "českou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gabriela Gunčíková",
+      "values": [
+        "peruánskou",
+        "ukrajinskou",
+        "českou",
+        "kubánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Barbora Mottlová",
+      "values": [
+        "islandskou",
+        "českou",
+        "maďarskou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Šárka Rezková",
+      "values": [
+        "švédskou",
+        "českou",
+        "peruánskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lauryn Hill",
+      "values": [
+        "kolumbijskou",
+        "českou",
+        "ruskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jarmila Veselá",
+      "values": [
+        "francouzskou",
+        "českou",
+        "jamajskou",
+        "rumunskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jennette McCurdyová",
+      "values": [
+        "uruguayskou",
+        "americkou",
+        "britskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Veronika Zaňková",
+      "values": [
+        "maďarskou",
+        "ukrajinskou",
+        "španělskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Paloma Faith",
+      "values": [
+        "kanadskou",
+        "kolumbijskou",
+        "britskou",
+        "mexickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cher Lloyd",
+      "values": [
+        "švýcarskou",
+        "britskou",
+        "ukrajinskou",
+        "švédskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

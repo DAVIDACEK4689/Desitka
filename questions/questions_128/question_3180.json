@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Marek Jankulovski",
+      "values": [
+        "gruzínského",
+        "brazilského",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bojan Krkić",
+      "values": [
+        "kanadského",
+        "ghanského",
+        "španělského",
+        "černohorského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaroslav Plašil",
+      "values": [
+        "albánského",
+        "německého",
+        "českého",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miroslav Baranek",
+      "values": [
+        "severoirského",
+        "finského",
+        "českého",
+        "skotského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Philipp Lahm",
+      "values": [
+        "slovenského",
+        "kostarického",
+        "německého",
+        "bulharského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kalidou Koulibaly",
+      "values": [
+        "italského",
+        "senegalského",
+        "irského",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rafael van der Vaart",
+      "values": [
+        "egyptského",
+        "belgického",
+        "nizozemského",
+        "tožského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Adrian Mutu",
+      "values": [
+        "kanadského",
+        "francouzského",
+        "rumunského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Milan Černý",
+      "values": [
+        "českého",
+        "španělského",
+        "nizozemského",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David Heidenreich",
+      "values": [
+        "českého",
+        "polského",
+        "japonského",
+        "nigerijského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

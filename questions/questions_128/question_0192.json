@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte téma podle filmu",
+  "questions": [
+    {
+      "key": "Rychle a zběsile",
+      "values": [
+        "hasič",
+        "sport",
+        "policie",
+        "automobil"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Texaský masakr motorovou pilou",
+      "values": [
+        "učitel",
+        "židovská tematika",
+        "životní prostředí",
+        "kanibalismus"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Skleněné peklo",
+      "values": [
+        "hasič",
+        "zvíře",
+        "anděl",
+        "vlkodlak"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pach krve",
+      "values": [
+        "cirkus",
+        "nemoc",
+        "vlkodlak",
+        "kanibalismus"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Černobílý svět",
+      "values": [
+        "nemoc",
+        "politik",
+        "spisovatel",
+        "upír"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Velké vítězství",
+      "values": [
+        "zvíře",
+        "sport",
+        "móda",
+        "romská tematika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Životy těch druhých",
+      "values": [
+        "policie",
+        "spisovatel",
+        "nemoc",
+        "vlkodlak"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jak ztratit kluka v 10 dnech",
+      "values": [
+        "policie",
+        "židovská tematika",
+        "novinář",
+        "politik"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zloděj životů",
+      "values": [
+        "móda",
+        "vlkodlak",
+        "sériový vrah",
+        "učitel"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Můj policista",
+      "values": [
+        "učitel",
+        "skaut",
+        "pirát",
+        "móda"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

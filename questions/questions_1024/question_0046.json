@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Erich Maria Remarque",
+      "values": [
+        "slovenského",
+        "německého",
+        "britského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Richard Wagner",
+      "values": [
+        "japonského",
+        "norského",
+        "německého",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Honoré de Balzac",
+      "values": [
+        "srbského",
+        "českého",
+        "francouzského",
+        "chilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Charles Bukowski",
+      "values": [
+        "nizozemského",
+        "amerického",
+        "norského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Thomas Mann",
+      "values": [
+        "britského",
+        "německého",
+        "norského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ferdinand Peroutka",
+      "values": [
+        "norského",
+        "italského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vladimír Páral",
+      "values": [
+        "amerického",
+        "českého",
+        "ruského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexandr Mitrofanov",
+      "values": [
+        "slovenského",
+        "českého",
+        "německého",
+        "novozélandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Erik Erikson",
+      "values": [
+        "srbského",
+        "norského",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rudolf Schuster",
+      "values": [
+        "francouzského",
+        "slovenského",
+        "rakouského",
+        "britského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

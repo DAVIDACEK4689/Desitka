@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Roberto Carlos",
+      "values": [
+        "panamského",
+        "kostarického",
+        "brazilského",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rivaldo",
+      "values": [
+        "paraguayského",
+        "kostarického",
+        "japonského",
+        "brazilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Manuel Pellegrini",
+      "values": [
+        "norského",
+        "chilského",
+        "japonského",
+        "kolumbijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "James Milner",
+      "values": [
+        "belgického",
+        "anglického",
+        "kostarického",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kevin Keegan",
+      "values": [
+        "albánského",
+        "argentinského",
+        "anglického",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sandro Tonali",
+      "values": [
+        "anglického",
+        "rakouského",
+        "brazilského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Matthias Sindelar",
+      "values": [
+        "českého",
+        "rakouského",
+        "polského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Milan Bokša",
+      "values": [
+        "argentinského",
+        "amerického",
+        "československého",
+        "kolumbijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Emerson Palmieri",
+      "values": [
+        "brazilského",
+        "anglického",
+        "zimbabwského",
+        "severoirského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michy Batshuayi",
+      "values": [
+        "slovenského",
+        "maďarského",
+        "belgického",
+        "argentinského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

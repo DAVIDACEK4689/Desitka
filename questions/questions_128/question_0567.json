@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] dramatický film?",
+  "questions": [
+    {
+      "key": "Kajínek",
+      "values": [
+        "kanadský",
+        "dánský",
+        "izraelský",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bastardi 3",
+      "values": [
+        "sovětský",
+        "kanadský",
+        "český",
+        "britský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "V srdci moře",
+      "values": [
+        "sovětský",
+        "jihokorejský",
+        "izraelský",
+        "španělský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Noční motýl",
+      "values": [
+        "ruský",
+        "dánský",
+        "český",
+        "britský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Téměř dokonalá tajemství",
+      "values": [
+        "německý",
+        "československý",
+        "jihokorejský",
+        "britský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Drtivý dopad",
+      "values": [
+        "japonský",
+        "československý",
+        "americký",
+        "maďarský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "My First Summer",
+      "values": [
+        "maďarský",
+        "dánský",
+        "československý",
+        "australský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vše o mé matce",
+      "values": [
+        "americký",
+        "sovětský",
+        "španělský",
+        "francouzský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Když prší slzy",
+      "values": [
+        "francouzský",
+        "španělský",
+        "italský",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Do posledního dechu",
+      "values": [
+        "americký",
+        "německý",
+        "dánský",
+        "jihokorejský"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

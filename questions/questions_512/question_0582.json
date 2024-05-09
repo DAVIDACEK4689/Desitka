@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] ateistu?",
+  "questions": [
+    {
+      "key": "Stephen Hawking",
+      "values": [
+        "francouzského",
+        "britského",
+        "maďarského",
+        "albánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cillian Murphy",
+      "values": [
+        "italského",
+        "amerického",
+        "irského",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jurij Andropov",
+      "values": [
+        "německého",
+        "rumunského",
+        "ruského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Martin Veselovský",
+      "values": [
+        "českého",
+        "kanadského",
+        "švýcarského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Helen Mirrenová",
+      "values": [
+        "švédského",
+        "britského",
+        "ruského",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Richard Strauss",
+      "values": [
+        "norského",
+        "bulharského",
+        "německého",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ricky Gervais",
+      "values": [
+        "italského",
+        "britského",
+        "židovského",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Larry Flynt",
+      "values": [
+        "skotského",
+        "francouzského",
+        "rumunského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Paolo Villaggio",
+      "values": [
+        "islandského",
+        "italského",
+        "kanadského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mark Rothko",
+      "values": [
+        "islandského",
+        "českého",
+        "švédského",
+        "židovského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

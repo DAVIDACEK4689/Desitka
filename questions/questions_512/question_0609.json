@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle premiéra",
+  "questions": [
+    {
+      "key": "Benito Mussolini",
+      "values": [
+        "Bulharsko",
+        "Itálie",
+        "Moldavsko",
+        "Estonsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Francisco Franco",
+      "values": [
+        "Estonsko",
+        "Srbsko",
+        "Ázerbájdžán",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dmitrij Medveděv",
+      "values": [
+        "Rusko",
+        "Slovensko",
+        "Norsko",
+        "Spojené království"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Julija Tymošenková",
+      "values": [
+        "Švédsko",
+        "Turecko",
+        "Chorvatsko",
+        "Ukrajina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Boris Johnson",
+      "values": [
+        "Spojené království",
+        "Moldavsko",
+        "Egypt",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "John Major",
+      "values": [
+        "Turecko",
+        "Spojené království",
+        "Srbsko",
+        "Španělsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Iveta Radičová",
+      "values": [
+        "Rusko",
+        "Izrael",
+        "Slovensko",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Theresa Mayová",
+      "values": [
+        "Japonsko",
+        "Francie",
+        "Turecko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hideki Tódžó",
+      "values": [
+        "Norsko",
+        "Srbsko",
+        "Moldavsko",
+        "Japonsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Georges Pompidou",
+      "values": [
+        "Francie",
+        "Egypt",
+        "Ázerbájdžán",
+        "Jugoslávie"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

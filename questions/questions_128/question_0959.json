@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] muslima?",
+  "questions": [
+    {
+      "key": "Ice Cube",
+      "values": [
+        "pákistánského",
+        "chorvatského",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Omar Sharif",
+      "values": [
+        "amerického",
+        "ruského",
+        "albánského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Akon",
+      "values": [
+        "indického",
+        "chorvatského",
+        "amerického",
+        "egyptského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bergüzar Korel",
+      "values": [
+        "tureckého",
+        "ukrajinského",
+        "francouzského",
+        "albánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rohingové",
+      "values": [
+        "ukrajinského",
+        "myanmarského",
+        "egyptského",
+        "tureckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ali Paša Janinský",
+      "values": [
+        "albánského",
+        "řeckého",
+        "čínského",
+        "kosovského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Imran Chán",
+      "values": [
+        "pákistánského",
+        "tureckého",
+        "řeckého",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sabiha Gökçenová",
+      "values": [
+        "pákistánského",
+        "tureckého",
+        "afghánského",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "René Guénon",
+      "values": [
+        "albánského",
+        "francouzského",
+        "afghánského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Wesley Fofana",
+      "values": [
+        "nigerijského",
+        "kazašského",
+        "francouzského",
+        "kosovského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

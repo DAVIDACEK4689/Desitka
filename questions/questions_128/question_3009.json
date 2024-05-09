@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] architekta?",
+  "questions": [
+    {
+      "key": "Raffael Santi",
+      "values": [
+        "amerického",
+        "finského",
+        "polského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Filippo Brunelleschi",
+      "values": [
+        "norského",
+        "italského",
+        "japonského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marcus Vitruvius Pollio",
+      "values": [
+        "nizozemského",
+        "italského",
+        "dánského",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Albert Libra",
+      "values": [
+        "španělského",
+        "britského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Antonín Balšánek",
+      "values": [
+        "polského",
+        "italského",
+        "českého",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Albert Speer mladší",
+      "values": [
+        "tureckého",
+        "českého",
+        "ruského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Giovanni Battista Piranesi",
+      "values": [
+        "italského",
+        "francouzského",
+        "brazilského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bedřich Bendelmayer",
+      "values": [
+        "italského",
+        "francouzského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rudolf Kříženecký",
+      "values": [
+        "ruského",
+        "japonského",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Paolo della Stella",
+      "values": [
+        "dánského",
+        "belgického",
+        "ruského",
+        "italského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

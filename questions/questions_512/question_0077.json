@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] chemika?",
+  "questions": [
+    {
+      "key": "Jaroslav Heyrovský",
+      "values": [
+        "francouzského",
+        "švédského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alfred Nobel",
+      "values": [
+        "ruského",
+        "švýcarského",
+        "německého",
+        "švédského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Drahoš",
+      "values": [
+        "švédského",
+        "českého",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Angela Merkelová",
+      "values": [
+        "německého",
+        "českého",
+        "švýcarského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dmitrij Ivanovič Mendělejev",
+      "values": [
+        "švýcarského",
+        "ruského",
+        "francouzského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pierre Curie",
+      "values": [
+        "českého",
+        "francouzského",
+        "švédského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adolph Frank",
+      "values": [
+        "německého",
+        "švýcarského",
+        "švédského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Louis Pasteur",
+      "values": [
+        "ruského",
+        "švýcarského",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Valerij Legasov",
+      "values": [
+        "ruského",
+        "českého",
+        "švýcarského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Antonín Holý",
+      "values": [
+        "českého",
+        "francouzského",
+        "švýcarského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

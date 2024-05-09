@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle sportovní události",
+  "questions": [
+    {
+      "key": "Clash of the Stars",
+      "values": [
+        "Jihoafrická republika",
+        "Litva",
+        "Francie",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mistrovství světa v ragby 2023",
+      "values": [
+        "Francie",
+        "Austrálie",
+        "Singapur",
+        "Španělsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mistrovství světa ve fotbale 2010",
+      "values": [
+        "Německo",
+        "Česko",
+        "Singapur",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mistrovství světa ve fotbale 2006",
+      "values": [
+        "Dánsko",
+        "Španělsko",
+        "Německo",
+        "Litva"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství světa v ragby 2019",
+      "values": [
+        "Japonsko",
+        "Singapur",
+        "Dánsko",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mistrovství světa ve fotbale 1982",
+      "values": [
+        "Singapur",
+        "Španělsko",
+        "Česko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mistrovství světa juniorů v ledním hokeji 2001",
+      "values": [
+        "Litva",
+        "Severní Makedonie",
+        "Německo",
+        "Švýcarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mistrovství Evropy ve fotbale hráčů do 21 let 2023",
+      "values": [
+        "Gruzie",
+        "Austrálie",
+        "Španělsko",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mistrovství světa v ragby 2015",
+      "values": [
+        "Rusko",
+        "Spojené království",
+        "Nový Zéland",
+        "Španělsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mistrovství světa juniorů v ledním hokeji 2000",
+      "values": [
+        "Švýcarsko",
+        "Jihoafrická republika",
+        "Austrálie",
+        "Mexiko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

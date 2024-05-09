@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] sériového vraha?",
+  "questions": [
+    {
+      "key": "Jeffrey Dahmer",
+      "values": [
+        "kolumbijského",
+        "amerického",
+        "belgického",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ladislav Hojer",
+      "values": [
+        "slovenského",
+        "belgického",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Edmund Kemper",
+      "values": [
+        "francouzského",
+        "ukrajinského",
+        "amerického",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Kott a Michael Kutílek",
+      "values": [
+        "českého",
+        "kolumbijského",
+        "belgického",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Roháč",
+      "values": [
+        "kanadského",
+        "amerického",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Matej Čurko",
+      "values": [
+        "slovenského",
+        "kolumbijského",
+        "kanadského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Irena Čubírková",
+      "values": [
+        "francouzského",
+        "slovenského",
+        "ukrajinského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karl Denke",
+      "values": [
+        "německého",
+        "italského",
+        "kanadského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gilles de Rais",
+      "values": [
+        "italského",
+        "belgického",
+        "ruského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sergej Tkač",
+      "values": [
+        "ruského",
+        "kanadského",
+        "francouzského",
+        "ukrajinského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

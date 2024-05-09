@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Agáta Hanychová",
+      "values": [
+        "švýcarskou",
+        "japonskou",
+        "německou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aneta Vignerová",
+      "values": [
+        "japonskou",
+        "českou",
+        "ukrajinskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zorka Hejdová",
+      "values": [
+        "českou",
+        "venezuelskou",
+        "maďarskou",
+        "namibijskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kelly Prestonová",
+      "values": [
+        "americkou",
+        "maďarskou",
+        "japonskou",
+        "venezuelskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavlína Babůrková",
+      "values": [
+        "izraelskou",
+        "brazilskou",
+        "francouzskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nicol Lenertová",
+      "values": [
+        "českou",
+        "japonskou",
+        "slovenskou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ivana Christová",
+      "values": [
+        "namibijskou",
+        "japonskou",
+        "slovenskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lauren Bacallová",
+      "values": [
+        "namibijskou",
+        "brazilskou",
+        "americkou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Shannon Elizabeth",
+      "values": [
+        "izraelskou",
+        "rakouskou",
+        "britskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gabriela Franková",
+      "values": [
+        "britskou",
+        "českou",
+        "ukrajinskou",
+        "dánskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

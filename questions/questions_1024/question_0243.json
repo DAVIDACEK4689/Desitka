@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Bršlice kozí noha",
+      "values": [
+        "Austrálie",
+        "Mongolsko",
+        "Česko",
+        "Mexiko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lékořice lysá",
+      "values": [
+        "Mexiko",
+        "Austrálie",
+        "Mongolsko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ledvinovník západní",
+      "values": [
+        "Mongolsko",
+        "Brazílie",
+        "Mexiko",
+        "Austrálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Břečťan popínavý",
+      "values": [
+        "Nový Zéland",
+        "Česko",
+        "Mexiko",
+        "Mongolsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hluchavka nachová",
+      "values": [
+        "Nový Zéland",
+        "Brazílie",
+        "Česko",
+        "Austrálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Šalvěj",
+      "values": [
+        "Česko",
+        "Mexiko",
+        "Brazílie",
+        "Austrálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Durman",
+      "values": [
+        "Mongolsko",
+        "Mexiko",
+        "Česko",
+        "Brazílie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mochyně",
+      "values": [
+        "Austrálie",
+        "Brazílie",
+        "Mexiko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kávovník",
+      "values": [
+        "Austrálie",
+        "Mongolsko",
+        "Brazílie",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Violka",
+      "values": [
+        "Brazílie",
+        "Austrálie",
+        "Nový Zéland",
+        "Mexiko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

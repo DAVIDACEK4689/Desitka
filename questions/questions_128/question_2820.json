@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filozofa?",
+  "questions": [
+    {
+      "key": "Sókratés",
+      "values": [
+        "řeckého",
+        "španělského",
+        "slovinského",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Heidegger",
+      "values": [
+        "polského",
+        "švýcarského",
+        "slovenského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ayn Randová",
+      "values": [
+        "amerického",
+        "bulharského",
+        "perského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ladislav Hejdánek",
+      "values": [
+        "českého",
+        "kanadského",
+        "egyptského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Carl Schmitt",
+      "values": [
+        "ukrajinského",
+        "německého",
+        "polského",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Šafařík",
+      "values": [
+        "francouzského",
+        "sovětského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Radovan Richta",
+      "values": [
+        "českého",
+        "indického",
+        "španělského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Theofrastos",
+      "values": [
+        "italského",
+        "řeckého",
+        "rakouského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Walter Lippmann",
+      "values": [
+        "amerického",
+        "bulharského",
+        "řeckého",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexandre Kojève",
+      "values": [
+        "řeckého",
+        "ruského",
+        "francouzského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

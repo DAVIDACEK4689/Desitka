@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Slovenské národní povstání",
+      "values": [
+        "1241",
+        "1849",
+        "1427",
+        "1944"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Grunwaldu",
+      "values": [
+        "1954",
+        "1683",
+        "1993",
+        "1410"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva o Mariupol",
+      "values": [
+        "1619",
+        "1877",
+        "2022",
+        "1424"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Saratogy",
+      "values": [
+        "1775",
+        "1807",
+        "1410",
+        "937"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Lützenu",
+      "values": [
+        "1876",
+        "1632",
+        "1415",
+        "1807"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Mantzikertu",
+      "values": [
+        "1917",
+        "1071",
+        "1415",
+        "1434"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Marenga",
+      "values": [
+        "1939",
+        "1800",
+        "1993",
+        "1278"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vylodění v Itálii",
+      "values": [
+        "1298",
+        "1943",
+        "1849",
+        "1420"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Vilémova",
+      "values": [
+        "1485",
+        "1437",
+        "1807",
+        "1469"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Žlutic",
+      "values": [
+        "1071",
+        "1421",
+        "1807",
+        "2022"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

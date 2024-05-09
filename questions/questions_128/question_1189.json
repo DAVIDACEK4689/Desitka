@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle souostroví",
+  "questions": [
+    {
+      "key": "Špicberky",
+      "values": [
+        "Norsko",
+        "Řecko",
+        "Kiribati",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Velký bariérový útes",
+      "values": [
+        "Papua Nová Guinea",
+        "Federativní státy Mikronésie",
+        "Nový Zéland",
+        "Austrálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Liparské ostrovy",
+      "values": [
+        "Finsko",
+        "Francie",
+        "Itálie",
+        "Nizozemsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Panenské ostrovy",
+      "values": [
+        "Řecko",
+        "Ekvádor",
+        "Spojené království",
+        "Nizozemsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Murano",
+      "values": [
+        "Finsko",
+        "Nový Zéland",
+        "Itálie",
+        "Nizozemsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rjúkjú",
+      "values": [
+        "Španělsko",
+        "Federativní státy Mikronésie",
+        "Japonsko",
+        "Indie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chathamské ostrovy",
+      "values": [
+        "Federativní státy Mikronésie",
+        "Nový Zéland",
+        "Francie",
+        "Papua Nová Guinea"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Senkaku",
+      "values": [
+        "Nizozemsko",
+        "Španělsko",
+        "Federativní státy Mikronésie",
+        "Japonsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nikobary",
+      "values": [
+        "Argentina",
+        "Spojené království",
+        "Indie",
+        "Španělsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roztroušené ostrovy",
+      "values": [
+        "Německo",
+        "Norsko",
+        "Spojené království",
+        "Francie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

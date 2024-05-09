@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] loď?",
+  "questions": [
+    {
+      "key": "RMS Lusitania",
+      "values": [
+        "norskou",
+        "francouzskou",
+        "britskou",
+        "českou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Třída Olympic",
+      "values": [
+        "britskou",
+        "norskou",
+        "ruskou",
+        "americkou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Emma Mærsk",
+      "values": [
+        "britskou",
+        "dánskou",
+        "americkou",
+        "finskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oasis of the Seas",
+      "values": [
+        "britskou",
+        "americkou",
+        "finskou",
+        "norskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "La Grace",
+      "values": [
+        "českou",
+        "italskou",
+        "dánskou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fram",
+      "values": [
+        "britskou",
+        "ruskou",
+        "francouzskou",
+        "norskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Heffron",
+      "values": [
+        "českou",
+        "francouzskou",
+        "americkou",
+        "norskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Great Eastern",
+      "values": [
+        "americkou",
+        "italskou",
+        "britskou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Symphony of the Seas",
+      "values": [
+        "britskou",
+        "americkou",
+        "českou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Akademik Lomonosov",
+      "values": [
+        "finskou",
+        "americkou",
+        "francouzskou",
+        "ruskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

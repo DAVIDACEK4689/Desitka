@@ -1,0 +1,105 @@
+{
+  "text": "Určete bojiště podle bitvy",
+  "questions": [
+    {
+      "key": "Vylodění v Normandii",
+      "values": [
+        "Německo",
+        "Francie",
+        "Gruzie",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Sokolova",
+      "values": [
+        "Ukrajina",
+        "Somálsko",
+        "Itálie",
+        "Senegal"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Poltavy",
+      "values": [
+        "Ukrajina",
+        "Etiopie",
+        "Španělsko",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva o Alesii",
+      "values": [
+        "Rumunsko",
+        "Izrael",
+        "Francie",
+        "Papua Nová Guinea"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Issu",
+      "values": [
+        "Turecko",
+        "Bulharsko",
+        "Singapur",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva o Severodoněck",
+      "values": [
+        "Senegal",
+        "Ukrajina",
+        "Maďarsko",
+        "Francie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva o komplex Tora Bora",
+      "values": [
+        "Indonésie",
+        "Bulharsko",
+        "Afghánistán",
+        "Somálsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Arsufu",
+      "values": [
+        "Izrael",
+        "Polsko",
+        "Maďarsko",
+        "Mexiko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva na Něvě",
+      "values": [
+        "Austrálie",
+        "Estonsko",
+        "Rusko",
+        "Rakousko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Mailbergu",
+      "values": [
+        "Itálie",
+        "Francie",
+        "Indie",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

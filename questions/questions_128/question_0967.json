@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalového trenéra?",
+  "questions": [
+    {
+      "key": "Ruud Gullit",
+      "values": [
+        "tureckého",
+        "rumunského",
+        "australského",
+        "nizozemského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Erik ten Hag",
+      "values": [
+        "velšského",
+        "nizozemského",
+        "chorvatského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Luciano Spalletti",
+      "values": [
+        "německého",
+        "tureckého",
+        "italského",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roberto Mancini",
+      "values": [
+        "italského",
+        "srbského",
+        "norského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Joachim Löw",
+      "values": [
+        "německého",
+        "amerického",
+        "československého",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fernando Hierro",
+      "values": [
+        "velšského",
+        "švédského",
+        "španělského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marcello Lippi",
+      "values": [
+        "polského",
+        "chorvatského",
+        "italského",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Niko Kovač",
+      "values": [
+        "československého",
+        "chorvatského",
+        "portugalského",
+        "skotského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Odilon Polleunis",
+      "values": [
+        "belgického",
+        "argentinského",
+        "velšského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Igor Tudor",
+      "values": [
+        "chorvatského",
+        "československého",
+        "ruského",
+        "velšského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

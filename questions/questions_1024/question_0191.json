@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte oblast podle ptáka",
+  "questions": [
+    {
+      "key": "Čáp bílý",
+      "values": [
+        "Jižní Amerika",
+        "celosvětové rozšíření",
+        "Orientální oblast",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sojka obecná",
+      "values": [
+        "Severní Amerika",
+        "Afrika",
+        "Orientální oblast",
+        "Antarktida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kachna divoká",
+      "values": [
+        "Severní Amerika",
+        "Antarktida",
+        "Orientální oblast",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pštros dvouprstý",
+      "values": [
+        "Antarktida",
+        "Orientální oblast",
+        "Severní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tučňák císařský",
+      "values": [
+        "celosvětové rozšíření",
+        "Orientální oblast",
+        "Jižní Amerika",
+        "Antarktida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jeřáb popelavý",
+      "values": [
+        "Afrika",
+        "Severní Amerika",
+        "Orientální oblast",
+        "Antarktida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lyska černá",
+      "values": [
+        "Antarktida",
+        "Jižní Amerika",
+        "Severní Amerika",
+        "Orientální oblast"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Moták pochop",
+      "values": [
+        "Afrika",
+        "celosvětové rozšíření",
+        "Severní Amerika",
+        "Antarktida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ara hyacintový",
+      "values": [
+        "Orientální oblast",
+        "Antarktida",
+        "Severní Amerika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kondor andský",
+      "values": [
+        "Jižní Amerika",
+        "celosvětové rozšíření",
+        "Orientální oblast",
+        "Afrika"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

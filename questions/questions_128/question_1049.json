@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle náboženství",
+  "questions": [
+    {
+      "key": "Betlém",
+      "values": [
+        "Malta",
+        "Palestina",
+        "Bolívie",
+        "Řecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sinčchondži",
+      "values": [
+        "Bolívie",
+        "Jižní Korea",
+        "Belgie",
+        "Turecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Obrazoborectví",
+      "values": [
+        "Byzantská říše",
+        "Japonsko",
+        "Francie",
+        "Benin"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ibádíja",
+      "values": [
+        "Mongolsko",
+        "Řecko",
+        "Omán",
+        "Japonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Svedkovia Liehovovi",
+      "values": [
+        "Bolívie",
+        "Japonsko",
+        "Česko",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Avenna",
+      "values": [
+        "Vietnam",
+        "Česko",
+        "Švýcarsko",
+        "Bulharsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mandejství",
+      "values": [
+        "Francie",
+        "Tibet",
+        "Irák",
+        "Japonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Herma",
+      "values": [
+        "Irák",
+        "Austrálie",
+        "Řecko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cristo de la Concordia",
+      "values": [
+        "Bolívie",
+        "Vietnam",
+        "Bulharsko",
+        "Československo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hésychasmus",
+      "values": [
+        "Indie",
+        "Byzantská říše",
+        "Irák",
+        "Izrael"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Jaroslav Drbohlav",
+      "values": [
+        "českého",
+        "srbského",
+        "ruského",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Otakar Brousek mladší",
+      "values": [
+        "srbského",
+        "tureckého",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel Kachyňa",
+      "values": [
+        "švýcarského",
+        "britského",
+        "českého",
+        "malajsijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Effa",
+      "values": [
+        "českého",
+        "dánského",
+        "marockého",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rudolf Deyl starší",
+      "values": [
+        "izraelského",
+        "čínského",
+        "kanadského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Emil Horváth",
+      "values": [
+        "čínského",
+        "novozélandského",
+        "jihoafrického",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Yves Rénier",
+      "values": [
+        "francouzského",
+        "australského",
+        "ruského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jacques Brel",
+      "values": [
+        "italského",
+        "irského",
+        "ukrajinského",
+        "belgického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mouss Diouf",
+      "values": [
+        "českého",
+        "francouzského",
+        "jihoafrického",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vladimír Bejval",
+      "values": [
+        "britského",
+        "islandského",
+        "českého",
+        "guatemalského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

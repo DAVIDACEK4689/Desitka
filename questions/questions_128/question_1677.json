@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vraha?",
+  "questions": [
+    {
+      "key": "Charles Manson",
+      "values": [
+        "izraelského",
+        "amerického",
+        "rakouského",
+        "egyptského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Jiří Grasel",
+      "values": [
+        "slovenského",
+        "českého",
+        "rakouského",
+        "belgického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jacob Rubinstein",
+      "values": [
+        "ruského",
+        "belgického",
+        "rakouského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Leslie Van Houten",
+      "values": [
+        "ruského",
+        "amerického",
+        "rakouského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Patricia Krenwinkel",
+      "values": [
+        "izraelského",
+        "německého",
+        "belgického",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mehmet Ali Ağca",
+      "values": [
+        "britského",
+        "českého",
+        "tureckého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robert Tempel",
+      "values": [
+        "českého",
+        "slovenského",
+        "saúdskoarabského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "William Kemmler",
+      "values": [
+        "tureckého",
+        "německého",
+        "rakouského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Clem Grogan",
+      "values": [
+        "belgického",
+        "amerického",
+        "izraelského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Otto Planetta",
+      "values": [
+        "norského",
+        "německého",
+        "rakouského",
+        "egyptského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

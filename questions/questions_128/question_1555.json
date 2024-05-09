@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] biatlonistku?",
+  "questions": [
+    {
+      "key": "Gabriela Soukalová",
+      "values": [
+        "slovinskou",
+        "českou",
+        "norskou",
+        "italskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Veronika Vítková",
+      "values": [
+        "českou",
+        "švédskou",
+        "slovenskou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eva Puskarčíková",
+      "values": [
+        "italskou",
+        "slovinskou",
+        "českou",
+        "finskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Laura Dahlmeierová",
+      "values": [
+        "německou",
+        "finskou",
+        "norskou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marte Olsbuová Røiselandová",
+      "values": [
+        "francouzskou",
+        "italskou",
+        "českou",
+        "norskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lisa Vittozziová",
+      "values": [
+        "německou",
+        "italskou",
+        "českou",
+        "finskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Julia Simonová",
+      "values": [
+        "francouzskou",
+        "slovinskou",
+        "italskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Elvira Öbergová",
+      "values": [
+        "švédskou",
+        "norskou",
+        "italskou",
+        "běloruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paulína Bátovská Fialková",
+      "values": [
+        "slovenskou",
+        "švédskou",
+        "německou",
+        "finskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mari Ederová",
+      "values": [
+        "finskou",
+        "italskou",
+        "běloruskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

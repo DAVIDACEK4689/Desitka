@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Clint Eastwood",
+      "values": [
+        "amerického",
+        "indického",
+        "mexického",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Čestmír Řanda",
+      "values": [
+        "španělského",
+        "italského",
+        "českého",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vladimír Merta",
+      "values": [
+        "českého",
+        "německého",
+        "polského",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Vachek",
+      "values": [
+        "ruského",
+        "islandského",
+        "chorvatského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Schulhoff",
+      "values": [
+        "nizozemského",
+        "českého",
+        "švýcarského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Diego Luna",
+      "values": [
+        "íránského",
+        "mexického",
+        "irského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vsevolod Emiljevič Mejerchold",
+      "values": [
+        "japonského",
+        "ruského",
+        "polského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Steven Soderbergh",
+      "values": [
+        "ukrajinského",
+        "amerického",
+        "hongkongského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Štoll",
+      "values": [
+        "španělského",
+        "sovětského",
+        "českého",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "René Přibil",
+      "values": [
+        "německého",
+        "amerického",
+        "indického",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

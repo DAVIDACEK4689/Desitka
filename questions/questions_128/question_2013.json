@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] generála?",
+  "questions": [
+    {
+      "key": "Václav Morávek",
+      "values": [
+        "rumunského",
+        "švédského",
+        "českého",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Felix Steiner",
+      "values": [
+        "německého",
+        "italského",
+        "švédského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Helmuth Weidling",
+      "values": [
+        "německého",
+        "řeckého",
+        "ukrajinského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gottfried Heinrich Pappenheim",
+      "values": [
+        "mexického",
+        "francouzského",
+        "německého",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vitalij Gerasimov",
+      "values": [
+        "sovětského",
+        "japonského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alexandr Ivanovič Lebeď",
+      "values": [
+        "sovětského",
+        "ukrajinského",
+        "dánského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Augustín Malár",
+      "values": [
+        "kanadského",
+        "amerického",
+        "sovětského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Napoleon Jérôme Bonaparte",
+      "values": [
+        "francouzského",
+        "japonského",
+        "izraelského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michail Petrovič Kirponos",
+      "values": [
+        "mexického",
+        "amerického",
+        "sovětského",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaroslav Hlaďo",
+      "values": [
+        "australského",
+        "myanmarského",
+        "československého",
+        "mexického"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] evropského podnikatele?",
+  "questions": [
+    {
+      "key": "Karel Diviš",
+      "values": [
+        "litevského",
+        "rakouského",
+        "českého",
+        "běloruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Adolph Frank",
+      "values": [
+        "slovinského",
+        "belgického",
+        "německého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bernard Tapie",
+      "values": [
+        "švédského",
+        "polského",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Brady",
+      "values": [
+        "dánského",
+        "francouzského",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pavel Durov",
+      "values": [
+        "ruského",
+        "britského",
+        "španělského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Leon Jakimič",
+      "values": [
+        "českého",
+        "litevského",
+        "belgického",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ole Kirk Christiansen",
+      "values": [
+        "švýcarského",
+        "španělského",
+        "dánského",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaroslav Hausmann",
+      "values": [
+        "italského",
+        "ukrajinského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Friedrich Egermann",
+      "values": [
+        "švédského",
+        "německého",
+        "švýcarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Henri Nestlé",
+      "values": [
+        "švýcarského",
+        "španělského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

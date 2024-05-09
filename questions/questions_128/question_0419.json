@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] dramatický film?",
+  "questions": [
+    {
+      "key": "Dvě slova jako klíč",
+      "values": [
+        "španělský",
+        "český",
+        "novozélandský",
+        "jihokorejský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Temný rytíř povstal",
+      "values": [
+        "československý",
+        "český",
+        "britský",
+        "australský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "The Gray Man",
+      "values": [
+        "československý",
+        "německý",
+        "japonský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Na střeše",
+      "values": [
+        "švédský",
+        "český",
+        "španělský",
+        "britský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Smradi",
+      "values": [
+        "německý",
+        "český",
+        "australský",
+        "japonský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lekce Faust",
+      "values": [
+        "český",
+        "francouzský",
+        "kanadský",
+        "americký"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Z Paříže do Paříže",
+      "values": [
+        "estonský",
+        "italský",
+        "kanadský",
+        "americký"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jako nikdy",
+      "values": [
+        "estonský",
+        "izraelský",
+        "kanadský",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dokonalý únik",
+      "values": [
+        "australský",
+        "americký",
+        "novozélandský",
+        "britský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Břetislav a Jitka",
+      "values": [
+        "španělský",
+        "britský",
+        "novozélandský",
+        "československý"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

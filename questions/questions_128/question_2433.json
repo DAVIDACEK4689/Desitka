@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] alpského lyžaře?",
+  "questions": [
+    {
+      "key": "Šárka Strachová",
+      "values": [
+        "lichtenštejnského",
+        "českého",
+        "rakouského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ondřej Bank",
+      "values": [
+        "švýcarského",
+        "chorvatského",
+        "českého",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Klára Křížová",
+      "values": [
+        "slovinského",
+        "švédského",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Adriana Jelínková",
+      "values": [
+        "nizozemského",
+        "švédského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Janica Kostelićová",
+      "values": [
+        "chorvatského",
+        "francouzského",
+        "norského",
+        "lichtenštejnského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gernot Reinstadler",
+      "values": [
+        "mexického",
+        "chorvatského",
+        "švýcarského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bode Miller",
+      "values": [
+        "švýcarského",
+        "italského",
+        "amerického",
+        "lichtenštejnského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marc Girardelli",
+      "values": [
+        "lichtenštejnského",
+        "českého",
+        "slovenského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karl Schranz",
+      "values": [
+        "mexického",
+        "rakouského",
+        "českého",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marco Schwarz",
+      "values": [
+        "francouzského",
+        "rakouského",
+        "mexického",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte sport podle olympijského vítěze",
+  "questions": [
+    {
+      "key": "Roger Federer",
+      "values": [
+        "box",
+        "tenis",
+        "severská kombinace",
+        "judo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oleksandr Usyk",
+      "values": [
+        "box",
+        "zápas",
+        "cyklistika",
+        "lední hokej"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vítězslav Mácha",
+      "values": [
+        "zápas",
+        "krasobruslení",
+        "cyklistika",
+        "biatlon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Ullrich",
+      "values": [
+        "sportovní gymnastika",
+        "basketbal",
+        "cyklistika",
+        "golf"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "David Kostelecký",
+      "values": [
+        "severská kombinace",
+        "zápas",
+        "fotbal",
+        "sportovní střelba"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Lipták",
+      "values": [
+        "cyklistika",
+        "alpské lyžování",
+        "tenis",
+        "sportovní střelba"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nikolaj Chabibulin",
+      "values": [
+        "lední hokej",
+        "judo",
+        "atletika",
+        "cyklistika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mia Hammová",
+      "values": [
+        "alpské lyžování",
+        "atletika",
+        "box",
+        "fotbal"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alexandr Malcev",
+      "values": [
+        "box",
+        "lední hokej",
+        "severská kombinace",
+        "sportovní střelba"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Santiago Cañizares",
+      "values": [
+        "box",
+        "sportovní gymnastika",
+        "atletika",
+        "fotbal"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

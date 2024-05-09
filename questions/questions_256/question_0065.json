@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle prezidenta",
+  "questions": [
+    {
+      "key": "Gustáv Husák",
+      "values": [
+        "Burkina Faso",
+        "Československo",
+        "Gabon",
+        "Lotyšsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paul von Hindenburg",
+      "values": [
+        "Libérie",
+        "Jugoslávie",
+        "Maďarsko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Achmat Kadyrov",
+      "values": [
+        "Turkmenistán",
+        "Kolumbie",
+        "Čečenci",
+        "Finsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michail Saakašvili",
+      "values": [
+        "Kazachstán",
+        "Gruzie",
+        "Španělsko",
+        "Albánie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cyril Ramaphosa",
+      "values": [
+        "Uzbekistán",
+        "Jihoafrická republika",
+        "Německo",
+        "Libérie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nayib Bukele",
+      "values": [
+        "Írán",
+        "Salvador",
+        "Burkina Faso",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andrés Manuel López Obrador",
+      "values": [
+        "Salvador",
+        "Kazachstán",
+        "Mexiko",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cristina Fernández de Kirchner",
+      "values": [
+        "Finsko",
+        "Bulharsko",
+        "Argentina",
+        "Kazachstán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mengistu Haile Mariam",
+      "values": [
+        "Estonsko",
+        "Španělsko",
+        "Etiopie",
+        "Salvador"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jorge Rafael Videla",
+      "values": [
+        "Slovinsko",
+        "Argentina",
+        "Itálie",
+        "Litva"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] ministra?",
+  "questions": [
+    {
+      "key": "Pavel Rychetský",
+      "values": [
+        "italského",
+        "německého",
+        "československého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Václav Kopecký",
+      "values": [
+        "ruského",
+        "československého",
+        "rakouského",
+        "albánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Engliš",
+      "values": [
+        "lucemburského",
+        "československého",
+        "portugalského",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hugo Vavrečka",
+      "values": [
+        "albánského",
+        "britského",
+        "německého",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karl Renner",
+      "values": [
+        "rakouského",
+        "finského",
+        "lucemburského",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jaromír Nečas",
+      "values": [
+        "italského",
+        "polského",
+        "německého",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nikolaj Gerasimovič Kuzněcov",
+      "values": [
+        "italského",
+        "polského",
+        "finského",
+        "sovětského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Manuel Valls",
+      "values": [
+        "francouzského",
+        "italského",
+        "portugalského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Wolfgang Sobotka",
+      "values": [
+        "rakouského",
+        "polského",
+        "norského",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stanislav Kosior",
+      "values": [
+        "italského",
+        "rakouského",
+        "československého",
+        "sovětského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

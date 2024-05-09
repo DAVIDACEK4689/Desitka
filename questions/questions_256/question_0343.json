@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle politické strany",
+  "questions": [
+    {
+      "key": "Hizballáh",
+      "values": [
+        "Turecko",
+        "Libanon",
+        "Ukrajina",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Právo a spravedlnost",
+      "values": [
+        "Polsko",
+        "Nizozemsko",
+        "Itálie",
+        "Izrael"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hlinkova slovenská ľudová strana",
+      "values": [
+        "Rusko",
+        "Libanon",
+        "Československo",
+        "Slovensko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Motoristé sobě",
+      "values": [
+        "Česko",
+        "Libanon",
+        "Turecko",
+        "Angola"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Muslimské bratrstvo",
+      "values": [
+        "Itálie",
+        "Egypt",
+        "Slovensko",
+        "Turecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Toryové",
+      "values": [
+        "Spojené království",
+        "Egypt",
+        "Palestina",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Národní sjednocení",
+      "values": [
+        "Libanon",
+        "Československo",
+        "Německo",
+        "Egypt"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Demokratická strana zelených",
+      "values": [
+        "Palestina",
+        "Česko",
+        "Itálie",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Služebník lidu",
+      "values": [
+        "Angola",
+        "Palestina",
+        "Ukrajina",
+        "Československo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hradecký demokratický klub",
+      "values": [
+        "Spojené království",
+        "Ukrajina",
+        "Turecko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

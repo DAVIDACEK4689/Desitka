@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte skladatele podle opery",
+  "questions": [
+    {
+      "key": "Prodaná nevěsta",
+      "values": [
+        "Bedřich Smetana",
+        "Richard Wagner",
+        "Antonín Dvořák",
+        "Leoš Janáček"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kouzelná flétna",
+      "values": [
+        "Wolfgang Amadeus Mozart",
+        "Leoš Janáček",
+        "Richard Wagner",
+        "Antonín Dvořák"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Don Giovanni",
+      "values": [
+        "Richard Wagner",
+        "Wolfgang Amadeus Mozart",
+        "Bedřich Smetana",
+        "Antonín Dvořák"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Její pastorkyňa",
+      "values": [
+        "Leoš Janáček",
+        "Antonín Dvořák",
+        "Wolfgang Amadeus Mozart",
+        "Richard Wagner"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Figarova svatba",
+      "values": [
+        "Wolfgang Amadeus Mozart",
+        "Richard Wagner",
+        "Bedřich Smetana",
+        "Leoš Janáček"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Prsten Nibelungův",
+      "values": [
+        "Wolfgang Amadeus Mozart",
+        "Richard Wagner",
+        "Leoš Janáček",
+        "Antonín Dvořák"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Braniboři v Čechách",
+      "values": [
+        "Antonín Dvořák",
+        "Bedřich Smetana",
+        "Wolfgang Amadeus Mozart",
+        "Richard Wagner"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Così fan tutte",
+      "values": [
+        "Wolfgang Amadeus Mozart",
+        "Leoš Janáček",
+        "Richard Wagner",
+        "Antonín Dvořák"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jakobín",
+      "values": [
+        "Leoš Janáček",
+        "Bedřich Smetana",
+        "Richard Wagner",
+        "Antonín Dvořák"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lohengrin",
+      "values": [
+        "Bedřich Smetana",
+        "Richard Wagner",
+        "Antonín Dvořák",
+        "Leoš Janáček"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

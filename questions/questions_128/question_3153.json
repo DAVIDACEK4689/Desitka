@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Mick Jagger",
+      "values": [
+        "britského",
+        "kolumbijského",
+        "jihoafrického",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bryan Adams",
+      "values": [
+        "německého",
+        "rakouského",
+        "kanadského",
+        "jihokorejského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Joakim Brodén",
+      "values": [
+        "italského",
+        "švédského",
+        "španělského",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fred Astaire",
+      "values": [
+        "amerického",
+        "rumunského",
+        "islandského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marek Viršík",
+      "values": [
+        "slovenského",
+        "brazilského",
+        "jihoafrického",
+        "jamajského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Yung Lean",
+      "values": [
+        "českého",
+        "švédského",
+        "norského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tobias Sammet",
+      "values": [
+        "německého",
+        "japonského",
+        "portorického",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Lutka",
+      "values": [
+        "českého",
+        "japonského",
+        "kanadského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Volker Rosin",
+      "values": [
+        "německého",
+        "jihokorejského",
+        "uruguayského",
+        "novozélandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gaahl",
+      "values": [
+        "dánského",
+        "francouzského",
+        "norského",
+        "uruguayského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

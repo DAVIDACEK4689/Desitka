@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Berlín",
+      "values": [
+        "Německo",
+        "Kypr",
+        "Bangladéš",
+        "Súdán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bern",
+      "values": [
+        "Indonésie",
+        "Švýcarsko",
+        "Afghánistán",
+        "Kambodža"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "São Paulo",
+      "values": [
+        "Brazílie",
+        "Nepál",
+        "Finsko",
+        "Malajsie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kjóto",
+      "values": [
+        "Mexiko",
+        "Kazachstán",
+        "Japonsko",
+        "Nigérie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kluž",
+      "values": [
+        "Kambodža",
+        "Japonsko",
+        "Rumunsko",
+        "Brazílie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tenochtitlán",
+      "values": [
+        "Myanmar",
+        "Mexiko",
+        "Madagaskar",
+        "Somálsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ochrid",
+      "values": [
+        "Bělorusko",
+        "Egypt",
+        "Senegal",
+        "Severní Makedonie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Murcia",
+      "values": [
+        "Španělsko",
+        "Jordánsko",
+        "Pákistán",
+        "Tunisko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eindhoven",
+      "values": [
+        "Mexiko",
+        "Venezuela",
+        "Madagaskar",
+        "Nizozemsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Braga",
+      "values": [
+        "Jihoafrická republika",
+        "Portugalsko",
+        "Uzbekistán",
+        "Malajsie"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

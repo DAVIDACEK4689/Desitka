@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte město podle mrakodrapu",
+  "questions": [
+    {
+      "key": "One World Trade Center",
+      "values": [
+        "Paříž",
+        "Vídeň",
+        "Frankfurt nad Mohanem",
+        "Manhattan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chrysler Building",
+      "values": [
+        "Moskva",
+        "Manhattan",
+        "Chicago",
+        "Dubaj"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Palác kultury a vědy",
+      "values": [
+        "Paříž",
+        "Varšava",
+        "Dubaj",
+        "Vídeň"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "30 St Mary Axe",
+      "values": [
+        "Londýn",
+        "Praha",
+        "Vídeň",
+        "Paříž"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Central Park Tower",
+      "values": [
+        "Paříž",
+        "Manhattan",
+        "Chicago",
+        "Moskva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "DC Towers",
+      "values": [
+        "Praha",
+        "Londýn",
+        "Vídeň",
+        "Chicago"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "111 West 57th Street",
+      "values": [
+        "Manhattan",
+        "Frankfurt nad Mohanem",
+        "Praha",
+        "Moskva"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Seagram Building",
+      "values": [
+        "Manhattan",
+        "Vídeň",
+        "Londýn",
+        "Praha"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Commerzbank Tower",
+      "values": [
+        "La Défense",
+        "Frankfurt nad Mohanem",
+        "Vídeň",
+        "Dubaj"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "New York Times Tower",
+      "values": [
+        "Londýn",
+        "Vídeň",
+        "Varšava",
+        "Manhattan"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

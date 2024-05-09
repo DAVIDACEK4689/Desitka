@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte interpreta podle písně",
+  "questions": [
+    {
+      "key": "Kam tenkrát šel můj bratr Jan",
+      "values": [
+        "Scorpions",
+        "The Beatles",
+        "Eric Clapton",
+        "Karel Gott"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nothing Compares 2 U",
+      "values": [
+        "Jimi Hendrix",
+        "Princ",
+        "Deep Purple",
+        "Bob Dylan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Wind of Change",
+      "values": [
+        "Deep Purple",
+        "Scorpions",
+        "Karel Gott",
+        "Led Zeppelin"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Du hast",
+      "values": [
+        "The Beach Boys",
+        "Scorpions",
+        "Rammstein",
+        "Karel Gott"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hit the Road Jack",
+      "values": [
+        "Ray Charles",
+        "Michael Jackson",
+        "Lynyrd Skynyrd",
+        "The Beatles"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Like a Rolling Stone",
+      "values": [
+        "Bob Dylan",
+        "Depeche Mode",
+        "Eric Clapton",
+        "Karel Gott"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "V dolinách",
+      "values": [
+        "Karol Duchoň",
+        "Scorpions",
+        "Pink Floyd",
+        "Steppenwolf"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ring of Fire",
+      "values": [
+        "Deep Purple",
+        "Metallica",
+        "Europe",
+        "Johnny Cash"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Poker Face",
+      "values": [
+        "Karol Duchoň",
+        "Lady Gaga",
+        "David Bowie",
+        "Falco"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Breaking the Law",
+      "values": [
+        "Judas Priest",
+        "Johnny Cash",
+        "Rammstein",
+        "Jiří Suchý"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

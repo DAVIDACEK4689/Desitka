@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva u Stalingradu",
+      "values": [
+        "Chorvatsko",
+        "habsburská monarchie",
+        "Rakouské císařství",
+        "Švédsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Cullodenu",
+      "values": [
+        "Byzanc",
+        "Indie",
+        "Skotsko",
+        "Norsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Útok na Bělgorodskou oblast",
+      "values": [
+        "Irsko",
+        "Japonsko",
+        "Byzanc",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Milvijského mostu",
+      "values": [
+        "starověký Řek",
+        "Španělsko",
+        "starověký Řím",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Štoků",
+      "values": [
+        "Osmanská říše",
+        "Rakouské císařství",
+        "Nový Zéland",
+        "starověký Řím"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jihoukrajinská fronta",
+      "values": [
+        "Rusko",
+        "Skotsko",
+        "Sovětský svaz",
+        "Osmanská říše"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Hydaspés",
+      "values": [
+        "Norsko",
+        "Indie",
+        "Osmanská říše",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pevnost Ticonderoga",
+      "values": [
+        "Frank",
+        "Česko",
+        "Spojené království",
+        "Byzanc"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Olomouce",
+      "values": [
+        "Rakouské císařství",
+        "starověký Řek",
+        "Česko",
+        "Španělsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Kynoskefal",
+      "values": [
+        "habsburská monarchie",
+        "starověký Řek",
+        "starověký Řím",
+        "Byzanc"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

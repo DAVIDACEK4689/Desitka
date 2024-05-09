@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte moře podle přístavního města",
+  "questions": [
+    {
+      "key": "Kodaň",
+      "values": [
+        "Marmarské moře",
+        "Severní moře",
+        "Rudé moře",
+        "Baltské moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sevastopol",
+      "values": [
+        "Černé moře",
+        "Bílé moře",
+        "Rudé moře",
+        "Marmarské moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cherson",
+      "values": [
+        "Černé moře",
+        "Azovské moře",
+        "Marmarské moře",
+        "Baltské moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stavanger",
+      "values": [
+        "Černé moře",
+        "Severní moře",
+        "Baltské moře",
+        "Rudé moře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Izmajil",
+      "values": [
+        "Rudé moře",
+        "Azovské moře",
+        "Baltské moře",
+        "Černé moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Maracaibo",
+      "values": [
+        "Azovské moře",
+        "Irské moře",
+        "Severní moře",
+        "Karibské moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kristiansand",
+      "values": [
+        "Baltské moře",
+        "Rudé moře",
+        "Severní moře",
+        "Irské moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Esbjerg",
+      "values": [
+        "Severní moře",
+        "Baltské moře",
+        "Azovské moře",
+        "Karibské moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Palanga",
+      "values": [
+        "Baltské moře",
+        "Marmarské moře",
+        "Bílé moře",
+        "Černé moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ystad",
+      "values": [
+        "Irské moře",
+        "Černé moře",
+        "Baltské moře",
+        "Azovské moře"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

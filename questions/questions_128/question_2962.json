@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] román?",
+  "questions": [
+    {
+      "key": "Oliver Twist",
+      "values": [
+        "japonský",
+        "maďarský",
+        "slovenský",
+        "anglický"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Doktor Živago",
+      "values": [
+        "český",
+        "americký",
+        "ruský",
+        "čínský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pan Theodor Mundstock",
+      "values": [
+        "norský",
+        "kanadský",
+        "český",
+        "rakouský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zánik samoty Berhof",
+      "values": [
+        "australský",
+        "anglický",
+        "český",
+        "polský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kafka na pobřeží",
+      "values": [
+        "anglický",
+        "maďarský",
+        "japonský",
+        "norský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vražda Rogera Ackroyda",
+      "values": [
+        "ruský",
+        "anglický",
+        "slovenský",
+        "americký"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bouvard a Pécuchet",
+      "values": [
+        "irský",
+        "italský",
+        "francouzský",
+        "kanadský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dharmoví tuláci",
+      "values": [
+        "polský",
+        "australský",
+        "americký",
+        "ruský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Noc trifidů",
+      "values": [
+        "anglický",
+        "čínský",
+        "slovenský",
+        "rakouský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vlčák Kazan",
+      "values": [
+        "irský",
+        "americký",
+        "maďarský",
+        "rakouský"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

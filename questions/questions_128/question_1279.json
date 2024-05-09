@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vynálezce?",
+  "questions": [
+    {
+      "key": "Alfred Nobel",
+      "values": [
+        "švédského",
+        "rakouského",
+        "maďarského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rudolf Diesel",
+      "values": [
+        "německého",
+        "ukrajinského",
+        "polského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Sousedík",
+      "values": [
+        "českého",
+        "irského",
+        "sovětského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nicolaus Otto",
+      "values": [
+        "německého",
+        "švýcarského",
+        "kanadského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "John Browning",
+      "values": [
+        "francouzského",
+        "českého",
+        "amerického",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Carl Bosch",
+      "values": [
+        "německého",
+        "kanadského",
+        "sovětského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexandr Stěpanovič Popov",
+      "values": [
+        "ruského",
+        "švédského",
+        "italského",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Charles Goodyear",
+      "values": [
+        "polského",
+        "amerického",
+        "italského",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ignacy Łukasiewicz",
+      "values": [
+        "slovenského",
+        "řeckého",
+        "irského",
+        "polského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Vincenc Diviš",
+      "values": [
+        "německého",
+        "českého",
+        "řeckého",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

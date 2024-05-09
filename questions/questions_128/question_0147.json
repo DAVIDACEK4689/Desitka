@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte obor podle průkopníka",
+  "questions": [
+    {
+      "key": "Charlie Chaplin",
+      "values": [
+        "kinematografie",
+        "počítač",
+        "automobilismus",
+        "sport"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Enzo Ferrari",
+      "values": [
+        "železnice",
+        "kinematografie",
+        "automobilismus",
+        "internet"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Steve Wozniak",
+      "values": [
+        "kinematografie",
+        "automobilismus",
+        "sport",
+        "počítač"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ferruccio Lamborghini",
+      "values": [
+        "kinematografie",
+        "automobilismus",
+        "internet",
+        "počítač"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Igor Sikorskij",
+      "values": [
+        "železnice",
+        "letectví",
+        "kinematografie",
+        "počítač"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Emil Jellinek",
+      "values": [
+        "automobilismus",
+        "internet",
+        "kinematografie",
+        "železnice"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Valerij Čkalov",
+      "values": [
+        "letectví",
+        "automobilismus",
+        "železnice",
+        "počítač"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Edsger Dijkstra",
+      "values": [
+        "letectví",
+        "automobilismus",
+        "železnice",
+        "počítač"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sabiha Gökçenová",
+      "values": [
+        "automobilismus",
+        "železnice",
+        "letectví",
+        "internet"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robert Stephenson",
+      "values": [
+        "železnice",
+        "sport",
+        "počítač",
+        "internet"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

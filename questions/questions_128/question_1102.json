@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [národnost] komunistu?",
+  "questions": [
+    {
+      "key": "Nicolae Ceaușescu",
+      "values": [
+        "španělského",
+        "československého",
+        "rumunského",
+        "moldavského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Egon Erwin Kisch",
+      "values": [
+        "československého",
+        "čínského",
+        "mexického",
+        "chilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Georgi Dimitrov",
+      "values": [
+        "polského",
+        "sovětského",
+        "bulharského",
+        "čínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Wilhelm Pieck",
+      "values": [
+        "německého",
+        "vietnamského",
+        "čínského",
+        "bulharského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bolesław Bierut",
+      "values": [
+        "polského",
+        "ukrajinského",
+        "italského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dolores Ibárruri",
+      "values": [
+        "portugalského",
+        "španělského",
+        "bulharského",
+        "moldavského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Doris Lessingová",
+      "values": [
+        "britského",
+        "rumunského",
+        "německého",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mikis Theodorakis",
+      "values": [
+        "ázerbájdžánského",
+        "ruského",
+        "portugalského",
+        "řeckého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lazar Koliševski",
+      "values": [
+        "bulharského",
+        "ukrajinského",
+        "moldavského",
+        "jugoslávského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Emil Constantinescu",
+      "values": [
+        "francouzského",
+        "slovenského",
+        "ruského",
+        "rumunského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

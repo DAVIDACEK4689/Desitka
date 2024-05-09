@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle ekonomiky",
+  "questions": [
+    {
+      "key": "Asijští tygři",
+      "values": [
+        "Řecko",
+        "Island",
+        "Norsko",
+        "Jižní Korea"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Evropská energetická burza",
+      "values": [
+        "Německo",
+        "Rakousko",
+        "Rusko",
+        "Švédsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tulipánová horečka",
+      "values": [
+        "Kazachstán",
+        "Nizozemsko",
+        "Finsko",
+        "Švédsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Boxing Day",
+      "values": [
+        "Švédsko",
+        "Mongolsko",
+        "Keňa",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Čebol",
+      "values": [
+        "Maďarsko",
+        "Rakousko",
+        "Finsko",
+        "Jižní Korea"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karbovanec",
+      "values": [
+        "Nizozemsko",
+        "Keňa",
+        "Francie",
+        "Ukrajina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Severomořská ropa",
+      "values": [
+        "Madagaskar",
+        "Jižní Korea",
+        "Dánsko",
+        "Norsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Faerská koruna",
+      "values": [
+        "Ukrajina",
+        "Švédsko",
+        "Dánsko",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Havana Club",
+      "values": [
+        "Spojené království",
+        "Švédsko",
+        "Kubo",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Malgašský ariary",
+      "values": [
+        "Japonsko",
+        "Madagaskar",
+        "Kubo",
+        "Nizozemsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

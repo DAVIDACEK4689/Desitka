@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Vídeň",
+      "values": [
+        "Argentina",
+        "Irák",
+        "Zambie",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hanoj",
+      "values": [
+        "Bulharsko",
+        "Norsko",
+        "Ekvádor",
+        "Vietnam"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Székesfehérvár",
+      "values": [
+        "Izrael",
+        "Eritrea",
+        "Estonsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rovinj",
+      "values": [
+        "Indie",
+        "Chorvatsko",
+        "Spojené království",
+        "Uzbekistán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sibiu",
+      "values": [
+        "Německo",
+        "Rumunsko",
+        "Bangladéš",
+        "Brazílie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bursa",
+      "values": [
+        "Turecko",
+        "Afghánistán",
+        "Burkina Faso",
+        "Rwanda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Narva",
+      "values": [
+        "Angola",
+        "Uzbekistán",
+        "Estonsko",
+        "Honduras"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Akkra",
+      "values": [
+        "Island",
+        "Řecko",
+        "Ghana",
+        "Norsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gjirokastër",
+      "values": [
+        "Venezuela",
+        "Albánie",
+        "Angola",
+        "Švédsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kragujevac",
+      "values": [
+        "Ekvádor",
+        "Černá Hora",
+        "Srbsko",
+        "Tádžikistán"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

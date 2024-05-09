@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Linda Rybová",
+      "values": [
+        "italskou",
+        "francouzskou",
+        "německou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Megan Fox",
+      "values": [
+        "americkou",
+        "rakouskou",
+        "slovenskou",
+        "izraelskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eva Mendes",
+      "values": [
+        "argentinskou",
+        "britskou",
+        "americkou",
+        "irskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vanessa Paradis",
+      "values": [
+        "brazilskou",
+        "irskou",
+        "dánskou",
+        "francouzskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Daniela Peštová",
+      "values": [
+        "australskou",
+        "brazilskou",
+        "českou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hunter Schafer",
+      "values": [
+        "švýcarskou",
+        "maďarskou",
+        "českou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Barbora Mottlová",
+      "values": [
+        "argentinskou",
+        "americkou",
+        "ruskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Brooke Shieldsová",
+      "values": [
+        "americkou",
+        "argentinskou",
+        "ukrajinskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mia Farrowová",
+      "values": [
+        "brazilskou",
+        "americkou",
+        "francouzskou",
+        "maďarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zuzka Light",
+      "values": [
+        "švýcarskou",
+        "ukrajinskou",
+        "jihoafrickou",
+        "českou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

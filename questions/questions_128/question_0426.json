@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] dramatický film?",
+  "questions": [
+    {
+      "key": "Skřivánci na niti",
+      "values": [
+        "český",
+        "francouzský",
+        "dánský",
+        "japonský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fontána pro Zuzanu",
+      "values": [
+        "španělský",
+        "mexický",
+        "český",
+        "slovenský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bába z ledu",
+      "values": [
+        "izraelský",
+        "australský",
+        "český",
+        "japonský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Charlieho malá tajemství",
+      "values": [
+        "izraelský",
+        "americký",
+        "ruský",
+        "kanadský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Donnie Darko",
+      "values": [
+        "německý",
+        "americký",
+        "australský",
+        "jihokorejský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Melancholia",
+      "values": [
+        "maďarský",
+        "dánský",
+        "jihokorejský",
+        "australský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Králova zahradnice",
+      "values": [
+        "estonský",
+        "kanadský",
+        "slovenský",
+        "britský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Julie a Julia",
+      "values": [
+        "britský",
+        "izraelský",
+        "jihokorejský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dobré světlo",
+      "values": [
+        "německý",
+        "slovenský",
+        "český",
+        "švédský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Božská Ema",
+      "values": [
+        "sovětský",
+        "japonský",
+        "český",
+        "mexický"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

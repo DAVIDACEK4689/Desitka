@@ -1,0 +1,105 @@
+{
+  "text": "Určete bojiště podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva u Lipska",
+      "values": [
+        "Bavorsko",
+        "Sasko",
+        "Spojené království",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Solferina",
+      "values": [
+        "Gruzie",
+        "Itálie",
+        "Řecko",
+        "Finsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Dien Bien Phu",
+      "values": [
+        "Rusko",
+        "Vietnam",
+        "Slovensko",
+        "Irák"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva o Řecko",
+      "values": [
+        "Chorvatsko",
+        "Bavorsko",
+        "Finsko",
+        "Albánie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Abúkíru",
+      "values": [
+        "Tunisko",
+        "Bělorusko",
+        "Austrálie",
+        "Egypt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vídeňská operace",
+      "values": [
+        "Lotyšsko",
+        "Řecko",
+        "Rakousko",
+        "Singapur"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Masakr v Suchumi",
+      "values": [
+        "Spojené království",
+        "Polsko",
+        "Somálsko",
+        "Gruzie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bělehradská operace",
+      "values": [
+        "Srbsko",
+        "Sasko",
+        "Japonsko",
+        "Tunisko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Gazaly",
+      "values": [
+        "Bělorusko",
+        "Libye",
+        "Japonsko",
+        "Sýrie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Quiberonu",
+      "values": [
+        "Francie",
+        "Indie",
+        "Irák",
+        "Uganda"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Řebříček obecný",
+      "values": [
+        "Madagaskar",
+        "Mongolsko",
+        "Česko",
+        "Mexiko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cizrna",
+      "values": [
+        "Mexiko",
+        "Madagaskar",
+        "Austrálie",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jahodník obecný",
+      "values": [
+        "Česko",
+        "Mexiko",
+        "Mongolsko",
+        "Madagaskar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kalina obecná",
+      "values": [
+        "Madagaskar",
+        "Brazílie",
+        "Česko",
+        "Mexiko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sléz",
+      "values": [
+        "Austrálie",
+        "Mexiko",
+        "Madagaskar",
+        "Mongolsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Douglaska",
+      "values": [
+        "Česko",
+        "Austrálie",
+        "Mexiko",
+        "Madagaskar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andělika lékařská",
+      "values": [
+        "Austrálie",
+        "Mongolsko",
+        "Česko",
+        "Brazílie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mochna",
+      "values": [
+        "Madagaskar",
+        "Austrálie",
+        "Mongolsko",
+        "Mexiko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Psárka luční",
+      "values": [
+        "Brazílie",
+        "Česko",
+        "Mexiko",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ptačí zob",
+      "values": [
+        "Brazílie",
+        "Nový Zéland",
+        "Austrálie",
+        "Madagaskar"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

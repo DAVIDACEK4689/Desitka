@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Eva Burešová",
+      "values": [
+        "českou",
+        "kanadskou",
+        "novozélandskou",
+        "indickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rihanna",
+      "values": [
+        "švédskou",
+        "mexickou",
+        "barbadoskou",
+        "irskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dáša Vokatá",
+      "values": [
+        "ruskou",
+        "francouzskou",
+        "českou",
+        "slovenskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tereza Balonová",
+      "values": [
+        "peruánskou",
+        "britskou",
+        "slovenskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ava Max",
+      "values": [
+        "americkou",
+        "brazilskou",
+        "norskou",
+        "indickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nicol Lenertová",
+      "values": [
+        "českou",
+        "maďarskou",
+        "brazilskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "PJ Harvey",
+      "values": [
+        "indickou",
+        "britskou",
+        "barbadoskou",
+        "španělskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eva Kostolányiová",
+      "values": [
+        "novozélandskou",
+        "izraelskou",
+        "slovenskou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Diana Krall",
+      "values": [
+        "novozélandskou",
+        "japonskou",
+        "norskou",
+        "kanadskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Elis Mraz",
+      "values": [
+        "australskou",
+        "nizozemskou",
+        "českou",
+        "slovenskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

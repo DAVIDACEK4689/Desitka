@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] leteckého výrobce?",
+  "questions": [
+    {
+      "key": "Aero Vodochody",
+      "values": [
+        "ruského",
+        "britského",
+        "izraelského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "McDonnell Douglas",
+      "values": [
+        "amerického",
+        "nizozemského",
+        "ruského",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tupolev",
+      "values": [
+        "německého",
+        "amerického",
+        "českého",
+        "sovětského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Iljušin",
+      "values": [
+        "francouzského",
+        "sovětského",
+        "německého",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jakovlev",
+      "values": [
+        "francouzského",
+        "sovětského",
+        "německého",
+        "čínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Grumman",
+      "values": [
+        "britského",
+        "izraelského",
+        "amerického",
+        "čínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kamov",
+      "values": [
+        "francouzského",
+        "amerického",
+        "sovětského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Douglas Aircraft",
+      "values": [
+        "britského",
+        "českého",
+        "čínského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rockwell International",
+      "values": [
+        "ruského",
+        "izraelského",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aérospatiale",
+      "values": [
+        "francouzského",
+        "izraelského",
+        "ruského",
+        "německého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

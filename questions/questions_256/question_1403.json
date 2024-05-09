@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte oblast podle ptáka",
+  "questions": [
+    {
+      "key": "Hrdlička zahradní",
+      "values": [
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Antarktida",
+        "Orientální oblast"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tukan obrovský",
+      "values": [
+        "celosvětové rozšíření",
+        "Atlantský oceán",
+        "Střední Amerika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kondor andský",
+      "values": [
+        "Jižní Amerika",
+        "Tichý oceán",
+        "Antarktida",
+        "Střední Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hadilov písař",
+      "values": [
+        "Severní Amerika",
+        "Orientální oblast",
+        "Jižní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kanár divoký",
+      "values": [
+        "Jižní Amerika",
+        "Orientální oblast",
+        "Atlantský oceán",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alka velká",
+      "values": [
+        "Orientální oblast",
+        "Střední Amerika",
+        "Afrika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Čečetka zimní",
+      "values": [
+        "Antarktida",
+        "Střední Amerika",
+        "Severní Amerika",
+        "Orientální oblast"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Páv zelený",
+      "values": [
+        "Střední Amerika",
+        "Afrika",
+        "Orientální oblast",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Holub nikobarský",
+      "values": [
+        "Antarktida",
+        "Střední Amerika",
+        "Orientální oblast",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Majna obecná",
+      "values": [
+        "Antarktida",
+        "celosvětové rozšíření",
+        "Atlantský oceán",
+        "Orientální oblast"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] malíře?",
+  "questions": [
+    {
+      "key": "Henrik Ibsen",
+      "values": [
+        "norského",
+        "italského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Caspar David Friedrich",
+      "values": [
+        "běloruského",
+        "chorvatského",
+        "německého",
+        "kolumbijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaroslav Panuška",
+      "values": [
+        "britského",
+        "českého",
+        "francouzského",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Giovanni Battista Tiepolo",
+      "values": [
+        "finského",
+        "italského",
+        "polského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fernand Léger",
+      "values": [
+        "slovenského",
+        "chilského",
+        "běloruského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Arnold Böcklin",
+      "values": [
+        "novozélandského",
+        "švýcarského",
+        "amerického",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan van Goyen",
+      "values": [
+        "řeckého",
+        "belgického",
+        "finského",
+        "nizozemského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Félicien Rops",
+      "values": [
+        "polského",
+        "belgického",
+        "ukrajinského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chaïm Soutine",
+      "values": [
+        "novozélandského",
+        "českého",
+        "litevského",
+        "chorvatského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gino Severini",
+      "values": [
+        "britského",
+        "švýcarského",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

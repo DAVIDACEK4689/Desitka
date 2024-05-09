@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] novináře?",
+  "questions": [
+    {
+      "key": "Jakub Arbes",
+      "values": [
+        "španělského",
+        "chorvatského",
+        "arménského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Emil Hakl",
+      "values": [
+        "íránského",
+        "francouzského",
+        "českého",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Felix Achille de la Cámara",
+      "values": [
+        "českého",
+        "portugalského",
+        "slovenského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Theodor Lessing",
+      "values": [
+        "portugalského",
+        "německého",
+        "mexického",
+        "kolumbijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Džamál Chášukdží",
+      "values": [
+        "rakouského",
+        "saúdskoarabského",
+        "kanadského",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Honoré Gabriel Riqueti de Mirabeau",
+      "values": [
+        "amerického",
+        "francouzského",
+        "irského",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Dostálek",
+      "values": [
+        "českého",
+        "ukrajinského",
+        "slovinského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bob Woodward",
+      "values": [
+        "izraelského",
+        "amerického",
+        "sovětského",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Hanák",
+      "values": [
+        "sovětského",
+        "ukrajinského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Hýbl",
+      "values": [
+        "bulharského",
+        "amerického",
+        "finského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

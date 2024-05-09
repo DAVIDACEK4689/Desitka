@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] ledního hokejistu?",
+  "questions": [
+    {
+      "key": "Michal Neuvirth",
+      "values": [
+        "ruského",
+        "slovenského",
+        "českého",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Terry Sawchuk",
+      "values": [
+        "britského",
+        "slovinského",
+        "kanadského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Libor Hudáček",
+      "values": [
+        "ruského",
+        "rumunského",
+        "slovenského",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Gut",
+      "values": [
+        "finského",
+        "polského",
+        "amerického",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimír Országh",
+      "values": [
+        "amerického",
+        "finského",
+        "slovenského",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Juhamatti Aaltonen",
+      "values": [
+        "švédského",
+        "rumunského",
+        "slovinského",
+        "finského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Václav Roziňák",
+      "values": [
+        "německého",
+        "polského",
+        "československého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Grant Fuhr",
+      "values": [
+        "kanadského",
+        "lotyšského",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Roman Kaděra",
+      "values": [
+        "českého",
+        "německého",
+        "sovětského",
+        "československého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dylan Larkin",
+      "values": [
+        "slovenského",
+        "finského",
+        "švýcarského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

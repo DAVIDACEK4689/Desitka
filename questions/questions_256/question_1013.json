@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Amy Winehouse",
+      "values": [
+        "britskou",
+        "jihokorejskou",
+        "barbadoskou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tereza Černochová",
+      "values": [
+        "italskou",
+        "australskou",
+        "českou",
+        "izraelskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Magdalena Reifová",
+      "values": [
+        "irskou",
+        "peruánskou",
+        "britskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vanessa Hudgens",
+      "values": [
+        "českou",
+        "izraelskou",
+        "americkou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Halsey",
+      "values": [
+        "maďarskou",
+        "americkou",
+        "švédskou",
+        "českou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zora Kolínska",
+      "values": [
+        "maďarskou",
+        "českou",
+        "slovenskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Klára Vytisková",
+      "values": [
+        "slovenskou",
+        "novozélandskou",
+        "islandskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jana Koubková",
+      "values": [
+        "irskou",
+        "ruskou",
+        "brazilskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eva Hurychová",
+      "values": [
+        "nizozemskou",
+        "českou",
+        "barbadoskou",
+        "slovenskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Emily Osmentová",
+      "values": [
+        "americkou",
+        "australskou",
+        "mexickou",
+        "nizozemskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

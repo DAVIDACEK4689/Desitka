@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] ateistu?",
+  "questions": [
+    {
+      "key": "Benito Mussolini",
+      "values": [
+        "slovinského",
+        "španělského",
+        "židovského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Slobodan Milošević",
+      "values": [
+        "ruského",
+        "srbského",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Javier Bardem",
+      "values": [
+        "portugalského",
+        "švýcarského",
+        "maďarského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "PewDiePie",
+      "values": [
+        "maďarského",
+        "indického",
+        "francouzského",
+        "švédského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bob Geldof",
+      "values": [
+        "dánského",
+        "norského",
+        "irského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Džaváharlál Néhrú",
+      "values": [
+        "norského",
+        "indického",
+        "irského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ludwig Feuerbach",
+      "values": [
+        "německého",
+        "slovinského",
+        "židovského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Haken",
+      "values": [
+        "brazilského",
+        "portugalského",
+        "arménského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Borut Pahor",
+      "values": [
+        "chorvatského",
+        "švédského",
+        "slovinského",
+        "běloruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dylan Moran",
+      "values": [
+        "českého",
+        "irského",
+        "portugalského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

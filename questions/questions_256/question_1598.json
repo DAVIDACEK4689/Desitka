@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Daniel Nekonečný",
+      "values": [
+        "australského",
+        "skotského",
+        "rumunského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pavol Habera",
+      "values": [
+        "jihokorejského",
+        "australského",
+        "německého",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miro Šmajda",
+      "values": [
+        "moldavského",
+        "rumunského",
+        "slovenského",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Slávek Janda",
+      "values": [
+        "irského",
+        "českého",
+        "francouzského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivo Jahelka",
+      "values": [
+        "australského",
+        "maďarského",
+        "moldavského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ivan Hoffman",
+      "values": [
+        "rumunského",
+        "brazilského",
+        "slovenského",
+        "jihoafrického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miro Jaroš",
+      "values": [
+        "slovenského",
+        "rumunského",
+        "jihokorejského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ilja Prusikin",
+      "values": [
+        "ruského",
+        "švédského",
+        "finského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jackie Jackson",
+      "values": [
+        "amerického",
+        "francouzského",
+        "skotského",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gordon Lightfoot",
+      "values": [
+        "španělského",
+        "českého",
+        "sovětského",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

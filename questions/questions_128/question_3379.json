@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filozofa?",
+  "questions": [
+    {
+      "key": "Voltaire",
+      "values": [
+        "maďarského",
+        "rakouského",
+        "švédského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eduard Tomáš",
+      "values": [
+        "francouzského",
+        "českého",
+        "maďarského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karl Jaspers",
+      "values": [
+        "německého",
+        "polského",
+        "srbského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ralph Waldo Emerson",
+      "values": [
+        "byzantského",
+        "irského",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Strabón",
+      "values": [
+        "španělského",
+        "řeckého",
+        "sovětského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tomáš Machula",
+      "values": [
+        "brazilského",
+        "finského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pyrrhón z Élidy",
+      "values": [
+        "sovětského",
+        "bulharského",
+        "ukrajinského",
+        "řeckého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jean Jaurès",
+      "values": [
+        "irského",
+        "rakouského",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vojtěch Kolman",
+      "values": [
+        "perského",
+        "polského",
+        "českého",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "René Girard",
+      "values": [
+        "ukrajinského",
+        "francouzského",
+        "brazilského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

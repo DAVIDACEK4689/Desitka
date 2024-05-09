@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Durman obecný",
+      "values": [
+        "Mongolsko",
+        "Austrálie",
+        "Mexiko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dub letní",
+      "values": [
+        "Austrálie",
+        "Mexiko",
+        "Mongolsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kotvičník zemní",
+      "values": [
+        "Austrálie",
+        "Mexiko",
+        "Mongolsko",
+        "Brazílie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pivoňka",
+      "values": [
+        "Mexiko",
+        "Brazílie",
+        "Mongolsko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kukuřice setá",
+      "values": [
+        "Nový Zéland",
+        "Mexiko",
+        "Brazílie",
+        "Austrálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Břečťan",
+      "values": [
+        "Nový Zéland",
+        "Česko",
+        "Mongolsko",
+        "Brazílie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jedle bělokorá",
+      "values": [
+        "Mongolsko",
+        "Česko",
+        "Austrálie",
+        "Mexiko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Devětsil lékařský",
+      "values": [
+        "Nový Zéland",
+        "Mongolsko",
+        "Mexiko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bledule",
+      "values": [
+        "Mexiko",
+        "Nový Zéland",
+        "Česko",
+        "Austrálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Barvínek",
+      "values": [
+        "Nový Zéland",
+        "Česko",
+        "Brazílie",
+        "Austrálie"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

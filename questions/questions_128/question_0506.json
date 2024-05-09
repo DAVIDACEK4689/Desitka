@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Princ a Večernice",
+      "values": [
+        "Věra Chytilová",
+        "Václav Vorlíček",
+        "Vít Olmer",
+        "Ladislav Smoljak"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jak svět přichází o básníky",
+      "values": [
+        "Miroslav Sobota",
+        "Věra Chytilová",
+        "Jan Němec",
+        "Dušan Klein"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ďáblova lest",
+      "values": [
+        "Jiří Strach",
+        "Jindřich Polák",
+        "Dušan Klein",
+        "Zbyněk Brynych"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cesta do hlubin študákovy duše",
+      "values": [
+        "František Vláčil",
+        "Karel Kachyňa",
+        "David Ondříček",
+        "Martin Frič"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mladé víno",
+      "values": [
+        "Václav Vorlíček",
+        "Tomáš Vorel",
+        "Jindřich Honzl",
+        "Antonín Moskalyk"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Král sokolů",
+      "values": [
+        "Jiří Menzel",
+        "Václav Vorlíček",
+        "Jaromil Jireš",
+        "Marie Poledňáková"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pěnička a Paraplíčko",
+      "values": [
+        "Zdeněk Tyc",
+        "Jiří Sequens",
+        "Zdeněk Troška",
+        "Jan Svěrák"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Větrná hora",
+      "values": [
+        "Tomáš Vorel",
+        "Filip Renč",
+        "Jiří Sequens",
+        "Robert Sedláček"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kantor Ideál",
+      "values": [
+        "Jindřich Polák",
+        "Martin Frič",
+        "Vojtěch Jasný",
+        "Martin Horský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pension pro svobodné pány",
+      "values": [
+        "Petr Zelenka",
+        "Oldřich Lipský",
+        "Jiří Sequens",
+        "Jiří Krejčík"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

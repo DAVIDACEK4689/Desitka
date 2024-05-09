@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Thibaut Courtois",
+      "values": [
+        "paraguayského",
+        "belgického",
+        "nizozemského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andrea Stramaccioni",
+      "values": [
+        "zimbabwského",
+        "mongolského",
+        "marockého",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mauro Icardi",
+      "values": [
+        "československého",
+        "argentinského",
+        "baskického",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lucas Paquetá",
+      "values": [
+        "zimbabwského",
+        "finského",
+        "brazilského",
+        "skotského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Javier Hernández Balcázar",
+      "values": [
+        "španělského",
+        "irského",
+        "finského",
+        "mexického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Leon Goretzka",
+      "values": [
+        "nigerijského",
+        "maďarského",
+        "německého",
+        "argentinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alex Pastoor",
+      "values": [
+        "nizozemského",
+        "španělského",
+        "islandského",
+        "finského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dick Advocaat",
+      "values": [
+        "francouzského",
+        "nizozemského",
+        "nigerijského",
+        "československého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dino Baggio",
+      "values": [
+        "norského",
+        "zimbabwského",
+        "paraguayského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Moise Kean",
+      "values": [
+        "nigerijského",
+        "italského",
+        "srbského",
+        "německého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

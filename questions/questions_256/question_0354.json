@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vraha?",
+  "questions": [
+    {
+      "key": "Anders Behring Breivik",
+      "values": [
+        "norského",
+        "německého",
+        "izraelského",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Christopher Scarver",
+      "values": [
+        "amerického",
+        "francouzského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Billy the Kid",
+      "values": [
+        "amerického",
+        "ruského",
+        "českého",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Albert Žirovnický",
+      "values": [
+        "českého",
+        "francouzského",
+        "izraelského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Leslie Van Houten",
+      "values": [
+        "rakouského",
+        "amerického",
+        "tureckého",
+        "izraelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaroslav Gančarčík",
+      "values": [
+        "českého",
+        "rakouského",
+        "slovenského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Kulík",
+      "values": [
+        "norského",
+        "českého",
+        "francouzského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Issei Sagawa",
+      "values": [
+        "izraelského",
+        "slovenského",
+        "českého",
+        "japonského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mary Bellová",
+      "values": [
+        "belgického",
+        "britského",
+        "českého",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jim Gordon",
+      "values": [
+        "amerického",
+        "egyptského",
+        "ruského",
+        "německého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

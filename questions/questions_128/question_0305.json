@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle románské stavby",
+  "questions": [
+    {
+      "key": "Spišský hrad",
+      "values": [
+        "Německo",
+        "Slovensko",
+        "Maďarsko",
+        "Francie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Trenčínský hrad",
+      "values": [
+        "Slovensko",
+        "Německo",
+        "Rakousko",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Visegrád",
+      "values": [
+        "Francie",
+        "Slovensko",
+        "Maďarsko",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Avignonský most",
+      "values": [
+        "Maďarsko",
+        "Rakousko",
+        "Polsko",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tihany",
+      "values": [
+        "Německo",
+        "Rakousko",
+        "Maďarsko",
+        "Slovensko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nitranský hrad",
+      "values": [
+        "Rakousko",
+        "Maďarsko",
+        "Slovensko",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Klášter Heiligenkreuz",
+      "values": [
+        "Maďarsko",
+        "Rakousko",
+        "Francie",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Klášter Zwettl",
+      "values": [
+        "Německo",
+        "Rakousko",
+        "Slovensko",
+        "Maďarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Klášter Corvey",
+      "values": [
+        "Maďarsko",
+        "Slovensko",
+        "Polsko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Benediktinské opatství v Týnci u Krakova",
+      "values": [
+        "Maďarsko",
+        "Rakousko",
+        "Slovensko",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

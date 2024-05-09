@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Pivoňka",
+      "values": [
+        "Madagaskar",
+        "Mongolsko",
+        "Austrálie",
+        "Mexiko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Durman",
+      "values": [
+        "Mexiko",
+        "Austrálie",
+        "Mongolsko",
+        "Madagaskar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Puškvorec obecný",
+      "values": [
+        "Brazílie",
+        "Nový Zéland",
+        "Madagaskar",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alstromérie",
+      "values": [
+        "Mongolsko",
+        "Brazílie",
+        "Mexiko",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Řebříček",
+      "values": [
+        "Nový Zéland",
+        "Mongolsko",
+        "Brazílie",
+        "Mexiko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mancinela obecná",
+      "values": [
+        "Austrálie",
+        "Brazílie",
+        "Mexiko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jílek",
+      "values": [
+        "Nový Zéland",
+        "Česko",
+        "Mongolsko",
+        "Mexiko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Slaměnka listenatá",
+      "values": [
+        "Austrálie",
+        "Nový Zéland",
+        "Madagaskar",
+        "Mexiko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paprika čínská",
+      "values": [
+        "Austrálie",
+        "Brazílie",
+        "Mexiko",
+        "Madagaskar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Plinia cauliflora",
+      "values": [
+        "Austrálie",
+        "Mexiko",
+        "Brazílie",
+        "Nový Zéland"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

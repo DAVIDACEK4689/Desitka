@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Plzeň",
+      "values": [
+        "Portugalsko",
+        "Česko",
+        "Dánsko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zlín",
+      "values": [
+        "Rakousko",
+        "Polsko",
+        "Slovensko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Florencie",
+      "values": [
+        "Irsko",
+        "Maďarsko",
+        "Itálie",
+        "Belgie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Brusel",
+      "values": [
+        "Rakousko",
+        "Polsko",
+        "Belgie",
+        "Maďarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kolín nad Rýnem",
+      "values": [
+        "Slovensko",
+        "Německo",
+        "Česko",
+        "Irsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Palermo",
+      "values": [
+        "Česko",
+        "Itálie",
+        "Irsko",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Görlitz",
+      "values": [
+        "Slovensko",
+        "Portugalsko",
+        "Německo",
+        "Nizozemsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bonn",
+      "values": [
+        "Maďarsko",
+        "Portugalsko",
+        "Německo",
+        "Rakousko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Belfast",
+      "values": [
+        "Itálie",
+        "Spojené království",
+        "Dánsko",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Segedín",
+      "values": [
+        "Maďarsko",
+        "Nizozemsko",
+        "Německo",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

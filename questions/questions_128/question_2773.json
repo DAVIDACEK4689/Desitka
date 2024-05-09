@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] architekta?",
+  "questions": [
+    {
+      "key": "Leonardo da Vinci",
+      "values": [
+        "belgického",
+        "italského",
+        "nizozemského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Hubáček",
+      "values": [
+        "norského",
+        "slovinského",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Kroha",
+      "values": [
+        "slovenského",
+        "rakouského",
+        "chorvatského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Baptista Mathey",
+      "values": [
+        "francouzského",
+        "chorvatského",
+        "ruského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oldřich Liska",
+      "values": [
+        "českého",
+        "ruského",
+        "německého",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Baron Haussmann",
+      "values": [
+        "řeckého",
+        "španělského",
+        "francouzského",
+        "chorvatského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Octavio Broggio",
+      "values": [
+        "slovinského",
+        "rakouského",
+        "českého",
+        "tureckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jakub Cigler",
+      "values": [
+        "dánského",
+        "českého",
+        "finského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Robert Venturi",
+      "values": [
+        "řeckého",
+        "slovinského",
+        "amerického",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vladimír Dedeček",
+      "values": [
+        "finského",
+        "českého",
+        "brazilského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

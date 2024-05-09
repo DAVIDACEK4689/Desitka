@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] generála?",
+  "questions": [
+    {
+      "key": "Friedrich Paulus",
+      "values": [
+        "italského",
+        "ruského",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Buršík",
+      "values": [
+        "švédského",
+        "československého",
+        "bulharského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Umberto Nobile",
+      "values": [
+        "sovětského",
+        "italského",
+        "maďarského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rudolf Pernický",
+      "values": [
+        "chorvatského",
+        "tureckého",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ottavio Piccolomini",
+      "values": [
+        "řeckého",
+        "německého",
+        "švédského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Knop",
+      "values": [
+        "britského",
+        "búrského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tadamiči Kuribajaši",
+      "values": [
+        "mexického",
+        "bulharského",
+        "japonského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jean Rapp",
+      "values": [
+        "slovenského",
+        "ukrajinského",
+        "chorvatského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Carl Gustav Wrangel",
+      "values": [
+        "švédského",
+        "řeckého",
+        "polského",
+        "bulharského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bedřich Placák",
+      "values": [
+        "německého",
+        "slovenského",
+        "argentinského",
+        "československého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

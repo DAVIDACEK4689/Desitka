@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Minsk",
+      "values": [
+        "Bělorusko",
+        "Namibie",
+        "Brunej",
+        "Zambie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Niš",
+      "values": [
+        "Tanzanie",
+        "Lotyšsko",
+        "Kiribati",
+        "Srbsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Weitra",
+      "values": [
+        "Rakousko",
+        "Marshallovy ostrovy",
+        "Litva",
+        "Ekvádor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Komárom",
+      "values": [
+        "Keňa",
+        "Maďarsko",
+        "Litva",
+        "Bulharsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hanko",
+      "values": [
+        "Srí Lanka",
+        "Laos",
+        "Finsko",
+        "Alžírsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Severní Nikósie",
+      "values": [
+        "Černá Hora",
+        "Kypr",
+        "Finsko",
+        "Španělsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Drammen",
+      "values": [
+        "Norsko",
+        "Grónsko",
+        "Pákistán",
+        "Východní Timor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Selfoss",
+      "values": [
+        "Mexiko",
+        "Severní Makedonie",
+        "Marshallovy ostrovy",
+        "Island"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nyköping",
+      "values": [
+        "Libérie",
+        "Estonsko",
+        "Rwanda",
+        "Švédsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kangerlussuaq",
+      "values": [
+        "Litva",
+        "Pero",
+        "Jordánsko",
+        "Grónsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

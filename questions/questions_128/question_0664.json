@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Lída Baarová",
+      "values": [
+        "českou",
+        "čínskou",
+        "německou",
+        "argentinskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zorka Janů",
+      "values": [
+        "norskou",
+        "španělskou",
+        "českou",
+        "maďarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zuzana Dřízhalová",
+      "values": [
+        "českou",
+        "italskou",
+        "francouzskou",
+        "uzbeckou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fran Drescher",
+      "values": [
+        "kolumbijskou",
+        "americkou",
+        "chorvatskou",
+        "italskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mel B",
+      "values": [
+        "íránskou",
+        "americkou",
+        "jihoafrickou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Patricia Heaton",
+      "values": [
+        "tureckou",
+        "americkou",
+        "jihoafrickou",
+        "kanadskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Anna Torv",
+      "values": [
+        "bermudskou",
+        "britskou",
+        "norskou",
+        "australskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Katherine Langford",
+      "values": [
+        "italskou",
+        "řeckou",
+        "australskou",
+        "španělskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nicola Coughlanová",
+      "values": [
+        "brazilskou",
+        "uruguayskou",
+        "irskou",
+        "rakouskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alena Ambrová",
+      "values": [
+        "českou",
+        "brazilskou",
+        "jihokorejskou",
+        "indickou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] psychologa?",
+  "questions": [
+    {
+      "key": "Alfred Adler",
+      "values": [
+        "polského",
+        "rakouského",
+        "ruského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ernst Kretschmer",
+      "values": [
+        "rakouského",
+        "německého",
+        "polského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Milan Nakonečný",
+      "values": [
+        "britského",
+        "ruského",
+        "českého",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hermann Ebbinghaus",
+      "values": [
+        "německého",
+        "britského",
+        "polského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gustave Le Bon",
+      "values": [
+        "ruského",
+        "francouzského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Vymětal",
+      "values": [
+        "nizozemského",
+        "kanadského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Edward Tolman",
+      "values": [
+        "ruského",
+        "britského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Daniel Štrobl",
+      "values": [
+        "českého",
+        "kanadského",
+        "polského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Steven Pinker",
+      "values": [
+        "ruského",
+        "nizozemského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Charles Spearman",
+      "values": [
+        "rakouského",
+        "britského",
+        "ruského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

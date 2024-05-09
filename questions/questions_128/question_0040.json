@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] hudební skupinu?",
+  "questions": [
+    {
+      "key": "The Kelly Family",
+      "values": [
+        "moldavskou",
+        "německou",
+        "dánskou",
+        "portugalskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Daft Punk",
+      "values": [
+        "portugalskou",
+        "francouzskou",
+        "rakouskou",
+        "estonskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joy Division",
+      "values": [
+        "bosenskou",
+        "francouzskou",
+        "španělskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Itzy",
+      "values": [
+        "jihokorejskou",
+        "nizozemskou",
+        "americkou",
+        "chorvatskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Heilung",
+      "values": [
+        "německou",
+        "švýcarskou",
+        "portugalskou",
+        "španělskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stone Temple Pilots",
+      "values": [
+        "norskou",
+        "irskou",
+        "britskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Shocking Blue",
+      "values": [
+        "estonskou",
+        "nizozemskou",
+        "švédskou",
+        "portugalskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Portishead",
+      "values": [
+        "italskou",
+        "moldavskou",
+        "chorvatskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Scars on Broadway",
+      "values": [
+        "nizozemskou",
+        "kanadskou",
+        "irskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dvouletá fáma",
+      "values": [
+        "irskou",
+        "dánskou",
+        "belgickou",
+        "českou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

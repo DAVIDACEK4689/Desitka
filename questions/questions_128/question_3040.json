@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Johann Wolfgang von Goethe",
+      "values": [
+        "islandského",
+        "černohorského",
+        "tanzanského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jordan Peterson",
+      "values": [
+        "jihoafrického",
+        "dánského",
+        "kanadského",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eva Erbenová",
+      "values": [
+        "izraelského",
+        "vietnamského",
+        "německého",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Sezima",
+      "values": [
+        "peruánského",
+        "britského",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Simon Sinek",
+      "values": [
+        "nizozemského",
+        "peruánského",
+        "nigerijského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "France Prešeren",
+      "values": [
+        "slovinského",
+        "uruguayského",
+        "rakouského",
+        "afghánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Max Frisch",
+      "values": [
+        "tureckého",
+        "irského",
+        "švýcarského",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vincenc Lesný",
+      "values": [
+        "indického",
+        "řeckého",
+        "ázerbájdžánského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Clemens Brentano",
+      "values": [
+        "českého",
+        "německého",
+        "australského",
+        "vietnamského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stefan Lazarević",
+      "values": [
+        "malajsijského",
+        "estonského",
+        "maďarského",
+        "srbského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

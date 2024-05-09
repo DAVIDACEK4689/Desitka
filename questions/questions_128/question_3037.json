@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] sériového vraha?",
+  "questions": [
+    {
+      "key": "Ivan Roubal",
+      "values": [
+        "kazašského",
+        "českého",
+        "ukrajinského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Christopher Scarver",
+      "values": [
+        "francouzského",
+        "českého",
+        "amerického",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Kott a Michael Kutílek",
+      "values": [
+        "německého",
+        "kolumbijského",
+        "kazašského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kateřina z Komárova",
+      "values": [
+        "českého",
+        "kazašského",
+        "ukrajinského",
+        "kolumbijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Harold Shipman",
+      "values": [
+        "britského",
+        "japonského",
+        "kazašského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karl Denke",
+      "values": [
+        "ruského",
+        "kolumbijského",
+        "britského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Džihádista John",
+      "values": [
+        "amerického",
+        "belgického",
+        "britského",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Joachim Kroll",
+      "values": [
+        "kazašského",
+        "ruského",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Joseph Paul Franklin",
+      "values": [
+        "českého",
+        "britského",
+        "amerického",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kenneth Bianchi",
+      "values": [
+        "belgického",
+        "francouzského",
+        "japonského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

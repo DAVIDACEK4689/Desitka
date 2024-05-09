@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] román?",
+  "questions": [
+    {
+      "key": "Mistr a Markétka",
+      "values": [
+        "ruský",
+        "japonský",
+        "irský",
+        "francouzský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Otec Goriot",
+      "values": [
+        "francouzský",
+        "český",
+        "italský",
+        "polský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oblomov",
+      "values": [
+        "italský",
+        "slovenský",
+        "americký",
+        "ruský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Spolčení hlupců",
+      "values": [
+        "americký",
+        "čínský",
+        "polský",
+        "britský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zvonokosy",
+      "values": [
+        "italský",
+        "francouzský",
+        "kanadský",
+        "anglický"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Duch Llana Estacada",
+      "values": [
+        "německý",
+        "australský",
+        "švédský",
+        "čínský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "První lidé na Měsíci",
+      "values": [
+        "norský",
+        "český",
+        "anglický",
+        "švédský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Konec starých časů",
+      "values": [
+        "český",
+        "ruský",
+        "španělský",
+        "německý"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Svéhlavička",
+      "values": [
+        "australský",
+        "kanadský",
+        "italský",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Katova píseň",
+      "values": [
+        "americký",
+        "japonský",
+        "švédský",
+        "maďarský"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

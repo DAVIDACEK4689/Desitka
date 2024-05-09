@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Foie gras",
+      "values": [
+        "mexickou",
+        "islandskou",
+        "francouzskou",
+        "portugalskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Guanciale",
+      "values": [
+        "ukrajinskou",
+        "japonskou",
+        "britskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mozartovy koule",
+      "values": [
+        "maďarskou",
+        "českou",
+        "rakouskou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marlenka",
+      "values": [
+        "arménskou",
+        "kanadskou",
+        "židovskou",
+        "českou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zubrovka",
+      "values": [
+        "polskou",
+        "francouzskou",
+        "britskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miso",
+      "values": [
+        "islandskou",
+        "brazilskou",
+        "řeckou",
+        "japonskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kremžská hořčice",
+      "values": [
+        "rakouskou",
+        "arménskou",
+        "maďarskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ossobuco",
+      "values": [
+        "indickou",
+        "polskou",
+        "středomořskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Panko",
+      "values": [
+        "francouzskou",
+        "indickou",
+        "polskou",
+        "japonskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Halászlé",
+      "values": [
+        "japonskou",
+        "rakouskou",
+        "maďarskou",
+        "balkánskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle státního symbolu",
+  "questions": [
+    {
+      "key": "Vlaštovka obecná",
+      "values": [
+        "Spojené království",
+        "Estonsko",
+        "Česká republika",
+        "Německo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Páv korunkatý",
+      "values": [
+        "Japonsko",
+        "Indie",
+        "Myanmar",
+        "Maďarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chryzantéma",
+      "values": [
+        "Japonsko",
+        "Myanmar",
+        "Francie",
+        "Izrael"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Svatojiřská stuha",
+      "values": [
+        "Švýcarsko",
+        "Izrael",
+        "Rusko",
+        "Estonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Britské korunovační klenoty",
+      "values": [
+        "Myanmar",
+        "Spojené království",
+        "Rusko",
+        "Izrael"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Moravská orlice",
+      "values": [
+        "Česká republika",
+        "Maďarsko",
+        "Nový Zéland",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Koruna svatého Eduarda",
+      "values": [
+        "Estonsko",
+        "Německo",
+        "Itálie",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Říšská orlice",
+      "values": [
+        "Japonsko",
+        "Myanmar",
+        "Maďarsko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Uherská koruna",
+      "values": [
+        "Itálie",
+        "Indonésie",
+        "Maďarsko",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marianne",
+      "values": [
+        "Česká republika",
+        "Japonsko",
+        "Nový Zéland",
+        "Francie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

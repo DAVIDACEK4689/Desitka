@@ -1,0 +1,105 @@
+{
+  "text": "Určete italského režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Tenkrát na Západě",
+      "values": [
+        "Federico Fellini",
+        "Enzo Barboni",
+        "Ferzan Özpetek",
+        "Sergio Leone"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Šimon a Matouš",
+      "values": [
+        "Ferzan Özpetek",
+        "Giuseppe Colizzi",
+        "Federico Fellini",
+        "Giuliano Carnimeo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tenkrát v Americe",
+      "values": [
+        "Marco Brambilla",
+        "Federico Fellini",
+        "Giuseppe Colizzi",
+        "Sergio Leone"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Šimon a Matouš jedou na riviéru",
+      "values": [
+        "Ferzan Özpetek",
+        "Enzo Barboni",
+        "Giuliano Carnimeo",
+        "Federico Fellini"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Demolition Man",
+      "values": [
+        "Bernardo Bertolucci",
+        "Ruggero Deodato",
+        "Federico Fellini",
+        "Marco Brambilla"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sladký život",
+      "values": [
+        "Sergio Leone",
+        "Federico Fellini",
+        "Bernardo Bertolucci",
+        "Giuseppe Tornatore"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kanibalové",
+      "values": [
+        "Enzo Barboni",
+        "Ferzan Özpetek",
+        "Ruggero Deodato",
+        "Marco Brambilla"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Poslední císař",
+      "values": [
+        "Giuseppe Tornatore",
+        "Bernardo Bertolucci",
+        "Ruggero Deodato",
+        "Federico Fellini"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pro pár dolarů navíc",
+      "values": [
+        "Ruggero Deodato",
+        "Bernardo Bertolucci",
+        "Sergio Leone",
+        "Giuliano Carnimeo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nový Olymp",
+      "values": [
+        "Marco Brambilla",
+        "Sergio Leone",
+        "Federico Fellini",
+        "Ferzan Özpetek"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

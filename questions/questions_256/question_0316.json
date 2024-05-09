@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Zadar",
+      "values": [
+        "Ukrajina",
+        "Slovinsko",
+        "Chorvatsko",
+        "Island"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "La Paz",
+      "values": [
+        "Bolívie",
+        "Černá Hora",
+        "Brunej",
+        "Venezuela"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bodrum",
+      "values": [
+        "Niger",
+        "Turecko",
+        "Nepál",
+        "Švýcarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Niš",
+      "values": [
+        "Bulharsko",
+        "Litva",
+        "Indonésie",
+        "Srbsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tornaľa",
+      "values": [
+        "Rwanda",
+        "Švýcarsko",
+        "Slovensko",
+        "Brunej"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Crikvenica",
+      "values": [
+        "Chorvatsko",
+        "Mosambik",
+        "Jordánsko",
+        "Burkina Faso"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Šamorín",
+      "values": [
+        "Japonsko",
+        "Mongolsko",
+        "Slovensko",
+        "Súdán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kigali",
+      "values": [
+        "Spojené království",
+        "Severní Korea",
+        "Eritrea",
+        "Rwanda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Elche",
+      "values": [
+        "Španělsko",
+        "Tanzanie",
+        "Omán",
+        "Severní Makedonie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hierapolis",
+      "values": [
+        "Island",
+        "Německo",
+        "Turecko",
+        "Kolumbie"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

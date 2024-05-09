@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle amerického sportovce",
+  "questions": [
+    {
+      "key": "Ivan Lendl",
+      "values": [
+        "basketbalista",
+        "cyklista",
+        "golfista",
+        "tenista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lance Armstrong",
+      "values": [
+        "golfista",
+        "basketbalista",
+        "cyklista",
+        "tenista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Patrick Kane",
+      "values": [
+        "tenista",
+        "cyklista",
+        "lední hokejista",
+        "baseballisté"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tiger Woods",
+      "values": [
+        "fotbalista",
+        "taekwondisté",
+        "šachista",
+        "golfista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jason Priestley",
+      "values": [
+        "tenista",
+        "taekwondisté",
+        "automobilový závodník",
+        "šachista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Wilhelm Steinitz",
+      "values": [
+        "tenista",
+        "šachista",
+        "golfista",
+        "boxer"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Auston Matthews",
+      "values": [
+        "fotbalista",
+        "šachista",
+        "automobilový závodník",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jack Hughes",
+      "values": [
+        "lední hokejista",
+        "basketbalista",
+        "automobilový závodník",
+        "golfista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Levy Rozman",
+      "values": [
+        "baseballisté",
+        "šachista",
+        "lední hokejista",
+        "boxer"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Frances Tiafoe",
+      "values": [
+        "fotbalista",
+        "cyklista",
+        "tenista",
+        "golfista"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

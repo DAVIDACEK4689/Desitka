@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] generála?",
+  "questions": [
+    {
+      "key": "Andrej Andrejevič Vlasov",
+      "values": [
+        "sovětského",
+        "ruského",
+        "mexického",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gennadij Židko",
+      "values": [
+        "ruského",
+        "dánského",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "William Tecumseh Sherman",
+      "values": [
+        "amerického",
+        "argentinského",
+        "polského",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miroslav Kácha",
+      "values": [
+        "albánského",
+        "amerického",
+        "českého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hugo Vojta",
+      "values": [
+        "českého",
+        "polského",
+        "řeckého",
+        "albánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Rusov",
+      "values": [
+        "chorvatského",
+        "československého",
+        "myanmarského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Vávra",
+      "values": [
+        "rakouského",
+        "polského",
+        "bulharského",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Micuru Ušidžima",
+      "values": [
+        "myanmarského",
+        "maďarského",
+        "japonského",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anthony McAuliffe",
+      "values": [
+        "řeckého",
+        "rakouského",
+        "japonského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Imrich Gablech",
+      "values": [
+        "sovětského",
+        "amerického",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

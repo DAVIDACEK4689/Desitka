@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Bud Spencer",
+      "values": [
+        "irského",
+        "malajsijského",
+        "norského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Cina",
+      "values": [
+        "českého",
+        "izraelského",
+        "srbského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Juraj Herz",
+      "values": [
+        "malajsijského",
+        "čínského",
+        "indického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Morgan Freeman",
+      "values": [
+        "norského",
+        "ruského",
+        "amerického",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kit Connor",
+      "values": [
+        "sovětského",
+        "kanadského",
+        "tureckého",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Juraj Nvota",
+      "values": [
+        "slovenského",
+        "britského",
+        "čínského",
+        "venezuelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oldo Hlaváček",
+      "values": [
+        "slovenského",
+        "srbského",
+        "maďarského",
+        "čínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Götz George",
+      "values": [
+        "tureckého",
+        "německého",
+        "španělského",
+        "chilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Antonio Cantafora",
+      "values": [
+        "sovětského",
+        "dánského",
+        "italského",
+        "guatemalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Geoffrey Rush",
+      "values": [
+        "izraelského",
+        "novozélandského",
+        "maďarského",
+        "australského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

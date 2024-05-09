@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Řím",
+      "values": [
+        "Berounka",
+        "Lužnice",
+        "Dunaj",
+        "Tibera"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kadaň",
+      "values": [
+        "Malše",
+        "Ohře",
+        "Úhlava",
+        "Úslava"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vaduz",
+      "values": [
+        "Temže",
+        "Rýn",
+        "Svratka",
+        "Lužnice"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lanžhot",
+      "values": [
+        "Dyje",
+        "Temže",
+        "Těrek",
+        "Váha"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dolní Věstonice",
+      "values": [
+        "Tibera",
+        "Dyje",
+        "Hron",
+        "Otava"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hamr na Jezeře",
+      "values": [
+        "Jizera",
+        "Ploučnice",
+        "Rýn",
+        "Úhlava"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gabčíkovo",
+      "values": [
+        "Dunaj",
+        "Lužická Nisa",
+        "Inn",
+        "Chrudimka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sereď",
+      "values": [
+        "Radbuza",
+        "Váha",
+        "Vltava",
+        "Lužická Nisa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vladikavkaz",
+      "values": [
+        "Berounka",
+        "Úslava",
+        "Těrek",
+        "Otava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hlásná Třebaň",
+      "values": [
+        "Berounka",
+        "Inn",
+        "Lužická Nisa",
+        "Úhlava"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

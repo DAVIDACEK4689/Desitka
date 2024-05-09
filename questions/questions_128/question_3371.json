@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte město podle sportovního zařízení",
+  "questions": [
+    {
+      "key": "Puskás Aréna",
+      "values": [
+        "Curych",
+        "Madrid",
+        "Budapešť",
+        "Bělehrad"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Estadio Santiago Bernabéu",
+      "values": [
+        "Londýn",
+        "Madrid",
+        "Tokio",
+        "Curych"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Emirates Stadium",
+      "values": [
+        "Londýn",
+        "Curych",
+        "Tokio",
+        "Bělehrad"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stamford Bridge",
+      "values": [
+        "Curych",
+        "Budapešť",
+        "Bělehrad",
+        "Londýn"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stadion Ference Puskáse",
+      "values": [
+        "Bělehrad",
+        "Madrid",
+        "Curych",
+        "Budapešť"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Twickenham Stadium",
+      "values": [
+        "Budapešť",
+        "Madrid",
+        "Londýn",
+        "Tokio"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Arsenal Stadium",
+      "values": [
+        "Madrid",
+        "Budapešť",
+        "Bělehrad",
+        "Londýn"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nippon Budókan",
+      "values": [
+        "Budapešť",
+        "Bělehrad",
+        "Curych",
+        "Tokio"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stadion Crvena Zvezda",
+      "values": [
+        "Londýn",
+        "Bělehrad",
+        "Budapešť",
+        "Madrid"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "White Hart Lane",
+      "values": [
+        "Londýn",
+        "Madrid",
+        "Bělehrad",
+        "Tokio"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

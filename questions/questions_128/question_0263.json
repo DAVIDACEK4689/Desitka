@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle archeologické lokality",
+  "questions": [
+    {
+      "key": "Syrakusy",
+      "values": [
+        "Itálie",
+        "Maďarsko",
+        "Rakousko",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Olympie",
+      "values": [
+        "Írán",
+        "Francie",
+        "Řecko",
+        "Irák"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Thermopyly",
+      "values": [
+        "Irák",
+        "Řecko",
+        "Chorvatsko",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cefalù",
+      "values": [
+        "Ukrajina",
+        "Izrael",
+        "Rusko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tiberias",
+      "values": [
+        "Izrael",
+        "Řecko",
+        "Chorvatsko",
+        "Tanzanie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Olduvai",
+      "values": [
+        "Afghánistán",
+        "Tanzanie",
+        "Ukrajina",
+        "Švýcarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Debod",
+      "values": [
+        "Izrael",
+        "Sýrie",
+        "Maďarsko",
+        "Egypt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gerulata",
+      "values": [
+        "Slovensko",
+        "Rakousko",
+        "Litva",
+        "Německo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ponza",
+      "values": [
+        "Německo",
+        "Pákistán",
+        "Itálie",
+        "Albánie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anuradhápura",
+      "values": [
+        "Maďarsko",
+        "Tanzanie",
+        "Rusko",
+        "Srí Lanka"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

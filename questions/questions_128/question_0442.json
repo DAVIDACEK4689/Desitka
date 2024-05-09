@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] jezuitu?",
+  "questions": [
+    {
+      "key": "Josef Dobrovský",
+      "values": [
+        "španělského",
+        "nizozemského",
+        "českého",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Antonín Koniáš",
+      "values": [
+        "českého",
+        "švýcarského",
+        "italského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "František Xaverský",
+      "values": [
+        "švýcarského",
+        "španělského",
+        "italského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Lízna",
+      "values": [
+        "slovinského",
+        "anglického",
+        "nizozemského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Joseph Stepling",
+      "values": [
+        "slovenského",
+        "nizozemského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Václav Pantaleon Kirwitzer",
+      "values": [
+        "německého",
+        "francouzského",
+        "českého",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stanislav Kostka",
+      "values": [
+        "německého",
+        "kanadského",
+        "italského",
+        "polského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karl Rahner",
+      "values": [
+        "českého",
+        "anglického",
+        "německého",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexandre de Rhodes",
+      "values": [
+        "německého",
+        "anglického",
+        "francouzského",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Adam František Kollár",
+      "values": [
+        "slovinského",
+        "českého",
+        "polského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

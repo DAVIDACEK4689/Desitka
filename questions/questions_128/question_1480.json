@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] svatého?",
+  "questions": [
+    {
+      "key": "Svatý Václav",
+      "values": [
+        "španělského",
+        "belgického",
+        "českého",
+        "velšského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Svatý Vít",
+      "values": [
+        "italského",
+        "mexického",
+        "ruského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hildegarda z Bingenu",
+      "values": [
+        "slovenského",
+        "německého",
+        "irského",
+        "arménského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Boromejský",
+      "values": [
+        "italského",
+        "peruánského",
+        "súdánského",
+        "egyptského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Andrej Rublev",
+      "values": [
+        "peruánského",
+        "ruského",
+        "irského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Maria Goretti",
+      "values": [
+        "irského",
+        "portugalského",
+        "alžírského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Svatý Fabián",
+      "values": [
+        "mexického",
+        "srbského",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Evaristus",
+      "values": [
+        "egyptského",
+        "súdánského",
+        "italského",
+        "anglického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kornélius",
+      "values": [
+        "alžírského",
+        "italského",
+        "ruského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miltiades",
+      "values": [
+        "libanonského",
+        "mexického",
+        "slovenského",
+        "italského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

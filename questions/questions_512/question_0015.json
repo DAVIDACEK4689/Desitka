@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] miliardáře?",
+  "questions": [
+    {
+      "key": "Elon Musk",
+      "values": [
+        "českého",
+        "rakouského",
+        "ukrajinského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Steve Jobs",
+      "values": [
+        "ukrajinského",
+        "ruského",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ivo Lukačovič",
+      "values": [
+        "ukrajinského",
+        "ruského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zdeněk Bakala",
+      "values": [
+        "českého",
+        "ruského",
+        "ukrajinského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Warren Buffett",
+      "values": [
+        "britského",
+        "amerického",
+        "ukrajinského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Igor Fait",
+      "values": [
+        "britského",
+        "českého",
+        "ukrajinského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Roman Abramovič",
+      "values": [
+        "amerického",
+        "ukrajinského",
+        "ruského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "David Rockefeller",
+      "values": [
+        "ruského",
+        "amerického",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sergey Brin",
+      "values": [
+        "ukrajinského",
+        "českého",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Boris Berezovskij",
+      "values": [
+        "ruského",
+        "rakouského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

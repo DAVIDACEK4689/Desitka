@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Indiana Jones a království křišťálové lebky",
+      "values": [
+        "McG",
+        "Alexander Payne",
+        "Alan Pakula",
+        "Steven Spielberg"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Requiem za sen",
+      "values": [
+        "Sydney Pollack",
+        "Joel Zwick",
+        "Irwin Allen",
+        "Darren Aronofsky"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Scary Movie",
+      "values": [
+        "Alan Pakula",
+        "Robert Wise",
+        "Keenen Ivory Wayans",
+        "Stanley Kubrick"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Iron Man 2",
+      "values": [
+        "Steven Spielberg",
+        "Ron Howard",
+        "Robert Aldrich",
+        "Jon Favreau"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Velká země",
+      "values": [
+        "Brian De Palma",
+        "Christopher Nolan",
+        "William Wyler",
+        "Sylvester Stallone"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Před úsvitem",
+      "values": [
+        "Mark Waters",
+        "Richard Linklater",
+        "Sidney Lumet",
+        "Spike Lee"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vánoční skřítek",
+      "values": [
+        "Jon Favreau",
+        "Steven Spielberg",
+        "Woody Allen",
+        "Rian Johnson"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jasmíniny slzy",
+      "values": [
+        "McG",
+        "Todd Phillips",
+        "Kevin Costner",
+        "Woody Allen"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Interstate 60",
+      "values": [
+        "Bob Gale",
+        "Stanley Kubrick",
+        "John McTiernan",
+        "George Lucas"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mrtví neumírají",
+      "values": [
+        "Jim Jarmusch",
+        "Chloé Zhaová",
+        "John Schlesinger",
+        "Jonathan Demme"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

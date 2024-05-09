@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Málaga",
+      "values": [
+        "Španělsko",
+        "Tanzanie",
+        "Saúdská Arábie",
+        "Ukrajina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Syrakusy",
+      "values": [
+        "Malta",
+        "Norsko",
+        "Itálie",
+        "Černá Hora"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vladivostok",
+      "values": [
+        "Kypr",
+        "Španělsko",
+        "Rusko",
+        "Slovinsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mariupol",
+      "values": [
+        "Slovinsko",
+        "Chorvatsko",
+        "Indonésie",
+        "Ukrajina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gent",
+      "values": [
+        "Venezuela",
+        "Portugalsko",
+        "Albánie",
+        "Belgie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cherson",
+      "values": [
+        "Ukrajina",
+        "Portugalsko",
+        "Slovinsko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rovinj",
+      "values": [
+        "Německo",
+        "Chorvatsko",
+        "Albánie",
+        "Turecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ajaccio",
+      "values": [
+        "Ázerbájdžán",
+        "Francie",
+        "Albánie",
+        "Uruguay"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "La Rochelle",
+      "values": [
+        "Chorvatsko",
+        "Portugalsko",
+        "Francie",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "La Spezia",
+      "values": [
+        "Saúdská Arábie",
+        "Bulharsko",
+        "Malta",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

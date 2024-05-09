@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] automobilku?",
+  "questions": [
+    {
+      "key": "Volkswagen",
+      "values": [
+        "indickou",
+        "polskou",
+        "nizozemskou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Opel",
+      "values": [
+        "ruskou",
+        "nizozemskou",
+        "německou",
+        "švýcarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "SEAT",
+      "values": [
+        "jihokorejskou",
+        "španělskou",
+        "vietnamskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Maserati",
+      "values": [
+        "japonskou",
+        "polskou",
+        "francouzskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Suzuki",
+      "values": [
+        "tureckou",
+        "japonskou",
+        "australskou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tata Motors",
+      "values": [
+        "britskou",
+        "italskou",
+        "maďarskou",
+        "indickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Polestar",
+      "values": [
+        "britskou",
+        "švédskou",
+        "polskou",
+        "německou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Desta",
+      "values": [
+        "jugoslávskou",
+        "českou",
+        "indickou",
+        "tureckou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fiat",
+      "values": [
+        "švédskou",
+        "italskou",
+        "tureckou",
+        "českou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tatra Defence Vehicle",
+      "values": [
+        "indickou",
+        "jugoslávskou",
+        "českou",
+        "nizozemskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kytaristu?",
+  "questions": [
+    {
+      "key": "Jan Nedvěd",
+      "values": [
+        "českého",
+        "kanadského",
+        "nizozemského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ivan Král",
+      "values": [
+        "jamajského",
+        "australského",
+        "irského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Varg Vikernes",
+      "values": [
+        "španělského",
+        "norského",
+        "argentinského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Štěpán Rak",
+      "values": [
+        "švédského",
+        "francouzského",
+        "brazilského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zbyněk Bobr Horák",
+      "values": [
+        "španělského",
+        "maďarského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dave Navarro",
+      "values": [
+        "amerického",
+        "maďarského",
+        "slovenského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Axel Rudi Pell",
+      "values": [
+        "maďarského",
+        "německého",
+        "nizozemského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Orianthi",
+      "values": [
+        "australského",
+        "jamajského",
+        "amerického",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David Babka",
+      "values": [
+        "španělského",
+        "českého",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jussi Sydänmaa",
+      "values": [
+        "britského",
+        "finského",
+        "slovenského",
+        "jihoafrického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

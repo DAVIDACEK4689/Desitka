@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] ledního hokejistu?",
+  "questions": [
+    {
+      "key": "Tomáš Plekanec",
+      "values": [
+        "slovenského",
+        "amerického",
+        "českého",
+        "lotyšského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luděk Čajka",
+      "values": [
+        "československého",
+        "finského",
+        "lotyšského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Boris Valábik",
+      "values": [
+        "švédského",
+        "československého",
+        "finského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Musil",
+      "values": [
+        "českého",
+        "polského",
+        "sovětského",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Viktor Tichonov",
+      "values": [
+        "švýcarského",
+        "sovětského",
+        "ruského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Peter Draisaitl",
+      "values": [
+        "amerického",
+        "švýcarského",
+        "sovětského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Paul Kariya",
+      "values": [
+        "kanadského",
+        "českého",
+        "polského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lukáš Dostál",
+      "values": [
+        "kanadského",
+        "československého",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "René Fasel",
+      "values": [
+        "švýcarského",
+        "sovětského",
+        "kanadského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Richard Jarůšek",
+      "values": [
+        "polského",
+        "kanadského",
+        "finského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

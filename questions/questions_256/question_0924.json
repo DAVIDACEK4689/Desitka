@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Oslo",
+      "values": [
+        "Izrael",
+        "Norsko",
+        "Tunisko",
+        "Gruzie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bruggy",
+      "values": [
+        "Alžírsko",
+        "Argentina",
+        "Tunisko",
+        "Belgie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Caorle",
+      "values": [
+        "Černá Hora",
+        "Albánie",
+        "Kypr",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cádiz",
+      "values": [
+        "Argentina",
+        "Španělsko",
+        "Ukrajina",
+        "Litva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Makarska",
+      "values": [
+        "Ekvádor",
+        "Chorvatsko",
+        "Ázerbájdžán",
+        "Libanon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Faro",
+      "values": [
+        "Ekvádor",
+        "Senegal",
+        "Portugalsko",
+        "Jamajka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ostende",
+      "values": [
+        "Mauritánie",
+        "Jihoafrická republika",
+        "Finsko",
+        "Belgie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Benghází",
+      "values": [
+        "Saúdská Arábie",
+        "Jihoafrická republika",
+        "Libye",
+        "Polsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luleå",
+      "values": [
+        "Alžírsko",
+        "Švédsko",
+        "Kypr",
+        "Španělsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bastia",
+      "values": [
+        "Francie",
+        "Tunisko",
+        "Nigérie",
+        "Ekvádor"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

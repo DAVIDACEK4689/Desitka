@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva u Verdunu",
+      "values": [
+        "1916",
+        "1619",
+        "805",
+        "1942"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva o Berlín",
+      "values": [
+        "1620",
+        "1976",
+        "1916",
+        "1945"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Kolína",
+      "values": [
+        "1434",
+        "1389",
+        "1757",
+        "1941"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pražská ofenzíva",
+      "values": [
+        "1938",
+        "1040",
+        "1683",
+        "1945"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Gravelines",
+      "values": [
+        "1588",
+        "1953",
+        "1813",
+        "1805"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Operace Jarní probuzení",
+      "values": [
+        "1945",
+        "1939",
+        "1941",
+        "1346"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Doss Alto",
+      "values": [
+        "1918",
+        "1688",
+        "2024",
+        "1919"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Friedlandu",
+      "values": [
+        "1807",
+        "1918",
+        "1757",
+        "1426"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Abúkíru",
+      "values": [
+        "1410",
+        "1798",
+        "1945",
+        "1214"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva o Ržev",
+      "values": [
+        "1942",
+        "1849",
+        "1438",
+        "1789"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

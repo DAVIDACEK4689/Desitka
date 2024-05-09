@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] evropskou kulturu?",
+  "questions": [
+    {
+      "key": "Den svatého Patrika",
+      "values": [
+        "irskou",
+        "ukrajinskou",
+        "ruskou",
+        "tureckou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Korida",
+      "values": [
+        "nizozemskou",
+        "německou",
+        "španělskou",
+        "maďarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vilém Tell",
+      "values": [
+        "britskou",
+        "irskou",
+        "českou",
+        "švýcarskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Flamenco",
+      "values": [
+        "německou",
+        "maďarskou",
+        "španělskou",
+        "finskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Toreador",
+      "values": [
+        "běloruskou",
+        "polskou",
+        "českou",
+        "španělskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dvanáct bobulí révy",
+      "values": [
+        "maďarskou",
+        "irskou",
+        "řeckou",
+        "španělskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sokol",
+      "values": [
+        "rakouskou",
+        "českou",
+        "ukrajinskou",
+        "běloruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joulupukki",
+      "values": [
+        "finskou",
+        "španělskou",
+        "nizozemskou",
+        "řeckou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vídeňská secese",
+      "values": [
+        "francouzskou",
+        "rakouskou",
+        "švýcarskou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karl Friedrich Hieronymus von Münchhausen",
+      "values": [
+        "švýcarskou",
+        "německou",
+        "ruskou",
+        "českou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

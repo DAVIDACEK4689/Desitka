@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kytaristu?",
+  "questions": [
+    {
+      "key": "Vladimír Mišík",
+      "values": [
+        "australského",
+        "italského",
+        "jihoafrického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Richard Kybic",
+      "values": [
+        "norského",
+        "slovenského",
+        "finského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Tichota",
+      "values": [
+        "dánského",
+        "českého",
+        "italského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Roman Horký",
+      "values": [
+        "českého",
+        "jamajského",
+        "francouzského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jaroslav Velinský",
+      "values": [
+        "argentinského",
+        "českého",
+        "mexického",
+        "jihoafrického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavel Hanus",
+      "values": [
+        "maďarského",
+        "českého",
+        "francouzského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ludvík Dietrich",
+      "values": [
+        "finského",
+        "dánského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Henych",
+      "values": [
+        "českého",
+        "irského",
+        "jihoafrického",
+        "jamajského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Steve Gaines",
+      "values": [
+        "dánského",
+        "finského",
+        "australského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pat Metheny",
+      "values": [
+        "amerického",
+        "finského",
+        "mexického",
+        "norského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

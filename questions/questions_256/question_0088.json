@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] ateistu?",
+  "questions": [
+    {
+      "key": "Ernest Hemingway",
+      "values": [
+        "chorvatského",
+        "amerického",
+        "nizozemského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josip Broz Tito",
+      "values": [
+        "ruského",
+        "chorvatského",
+        "švédského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "James Cameron",
+      "values": [
+        "židovského",
+        "maďarského",
+        "kanadského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eva Greenová",
+      "values": [
+        "kanadského",
+        "nizozemského",
+        "francouzského",
+        "arménského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kurt Vonnegut",
+      "values": [
+        "amerického",
+        "chorvatského",
+        "židovského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "André Breton",
+      "values": [
+        "francouzského",
+        "ukrajinského",
+        "mexického",
+        "židovského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Günter Grass",
+      "values": [
+        "norského",
+        "německého",
+        "bulharského",
+        "skotského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Luis Buñuel",
+      "values": [
+        "finského",
+        "španělského",
+        "nizozemského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oscar Niemeyer",
+      "values": [
+        "britského",
+        "albánského",
+        "kubánského",
+        "brazilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michael Pitt",
+      "values": [
+        "amerického",
+        "nizozemského",
+        "arménského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

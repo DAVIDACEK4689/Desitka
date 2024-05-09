@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fyzika?",
+  "questions": [
+    {
+      "key": "Gottfried Wilhelm Leibniz",
+      "values": [
+        "srbského",
+        "ruského",
+        "australského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Klaus Fuchs",
+      "values": [
+        "indického",
+        "sovětského",
+        "německého",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "František Janouch",
+      "values": [
+        "českého",
+        "dánského",
+        "australského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Louis de Broglie",
+      "values": [
+        "italského",
+        "kanadského",
+        "francouzského",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Edward Witten",
+      "values": [
+        "indického",
+        "britského",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Otto von Guericke",
+      "values": [
+        "sovětského",
+        "australského",
+        "španělského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pierre Agostini",
+      "values": [
+        "polského",
+        "francouzského",
+        "sovětského",
+        "íránského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Johann Bernoulli",
+      "values": [
+        "českého",
+        "běloruského",
+        "švýcarského",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Émilie du Châtelet",
+      "values": [
+        "francouzského",
+        "italského",
+        "sovětského",
+        "izraelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Otto Stern",
+      "values": [
+        "amerického",
+        "rakouského",
+        "německého",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

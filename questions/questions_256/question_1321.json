@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fyzika?",
+  "questions": [
+    {
+      "key": "Stephen Hawking",
+      "values": [
+        "irského",
+        "švédského",
+        "rakouského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Frank Oppenheimer",
+      "values": [
+        "dánského",
+        "amerického",
+        "irského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gottfried Wilhelm Leibniz",
+      "values": [
+        "německého",
+        "ruského",
+        "maďarského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Carl Friedrich Gauss",
+      "values": [
+        "německého",
+        "íránského",
+        "kanadského",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Leonhard Euler",
+      "values": [
+        "švýcarského",
+        "britského",
+        "francouzského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Antoni van Leeuwenhoek",
+      "values": [
+        "nizozemského",
+        "španělského",
+        "dánského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Denis Papin",
+      "values": [
+        "francouzského",
+        "rakouského",
+        "španělského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Thomas Samuel Kuhn",
+      "values": [
+        "španělského",
+        "českého",
+        "amerického",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michio Kaku",
+      "values": [
+        "rakouského",
+        "íránského",
+        "amerického",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Henri Poincaré",
+      "values": [
+        "srbského",
+        "francouzského",
+        "nizozemského",
+        "italského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "Karel Schwarzenberg",
+      "values": [
+        "portugalského",
+        "britského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Švehlík",
+      "values": [
+        "francouzského",
+        "švýcarského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dana Němcová",
+      "values": [
+        "kanadského",
+        "italského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Francesco Petrarca",
+      "values": [
+        "francouzského",
+        "českého",
+        "italského",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gianluigi Buffon",
+      "values": [
+        "maďarského",
+        "italského",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Enzo Ferrari",
+      "values": [
+        "britského",
+        "italského",
+        "švýcarského",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Roman Joch",
+      "values": [
+        "portugalského",
+        "italského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Guglielmo Marconi",
+      "values": [
+        "německého",
+        "francouzského",
+        "švýcarského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josephine Bakerová",
+      "values": [
+        "českého",
+        "francouzského",
+        "německého",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Doubravka Přemyslovna",
+      "values": [
+        "německého",
+        "švýcarského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

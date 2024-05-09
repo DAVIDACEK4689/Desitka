@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] ateistu?",
+  "questions": [
+    {
+      "key": "Vladimir Iljič Lenin",
+      "values": [
+        "ruského",
+        "polského",
+        "kanadského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lavrentij Pavlovič Berija",
+      "values": [
+        "chorvatského",
+        "arménského",
+        "italského",
+        "gruzínského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Warren Buffett",
+      "values": [
+        "kanadského",
+        "amerického",
+        "indického",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Helen Mirrenová",
+      "values": [
+        "britského",
+        "brazilského",
+        "skotského",
+        "běloruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michel Houellebecq",
+      "values": [
+        "skotského",
+        "rumunského",
+        "francouzského",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Natalie Dormerová",
+      "values": [
+        "kubánského",
+        "běloruského",
+        "chorvatského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stanisław Lem",
+      "values": [
+        "polského",
+        "chorvatského",
+        "britského",
+        "islandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michail Alexandrovič Bakunin",
+      "values": [
+        "islandského",
+        "arménského",
+        "italského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ondřej Tesárek",
+      "values": [
+        "českého",
+        "albánského",
+        "mexického",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jacques Lacan",
+      "values": [
+        "kubánského",
+        "černohorského",
+        "francouzského",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

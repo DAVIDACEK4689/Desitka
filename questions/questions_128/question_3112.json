@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] právníka?",
+  "questions": [
+    {
+      "key": "Karel Hynek Mácha",
+      "values": [
+        "českého",
+        "ruského",
+        "rumunského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Konrad Adenauer",
+      "values": [
+        "českého",
+        "ruského",
+        "německého",
+        "argentinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stanislav Novotný",
+      "values": [
+        "českého",
+        "dánského",
+        "rumunského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zdeněk Kühn",
+      "values": [
+        "argentinského",
+        "českého",
+        "mexického",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Walburga Habsburg Douglas",
+      "values": [
+        "rakouského",
+        "slovinského",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Anatolij Sobčak",
+      "values": [
+        "ruského",
+        "srbského",
+        "argentinského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Milan Feranec",
+      "values": [
+        "izraelského",
+        "srbského",
+        "českého",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gáspár Orbán",
+      "values": [
+        "finského",
+        "švýcarského",
+        "maďarského",
+        "lotyšského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Radoslav Procházka",
+      "values": [
+        "slovenského",
+        "amerického",
+        "rumunského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Krčmář",
+      "values": [
+        "českého",
+        "finského",
+        "britského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

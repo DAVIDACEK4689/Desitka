@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [typ] organizaci?",
+  "questions": [
+    {
+      "key": "Řád templářů",
+      "values": [
+        "hospodářskou",
+        "zaniklou",
+        "fiktivní",
+        "politickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rudí Khmerové",
+      "values": [
+        "politickou",
+        "partyzánskou",
+        "ekologickou",
+        "mezinárodní"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Integrovaný záchranný systém",
+      "values": [
+        "humanitární",
+        "zdravotnickou",
+        "fiktivní",
+        "partyzánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Interpol",
+      "values": [
+        "vědeckou",
+        "politickou",
+        "mezinárodní",
+        "partyzánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Smrtijed",
+      "values": [
+        "vědeckou",
+        "fiktivní",
+        "partyzánskou",
+        "mezinárodní"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Camorra",
+      "values": [
+        "vědeckou",
+        "politickou",
+        "hospodářskou",
+        "zločineckou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Greenpeace",
+      "values": [
+        "ekologickou",
+        "partyzánskou",
+        "fiktivní",
+        "zaniklou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kosovská osvobozenecká armáda",
+      "values": [
+        "partyzánskou",
+        "zaniklou",
+        "vědeckou",
+        "mezinárodní"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "ADRA",
+      "values": [
+        "humanitární",
+        "zločineckou",
+        "ekologickou",
+        "mezinárodní"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Trilaterální komise",
+      "values": [
+        "mezinárodní",
+        "vědeckou",
+        "hospodářskou",
+        "ekologickou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

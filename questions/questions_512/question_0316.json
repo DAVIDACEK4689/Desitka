@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Zabijáci rozkvetlého měsíce",
+      "values": [
+        "Alfred Hitchcock",
+        "Kelly Asbury",
+        "Robert Zemeckis",
+        "Martin Scorsese"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pretty Woman",
+      "values": [
+        "William Wyler",
+        "Chris Columbus",
+        "Sylvester Stallone",
+        "Garry Marshall"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zachraňte vojína Ryana",
+      "values": [
+        "Steven Spielberg",
+        "David Frankel",
+        "Dean Parisot",
+        "Sylvester Stallone"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Čistá duše",
+      "values": [
+        "Sydney Pollack",
+        "Ron Howard",
+        "Frank Darabont",
+        "Stanley Kubrick"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Legenda o vášni",
+      "values": [
+        "Darren Aronofsky",
+        "Steven Spielberg",
+        "Edward Zwick",
+        "Rian Johnson"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Batman začíná",
+      "values": [
+        "Christopher Nolan",
+        "Dean Parisot",
+        "Jonathan Demme",
+        "Terry Gilliam"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rain Man",
+      "values": [
+        "Rian Johnson",
+        "Terry Gilliam",
+        "Alfred Hitchcock",
+        "Barry Levinson"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Noční můra v Elm Street",
+      "values": [
+        "Martin Scorsese",
+        "William Friedkin",
+        "Steven Soderbergh",
+        "Wes Craven"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Terminátor Genisys",
+      "values": [
+        "Alan Taylor",
+        "Frank Darabont",
+        "Nick Cassavetes",
+        "Steven Soderbergh"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rocky IV",
+      "values": [
+        "Darren Aronofsky",
+        "Mel Gibson",
+        "Sylvester Stallone",
+        "Dean Parisot"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

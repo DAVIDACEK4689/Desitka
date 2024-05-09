@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Lagos",
+      "values": [
+        "Švédsko",
+        "Nigérie",
+        "Belgie",
+        "Rumunsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ašchabad",
+      "values": [
+        "Nepál",
+        "Turkmenistán",
+        "Jordánsko",
+        "Kamerun"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bled",
+      "values": [
+        "Grónsko",
+        "Slovinsko",
+        "Kolumbie",
+        "Srbsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Évora",
+      "values": [
+        "Kapverdy",
+        "Sýrie",
+        "Portugalsko",
+        "Malta"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jyväskylä",
+      "values": [
+        "Benin",
+        "Černá Hora",
+        "Tanzanie",
+        "Finsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zandvoort",
+      "values": [
+        "Egypt",
+        "Albánie",
+        "Nizozemsko",
+        "Norsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stockerau",
+      "values": [
+        "Španělsko",
+        "Srbsko",
+        "Mosambik",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sümeg",
+      "values": [
+        "Spojené království",
+        "Maďarsko",
+        "Švédsko",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Požega",
+      "values": [
+        "Nepál",
+        "Norsko",
+        "Chorvatsko",
+        "Thajsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lelystad",
+      "values": [
+        "Nový Zéland",
+        "Finsko",
+        "Vietnam",
+        "Nizozemsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

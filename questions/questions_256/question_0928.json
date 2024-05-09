@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Riga",
+      "values": [
+        "Finsko",
+        "Irsko",
+        "Uruguay",
+        "Lotyšsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Palermo",
+      "values": [
+        "Finsko",
+        "Indie",
+        "Argentina",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Heráklion",
+      "values": [
+        "Japonsko",
+        "Rumunsko",
+        "Malta",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "San Sebastián",
+      "values": [
+        "Francie",
+        "Černá Hora",
+        "Alžírsko",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Machačkala",
+      "values": [
+        "Rusko",
+        "Nizozemsko",
+        "Indonésie",
+        "Indie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Salerno",
+      "values": [
+        "Lotyšsko",
+        "Rusko",
+        "Itálie",
+        "Irsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Toulon",
+      "values": [
+        "Itálie",
+        "Kolumbie",
+        "Francie",
+        "Japonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "A Coruña",
+      "values": [
+        "Irsko",
+        "Bulharsko",
+        "Libérie",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Trabzon",
+      "values": [
+        "Turecko",
+        "Alžírsko",
+        "Libérie",
+        "Ekvádor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nuakšott",
+      "values": [
+        "Španělsko",
+        "Tanzanie",
+        "Ázerbájdžán",
+        "Mauritánie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] leteckou společnost?",
+  "questions": [
+    {
+      "key": "Ryanair",
+      "values": [
+        "srbskou",
+        "katarskou",
+        "maďarskou",
+        "irskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "KLM",
+      "values": [
+        "nizozemskou",
+        "srbskou",
+        "britskou",
+        "tureckou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Qatar Airways",
+      "values": [
+        "rakouskou",
+        "irskou",
+        "katarskou",
+        "etiopskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "LOT",
+      "values": [
+        "lotyšskou",
+        "polskou",
+        "jihokorejskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vueling",
+      "values": [
+        "nizozemskou",
+        "španělskou",
+        "českou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Iberia",
+      "values": [
+        "jihokorejskou",
+        "španělskou",
+        "srbskou",
+        "izraelskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Korean Air",
+      "values": [
+        "tureckou",
+        "etiopskou",
+        "německou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Qantas",
+      "values": [
+        "katarskou",
+        "australskou",
+        "polskou",
+        "lotyšskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aegean Airlines",
+      "values": [
+        "řeckou",
+        "tureckou",
+        "německou",
+        "českou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Swiss International Air Lines",
+      "values": [
+        "nizozemskou",
+        "španělskou",
+        "švýcarskou",
+        "katarskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

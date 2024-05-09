@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Budapešť",
+      "values": [
+        "Hornád",
+        "Dunaj",
+        "Sázava",
+        "Ploučnice"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Varšava",
+      "values": [
+        "Visla",
+        "Ohře",
+        "Hron",
+        "Chrudimka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Poděbrady",
+      "values": [
+        "Sázava",
+        "Spréva",
+        "Eufrat",
+        "Labe"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Louny",
+      "values": [
+        "Dyje",
+        "Volha",
+        "Ohře",
+        "Jizera"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hlinsko",
+      "values": [
+        "Chrudimka",
+        "Ohře",
+        "Vltava",
+        "Hornád"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oxford",
+      "values": [
+        "Něva",
+        "Chrudimka",
+        "Labe",
+        "Temže"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karlín",
+      "values": [
+        "Vltava",
+        "Lužnice",
+        "Labe",
+        "Něva"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Samara",
+      "values": [
+        "Úhlava",
+        "Metuje",
+        "Volha",
+        "Labe"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Horažďovice",
+      "values": [
+        "Cidlina",
+        "Otava",
+        "Chrudimka",
+        "Ploučnice"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Segedín",
+      "values": [
+        "Labe",
+        "Úhlava",
+        "Tis",
+        "Bečva"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

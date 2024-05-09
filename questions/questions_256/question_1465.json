@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Milan Baroš",
+      "values": [
+        "českého",
+        "gruzínského",
+        "chorvatského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Luís Figo",
+      "values": [
+        "portugalského",
+        "marockého",
+        "argentinského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Chorý",
+      "values": [
+        "českého",
+        "velšského",
+        "ghanského",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Valentin Afonin",
+      "values": [
+        "kamerunského",
+        "sovětského",
+        "uruguayského",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mauricio Pochettino",
+      "values": [
+        "brazilského",
+        "uruguayského",
+        "argentinského",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lothar Matthäus",
+      "values": [
+        "irského",
+        "skotského",
+        "maďarského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gabriel Batistuta",
+      "values": [
+        "norského",
+        "belgického",
+        "argentinského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Fleišman",
+      "values": [
+        "českého",
+        "kamerunského",
+        "polského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kaan Kairinen",
+      "values": [
+        "albánského",
+        "ekvádorského",
+        "anglického",
+        "finského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gerardo Martino",
+      "values": [
+        "tureckého",
+        "argentinského",
+        "ekvádorského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

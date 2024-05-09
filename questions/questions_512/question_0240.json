@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] evropského podnikatele?",
+  "questions": [
+    {
+      "key": "Radoslav Brzobohatý",
+      "values": [
+        "českého",
+        "řeckého",
+        "francouzského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Igor Matovič",
+      "values": [
+        "ukrajinského",
+        "švýcarského",
+        "britského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oliver Dlouhý",
+      "values": [
+        "českého",
+        "švédského",
+        "britského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eduard Heger",
+      "values": [
+        "slovenského",
+        "britského",
+        "českého",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Václav Fischer",
+      "values": [
+        "ruského",
+        "německého",
+        "švýcarského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Východoevropský oligarcha",
+      "values": [
+        "britského",
+        "ruského",
+        "italského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Heinrich Mattoni",
+      "values": [
+        "českého",
+        "švýcarského",
+        "ruského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stanislav Bernard",
+      "values": [
+        "švýcarského",
+        "švédského",
+        "nizozemského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pierluigi Collina",
+      "values": [
+        "britského",
+        "rakouského",
+        "německého",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Boris Berezovskij",
+      "values": [
+        "slovenského",
+        "ruského",
+        "britského",
+        "italského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

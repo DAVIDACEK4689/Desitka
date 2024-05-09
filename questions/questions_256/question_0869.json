@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] právníka?",
+  "questions": [
+    {
+      "key": "Karel Hynek Mácha",
+      "values": [
+        "britského",
+        "peruánského",
+        "ukrajinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pavel Blažek",
+      "values": [
+        "ukrajinského",
+        "řeckého",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexander Bach",
+      "values": [
+        "srbského",
+        "rakouského",
+        "ukrajinského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivo Jahelka",
+      "values": [
+        "argentinského",
+        "českého",
+        "srbského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kaja Kallasová",
+      "values": [
+        "slovenského",
+        "britského",
+        "estonského",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roland Freisler",
+      "values": [
+        "německého",
+        "švýcarského",
+        "estonského",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Milan Kindl",
+      "values": [
+        "maďarského",
+        "německého",
+        "českého",
+        "argentinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Nejedlý",
+      "values": [
+        "švýcarského",
+        "českého",
+        "argentinského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tomáš Král",
+      "values": [
+        "polského",
+        "českého",
+        "britského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Egils Levits",
+      "values": [
+        "polského",
+        "rakouského",
+        "lotyšského",
+        "argentinského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

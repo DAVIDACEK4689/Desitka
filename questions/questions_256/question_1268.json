@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] miliardáře?",
+  "questions": [
+    {
+      "key": "Daniel Křetínský",
+      "values": [
+        "ukrajinského",
+        "českého",
+        "rakouského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kanye West",
+      "values": [
+        "amerického",
+        "britského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Komárek mladší",
+      "values": [
+        "ruského",
+        "rakouského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Fiala",
+      "values": [
+        "českého",
+        "ukrajinského",
+        "britského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "George Lucas",
+      "values": [
+        "ukrajinského",
+        "amerického",
+        "ruského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "John Pierpont Morgan",
+      "values": [
+        "amerického",
+        "českého",
+        "slovenského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavel Sehnal",
+      "values": [
+        "britského",
+        "amerického",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Larry Ellison",
+      "values": [
+        "slovenského",
+        "amerického",
+        "britského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Vohánka",
+      "values": [
+        "ukrajinského",
+        "ruského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dustin Moskovitz",
+      "values": [
+        "rakouského",
+        "ukrajinského",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

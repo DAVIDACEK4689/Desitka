@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Hana Zagorová",
+      "values": [
+        "australskou",
+        "finskou",
+        "českou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Šárka Vaňková",
+      "values": [
+        "jihokorejskou",
+        "nizozemskou",
+        "českou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petra Vojtková",
+      "values": [
+        "indickou",
+        "španělskou",
+        "japonskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Radana Labajová",
+      "values": [
+        "polskou",
+        "švédskou",
+        "českou",
+        "maďarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jarmila Šuláková",
+      "values": [
+        "českou",
+        "kolumbijskou",
+        "kanadskou",
+        "švédskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zdena Salivarová",
+      "values": [
+        "nizozemskou",
+        "českou",
+        "uruguayskou",
+        "islandskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eva Adams",
+      "values": [
+        "slovenskou",
+        "českou",
+        "polskou",
+        "švédskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jana Kocianová",
+      "values": [
+        "slovenskou",
+        "ukrajinskou",
+        "kanadskou",
+        "finskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jolana Smyčková",
+      "values": [
+        "irskou",
+        "švédskou",
+        "českou",
+        "izraelskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Simone Simons",
+      "values": [
+        "norskou",
+        "kanadskou",
+        "nizozemskou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

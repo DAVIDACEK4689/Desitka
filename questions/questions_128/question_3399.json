@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filozofa?",
+  "questions": [
+    {
+      "key": "Gautama Buddha",
+      "values": [
+        "egyptského",
+        "čínského",
+        "kanadského",
+        "indického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bernard Bolzano",
+      "values": [
+        "brazilského",
+        "německého",
+        "českého",
+        "čínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Henri Bergson",
+      "values": [
+        "slovenského",
+        "francouzského",
+        "švédského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ludwig Feuerbach",
+      "values": [
+        "britského",
+        "německého",
+        "rakouského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Xenofanés",
+      "values": [
+        "indického",
+        "francouzského",
+        "slovinského",
+        "řeckého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zdeněk Vašíček",
+      "values": [
+        "britského",
+        "českého",
+        "bulharského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nágárdžuna",
+      "values": [
+        "německého",
+        "britského",
+        "indického",
+        "bulharského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gáspár Miklós Tamás",
+      "values": [
+        "čínského",
+        "švýcarského",
+        "perského",
+        "maďarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lorenzo Valla",
+      "values": [
+        "perského",
+        "českého",
+        "italského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aspasia",
+      "values": [
+        "sovětského",
+        "řeckého",
+        "slovenského",
+        "perského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

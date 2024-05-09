@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] lékaře?",
+  "questions": [
+    {
+      "key": "Marek Hilšer",
+      "values": [
+        "českého",
+        "německého",
+        "kanadského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Daniella Rush",
+      "values": [
+        "amerického",
+        "českého",
+        "britského",
+        "chilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Cimický",
+      "values": [
+        "britského",
+        "českého",
+        "chilského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Louis Pasteur",
+      "values": [
+        "rakouského",
+        "francouzského",
+        "chilského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kamal Farhan",
+      "values": [
+        "švýcarského",
+        "německého",
+        "kanadského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gabor Maté",
+      "values": [
+        "chilského",
+        "kanadského",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vavro Šrobár",
+      "values": [
+        "českého",
+        "rakouského",
+        "slovenského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ludvík Souček",
+      "values": [
+        "německého",
+        "českého",
+        "chilského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Lewit",
+      "values": [
+        "švýcarského",
+        "francouzského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Nesvadba",
+      "values": [
+        "chilského",
+        "amerického",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

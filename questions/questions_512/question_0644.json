@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle náboženství",
+  "questions": [
+    {
+      "key": "Judaismus",
+      "values": [
+        "Izrael",
+        "Irák",
+        "Mexiko",
+        "Byzantská říše"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jeruzalém",
+      "values": [
+        "Izrael",
+        "Irák",
+        "Česko",
+        "Palestina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Betlém",
+      "values": [
+        "Mexiko",
+        "Japonsko",
+        "Palestina",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Šintoismus",
+      "values": [
+        "Byzantská říše",
+        "Japonsko",
+        "Řecko",
+        "Palestina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Samaritáni",
+      "values": [
+        "Mexiko",
+        "Izrael",
+        "Omán",
+        "Irák"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rastafariánství",
+      "values": [
+        "Jamajka",
+        "Omán",
+        "Řecko",
+        "Izrael"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sinčchondži",
+      "values": [
+        "Byzantská říše",
+        "Irák",
+        "Izrael",
+        "Jižní Korea"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Věštírna v Delfách",
+      "values": [
+        "Japonsko",
+        "Česko",
+        "Řecko",
+        "Mexiko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jezídové",
+      "values": [
+        "Mexiko",
+        "Česko",
+        "Irák",
+        "Japonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Panna Maria Guadalupská",
+      "values": [
+        "Irák",
+        "Mexiko",
+        "Izrael",
+        "Řecko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

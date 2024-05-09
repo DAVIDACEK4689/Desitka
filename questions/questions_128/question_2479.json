@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] novináře?",
+  "questions": [
+    {
+      "key": "Láďa Hruška",
+      "values": [
+        "slovenského",
+        "francouzského",
+        "českého",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Špaček",
+      "values": [
+        "německého",
+        "polského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomáš Cikrt",
+      "values": [
+        "francouzského",
+        "rakouského",
+        "českého",
+        "běloruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nikol Pašinjan",
+      "values": [
+        "dánského",
+        "francouzského",
+        "arménského",
+        "československého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomáš Chalupa",
+      "values": [
+        "československého",
+        "dánského",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Matthias Erzberger",
+      "values": [
+        "australského",
+        "českého",
+        "německého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Viliam Roth",
+      "values": [
+        "arménského",
+        "belgického",
+        "ukrajinského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kurt Tucholsky",
+      "values": [
+        "německého",
+        "britského",
+        "izraelského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Arman Soldin",
+      "values": [
+        "československého",
+        "saúdskoarabského",
+        "francouzského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čeněk Hruška",
+      "values": [
+        "dánského",
+        "španělského",
+        "českého",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

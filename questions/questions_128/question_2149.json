@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Budapešť",
+      "values": [
+        "Maďarsko",
+        "Omán",
+        "Kolumbie",
+        "Chorvatsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bojnice",
+      "values": [
+        "Honduras",
+        "Slovensko",
+        "Brazílie",
+        "Černá Hora"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Benidorm",
+      "values": [
+        "Srí Lanka",
+        "Španělsko",
+        "Komora",
+        "Severní Makedonie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rakka",
+      "values": [
+        "Mosambik",
+        "Etiopie",
+        "Sýrie",
+        "Severní Makedonie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zug",
+      "values": [
+        "Belgie",
+        "Myanmar",
+        "Východní Timor",
+        "Švýcarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ubud",
+      "values": [
+        "Uzbekistán",
+        "Indonésie",
+        "Irák",
+        "Nigérie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bandung",
+      "values": [
+        "Itálie",
+        "Indonésie",
+        "Severní Korea",
+        "Švédsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kaštela",
+      "values": [
+        "Indie",
+        "Jordánsko",
+        "Chorvatsko",
+        "Sýrie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tulcea",
+      "values": [
+        "Rumunsko",
+        "Moldavsko",
+        "Palau",
+        "Pákistán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rheinfelden",
+      "values": [
+        "Marshallovy ostrovy",
+        "Severní Makedonie",
+        "Švýcarsko",
+        "Brazílie"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Wolfgang Amadeus Mozart",
+      "values": [
+        "rakouského",
+        "ruského",
+        "brazilského",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Avril Lavigne",
+      "values": [
+        "polského",
+        "českého",
+        "finského",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Císler",
+      "values": [
+        "amerického",
+        "estonského",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Giacomo Puccini",
+      "values": [
+        "estonského",
+        "italského",
+        "řeckého",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vangelis",
+      "values": [
+        "ruského",
+        "brazilského",
+        "amerického",
+        "řeckého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Červený",
+      "values": [
+        "českého",
+        "ruského",
+        "japonského",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Cerha",
+      "values": [
+        "kanadského",
+        "německého",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gaetano Donizetti",
+      "values": [
+        "britského",
+        "argentinského",
+        "brazilského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marián Čurko",
+      "values": [
+        "slovenského",
+        "rakouského",
+        "švédského",
+        "estonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Viktor Ullmann",
+      "values": [
+        "rakouského",
+        "australského",
+        "italského",
+        "estonského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

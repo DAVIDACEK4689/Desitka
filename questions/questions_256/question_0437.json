@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva u Midwaye",
+      "values": [
+        "1942",
+        "1945",
+        "1933",
+        "1757"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Operace Market Garden",
+      "values": [
+        "1944",
+        "1389",
+        "1421",
+        "1877"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Operace Bagration",
+      "values": [
+        "1421",
+        "1944",
+        "1876",
+        "1645"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Povstání ve varšavském ghettu",
+      "values": [
+        "1945",
+        "1943",
+        "1849",
+        "1688"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Tachova",
+      "values": [
+        "1620",
+        "1427",
+        "1877",
+        "1697"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva o Kyjevský kotel",
+      "values": [
+        "1863",
+        "1415",
+        "1941",
+        "1758"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nálet na Mladou Boleslav",
+      "values": [
+        "1954",
+        "1945",
+        "805",
+        "1942"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Magdeburská svatba",
+      "values": [
+        "1437",
+        "1158",
+        "1631",
+        "1469"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Valmy",
+      "values": [
+        "1792",
+        "1242",
+        "1916",
+        "1688"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u pyramid",
+      "values": [
+        "1648",
+        "1040",
+        "1212",
+        "1798"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

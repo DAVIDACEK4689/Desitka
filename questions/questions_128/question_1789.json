@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Pelyněk",
+      "values": [
+        "Japonsko",
+        "Madagaskar",
+        "Nový Zéland",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pýr plazivý",
+      "values": [
+        "Nový Zéland",
+        "Mongolsko",
+        "Mexiko",
+        "Madagaskar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Meruzalka",
+      "values": [
+        "Nový Zéland",
+        "Japonsko",
+        "Brazílie",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pcháč rolní",
+      "values": [
+        "Mongolsko",
+        "Austrálie",
+        "Brazílie",
+        "Mexiko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jeřáb muk",
+      "values": [
+        "Česko",
+        "Brazílie",
+        "Nový Zéland",
+        "Japonsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Moringa",
+      "values": [
+        "Nový Zéland",
+        "Madagaskar",
+        "Japonsko",
+        "Brazílie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jitrocel vejčitý",
+      "values": [
+        "Austrálie",
+        "Mexiko",
+        "Mongolsko",
+        "Brazílie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Penízek",
+      "values": [
+        "Mexiko",
+        "Nový Zéland",
+        "Mongolsko",
+        "Japonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Banksie",
+      "values": [
+        "Česko",
+        "Mexiko",
+        "Brazílie",
+        "Austrálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Echinocactus",
+      "values": [
+        "Austrálie",
+        "Nový Zéland",
+        "Mexiko",
+        "Japonsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Liberec",
+      "values": [
+        "Česko",
+        "Itálie",
+        "Maďarsko",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hamburk",
+      "values": [
+        "Německo",
+        "Nizozemsko",
+        "Polsko",
+        "Irsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Antverpy",
+      "values": [
+        "Belgie",
+        "Itálie",
+        "Slovensko",
+        "Maďarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Banská Bystrica",
+      "values": [
+        "Slovensko",
+        "Maďarsko",
+        "Česko",
+        "Irsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Magdeburg",
+      "values": [
+        "Irsko",
+        "Polsko",
+        "Dánsko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Erfurt",
+      "values": [
+        "Rakousko",
+        "Itálie",
+        "Německo",
+        "Irsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lutych",
+      "values": [
+        "Německo",
+        "Rakousko",
+        "Belgie",
+        "Portugalsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Duisburg",
+      "values": [
+        "Německo",
+        "Irsko",
+        "Nizozemsko",
+        "Rakousko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Coventry",
+      "values": [
+        "Spojené království",
+        "Irsko",
+        "Německo",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Olštýn",
+      "values": [
+        "Polsko",
+        "Portugalsko",
+        "Maďarsko",
+        "Německo"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

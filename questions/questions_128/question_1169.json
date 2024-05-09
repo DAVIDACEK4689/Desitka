@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte oblast podle ptáka",
+  "questions": [
+    {
+      "key": "Kos černý",
+      "values": [
+        "Orientální oblast",
+        "Afrika",
+        "Indický oceán",
+        "Střední Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lyska černá",
+      "values": [
+        "Střední Amerika",
+        "Severní Amerika",
+        "Antarktida",
+        "Orientální oblast"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Husice nilská",
+      "values": [
+        "Antarktida",
+        "Jižní oceán",
+        "Afrika",
+        "Indický oceán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kalypta nejmenší",
+      "values": [
+        "Atlantský oceán",
+        "Jižní oceán",
+        "Tichý oceán",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dřemlík tundrový",
+      "values": [
+        "Jižní Amerika",
+        "Severní Amerika",
+        "Afrika",
+        "Indický oceán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kondor kalifornský",
+      "values": [
+        "Orientální oblast",
+        "Severní Amerika",
+        "Afrika",
+        "Antarktida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ara kobaltový",
+      "values": [
+        "Tichý oceán",
+        "Jižní oceán",
+        "Jižní Amerika",
+        "celosvětové rozšíření"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Orel bojovný",
+      "values": [
+        "Afrika",
+        "celosvětové rozšíření",
+        "Severní Amerika",
+        "Střední Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Volavka vlasatá",
+      "values": [
+        "Jižní Amerika",
+        "celosvětové rozšíření",
+        "Afrika",
+        "Atlantský oceán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Páv konžský",
+      "values": [
+        "Afrika",
+        "Indický oceán",
+        "Atlantský oceán",
+        "celosvětové rozšíření"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

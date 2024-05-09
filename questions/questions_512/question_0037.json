@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Bruce Lee",
+      "values": [
+        "norského",
+        "kanadského",
+        "amerického",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Howard Hughes",
+      "values": [
+        "ukrajinského",
+        "norského",
+        "srbského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel Hašler",
+      "values": [
+        "německého",
+        "kanadského",
+        "českého",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Trnka",
+      "values": [
+        "amerického",
+        "německého",
+        "dánského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hynek Bočan",
+      "values": [
+        "rakouského",
+        "italského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bertolt Brecht",
+      "values": [
+        "ruského",
+        "německého",
+        "slovenského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Roman Štolpa",
+      "values": [
+        "českého",
+        "irského",
+        "ukrajinského",
+        "hongkongského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert Sedláček",
+      "values": [
+        "italského",
+        "českého",
+        "japonského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Darren Aronofsky",
+      "values": [
+        "norského",
+        "amerického",
+        "kanadského",
+        "hongkongského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Václav Koubek",
+      "values": [
+        "českého",
+        "amerického",
+        "hongkongského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

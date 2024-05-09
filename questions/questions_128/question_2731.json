@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] ledního hokejistu?",
+  "questions": [
+    {
+      "key": "Rostislav Olesz",
+      "values": [
+        "českého",
+        "švédského",
+        "rumunského",
+        "lotyšského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Žigmund Pálffy",
+      "values": [
+        "finského",
+        "sovětského",
+        "německého",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marek Malík",
+      "values": [
+        "českého",
+        "amerického",
+        "rumunského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tuukka Rask",
+      "values": [
+        "kanadského",
+        "německého",
+        "polského",
+        "finského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kamil Brabenec",
+      "values": [
+        "rakouského",
+        "slovenského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bedřich Köhler",
+      "values": [
+        "sovětského",
+        "českého",
+        "slovenského",
+        "lotyšského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dominik Graňák",
+      "values": [
+        "švédského",
+        "amerického",
+        "slovenského",
+        "lotyšského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ján Starší",
+      "values": [
+        "slovinského",
+        "slovenského",
+        "německého",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jordan Staal",
+      "values": [
+        "švédského",
+        "kanadského",
+        "rakouského",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adam Oates",
+      "values": [
+        "britského",
+        "slovenského",
+        "kanadského",
+        "lotyšského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

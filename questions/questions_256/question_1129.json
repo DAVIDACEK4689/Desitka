@@ -1,0 +1,105 @@
+{
+  "text": "Určete francouzského režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Asterix a Obelix",
+      "values": [
+        "Gérard Oury",
+        "Philippe de Broca",
+        "Claude Zidi",
+        "Louis Leterrier"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Četník ze Saint Tropez",
+      "values": [
+        "Jean Girault",
+        "Claude Zidi",
+        "Luc Besson",
+        "Henri Verneuil"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pátý element",
+      "values": [
+        "Claude Zidi",
+        "Louis Leterrier",
+        "Luc Besson",
+        "Michel Gondry"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Křidýlko nebo stehýnko",
+      "values": [
+        "Philippe de Broca",
+        "Gérard Oury",
+        "Claude Zidi",
+        "Roman Polanski"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Věčný svit neposkvrněné mysli",
+      "values": [
+        "Michel Gondry",
+        "Louis Leterrier",
+        "Gérard Oury",
+        "Luc Besson"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Četník a četnice",
+      "values": [
+        "Michel Gondry",
+        "Jean Girault",
+        "Louis Leterrier",
+        "Luc Besson"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Neuvěřitelný Hulk",
+      "values": [
+        "Louis Leterrier",
+        "Philippe de Broca",
+        "Gérard Oury",
+        "Claude Zidi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Brutální Nikita",
+      "values": [
+        "Claude Zidi",
+        "Luc Besson",
+        "Louis Leterrier",
+        "Philippe de Broca"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Devátá brána",
+      "values": [
+        "Gérard Oury",
+        "Michel Gondry",
+        "Louis Leterrier",
+        "Roman Polanski"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Magická hlubina",
+      "values": [
+        "Claude Zidi",
+        "Jean Girault",
+        "Luc Besson",
+        "Michel Gondry"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle olympijské hry",
+  "questions": [
+    {
+      "key": "Zimní olympijské hry 2026",
+      "values": [
+        "Mexiko",
+        "Nizozemsko",
+        "Itálie",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Letní olympijské hry 1936",
+      "values": [
+        "Jižní Korea",
+        "Řecko",
+        "Švédsko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Letní olympijské hry 2016",
+      "values": [
+        "Brazílie",
+        "Španělsko",
+        "Švédsko",
+        "Rakousko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Letní olympijské hry 1948",
+      "values": [
+        "Jugoslávie",
+        "Austrálie",
+        "Německo",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Letní olympijské hry 1992",
+      "values": [
+        "Spojené království",
+        "Brazílie",
+        "Řecko",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zimní olympijské hry 1984",
+      "values": [
+        "Jugoslávie",
+        "Spojené království",
+        "Brazílie",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Letní olympijské hry 1988",
+      "values": [
+        "Rakousko",
+        "Spojené království",
+        "Austrálie",
+        "Jižní Korea"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zimní olympijské hry 1994",
+      "values": [
+        "Švédsko",
+        "Německo",
+        "Norsko",
+        "Brazílie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zimní olympijské hry 1968",
+      "values": [
+        "Řecko",
+        "Norsko",
+        "Rakousko",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zimní olympijské hry 1972",
+      "values": [
+        "Jugoslávie",
+        "Japonsko",
+        "Brazílie",
+        "Jižní Korea"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

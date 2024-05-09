@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Pavel Landovský",
+      "values": [
+        "kanadského",
+        "amerického",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michael Clarke Duncan",
+      "values": [
+        "jihokorejského",
+        "amerického",
+        "švýcarského",
+        "guatemalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "János Bán",
+      "values": [
+        "maďarského",
+        "argentinského",
+        "chilského",
+        "marockého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vincent Cassel",
+      "values": [
+        "francouzského",
+        "belgického",
+        "slovenského",
+        "argentinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Daniel Bambas",
+      "values": [
+        "švýcarského",
+        "českého",
+        "jamajského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bill Skarsgård",
+      "values": [
+        "kanadského",
+        "indického",
+        "jihoafrického",
+        "švédského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaroslav Kaňkovský",
+      "values": [
+        "švédského",
+        "srbského",
+        "českého",
+        "tureckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Vršťala",
+      "values": [
+        "ruského",
+        "belgického",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Murray Bartlett",
+      "values": [
+        "německého",
+        "brazilského",
+        "australského",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Elo Romančík",
+      "values": [
+        "jihoafrického",
+        "britského",
+        "slovenského",
+        "brazilského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

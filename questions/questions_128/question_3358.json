@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Michael Kocáb",
+      "values": [
+        "japonského",
+        "polského",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Björn Ulvaeus",
+      "values": [
+        "japonského",
+        "švédského",
+        "maďarského",
+        "jihokorejského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Hála",
+      "values": [
+        "argentinského",
+        "kolumbijského",
+        "českého",
+        "mexického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miki Ryvola",
+      "values": [
+        "dánského",
+        "britského",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Nikl",
+      "values": [
+        "maďarského",
+        "francouzského",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zdeněk Kluka",
+      "values": [
+        "českého",
+        "norského",
+        "jamajského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zucchero",
+      "values": [
+        "brazilského",
+        "švýcarského",
+        "italského",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vít Sázavský",
+      "values": [
+        "irského",
+        "srbského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Daði Freyr",
+      "values": [
+        "alžírského",
+        "francouzského",
+        "islandského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tyler Blackburn",
+      "values": [
+        "sovětského",
+        "izraelského",
+        "srbského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

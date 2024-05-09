@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Špindlerův Mlýn",
+      "values": [
+        "Lužnice",
+        "Bečva",
+        "Ohře",
+        "Labe"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lanžhot",
+      "values": [
+        "Radbuza",
+        "Metuje",
+        "Dyje",
+        "Lužnice"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Štěchovice",
+      "values": [
+        "Loira",
+        "Temže",
+        "Malše",
+        "Vltava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaroslavice",
+      "values": [
+        "Lužnice",
+        "Dyje",
+        "Emže",
+        "Váha"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Komárom",
+      "values": [
+        "Dněpr",
+        "Seina",
+        "Dunaj",
+        "Vltava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Krompachy",
+      "values": [
+        "Těrek",
+        "Sebnice",
+        "Vltava",
+        "Hornád"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nanterre",
+      "values": [
+        "Ohře",
+        "Tis",
+        "Loira",
+        "Seina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hohnstein",
+      "values": [
+        "Otava",
+        "Dunaj",
+        "Polenz",
+        "Metuje"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Borač",
+      "values": [
+        "Ohře",
+        "Malše",
+        "Svratka",
+        "Jizera"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Prádlo",
+      "values": [
+        "Polenz",
+        "Vltava",
+        "Cidlina",
+        "Úslava"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

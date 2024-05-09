@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Loreen",
+      "values": [
+        "irského",
+        "švédského",
+        "slovenského",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kris Kristofferson",
+      "values": [
+        "německého",
+        "amerického",
+        "belgického",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Burt Bacharach",
+      "values": [
+        "španělského",
+        "belgického",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bohuslav Matěj Černohorský",
+      "values": [
+        "německého",
+        "litevského",
+        "českého",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jacobus Gallus",
+      "values": [
+        "švédského",
+        "italského",
+        "polského",
+        "slovinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gustav Holst",
+      "values": [
+        "argentinského",
+        "japonského",
+        "estonského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lauri Ylönen",
+      "values": [
+        "argentinského",
+        "švédského",
+        "českého",
+        "finského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Isaac Hayes",
+      "values": [
+        "irského",
+        "amerického",
+        "rumunského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "David Foster",
+      "values": [
+        "japonského",
+        "jihoafrického",
+        "kanadského",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alan Jay Lerner",
+      "values": [
+        "arménského",
+        "ukrajinského",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

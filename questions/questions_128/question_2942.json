@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] literární dílo?",
+  "questions": [
+    {
+      "key": "Tristan a Isolda",
+      "values": [
+        "americké",
+        "německé",
+        "francouzské",
+        "slovenské"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Egypťan Sinuhet",
+      "values": [
+        "japonské",
+        "polské",
+        "finské",
+        "francouzské"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Souostroví Gulag",
+      "values": [
+        "slovenské",
+        "americké",
+        "německé",
+        "ruské"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chansons de geste",
+      "values": [
+        "polské",
+        "čínské",
+        "německé",
+        "francouzské"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Prométheova játra",
+      "values": [
+        "americké",
+        "anglické",
+        "české",
+        "rakouské"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kronika ohlášené smrti",
+      "values": [
+        "finské",
+        "španělské",
+        "pruské",
+        "japonské"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Můj druhý život",
+      "values": [
+        "japonské",
+        "německé",
+        "rakouské",
+        "anglické"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Biographisches Lexikon des Kaiserthums Oesterreich",
+      "values": [
+        "německé",
+        "pruské",
+        "rakouské",
+        "velšské"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kalendář historický",
+      "values": [
+        "nizozemské",
+        "ruské",
+        "české",
+        "španělské"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vzpoura na lodi Bounty",
+      "values": [
+        "rakouské",
+        "japonské",
+        "české",
+        "pruské"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Emma Smetana",
+      "values": [
+        "peruánskou",
+        "americkou",
+        "českou",
+        "kolumbijskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jana Fabiánová",
+      "values": [
+        "českou",
+        "italskou",
+        "švédskou",
+        "maďarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Victoria Beckham",
+      "values": [
+        "britskou",
+        "italskou",
+        "irskou",
+        "finskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jitka Boho",
+      "values": [
+        "finskou",
+        "brazilskou",
+        "polskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Frances Bean Cobain",
+      "values": [
+        "kolumbijskou",
+        "španělskou",
+        "americkou",
+        "australskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Věra Bílá",
+      "values": [
+        "nizozemskou",
+        "švýcarskou",
+        "mexickou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dido",
+      "values": [
+        "britskou",
+        "mexickou",
+        "španělskou",
+        "indickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ruslana",
+      "values": [
+        "španělskou",
+        "japonskou",
+        "islandskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tove Lo",
+      "values": [
+        "švýcarskou",
+        "italskou",
+        "švédskou",
+        "brazilskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lene Nystrømová",
+      "values": [
+        "finskou",
+        "českou",
+        "ukrajinskou",
+        "norskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Baobab",
+      "values": [
+        "Brazílie",
+        "Mongolsko",
+        "Austrálie",
+        "Nový Zéland"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pelyněk",
+      "values": [
+        "Brazílie",
+        "Mexiko",
+        "Česko",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Blahovičník",
+      "values": [
+        "Brazílie",
+        "Nový Zéland",
+        "Česko",
+        "Austrálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Banánovník",
+      "values": [
+        "Austrálie",
+        "Mexiko",
+        "Česko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hloh obecný",
+      "values": [
+        "Brazílie",
+        "Nový Zéland",
+        "Česko",
+        "Mexiko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Opuncie",
+      "values": [
+        "Mongolsko",
+        "Austrálie",
+        "Česko",
+        "Brazílie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bledule jarní",
+      "values": [
+        "Nový Zéland",
+        "Brazílie",
+        "Austrálie",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Olivovník",
+      "values": [
+        "Austrálie",
+        "Nový Zéland",
+        "Brazílie",
+        "Mexiko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pelyněk estragon",
+      "values": [
+        "Mexiko",
+        "Austrálie",
+        "Mongolsko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Borovice vejmutovka",
+      "values": [
+        "Mexiko",
+        "Nový Zéland",
+        "Mongolsko",
+        "Brazílie"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

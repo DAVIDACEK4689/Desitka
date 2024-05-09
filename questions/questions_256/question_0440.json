@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva o Francii",
+      "values": [
+        "1849",
+        "1877",
+        "1914",
+        "1940"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Sokolova",
+      "values": [
+        "2023",
+        "1876",
+        "1943",
+        "1953"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Slavná revoluce",
+      "values": [
+        "1918",
+        "1415",
+        "1688",
+        "1438"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čeljabinský incident",
+      "values": [
+        "1214",
+        "1742",
+        "1918",
+        "1420"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Wagramu",
+      "values": [
+        "1809",
+        "1426",
+        "1389",
+        "1298"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Třetí bitva o Charkov",
+      "values": [
+        "1943",
+        "1898",
+        "1565",
+        "1314"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Bosworthu",
+      "values": [
+        "1485",
+        "1876",
+        "1976",
+        "1571"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Operace Cobra",
+      "values": [
+        "1938",
+        "1298",
+        "1944",
+        "1071"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva o Paříž",
+      "values": [
+        "1807",
+        "1260",
+        "1942",
+        "1814"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Drážďan",
+      "values": [
+        "1453",
+        "1485",
+        "1571",
+        "1813"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

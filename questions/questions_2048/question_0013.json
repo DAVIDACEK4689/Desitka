@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] křesťana?",
+  "questions": [
+    {
+      "key": "Anders Behring Breivik",
+      "values": [
+        "indického",
+        "italského",
+        "norského",
+        "čínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oskar Schindler",
+      "values": [
+        "francouzského",
+        "německého",
+        "indického",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Raquel Welchová",
+      "values": [
+        "dánského",
+        "amerického",
+        "indického",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chuck Norris",
+      "values": [
+        "amerického",
+        "anglického",
+        "švýcarského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Johannes Kepler",
+      "values": [
+        "anglického",
+        "čínského",
+        "dánského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Maria Shriverová",
+      "values": [
+        "amerického",
+        "rakouského",
+        "dánského",
+        "indického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bob Dylan",
+      "values": [
+        "indického",
+        "amerického",
+        "čínského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alice Cooper",
+      "values": [
+        "italského",
+        "norského",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chris Kyle",
+      "values": [
+        "norského",
+        "českého",
+        "amerického",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dolly Parton",
+      "values": [
+        "norského",
+        "skotského",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

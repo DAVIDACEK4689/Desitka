@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] videohru?",
+  "questions": [
+    {
+      "key": "Roblox",
+      "values": [
+        "americkou",
+        "britskou",
+        "jihokorejskou",
+        "dánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Grand Theft Auto",
+      "values": [
+        "britskou",
+        "švédskou",
+        "kanadskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "World of Tanks",
+      "values": [
+        "kanadskou",
+        "německou",
+        "běloruskou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sword Art Online",
+      "values": [
+        "dánskou",
+        "japonskou",
+        "německou",
+        "polskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hledání min",
+      "values": [
+        "slovenskou",
+        "německou",
+        "americkou",
+        "rakouskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Metro Exodus",
+      "values": [
+        "ruskou",
+        "ukrajinskou",
+        "finskou",
+        "německou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "The Sims 3",
+      "values": [
+        "dánskou",
+        "kanadskou",
+        "běloruskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Poppy Playtime",
+      "values": [
+        "japonskou",
+        "německou",
+        "americkou",
+        "ruskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Travian",
+      "values": [
+        "německou",
+        "nizozemskou",
+        "slovenskou",
+        "běloruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Undertale",
+      "values": [
+        "americkou",
+        "kanadskou",
+        "ruskou",
+        "dánskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

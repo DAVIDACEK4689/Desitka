@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle narození",
+  "questions": [
+    {
+      "key": "Ho Či Min",
+      "values": [
+        "Čad",
+        "Vietnam",
+        "Ázerbájdžán",
+        "Guatemala"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kösem Sultan",
+      "values": [
+        "Řecko",
+        "Irsko",
+        "Rumunsko",
+        "Venezuela"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kásim Sulejmání",
+      "values": [
+        "Venezuela",
+        "Paraguay",
+        "Írán",
+        "Finsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "James Gomez",
+      "values": [
+        "Gambie",
+        "Island",
+        "Lucembursko",
+        "Nigérie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Viktor Lukašenko",
+      "values": [
+        "Irák",
+        "Severní Korea",
+        "Keňa",
+        "Bělorusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lee Hsien Loong",
+      "values": [
+        "Guatemala",
+        "Singapur",
+        "Portoriko",
+        "Thajsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Derek Walcott",
+      "values": [
+        "Dominikánská republika",
+        "Panama",
+        "Belgie",
+        "Svatá Lucie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ricardo Carvalho",
+      "values": [
+        "Irák",
+        "Rumunsko",
+        "Černá Hora",
+        "Portugalsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mirzakarim Norbekov",
+      "values": [
+        "Venezuela",
+        "Česko",
+        "Uzbekistán",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Prahlad Džani",
+      "values": [
+        "Indie",
+        "Rakousko",
+        "Lucembursko",
+        "Lotyšsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

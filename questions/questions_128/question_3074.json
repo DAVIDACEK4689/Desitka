@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vědce?",
+  "questions": [
+    {
+      "key": "Sergej Koroljov",
+      "values": [
+        "českého",
+        "ruského",
+        "francouzského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Marcus Marci",
+      "values": [
+        "českého",
+        "srbského",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Erich Hudec",
+      "values": [
+        "amerického",
+        "švédského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimir Bukovskij",
+      "values": [
+        "ruského",
+        "chorvatského",
+        "francouzského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dalibor Štys",
+      "values": [
+        "amerického",
+        "britského",
+        "českého",
+        "srbského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Otto Fenichel",
+      "values": [
+        "českého",
+        "ruského",
+        "francouzského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stanisław Ulam",
+      "values": [
+        "chorvatského",
+        "francouzského",
+        "amerického",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pál Teleki",
+      "values": [
+        "srbského",
+        "slovenského",
+        "maďarského",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Barnes Wallis",
+      "values": [
+        "maďarského",
+        "britského",
+        "švédského",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eduard Hanslick",
+      "values": [
+        "francouzského",
+        "rakouského",
+        "slovenského",
+        "německého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

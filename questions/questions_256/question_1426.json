@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte kontinent podle fauny",
+  "questions": [
+    {
+      "key": "Sršeň asijská",
+      "values": [
+        "Střední Amerika",
+        "Evropa",
+        "Severní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Irbis",
+      "values": [
+        "Jižní Amerika",
+        "Afrika",
+        "Asie",
+        "Evropa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Levhart",
+      "values": [
+        "Afrika",
+        "Asie",
+        "Severní Amerika",
+        "Antarktida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cikáda sedmnáctiletá",
+      "values": [
+        "Jižní Amerika",
+        "Afrika",
+        "Severní Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Medvěd malajský",
+      "values": [
+        "Střední Amerika",
+        "Antarktida",
+        "Afrika",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Titán obrovský",
+      "values": [
+        "Afrika",
+        "Severní Amerika",
+        "Antarktida",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Makak jávský",
+      "values": [
+        "Antarktida",
+        "Jižní Amerika",
+        "Asie",
+        "Střední Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Činčila vlnatá",
+      "values": [
+        "Evropa",
+        "Jižní Amerika",
+        "Afrika",
+        "Antarktida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kajmánek trpasličí",
+      "values": [
+        "Střední Amerika",
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Asie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tygr malajský",
+      "values": [
+        "Antarktida",
+        "Evropa",
+        "Asie",
+        "Střední Amerika"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

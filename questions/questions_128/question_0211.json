@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte město podle mostu",
+  "questions": [
+    {
+      "key": "Tower Bridge",
+      "values": [
+        "Londýn",
+        "Lublaň",
+        "Bratislava",
+        "Budapešť"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Brooklynský most",
+      "values": [
+        "New York",
+        "Lublaň",
+        "Budapešť",
+        "Londýn"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Most Slovenského národního povstání",
+      "values": [
+        "New York",
+        "Berlín",
+        "Londýn",
+        "Bratislava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bosporský most",
+      "values": [
+        "Londýn",
+        "Berlín",
+        "Budapešť",
+        "Istanbul"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Széchenyi lánchíd",
+      "values": [
+        "Londýn",
+        "Budapešť",
+        "Bratislava",
+        "Lublaň"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Millennium Bridge",
+      "values": [
+        "Londýn",
+        "Istanbul",
+        "New York",
+        "Lublaň"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Glienicker Brücke",
+      "values": [
+        "Londýn",
+        "New York",
+        "Lublaň",
+        "Berlín"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "High Line",
+      "values": [
+        "Istanbul",
+        "New York",
+        "Budapešť",
+        "Londýn"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Szabadság híd",
+      "values": [
+        "Lublaň",
+        "Berlín",
+        "Budapešť",
+        "Bratislava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Galatský most",
+      "values": [
+        "Londýn",
+        "Budapešť",
+        "Lublaň",
+        "Istanbul"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

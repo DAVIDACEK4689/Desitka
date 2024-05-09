@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte kontinent podle pohoří",
+  "questions": [
+    {
+      "key": "Andy",
+      "values": [
+        "Asie",
+        "Afrika",
+        "Severní Amerika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Altaj",
+      "values": [
+        "Evropa",
+        "Asie",
+        "Afrika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karákóram",
+      "values": [
+        "Severní Amerika",
+        "Asie",
+        "Jižní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Atlas",
+      "values": [
+        "Jižní Amerika",
+        "Asie",
+        "Afrika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Guyanská vysočina",
+      "values": [
+        "Asie",
+        "Evropa",
+        "Severní Amerika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Etiopská vysočina",
+      "values": [
+        "Severní Amerika",
+        "Evropa",
+        "Jižní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aljašské hory",
+      "values": [
+        "Afrika",
+        "Jižní Amerika",
+        "Asie",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Black Hills",
+      "values": [
+        "Afrika",
+        "Jižní Amerika",
+        "Asie",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Guinejská vysočina",
+      "values": [
+        "Severní Amerika",
+        "Evropa",
+        "Asie",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Betická Kordillera",
+      "values": [
+        "Evropa",
+        "Afrika",
+        "Jižní Amerika",
+        "Asie"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

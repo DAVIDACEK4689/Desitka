@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] automobilku?",
+  "questions": [
+    {
+      "key": "Porsche",
+      "values": [
+        "indickou",
+        "rumunskou",
+        "německou",
+        "nizozemskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lexus",
+      "values": [
+        "španělskou",
+        "italskou",
+        "maďarskou",
+        "japonskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Multicar",
+      "values": [
+        "německou",
+        "vietnamskou",
+        "francouzskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lotus",
+      "values": [
+        "britskou",
+        "rakouskou",
+        "německou",
+        "čínskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "TEDOM",
+      "values": [
+        "rumunskou",
+        "vietnamskou",
+        "českou",
+        "indickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mitsubishi",
+      "values": [
+        "japonskou",
+        "americkou",
+        "italskou",
+        "českou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Daihatsu",
+      "values": [
+        "ruskou",
+        "vietnamskou",
+        "britskou",
+        "japonskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aixam",
+      "values": [
+        "jugoslávskou",
+        "maďarskou",
+        "francouzskou",
+        "českou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Magirus",
+      "values": [
+        "německou",
+        "polskou",
+        "rakouskou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Togg",
+      "values": [
+        "rumunskou",
+        "australskou",
+        "jugoslávskou",
+        "tureckou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

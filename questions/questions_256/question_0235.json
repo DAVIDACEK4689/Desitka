@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Jo Nesbø",
+      "values": [
+        "polského",
+        "argentinského",
+        "norského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Sabina",
+      "values": [
+        "českého",
+        "portugalského",
+        "norského",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "MC Gey",
+      "values": [
+        "českého",
+        "španělského",
+        "švýcarského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Elena Ferrante",
+      "values": [
+        "dánského",
+        "nizozemského",
+        "španělského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Henri Dunant",
+      "values": [
+        "ukrajinského",
+        "francouzského",
+        "švýcarského",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivan Franko",
+      "values": [
+        "britského",
+        "amerického",
+        "libanonského",
+        "ukrajinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Peter Jilemnický",
+      "values": [
+        "vietnamského",
+        "slovenského",
+        "rumunského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Giuseppe Mazzini",
+      "values": [
+        "belgického",
+        "novozélandského",
+        "maďarského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "George Santayana",
+      "values": [
+        "izraelského",
+        "argentinského",
+        "španělského",
+        "jihoafrického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mario Vargas Llosa",
+      "values": [
+        "japonského",
+        "polského",
+        "peruánského",
+        "vietnamského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

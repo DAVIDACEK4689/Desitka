@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] kulturu?",
+  "questions": [
+    {
+      "key": "Sionismus",
+      "values": [
+        "izraelskou",
+        "irskou",
+        "brazilskou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tapas",
+      "values": [
+        "španělskou",
+        "řeckou",
+        "finskou",
+        "íránskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vilém Tell",
+      "values": [
+        "skotskou",
+        "švýcarskou",
+        "českou",
+        "íránskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Flamenco",
+      "values": [
+        "íránskou",
+        "španělskou",
+        "čínskou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Čchi",
+      "values": [
+        "čínskou",
+        "havajskou",
+        "německou",
+        "španělskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Siesta",
+      "values": [
+        "indickou",
+        "španělskou",
+        "íránskou",
+        "havajskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Černá madona čenstochovská",
+      "values": [
+        "švýcarskou",
+        "tureckou",
+        "britskou",
+        "polskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kincugi",
+      "values": [
+        "mexickou",
+        "maďarskou",
+        "polskou",
+        "japonskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bidi",
+      "values": [
+        "indickou",
+        "íránskou",
+        "německou",
+        "brazilskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ferragosto",
+      "values": [
+        "dominikánskou",
+        "mexickou",
+        "italskou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

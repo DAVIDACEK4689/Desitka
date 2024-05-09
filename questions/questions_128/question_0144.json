@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte obor podle průkopníka",
+  "questions": [
+    {
+      "key": "Elon Musk",
+      "values": [
+        "sport",
+        "železnice",
+        "automobilismus",
+        "internet"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miroslav Tyrš",
+      "values": [
+        "automobilismus",
+        "kinematografie",
+        "sport",
+        "internet"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rudolf Diesel",
+      "values": [
+        "kinematografie",
+        "letectví",
+        "automobilismus",
+        "železnice"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Auguste a Louis Lumièrové",
+      "values": [
+        "letectví",
+        "kinematografie",
+        "automobilismus",
+        "sport"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bratři Montgolfierové",
+      "values": [
+        "internet",
+        "letectví",
+        "kinematografie",
+        "počítač"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Antonín Gerstner",
+      "values": [
+        "internet",
+        "železnice",
+        "sport",
+        "automobilismus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Richard Trevithick",
+      "values": [
+        "kinematografie",
+        "letectví",
+        "automobilismus",
+        "železnice"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Herman Hollerith",
+      "values": [
+        "internet",
+        "kinematografie",
+        "počítač",
+        "letectví"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "William Gibson",
+      "values": [
+        "počítač",
+        "železnice",
+        "letectví",
+        "internet"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimír Záboj Vaina",
+      "values": [
+        "železnice",
+        "automobilismus",
+        "kinematografie",
+        "sport"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

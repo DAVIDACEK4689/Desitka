@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle amerického sportovce",
+  "questions": [
+    {
+      "key": "Kobe Bryant",
+      "values": [
+        "šachista",
+        "cyklista",
+        "automobilový závodník",
+        "basketbalista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mickey Rourke",
+      "values": [
+        "fotbalista",
+        "tenista",
+        "surfař",
+        "boxer"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jason Priestley",
+      "values": [
+        "zápasník",
+        "cyklista",
+        "horolezec",
+        "automobilový závodník"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Joe Louis",
+      "values": [
+        "boxer",
+        "cyklista",
+        "surfař",
+        "basketbalista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Allen Iverson",
+      "values": [
+        "golfista",
+        "tenista",
+        "taekwondisté",
+        "basketbalista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Enzo Fittipaldi",
+      "values": [
+        "fotbalista",
+        "horolezec",
+        "automobilový závodník",
+        "lední hokejista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "John Vanbiesbrouck",
+      "values": [
+        "tenista",
+        "lední hokejista",
+        "automobilový závodník",
+        "cyklista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stan Smith",
+      "values": [
+        "tenista",
+        "horolezec",
+        "automobilový závodník",
+        "lední hokejista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Scott Patterson",
+      "values": [
+        "parašutista",
+        "taekwondisté",
+        "cyklista",
+        "baseballisté"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jimmy Arias",
+      "values": [
+        "tenista",
+        "lední hokejista",
+        "fotbalista",
+        "basketbalista"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

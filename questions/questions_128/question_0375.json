@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "S tebou mě baví svět",
+      "values": [
+        "Marie Poledňáková",
+        "František Vláčil",
+        "Vít Olmer",
+        "Jan Schmidt"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jak vytrhnout velrybě stoličku",
+      "values": [
+        "Antonín Moskalyk",
+        "Marie Poledňáková",
+        "Pavel Juráček",
+        "Roman Vávra"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Konec básníků v Čechách",
+      "values": [
+        "Bohdan Sláma",
+        "Dušan Klein",
+        "Zdeněk Troška",
+        "Karel Steklý"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Babovřesky 2",
+      "values": [
+        "Robert Sedláček",
+        "Antonín Moskalyk",
+        "Zdeněk Troška",
+        "Karel Steklý"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Líbáš jako Bůh",
+      "values": [
+        "Václav Krška",
+        "Oldřich Lipský",
+        "Petr Jákl",
+        "Marie Poledňáková"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Den pro mou lásku",
+      "values": [
+        "Jindřich Honzl",
+        "Karel Steklý",
+        "Roman Vávra",
+        "Juraj Herz"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Líbáš jako ďábel",
+      "values": [
+        "Jaromil Jireš",
+        "Dušan Klein",
+        "Marie Poledňáková",
+        "Saša Gedeon"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fantom Morrisvillu",
+      "values": [
+        "Tomáš Vorel",
+        "Bořivoj Zeman",
+        "Karel Steklý",
+        "Karel Lamač"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Venkovský učitel",
+      "values": [
+        "Evald Schorm",
+        "Jan Schmidt",
+        "Bohdan Sláma",
+        "Jiří Sequens"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Každý den odvahu",
+      "values": [
+        "Marie Poledňáková",
+        "Jindřich Polák",
+        "Miroslav Sobota",
+        "Evald Schorm"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] kanibala?",
+  "questions": [
+    {
+      "key": "Jeffrey Dahmer",
+      "values": [
+        "italského",
+        "německého",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ladislav Hojer",
+      "values": [
+        "italského",
+        "japonského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ed Gein",
+      "values": [
+        "ukrajinského",
+        "japonského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Martin Roháč",
+      "values": [
+        "italského",
+        "amerického",
+        "českého",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Henry Lee Lucas",
+      "values": [
+        "japonského",
+        "amerického",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Kulík",
+      "values": [
+        "slovenského",
+        "amerického",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Issei Sagawa",
+      "values": [
+        "německého",
+        "japonského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fritz Haarmann",
+      "values": [
+        "amerického",
+        "italského",
+        "německého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tamara Samsonovová",
+      "values": [
+        "ukrajinského",
+        "amerického",
+        "ruského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Arthur Shawcross",
+      "values": [
+        "ukrajinského",
+        "českého",
+        "japonského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] aktivistu?",
+  "questions": [
+    {
+      "key": "Brigitte Bardotová",
+      "values": [
+        "kanadského",
+        "francouzského",
+        "palestinského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Cibulka",
+      "values": [
+        "českého",
+        "běloruského",
+        "polského",
+        "palestinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Hampl",
+      "values": [
+        "českého",
+        "běloruského",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Holomek",
+      "values": [
+        "slovenského",
+        "českého",
+        "britského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adam Zábranský",
+      "values": [
+        "ukrajinského",
+        "českého",
+        "palestinského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ilja Jašin",
+      "values": [
+        "ruského",
+        "slovenského",
+        "kanadského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zdeněk Ponert",
+      "values": [
+        "českého",
+        "kanadského",
+        "běloruského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David Graeber",
+      "values": [
+        "amerického",
+        "íránského",
+        "běloruského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Edward Osborne Wilson",
+      "values": [
+        "amerického",
+        "britského",
+        "italského",
+        "běloruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jakub Polák",
+      "values": [
+        "italského",
+        "íránského",
+        "palestinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

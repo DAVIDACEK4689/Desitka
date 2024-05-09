@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "Jan Kraus",
+      "values": [
+        "portugalského",
+        "německého",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Kemr",
+      "values": [
+        "portugalského",
+        "českého",
+        "německého",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Matyáš Korvín",
+      "values": [
+        "českého",
+        "britského",
+        "maďarského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ludvík Vaculík",
+      "values": [
+        "kanadského",
+        "českého",
+        "britského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Helena Bavorská",
+      "values": [
+        "italského",
+        "amerického",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Paul Cézanne",
+      "values": [
+        "francouzského",
+        "kanadského",
+        "portugalského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Maria Montessori",
+      "values": [
+        "portugalského",
+        "britského",
+        "italského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Steve Carell",
+      "values": [
+        "amerického",
+        "kanadského",
+        "portugalského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Čep",
+      "values": [
+        "českého",
+        "britského",
+        "italského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Laura Antonelli",
+      "values": [
+        "portugalského",
+        "amerického",
+        "švýcarského",
+        "italského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

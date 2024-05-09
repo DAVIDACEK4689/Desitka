@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalového trenéra?",
+  "questions": [
+    {
+      "key": "František Straka",
+      "values": [
+        "českého",
+        "tureckého",
+        "ruského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zdeněk Zeman",
+      "values": [
+        "českého",
+        "ukrajinského",
+        "chorvatského",
+        "uruguayského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jaroslav Veselý",
+      "values": [
+        "portugalského",
+        "nizozemského",
+        "českého",
+        "chorvatského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bert Trautmann",
+      "values": [
+        "německého",
+        "argentinského",
+        "srbského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Roberto De Zerbi",
+      "values": [
+        "slovenského",
+        "italského",
+        "brazilského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Francesco Calzona",
+      "values": [
+        "australského",
+        "portugalského",
+        "německého",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Matthias Sammer",
+      "values": [
+        "chilského",
+        "italského",
+        "mexického",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Július Bielik",
+      "values": [
+        "velšského",
+        "rakouského",
+        "maďarského",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ladislav Molnár",
+      "values": [
+        "ruského",
+        "argentinského",
+        "nizozemského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ján Kozák",
+      "values": [
+        "francouzského",
+        "československého",
+        "slovenského",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

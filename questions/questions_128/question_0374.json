@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "S čerty nejsou žerty",
+      "values": [
+        "Karel Lamač",
+        "Karel Kachyňa",
+        "Hynek Bočan",
+        "Svatopluk Innemann"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Adéla ještě nevečeřela",
+      "values": [
+        "Oldřich Lipský",
+        "Marie Poledňáková",
+        "Juraj Herz",
+        "Evald Schorm"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jak básníci neztrácejí naději",
+      "values": [
+        "Dušan Klein",
+        "Roman Vávra",
+        "Jan Hřebejk",
+        "Karel Lamač"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Po strništi bos",
+      "values": [
+        "Václav Wasserman",
+        "Věra Chytilová",
+        "Roman Vávra",
+        "Jan Svěrák"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pražská pětka",
+      "values": [
+        "Jan Hřebejk",
+        "Tomáš Vorel",
+        "Robert Sedláček",
+        "Petr Zelenka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fany",
+      "values": [
+        "Dušan Klein",
+        "Karel Kachyňa",
+        "Vít Olmer",
+        "Hynek Bočan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Faunovo velmi pozdní odpoledne",
+      "values": [
+        "Věra Chytilová",
+        "Zdeněk Zelenka",
+        "Tomáš Vorel",
+        "Bohdan Sláma"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kawasakiho růže",
+      "values": [
+        "Zdeněk Zelenka",
+        "Evald Schorm",
+        "Jan Hřebejk",
+        "Tomáš Bařina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dáma na kolejích",
+      "values": [
+        "Ladislav Rychman",
+        "Zdeněk Troška",
+        "Jan Prušinovský",
+        "Evald Schorm"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Učitel tance",
+      "values": [
+        "Jaromil Jireš",
+        "Václav Binovec",
+        "Zdeněk Troška",
+        "Václav Wasserman"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

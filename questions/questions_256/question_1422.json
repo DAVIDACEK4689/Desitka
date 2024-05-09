@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [typ] organizaci?",
+  "questions": [
+    {
+      "key": "Schutzstaffel",
+      "values": [
+        "politickou",
+        "fiktivní",
+        "zločineckou",
+        "hospodářskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fatah",
+      "values": [
+        "vzdělávací",
+        "fiktivní",
+        "partyzánskou",
+        "náboženskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jakuza",
+      "values": [
+        "mezinárodní",
+        "vědeckou",
+        "zločineckou",
+        "zdravotnickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Soudní dvůr Evropské unie",
+      "values": [
+        "mezinárodní",
+        "vzdělávací",
+        "fiktivní",
+        "humanitární"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ministerstvo kouzel",
+      "values": [
+        "fiktivní",
+        "partyzánskou",
+        "zločineckou",
+        "vědeckou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fénixův řád",
+      "values": [
+        "humanitární",
+        "hospodářskou",
+        "ekologickou",
+        "fiktivní"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Los Zetas",
+      "values": [
+        "zdravotnickou",
+        "partyzánskou",
+        "zločineckou",
+        "fiktivní"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mensa International",
+      "values": [
+        "mezinárodní",
+        "vzdělávací",
+        "ekologickou",
+        "vědeckou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Socialistická internacionála",
+      "values": [
+        "vzdělávací",
+        "politickou",
+        "ekologickou",
+        "zdravotnickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Centers for Disease Control and Prevention",
+      "values": [
+        "zdravotnickou",
+        "partyzánskou",
+        "fiktivní",
+        "náboženskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

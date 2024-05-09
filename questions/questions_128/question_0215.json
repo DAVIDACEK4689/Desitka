@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte téma podle filmu",
+  "questions": [
+    {
+      "key": "Čistá duše",
+      "values": [
+        "sériový vrah",
+        "sebevražda",
+        "sexualita",
+        "učitel"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Upír z Feratu",
+      "values": [
+        "vlkodlak",
+        "automobil",
+        "policie",
+        "loupež"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nebeští jezdci",
+      "values": [
+        "hasič",
+        "sériový vrah",
+        "policie",
+        "letectví"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gran Torino",
+      "values": [
+        "životní prostředí",
+        "automobil",
+        "zvíře",
+        "hasič"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Přejezd Kassandra",
+      "values": [
+        "kanibalismus",
+        "sebevražda",
+        "nemoc",
+        "židovská tematika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "15 minut",
+      "values": [
+        "imigrace",
+        "letectví",
+        "novinář",
+        "hasič"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ukradli torzo Jupitera",
+      "values": [
+        "pirát",
+        "učitel",
+        "upír",
+        "letectví"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jednotka příliš rychlého nasazení",
+      "values": [
+        "móda",
+        "sériový vrah",
+        "dvojče",
+        "letectví"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Moře lásky",
+      "values": [
+        "letectví",
+        "nemoc",
+        "sériový vrah",
+        "učitel"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "12 podmínek k dědictví",
+      "values": [
+        "vlkodlak",
+        "křesťanská tematika",
+        "kanibalismus",
+        "dvojče"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

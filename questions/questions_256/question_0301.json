@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Ciudad de México",
+      "values": [
+        "Jihoafrická republika",
+        "Mexiko",
+        "Lotyšsko",
+        "Jordánsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Trogir",
+      "values": [
+        "Portugalsko",
+        "Gruzie",
+        "Jihoafrická republika",
+        "Chorvatsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Longyearbyen",
+      "values": [
+        "Norsko",
+        "Irák",
+        "Tunisko",
+        "Eritrea"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Abuja",
+      "values": [
+        "Gambie",
+        "Argentina",
+        "Nigérie",
+        "Turkmenistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jasy",
+      "values": [
+        "Jordánsko",
+        "Jemen",
+        "Rumunsko",
+        "Indonésie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ágra",
+      "values": [
+        "Severní Makedonie",
+        "Keňa",
+        "Rumunsko",
+        "Indie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Randstad",
+      "values": [
+        "Německo",
+        "Ekvádor",
+        "Nizozemsko",
+        "Libye"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Durban",
+      "values": [
+        "Belgie",
+        "Rwanda",
+        "Tádžikistán",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sidón",
+      "values": [
+        "Španělsko",
+        "Libanon",
+        "Pero",
+        "Niger"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gaborone",
+      "values": [
+        "Myanmar",
+        "Afghánistán",
+        "Černá Hora",
+        "Botswana"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle geografie",
+  "questions": [
+    {
+      "key": "Morava",
+      "values": [
+        "Jordánsko",
+        "Afghánistán",
+        "Ukrajina",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bóra",
+      "values": [
+        "Švýcarsko",
+        "Belgie",
+        "Chorvatsko",
+        "Ukrajina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mariany",
+      "values": [
+        "Guam",
+        "Brazílie",
+        "Guatemala",
+        "Východní Timor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Keukenhof",
+      "values": [
+        "Džibutsko",
+        "Nizozemsko",
+        "Svatá Lucie",
+        "Finsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Asmara",
+      "values": [
+        "Irsko",
+        "Eritrea",
+        "Mexiko",
+        "Afghánistán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pokljuka",
+      "values": [
+        "Súdán",
+        "Mexiko",
+        "Švýcarsko",
+        "Slovinsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Etiopská vysočina",
+      "values": [
+        "Afghánistán",
+        "Mexiko",
+        "Bulharsko",
+        "Eritrea"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Strokkur",
+      "values": [
+        "Libye",
+        "Island",
+        "Afghánistán",
+        "Belgie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Capriviho pruh",
+      "values": [
+        "Mongolsko",
+        "Guatemala",
+        "Namibie",
+        "Vanuatu"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zámuří",
+      "values": [
+        "Afghánistán",
+        "Slovinsko",
+        "Východní Timor",
+        "Pero"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

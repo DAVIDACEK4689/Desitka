@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistku?",
+  "questions": [
+    {
+      "key": "Barbora Strýcová",
+      "values": [
+        "ruskou",
+        "českou",
+        "španělskou",
+        "rumunskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jelena Rybakinová",
+      "values": [
+        "běloruskou",
+        "srbskou",
+        "ruskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Billie Jean Kingová",
+      "values": [
+        "srbskou",
+        "americkou",
+        "dánskou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Simona Halepová",
+      "values": [
+        "československou",
+        "ukrajinskou",
+        "rumunskou",
+        "kanadskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mirra Andrejevová",
+      "values": [
+        "běloruskou",
+        "tuniskou",
+        "ruskou",
+        "rakouskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Paula Badosová",
+      "values": [
+        "belgickou",
+        "španělskou",
+        "tuniskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Angelique Kerberová",
+      "values": [
+        "německou",
+        "švýcarskou",
+        "československou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marta Kosťuková",
+      "values": [
+        "brazilskou",
+        "ukrajinskou",
+        "americkou",
+        "chorvatskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gabriela Knutsonová",
+      "values": [
+        "belgickou",
+        "srbskou",
+        "českou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Amélie Mauresmová",
+      "values": [
+        "italskou",
+        "slovenskou",
+        "tuniskou",
+        "francouzskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

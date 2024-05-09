@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Jaroslav Pížl",
+      "values": [
+        "belgického",
+        "českého",
+        "rakouského",
+        "martinického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Schwarz",
+      "values": [
+        "ruského",
+        "rakouského",
+        "českého",
+        "tanzanského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Boris Filan",
+      "values": [
+        "mexického",
+        "australského",
+        "chorvatského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alexej Nikolajevič Tolstoj",
+      "values": [
+        "gruzínského",
+        "tanzanského",
+        "afghánského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fernando Pessoa",
+      "values": [
+        "izraelského",
+        "portugalského",
+        "filipínského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Frantz Fanon",
+      "values": [
+        "japonského",
+        "italského",
+        "kolumbijského",
+        "martinického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vasilij Šukšin",
+      "values": [
+        "černohorského",
+        "amerického",
+        "ruského",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Wole Soyinka",
+      "values": [
+        "nigerijského",
+        "rumunského",
+        "italského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bret Hart",
+      "values": [
+        "kanadského",
+        "gruzínského",
+        "kubánského",
+        "černohorského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Grazia Deleddaová",
+      "values": [
+        "dánského",
+        "gruzínského",
+        "brazilského",
+        "italského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

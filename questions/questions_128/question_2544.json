@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Mario Balotelli",
+      "values": [
+        "francouzského",
+        "italského",
+        "sovětského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Garrincha",
+      "values": [
+        "nigerijského",
+        "belgického",
+        "australského",
+        "brazilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gary Lineker",
+      "values": [
+        "italského",
+        "anglického",
+        "slovinského",
+        "uruguayského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marek Suchý",
+      "values": [
+        "islandského",
+        "španělského",
+        "československého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mario Lička",
+      "values": [
+        "českého",
+        "kostarického",
+        "gambijského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mario Gómez",
+      "values": [
+        "německého",
+        "portugalského",
+        "peruánského",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marco Materazzi",
+      "values": [
+        "chilského",
+        "italského",
+        "kostarického",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "David Moberg Karlsson",
+      "values": [
+        "kamerunského",
+        "argentinského",
+        "švédského",
+        "tožského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ashley Young",
+      "values": [
+        "kostarického",
+        "anglického",
+        "australského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tomáš Rada",
+      "values": [
+        "českého",
+        "československého",
+        "gruzínského",
+        "finského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

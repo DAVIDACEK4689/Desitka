@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte téma podle filmu",
+  "questions": [
+    {
+      "key": "Poslední závod",
+      "values": [
+        "politik",
+        "cirkus",
+        "zvíře",
+        "sport"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Prázdniny v Římě",
+      "values": [
+        "imigrace",
+        "loupež",
+        "křesťanská tematika",
+        "novinář"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kokosy na sněhu",
+      "values": [
+        "sport",
+        "dvojče",
+        "loupež",
+        "novinář"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eurotrip",
+      "values": [
+        "skinheads",
+        "sebevražda",
+        "policie",
+        "dvojče"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Všemocný",
+      "values": [
+        "sebevražda",
+        "kometa",
+        "spisovatel",
+        "učitel"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kruh 2",
+      "values": [
+        "imigrace",
+        "sport",
+        "kometa",
+        "novinář"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nic než pravda",
+      "values": [
+        "novinář",
+        "skinheads",
+        "zvíře",
+        "automobil"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nádherná Zelená",
+      "values": [
+        "životní prostředí",
+        "letectví",
+        "skaut",
+        "skinheads"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Smrtící epidemie",
+      "values": [
+        "skaut",
+        "kometa",
+        "nemoc",
+        "cirkus"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "The Interview",
+      "values": [
+        "herec",
+        "křesťanská tematika",
+        "novinář",
+        "imigrace"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

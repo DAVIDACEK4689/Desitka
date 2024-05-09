@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle prezidenta",
+  "questions": [
+    {
+      "key": "Andrej Kiska",
+      "values": [
+        "Slovensko",
+        "Zambie",
+        "Litva",
+        "Angola"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Husní Mubárak",
+      "values": [
+        "Československo",
+        "Mexiko",
+        "Arménie",
+        "Egypt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ezer Weizman",
+      "values": [
+        "Kyrgyzstán",
+        "Egypt",
+        "Zambie",
+        "Izrael"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Urho Kaleva Kekkonen",
+      "values": [
+        "Gruzie",
+        "Libérie",
+        "Finsko",
+        "Nigérie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Árpád Göncz",
+      "values": [
+        "Gruzie",
+        "Maďarsko",
+        "Zambie",
+        "Kamerun"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Moše Kacav",
+      "values": [
+        "Jemen",
+        "Izrael",
+        "Nikaragua",
+        "Finsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zviad Gamsachurdia",
+      "values": [
+        "Jihoafrická republika",
+        "Gruzie",
+        "Arménie",
+        "Nigérie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joannis Kapodistrias",
+      "values": [
+        "Itálie",
+        "Řecko",
+        "Ekvádor",
+        "Paraguay"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivo Josipović",
+      "values": [
+        "Senegal",
+        "Gruzie",
+        "Chorvatsko",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fernando Collor de Mello",
+      "values": [
+        "Čečenci",
+        "Španělsko",
+        "Brazílie",
+        "Lotyšsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte spisovatele podle literárního díla",
+  "questions": [
+    {
+      "key": "Evžen Oněgin",
+      "values": [
+        "Jan Amos Komenský",
+        "Oscar Wilde",
+        "Mark Twain",
+        "Alexandr Sergejevič Puškin"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Orbis pictus",
+      "values": [
+        "August Strindberg",
+        "Oscar Wilde",
+        "Haruki Murakami",
+        "Jan Amos Komenský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Loupežníci",
+      "values": [
+        "Dante Alighieri",
+        "August Strindberg",
+        "George Gordon Byron",
+        "Friedrich Schiller"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "1Q84",
+      "values": [
+        "Neil Gaiman",
+        "Fjodor Michajlovič Dostojevskij",
+        "Johann Wolfgang von Goethe",
+        "Haruki Murakami"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Old Surehand",
+      "values": [
+        "Karel May",
+        "Jules Verne",
+        "George Gordon Byron",
+        "Victor Hugo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Obr Dobr",
+      "values": [
+        "Isaac Asimov",
+        "Michel Foucault",
+        "Mark Twain",
+        "Roald Dahl"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Poštovní úřad",
+      "values": [
+        "Jan Amos Komenský",
+        "Noam Chomsky",
+        "Roald Dahl",
+        "Charles Bukowski"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Slečna Julie",
+      "values": [
+        "Oscar Wilde",
+        "Charles Dickens",
+        "August Strindberg",
+        "Noam Chomsky"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ruy Blas",
+      "values": [
+        "Victor Hugo",
+        "Charles Dickens",
+        "Roald Dahl",
+        "Martin Luther"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Odbarvená píča",
+      "values": [
+        "Karl Popper",
+        "August Strindberg",
+        "Nikolaj Vasiljevič Gogol",
+        "Charles Bukowski"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

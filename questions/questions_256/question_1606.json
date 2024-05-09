@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Mirai Navrátil",
+      "values": [
+        "nizozemského",
+        "irského",
+        "argentinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pavel Callta",
+      "values": [
+        "amerického",
+        "českého",
+        "španělského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Milan Hlavsa",
+      "values": [
+        "srbského",
+        "norského",
+        "sovětského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Richard Kruspe",
+      "values": [
+        "britského",
+        "italského",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivan Hlas",
+      "values": [
+        "švýcarského",
+        "českého",
+        "francouzského",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Neil Patrick Harris",
+      "values": [
+        "belgického",
+        "amerického",
+        "brazilského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Evžen Kyšperský",
+      "values": [
+        "norského",
+        "srbského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Doug Ingle",
+      "values": [
+        "kolumbijského",
+        "moldavského",
+        "islandského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaromír Hnilica",
+      "values": [
+        "francouzského",
+        "dánského",
+        "českého",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Kobr",
+      "values": [
+        "italského",
+        "portorického",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

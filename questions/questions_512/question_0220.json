@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Čekanka obecná",
+      "values": [
+        "Madagaskar",
+        "Česko",
+        "Austrálie",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Přeslička rolní",
+      "values": [
+        "Mongolsko",
+        "Austrálie",
+        "Brazílie",
+        "Madagaskar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Douglaska tisolistá",
+      "values": [
+        "Nový Zéland",
+        "Austrálie",
+        "Mexiko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Okurka",
+      "values": [
+        "Austrálie",
+        "Mongolsko",
+        "Madagaskar",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oměj",
+      "values": [
+        "Česko",
+        "Mexiko",
+        "Mongolsko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Schlumbergera",
+      "values": [
+        "Brazílie",
+        "Austrálie",
+        "Mongolsko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alstromérie",
+      "values": [
+        "Brazílie",
+        "Česko",
+        "Nový Zéland",
+        "Madagaskar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cesmína paraguayská",
+      "values": [
+        "Brazílie",
+        "Austrálie",
+        "Madagaskar",
+        "Mexiko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hloh jednosemenný",
+      "values": [
+        "Mexiko",
+        "Česko",
+        "Austrálie",
+        "Mongolsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Čekanka",
+      "values": [
+        "Mexiko",
+        "Česko",
+        "Mongolsko",
+        "Madagaskar"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

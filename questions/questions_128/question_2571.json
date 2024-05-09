@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Jiří Mádl",
+      "values": [
+        "českého",
+        "belgického",
+        "novozélandského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Filip Renč",
+      "values": [
+        "slovinského",
+        "českého",
+        "hongkongského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eman Fiala",
+      "values": [
+        "českého",
+        "indického",
+        "ukrajinského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Darren Aronofsky",
+      "values": [
+        "ukrajinského",
+        "amerického",
+        "rakouského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Mixa",
+      "values": [
+        "novozélandského",
+        "irského",
+        "švýcarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Špáta",
+      "values": [
+        "maďarského",
+        "slovinského",
+        "sovětského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Klaus Maria Brandauer",
+      "values": [
+        "norského",
+        "rakouského",
+        "švédského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mario Monicelli",
+      "values": [
+        "islandského",
+        "norského",
+        "italského",
+        "srbského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Seydler",
+      "values": [
+        "islandského",
+        "českého",
+        "kanadského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "John Hughes",
+      "values": [
+        "hongkongského",
+        "slovinského",
+        "norského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

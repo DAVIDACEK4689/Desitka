@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Bangkok",
+      "values": [
+        "Turecko",
+        "Švédsko",
+        "Niger",
+        "Thajsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kjóto",
+      "values": [
+        "Paraguay",
+        "Omán",
+        "Japonsko",
+        "Burkina Faso"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tenochtitlán",
+      "values": [
+        "Írán",
+        "Mexiko",
+        "Východní Timor",
+        "Myanmar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pécs",
+      "values": [
+        "Egypt",
+        "Keňa",
+        "Kapverdy",
+        "Maďarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Steyr",
+      "values": [
+        "Rakousko",
+        "Súdán",
+        "Zambie",
+        "Tádžikistán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Schladming",
+      "values": [
+        "Rumunsko",
+        "Srí Lanka",
+        "Východní Timor",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Praia",
+      "values": [
+        "Francie",
+        "Mongolsko",
+        "Bangladéš",
+        "Kapverdy"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Burgos",
+      "values": [
+        "Bolívie",
+        "Turecko",
+        "Španělsko",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Veliko Tarnovo",
+      "values": [
+        "Černá Hora",
+        "Srí Lanka",
+        "Malajsie",
+        "Bulharsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Neuchâtel",
+      "values": [
+        "Uzbekistán",
+        "Rakousko",
+        "Švýcarsko",
+        "Kyrgyzstán"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

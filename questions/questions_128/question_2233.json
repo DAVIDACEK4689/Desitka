@@ -1,0 +1,105 @@
+{
+  "text": "Určete sport podle české sportovkyně",
+  "questions": [
+    {
+      "key": "Lucie Šafářová",
+      "values": [
+        "sportovní střelkyně",
+        "volejbalistka",
+        "tenistka",
+        "fotbalistka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kristýna Plíšková",
+      "values": [
+        "fotbalistka",
+        "florbalistky",
+        "plavkyně",
+        "tenistka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jana Rychlá",
+      "values": [
+        "cyklistka",
+        "veslařka",
+        "lukostřelkyně",
+        "tenistka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marie Hrachová",
+      "values": [
+        "krasobruslařka",
+        "házenkářka",
+        "stolní tenistka",
+        "tenistka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eliška Březinová",
+      "values": [
+        "florbalistky",
+        "krasobruslařka",
+        "stolní tenistka",
+        "fotbalistka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Květa Peschkeová",
+      "values": [
+        "golfistky",
+        "atletka",
+        "orientační běžkyně",
+        "tenistka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zuzana Hofmannová",
+      "values": [
+        "golfistky",
+        "šachistky",
+        "horolezci",
+        "basketbalistka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hana Doušová",
+      "values": [
+        "lední hokejistky",
+        "basketbalistka",
+        "házenkářka",
+        "šachistky"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Iveta Korešová",
+      "values": [
+        "florbalistky",
+        "házenkářka",
+        "horolezci",
+        "atletka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eliška Richtrová",
+      "values": [
+        "šachistky",
+        "tenistka",
+        "rychlobruslařka",
+        "sportovní střelkyně"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

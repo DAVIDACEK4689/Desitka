@@ -1,0 +1,105 @@
+{
+  "text": "Určete rok podle televizního filmu",
+  "questions": [
+    {
+      "key": "Klíč svatého Petra",
+      "values": [
+        "2011",
+        "2023",
+        "2002",
+        "1985"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jak si nevzít princeznu",
+      "values": [
+        "2016",
+        "1984",
+        "2001",
+        "2021"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ďáblova lest",
+      "values": [
+        "1993",
+        "1998",
+        "2016",
+        "2009"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pravý rytíř",
+      "values": [
+        "1984",
+        "1989",
+        "2016",
+        "1977"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tři zlaté dukáty",
+      "values": [
+        "2023",
+        "2008",
+        "1993",
+        "2001"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kotva u přívozu",
+      "values": [
+        "2001",
+        "1998",
+        "1980",
+        "1985"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gia",
+      "values": [
+        "2021",
+        "1989",
+        "1977",
+        "1998"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Občan X",
+      "values": [
+        "1998",
+        "1995",
+        "2019",
+        "2010"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Následníci 3",
+      "values": [
+        "1980",
+        "2019",
+        "1995",
+        "2011"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Meč Gideonův",
+      "values": [
+        "2009",
+        "1986",
+        "1978",
+        "1985"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

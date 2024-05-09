@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Dagmar Havlová",
+      "values": [
+        "bermudskou",
+        "indickou",
+        "českou",
+        "novozélandskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jana Drbohlavová",
+      "values": [
+        "íránskou",
+        "českou",
+        "ruskou",
+        "německou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Anna Letenská",
+      "values": [
+        "norskou",
+        "švédskou",
+        "českou",
+        "brazilskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jindra Bartošová",
+      "values": [
+        "belgickou",
+        "českou",
+        "americkou",
+        "dánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ava Gardner",
+      "values": [
+        "německou",
+        "jihokorejskou",
+        "americkou",
+        "kubánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Drahomíra Hofmanová",
+      "values": [
+        "českou",
+        "bermudskou",
+        "tureckou",
+        "uruguayskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bette Midler",
+      "values": [
+        "norskou",
+        "uruguayskou",
+        "nizozemskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Beren Saat",
+      "values": [
+        "tureckou",
+        "jihoafrickou",
+        "ruskou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Anita Ešpandrová",
+      "values": [
+        "bulharskou",
+        "českou",
+        "indickou",
+        "švédskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jessalyn Gilsig",
+      "values": [
+        "finskou",
+        "íránskou",
+        "srbskou",
+        "kanadskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

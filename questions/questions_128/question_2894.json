@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Rudolf Hess",
+      "values": [
+        "jugoslávského",
+        "portugalského",
+        "myanmarského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "António Guterres",
+      "values": [
+        "íránského",
+        "maltského",
+        "polského",
+        "portugalského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Daniel Lipšic",
+      "values": [
+        "slovenského",
+        "nizozemského",
+        "německého",
+        "anglického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Xenija Sobčaková",
+      "values": [
+        "pákistánského",
+        "salvadorského",
+        "ruského",
+        "indického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petteri Orpo",
+      "values": [
+        "polského",
+        "běloruského",
+        "belgického",
+        "finského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vasil Levski",
+      "values": [
+        "gruzínského",
+        "pruského",
+        "bolivijského",
+        "bulharského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mauricio Macri",
+      "values": [
+        "turkmenského",
+        "argentinského",
+        "švýcarského",
+        "vietnamského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Čchin Kang",
+      "values": [
+        "belgického",
+        "ruského",
+        "francouzského",
+        "čínského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Harvey Milk",
+      "values": [
+        "amerického",
+        "běloruského",
+        "švédského",
+        "lotyšského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lionel Jospin",
+      "values": [
+        "grenadského",
+        "francouzského",
+        "kanadského",
+        "ázerbájdžánského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Marek Adamczyk",
+      "values": [
+        "dánského",
+        "polského",
+        "českého",
+        "izraelského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jake Gyllenhaal",
+      "values": [
+        "gruzínského",
+        "amerického",
+        "portugalského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kit Connor",
+      "values": [
+        "britského",
+        "švédského",
+        "bulharského",
+        "izraelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "John Candy",
+      "values": [
+        "kanadského",
+        "brazilského",
+        "polského",
+        "thajského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Andrej Kraus",
+      "values": [
+        "belgického",
+        "japonského",
+        "slovenského",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Hromada",
+      "values": [
+        "polského",
+        "českého",
+        "srbského",
+        "bosenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Hofman",
+      "values": [
+        "irského",
+        "českého",
+        "izraelského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dominic Purcell",
+      "values": [
+        "portugalského",
+        "australského",
+        "nizozemského",
+        "jamajského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miguel Ferrer",
+      "values": [
+        "rakouského",
+        "amerického",
+        "jihoafrického",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zdeněk Braunschläger",
+      "values": [
+        "australského",
+        "českého",
+        "nizozemského",
+        "čínského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

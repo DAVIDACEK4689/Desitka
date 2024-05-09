@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Jurský svět",
+      "values": [
+        "David Frankel",
+        "Nick Cassavetes",
+        "Colin Trevorrow",
+        "Noah Baumbach"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Na nože",
+      "values": [
+        "Justin Lin",
+        "Rian Johnson",
+        "bratři Farrellyové",
+        "Dennis Hopper"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Noční můra v Elm Street",
+      "values": [
+        "John McTiernan",
+        "Robert Wise",
+        "Edward Zwick",
+        "Wes Craven"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dokonalý trik",
+      "values": [
+        "Quentin Tarantino",
+        "Ang Lee",
+        "Chris Columbus",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rocky III",
+      "values": [
+        "William Friedkin",
+        "Gregory Hoblit",
+        "Colin Trevorrow",
+        "Sylvester Stallone"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zjizvená tvář",
+      "values": [
+        "Brian De Palma",
+        "Robert Eggers",
+        "Orson Welles",
+        "Ang Lee"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "V srdci moře",
+      "values": [
+        "Tim Burton",
+        "Ron Howard",
+        "John McTiernan",
+        "Garry Marshall"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kramerová versus Kramer",
+      "values": [
+        "Robert Benton",
+        "Nick Cassavetes",
+        "Ang Lee",
+        "Michael Cimino"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Válka Roseových",
+      "values": [
+        "Barry Sonnenfeld",
+        "Danny DeVito",
+        "Brad Bird",
+        "Jay Roach"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vřískot 2",
+      "values": [
+        "Wes Craven",
+        "Rob Cohen",
+        "David Silverman",
+        "Randall Wallace"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

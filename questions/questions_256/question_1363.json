@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] román?",
+  "questions": [
+    {
+      "key": "Farma zvířat",
+      "values": [
+        "japonský",
+        "rakouský",
+        "anglický",
+        "irský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zločin a trest",
+      "values": [
+        "rakouský",
+        "ruský",
+        "americký",
+        "polský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bílý tesák",
+      "values": [
+        "irský",
+        "americký",
+        "francouzský",
+        "anglický"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bratři Karamazovi",
+      "values": [
+        "německý",
+        "rakouský",
+        "ruský",
+        "anglický"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jih proti Severu",
+      "values": [
+        "francouzský",
+        "rakouský",
+        "britský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Příběh opravdového člověka",
+      "values": [
+        "francouzský",
+        "polský",
+        "ruský",
+        "německý"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Kryštof",
+      "values": [
+        "americký",
+        "čínský",
+        "irský",
+        "francouzský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Příběh dvou měst",
+      "values": [
+        "ruský",
+        "americký",
+        "anglický",
+        "španělský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hrdina naší doby",
+      "values": [
+        "čínský",
+        "americký",
+        "ruský",
+        "irský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "V horách šílenství",
+      "values": [
+        "britský",
+        "australský",
+        "český",
+        "americký"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

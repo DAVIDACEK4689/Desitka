@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle souostroví",
+  "questions": [
+    {
+      "key": "Kanárské ostrovy",
+      "values": [
+        "Argentina",
+        "Kiribati",
+        "Německo",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ohňová země",
+      "values": [
+        "Kiribati",
+        "Itálie",
+        "Argentina",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tristan da Cunha",
+      "values": [
+        "Norsko",
+        "Francie",
+        "Spojené království",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kyklady",
+      "values": [
+        "Indonésie",
+        "Řecko",
+        "Spojené království",
+        "Papua Nová Guinea"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tokelau",
+      "values": [
+        "Brazílie",
+        "Nový Zéland",
+        "Španělsko",
+        "Francie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sporady",
+      "values": [
+        "Argentina",
+        "Irsko",
+        "Řecko",
+        "Spojené království"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kornati",
+      "values": [
+        "Chorvatsko",
+        "Ekvádor",
+        "Norsko",
+        "Japonsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lakadivy",
+      "values": [
+        "Řecko",
+        "Brazílie",
+        "Island",
+        "Indie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gilbertovy ostrovy",
+      "values": [
+        "Portugalsko",
+        "Spojené království",
+        "Federativní státy Mikronésie",
+        "Kiribati"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Egadské ostrovy",
+      "values": [
+        "Irsko",
+        "Austrálie",
+        "Itálie",
+        "Kiribati"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

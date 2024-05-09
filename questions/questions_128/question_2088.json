@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Petr Robejšek",
+      "values": [
+        "estonského",
+        "českého",
+        "chilského",
+        "malajsijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Geert Wilders",
+      "values": [
+        "irského",
+        "kubánského",
+        "nizozemského",
+        "pruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vjačeslav Fetisov",
+      "values": [
+        "grenadského",
+        "rumunského",
+        "německého",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ana Brnabićová",
+      "values": [
+        "kolumbijského",
+        "srbského",
+        "marockého",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vincent Auriol",
+      "values": [
+        "gruzínského",
+        "francouzského",
+        "zimbabwského",
+        "čínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Anne Hidalgová",
+      "values": [
+        "rumunského",
+        "francouzského",
+        "ekvádorského",
+        "turkmenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cédric Villani",
+      "values": [
+        "turkmenského",
+        "francouzského",
+        "jemenského",
+        "kyperského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Carl Friedrich Goerdeler",
+      "values": [
+        "kanadského",
+        "dánského",
+        "německého",
+        "mongolského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "James Macpherson",
+      "values": [
+        "ghanského",
+        "arménského",
+        "rumunského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Simonetta Sommarugaová",
+      "values": [
+        "kolumbijského",
+        "slovenského",
+        "švýcarského",
+        "marockého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

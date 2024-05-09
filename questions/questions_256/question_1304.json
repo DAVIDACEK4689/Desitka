@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Tomáš Petrášek",
+      "values": [
+        "egyptského",
+        "polského",
+        "českého",
+        "nigerijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pepe",
+      "values": [
+        "alžírského",
+        "portugalského",
+        "slovinského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jindřich Staněk",
+      "values": [
+        "švédského",
+        "českého",
+        "ekvádorského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vladimír Darida",
+      "values": [
+        "dánského",
+        "českého",
+        "uruguayského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Peter Schmeichel",
+      "values": [
+        "ghanského",
+        "dánského",
+        "kolumbijského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Arda Güler",
+      "values": [
+        "kamerunského",
+        "argentinského",
+        "tureckého",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kamil Vacek",
+      "values": [
+        "severoirského",
+        "kamerunského",
+        "českého",
+        "anglického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Léonard Kweuke",
+      "values": [
+        "velšského",
+        "kamerunského",
+        "australského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marek Nikl",
+      "values": [
+        "tureckého",
+        "českého",
+        "amerického",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Thiago Alcântara",
+      "values": [
+        "slovenského",
+        "švýcarského",
+        "nizozemského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

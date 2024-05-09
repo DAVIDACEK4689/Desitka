@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Javier Milei",
+      "values": [
+        "švédského",
+        "nizozemského",
+        "norského",
+        "argentinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nikolaj Ježov",
+      "values": [
+        "švýcarského",
+        "arménského",
+        "sovětského",
+        "anglického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kofi Annan",
+      "values": [
+        "madagaskarského",
+        "ghanského",
+        "indického",
+        "estonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Šebestián Hněvkovský",
+      "values": [
+        "kubánského",
+        "keňského",
+        "českého",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rudolf Virchow",
+      "values": [
+        "kambodžského",
+        "estonského",
+        "bolivijského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Evo Morales",
+      "values": [
+        "nepálského",
+        "bolivijského",
+        "bulharského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Barnett Stross",
+      "values": [
+        "kanadského",
+        "moldavského",
+        "slovinského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vácslav Socha",
+      "values": [
+        "venezuelského",
+        "švédského",
+        "českého",
+        "arménského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Wolfgang Sobotka",
+      "values": [
+        "eritrejského",
+        "zimbabwského",
+        "rakouského",
+        "salvadorského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pierre Vergniaud",
+      "values": [
+        "panamského",
+        "francouzského",
+        "zimbabwského",
+        "haitského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

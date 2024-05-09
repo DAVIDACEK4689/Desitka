@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] automobilku?",
+  "questions": [
+    {
+      "key": "MG Cars",
+      "values": [
+        "polskou",
+        "jihokorejskou",
+        "britskou",
+        "jugoslávskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Avia",
+      "values": [
+        "švýcarskou",
+        "indickou",
+        "španělskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Honda",
+      "values": [
+        "francouzskou",
+        "britskou",
+        "japonskou",
+        "rumunskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Subaru",
+      "values": [
+        "maďarskou",
+        "japonskou",
+        "jugoslávskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dodge",
+      "values": [
+        "britskou",
+        "americkou",
+        "švýcarskou",
+        "švédskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cadillac",
+      "values": [
+        "indickou",
+        "nizozemskou",
+        "americkou",
+        "maďarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaguar Land Rover",
+      "values": [
+        "britskou",
+        "australskou",
+        "jugoslávskou",
+        "belgickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Motor SAIC",
+      "values": [
+        "čínskou",
+        "švýcarskou",
+        "španělskou",
+        "belgickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Star",
+      "values": [
+        "maďarskou",
+        "vietnamskou",
+        "polskou",
+        "německou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "TVR",
+      "values": [
+        "britskou",
+        "maďarskou",
+        "vietnamskou",
+        "švédskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

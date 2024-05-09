@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Václav Noid Bárta",
+      "values": [
+        "rakouského",
+        "kolumbijského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Grossmann",
+      "values": [
+        "českého",
+        "jihoafrického",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavel Horňák",
+      "values": [
+        "českého",
+        "britského",
+        "maďarského",
+        "jihokorejského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Václav Jelínek",
+      "values": [
+        "nizozemského",
+        "jihokorejského",
+        "australského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Andy Gibb",
+      "values": [
+        "slovenského",
+        "portorického",
+        "norského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rudolf Cortés",
+      "values": [
+        "švédského",
+        "britského",
+        "dánského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Liz Mitchell",
+      "values": [
+        "srbského",
+        "moldavského",
+        "amerického",
+        "jamajského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rudolf Brančovský",
+      "values": [
+        "českého",
+        "německého",
+        "maďarského",
+        "kolumbijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ivan Tásler",
+      "values": [
+        "rakouského",
+        "slovenského",
+        "kanadského",
+        "argentinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Troy Baker",
+      "values": [
+        "irského",
+        "moldavského",
+        "amerického",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

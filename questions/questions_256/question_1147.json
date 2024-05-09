@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Sergio Ramos",
+      "values": [
+        "argentinského",
+        "egyptského",
+        "ruského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Limberský",
+      "values": [
+        "skotského",
+        "gruzínského",
+        "českého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Virgil van Dijk",
+      "values": [
+        "kolumbijského",
+        "albánského",
+        "nizozemského",
+        "nigerijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "İlkay Gündoğan",
+      "values": [
+        "anglického",
+        "mexického",
+        "německého",
+        "kolumbijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luboš Kozel",
+      "values": [
+        "chorvatského",
+        "anglického",
+        "polského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ivan Rakitić",
+      "values": [
+        "portugalského",
+        "bulharského",
+        "francouzského",
+        "chorvatského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel Rada",
+      "values": [
+        "francouzského",
+        "norského",
+        "rumunského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ondřej Mazuch",
+      "values": [
+        "dánského",
+        "ruského",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Philipp Lahm",
+      "values": [
+        "brazilského",
+        "německého",
+        "gruzínského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Édouard Mendy",
+      "values": [
+        "italského",
+        "senegalského",
+        "tureckého",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

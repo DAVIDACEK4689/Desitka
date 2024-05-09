@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Július Satinský",
+      "values": [
+        "slovenského",
+        "jihoafrického",
+        "švýcarského",
+        "novozélandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladimír Páral",
+      "values": [
+        "filipínského",
+        "kanadského",
+        "australského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Padevět",
+      "values": [
+        "ukrajinského",
+        "norského",
+        "peruánského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "John Flanagan",
+      "values": [
+        "australského",
+        "norského",
+        "běloruského",
+        "libanonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Věromír Pleva",
+      "values": [
+        "izraelského",
+        "švýcarského",
+        "ázerbájdžánského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Margaret Atwoodová",
+      "values": [
+        "maďarského",
+        "českého",
+        "kanadského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Sezima",
+      "values": [
+        "polského",
+        "českého",
+        "indického",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Peter Handke",
+      "values": [
+        "belgického",
+        "argentinského",
+        "rakouského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alan Marshall",
+      "values": [
+        "australského",
+        "novozélandského",
+        "slovenského",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tuvia Tenenbom",
+      "values": [
+        "francouzského",
+        "švýcarského",
+        "izraelského",
+        "britského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

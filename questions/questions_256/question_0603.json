@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Rozálie Havelková",
+      "values": [
+        "indickou",
+        "argentinskou",
+        "českou",
+        "dánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alena Šeredová",
+      "values": [
+        "kanadskou",
+        "švýcarskou",
+        "slovenskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alexandra Daddario",
+      "values": [
+        "venezuelskou",
+        "indickou",
+        "českou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Diana Kobzanová",
+      "values": [
+        "německou",
+        "českou",
+        "brazilskou",
+        "kanadskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Monika Žídková",
+      "values": [
+        "namibijskou",
+        "americkou",
+        "českou",
+        "nizozemskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Adriana Lima",
+      "values": [
+        "namibijskou",
+        "ukrajinskou",
+        "německou",
+        "brazilskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sasha Grey",
+      "values": [
+        "českou",
+        "dánskou",
+        "venezuelskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Taylor Momsen",
+      "values": [
+        "americkou",
+        "ukrajinskou",
+        "japonskou",
+        "australskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hana Svobodová",
+      "values": [
+        "ukrajinskou",
+        "německou",
+        "českou",
+        "irskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Martina Šmuková",
+      "values": [
+        "americkou",
+        "irskou",
+        "ukrajinskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

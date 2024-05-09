@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Řebříček obecný",
+      "values": [
+        "Brazílie",
+        "Mexiko",
+        "Mongolsko",
+        "Madagaskar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jedle bělokorá",
+      "values": [
+        "Austrálie",
+        "Česko",
+        "Brazílie",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Řeřišnice luční",
+      "values": [
+        "Mongolsko",
+        "Madagaskar",
+        "Austrálie",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hloh jednosemenný",
+      "values": [
+        "Japonsko",
+        "Česko",
+        "Nový Zéland",
+        "Brazílie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pěťour maloúborný",
+      "values": [
+        "Mexiko",
+        "Nový Zéland",
+        "Brazílie",
+        "Madagaskar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bergenie tučnolistá",
+      "values": [
+        "Mongolsko",
+        "Madagaskar",
+        "Austrálie",
+        "Mexiko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bažanka vytrvalá",
+      "values": [
+        "Austrálie",
+        "Česko",
+        "Mongolsko",
+        "Madagaskar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jestřábník zední",
+      "values": [
+        "Česko",
+        "Brazílie",
+        "Austrálie",
+        "Mexiko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kajeput",
+      "values": [
+        "Brazílie",
+        "Japonsko",
+        "Mongolsko",
+        "Austrálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kokarda sličná",
+      "values": [
+        "Česko",
+        "Nový Zéland",
+        "Mexiko",
+        "Brazílie"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

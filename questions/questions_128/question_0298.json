@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle prezidenta",
+  "questions": [
+    {
+      "key": "Emil Hácha",
+      "values": [
+        "Uruguay",
+        "Československo",
+        "Senegal",
+        "Argentina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Juan Perón",
+      "values": [
+        "Zair",
+        "Argentina",
+        "Francie",
+        "Československo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Saparmurat Nijazov",
+      "values": [
+        "Senegal",
+        "Turkmenistán",
+        "Ekvádor",
+        "Mexiko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andrés Manuel López Obrador",
+      "values": [
+        "Mexiko",
+        "Kosovo",
+        "Uruguay",
+        "Česká republika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ignacy Mościcki",
+      "values": [
+        "Polsko",
+        "Tanzanie",
+        "Angola",
+        "Mexiko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Teodoro Obiang Nguema Mbasogo",
+      "values": [
+        "Irsko",
+        "Severní Makedonie",
+        "Rovníková Guinea",
+        "Malta"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Macky Sall",
+      "values": [
+        "Uganda",
+        "Zambie",
+        "Senegal",
+        "Gabon"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Abd Rabú Mansúr Hádí",
+      "values": [
+        "Guatemala",
+        "Irsko",
+        "Polsko",
+        "Jemen"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Burhánuddín Rabbání",
+      "values": [
+        "Rusko",
+        "Ekvádor",
+        "Afghánistán",
+        "Uganda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rafael Correa",
+      "values": [
+        "Slovensko",
+        "Ekvádor",
+        "Írán",
+        "Ukrajina"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

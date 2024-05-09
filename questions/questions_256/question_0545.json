@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle premiéra",
+  "questions": [
+    {
+      "key": "Václav Klaus",
+      "values": [
+        "Chorvatsko",
+        "Jugoslávie",
+        "Česko",
+        "Pákistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Charles de Gaulle",
+      "values": [
+        "Francie",
+        "Řecko",
+        "Srbsko",
+        "Indonésie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Neville Chamberlain",
+      "values": [
+        "Jugoslávie",
+        "Spojené království",
+        "Moldavsko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Viktor Juščenko",
+      "values": [
+        "Pákistán",
+        "Ukrajina",
+        "Island",
+        "Egypt"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ján Čarnogurský",
+      "values": [
+        "Slovensko",
+        "Kosovo",
+        "Švédsko",
+        "Egypt"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hideki Tódžó",
+      "values": [
+        "Portugalsko",
+        "Island",
+        "Japonsko",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mátyás Rákosi",
+      "values": [
+        "Arménie",
+        "Grónsko",
+        "Norsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Camillo Benso Cavour",
+      "values": [
+        "Nizozemsko",
+        "Itálie",
+        "Řecko",
+        "Etiopie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sergej Kirijenko",
+      "values": [
+        "Chorvatsko",
+        "Rusko",
+        "Grónsko",
+        "Norsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mario Draghi",
+      "values": [
+        "Itálie",
+        "Švédsko",
+        "Norsko",
+        "Řecko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

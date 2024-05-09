@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] miliardáře?",
+  "questions": [
+    {
+      "key": "Daniel Křetínský",
+      "values": [
+        "českého",
+        "ukrajinského",
+        "rakouského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michael Jordan",
+      "values": [
+        "ukrajinského",
+        "rakouského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel Janeček",
+      "values": [
+        "ukrajinského",
+        "britského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Komárek mladší",
+      "values": [
+        "ruského",
+        "českého",
+        "britského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aleš Zavoral",
+      "values": [
+        "českého",
+        "rakouského",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Chrenek",
+      "values": [
+        "rakouského",
+        "ruského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "George Lucas",
+      "values": [
+        "českého",
+        "ukrajinského",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jack Dorsey",
+      "values": [
+        "ruského",
+        "amerického",
+        "britského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dietrich Mateschitz",
+      "values": [
+        "britského",
+        "ruského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Sehnal",
+      "values": [
+        "amerického",
+        "ukrajinského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle sportovní organizace",
+  "questions": [
+    {
+      "key": "Clash of the Stars",
+      "values": [
+        "Česko",
+        "Spojené království",
+        "Švýcarsko",
+        "Československo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tipsport",
+      "values": [
+        "Švýcarsko",
+        "Česko",
+        "Řecko",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "UEFA",
+      "values": [
+        "Česko",
+        "Spojené království",
+        "Československo",
+        "Švýcarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "FIFA",
+      "values": [
+        "Česko",
+        "Švýcarsko",
+        "Československo",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Deutscher Turnverband",
+      "values": [
+        "Švýcarsko",
+        "Řecko",
+        "Československo",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Intersport",
+      "values": [
+        "Spojené království",
+        "Švýcarsko",
+        "Česko",
+        "Československo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sokol",
+      "values": [
+        "Spojené království",
+        "Švýcarsko",
+        "Česko",
+        "Československo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mezinárodní šachová federace",
+      "values": [
+        "Řecko",
+        "Československo",
+        "Česko",
+        "Spojené království"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "ASC Dukla",
+      "values": [
+        "Česko",
+        "Spojené království",
+        "Švýcarsko",
+        "Československo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mezinárodní tenisová federace",
+      "values": [
+        "Československo",
+        "Česko",
+        "Řecko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

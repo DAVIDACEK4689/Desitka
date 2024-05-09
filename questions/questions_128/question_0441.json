@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [téma] televizní stanici?",
+  "questions": [
+    {
+      "key": "ČT24",
+      "values": [
+        "křesťanskou",
+        "dětskou",
+        "hudební",
+        "zpravodajskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fox News",
+      "values": [
+        "filmovou",
+        "dětskou",
+        "hudební",
+        "zpravodajskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Disney Channel",
+      "values": [
+        "dokumentární",
+        "křesťanskou",
+        "filmovou",
+        "dětskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Euronews",
+      "values": [
+        "dokumentární",
+        "dětskou",
+        "sportovní",
+        "zpravodajskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "TA3",
+      "values": [
+        "křesťanskou",
+        "hudební",
+        "zpravodajskou",
+        "dětskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kino Barrandov",
+      "values": [
+        "dokumentární",
+        "filmovou",
+        "sportovní",
+        "dětskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "O2 TV Fotbal",
+      "values": [
+        "filmovou",
+        "zpravodajskou",
+        "dokumentární",
+        "sportovní"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Československo HD",
+      "values": [
+        "sportovní",
+        "filmovou",
+        "dětskou",
+        "křesťanskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "NBC News",
+      "values": [
+        "křesťanskou",
+        "dokumentární",
+        "zpravodajskou",
+        "filmovou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "UP network",
+      "values": [
+        "křesťanskou",
+        "hudební",
+        "dokumentární",
+        "zpravodajskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalového trenéra?",
+  "questions": [
+    {
+      "key": "Vladimír Šmicer",
+      "values": [
+        "českého",
+        "velšského",
+        "brazilského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavel Hapal",
+      "values": [
+        "argentinského",
+        "francouzského",
+        "portugalského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alfredo Di Stéfano",
+      "values": [
+        "chorvatského",
+        "italského",
+        "maďarského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaroslav Hřebík",
+      "values": [
+        "českého",
+        "dánského",
+        "irského",
+        "bulharského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mauricio Pochettino",
+      "values": [
+        "argentinského",
+        "srbského",
+        "maďarského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ladislav Kubala",
+      "values": [
+        "dánského",
+        "velšského",
+        "francouzského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zdeněk Houštecký",
+      "values": [
+        "českého",
+        "německého",
+        "srbského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paul Gascoigne",
+      "values": [
+        "dánského",
+        "anglického",
+        "skotského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Just Fontaine",
+      "values": [
+        "slovenského",
+        "francouzského",
+        "maďarského",
+        "velšského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gerardo Martino",
+      "values": [
+        "srbského",
+        "argentinského",
+        "španělského",
+        "anglického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

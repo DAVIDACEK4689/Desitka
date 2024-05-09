@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Million Dollar Baby",
+      "values": [
+        "Richard Kelly",
+        "Pete Docter",
+        "Clint Eastwood",
+        "Kevin Reynolds"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Umučení Krista",
+      "values": [
+        "Mel Gibson",
+        "Clint Eastwood",
+        "Kevin Reynolds",
+        "Robert Wise"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lid versus Larry Flynt",
+      "values": [
+        "Miloš Forman",
+        "Ruben Fleischer",
+        "Edward Zwick",
+        "Billy Wilder"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rocky II",
+      "values": [
+        "Richard Linklater",
+        "Noah Baumbach",
+        "Peter Hyams",
+        "Sylvester Stallone"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Obvyklí podezřelí",
+      "values": [
+        "Todd Phillips",
+        "Alan Taylor",
+        "Bryan Singer",
+        "Garry Marshall"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kill Bill 2",
+      "values": [
+        "Quentin Tarantino",
+        "Matt Reeves",
+        "Frank Darabont",
+        "Wes Craven"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dannyho parťáci 2",
+      "values": [
+        "Steven Soderbergh",
+        "Chuck Russell",
+        "Dean Parisot",
+        "David Silverman"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Koně se také střílejí",
+      "values": [
+        "Sydney Pollack",
+        "John Lasseter",
+        "David Frankel",
+        "Mike Nichols"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nikdy není pozdě",
+      "values": [
+        "Chris Columbus",
+        "Joseph Ruben",
+        "Jonathan Demme",
+        "David Lynch"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Louskáček a čtyři říše",
+      "values": [
+        "Brad Bird",
+        "Joe Johnston",
+        "Robert Rodriguez",
+        "Sofia Coppola"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

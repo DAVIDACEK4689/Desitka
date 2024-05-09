@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Přelet nad kukaččím hnízdem",
+      "values": [
+        "Danny DeVito",
+        "Chris Wedge",
+        "Clint Eastwood",
+        "Miloš Forman"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tahle země není pro starý",
+      "values": [
+        "bratři Coenové",
+        "Todd Phillips",
+        "Emile Ardolino",
+        "Jay Roach"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jurský park 3",
+      "values": [
+        "Barry Levinson",
+        "Colin Trevorrow",
+        "Joe Johnston",
+        "McG"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Blízká setkání třetího druhu",
+      "values": [
+        "Sofia Coppola",
+        "Tom Shadyac",
+        "Sidney Lumet",
+        "Steven Spielberg"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Král Škorpion",
+      "values": [
+        "Chris Columbus",
+        "Howard Hawks",
+        "Miloš Forman",
+        "Chuck Russell"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hartova válka",
+      "values": [
+        "Martha Coolidge",
+        "Terrence Malick",
+        "Gregory Hoblit",
+        "Gore Verbinski"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tři dny Kondora",
+      "values": [
+        "Sydney Pollack",
+        "David Fincher",
+        "Peter Hyams",
+        "Kathryn Bigelowová"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Příběh Alvina Straighta",
+      "values": [
+        "John Singleton",
+        "Howard Hawks",
+        "Steven Spielberg",
+        "David Lynch"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mezi námi děvčaty",
+      "values": [
+        "Noah Baumbach",
+        "Mark Waters",
+        "David Twohy",
+        "Stephen Sommers"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Opravdová kuráž",
+      "values": [
+        "Raja Gosnell",
+        "James Mangold",
+        "David Frankel",
+        "bratři Coenové"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

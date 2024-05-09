@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Lev Nikolajevič Tolstoj",
+      "values": [
+        "jihoafrického",
+        "řeckého",
+        "ruského",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ferdinand Peroutka",
+      "values": [
+        "jihoafrického",
+        "filipínského",
+        "kanadského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stanislav Motl",
+      "values": [
+        "českého",
+        "francouzského",
+        "mexického",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bear Grylls",
+      "values": [
+        "libanonského",
+        "španělského",
+        "britského",
+        "ázerbájdžánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ibráhím ibn Jákúb",
+      "values": [
+        "španělského",
+        "ázerbájdžánského",
+        "izraelského",
+        "australského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alfréd Wetzler",
+      "values": [
+        "běloruského",
+        "vietnamského",
+        "slovenského",
+        "izraelského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Angela Marsonsová",
+      "values": [
+        "kyrgyzského",
+        "chilského",
+        "argentinského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mychajlo Hruševskyj",
+      "values": [
+        "italského",
+        "litevského",
+        "indického",
+        "ukrajinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jacob Grimm",
+      "values": [
+        "německého",
+        "italského",
+        "maďarského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jaroslav Pavlíček",
+      "values": [
+        "francouzského",
+        "srbského",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

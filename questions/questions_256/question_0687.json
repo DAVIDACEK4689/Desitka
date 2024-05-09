@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte britského režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Top Gun",
+      "values": [
+        "Richard Attenborough",
+        "Tony Scott",
+        "Alfred Hitchcock",
+        "Paul Greengrass"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Blade Runner",
+      "values": [
+        "Peter Howitt",
+        "Danny Boyle",
+        "Ridley Scott",
+        "Stephen Daldry"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dvanáct opic",
+      "values": [
+        "Terence Young",
+        "Terry Gilliam",
+        "Michael Apted",
+        "Kirk Jones"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Psycho",
+      "values": [
+        "Paul Greengrass",
+        "Michael Apted",
+        "Ridley Scott",
+        "Alfred Hitchcock"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kapitán Phillips",
+      "values": [
+        "Paul Greengrass",
+        "Anthony Minghella",
+        "Terence Young",
+        "Kirk Jones"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kouzelná chůva Nanny McPhee",
+      "values": [
+        "Kirk Jones",
+        "Peter Howitt",
+        "Stephen Daldry",
+        "Paul Greengrass"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "127 hodin",
+      "values": [
+        "Sam Mendes",
+        "John Guillermin",
+        "Stephen Daldry",
+        "Danny Boyle"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zítřek nikdy neumírá",
+      "values": [
+        "Alfred Hitchcock",
+        "Mike Newell",
+        "Roger Spottiswoode",
+        "Terry Gilliam"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bourneovo ultimátum",
+      "values": [
+        "Paul Greengrass",
+        "Michael Apted",
+        "John Glen",
+        "Alfred Hitchcock"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Let číslo 93",
+      "values": [
+        "Peter Howitt",
+        "Anthony Minghella",
+        "Paul Greengrass",
+        "Sam Mendes"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

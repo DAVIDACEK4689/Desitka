@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle narození",
+  "questions": [
+    {
+      "key": "Fernão de Magalhães",
+      "values": [
+        "Černá Hora",
+        "Bangladéš",
+        "Portugalsko",
+        "Izrael"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robert Merle",
+      "values": [
+        "Kyrgyzstán",
+        "Monako",
+        "Jordánsko",
+        "Alžírsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Victor Olatunji",
+      "values": [
+        "Nizozemsko",
+        "Nový Zéland",
+        "Nigérie",
+        "Monako"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Juan Ponce de León",
+      "values": [
+        "Španělsko",
+        "Rusko",
+        "Maďarsko",
+        "Turecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jonas Savimbi",
+      "values": [
+        "Maroko",
+        "Angola",
+        "Kolumbie",
+        "Španělsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fábio Paím",
+      "values": [
+        "Kostarika",
+        "Francie",
+        "Portugalsko",
+        "Venezuela"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Joshua Cheptegei",
+      "values": [
+        "Uganda",
+        "Somálsko",
+        "Kuvajt",
+        "Vietnam"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mari Ederová",
+      "values": [
+        "Dánsko",
+        "Finsko",
+        "Bangladéš",
+        "Gabon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Brendon Hartley",
+      "values": [
+        "Kypr",
+        "Mongolsko",
+        "Nový Zéland",
+        "Monako"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ilir Meta",
+      "values": [
+        "Brazílie",
+        "Španělsko",
+        "Albánie",
+        "Portugalsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

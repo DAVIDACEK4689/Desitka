@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] lékaře?",
+  "questions": [
+    {
+      "key": "Gabor Maté",
+      "values": [
+        "kanadského",
+        "brazilského",
+        "afghánského",
+        "australského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Hynie",
+      "values": [
+        "českého",
+        "rakouského",
+        "čínského",
+        "afghánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Helcelet",
+      "values": [
+        "britského",
+        "českého",
+        "chilského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bedřich Všemír Berchtold z Uherčic",
+      "values": [
+        "australského",
+        "českého",
+        "ruského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Křišťan z Prachatic",
+      "values": [
+        "irského",
+        "čínského",
+        "albánského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel Rokytanský",
+      "values": [
+        "japonského",
+        "rakouského",
+        "chilského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jindřich Matiegka",
+      "values": [
+        "brazilského",
+        "japonského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zdeněk Matušek",
+      "values": [
+        "francouzského",
+        "jihoafrického",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Maštálka",
+      "values": [
+        "slovenského",
+        "nizozemského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Milan Cabrnoch",
+      "values": [
+        "rakouského",
+        "čínského",
+        "českého",
+        "albánského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

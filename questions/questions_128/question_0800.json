@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Melta",
+      "values": [
+        "americkou",
+        "kanadskou",
+        "českou",
+        "norskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Carpaccio",
+      "values": [
+        "italskou",
+        "dánskou",
+        "islandskou",
+        "kanadskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Provensálské koření",
+      "values": [
+        "gruzínskou",
+        "francouzskou",
+        "arménskou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Brioška",
+      "values": [
+        "dominikánskou",
+        "litevskou",
+        "francouzskou",
+        "skotskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Univerzální hnědá omáčka",
+      "values": [
+        "českou",
+        "laoskou",
+        "gruzínskou",
+        "židovskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vitello tonnato",
+      "values": [
+        "maďarskou",
+        "ukrajinskou",
+        "italskou",
+        "vietnamskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ravioly",
+      "values": [
+        "italskou",
+        "belgickou",
+        "kanadskou",
+        "brazilskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bottarga",
+      "values": [
+        "dánskou",
+        "dominikánskou",
+        "italskou",
+        "litevskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Taramasalata",
+      "values": [
+        "italskou",
+        "čínskou",
+        "polskou",
+        "řeckou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vichyssoise",
+      "values": [
+        "francouzskou",
+        "arménskou",
+        "irskou",
+        "indickou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

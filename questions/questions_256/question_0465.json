@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte sport podle britského sportovce",
+  "questions": [
+    {
+      "key": "Tyson Fury",
+      "values": [
+        "cyklista",
+        "golfista",
+        "boxer",
+        "horolezec"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chris Froome",
+      "values": [
+        "jezdec",
+        "cyklista",
+        "bobista",
+        "golfista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aleister Crowley",
+      "values": [
+        "bobista",
+        "tenista",
+        "cyklista",
+        "horolezec"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zara Phillips",
+      "values": [
+        "tenista",
+        "horolezec",
+        "jezdec",
+        "golfista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mark Cavendish",
+      "values": [
+        "cyklista",
+        "jezdec",
+        "boxer",
+        "golfista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michael z Kentu",
+      "values": [
+        "tenista",
+        "bobista",
+        "boxer",
+        "golfista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lennox Lewis",
+      "values": [
+        "bobista",
+        "jezdec",
+        "boxer",
+        "cyklista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eric Shipton",
+      "values": [
+        "bobista",
+        "boxer",
+        "horolezec",
+        "tenista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anthony Joshua",
+      "values": [
+        "boxer",
+        "tenista",
+        "jezdec",
+        "bobista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David Stirling",
+      "values": [
+        "tenista",
+        "golfista",
+        "cyklista",
+        "horolezec"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

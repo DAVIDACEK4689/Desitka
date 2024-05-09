@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Brusel",
+      "values": [
+        "Senegal",
+        "Rumunsko",
+        "Belgie",
+        "Finsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Villach",
+      "values": [
+        "Severní Korea",
+        "Rakousko",
+        "Srí Lanka",
+        "Malta"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Târgoviște",
+      "values": [
+        "Rumunsko",
+        "Rwanda",
+        "Slovensko",
+        "Uganda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Segovia",
+      "values": [
+        "Abcházie",
+        "Ázerbájdžán",
+        "Španělsko",
+        "Jordánsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tiberias",
+      "values": [
+        "Myanmar",
+        "Nikaragua",
+        "Lotyšsko",
+        "Izrael"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Szolnok",
+      "values": [
+        "Maďarsko",
+        "Marshallovy ostrovy",
+        "Egypt",
+        "Tanzanie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Venlo",
+      "values": [
+        "Nizozemsko",
+        "Gruzie",
+        "Bahrajn",
+        "Rwanda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kiten",
+      "values": [
+        "Konžská republika",
+        "Pero",
+        "Argentina",
+        "Bulharsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rotorua",
+      "values": [
+        "Tunisko",
+        "Nový Zéland",
+        "Albánie",
+        "Etiopie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Noyon",
+      "values": [
+        "Nepál",
+        "Tuvalu",
+        "Francie",
+        "Laos"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

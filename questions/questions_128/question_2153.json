@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Johannesburg",
+      "values": [
+        "Slovinsko",
+        "Maďarsko",
+        "Grónsko",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aleppo",
+      "values": [
+        "Sýrie",
+        "Honduras",
+        "Benin",
+        "Gruzie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Schladming",
+      "values": [
+        "Slovensko",
+        "Rakousko",
+        "Mongolsko",
+        "Ekvádor"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dürnstein",
+      "values": [
+        "Španělsko",
+        "Moldavsko",
+        "Rakousko",
+        "Portugalsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nusantara",
+      "values": [
+        "Mosambik",
+        "Indonésie",
+        "Nepál",
+        "Kiribati"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Trstená",
+      "values": [
+        "Mexiko",
+        "Rwanda",
+        "Chorvatsko",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pavlodar",
+      "values": [
+        "Kapverdy",
+        "Indie",
+        "Rakousko",
+        "Kazachstán"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nagymaros",
+      "values": [
+        "Libérie",
+        "Maďarsko",
+        "Togo",
+        "Rwanda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hafnarfjörður",
+      "values": [
+        "Palau",
+        "Pero",
+        "Island",
+        "Ghana"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Râmnicu Vâlcea",
+      "values": [
+        "Botswana",
+        "Mosambik",
+        "Afghánistán",
+        "Rumunsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

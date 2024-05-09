@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Aleš Háma",
+      "values": [
+        "novozélandského",
+        "českého",
+        "sovětského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Antonín Jedlička",
+      "values": [
+        "australského",
+        "německého",
+        "jamajského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Hasselhoff",
+      "values": [
+        "amerického",
+        "kanadského",
+        "belgického",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Antonio Cantafora",
+      "values": [
+        "italského",
+        "portugalského",
+        "bulharského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Václav Glazar",
+      "values": [
+        "bulharského",
+        "českého",
+        "italského",
+        "venezuelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Franciszek Pieczka",
+      "values": [
+        "polského",
+        "guatemalského",
+        "rakouského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gottfried Vollmer",
+      "values": [
+        "srbského",
+        "britského",
+        "tureckého",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Matej Landl",
+      "values": [
+        "slovenského",
+        "maďarského",
+        "dánského",
+        "guatemalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mike Pratt",
+      "values": [
+        "tureckého",
+        "britského",
+        "ukrajinského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bruce Greenwood",
+      "values": [
+        "kanadského",
+        "řeckého",
+        "maďarského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

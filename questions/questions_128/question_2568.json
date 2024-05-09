@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Miloš Forman",
+      "values": [
+        "rakouského",
+        "norského",
+        "australského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dan Přibáň",
+      "values": [
+        "českého",
+        "islandského",
+        "italského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jaroslav Dudek",
+      "values": [
+        "chorvatského",
+        "íránského",
+        "českého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jonah Hill",
+      "values": [
+        "amerického",
+        "britského",
+        "indického",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Radek Bajgar",
+      "values": [
+        "slovinského",
+        "hongkongského",
+        "českého",
+        "íránského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "John Ford",
+      "values": [
+        "amerického",
+        "dánského",
+        "japonského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zdeněk Pospíšil",
+      "values": [
+        "finského",
+        "českého",
+        "norského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Brent Corrigan",
+      "values": [
+        "polského",
+        "norského",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Edward Burns",
+      "values": [
+        "islandského",
+        "amerického",
+        "norského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Spike Lee",
+      "values": [
+        "amerického",
+        "francouzského",
+        "švýcarského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

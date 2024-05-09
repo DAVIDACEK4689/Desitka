@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Sophia Lorenová",
+      "values": [
+        "nizozemskou",
+        "brazilskou",
+        "italskou",
+        "rakouskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Helen McCroryová",
+      "values": [
+        "americkou",
+        "německou",
+        "čínskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaroslava Hanušová",
+      "values": [
+        "americkou",
+        "ruskou",
+        "českou",
+        "australskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hana Křížková",
+      "values": [
+        "švédskou",
+        "íránskou",
+        "českou",
+        "jihoafrickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Carole Lombardová",
+      "values": [
+        "slovenskou",
+        "německou",
+        "izraelskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bergüzar Korel",
+      "values": [
+        "dánskou",
+        "tureckou",
+        "americkou",
+        "mexickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marie Burešová",
+      "values": [
+        "českou",
+        "jihoafrickou",
+        "německou",
+        "mexickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mária Bartalos",
+      "values": [
+        "maďarskou",
+        "slovenskou",
+        "argentinskou",
+        "íránskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ursula Strauss",
+      "values": [
+        "rakouskou",
+        "španělskou",
+        "jihokorejskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marta Hrachovinová",
+      "values": [
+        "kolumbijskou",
+        "čínskou",
+        "brazilskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

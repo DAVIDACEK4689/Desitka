@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Jiří Jarošík",
+      "values": [
+        "kolumbijského",
+        "českého",
+        "italského",
+        "peruánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marián Čišovský",
+      "values": [
+        "tureckého",
+        "švýcarského",
+        "albánského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jordi Alba",
+      "values": [
+        "gruzínského",
+        "albánského",
+        "paraguayského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gheorghe Hagi",
+      "values": [
+        "tureckého",
+        "velšského",
+        "rumunského",
+        "paraguayského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gerardo Martino",
+      "values": [
+        "marockého",
+        "argentinského",
+        "alžírského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michal Ďuriš",
+      "values": [
+        "ekvádorského",
+        "alžírského",
+        "slovenského",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jack Charlton",
+      "values": [
+        "finského",
+        "anglického",
+        "slovenského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fabio Grosso",
+      "values": [
+        "českého",
+        "paraguayského",
+        "slovenského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Scott Carson",
+      "values": [
+        "sovětského",
+        "anglického",
+        "belgického",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vítor Baía",
+      "values": [
+        "srbského",
+        "německého",
+        "chilského",
+        "portugalského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

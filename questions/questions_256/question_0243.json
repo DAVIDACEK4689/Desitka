@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Lady Gaga",
+      "values": [
+        "americkou",
+        "švédskou",
+        "peruánskou",
+        "australskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Agnetha Fältskog",
+      "values": [
+        "izraelskou",
+        "švédskou",
+        "islandskou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Patricie Fuxová",
+      "values": [
+        "českou",
+        "slovenskou",
+        "maďarskou",
+        "australskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tanja Kauerová",
+      "values": [
+        "španělskou",
+        "francouzskou",
+        "švýcarskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hayden Panettiere",
+      "values": [
+        "japonskou",
+        "maďarskou",
+        "americkou",
+        "mexickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Barby Kelly",
+      "values": [
+        "irskou",
+        "polskou",
+        "českou",
+        "švýcarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Selena",
+      "values": [
+        "nizozemskou",
+        "švédskou",
+        "mexickou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kat Graham",
+      "values": [
+        "španělskou",
+        "japonskou",
+        "americkou",
+        "peruánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karen Carpenter",
+      "values": [
+        "islandskou",
+        "australskou",
+        "německou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lujza Garajová Schrameková",
+      "values": [
+        "brazilskou",
+        "novozélandskou",
+        "slovenskou",
+        "australskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

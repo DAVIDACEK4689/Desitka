@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Šíleně smutná princezna",
+      "values": [
+        "Juraj Herz",
+        "Věra Chytilová",
+        "Bořivoj Zeman",
+        "Evald Schorm"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anděl Páně 2",
+      "values": [
+        "Jiří Menzel",
+        "Jiří Sequens",
+        "Jiří Strach",
+        "Zdeněk Tyc"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Už zase skáču přes kaluže",
+      "values": [
+        "Ondřej Trojan",
+        "Pavel Juráček",
+        "Juraj Herz",
+        "Karel Kachyňa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eva tropí hlouposti",
+      "values": [
+        "Martin Frič",
+        "Karel Kachyňa",
+        "Zdeněk Tyc",
+        "Jaromil Jireš"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kuky se vrací",
+      "values": [
+        "Otakar Vávra",
+        "Jan Svěrák",
+        "Bohdan Sláma",
+        "Martin Horský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dva lidi v zoo",
+      "values": [
+        "Marie Poledňáková",
+        "Juraj Herz",
+        "Karel Lamač",
+        "Oldřich Lipský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Život a neobyčejná dobrodružství vojáka Ivana Čonkina",
+      "values": [
+        "Václav Vorlíček",
+        "Evald Schorm",
+        "Jiří Menzel",
+        "Miloslav Šmídmajer"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Návrat ztraceného ráje",
+      "values": [
+        "Marie Poledňáková",
+        "Vojtěch Jasný",
+        "Ladislav Smoljak",
+        "Jiří Strach"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jako nikdy",
+      "values": [
+        "Petr Zelenka",
+        "Ondřej Trojan",
+        "Dušan Klein",
+        "Zdeněk Tyc"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Řeka čaruje",
+      "values": [
+        "Václav Krška",
+        "Karel Lamač",
+        "Tomáš Vorel",
+        "Jindřich Honzl"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

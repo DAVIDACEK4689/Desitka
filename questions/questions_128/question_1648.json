@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle organizace",
+  "questions": [
+    {
+      "key": "Noční vlci",
+      "values": [
+        "Rusko",
+        "Bělorusko",
+        "Francie",
+        "Uganda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eurasijský ekonomický svaz",
+      "values": [
+        "Rusko",
+        "Bělorusko",
+        "Nizozemsko",
+        "Uganda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Roskosmos",
+      "values": [
+        "Rusko",
+        "Belgie",
+        "Polsko",
+        "Švédsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Syrské demokratické síly",
+      "values": [
+        "Jugoslávie",
+        "Sýrie",
+        "Dánsko",
+        "Uganda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Boží armáda odporu",
+      "values": [
+        "Polsko",
+        "Švýcarsko",
+        "Švédsko",
+        "Uganda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "JAXA",
+      "values": [
+        "Polsko",
+        "Rusko",
+        "Japonsko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Konsent",
+      "values": [
+        "Norsko",
+        "Sýrie",
+        "Izrael",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mezinárodní námořní organizace",
+      "values": [
+        "Jugoslávie",
+        "Francie",
+        "Spojené království",
+        "Polsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Centre national de la recherche scientifique",
+      "values": [
+        "Francie",
+        "Japonsko",
+        "Norsko",
+        "Sýrie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kabaret Voltaire",
+      "values": [
+        "Jugoslávie",
+        "Spojené království",
+        "Polsko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

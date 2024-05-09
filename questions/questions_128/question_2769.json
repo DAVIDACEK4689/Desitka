@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kytaristu?",
+  "questions": [
+    {
+      "key": "Michal Pavlíček",
+      "values": [
+        "českého",
+        "nizozemského",
+        "španělského",
+        "jihoafrického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Wabi Ryvola",
+      "values": [
+        "španělského",
+        "českého",
+        "norského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jeff Hanneman",
+      "values": [
+        "amerického",
+        "dánského",
+        "izraelského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Euronymous",
+      "values": [
+        "maďarského",
+        "norského",
+        "amerického",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Peter Tägtgren",
+      "values": [
+        "německého",
+        "norského",
+        "švédského",
+        "jamajského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Umberto Tozzi",
+      "values": [
+        "finského",
+        "italského",
+        "švédského",
+        "jihoafrického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Roškaňuk",
+      "values": [
+        "britského",
+        "dánského",
+        "mexického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dominic Miller",
+      "values": [
+        "německého",
+        "britského",
+        "italského",
+        "izraelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Devin Townsend",
+      "values": [
+        "nizozemského",
+        "irského",
+        "kanadského",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andrej Šeban",
+      "values": [
+        "dánského",
+        "španělského",
+        "slovenského",
+        "jihoafrického"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

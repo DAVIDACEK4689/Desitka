@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] píseň?",
+  "questions": [
+    {
+      "key": "Tichá noc",
+      "values": [
+        "italskou",
+        "britskou",
+        "slovenskou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "We Are the World",
+      "values": [
+        "britskou",
+        "slovenskou",
+        "italskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dobrý král Václav",
+      "values": [
+        "ukrajinskou",
+        "anglickou",
+        "britskou",
+        "českou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Červená kalina",
+      "values": [
+        "německou",
+        "ukrajinskou",
+        "českou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ščedryk",
+      "values": [
+        "slovenskou",
+        "českou",
+        "ukrajinskou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Happy Birthday to You",
+      "values": [
+        "ruskou",
+        "australskou",
+        "českou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Horehronie",
+      "values": [
+        "britskou",
+        "německou",
+        "italskou",
+        "slovenskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Flower of Scotland",
+      "values": [
+        "italskou",
+        "slovenskou",
+        "ukrajinskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Waltzing Matilda",
+      "values": [
+        "australskou",
+        "anglickou",
+        "italskou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bavorská hymna",
+      "values": [
+        "americkou",
+        "australskou",
+        "německou",
+        "slovenskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] ateistu?",
+  "questions": [
+    {
+      "key": "Petr Pavel",
+      "values": [
+        "srbského",
+        "slovinského",
+        "českého",
+        "černohorského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lavrentij Pavlovič Berija",
+      "values": [
+        "chorvatského",
+        "bulharského",
+        "albánského",
+        "gruzínského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lance Armstrong",
+      "values": [
+        "amerického",
+        "gruzínského",
+        "maďarského",
+        "islandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Richard Strauss",
+      "values": [
+        "židovského",
+        "amerického",
+        "německého",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "John Malkovich",
+      "values": [
+        "arménského",
+        "britského",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sarah Bernhardt",
+      "values": [
+        "skotského",
+        "kanadského",
+        "ruského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Kropotkin",
+      "values": [
+        "kanadského",
+        "irského",
+        "švédského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michail Suslov",
+      "values": [
+        "irského",
+        "mexického",
+        "ruského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gene Roddenberry",
+      "values": [
+        "finského",
+        "amerického",
+        "kanadského",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Octave Mirbeau",
+      "values": [
+        "francouzského",
+        "chorvatského",
+        "kanadského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

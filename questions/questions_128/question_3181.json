@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Jan Kuchta",
+      "values": [
+        "skotského",
+        "slovenského",
+        "paraguayského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Hübschman",
+      "values": [
+        "českého",
+        "německého",
+        "francouzského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Andrea Pirlo",
+      "values": [
+        "jamajského",
+        "italského",
+        "chilského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Manuel Pellegrini",
+      "values": [
+        "německého",
+        "kolumbijského",
+        "chilského",
+        "československého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luis Suárez Miramontes",
+      "values": [
+        "švédského",
+        "dánského",
+        "polského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marek Havlík",
+      "values": [
+        "egyptského",
+        "senegalského",
+        "českého",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stefan Simič",
+      "values": [
+        "českého",
+        "španělského",
+        "islandského",
+        "anglického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Youssoufa Moukoko",
+      "values": [
+        "arménského",
+        "německého",
+        "chorvatského",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Iñigo Martínez",
+      "values": [
+        "srbského",
+        "bulharského",
+        "španělského",
+        "chilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gonçalo Ramos",
+      "values": [
+        "chorvatského",
+        "španělského",
+        "portugalského",
+        "černohorského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

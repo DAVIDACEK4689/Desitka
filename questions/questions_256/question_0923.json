@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] regenta?",
+  "questions": [
+    {
+      "key": "Kateřina Parrová",
+      "values": [
+        "uherského",
+        "českého",
+        "francouzského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ludvík Filip",
+      "values": [
+        "českého",
+        "skotského",
+        "uherského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kateřina Medicejská",
+      "values": [
+        "norského",
+        "francouzského",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Markéta Tudorovna",
+      "values": [
+        "francouzského",
+        "anglického",
+        "skotského",
+        "uherského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miklós Horthy",
+      "values": [
+        "francouzského",
+        "uherského",
+        "českého",
+        "skotského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Drahomíra ze Stodor",
+      "values": [
+        "skotského",
+        "českého",
+        "norského",
+        "anglického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Martel",
+      "values": [
+        "francouzského",
+        "španělského",
+        "českého",
+        "anglického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Anna Rakouská",
+      "values": [
+        "českého",
+        "uherského",
+        "francouzského",
+        "skotského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Haakon Magnus",
+      "values": [
+        "norského",
+        "francouzského",
+        "českého",
+        "uherského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "János Hunyadi",
+      "values": [
+        "norského",
+        "španělského",
+        "uherského",
+        "anglického"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

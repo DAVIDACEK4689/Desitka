@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Robert Lewandowski",
+      "values": [
+        "slovenského",
+        "velšského",
+        "gambijského",
+        "polského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Antoine Griezmann",
+      "values": [
+        "japonského",
+        "severoirského",
+        "francouzského",
+        "gruzínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stanislav Tecl",
+      "values": [
+        "švýcarského",
+        "brazilského",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Angelo Preciado",
+      "values": [
+        "irského",
+        "kolumbijského",
+        "ekvádorského",
+        "bulharského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rivaldo",
+      "values": [
+        "brazilského",
+        "egyptského",
+        "chilského",
+        "gruzínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cafu",
+      "values": [
+        "skotského",
+        "dánského",
+        "polského",
+        "brazilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Vaniak",
+      "values": [
+        "českého",
+        "maďarského",
+        "ukrajinského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Polák",
+      "values": [
+        "srbského",
+        "dánského",
+        "českého",
+        "nigerijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Frank Rijkaard",
+      "values": [
+        "švédského",
+        "ekvádorského",
+        "nizozemského",
+        "marockého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivo Ulich",
+      "values": [
+        "chilského",
+        "sovětského",
+        "norského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

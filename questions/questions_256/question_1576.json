@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Richard Krajčo",
+      "values": [
+        "sovětského",
+        "českého",
+        "irského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bořek Slezáček",
+      "values": [
+        "maďarského",
+        "skotského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Antonio Banderas",
+      "values": [
+        "finského",
+        "španělského",
+        "britského",
+        "skotského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vladimír Kratina",
+      "values": [
+        "sovětského",
+        "skotského",
+        "norského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Kalousek",
+      "values": [
+        "sovětského",
+        "finského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Linka",
+      "values": [
+        "kanadského",
+        "rumunského",
+        "jihokorejského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Kreuzmann starší",
+      "values": [
+        "českého",
+        "irského",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "The Kid Laroi",
+      "values": [
+        "kolumbijského",
+        "australského",
+        "irského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sean Paul",
+      "values": [
+        "sovětského",
+        "rumunského",
+        "britského",
+        "jamajského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aleš Drvota",
+      "values": [
+        "islandského",
+        "jamajského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

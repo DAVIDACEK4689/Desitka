@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Zkrocená hora",
+      "values": [
+        "Barry Levinson",
+        "Kevin Costner",
+        "Rob Cohen",
+        "Ang Lee"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Úžasňákovi",
+      "values": [
+        "Noah Baumbach",
+        "Brad Bird",
+        "Mel Gibson",
+        "Sidney Lumet"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Riddick",
+      "values": [
+        "David Twohy",
+        "Chuck Russell",
+        "Michael Bay",
+        "Tim Burton"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Apocalypto",
+      "values": [
+        "Mel Gibson",
+        "Dennis Hopper",
+        "Andy Fickman",
+        "Richard Lester"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nesmiřitelní",
+      "values": [
+        "Charles Shyer",
+        "Clint Eastwood",
+        "Oliver Stone",
+        "Zack Snyder"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Milk",
+      "values": [
+        "Woody Allen",
+        "Gus Van Sant",
+        "Ang Lee",
+        "Nick Cassavetes"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lítám v tom",
+      "values": [
+        "Colin Trevorrow",
+        "Rob Reiner",
+        "Jason Reitman",
+        "George Clooney"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Yes Man",
+      "values": [
+        "Peyton Reed",
+        "McG",
+        "Emile Ardolino",
+        "Terrence Malick"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Král rybář",
+      "values": [
+        "Clint Eastwood",
+        "Richard Fleischer",
+        "Terry Gilliam",
+        "Joel Zwick"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dostaňte agenta Smarta",
+      "values": [
+        "Martin Brest",
+        "John Singleton",
+        "Michael Bay",
+        "Peter Segal"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

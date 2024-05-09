@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Soluň",
+      "values": [
+        "Indonésie",
+        "Kolumbie",
+        "Kambodža",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alanya",
+      "values": [
+        "Uzbekistán",
+        "Turecko",
+        "Palau",
+        "Vanuatu"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stavanger",
+      "values": [
+        "Myanmar",
+        "Česko",
+        "Libye",
+        "Norsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dammám",
+      "values": [
+        "Saúdská Arábie",
+        "Jižní Korea",
+        "Ázerbájdžán",
+        "Etiopie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ušguli",
+      "values": [
+        "Gruzie",
+        "Egypt",
+        "Island",
+        "Mongolsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Čtyři svatá města judaismu",
+      "values": [
+        "Izrael",
+        "Nepál",
+        "Ázerbájdžán",
+        "Brunej"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kandy",
+      "values": [
+        "Srí Lanka",
+        "Bulharsko",
+        "Ukrajina",
+        "Togo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Porvoo",
+      "values": [
+        "Rumunsko",
+        "Uganda",
+        "Západní Sahara",
+        "Finsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kruševac",
+      "values": [
+        "Konžská republika",
+        "Srbsko",
+        "Libye",
+        "Myanmar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sučava",
+      "values": [
+        "Rumunsko",
+        "Libye",
+        "Gruzie",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

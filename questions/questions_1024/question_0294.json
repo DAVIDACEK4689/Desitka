@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] sportovního funkcionáře?",
+  "questions": [
+    {
+      "key": "Niki Lauda",
+      "values": [
+        "rakouského",
+        "českého",
+        "francouzského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Železný",
+      "values": [
+        "italského",
+        "ukrajinského",
+        "českého",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivan Hašek",
+      "values": [
+        "rakouského",
+        "českého",
+        "francouzského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Poborský",
+      "values": [
+        "italského",
+        "ukrajinského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Valentino Rossi",
+      "values": [
+        "italského",
+        "francouzského",
+        "českého",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pierre de Coubertin",
+      "values": [
+        "francouzského",
+        "italského",
+        "ukrajinského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alois Hadamczik",
+      "values": [
+        "francouzského",
+        "českého",
+        "rakouského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Johan Cruijff",
+      "values": [
+        "rakouského",
+        "nizozemského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bernard Tapie",
+      "values": [
+        "rakouského",
+        "nizozemského",
+        "ukrajinského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zdeněk Hrubý",
+      "values": [
+        "českého",
+        "nizozemského",
+        "ukrajinského",
+        "italského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

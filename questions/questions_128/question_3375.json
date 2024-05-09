@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte kontinent podle pohoří",
+  "questions": [
+    {
+      "key": "Himálaj",
+      "values": [
+        "Jižní Amerika",
+        "Asie",
+        "Afrika",
+        "Evropa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Appalačské pohoří",
+      "values": [
+        "Evropa",
+        "Jižní Amerika",
+        "Severní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dinárské hory",
+      "values": [
+        "Asie",
+        "Afrika",
+        "Evropa",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hercynská pohoří",
+      "values": [
+        "Afrika",
+        "Asie",
+        "Severní Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Francouzské středohoří",
+      "values": [
+        "Evropa",
+        "Asie",
+        "Severní Amerika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ahaggar",
+      "values": [
+        "Asie",
+        "Evropa",
+        "Jižní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ruwenzori",
+      "values": [
+        "Severní Amerika",
+        "Asie",
+        "Evropa",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tibesti",
+      "values": [
+        "Asie",
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pontské hory",
+      "values": [
+        "Jižní Amerika",
+        "Asie",
+        "Evropa",
+        "Severní Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pobřežní hory",
+      "values": [
+        "Jižní Amerika",
+        "Asie",
+        "Evropa",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

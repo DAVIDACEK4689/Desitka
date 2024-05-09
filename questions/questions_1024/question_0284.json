@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Niki Lauda",
+      "values": [
+        "slovenského",
+        "rakouského",
+        "ruského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oskar Schindler",
+      "values": [
+        "ruského",
+        "ukrajinského",
+        "německého",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miloš Havel",
+      "values": [
+        "francouzského",
+        "německého",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ray Kroc",
+      "values": [
+        "amerického",
+        "italského",
+        "libanonského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexej Navalnyj",
+      "values": [
+        "ruského",
+        "britského",
+        "libanonského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eva Decroix",
+      "values": [
+        "ruského",
+        "britského",
+        "kanadského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Frank Abagnale",
+      "values": [
+        "amerického",
+        "českého",
+        "italského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Maurizio Gucci",
+      "values": [
+        "řeckého",
+        "britského",
+        "italského",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Bubeník",
+      "values": [
+        "švédského",
+        "italského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaroslav Brouk",
+      "values": [
+        "ruského",
+        "libanonského",
+        "českého",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

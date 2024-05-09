@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Ondřej Gregor Brzobohatý",
+      "values": [
+        "brazilského",
+        "českého",
+        "novozélandského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Henry Cavill",
+      "values": [
+        "britského",
+        "jihokorejského",
+        "jihoafrického",
+        "thajského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Juraj Kukura",
+      "values": [
+        "chilského",
+        "slovenského",
+        "islandského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Otmar Brancuzský",
+      "values": [
+        "bosenského",
+        "tureckého",
+        "irského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "William Shatner",
+      "values": [
+        "kanadského",
+        "maďarského",
+        "venezuelského",
+        "jamajského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Benjamin Bratt",
+      "values": [
+        "izraelského",
+        "amerického",
+        "thajského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Johnny Hallyday",
+      "values": [
+        "českého",
+        "sovětského",
+        "maďarského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oldřich Daněk",
+      "values": [
+        "českého",
+        "španělského",
+        "islandského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Darren Criss",
+      "values": [
+        "čínského",
+        "belgického",
+        "amerického",
+        "chorvatského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Thespis",
+      "values": [
+        "čínského",
+        "portorického",
+        "řeckého",
+        "jamajského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

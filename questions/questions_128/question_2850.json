@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Turnov",
+      "values": [
+        "Svratka",
+        "Inn",
+        "Jizera",
+        "Don"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kremže",
+      "values": [
+        "Spréva",
+        "Chrudimka",
+        "Lužnice",
+        "Dunaj"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Laa an der Thaya",
+      "values": [
+        "Sebnice",
+        "Dyje",
+        "Hornád",
+        "Rýn"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jíloviště",
+      "values": [
+        "Vltava",
+        "Emže",
+        "Těrek",
+        "Labe"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tulln an der Donau",
+      "values": [
+        "Dunaj",
+        "Tis",
+        "Sebnice",
+        "Úhlava"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Podbrezová",
+      "values": [
+        "Hron",
+        "Dněpr",
+        "Emže",
+        "Seina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Běloves",
+      "values": [
+        "Eufrat",
+        "Chrudimka",
+        "Metuje",
+        "Dyje"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Přízřenice",
+      "values": [
+        "Malše",
+        "Visla",
+        "Eufrat",
+        "Svratka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Velké Petrovice",
+      "values": [
+        "Lužnice",
+        "Něva",
+        "Metuje",
+        "Malše"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pertoltice pod Ralskem",
+      "values": [
+        "Hornád",
+        "Jizera",
+        "Ploučnice",
+        "Radbuza"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte spisovatele podle literárního díla",
+  "questions": [
+    {
+      "key": "Óda na radost",
+      "values": [
+        "Haruki Murakami",
+        "Friedrich Schiller",
+        "Alexandr Sergejevič Puškin",
+        "Nikolaj Vasiljevič Gogol"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dobrodružství Huckleberryho Finna",
+      "values": [
+        "Mark Twain",
+        "Friedrich Schiller",
+        "Kurt Vonnegut",
+        "Karel May"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tracyho tygr",
+      "values": [
+        "Martin Luther",
+        "Edgar Allan Poe",
+        "William Saroyan",
+        "Nikolaj Vasiljevič Gogol"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zápisky z podzemí",
+      "values": [
+        "Haruki Murakami",
+        "Jules Verne",
+        "Johann Wolfgang von Goethe",
+        "Fjodor Michajlovič Dostojevskij"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Betonová zahrada",
+      "values": [
+        "Martin Luther",
+        "Haruki Murakami",
+        "Ian McEwan",
+        "Erich Kästner"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Skleněný pokoj",
+      "values": [
+        "Erich Kästner",
+        "Simon Mawer",
+        "Charles Bukowski",
+        "Mark Twain"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Snídaně šampiónů",
+      "values": [
+        "Alexandr Sergejevič Puškin",
+        "Astrid Lindgrenová",
+        "Isaac Asimov",
+        "Kurt Vonnegut"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Devadesát tři",
+      "values": [
+        "Victor Hugo",
+        "Stephen King",
+        "George Gordon Byron",
+        "Ian McEwan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "A hroši se uvařili ve svých nádržích",
+      "values": [
+        "Karel May",
+        "Fjodor Michajlovič Dostojevskij",
+        "Jules Verne",
+        "Jack Kerouac"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Komturova smrt",
+      "values": [
+        "Kurt Vonnegut",
+        "Haruki Murakami",
+        "Charles Bukowski",
+        "August Strindberg"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

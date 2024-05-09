@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte německého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Muž jménem Otto",
+      "values": [
+        "Roland Emmerich",
+        "Marc Forster",
+        "Wolfgang Petersen",
+        "Leni Riefenstahlová"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Náš vůdce",
+      "values": [
+        "Leni Riefenstahlová",
+        "Dennis Gansel",
+        "Robert Wiene",
+        "Marc Forster"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Quantum of Solace",
+      "values": [
+        "Robert Wiene",
+        "Leni Riefenstahlová",
+        "Marc Forster",
+        "Werner Herzog"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Moonfall",
+      "values": [
+        "Wolfgang Petersen",
+        "Tom Tykwer",
+        "Werner Herzog",
+        "Roland Emmerich"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Triumf vůle",
+      "values": [
+        "Leni Riefenstahlová",
+        "Roland Emmerich",
+        "Wolfgang Petersen",
+        "Werner Herzog"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Světová válka Z",
+      "values": [
+        "Tom Tykwer",
+        "Wim Wenders",
+        "Marc Forster",
+        "Werner Herzog"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nebe nad Berlínem",
+      "values": [
+        "Wim Wenders",
+        "Dennis Gansel",
+        "Werner Herzog",
+        "Leni Riefenstahlová"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kabinet doktora Caligariho",
+      "values": [
+        "Roland Emmerich",
+        "Robert Wiene",
+        "Dennis Gansel",
+        "Leni Riefenstahlová"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hledání Země Nezemě",
+      "values": [
+        "Roland Emmerich",
+        "Tom Tykwer",
+        "Werner Herzog",
+        "Marc Forster"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Temný úsvit",
+      "values": [
+        "Wolfgang Petersen",
+        "Leni Riefenstahlová",
+        "Roland Emmerich",
+        "Werner Herzog"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

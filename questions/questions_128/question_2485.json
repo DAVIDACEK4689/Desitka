@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] novináře?",
+  "questions": [
+    {
+      "key": "Záviš Kalandra",
+      "values": [
+        "českého",
+        "kanadského",
+        "slovinského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Drahoňovský",
+      "values": [
+        "českého",
+        "švédského",
+        "kubánského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Fendrych",
+      "values": [
+        "českého",
+        "bulharského",
+        "kolumbijského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dietrich Eckart",
+      "values": [
+        "slovenského",
+        "slovinského",
+        "německého",
+        "chorvatského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alois Bohdan Brixius",
+      "values": [
+        "nizozemského",
+        "íránského",
+        "českého",
+        "saúdskoarabského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Curzio Malaparte",
+      "values": [
+        "italského",
+        "izraelského",
+        "ruského",
+        "chorvatského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David Sassoli",
+      "values": [
+        "ukrajinského",
+        "nizozemského",
+        "italského",
+        "československého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Do Thu Trang",
+      "values": [
+        "belgického",
+        "italského",
+        "československého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jeroným Janíček",
+      "values": [
+        "španělského",
+        "českého",
+        "amerického",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kurt Eisner",
+      "values": [
+        "německého",
+        "amerického",
+        "slovinského",
+        "australského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

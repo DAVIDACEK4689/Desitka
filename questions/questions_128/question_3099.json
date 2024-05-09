@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Paul Newman",
+      "values": [
+        "amerického",
+        "irského",
+        "indického",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Krejčík",
+      "values": [
+        "španělského",
+        "italského",
+        "českého",
+        "estonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "František Vláčil",
+      "values": [
+        "českého",
+        "švédského",
+        "kanadského",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kateř Tureček",
+      "values": [
+        "chorvatského",
+        "italského",
+        "českého",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zdeněk Potužil",
+      "values": [
+        "slovinského",
+        "polského",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Joss Whedon",
+      "values": [
+        "novozélandského",
+        "amerického",
+        "ukrajinského",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joel Edgerton",
+      "values": [
+        "islandského",
+        "japonského",
+        "australského",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sam Raimi",
+      "values": [
+        "mexického",
+        "německého",
+        "norského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dario Argento",
+      "values": [
+        "italského",
+        "polského",
+        "švédského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Neil Breen",
+      "values": [
+        "španělského",
+        "estonského",
+        "ukrajinského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

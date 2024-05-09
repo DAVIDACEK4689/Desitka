@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filozofa?",
+  "questions": [
+    {
+      "key": "Lev Nikolajevič Tolstoj",
+      "values": [
+        "kanadského",
+        "rakouského",
+        "ruského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ján Jesenský",
+      "values": [
+        "maďarského",
+        "českého",
+        "španělského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gottfried Wilhelm Leibniz",
+      "values": [
+        "dánského",
+        "německého",
+        "nizozemského",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Svatý Ambrož",
+      "values": [
+        "francouzského",
+        "kanadského",
+        "italského",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Henry David Thoreau",
+      "values": [
+        "dánského",
+        "amerického",
+        "kanadského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Edmund Burke",
+      "values": [
+        "švédského",
+        "britského",
+        "rakouského",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Angela Davisová",
+      "values": [
+        "nizozemského",
+        "ruského",
+        "švédského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zénón z Kitia",
+      "values": [
+        "britského",
+        "dánského",
+        "španělského",
+        "řeckého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Xenofanés",
+      "values": [
+        "řeckého",
+        "slovenského",
+        "britského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladimir Sergejevič Solovjov",
+      "values": [
+        "dánského",
+        "ruského",
+        "švýcarského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

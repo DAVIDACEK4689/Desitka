@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] firmu?",
+  "questions": [
+    {
+      "key": "OVB Holding",
+      "values": [
+        "německou",
+        "slovenskou",
+        "norskou",
+        "španělskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sedita",
+      "values": [
+        "australskou",
+        "slovenskou",
+        "maďarskou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Orkla Group",
+      "values": [
+        "slovinskou",
+        "norskou",
+        "rumunskou",
+        "švédskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Casio",
+      "values": [
+        "španělskou",
+        "slovenskou",
+        "japonskou",
+        "československou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fortune 500",
+      "values": [
+        "sovětskou",
+        "americkou",
+        "jihokorejskou",
+        "maltskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Victorinox",
+      "values": [
+        "chorvatskou",
+        "švédskou",
+        "švýcarskou",
+        "slovenskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kirovův závod",
+      "values": [
+        "sovětskou",
+        "malajsijskou",
+        "kanadskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "TomTom",
+      "values": [
+        "německou",
+        "sovětskou",
+        "nizozemskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sina Weibo",
+      "values": [
+        "italskou",
+        "čínskou",
+        "československou",
+        "chorvatskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Skytrax",
+      "values": [
+        "britskou",
+        "ukrajinskou",
+        "čínskou",
+        "irskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

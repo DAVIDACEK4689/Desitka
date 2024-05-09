@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vraha?",
+  "questions": [
+    {
+      "key": "Ctirad Mašín",
+      "values": [
+        "rakouského",
+        "českého",
+        "tureckého",
+        "izraelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Jiří Grasel",
+      "values": [
+        "českého",
+        "německého",
+        "japonského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Julio Caesar",
+      "values": [
+        "francouzského",
+        "německého",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Peca",
+      "values": [
+        "tureckého",
+        "britského",
+        "českého",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tex Watson",
+      "values": [
+        "amerického",
+        "ruského",
+        "českého",
+        "australského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karol Pazúr",
+      "values": [
+        "českého",
+        "norského",
+        "slovenského",
+        "tureckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vladimír Bayer",
+      "values": [
+        "egyptského",
+        "francouzského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Robert Tempel",
+      "values": [
+        "belgického",
+        "českého",
+        "ruského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jack Unterweger",
+      "values": [
+        "amerického",
+        "rakouského",
+        "francouzského",
+        "izraelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marc Dutroux",
+      "values": [
+        "českého",
+        "australského",
+        "belgického",
+        "egyptského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

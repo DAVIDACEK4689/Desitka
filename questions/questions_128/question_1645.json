@@ -1,0 +1,105 @@
+{
+  "text": "Určete kontinent podle dinosaura",
+  "questions": [
+    {
+      "key": "Spinosaurus",
+      "values": [
+        "Jižní Amerika",
+        "Afrika",
+        "Severní Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nigersaurus",
+      "values": [
+        "Afrika",
+        "Evropa",
+        "Asie",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Carnotaurus",
+      "values": [
+        "Asie",
+        "Severní Amerika",
+        "Afrika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Apatosaurus",
+      "values": [
+        "Asie",
+        "Afrika",
+        "Jižní Amerika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pachycephalosaurus",
+      "values": [
+        "Asie",
+        "Severní Amerika",
+        "Evropa",
+        "Afrika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Compsognathus",
+      "values": [
+        "Severní Amerika",
+        "Asie",
+        "Afrika",
+        "Evropa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Edmontosaurus",
+      "values": [
+        "Afrika",
+        "Severní Amerika",
+        "Asie",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mapusaurus",
+      "values": [
+        "Severní Amerika",
+        "Afrika",
+        "Jižní Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gallimimus",
+      "values": [
+        "Afrika",
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Microraptor",
+      "values": [
+        "Jižní Amerika",
+        "Afrika",
+        "Asie",
+        "Evropa"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

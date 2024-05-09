@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle prezidenta",
+  "questions": [
+    {
+      "key": "Saddám Husajn",
+      "values": [
+        "Portugalsko",
+        "Pákistán",
+        "Uzbekistán",
+        "Irák"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "António de Oliveira Salazar",
+      "values": [
+        "Tanzanie",
+        "Vietnam",
+        "Česká republika",
+        "Portugalsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Draupadí Murmúová",
+      "values": [
+        "Pero",
+        "Indie",
+        "Portugalsko",
+        "Slovinsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gurbanguly Berdimuhamedow",
+      "values": [
+        "Rovníková Guinea",
+        "Turkmenistán",
+        "Malta",
+        "Guatemala"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Albert Lebrun",
+      "values": [
+        "Mongolsko",
+        "Francie",
+        "Česká republika",
+        "Tunisko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Roman Herzog",
+      "values": [
+        "Německo",
+        "Afghánistán",
+        "Lotyšsko",
+        "Pero"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Thomas Klestil",
+      "values": [
+        "Rusko",
+        "Rwanda",
+        "Rakousko",
+        "Salvador"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Samia Suluhu Hassanová",
+      "values": [
+        "Gruzie",
+        "Tanzanie",
+        "Lotyšsko",
+        "Gabon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Blaise Compaoré",
+      "values": [
+        "Nikaragua",
+        "Burkina Faso",
+        "Německo",
+        "Zambie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Askar Akajev",
+      "values": [
+        "Ázerbájdžán",
+        "Estonsko",
+        "Kyrgyzstán",
+        "Libérie"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

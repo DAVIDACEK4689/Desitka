@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Barry Gibb",
+      "values": [
+        "australského",
+        "polského",
+        "belgického",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Moby",
+      "values": [
+        "norského",
+        "německého",
+        "irského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Luboš Fišer",
+      "values": [
+        "českého",
+        "francouzského",
+        "argentinského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Bendl",
+      "values": [
+        "českého",
+        "slovenského",
+        "arménského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Edward Elgar",
+      "values": [
+        "litevského",
+        "britského",
+        "irského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Thomas Jacob Bergersen",
+      "values": [
+        "dánského",
+        "arménského",
+        "argentinského",
+        "norského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Judith Durham",
+      "values": [
+        "australského",
+        "slovinského",
+        "švýcarského",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavel Bořkovec",
+      "values": [
+        "amerického",
+        "českého",
+        "jihoafrického",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Taryn Manning",
+      "values": [
+        "amerického",
+        "švédského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jaromír Honzák",
+      "values": [
+        "českého",
+        "francouzského",
+        "japonského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

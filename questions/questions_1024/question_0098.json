@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] román?",
+  "questions": [
+    {
+      "key": "Robinson Crusoe",
+      "values": [
+        "irský",
+        "ruský",
+        "americký",
+        "anglický"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pýcha a předsudek",
+      "values": [
+        "španělský",
+        "anglický",
+        "německý",
+        "ruský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jana Eyrová",
+      "values": [
+        "italský",
+        "anglický",
+        "irský",
+        "americký"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hrabě Monte Cristo",
+      "values": [
+        "francouzský",
+        "anglický",
+        "španělský",
+        "český"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paní Bovaryová",
+      "values": [
+        "francouzský",
+        "španělský",
+        "anglický",
+        "australský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kmotr",
+      "values": [
+        "australský",
+        "americký",
+        "německý",
+        "španělský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bílý tesák",
+      "values": [
+        "ruský",
+        "italský",
+        "americký",
+        "český"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pán much",
+      "values": [
+        "italský",
+        "český",
+        "anglický",
+        "australský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nekonečný příběh",
+      "values": [
+        "anglický",
+        "německý",
+        "italský",
+        "australský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Konec civilizace",
+      "values": [
+        "český",
+        "australský",
+        "irský",
+        "anglický"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

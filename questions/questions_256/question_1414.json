@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [typ] organizaci?",
+  "questions": [
+    {
+      "key": "Wagnerova skupina",
+      "values": [
+        "fiktivní",
+        "zdravotnickou",
+        "zločineckou",
+        "mezinárodní"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cosa nostra",
+      "values": [
+        "zločineckou",
+        "leteckou",
+        "vědeckou",
+        "politickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "G20",
+      "values": [
+        "ekologickou",
+        "politickou",
+        "hospodářskou",
+        "mezinárodní"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Evropská organizace pro jaderný výzkum",
+      "values": [
+        "partyzánskou",
+        "mezinárodní",
+        "politickou",
+        "vědeckou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Irgun",
+      "values": [
+        "politickou",
+        "mezinárodní",
+        "leteckou",
+        "partyzánskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Drogový kartel",
+      "values": [
+        "zločineckou",
+        "partyzánskou",
+        "leteckou",
+        "zdravotnickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Charita Česká republika",
+      "values": [
+        "zločineckou",
+        "hospodářskou",
+        "humanitární",
+        "zaniklou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Europol",
+      "values": [
+        "mezinárodní",
+        "vzdělávací",
+        "zločineckou",
+        "zdravotnickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Viet Minh",
+      "values": [
+        "partyzánskou",
+        "leteckou",
+        "zdravotnickou",
+        "zaniklou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Freedom House",
+      "values": [
+        "mezinárodní",
+        "vzdělávací",
+        "zaniklou",
+        "humanitární"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

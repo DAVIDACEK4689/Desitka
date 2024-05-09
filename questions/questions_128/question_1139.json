@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Zlata Adamovská",
+      "values": [
+        "českou",
+        "kubánskou",
+        "jihoafrickou",
+        "íránskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Veronika Čermák Macková",
+      "values": [
+        "německou",
+        "norskou",
+        "českou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zita Kabátová",
+      "values": [
+        "izraelskou",
+        "českou",
+        "švýcarskou",
+        "indickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zuzana Mixová",
+      "values": [
+        "českou",
+        "íránskou",
+        "jihokorejskou",
+        "americkou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sarah Biasiniová",
+      "values": [
+        "švýcarskou",
+        "ruskou",
+        "francouzskou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miroslava Šternová",
+      "values": [
+        "tureckou",
+        "mexickou",
+        "chorvatskou",
+        "rakouskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michaela Conlin",
+      "values": [
+        "americkou",
+        "kolumbijskou",
+        "uruguayskou",
+        "švédskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ginnifer Goodwin",
+      "values": [
+        "americkou",
+        "bulharskou",
+        "kolumbijskou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Danica McKellarová",
+      "values": [
+        "novozélandskou",
+        "maďarskou",
+        "kanadskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Věra Gabrielová",
+      "values": [
+        "českou",
+        "norskou",
+        "jihokorejskou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

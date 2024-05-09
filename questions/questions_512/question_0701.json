@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte kontinent podle fauny",
+  "questions": [
+    {
+      "key": "Tygr",
+      "values": [
+        "Afrika",
+        "Asie",
+        "Střední Amerika",
+        "Antarktida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kuna lesní",
+      "values": [
+        "Jižní Amerika",
+        "Severní Amerika",
+        "Evropa",
+        "Asie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tygr indický",
+      "values": [
+        "Asie",
+        "Jižní Amerika",
+        "Střední Amerika",
+        "Antarktida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dingo",
+      "values": [
+        "Afrika",
+        "Jižní Amerika",
+        "Antarktida",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gekončík noční",
+      "values": [
+        "Střední Amerika",
+        "Asie",
+        "Severní Amerika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cikáda sedmnáctiletá",
+      "values": [
+        "Střední Amerika",
+        "Severní Amerika",
+        "Evropa",
+        "Asie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vlk eurasijský",
+      "values": [
+        "Severní Amerika",
+        "Evropa",
+        "Afrika",
+        "Střední Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Promyka mungo",
+      "values": [
+        "Střední Amerika",
+        "Asie",
+        "Antarktida",
+        "Afrika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Žirafa síťovaná",
+      "values": [
+        "Evropa",
+        "Afrika",
+        "Střední Amerika",
+        "Antarktida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Herkules antilský",
+      "values": [
+        "Asie",
+        "Střední Amerika",
+        "Jižní Amerika",
+        "Antarktida"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

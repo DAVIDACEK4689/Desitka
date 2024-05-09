@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Josef Dvořák",
+      "values": [
+        "italského",
+        "českého",
+        "irského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavel Bobek",
+      "values": [
+        "českého",
+        "španělského",
+        "nizozemského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Kačer",
+      "values": [
+        "chilského",
+        "českého",
+        "srbského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "John Cena",
+      "values": [
+        "amerického",
+        "guatemalského",
+        "srbského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Kopečný",
+      "values": [
+        "českého",
+        "guatemalského",
+        "srbského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Patrick Duffy",
+      "values": [
+        "jihoafrického",
+        "francouzského",
+        "malajsijského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Holý",
+      "values": [
+        "německého",
+        "českého",
+        "nizozemského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eduard Haken",
+      "values": [
+        "marockého",
+        "amerického",
+        "novozélandského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Bruder",
+      "values": [
+        "tureckého",
+        "českého",
+        "sovětského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Yves Rénier",
+      "values": [
+        "švédského",
+        "guatemalského",
+        "francouzského",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

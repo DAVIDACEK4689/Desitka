@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] dramatický film?",
+  "questions": [
+    {
+      "key": "Bod obnovy",
+      "values": [
+        "australský",
+        "britský",
+        "ruský",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Němá tajemství",
+      "values": [
+        "sovětský",
+        "český",
+        "italský",
+        "japonský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gauneři",
+      "values": [
+        "francouzský",
+        "německý",
+        "maďarský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kuře melancholik",
+      "values": [
+        "český",
+        "estonský",
+        "japonský",
+        "slovenský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ledová archa",
+      "values": [
+        "italský",
+        "německý",
+        "český",
+        "slovenský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dým bramborové natě",
+      "values": [
+        "československý",
+        "japonský",
+        "ruský",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Temné slunce",
+      "values": [
+        "japonský",
+        "slovenský",
+        "český",
+        "ruský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nebeská stvoření",
+      "values": [
+        "jihokorejský",
+        "slovenský",
+        "novozélandský",
+        "český"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Muži v říji",
+      "values": [
+        "francouzský",
+        "mexický",
+        "jihokorejský",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Památkáři",
+      "values": [
+        "německý",
+        "český",
+        "švédský",
+        "britský"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

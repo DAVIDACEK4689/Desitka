@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Ondřej Havelka",
+      "values": [
+        "dánského",
+        "italského",
+        "švýcarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nicolas Cage",
+      "values": [
+        "novozélandského",
+        "guatemalského",
+        "amerického",
+        "čínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Maroš Kramár",
+      "values": [
+        "slovenského",
+        "indického",
+        "švýcarského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Timothy Dalton",
+      "values": [
+        "britského",
+        "argentinského",
+        "australského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "George Lazenby",
+      "values": [
+        "rakouského",
+        "australského",
+        "francouzského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kamil Halbich",
+      "values": [
+        "irského",
+        "venezuelského",
+        "českého",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rutger Hauer",
+      "values": [
+        "malajsijského",
+        "nizozemského",
+        "polského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Grace Jones",
+      "values": [
+        "islandského",
+        "slovenského",
+        "jamajského",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zdeněk Hess",
+      "values": [
+        "venezuelského",
+        "amerického",
+        "brazilského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ed Westwick",
+      "values": [
+        "venezuelského",
+        "srbského",
+        "brazilského",
+        "britského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

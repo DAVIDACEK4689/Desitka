@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] firmu?",
+  "questions": [
+    {
+      "key": "Midjourney",
+      "values": [
+        "polskou",
+        "belgickou",
+        "dánskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Husqvarna",
+      "values": [
+        "norskou",
+        "československou",
+        "švédskou",
+        "slovenskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Radiojournal",
+      "values": [
+        "vietnamskou",
+        "irskou",
+        "britskou",
+        "československou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bridgestone",
+      "values": [
+        "českou",
+        "japonskou",
+        "australskou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hennessy",
+      "values": [
+        "francouzskou",
+        "jihokorejskou",
+        "rumunskou",
+        "polskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "LG Electronics",
+      "values": [
+        "československou",
+        "jihokorejskou",
+        "norskou",
+        "rumunskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Infosys",
+      "values": [
+        "rumunskou",
+        "americkou",
+        "australskou",
+        "indickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Elsevier",
+      "values": [
+        "československou",
+        "izraelskou",
+        "malajsijskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Colnago",
+      "values": [
+        "sovětskou",
+        "chorvatskou",
+        "italskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Humanic",
+      "values": [
+        "malajsijskou",
+        "indickou",
+        "rakouskou",
+        "australskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle narození",
+  "questions": [
+    {
+      "key": "Idi Amin",
+      "values": [
+        "Turecko",
+        "Jamajka",
+        "Rumunsko",
+        "Uganda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Charles Sobhraj",
+      "values": [
+        "Maroko",
+        "Ghana",
+        "Srbsko",
+        "Vietnam"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mike Grose",
+      "values": [
+        "Uruguay",
+        "Spojené království",
+        "Uzbekistán",
+        "Kolumbie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Carlos Castaneda",
+      "values": [
+        "Afghánistán",
+        "Pero",
+        "Venezuela",
+        "Japonsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nyck de Vries",
+      "values": [
+        "Uganda",
+        "Nizozemsko",
+        "Nový Zéland",
+        "Turecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Antonín Veliký",
+      "values": [
+        "Francie",
+        "Egypt",
+        "Uzbekistán",
+        "Uruguay"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aleksandar Mitrović",
+      "values": [
+        "Maďarsko",
+        "Mosambik",
+        "Srbsko",
+        "Japonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Konstantin Kuzakov",
+      "values": [
+        "Jihoafrická republika",
+        "Rusko",
+        "Pero",
+        "Francie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gallienus",
+      "values": [
+        "Moldavsko",
+        "Jihoafrická republika",
+        "Itálie",
+        "Brazílie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Viktor Lukašenko",
+      "values": [
+        "Kyrgyzstán",
+        "Somálsko",
+        "Spojené království",
+        "Bělorusko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

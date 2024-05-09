@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Harry Maguire",
+      "values": [
+        "francouzského",
+        "španělského",
+        "anglického",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Milan Škriniar",
+      "values": [
+        "anglického",
+        "ghanského",
+        "slovenského",
+        "nigerijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lukáš Vácha",
+      "values": [
+        "nigerijského",
+        "velšského",
+        "irského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gennaro Gattuso",
+      "values": [
+        "italského",
+        "finského",
+        "rumunského",
+        "československého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cesc Fàbregas",
+      "values": [
+        "sovětského",
+        "švédského",
+        "belgického",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel Piták",
+      "values": [
+        "skotského",
+        "severoirského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jürgen Klinsmann",
+      "values": [
+        "finského",
+        "německého",
+        "egyptského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tomáš Hořava",
+      "values": [
+        "anglického",
+        "českého",
+        "srbského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paul Scholes",
+      "values": [
+        "anglického",
+        "skotského",
+        "uruguayského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gabriel Jesus",
+      "values": [
+        "belgického",
+        "tureckého",
+        "brazilského",
+        "švédského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

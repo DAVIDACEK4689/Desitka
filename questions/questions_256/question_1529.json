@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] šachistu?",
+  "questions": [
+    {
+      "key": "Benjamin Franklin",
+      "values": [
+        "českého",
+        "norského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Magnus Carlsen",
+      "values": [
+        "ruského",
+        "norského",
+        "kubánského",
+        "židovského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Roman Prymula",
+      "values": [
+        "židovského",
+        "ruského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Navara",
+      "values": [
+        "kubánského",
+        "českého",
+        "amerického",
+        "židovského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marcel Duchamp",
+      "values": [
+        "francouzského",
+        "norského",
+        "kubánského",
+        "židovského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bohdan Pomahač",
+      "values": [
+        "amerického",
+        "českého",
+        "francouzského",
+        "kubánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "José Raúl Capablanca",
+      "values": [
+        "českého",
+        "francouzského",
+        "kubánského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bohuslav Schnirch",
+      "values": [
+        "ruského",
+        "židovského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hikaru Nakamura",
+      "values": [
+        "židovského",
+        "norského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Judit Polgárová",
+      "values": [
+        "francouzského",
+        "amerického",
+        "židovského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

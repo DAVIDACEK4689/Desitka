@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle premiéra",
+  "questions": [
+    {
+      "key": "Saddám Husajn",
+      "values": [
+        "Irák",
+        "Rumunsko",
+        "Rusko",
+        "Ukrajina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Rusnok",
+      "values": [
+        "Řecko",
+        "Česko",
+        "Pákistán",
+        "Bulharsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jicchak Rabin",
+      "values": [
+        "Arménie",
+        "Rumunsko",
+        "Česko",
+        "Izrael"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vojtech Tuka",
+      "values": [
+        "Portugalsko",
+        "Slovensko",
+        "Itálie",
+        "Maďarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Édouard Daladier",
+      "values": [
+        "Japonsko",
+        "Francie",
+        "Švédsko",
+        "Egypt"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pedro Sánchez",
+      "values": [
+        "Španělsko",
+        "Lucembursko",
+        "Srbsko",
+        "Estonsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Arsenij Jaceňuk",
+      "values": [
+        "Egypt",
+        "Ukrajina",
+        "Finsko",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pietro Badoglio",
+      "values": [
+        "Itálie",
+        "Estonsko",
+        "Kosovo",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Peter Colotka",
+      "values": [
+        "Moldavsko",
+        "Spojené království",
+        "Španělsko",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nicolas Jean de Dieu Soult",
+      "values": [
+        "Finsko",
+        "Švédsko",
+        "Francie",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

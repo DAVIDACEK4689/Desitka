@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Antonín Dvořák",
+      "values": [
+        "estonského",
+        "francouzského",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Císler",
+      "values": [
+        "českého",
+        "brazilského",
+        "francouzského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Varhan Orchestrovič Bauer",
+      "values": [
+        "českého",
+        "jihoafrického",
+        "nizozemského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Christoph Willibald Gluck",
+      "values": [
+        "japonského",
+        "ukrajinského",
+        "rakouského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Waylon Jennings",
+      "values": [
+        "amerického",
+        "českého",
+        "slovinského",
+        "litevského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "JJ Cale",
+      "values": [
+        "řeckého",
+        "argentinského",
+        "španělského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ástor Piazzolla",
+      "values": [
+        "českého",
+        "belgického",
+        "argentinského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Steve Reich",
+      "values": [
+        "amerického",
+        "slovinského",
+        "irského",
+        "arménského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Berman",
+      "values": [
+        "italského",
+        "ukrajinského",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Franz von Suppé",
+      "values": [
+        "dánského",
+        "argentinského",
+        "rakouského",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

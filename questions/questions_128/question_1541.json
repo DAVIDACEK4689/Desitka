@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Avicii",
+      "values": [
+        "švédského",
+        "švýcarského",
+        "slovinského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Władysław Szpilman",
+      "values": [
+        "slovenského",
+        "irského",
+        "rakouského",
+        "polského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Bohuslav Foerster",
+      "values": [
+        "argentinského",
+        "českého",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gaetano Donizetti",
+      "values": [
+        "litevského",
+        "nizozemského",
+        "italského",
+        "argentinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Umberto Tozzi",
+      "values": [
+        "francouzského",
+        "brazilského",
+        "finského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Paco de Lucía",
+      "values": [
+        "německého",
+        "španělského",
+        "nizozemského",
+        "argentinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Shel Silverstein",
+      "values": [
+        "amerického",
+        "italského",
+        "švédského",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Trevor Taylor",
+      "values": [
+        "maďarského",
+        "japonského",
+        "švýcarského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josh Kelley",
+      "values": [
+        "nizozemského",
+        "amerického",
+        "belgického",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kaija Saariahová",
+      "values": [
+        "finského",
+        "arménského",
+        "dánského",
+        "irského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

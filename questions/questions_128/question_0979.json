@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] klavíristu?",
+  "questions": [
+    {
+      "key": "Jaroslav Uhlíř",
+      "values": [
+        "kanadského",
+        "izraelského",
+        "českého",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miroslav Berka",
+      "values": [
+        "českého",
+        "německého",
+        "maďarského",
+        "australského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Modest Petrovič Musorgskij",
+      "values": [
+        "slovenského",
+        "italského",
+        "norského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tuomas Holopainen",
+      "values": [
+        "čínského",
+        "polského",
+        "gruzínského",
+        "finského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Scott Joplin",
+      "values": [
+        "slovenského",
+        "francouzského",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Glenn Gould",
+      "values": [
+        "italského",
+        "kanadského",
+        "ukrajinského",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jakub Dominik",
+      "values": [
+        "gruzínského",
+        "amerického",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Daniel Forró",
+      "values": [
+        "australského",
+        "slovenského",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Igor Ardašev",
+      "values": [
+        "britského",
+        "kanadského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oscar Peterson",
+      "values": [
+        "polského",
+        "amerického",
+        "německého",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

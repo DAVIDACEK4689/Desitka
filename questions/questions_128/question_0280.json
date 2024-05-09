@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte pohoří podle přehradní nádrže",
+  "questions": [
+    {
+      "key": "Vodní nádrž Seč",
+      "values": [
+        "Pražská plošina",
+        "Jizerské hory",
+        "Vizovická vrchovina",
+        "Železná hora"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vodní nádrž Štěchovice",
+      "values": [
+        "Benešovská pahorkatina",
+        "Pražská plošina",
+        "Mostecká pánev",
+        "Šumava"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vodní nádrž Plumlov",
+      "values": [
+        "Drahanská vrchovina",
+        "Vizovická vrchovina",
+        "Křižanovská vrchovina",
+        "Novohradské podhůří"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vodní nádrž Olešná",
+      "values": [
+        "Jizerské hory",
+        "Mostecká pánev",
+        "Drahanská vrchovina",
+        "Podbeskydská pahorkatina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vodní nádrž Baška",
+      "values": [
+        "Podbeskydská pahorkatina",
+        "Podorlická pahorkatina",
+        "Benešovská pahorkatina",
+        "Novohradské podhůří"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vodní nádrž Pilská",
+      "values": [
+        "Křižanovská vrchovina",
+        "Hornosázavská pahorkatina",
+        "Novohradské podhůří",
+        "Benešovská pahorkatina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vodní nádrž Boskovice",
+      "values": [
+        "Drahanská vrchovina",
+        "Šumava",
+        "Podorlická pahorkatina",
+        "Podbeskydská pahorkatina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vodní nádrž Vrchlice",
+      "values": [
+        "Tepelská vrchovina",
+        "Podorlická pahorkatina",
+        "Šumava",
+        "Hornosázavská pahorkatina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ivanské jezero",
+      "values": [
+        "Podorlická pahorkatina",
+        "Hornosázavská pahorkatina",
+        "Jizerské hory",
+        "Tepelská vrchovina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vodní nádrž Mariánské Lázně",
+      "values": [
+        "Podbeskydská pahorkatina",
+        "Benešovská pahorkatina",
+        "Tepelská vrchovina",
+        "Podorlická pahorkatina"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

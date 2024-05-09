@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Michael Kocáb",
+      "values": [
+        "francouzského",
+        "irského",
+        "českého",
+        "skotského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Matěj Ruppert",
+      "values": [
+        "australského",
+        "sovětského",
+        "brazilského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lešek Semelka",
+      "values": [
+        "irského",
+        "českého",
+        "maďarského",
+        "jihokorejského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aleš Lehký",
+      "values": [
+        "nizozemského",
+        "maďarského",
+        "českého",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luděk Nekuda",
+      "values": [
+        "srbského",
+        "francouzského",
+        "nizozemského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Svatopluk Karásek",
+      "values": [
+        "rumunského",
+        "českého",
+        "australského",
+        "jihoafrického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kai Hansen",
+      "values": [
+        "švédského",
+        "skotského",
+        "kanadského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Laco Lučenič",
+      "values": [
+        "českého",
+        "norského",
+        "slovenského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Daddy Yankee",
+      "values": [
+        "českého",
+        "německého",
+        "italského",
+        "portorického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Crispin Glover",
+      "values": [
+        "francouzského",
+        "rumunského",
+        "dánského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

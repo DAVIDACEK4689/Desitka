@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Ivan Martin Jirous",
+      "values": [
+        "vietnamského",
+        "řeckého",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miguel de Cervantes y Saavedra",
+      "values": [
+        "ukrajinského",
+        "španělského",
+        "perského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jindřich Šimon Baar",
+      "values": [
+        "českého",
+        "indického",
+        "čínského",
+        "chilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vratislav Brabenec",
+      "values": [
+        "kubánského",
+        "polského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "William Golding",
+      "values": [
+        "dánského",
+        "anglického",
+        "ukrajinského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Anthony Burgess",
+      "values": [
+        "vietnamského",
+        "polského",
+        "řeckého",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Herbert Lawrence",
+      "values": [
+        "řeckého",
+        "srbského",
+        "kubánského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tony Ducháček",
+      "values": [
+        "irského",
+        "amerického",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Brukner",
+      "values": [
+        "norského",
+        "německého",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pietro Aretino",
+      "values": [
+        "italského",
+        "německého",
+        "vietnamského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte pohoří podle přehradní nádrže",
+  "questions": [
+    {
+      "key": "Vodní nádrž Lipno",
+      "values": [
+        "Šumava",
+        "Mostecká pánev",
+        "Táborská pahorkatina",
+        "Benešovská pahorkatina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vodní nádrž Seč",
+      "values": [
+        "Křižanovská vrchovina",
+        "Táborská pahorkatina",
+        "Železná hora",
+        "Tepelská vrchovina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vodní nádrž Pastviny",
+      "values": [
+        "Drahanská vrchovina",
+        "Podorlická pahorkatina",
+        "Táborská pahorkatina",
+        "Železná hora"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vodní nádrž Souš",
+      "values": [
+        "Šumava",
+        "Podorlická pahorkatina",
+        "Mostecká pánev",
+        "Jizerské hory"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vodní nádrž Pařížov",
+      "values": [
+        "Hornosázavská pahorkatina",
+        "Drahanská vrchovina",
+        "Mostecká pánev",
+        "Křižanovská vrchovina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vodní nádrž Olešná",
+      "values": [
+        "Drahanská vrchovina",
+        "Vizovická vrchovina",
+        "Mostecká pánev",
+        "Podbeskydská pahorkatina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vodní nádrž Nýrsko",
+      "values": [
+        "Novohradské podhůří",
+        "Železná hora",
+        "Hornosázavská pahorkatina",
+        "Šumava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vodní nádrž Kamýk",
+      "values": [
+        "Šumava",
+        "Podorlická pahorkatina",
+        "Křižanovská vrchovina",
+        "Benešovská pahorkatina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vodní nádrž Lipno II",
+      "values": [
+        "Křižanovská vrchovina",
+        "Šumava",
+        "Podbeskydská pahorkatina",
+        "Táborská pahorkatina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vodní nádrž Boskovice",
+      "values": [
+        "Šumava",
+        "Podorlická pahorkatina",
+        "Táborská pahorkatina",
+        "Drahanská vrchovina"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

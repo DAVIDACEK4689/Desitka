@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Jiří Lábus",
+      "values": [
+        "jamajského",
+        "belgického",
+        "českého",
+        "marockého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marek Brodský",
+      "values": [
+        "portorického",
+        "ukrajinského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ottfried Fischer",
+      "values": [
+        "německého",
+        "islandského",
+        "nizozemského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Kalousek",
+      "values": [
+        "dánského",
+        "českého",
+        "italského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jeff Goldblum",
+      "values": [
+        "italského",
+        "českého",
+        "amerického",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Milan Markovič",
+      "values": [
+        "slovenského",
+        "srbského",
+        "izraelského",
+        "venezuelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Krejčíř",
+      "values": [
+        "švýcarského",
+        "čínského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Daniel Barták",
+      "values": [
+        "amerického",
+        "izraelského",
+        "japonského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jason Bateman",
+      "values": [
+        "indického",
+        "srbského",
+        "amerického",
+        "brazilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivan Romančík",
+      "values": [
+        "norského",
+        "slovenského",
+        "srbského",
+        "islandského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

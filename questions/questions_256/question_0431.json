@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Pražské povstání",
+      "values": [
+        "1469",
+        "1565",
+        "1945",
+        "1995"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Vídně",
+      "values": [
+        "1485",
+        "1709",
+        "1993",
+        "1683"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Obléhání Tobruku",
+      "values": [
+        "1643",
+        "1941",
+        "1709",
+        "1916"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Brunanburhu",
+      "values": [
+        "1427",
+        "1485",
+        "937",
+        "1915"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Nikopole",
+      "values": [
+        "1396",
+        "2022",
+        "1792",
+        "1944"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva o Vukovar",
+      "values": [
+        "1919",
+        "1434",
+        "1380",
+        "1991"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Operace Blau",
+      "values": [
+        "1942",
+        "1914",
+        "1415",
+        "1426"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva o Peleliu",
+      "values": [
+        "1944",
+        "1800",
+        "1600",
+        "1619"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva na Las Navas de Tolosa",
+      "values": [
+        "1993",
+        "1212",
+        "1800",
+        "1214"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Útok na Hadí ostrov",
+      "values": [
+        "1600",
+        "1859",
+        "2022",
+        "1424"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

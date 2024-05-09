@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Heřmánek pravý",
+      "values": [
+        "Mongolsko",
+        "Austrálie",
+        "Česko",
+        "Brazílie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Durman obecný",
+      "values": [
+        "Mexiko",
+        "Austrálie",
+        "Mongolsko",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mateřídouška",
+      "values": [
+        "Austrálie",
+        "Brazílie",
+        "Mongolsko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bršlice kozí noha",
+      "values": [
+        "Česko",
+        "Mexiko",
+        "Brazílie",
+        "Austrálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Popenec obecný",
+      "values": [
+        "Mongolsko",
+        "Austrálie",
+        "Mexiko",
+        "Brazílie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marakuja",
+      "values": [
+        "Česko",
+        "Mongolsko",
+        "Austrálie",
+        "Brazílie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Buk lesní",
+      "values": [
+        "Brazílie",
+        "Mexiko",
+        "Austrálie",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Čekanka obecná",
+      "values": [
+        "Mongolsko",
+        "Mexiko",
+        "Brazílie",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pelyněk",
+      "values": [
+        "Česko",
+        "Mongolsko",
+        "Brazílie",
+        "Austrálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chryzantéma",
+      "values": [
+        "Česko",
+        "Austrálie",
+        "Mongolsko",
+        "Brazílie"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

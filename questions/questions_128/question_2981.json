@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] román?",
+  "questions": [
+    {
+      "key": "Utrpení mladého Werthera",
+      "values": [
+        "italský",
+        "německý",
+        "čínský",
+        "švédský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zbabělci",
+      "values": [
+        "český",
+        "ruský",
+        "rakouský",
+        "japonský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Milenec lady Chatterleyové",
+      "values": [
+        "irský",
+        "australský",
+        "čínský",
+        "britský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tichý Don",
+      "values": [
+        "ruský",
+        "rakouský",
+        "španělský",
+        "slovenský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dobrý člověk ještě žije",
+      "values": [
+        "francouzský",
+        "americký",
+        "italský",
+        "irský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Citlivý člověk",
+      "values": [
+        "ruský",
+        "český",
+        "švédský",
+        "francouzský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eldest",
+      "values": [
+        "čínský",
+        "americký",
+        "španělský",
+        "rakouský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Děti půlnoci",
+      "values": [
+        "kanadský",
+        "japonský",
+        "anglický",
+        "čínský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pantáta Bezoušek",
+      "values": [
+        "japonský",
+        "český",
+        "ruský",
+        "německý"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dánská dívka",
+      "values": [
+        "francouzský",
+        "německý",
+        "norský",
+        "americký"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

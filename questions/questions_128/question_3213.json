@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Rychle a zběsile 9",
+      "values": [
+        "George Roy Hill",
+        "Terrence Malick",
+        "Robert Wise",
+        "Justin Lin"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Skrytá identita",
+      "values": [
+        "Martin Scorsese",
+        "Sylvester Stallone",
+        "David Frankel",
+        "Clint Eastwood"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zjizvená tvář",
+      "values": [
+        "Tim Robbins",
+        "William Friedkin",
+        "Brian De Palma",
+        "Michael Cimino"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Policajt v Beverly Hills",
+      "values": [
+        "Noah Baumbach",
+        "Sydney Pollack",
+        "Peter Hyams",
+        "Martin Brest"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Smrt jí sluší",
+      "values": [
+        "Godfrey Reggio",
+        "Peter Segal",
+        "Robert Zemeckis",
+        "George Clooney"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tootsie",
+      "values": [
+        "Jon Favreau",
+        "Michael Cimino",
+        "Jay Roach",
+        "Sydney Pollack"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Barry Lyndon",
+      "values": [
+        "Stanley Kubrick",
+        "Peter Hyams",
+        "John Carpenter",
+        "Sidney Lumet"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dokonalý únik",
+      "values": [
+        "Chris Columbus",
+        "Harold Becker",
+        "David Twohy",
+        "Howard Hawks"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "THX 1138",
+      "values": [
+        "Catherine Hardwicke",
+        "Jonathan Demme",
+        "George Lucas",
+        "Michael Cimino"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Správní chlapi",
+      "values": [
+        "Kevin Costner",
+        "Shane Black",
+        "Robert Wise",
+        "Josef von Sternberg"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

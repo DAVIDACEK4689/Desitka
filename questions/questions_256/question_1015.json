@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Miley Cyrusová",
+      "values": [
+        "americkou",
+        "barbadoskou",
+        "brazilskou",
+        "finskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Laďka Kozderková",
+      "values": [
+        "novozélandskou",
+        "mexickou",
+        "českou",
+        "švýcarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Klára Kolomazníková",
+      "values": [
+        "německou",
+        "českou",
+        "brazilskou",
+        "polskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Christina Aguilera",
+      "values": [
+        "americkou",
+        "brazilskou",
+        "islandskou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Daniela Magálová",
+      "values": [
+        "indickou",
+        "českou",
+        "kolumbijskou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joan Baez",
+      "values": [
+        "ruskou",
+        "francouzskou",
+        "českou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sandra Nasic",
+      "values": [
+        "francouzskou",
+        "českou",
+        "ruskou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kateřina Bohatová",
+      "values": [
+        "americkou",
+        "norskou",
+        "německou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Emmy Rossum",
+      "values": [
+        "americkou",
+        "španělskou",
+        "indickou",
+        "norskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dusty Springfield",
+      "values": [
+        "indickou",
+        "polskou",
+        "kanadskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Wolfgang Amadeus Mozart",
+      "values": [
+        "arménského",
+        "francouzského",
+        "rakouského",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Johannes Brahms",
+      "values": [
+        "arménského",
+        "rakouského",
+        "německého",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hans Zimmer",
+      "values": [
+        "maďarského",
+        "italského",
+        "německého",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Hašler",
+      "values": [
+        "švédského",
+        "britského",
+        "řeckého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sergej Rachmaninov",
+      "values": [
+        "německého",
+        "arménského",
+        "ruského",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robert Schumann",
+      "values": [
+        "britského",
+        "italského",
+        "maďarského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Niall Horan",
+      "values": [
+        "britského",
+        "arménského",
+        "řeckého",
+        "irského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vangelis",
+      "values": [
+        "řeckého",
+        "norského",
+        "arménského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Joan Baez",
+      "values": [
+        "německého",
+        "norského",
+        "kanadského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Franz Xaver Wolfgang Mozart",
+      "values": [
+        "švédského",
+        "arménského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

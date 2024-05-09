@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte interpreta podle hudební alby",
+  "questions": [
+    {
+      "key": "Let It Be",
+      "values": [
+        "Judas Priest",
+        "Arakain",
+        "Depeche Mode",
+        "The Beatles"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Abbey Road",
+      "values": [
+        "The Beatles",
+        "Kabát",
+        "Black Sabbath",
+        "Arakain"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Když muž se ženou snídá",
+      "values": [
+        "Arakain",
+        "Krucipüsk",
+        "Black Sabbath",
+        "Karel Gott"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "HovnoZle",
+      "values": [
+        "Judas Priest",
+        "Krucipüsk",
+        "Depeche Mode",
+        "Black Sabbath"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Banditi di Praga",
+      "values": [
+        "Black Sabbath",
+        "Iron Maiden",
+        "Kabát",
+        "Krucipüsk"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dole v dole",
+      "values": [
+        "Kabát",
+        "Iron Maiden",
+        "Arakain",
+        "Krucipüsk"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Čert na koze jel",
+      "values": [
+        "Krucipüsk",
+        "Iron Maiden",
+        "Kabát",
+        "Depeche Mode"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Please Please Me",
+      "values": [
+        "Karel Gott",
+        "The Beatles",
+        "Black Sabbath",
+        "Arakain"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paranoid",
+      "values": [
+        "Black Sabbath",
+        "Iron Maiden",
+        "Judas Priest",
+        "Depeche Mode"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Invincible Shield",
+      "values": [
+        "Judas Priest",
+        "Arakain",
+        "Krucipüsk",
+        "Karel Gott"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

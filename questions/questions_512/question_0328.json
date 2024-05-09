@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistu?",
+  "questions": [
+    {
+      "key": "Carlos Alcaraz",
+      "values": [
+        "španělského",
+        "švédského",
+        "australského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Roger Federer",
+      "values": [
+        "ruského",
+        "řeckého",
+        "italského",
+        "švýcarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Kodeš",
+      "values": [
+        "řeckého",
+        "italského",
+        "československého",
+        "srbského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Daniil Medveděv",
+      "values": [
+        "srbského",
+        "ruského",
+        "německého",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stefanos Tsitsipas",
+      "values": [
+        "rakouského",
+        "ruského",
+        "řeckého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stan Wawrinka",
+      "values": [
+        "švédského",
+        "švýcarského",
+        "bulharského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lukáš Rosol",
+      "values": [
+        "českého",
+        "španělského",
+        "německého",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Holger Rune",
+      "values": [
+        "dánského",
+        "bulharského",
+        "československého",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "John McEnroe",
+      "values": [
+        "španělského",
+        "švýcarského",
+        "australského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaroslav Navrátil",
+      "values": [
+        "francouzského",
+        "ruského",
+        "italského",
+        "československého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

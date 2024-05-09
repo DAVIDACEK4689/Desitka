@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte sport podle olympijského vítěze",
+  "questions": [
+    {
+      "key": "Alexander Zverev",
+      "values": [
+        "sportovní střelba",
+        "tenis",
+        "golf",
+        "biatlon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miloslav Mečíř",
+      "values": [
+        "judo",
+        "plavání",
+        "tenis",
+        "severská kombinace"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alois Hudec",
+      "values": [
+        "akrobatické lyžování",
+        "sportovní gymnastika",
+        "box",
+        "cyklistika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vladimir Krutov",
+      "values": [
+        "lední hokej",
+        "házená",
+        "sportovní gymnastika",
+        "zápas"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Olaf Ludwig",
+      "values": [
+        "sportovní střelba",
+        "cyklistika",
+        "severská kombinace",
+        "sportovní gymnastika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mikkel Hansen",
+      "values": [
+        "golf",
+        "lední hokej",
+        "házená",
+        "tenis"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Richard Carapaz",
+      "values": [
+        "akrobatické lyžování",
+        "cyklistika",
+        "biatlon",
+        "fotbal"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fabian Cancellara",
+      "values": [
+        "akrobatické lyžování",
+        "basketbal",
+        "cyklistika",
+        "biatlon"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Guillaume Cizeron",
+      "values": [
+        "sportovní střelba",
+        "biatlon",
+        "krasobruslení",
+        "golf"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexej Žitnik",
+      "values": [
+        "judo",
+        "lední hokej",
+        "sportovní střelba",
+        "box"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

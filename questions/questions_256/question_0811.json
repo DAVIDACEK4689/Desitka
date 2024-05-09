@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte město podle české kultury",
+  "questions": [
+    {
+      "key": "Relikviář svatého Maura",
+      "values": [
+        "Bečov nad Teplou",
+        "České Budějovice",
+        "Mariánská Lázeň",
+        "Karlovy Vary"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rukopis zelenohorský",
+      "values": [
+        "Mariánská Lázeň",
+        "Litoměřice",
+        "Nepomuk",
+        "Přibyslav"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Samsonova kašna",
+      "values": [
+        "Bečov nad Teplou",
+        "Kostelec nad Černými lesy",
+        "České Budějovice",
+        "Pardubice"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Muzeum východních Čech",
+      "values": [
+        "Kostelec nad Černými lesy",
+        "Louny",
+        "Plzeň",
+        "Hradec Králové"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Masters of Rock",
+      "values": [
+        "Mariánská Lázeň",
+        "Louny",
+        "České Budějovice",
+        "Vizovice"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Techmania",
+      "values": [
+        "Mariánská Lázeň",
+        "Český Brod",
+        "Louny",
+        "Plzeň"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sono Centrum",
+      "values": [
+        "Hlinsko",
+        "Semily",
+        "Terezín",
+        "Brno"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Synové výčepu",
+      "values": [
+        "Jičín",
+        "Karlovy Vary",
+        "Vizovice",
+        "Litoměřice"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Žižkova mohyla",
+      "values": [
+        "Nepomuk",
+        "Přibyslav",
+        "Mariánská Lázeň",
+        "Český Brod"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pomník padlým za Těšínsko",
+      "values": [
+        "Orel",
+        "Litvínov",
+        "Řevnice",
+        "Krásná Lípa"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

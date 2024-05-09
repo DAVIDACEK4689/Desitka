@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Jackie Chan",
+      "values": [
+        "thajského",
+        "jihoafrického",
+        "čínského",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Filip Březina",
+      "values": [
+        "jihokorejského",
+        "švédského",
+        "českého",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Janko Kroner",
+      "values": [
+        "německého",
+        "slovenského",
+        "portugalského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michael Nyqvist",
+      "values": [
+        "švédského",
+        "bulharského",
+        "srbského",
+        "novozélandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Konstantin Sergejevič Stanislavskij",
+      "values": [
+        "brazilského",
+        "novozélandského",
+        "britského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cyril Raffaelli",
+      "values": [
+        "indonéského",
+        "amerického",
+        "francouzského",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivan Romančík",
+      "values": [
+        "bulharského",
+        "slovenského",
+        "australského",
+        "malajsijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Irrfan Khan",
+      "values": [
+        "islandského",
+        "portugalského",
+        "jamajského",
+        "indického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Isaac Hayes",
+      "values": [
+        "irského",
+        "amerického",
+        "belgického",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gilbert Gottfried",
+      "values": [
+        "islandského",
+        "maďarského",
+        "italského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

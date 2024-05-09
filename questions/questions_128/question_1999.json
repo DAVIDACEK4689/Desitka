@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Ondřej Neff",
+      "values": [
+        "vietnamského",
+        "norského",
+        "kubánského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miloslav Nevrlý",
+      "values": [
+        "českého",
+        "guatemalského",
+        "nigerijského",
+        "filipínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jukio Mišima",
+      "values": [
+        "japonského",
+        "kolumbijského",
+        "irského",
+        "filipínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladimir Solovjov",
+      "values": [
+        "rakouského",
+        "belgického",
+        "ruského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Árpád Göncz",
+      "values": [
+        "tanzanského",
+        "španělského",
+        "maďarského",
+        "izraelského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gustav Leutelt",
+      "values": [
+        "německého",
+        "izraelského",
+        "tanzanského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Silvio Pellico",
+      "values": [
+        "italského",
+        "afghánského",
+        "albánského",
+        "kolumbijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bruno Schulz",
+      "values": [
+        "francouzského",
+        "chilského",
+        "polského",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vissarion Grigorjevič Bělinskij",
+      "values": [
+        "amerického",
+        "afghánského",
+        "estonského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaroslav Putík",
+      "values": [
+        "českého",
+        "ukrajinského",
+        "kubánského",
+        "vietnamského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

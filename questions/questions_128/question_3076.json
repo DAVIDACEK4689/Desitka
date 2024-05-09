@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vědce?",
+  "questions": [
+    {
+      "key": "Theodore Kaczynski",
+      "values": [
+        "slovenského",
+        "srbského",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaroslav Turánek",
+      "values": [
+        "sovětského",
+        "českého",
+        "ruského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Matej Bel",
+      "values": [
+        "německého",
+        "rakouského",
+        "slovenského",
+        "chorvatského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rudolf Virchow",
+      "values": [
+        "rakouského",
+        "francouzského",
+        "srbského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Paul Ehrlich",
+      "values": [
+        "srbského",
+        "amerického",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lev Gumiljov",
+      "values": [
+        "sovětského",
+        "českého",
+        "slovenského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Konečný",
+      "values": [
+        "německého",
+        "srbského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Neuwirth",
+      "values": [
+        "slovenského",
+        "sovětského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Emil Páleš",
+      "values": [
+        "ruského",
+        "německého",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Fassati",
+      "values": [
+        "slovenského",
+        "českého",
+        "švédského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

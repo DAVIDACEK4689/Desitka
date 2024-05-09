@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistu?",
+  "questions": [
+    {
+      "key": "Petr Korda",
+      "values": [
+        "íránského",
+        "českého",
+        "rakouského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jannik Sinner",
+      "values": [
+        "českého",
+        "srbského",
+        "italského",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Holger Rune",
+      "values": [
+        "rakouského",
+        "řeckého",
+        "norského",
+        "dánského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nick Kyrgios",
+      "values": [
+        "australského",
+        "kanadského",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mansour Bahrami",
+      "values": [
+        "amerického",
+        "portugalského",
+        "českého",
+        "íránského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dalibor Svrčina",
+      "values": [
+        "bulharského",
+        "českého",
+        "francouzského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alex de Minaur",
+      "values": [
+        "australského",
+        "portugalského",
+        "argentinského",
+        "íránského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexei Popyrin",
+      "values": [
+        "norského",
+        "australského",
+        "řeckého",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Pála",
+      "values": [
+        "československého",
+        "švýcarského",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ilie Năstase",
+      "values": [
+        "dánského",
+        "českého",
+        "rumunského",
+        "německého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

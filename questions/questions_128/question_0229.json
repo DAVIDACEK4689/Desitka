@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte rok podle politiky",
+  "questions": [
+    {
+      "key": "Islámský stát",
+      "values": [
+        "2010",
+        "2014",
+        "1867",
+        "1968"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vláda Jiřího Rusnoka",
+      "values": [
+        "1992",
+        "2014",
+        "1865",
+        "2006"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Červencová revoluce",
+      "values": [
+        "1830",
+        "1865",
+        "2023",
+        "1920"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tříkrálová deklarace",
+      "values": [
+        "2020",
+        "1918",
+        "1986",
+        "1911"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Prohlášení čtyř",
+      "values": [
+        "1896",
+        "2002",
+        "1774",
+        "2016"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Operace Kondor",
+      "values": [
+        "1975",
+        "1904",
+        "1996",
+        "1795"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rakouská státní smlouva",
+      "values": [
+        "1858",
+        "1968",
+        "1951",
+        "1955"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Smlouva ABM",
+      "values": [
+        "1996",
+        "1963",
+        "1972",
+        "1985"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bandungská konference",
+      "values": [
+        "1918",
+        "1955",
+        "2012",
+        "1914"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Badeniho volební reforma",
+      "values": [
+        "1896",
+        "1905",
+        "1807",
+        "1914"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

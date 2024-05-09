@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva na Moravském poli",
+      "values": [
+        "1191",
+        "1415",
+        "1756",
+        "1278"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva o Mariupol",
+      "values": [
+        "2022",
+        "1402",
+        "1527",
+        "1242"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Gravelines",
+      "values": [
+        "1588",
+        "1853",
+        "1461",
+        "636"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Operace Blau",
+      "values": [
+        "1690",
+        "1942",
+        "1456",
+        "1919"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva o Belgii",
+      "values": [
+        "1426",
+        "1793",
+        "1253",
+        "1940"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u San Jacinta",
+      "values": [
+        "1836",
+        "1947",
+        "1380",
+        "1426"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Castillonu",
+      "values": [
+        "1453",
+        "1435",
+        "1988",
+        "1214"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Starého Hrozenkova",
+      "values": [
+        "1798",
+        "1663",
+        "1469",
+        "1914"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Krymská operace",
+      "values": [
+        "1302",
+        "1644",
+        "1944",
+        "1427"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u záseků",
+      "values": [
+        "1824",
+        "1066",
+        "849",
+        "1941"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte oblast podle ptáka",
+  "questions": [
+    {
+      "key": "Vlaštovka obecná",
+      "values": [
+        "celosvětové rozšíření",
+        "Jižní oceán",
+        "Afrika",
+        "Antarktida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hrdlička zahradní",
+      "values": [
+        "Orientální oblast",
+        "Afrika",
+        "Jižní oceán",
+        "Severní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Papoušek šedý",
+      "values": [
+        "Orientální oblast",
+        "celosvětové rozšíření",
+        "Afrika",
+        "Antarktida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ara ararauna",
+      "values": [
+        "Afrika",
+        "Jižní Amerika",
+        "Severní Amerika",
+        "Jižní oceán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Albatros stěhovavý",
+      "values": [
+        "Severní Amerika",
+        "celosvětové rozšíření",
+        "Jižní Amerika",
+        "Jižní oceán"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zvonohlík zahradní",
+      "values": [
+        "Severní Amerika",
+        "Antarktida",
+        "Orientální oblast",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hadilov písař",
+      "values": [
+        "Antarktida",
+        "Jižní Amerika",
+        "Jižní oceán",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Racek mořský",
+      "values": [
+        "Severní Amerika",
+        "celosvětové rozšíření",
+        "Jižní oceán",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Konipas luční",
+      "values": [
+        "Antarktida",
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Amazoňan modročelý",
+      "values": [
+        "Jižní Amerika",
+        "Orientální oblast",
+        "Severní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] aktivistu?",
+  "questions": [
+    {
+      "key": "Jindřich Rajchl",
+      "values": [
+        "australského",
+        "českého",
+        "palestinského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ladislav Vrabel",
+      "values": [
+        "palestinského",
+        "českého",
+        "jihoafrického",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Caroline Kennedyová",
+      "values": [
+        "palestinského",
+        "italského",
+        "indického",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Nielsen",
+      "values": [
+        "britského",
+        "českého",
+        "palestinského",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Viktorija Amelinová",
+      "values": [
+        "ukrajinského",
+        "českého",
+        "amerického",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Tožička",
+      "values": [
+        "polského",
+        "běloruského",
+        "českého",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Matúš Vallo",
+      "values": [
+        "českého",
+        "slovenského",
+        "indického",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dana Kuchtová",
+      "values": [
+        "britského",
+        "indického",
+        "ukrajinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roman Smetana",
+      "values": [
+        "českého",
+        "německého",
+        "polského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jesse Jackson",
+      "values": [
+        "ruského",
+        "kanadského",
+        "palestinského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

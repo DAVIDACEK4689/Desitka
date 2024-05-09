@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] ekonoma?",
+  "questions": [
+    {
+      "key": "Lukáš Kovanda",
+      "values": [
+        "chilského",
+        "českého",
+        "bangladéšského",
+        "peruánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Klaus",
+      "values": [
+        "bangladéšského",
+        "českého",
+        "slovenského",
+        "argentinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miroslav Singer",
+      "values": [
+        "skotského",
+        "portugalského",
+        "českého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vladimír Bezděk",
+      "values": [
+        "bulharského",
+        "skotského",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miroslav Zámečník",
+      "values": [
+        "slovenského",
+        "italského",
+        "českého",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jegor Gajdar",
+      "values": [
+        "italského",
+        "ruského",
+        "skotského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oldřich Dědek",
+      "values": [
+        "českého",
+        "německého",
+        "slovenského",
+        "bulharského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vilém Pospíšil",
+      "values": [
+        "švédského",
+        "bulharského",
+        "českého",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Frédéric Bastiat",
+      "values": [
+        "francouzského",
+        "bulharského",
+        "belgického",
+        "bangladéšského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rudolf Cogan",
+      "values": [
+        "českého",
+        "skotského",
+        "litevského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

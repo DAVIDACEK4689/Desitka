@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte moře podle přístavního města",
+  "questions": [
+    {
+      "key": "Kodaň",
+      "values": [
+        "Rudé moře",
+        "Bílé moře",
+        "Černé moře",
+        "Baltské moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marsá Alam",
+      "values": [
+        "Karibské moře",
+        "Rudé moře",
+        "Azovské moře",
+        "Marmarské moře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rotterdam",
+      "values": [
+        "Černé moře",
+        "Severní moře",
+        "Irské moře",
+        "Rudé moře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kolobřeh",
+      "values": [
+        "Černé moře",
+        "Severní moře",
+        "Baltské moře",
+        "Marmarské moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Klaipėda",
+      "values": [
+        "Černé moře",
+        "Bílé moře",
+        "Baltské moře",
+        "Severní moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stavanger",
+      "values": [
+        "Karibské moře",
+        "Azovské moře",
+        "Severní moře",
+        "Bílé moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vyborg",
+      "values": [
+        "Irské moře",
+        "Karibské moře",
+        "Rudé moře",
+        "Baltské moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Safaga",
+      "values": [
+        "Irské moře",
+        "Karibské moře",
+        "Marmarské moře",
+        "Rudé moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aalborg",
+      "values": [
+        "Baltské moře",
+        "Černé moře",
+        "Severní moře",
+        "Irské moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Visby",
+      "values": [
+        "Černé moře",
+        "Bílé moře",
+        "Baltské moře",
+        "Rudé moře"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

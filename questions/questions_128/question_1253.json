@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] aktivistu?",
+  "questions": [
+    {
+      "key": "Theodore Kaczynski",
+      "values": [
+        "ruského",
+        "jihoafrického",
+        "palestinského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dean Reed",
+      "values": [
+        "běloruského",
+        "slovenského",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Svjatlana Cichanouská",
+      "values": [
+        "běloruského",
+        "jihoafrického",
+        "ukrajinského",
+        "palestinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Filip Vávra",
+      "values": [
+        "polského",
+        "českého",
+        "amerického",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Burt Lancaster",
+      "values": [
+        "italského",
+        "jihoafrického",
+        "amerického",
+        "palestinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ales Bjaljacki",
+      "values": [
+        "běloruského",
+        "britského",
+        "indického",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Naděžda Tolokonnikovová",
+      "values": [
+        "italského",
+        "ruského",
+        "australského",
+        "palestinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adam Yauch",
+      "values": [
+        "italského",
+        "francouzského",
+        "amerického",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaroslav Novák Večerníček",
+      "values": [
+        "německého",
+        "kanadského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Betty Friedanová",
+      "values": [
+        "francouzského",
+        "indického",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

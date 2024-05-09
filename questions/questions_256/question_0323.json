@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Bělehrad",
+      "values": [
+        "Tanzanie",
+        "Srbsko",
+        "Tádžikistán",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lima",
+      "values": [
+        "Zambie",
+        "Rwanda",
+        "Pero",
+        "Japonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bad Ischl",
+      "values": [
+        "Kapverdy",
+        "Německo",
+        "Rakousko",
+        "Mexiko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Akaba",
+      "values": [
+        "Belgie",
+        "Jordánsko",
+        "Brunej",
+        "Malajsie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nachičevan",
+      "values": [
+        "Albánie",
+        "Uganda",
+        "Ázerbájdžán",
+        "Bolívie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hévíz",
+      "values": [
+        "Senegal",
+        "Lotyšsko",
+        "Nový Zéland",
+        "Maďarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ptuj",
+      "values": [
+        "Jemen",
+        "Paraguay",
+        "Slovinsko",
+        "Pero"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hoi An",
+      "values": [
+        "Maroko",
+        "Chorvatsko",
+        "Japonsko",
+        "Vietnam"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bad Leonfelden",
+      "values": [
+        "Malajsie",
+        "Jordánsko",
+        "Irák",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Novalja",
+      "values": [
+        "Libérie",
+        "Srí Lanka",
+        "Chorvatsko",
+        "Nigérie"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

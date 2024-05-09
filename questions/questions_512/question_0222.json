@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle geografie",
+  "questions": [
+    {
+      "key": "Podkarpatská Rus",
+      "values": [
+        "Ukrajina",
+        "Guatemala",
+        "Faerské ostrovy",
+        "Austrálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Athény",
+      "values": [
+        "Jordánsko",
+        "Mauritánie",
+        "Řecko",
+        "Ukrajina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Malá Asie",
+      "values": [
+        "Mauritánie",
+        "Rusko",
+        "Řecko",
+        "Turecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gobi",
+      "values": [
+        "Turecko",
+        "Palestina",
+        "Mongolsko",
+        "Japonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jižní Čechy",
+      "values": [
+        "Česko",
+        "Austrálie",
+        "Jordánsko",
+        "Řecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stabilní katastr",
+      "values": [
+        "Pero",
+        "Česko",
+        "Tanzanie",
+        "Chorvatsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Grossglocknerská vysokohorská silnice",
+      "values": [
+        "Austrálie",
+        "Turecko",
+        "Rakousko",
+        "Pero"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Severní Čechy",
+      "values": [
+        "Česko",
+        "Turecko",
+        "Jordánsko",
+        "Ukrajina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Porýní",
+      "values": [
+        "Česko",
+        "Turkmenistán",
+        "Německo",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Velké Tokio",
+      "values": [
+        "Andorra",
+        "Japonsko",
+        "Turkmenistán",
+        "Palestina"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

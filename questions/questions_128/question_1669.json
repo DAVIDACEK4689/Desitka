@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [období] malíře?",
+  "questions": [
+    {
+      "key": "Jan Vermeer",
+      "values": [
+        "rokokového",
+        "gotického",
+        "barokního",
+        "realistického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Giotto di Bondone",
+      "values": [
+        "secesního",
+        "romantického",
+        "gotického",
+        "barokního"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "František Kaván",
+      "values": [
+        "romantického",
+        "realistického",
+        "renesančního",
+        "barokního"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alois Kalvoda",
+      "values": [
+        "gotického",
+        "rokokového",
+        "romantického",
+        "secesního"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Franz Marc",
+      "values": [
+        "secesního",
+        "barokního",
+        "rokokového",
+        "romantického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Andrea Mantegna",
+      "values": [
+        "renesančního",
+        "secesního",
+        "gotického",
+        "realistického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "François Boucher",
+      "values": [
+        "realistického",
+        "romantického",
+        "rokokového",
+        "renesančního"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan van Goyen",
+      "values": [
+        "rokokového",
+        "barokního",
+        "renesančního",
+        "secesního"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joseph Heintz starší",
+      "values": [
+        "romantického",
+        "gotického",
+        "realistického",
+        "renesančního"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Thomas Lawrence",
+      "values": [
+        "barokního",
+        "realistického",
+        "renesančního",
+        "romantického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

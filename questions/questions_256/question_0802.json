@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Sedm statečných",
+      "values": [
+        "Terrence Malick",
+        "John Sturges",
+        "Sylvester Stallone",
+        "Barry Sonnenfeld"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Čistá duše",
+      "values": [
+        "bratři Russoové",
+        "Brad Bird",
+        "John Landis",
+        "Ron Howard"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Útěk do divočiny",
+      "values": [
+        "Sean Penn",
+        "Steven Soderbergh",
+        "Robert Benton",
+        "Francis Ford Coppola"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Transformers 3",
+      "values": [
+        "Chris Columbus",
+        "Roger Kumble",
+        "McG",
+        "Michael Bay"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tanec s vlky",
+      "values": [
+        "Brad Bird",
+        "Kevin Costner",
+        "Pete Docter",
+        "bratři Russoové"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gauneři",
+      "values": [
+        "Stanley Kubrick",
+        "Woody Allen",
+        "bratři Russoové",
+        "Quentin Tarantino"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Narušení",
+      "values": [
+        "Randall Wallace",
+        "Alfred Hitchcock",
+        "James Mangold",
+        "David Twohy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Návrat do budoucnosti II",
+      "values": [
+        "Bryan Singer",
+        "Zack Snyder",
+        "Robert Zemeckis",
+        "Martin Brest"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kletba bratří Grimmů",
+      "values": [
+        "Todd Phillips",
+        "Joe Johnston",
+        "Rob Cohen",
+        "Terry Gilliam"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Velká země",
+      "values": [
+        "Nick Cassavetes",
+        "William Wyler",
+        "Pete Docter",
+        "McG"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

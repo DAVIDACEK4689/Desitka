@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Leonardo DiCaprio",
+      "values": [
+        "italského",
+        "islandského",
+        "amerického",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Václav Kotek",
+      "values": [
+        "francouzského",
+        "českého",
+        "švýcarského",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ladislav Hampl",
+      "values": [
+        "portorického",
+        "českého",
+        "marockého",
+        "belgického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Simon Helberg",
+      "values": [
+        "chilského",
+        "švýcarského",
+        "norského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Steve Carell",
+      "values": [
+        "amerického",
+        "mexického",
+        "venezuelského",
+        "čínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nathan Fillion",
+      "values": [
+        "malajsijského",
+        "venezuelského",
+        "kanadského",
+        "portorického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Daniel Roesner",
+      "values": [
+        "portorického",
+        "německého",
+        "rakouského",
+        "jihokorejského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hjon Pin",
+      "values": [
+        "švédského",
+        "jihoafrického",
+        "jihokorejského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dacre Montgomery",
+      "values": [
+        "sovětského",
+        "polského",
+        "australského",
+        "venezuelského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kyle Gass",
+      "values": [
+        "argentinského",
+        "amerického",
+        "novozélandského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

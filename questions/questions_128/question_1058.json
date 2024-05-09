@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Vídeň",
+      "values": [
+        "Váha",
+        "Loira",
+        "Polenz",
+        "Dunaj"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rotterdam",
+      "values": [
+        "Radbuza",
+        "Lužnice",
+        "Chrudimka",
+        "Rýn"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Holýšov",
+      "values": [
+        "Něva",
+        "Radbuza",
+        "Loira",
+        "Chrudimka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Malá Skála",
+      "values": [
+        "Don",
+        "Jizera",
+        "Lužnice",
+        "Malše"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oppidum Třísov",
+      "values": [
+        "Mandava",
+        "Ohře",
+        "Dyje",
+        "Vltava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ptyč",
+      "values": [
+        "Těrek",
+        "Bečva",
+        "Úslava",
+        "Berounka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Devín",
+      "values": [
+        "Dněpr",
+        "Úslava",
+        "Emže",
+        "Dunaj"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Libochovany",
+      "values": [
+        "Labe",
+        "Bečva",
+        "Rýn",
+        "Vltava"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lázně Kundratice",
+      "values": [
+        "Visla",
+        "Jizera",
+        "Ploučnice",
+        "Metuje"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Úborsko",
+      "values": [
+        "Úslava",
+        "Tibera",
+        "Úhlava",
+        "Don"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

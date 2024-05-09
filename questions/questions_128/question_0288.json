@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] matematika?",
+  "questions": [
+    {
+      "key": "Theodore Kaczynski",
+      "values": [
+        "německého",
+        "amerického",
+        "norského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mileva Marićová",
+      "values": [
+        "norského",
+        "českého",
+        "maďarského",
+        "srbského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tadeáš Hájek z Hájku",
+      "values": [
+        "norského",
+        "českého",
+        "nizozemského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Emanuel Lasker",
+      "values": [
+        "španělského",
+        "íránského",
+        "polského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel Slavíček",
+      "values": [
+        "maďarského",
+        "českého",
+        "britského",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Donald Ervin Knuth",
+      "values": [
+        "indického",
+        "maďarského",
+        "švýcarského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Raymond Queneau",
+      "values": [
+        "českého",
+        "polského",
+        "francouzského",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexander Grothendieck",
+      "values": [
+        "srbského",
+        "amerického",
+        "ruského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Holenda",
+      "values": [
+        "italského",
+        "nizozemského",
+        "norského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Max Euwe",
+      "values": [
+        "švýcarského",
+        "německého",
+        "srbského",
+        "nizozemského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

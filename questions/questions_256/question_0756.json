@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] automobilového závodníka?",
+  "questions": [
+    {
+      "key": "Charles Leclerc",
+      "values": [
+        "monackého",
+        "italského",
+        "českého",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eliška Junková",
+      "values": [
+        "amerického",
+        "československého",
+        "švýcarského",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Roman Staněk",
+      "values": [
+        "monackého",
+        "českého",
+        "francouzského",
+        "československého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oscar Piastri",
+      "values": [
+        "australského",
+        "švýcarského",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Antonín Charouz",
+      "values": [
+        "monackého",
+        "českého",
+        "ruského",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sébastien Loeb",
+      "values": [
+        "monackého",
+        "španělského",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaroslav Juhan",
+      "values": [
+        "amerického",
+        "německého",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Divíšek",
+      "values": [
+        "amerického",
+        "československého",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Theodor von Liebieg",
+      "values": [
+        "českého",
+        "ruského",
+        "australského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Walter Röhrl",
+      "values": [
+        "ruského",
+        "českého",
+        "monackého",
+        "německého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

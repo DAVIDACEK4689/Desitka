@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [typ] organizaci?",
+  "questions": [
+    {
+      "key": "Gestapo",
+      "values": [
+        "zločineckou",
+        "politickou",
+        "humanitární",
+        "ekologickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Organizace pro osvobození Palestiny",
+      "values": [
+        "vzdělávací",
+        "partyzánskou",
+        "ekologickou",
+        "vědeckou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Národní fronta osvobození Jižního Vietnamu",
+      "values": [
+        "mezinárodní",
+        "hospodářskou",
+        "partyzánskou",
+        "politickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Antifa",
+      "values": [
+        "politickou",
+        "fiktivní",
+        "zaniklou",
+        "humanitární"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Frakce Rudé armády",
+      "values": [
+        "zdravotnickou",
+        "zločineckou",
+        "partyzánskou",
+        "humanitární"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Svobodná Francie",
+      "values": [
+        "mezinárodní",
+        "zaniklou",
+        "fiktivní",
+        "partyzánskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Solncevská mafie",
+      "values": [
+        "náboženskou",
+        "leteckou",
+        "partyzánskou",
+        "zločineckou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "International Air Transport Association",
+      "values": [
+        "fiktivní",
+        "partyzánskou",
+        "leteckou",
+        "humanitární"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "IEEE",
+      "values": [
+        "fiktivní",
+        "vědeckou",
+        "vzdělávací",
+        "mezinárodní"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rudé brigády",
+      "values": [
+        "politickou",
+        "partyzánskou",
+        "vědeckou",
+        "náboženskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

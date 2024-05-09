@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Angela Merkelová",
+      "values": [
+        "německého",
+        "nigerského",
+        "lotyšského",
+        "ghanského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michail Saakašvili",
+      "values": [
+        "kubánského",
+        "španělského",
+        "ukrajinského",
+        "haitského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Glenda Jacksonová",
+      "values": [
+        "finského",
+        "bosenského",
+        "slovenského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Galeazzo Ciano",
+      "values": [
+        "ghanského",
+        "egyptského",
+        "jugoslávského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "João do Canto e Castro",
+      "values": [
+        "afghánského",
+        "etiopského",
+        "madagaskarského",
+        "portugalského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Toussaint Louverture",
+      "values": [
+        "haitského",
+        "libanonského",
+        "maďarského",
+        "islandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jeffrey Archer",
+      "values": [
+        "nigerského",
+        "černohorského",
+        "anglického",
+        "moldavského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Trygve Lie",
+      "values": [
+        "slovenského",
+        "mexického",
+        "kyperského",
+        "norského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michail Prochorov",
+      "values": [
+        "brazilského",
+        "francouzského",
+        "dánského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marcel Dassault",
+      "values": [
+        "francouzského",
+        "vietnamského",
+        "dánského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

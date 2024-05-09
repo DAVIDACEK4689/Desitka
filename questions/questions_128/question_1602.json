@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Heřmánek pravý",
+      "values": [
+        "Nový Zéland",
+        "Austrálie",
+        "Madagaskar",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Šalvěj",
+      "values": [
+        "Madagaskar",
+        "Brazílie",
+        "Austrálie",
+        "Mexiko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hořčice setá",
+      "values": [
+        "Mexiko",
+        "Česko",
+        "Madagaskar",
+        "Brazílie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Řebříček",
+      "values": [
+        "Česko",
+        "Mongolsko",
+        "Brazílie",
+        "Mexiko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jeřáb břek",
+      "values": [
+        "Nový Zéland",
+        "Česko",
+        "Madagaskar",
+        "Japonsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Plicník",
+      "values": [
+        "Mexiko",
+        "Mongolsko",
+        "Česko",
+        "Madagaskar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jedovatec",
+      "values": [
+        "Austrálie",
+        "Madagaskar",
+        "Nový Zéland",
+        "Mexiko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rafie",
+      "values": [
+        "Brazílie",
+        "Mexiko",
+        "Mongolsko",
+        "Japonsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Modřín sibiřský",
+      "values": [
+        "Mongolsko",
+        "Japonsko",
+        "Madagaskar",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Silovoň",
+      "values": [
+        "Mongolsko",
+        "Madagaskar",
+        "Brazílie",
+        "Austrálie"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

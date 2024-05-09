@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filozofa?",
+  "questions": [
+    {
+      "key": "Egon Bondy",
+      "values": [
+        "maďarského",
+        "britského",
+        "českého",
+        "perského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hérakleitos",
+      "values": [
+        "nizozemského",
+        "řeckého",
+        "kanadského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Démokritos",
+      "values": [
+        "řeckého",
+        "ruského",
+        "maďarského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ayn Randová",
+      "values": [
+        "perského",
+        "amerického",
+        "britského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Parmenidés",
+      "values": [
+        "italského",
+        "německého",
+        "řeckého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Slavoj Amerling",
+      "values": [
+        "českého",
+        "slovenského",
+        "německého",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Milan Machovec",
+      "values": [
+        "ruského",
+        "českého",
+        "perského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivan Dubský",
+      "values": [
+        "slovenského",
+        "českého",
+        "nizozemského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "George Herbert Mead",
+      "values": [
+        "ruského",
+        "perského",
+        "amerického",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ernst Jünger",
+      "values": [
+        "švýcarského",
+        "britského",
+        "německého",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

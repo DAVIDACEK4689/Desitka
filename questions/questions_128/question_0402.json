@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle etnické skupiny",
+  "questions": [
+    {
+      "key": "Kumáni",
+      "values": [
+        "Nigérie",
+        "Maďarsko",
+        "Írán",
+        "Nepál"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sentinelci",
+      "values": [
+        "Myanmar",
+        "Indie",
+        "Keňa",
+        "Ghana"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chodové",
+      "values": [
+        "Česko",
+        "Spojené království",
+        "Írán",
+        "Alžírsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Číňané",
+      "values": [
+        "Singapur",
+        "Thajsko",
+        "Súdán",
+        "Etiopie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Falašové",
+      "values": [
+        "Kambodža",
+        "Izrael",
+        "Pákistán",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karelové",
+      "values": [
+        "Alžírsko",
+        "Rusko",
+        "Estonsko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Igbo",
+      "values": [
+        "Nigérie",
+        "Etiopie",
+        "Slovinsko",
+        "Srbsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Baltští Němci",
+      "values": [
+        "Myanmar",
+        "Egypt",
+        "Keňa",
+        "Estonsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dinkové",
+      "values": [
+        "Keňa",
+        "Súdán",
+        "Austrálie",
+        "Brazílie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Barevní",
+      "values": [
+        "Myanmar",
+        "Jihoafrická republika",
+        "Španělsko",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

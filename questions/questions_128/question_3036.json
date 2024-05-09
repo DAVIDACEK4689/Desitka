@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] sériového vraha?",
+  "questions": [
+    {
+      "key": "Jaroslav a Dana Stodolovi",
+      "values": [
+        "amerického",
+        "belgického",
+        "českého",
+        "kolumbijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaroslava Fabiánová",
+      "values": [
+        "japonského",
+        "francouzského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oto Biederman",
+      "values": [
+        "kanadského",
+        "slovenského",
+        "českého",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michail Viktorovič Popkov",
+      "values": [
+        "ruského",
+        "ukrajinského",
+        "amerického",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexandr Pičuškin",
+      "values": [
+        "kolumbijského",
+        "ruského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lucy Letbyová",
+      "values": [
+        "britského",
+        "ruského",
+        "amerického",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Svatoslav Štěpánek",
+      "values": [
+        "kanadského",
+        "kolumbijského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marc Dutroux",
+      "values": [
+        "amerického",
+        "britského",
+        "slovenského",
+        "belgického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Robert Maudsley",
+      "values": [
+        "francouzského",
+        "ukrajinského",
+        "britského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ronald Gene Simmons",
+      "values": [
+        "ruského",
+        "amerického",
+        "ukrajinského",
+        "německého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

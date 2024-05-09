@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] architekta?",
+  "questions": [
+    {
+      "key": "Le Corbusier",
+      "values": [
+        "španělského",
+        "dánského",
+        "švýcarského",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Frank Gehry",
+      "values": [
+        "japonského",
+        "belgického",
+        "amerického",
+        "brazilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fellner a Helmer",
+      "values": [
+        "rakouského",
+        "maďarského",
+        "francouzského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zdeněk Lukeš",
+      "values": [
+        "polského",
+        "amerického",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Kubelík",
+      "values": [
+        "českého",
+        "slovinského",
+        "norského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Jarolímek",
+      "values": [
+        "tureckého",
+        "japonského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Francesco Caratti",
+      "values": [
+        "italského",
+        "ruského",
+        "rakouského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Matěj Blecha",
+      "values": [
+        "českého",
+        "slovinského",
+        "maďarského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ludvík Kolek",
+      "values": [
+        "českého",
+        "německého",
+        "polského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Richard Neutra",
+      "values": [
+        "brazilského",
+        "rakouského",
+        "belgického",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

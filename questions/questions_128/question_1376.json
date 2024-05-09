@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte oblast podle ptáka",
+  "questions": [
+    {
+      "key": "Vrabec polní",
+      "values": [
+        "Atlantský oceán",
+        "Orientální oblast",
+        "Jižní Amerika",
+        "Jižní oceán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sup bělohlavý",
+      "values": [
+        "Antarktida",
+        "Tichý oceán",
+        "Severní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mandelík hajní",
+      "values": [
+        "Severní Amerika",
+        "Orientální oblast",
+        "celosvětové rozšíření",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ťuhýk šedý",
+      "values": [
+        "Orientální oblast",
+        "Jižní Amerika",
+        "Jižní oceán",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bělokur horský",
+      "values": [
+        "Střední Amerika",
+        "Jižní oceán",
+        "Tichý oceán",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Banánovec obecný",
+      "values": [
+        "Tichý oceán",
+        "Střední Amerika",
+        "Jižní oceán",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kolibřík rezavolesklý",
+      "values": [
+        "Jižní Amerika",
+        "Severní Amerika",
+        "celosvětové rozšíření",
+        "Tichý oceán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aratinga žlutý",
+      "values": [
+        "Severní Amerika",
+        "Střední Amerika",
+        "Jižní Amerika",
+        "Antarktida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Orlík krátkoprstý",
+      "values": [
+        "Antarktida",
+        "Tichý oceán",
+        "Jižní oceán",
+        "Orientální oblast"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ibis rudý",
+      "values": [
+        "Indický oceán",
+        "Atlantský oceán",
+        "Jižní Amerika",
+        "Orientální oblast"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

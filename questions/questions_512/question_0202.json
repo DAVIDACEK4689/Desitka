@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] historika?",
+  "questions": [
+    {
+      "key": "Winston Churchill",
+      "values": [
+        "izraelského",
+        "německého",
+        "ruského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Dobrovský",
+      "values": [
+        "českého",
+        "francouzského",
+        "nizozemského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pierre de Coubertin",
+      "values": [
+        "norského",
+        "britského",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mateusz Morawiecki",
+      "values": [
+        "ruského",
+        "izraelského",
+        "amerického",
+        "polského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gottfried Wilhelm Leibniz",
+      "values": [
+        "německého",
+        "nizozemského",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Helmut Kohl",
+      "values": [
+        "norského",
+        "nizozemského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Daniel Adam z Veleslavína",
+      "values": [
+        "izraelského",
+        "norského",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miloslav Ransdorf",
+      "values": [
+        "polského",
+        "nizozemského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Timothy Snyder",
+      "values": [
+        "francouzského",
+        "českého",
+        "izraelského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Erich Kulka",
+      "values": [
+        "izraelského",
+        "amerického",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle vesnice",
+  "questions": [
+    {
+      "key": "Thermopyly",
+      "values": [
+        "Rusko",
+        "Řecko",
+        "Česko",
+        "Rumunsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gerník",
+      "values": [
+        "Egypt",
+        "Rumunsko",
+        "Rusko",
+        "Řecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vesnice roku",
+      "values": [
+        "Bělorusko",
+        "Česko",
+        "Rumunsko",
+        "Francie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vesnická památková rezervace",
+      "values": [
+        "Francie",
+        "Česko",
+        "Egypt",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Matala",
+      "values": [
+        "Bělorusko",
+        "Švýcarsko",
+        "Francie",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bígr",
+      "values": [
+        "Norsko",
+        "Rusko",
+        "Bělorusko",
+        "Rumunsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dombås",
+      "values": [
+        "Belgie",
+        "Švýcarsko",
+        "Norsko",
+        "Ukrajina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lenzerheide",
+      "values": [
+        "Egypt",
+        "Rusko",
+        "Bělorusko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chynín",
+      "values": [
+        "Řecko",
+        "Norsko",
+        "Egypt",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rapperswil",
+      "values": [
+        "Belgie",
+        "Švýcarsko",
+        "Ukrajina",
+        "Česko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

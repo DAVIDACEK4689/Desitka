@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] ateistu?",
+  "questions": [
+    {
+      "key": "Cillian Murphy",
+      "values": [
+        "slovinského",
+        "belgického",
+        "albánského",
+        "irského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Howard Phillips Lovecraft",
+      "values": [
+        "islandského",
+        "španělského",
+        "amerického",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jodie Fosterová",
+      "values": [
+        "nizozemského",
+        "amerického",
+        "portugalského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "André Breton",
+      "values": [
+        "ukrajinského",
+        "francouzského",
+        "bulharského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hector Berlioz",
+      "values": [
+        "arménského",
+        "francouzského",
+        "bulharského",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Olga Tokarczuková",
+      "values": [
+        "gruzínského",
+        "polského",
+        "kanadského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jacques Lacan",
+      "values": [
+        "černohorského",
+        "německého",
+        "francouzského",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Willard Van Orman Quine",
+      "values": [
+        "amerického",
+        "brazilského",
+        "židovského",
+        "arménského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Allan Pinkerton",
+      "values": [
+        "amerického",
+        "brazilského",
+        "islandského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Shirley Manson",
+      "values": [
+        "brazilského",
+        "britského",
+        "islandského",
+        "kubánského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

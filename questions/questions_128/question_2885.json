@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Milan Rastislav Štefánik",
+      "values": [
+        "kambodžského",
+        "iráckého",
+        "kubánského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Genrich Jagoda",
+      "values": [
+        "libyjského",
+        "rakouského",
+        "sovětského",
+        "bulharského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Džochar Dudajev",
+      "values": [
+        "sovětského",
+        "haitského",
+        "peruánského",
+        "arménského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Wilhelm Pieck",
+      "values": [
+        "arménského",
+        "mexického",
+        "německého",
+        "íránského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ioannis Metaxas",
+      "values": [
+        "arménského",
+        "anglického",
+        "řeckého",
+        "černohorského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nikolaj Valujev",
+      "values": [
+        "ruského",
+        "katarského",
+        "iráckého",
+        "kolumbijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Giovanni Agnelli",
+      "values": [
+        "irského",
+        "italského",
+        "španělského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "John Shakespeare",
+      "values": [
+        "anglického",
+        "ekvádorského",
+        "jemenského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cemal Gürsel",
+      "values": [
+        "tureckého",
+        "maďarského",
+        "ghanského",
+        "anglického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nájif Hawátma",
+      "values": [
+        "lotyšského",
+        "běloruského",
+        "kyrgyzského",
+        "palestinského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

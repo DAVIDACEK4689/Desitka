@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Michal David",
+      "values": [
+        "britského",
+        "italského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Richard Wagner",
+      "values": [
+        "rakouského",
+        "německého",
+        "českého",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gustav Mahler",
+      "values": [
+        "kanadského",
+        "australského",
+        "rakouského",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ennio Morricone",
+      "values": [
+        "slovenského",
+        "britského",
+        "italského",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dmitrij Šostakovič",
+      "values": [
+        "švédského",
+        "polského",
+        "rakouského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Claude Debussy",
+      "values": [
+        "řeckého",
+        "maďarského",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Hannig",
+      "values": [
+        "amerického",
+        "německého",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ilja Hurník",
+      "values": [
+        "maďarského",
+        "švédského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Bohuslav Foerster",
+      "values": [
+        "britského",
+        "rakouského",
+        "irského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dušan Rapoš",
+      "values": [
+        "arménského",
+        "slovenského",
+        "řeckého",
+        "australského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

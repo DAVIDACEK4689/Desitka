@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] automobilového závodníka?",
+  "questions": [
+    {
+      "key": "Paul Newman",
+      "values": [
+        "australského",
+        "amerického",
+        "švýcarského",
+        "belgického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mick Schumacher",
+      "values": [
+        "německého",
+        "československého",
+        "švýcarského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Čeněk Junek",
+      "values": [
+        "československého",
+        "španělského",
+        "belgického",
+        "monackého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jaroslav Juhan",
+      "values": [
+        "španělského",
+        "francouzského",
+        "belgického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaroslav Hošek",
+      "values": [
+        "českého",
+        "italského",
+        "rakouského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rudolf Caracciola",
+      "values": [
+        "německého",
+        "českého",
+        "španělského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miloslav Brepta",
+      "values": [
+        "německého",
+        "italského",
+        "československého",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bohumil Turek",
+      "values": [
+        "australského",
+        "československého",
+        "španělského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Achille Varzi",
+      "values": [
+        "amerického",
+        "britského",
+        "francouzského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miloš Otto Bondy",
+      "values": [
+        "československého",
+        "italského",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

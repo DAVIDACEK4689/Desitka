@@ -1,0 +1,105 @@
+{
+  "text": "Určete rok podle letecké nehody",
+  "questions": [
+    {
+      "key": "Let Malaysia Airlines 370",
+      "values": [
+        "2009",
+        "2014",
+        "1972",
+        "1928"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Let JP 450",
+      "values": [
+        "1975",
+        "1928",
+        "1958",
+        "2015"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Let Germanwings 9525",
+      "values": [
+        "1985",
+        "1991",
+        "1928",
+        "2015"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Let Fuerza Aérea Uruguaya 571",
+      "values": [
+        "2015",
+        "2021",
+        "1937",
+        "1972"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Let TWA 800",
+      "values": [
+        "1996",
+        "2001",
+        "2020",
+        "2021"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Let United Airlines 175",
+      "values": [
+        "2001",
+        "2000",
+        "2020",
+        "1983"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Let Aloha Airlines 243",
+      "values": [
+        "1991",
+        "2019",
+        "1972",
+        "1988"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Smrt Jurije Gagarina",
+      "values": [
+        "1968",
+        "2019",
+        "2021",
+        "2022"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Letecká havárie československých hokejistů",
+      "values": [
+        "1948",
+        "2000",
+        "2005",
+        "2022"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Let Aeroflot 141",
+      "values": [
+        "1973",
+        "1988",
+        "1937",
+        "1991"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

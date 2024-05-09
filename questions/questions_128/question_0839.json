@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Hamburk",
+      "values": [
+        "Gambie",
+        "Německo",
+        "Mauritánie",
+        "Dominika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Buenos Aires",
+      "values": [
+        "Saúdská Arábie",
+        "Bangladéš",
+        "Jamajka",
+        "Argentina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dakar",
+      "values": [
+        "Belgie",
+        "Malta",
+        "Albánie",
+        "Senegal"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Makarska",
+      "values": [
+        "Gambie",
+        "Chorvatsko",
+        "Angola",
+        "Brazílie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Reggio di Calabria",
+      "values": [
+        "Barbados",
+        "Itálie",
+        "Nigérie",
+        "Alžírsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aden",
+      "values": [
+        "Jemen",
+        "Dominika",
+        "Nizozemsko",
+        "Barbados"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Novigrad",
+      "values": [
+        "Lotyšsko",
+        "Chorvatsko",
+        "Togo",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Derbent",
+      "values": [
+        "Chorvatsko",
+        "Rusko",
+        "Španělsko",
+        "Namibie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Civitavecchia",
+      "values": [
+        "Bangladéš",
+        "Itálie",
+        "Řecko",
+        "Gabon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Heničesk",
+      "values": [
+        "Jihoafrická republika",
+        "Rusko",
+        "Ukrajina",
+        "Estonsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

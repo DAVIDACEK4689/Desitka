@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] palnou zbraň?",
+  "questions": [
+    {
+      "key": "M16",
+      "values": [
+        "americkou",
+        "izraelskou",
+        "belgickou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Colt 1911",
+      "values": [
+        "americkou",
+        "německou",
+        "belgickou",
+        "rakouskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "StG 44",
+      "values": [
+        "americkou",
+        "belgickou",
+        "izraelskou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Barrett M82",
+      "values": [
+        "izraelskou",
+        "italskou",
+        "britskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Desert Eagle",
+      "values": [
+        "izraelskou",
+        "belgickou",
+        "italskou",
+        "americkou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "M1 Garand",
+      "values": [
+        "německou",
+        "rakouskou",
+        "americkou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karabiner 98k",
+      "values": [
+        "belgickou",
+        "britskou",
+        "izraelskou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "MP 40",
+      "values": [
+        "německou",
+        "britskou",
+        "rakouskou",
+        "americkou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Walther PP",
+      "values": [
+        "německou",
+        "britskou",
+        "italskou",
+        "belgickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "FN P90",
+      "values": [
+        "belgickou",
+        "izraelskou",
+        "britskou",
+        "rakouskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

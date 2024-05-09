@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Michal Horáček",
+      "values": [
+        "českého",
+        "kanadského",
+        "britského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marek Dospiva",
+      "values": [
+        "japonského",
+        "českého",
+        "rakouského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vlastislav Bříza",
+      "values": [
+        "švýcarského",
+        "nizozemského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fedor Gál",
+      "values": [
+        "rakouského",
+        "švýcarského",
+        "italského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Helena Rubinsteinová",
+      "values": [
+        "íránského",
+        "polského",
+        "českého",
+        "běloruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Daša Žukovová",
+      "values": [
+        "litevského",
+        "německého",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaroslav Chalupský",
+      "values": [
+        "britského",
+        "českého",
+        "bangladéšského",
+        "belgického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alojz Hlina",
+      "values": [
+        "italského",
+        "švýcarského",
+        "slovenského",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Susanne Klattenová",
+      "values": [
+        "bangladéšského",
+        "dánského",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Viktor Vekselberg",
+      "values": [
+        "ruského",
+        "slovinského",
+        "švédského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

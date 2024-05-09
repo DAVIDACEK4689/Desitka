@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Nikol Leitgeb",
+      "values": [
+        "řeckou",
+        "českou",
+        "srbskou",
+        "italskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gabriela Partyšová",
+      "values": [
+        "slovenskou",
+        "českou",
+        "mexickou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Anna Farisová",
+      "values": [
+        "bulharskou",
+        "íránskou",
+        "americkou",
+        "českou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sylva Koblížková",
+      "values": [
+        "českou",
+        "chorvatskou",
+        "finskou",
+        "bermudskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Věra Kuchtová",
+      "values": [
+        "novozélandskou",
+        "francouzskou",
+        "českou",
+        "norskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jodie Comer",
+      "values": [
+        "italskou",
+        "britskou",
+        "maďarskou",
+        "jihoafrickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Geraldine McEwanová",
+      "values": [
+        "britskou",
+        "mexickou",
+        "švýcarskou",
+        "kubánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pier Angeli",
+      "values": [
+        "jihokorejskou",
+        "italskou",
+        "bulharskou",
+        "norskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lola Montezová",
+      "values": [
+        "švédskou",
+        "irskou",
+        "novozélandskou",
+        "mexickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Violet Carsonová",
+      "values": [
+        "britskou",
+        "švýcarskou",
+        "indickou",
+        "americkou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

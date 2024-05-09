@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] firmu?",
+  "questions": [
+    {
+      "key": "Airbnb",
+      "values": [
+        "saúdskoarabskou",
+        "izraelskou",
+        "slovinskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "OVB Holding",
+      "values": [
+        "rakouskou",
+        "německou",
+        "ruskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "General Electric",
+      "values": [
+        "izraelskou",
+        "americkou",
+        "švýcarskou",
+        "saúdskoarabskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sedita",
+      "values": [
+        "chorvatskou",
+        "českou",
+        "slovenskou",
+        "izraelskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "CITIC Group",
+      "values": [
+        "irskou",
+        "slovinskou",
+        "chorvatskou",
+        "čínskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Orkla Group",
+      "values": [
+        "českou",
+        "japonskou",
+        "slovinskou",
+        "norskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Amundi",
+      "values": [
+        "německou",
+        "francouzskou",
+        "československou",
+        "norskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Casio",
+      "values": [
+        "japonskou",
+        "belgickou",
+        "saúdskoarabskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Shimano",
+      "values": [
+        "izraelskou",
+        "japonskou",
+        "nizozemskou",
+        "španělskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fortune 500",
+      "values": [
+        "norskou",
+        "americkou",
+        "českou",
+        "československou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

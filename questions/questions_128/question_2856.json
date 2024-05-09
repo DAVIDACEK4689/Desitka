@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Petrohrad",
+      "values": [
+        "Něva",
+        "Malše",
+        "Dunaj",
+        "Inn"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Přelouč",
+      "values": [
+        "Metuje",
+        "Rýn",
+        "Ploučnice",
+        "Labe"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lázně Toušeň",
+      "values": [
+        "Bečva",
+        "Labe",
+        "Metuje",
+        "Těrek"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Drnholec",
+      "values": [
+        "Chrudimka",
+        "Malše",
+        "Dyje",
+        "Dunaj"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sereď",
+      "values": [
+        "Váha",
+        "Lužická Nisa",
+        "Sebnice",
+        "Visla"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lenešice",
+      "values": [
+        "Lužnice",
+        "Ohře",
+        "Berounka",
+        "Rýn"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dalečín",
+      "values": [
+        "Váha",
+        "Svratka",
+        "Ohře",
+        "Cidlina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Choryně",
+      "values": [
+        "Berounka",
+        "Bečva",
+        "Otava",
+        "Rýn"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Velký Bočkov",
+      "values": [
+        "Tis",
+        "Malše",
+        "Inn",
+        "Eufrat"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Itil",
+      "values": [
+        "Rýn",
+        "Radbuza",
+        "Svratka",
+        "Volha"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

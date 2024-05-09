@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Pelíšky",
+      "values": [
+        "Karel Zeman",
+        "Jan Hřebejk",
+        "Miloslav Šmídmajer",
+        "Jiří Vejdělek"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Poslední aristokratka",
+      "values": [
+        "Juraj Herz",
+        "Jiří Vejdělek",
+        "Martin Horský",
+        "Václav Vorlíček"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dědictví aneb Kurvahošigutntag",
+      "values": [
+        "Věra Chytilová",
+        "Miloš Forman",
+        "Karel Kachyňa",
+        "Miloslav Šmídmajer"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jak se budí princezny",
+      "values": [
+        "Bohdan Sláma",
+        "Ladislav Smoljak",
+        "Jiří Strach",
+        "Václav Vorlíček"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Habermannův mlýn",
+      "values": [
+        "Jan Hřebejk",
+        "Jindřich Polák",
+        "Juraj Herz",
+        "Karel Zeman"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čertoviny",
+      "values": [
+        "Zdeněk Troška",
+        "Marie Poledňáková",
+        "Věra Chytilová",
+        "Ladislav Rychman"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Z pekla štěstí",
+      "values": [
+        "Bořivoj Zeman",
+        "Karel Zeman",
+        "Hynek Bočan",
+        "Zdeněk Troška"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rozpuštěný a vypuštěný",
+      "values": [
+        "David Ondříček",
+        "Jaromil Jireš",
+        "Ladislav Smoljak",
+        "Jan Svěrák"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Valerie a týden divů",
+      "values": [
+        "Jiří Menzel",
+        "Zdeněk Troška",
+        "Jiří Vejdělek",
+        "Jaromil Jireš"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Babovřesky 2",
+      "values": [
+        "Zdeněk Troška",
+        "Dušan Klein",
+        "Robert Sedláček",
+        "Miloš Forman"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

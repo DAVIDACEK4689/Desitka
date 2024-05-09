@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Segedínský guláš",
+      "values": [
+        "středomořskou",
+        "slovenskou",
+        "anglickou",
+        "maďarskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Guacamole",
+      "values": [
+        "židovskou",
+        "britskou",
+        "polskou",
+        "mexickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Wasabi",
+      "values": [
+        "kanadskou",
+        "francouzskou",
+        "indickou",
+        "japonskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cordon bleu",
+      "values": [
+        "švédskou",
+        "indickou",
+        "britskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Utopenec",
+      "values": [
+        "maďarskou",
+        "českou",
+        "chorvatskou",
+        "australskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hot dog",
+      "values": [
+        "polskou",
+        "americkou",
+        "maďarskou",
+        "australskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rostbíf",
+      "values": [
+        "chorvatskou",
+        "portugalskou",
+        "anglickou",
+        "australskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Portugalská kuchyně",
+      "values": [
+        "španělskou",
+        "středomořskou",
+        "indickou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Varenyky",
+      "values": [
+        "švédskou",
+        "britskou",
+        "ukrajinskou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Škubánky",
+      "values": [
+        "švédskou",
+        "slovenskou",
+        "australskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

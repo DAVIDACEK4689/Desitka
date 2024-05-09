@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte kontinent podle závislého území",
+  "questions": [
+    {
+      "key": "Faerské ostrovy",
+      "values": [
+        "Asie",
+        "Evropa",
+        "Afrika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Grónsko",
+      "values": [
+        "Asie",
+        "Jižní Amerika",
+        "Severní Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gibraltar",
+      "values": [
+        "Asie",
+        "Severní Amerika",
+        "Evropa",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Francouzská Guyana",
+      "values": [
+        "Severní Amerika",
+        "Afrika",
+        "Evropa",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Falklandy",
+      "values": [
+        "Severní Amerika",
+        "Evropa",
+        "Jižní Amerika",
+        "Asie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Martinik",
+      "values": [
+        "Afrika",
+        "Jižní Amerika",
+        "Severní Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jersey",
+      "values": [
+        "Jižní Amerika",
+        "Evropa",
+        "Afrika",
+        "Asie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bermudy",
+      "values": [
+        "Jižní Amerika",
+        "Afrika",
+        "Asie",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kajmanské ostrovy",
+      "values": [
+        "Evropa",
+        "Afrika",
+        "Severní Amerika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vánoční ostrov",
+      "values": [
+        "Asie",
+        "Afrika",
+        "Evropa",
+        "Severní Amerika"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

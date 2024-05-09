@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Podzemnice olejná",
+      "values": [
+        "Brazílie",
+        "Mexiko",
+        "Madagaskar",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Přeslička rolní",
+      "values": [
+        "Brazílie",
+        "Austrálie",
+        "Nový Zéland",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cypřiš",
+      "values": [
+        "Madagaskar",
+        "Mexiko",
+        "Austrálie",
+        "Mongolsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bojínek luční",
+      "values": [
+        "Nový Zéland",
+        "Mongolsko",
+        "Brazílie",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hlaváček jarní",
+      "values": [
+        "Nový Zéland",
+        "Brazílie",
+        "Česko",
+        "Mexiko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chinovník",
+      "values": [
+        "Brazílie",
+        "Mongolsko",
+        "Mexiko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kosatec sibiřský",
+      "values": [
+        "Madagaskar",
+        "Brazílie",
+        "Mongolsko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lofofora Williamsova",
+      "values": [
+        "Česko",
+        "Brazílie",
+        "Nový Zéland",
+        "Mexiko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fazol šarlatový",
+      "values": [
+        "Madagaskar",
+        "Mexiko",
+        "Brazílie",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hluchavka objímavá",
+      "values": [
+        "Nový Zéland",
+        "Austrálie",
+        "Mongolsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

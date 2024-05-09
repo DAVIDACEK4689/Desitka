@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Halal",
+      "values": [
+        "indonéskou",
+        "arabskou",
+        "brazilskou",
+        "irskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Wasabi",
+      "values": [
+        "tureckou",
+        "japonskou",
+        "švédskou",
+        "českou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Špecle",
+      "values": [
+        "švýcarskou",
+        "francouzskou",
+        "ruskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Houbová omáčka",
+      "values": [
+        "islandskou",
+        "chorvatskou",
+        "perskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Izraelská kuchyně",
+      "values": [
+        "středomořskou",
+        "řeckou",
+        "arabskou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nori",
+      "values": [
+        "japonskou",
+        "polskou",
+        "indonéskou",
+        "dánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Skotská kuchyně",
+      "values": [
+        "anglickou",
+        "britskou",
+        "maďarskou",
+        "brazilskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Smørrebrød",
+      "values": [
+        "španělskou",
+        "anglickou",
+        "dánskou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pulque",
+      "values": [
+        "portugalskou",
+        "mexickou",
+        "thajskou",
+        "litevskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Newyorská kuchyně",
+      "values": [
+        "indonéskou",
+        "tureckou",
+        "americkou",
+        "korejskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

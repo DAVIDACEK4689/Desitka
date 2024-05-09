@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] dramatický film?",
+  "questions": [
+    {
+      "key": "Billy Elliot",
+      "values": [
+        "slovenský",
+        "japonský",
+        "australský",
+        "britský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Czech Made Man",
+      "values": [
+        "český",
+        "japonský",
+        "jihokorejský",
+        "francouzský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Co žere Gilberta Grapea",
+      "values": [
+        "slovenský",
+        "novozélandský",
+        "australský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Poslední cyklista",
+      "values": [
+        "mexický",
+        "ruský",
+        "maďarský",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Výkřik ve tmě",
+      "values": [
+        "australský",
+        "jihokorejský",
+        "sovětský",
+        "švédský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Unaveni sluncem",
+      "values": [
+        "jihokorejský",
+        "britský",
+        "francouzský",
+        "ruský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chvilky",
+      "values": [
+        "český",
+        "španělský",
+        "ruský",
+        "izraelský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Noční jezdci",
+      "values": [
+        "britský",
+        "československý",
+        "mexický",
+        "německý"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Černá Dahlia",
+      "values": [
+        "německý",
+        "americký",
+        "novozélandský",
+        "australský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Žiletky",
+      "values": [
+        "český",
+        "kanadský",
+        "slovenský",
+        "československý"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

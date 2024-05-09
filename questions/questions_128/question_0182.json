@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle regionu",
+  "questions": [
+    {
+      "key": "Toskánsko",
+      "values": [
+        "Belgie",
+        "Itálie",
+        "Dánsko",
+        "Francie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bretaň",
+      "values": [
+        "Belgie",
+        "Dánsko",
+        "Francie",
+        "Turecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vlámsko",
+      "values": [
+        "Belgie",
+        "Argentina",
+        "Itálie",
+        "Etiopie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Benátsko",
+      "values": [
+        "Argentina",
+        "Francie",
+        "Slovensko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ligurie",
+      "values": [
+        "Etiopie",
+        "Itálie",
+        "Francie",
+        "Portugalsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marche",
+      "values": [
+        "Itálie",
+        "Etiopie",
+        "Francie",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gran Chaco",
+      "values": [
+        "Francie",
+        "Dánsko",
+        "Argentina",
+        "Portugalsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nová Akvitánie",
+      "values": [
+        "Belgie",
+        "Francie",
+        "Argentina",
+        "Etiopie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Molise",
+      "values": [
+        "Etiopie",
+        "Francie",
+        "Argentina",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Danakilská proláklina",
+      "values": [
+        "Portugalsko",
+        "Etiopie",
+        "Turecko",
+        "Dánsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

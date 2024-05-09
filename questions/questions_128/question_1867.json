@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] leteckou společnost?",
+  "questions": [
+    {
+      "key": "KLM",
+      "values": [
+        "rumunskou",
+        "polskou",
+        "britskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aeroflot",
+      "values": [
+        "japonskou",
+        "španělskou",
+        "ruskou",
+        "maďarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pegasus Airlines",
+      "values": [
+        "tureckou",
+        "americkou",
+        "československou",
+        "lucemburskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Aegean Airlines",
+      "values": [
+        "řeckou",
+        "íránskou",
+        "severokorejskou",
+        "izraelskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Air Berlin",
+      "values": [
+        "černohorskou",
+        "španělskou",
+        "kanadskou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Saudia",
+      "values": [
+        "katarskou",
+        "severokorejskou",
+        "irskou",
+        "saúdskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Baťova letecká společnost",
+      "values": [
+        "australskou",
+        "belgickou",
+        "irskou",
+        "československou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Time Air",
+      "values": [
+        "chorvatskou",
+        "slovenskou",
+        "nizozemskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Brussels Airlines",
+      "values": [
+        "australskou",
+        "belgickou",
+        "rumunskou",
+        "izraelskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Air New Zealand",
+      "values": [
+        "novozélandskou",
+        "řeckou",
+        "islandskou",
+        "norskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

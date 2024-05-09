@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "František Palacký",
+      "values": [
+        "českého",
+        "dánského",
+        "nizozemského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Donald Trump",
+      "values": [
+        "italského",
+        "amerického",
+        "ruského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Johann Wolfgang von Goethe",
+      "values": [
+        "britského",
+        "amerického",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Menzel",
+      "values": [
+        "českého",
+        "švédského",
+        "německého",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ivan Olbracht",
+      "values": [
+        "amerického",
+        "ruského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alena Mornštajnová",
+      "values": [
+        "ruského",
+        "českého",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miloš Nesvadba",
+      "values": [
+        "ruského",
+        "slovenského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Radko Pytlík",
+      "values": [
+        "dánského",
+        "německého",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Giovanni Boccaccio",
+      "values": [
+        "ruského",
+        "slovenského",
+        "dánského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jindřich Plachta",
+      "values": [
+        "českého",
+        "německého",
+        "slovenského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

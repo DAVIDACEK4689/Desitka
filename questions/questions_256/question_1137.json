@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] alpského lyžaře?",
+  "questions": [
+    {
+      "key": "Ester Ledecká",
+      "values": [
+        "norského",
+        "švédského",
+        "chorvatského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petra Vlhová",
+      "values": [
+        "slovenského",
+        "švédského",
+        "rakouského",
+        "chorvatského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Šárka Strachová",
+      "values": [
+        "chorvatského",
+        "českého",
+        "švédského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ingemar Stenmark",
+      "values": [
+        "švýcarského",
+        "nizozemského",
+        "norského",
+        "švédského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aleksander Aamodt Kilde",
+      "values": [
+        "slovinského",
+        "norského",
+        "nizozemského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ondřej Bank",
+      "values": [
+        "švýcarského",
+        "českého",
+        "norského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martina Dubovská",
+      "values": [
+        "švýcarského",
+        "chorvatského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marco Odermatt",
+      "values": [
+        "slovenského",
+        "norského",
+        "českého",
+        "švýcarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Klára Křížová",
+      "values": [
+        "chorvatského",
+        "českého",
+        "rakouského",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tomáš Kraus",
+      "values": [
+        "norského",
+        "českého",
+        "slovenského",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

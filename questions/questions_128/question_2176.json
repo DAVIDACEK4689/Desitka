@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistu?",
+  "questions": [
+    {
+      "key": "Jakub Menšík",
+      "values": [
+        "švédského",
+        "polského",
+        "srbského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaroslav Navrátil",
+      "values": [
+        "norského",
+        "italského",
+        "československého",
+        "chorvatského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karen Chačanov",
+      "values": [
+        "australského",
+        "ruského",
+        "argentinského",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Austin Krajicek",
+      "values": [
+        "maďarského",
+        "chilského",
+        "amerického",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Richard Gasquet",
+      "values": [
+        "jihoafrického",
+        "francouzského",
+        "norského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jevgenij Kafelnikov",
+      "values": [
+        "italského",
+        "ruského",
+        "francouzského",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Borna Ćorić",
+      "values": [
+        "japonského",
+        "ruského",
+        "srbského",
+        "chorvatského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rajeev Ram",
+      "values": [
+        "řeckého",
+        "amerického",
+        "českého",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sebastián Báez",
+      "values": [
+        "íránského",
+        "finského",
+        "argentinského",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Viktor Troicki",
+      "values": [
+        "finského",
+        "srbského",
+        "chorvatského",
+        "polského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

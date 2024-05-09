@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vědce?",
+  "questions": [
+    {
+      "key": "Gottfried Wilhelm Leibniz",
+      "values": [
+        "švédského",
+        "německého",
+        "švýcarského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alphonse Bertillon",
+      "values": [
+        "francouzského",
+        "rakouského",
+        "slovenského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eva Syková",
+      "values": [
+        "francouzského",
+        "českého",
+        "ruského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Tolar",
+      "values": [
+        "srbského",
+        "sovětského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Margaret Mahlerová",
+      "values": [
+        "rakouského",
+        "britského",
+        "maďarského",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nikolaj Ivanovič Pirogov",
+      "values": [
+        "sovětského",
+        "maďarského",
+        "ruského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ján Šmok",
+      "values": [
+        "sovětského",
+        "francouzského",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Levit",
+      "values": [
+        "britského",
+        "německého",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ondřej Měšťák",
+      "values": [
+        "českého",
+        "sovětského",
+        "ruského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zdeněk Horák",
+      "values": [
+        "českého",
+        "francouzského",
+        "srbského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

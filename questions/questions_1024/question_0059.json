@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] křesťana?",
+  "questions": [
+    {
+      "key": "Isaac Newton",
+      "values": [
+        "kanadského",
+        "čínského",
+        "českého",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jimmy Carter",
+      "values": [
+        "norského",
+        "českého",
+        "indického",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Johnny Cash",
+      "values": [
+        "dánského",
+        "amerického",
+        "norského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tycho Brahe",
+      "values": [
+        "českého",
+        "dánského",
+        "maďarského",
+        "anglického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Matka Tereza",
+      "values": [
+        "německého",
+        "skotského",
+        "švýcarského",
+        "indického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eva Mendes",
+      "values": [
+        "italského",
+        "německého",
+        "amerického",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexander Fleming",
+      "values": [
+        "čínského",
+        "skotského",
+        "maďarského",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Niels Bohr",
+      "values": [
+        "dánského",
+        "českého",
+        "italského",
+        "anglického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Khloé Kardashian",
+      "values": [
+        "rakouského",
+        "amerického",
+        "australského",
+        "čínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joe Jonas",
+      "values": [
+        "indického",
+        "dánského",
+        "kanadského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

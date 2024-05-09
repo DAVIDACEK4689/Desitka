@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] ateistu?",
+  "questions": [
+    {
+      "key": "Josif Vissarionovič Stalin",
+      "values": [
+        "ruského",
+        "britského",
+        "českého",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladimir Iljič Lenin",
+      "values": [
+        "ruského",
+        "amerického",
+        "mexického",
+        "kubánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Keanu Reeves",
+      "values": [
+        "kanadského",
+        "německého",
+        "srbského",
+        "běloruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bruce Lee",
+      "values": [
+        "irského",
+        "chorvatského",
+        "italského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cillian Murphy",
+      "values": [
+        "německého",
+        "irského",
+        "gruzínského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lev Davidovič Trockij",
+      "values": [
+        "ruského",
+        "srbského",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Roman Polański",
+      "values": [
+        "irského",
+        "židovského",
+        "španělského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexandr Lukašenko",
+      "values": [
+        "srbského",
+        "židovského",
+        "běloruského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Slobodan Milošević",
+      "values": [
+        "českého",
+        "ruského",
+        "srbského",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "George Bernard Shaw",
+      "values": [
+        "italského",
+        "mexického",
+        "švédského",
+        "irského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

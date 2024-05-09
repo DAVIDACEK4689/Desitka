@@ -1,0 +1,105 @@
+{
+  "text": "Určete bojiště podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva u Zborova",
+      "values": [
+        "Maďarsko",
+        "Chorvatsko",
+        "Sasko",
+        "Ukrajina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva o Narvik",
+      "values": [
+        "Norsko",
+        "Maďarsko",
+        "Rusko",
+        "Belgie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Cullodenu",
+      "values": [
+        "Uganda",
+        "Spojené království",
+        "Rakousko",
+        "Španělsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Kressenbrunnu",
+      "values": [
+        "Rakousko",
+        "Chorvatsko",
+        "Japonsko",
+        "Papua Nová Guinea"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Cušimy",
+      "values": [
+        "Bělorusko",
+        "Španělsko",
+        "Sasko",
+        "Japonsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Wagramu",
+      "values": [
+        "Japonsko",
+        "Rakousko",
+        "Slovinsko",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Mantzikertu",
+      "values": [
+        "Súdán",
+        "Turecko",
+        "Somálsko",
+        "Finsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva o Soledar",
+      "values": [
+        "Ukrajina",
+        "Irák",
+        "Braniborsko",
+        "Libye"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Brodů",
+      "values": [
+        "Sasko",
+        "Španělsko",
+        "Ukrajina",
+        "Uganda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Arabské povstání",
+      "values": [
+        "Francie",
+        "Sýrie",
+        "Chorvatsko",
+        "Braniborsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

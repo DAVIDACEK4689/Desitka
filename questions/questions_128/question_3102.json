@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] právníka?",
+  "questions": [
+    {
+      "key": "Tony Blair",
+      "values": [
+        "britského",
+        "řeckého",
+        "estonského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Nielsen",
+      "values": [
+        "řeckého",
+        "českého",
+        "rakouského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaroslav Bureš",
+      "values": [
+        "řeckého",
+        "českého",
+        "rakouského",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cristina Fernández de Kirchner",
+      "values": [
+        "ruského",
+        "britského",
+        "ukrajinského",
+        "argentinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mark Felt",
+      "values": [
+        "slovinského",
+        "slovenského",
+        "chorvatského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Heinz Fischer",
+      "values": [
+        "estonského",
+        "rakouského",
+        "dánského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tarja Halonenová",
+      "values": [
+        "finského",
+        "švýcarského",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miroslav Duda",
+      "values": [
+        "českého",
+        "maďarského",
+        "portugalského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Imrich Karvaš",
+      "values": [
+        "švýcarského",
+        "francouzského",
+        "slovenského",
+        "argentinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "August Adolf Popelka",
+      "values": [
+        "polského",
+        "českého",
+        "britského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

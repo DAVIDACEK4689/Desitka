@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Raquel Welchová",
+      "values": [
+        "americkou",
+        "francouzskou",
+        "rakouskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jasmina Alagič",
+      "values": [
+        "německou",
+        "italskou",
+        "slovenskou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Iva Frühlingová",
+      "values": [
+        "izraelskou",
+        "americkou",
+        "argentinskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Milla Jovovich",
+      "values": [
+        "americkou",
+        "ruskou",
+        "argentinskou",
+        "brazilskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Amanda Seyfriedová",
+      "values": [
+        "britskou",
+        "americkou",
+        "brazilskou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Anna Kurnikovová",
+      "values": [
+        "ruskou",
+        "irskou",
+        "italskou",
+        "australskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lily Collins",
+      "values": [
+        "izraelskou",
+        "americkou",
+        "kanadskou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tahnee Welch",
+      "values": [
+        "ruskou",
+        "americkou",
+        "argentinskou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nina Agdalová",
+      "values": [
+        "maďarskou",
+        "americkou",
+        "dánskou",
+        "německou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miranda Kerr",
+      "values": [
+        "maďarskou",
+        "ukrajinskou",
+        "australskou",
+        "argentinskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Al Pacino",
+      "values": [
+        "irského",
+        "amerického",
+        "rakouského",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lukáš Burian",
+      "values": [
+        "ruského",
+        "slovinského",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roman Štolpa",
+      "values": [
+        "maďarského",
+        "českého",
+        "belgického",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pedro Almodóvar",
+      "values": [
+        "španělského",
+        "francouzského",
+        "íránského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jacques Brel",
+      "values": [
+        "švýcarského",
+        "irského",
+        "ukrajinského",
+        "belgického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gene Deitch",
+      "values": [
+        "amerického",
+        "nizozemského",
+        "českého",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oldřich Daněk",
+      "values": [
+        "dánského",
+        "chorvatského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivan Fíla",
+      "values": [
+        "nizozemského",
+        "španělského",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lukáš Melník",
+      "values": [
+        "chorvatského",
+        "amerického",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Albert Barillé",
+      "values": [
+        "mexického",
+        "nizozemského",
+        "rakouského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

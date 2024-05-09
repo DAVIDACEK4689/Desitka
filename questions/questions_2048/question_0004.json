@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte moře podle přístavního města",
+  "questions": [
+    {
+      "key": "Londýn",
+      "values": [
+        "Severní moře",
+        "Irské moře",
+        "Rudé moře",
+        "Černé moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Istanbul",
+      "values": [
+        "Baltské moře",
+        "Severní moře",
+        "Marmarské moře",
+        "Rudé moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kaliningrad",
+      "values": [
+        "Baltské moře",
+        "Severní moře",
+        "Marmarské moře",
+        "Rudé moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petrohrad",
+      "values": [
+        "Rudé moře",
+        "Baltské moře",
+        "Severní moře",
+        "Marmarské moře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Amsterdam",
+      "values": [
+        "Marmarské moře",
+        "Irské moře",
+        "Severní moře",
+        "Rudé moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gdaňsk",
+      "values": [
+        "Severní moře",
+        "Marmarské moře",
+        "Baltské moře",
+        "Černé moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kodaň",
+      "values": [
+        "Rudé moře",
+        "Baltské moře",
+        "Černé moře",
+        "Marmarské moře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Riga",
+      "values": [
+        "Černé moře",
+        "Marmarské moře",
+        "Severní moře",
+        "Baltské moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dublin",
+      "values": [
+        "Baltské moře",
+        "Rudé moře",
+        "Irské moře",
+        "Marmarské moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oslo",
+      "values": [
+        "Severní moře",
+        "Irské moře",
+        "Marmarské moře",
+        "Černé moře"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Giuseppe Garibaldi",
+      "values": [
+        "italského",
+        "dánského",
+        "rumunského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vivek Ramaswamy",
+      "values": [
+        "běloruského",
+        "vietnamského",
+        "amerického",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ján Budaj",
+      "values": [
+        "slovenského",
+        "sovětského",
+        "libanonského",
+        "palestinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Serdar Berdimuhamedow",
+      "values": [
+        "sovětského",
+        "peruánského",
+        "pákistánského",
+        "turkmenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roman Blaško",
+      "values": [
+        "českého",
+        "malajsijského",
+        "maltského",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Walther Rathenau",
+      "values": [
+        "slovinského",
+        "bosenského",
+        "pákistánského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ahmet Necdet Sezer",
+      "values": [
+        "španělského",
+        "bulharského",
+        "amerického",
+        "tureckého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Igor Nikolajevič Smirnov",
+      "values": [
+        "singapurského",
+        "ázerbájdžánského",
+        "moldavského",
+        "iráckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Leo Steiner",
+      "values": [
+        "jemenského",
+        "dominikánského",
+        "singapurského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "John Profumo",
+      "values": [
+        "nizozemského",
+        "sovětského",
+        "britského",
+        "kubánského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

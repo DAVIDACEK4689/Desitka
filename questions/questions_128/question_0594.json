@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Oslo",
+      "values": [
+        "Slovinsko",
+        "Německo",
+        "Norsko",
+        "Gabon"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bordeaux",
+      "values": [
+        "Dominika",
+        "Francie",
+        "Jemen",
+        "Uruguay"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cagliari",
+      "values": [
+        "Mauritánie",
+        "Itálie",
+        "Uruguay",
+        "Nizozemsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tobruk",
+      "values": [
+        "Saúdská Arábie",
+        "Angola",
+        "Ukrajina",
+        "Libye"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Archangelsk",
+      "values": [
+        "Rusko",
+        "Kazachstán",
+        "Sýrie",
+        "Dánsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nagoja",
+      "values": [
+        "Litva",
+        "Gambie",
+        "Japonsko",
+        "Západní Sahara"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nuakšott",
+      "values": [
+        "Tunisko",
+        "Mauritánie",
+        "Egypt",
+        "Západní Sahara"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pori",
+      "values": [
+        "Finsko",
+        "Polsko",
+        "Západní Sahara",
+        "Dominikánská republika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Scheveningen",
+      "values": [
+        "Švédsko",
+        "Sýrie",
+        "Jihoafrická republika",
+        "Nizozemsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kemi",
+      "values": [
+        "Tunisko",
+        "Angola",
+        "Finsko",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] film?",
+  "questions": [
+    {
+      "key": "Nabarvené ptáče",
+      "values": [
+        "sovětský",
+        "ukrajinský",
+        "jugoslávský",
+        "slovenský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ikarie XB 1",
+      "values": [
+        "československý",
+        "slovenský",
+        "novozélandský",
+        "čínský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bohové musejí být šílení",
+      "values": [
+        "jihoafrický",
+        "novozélandský",
+        "slovenský",
+        "švédský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ženská na vrcholu",
+      "values": [
+        "český",
+        "irský",
+        "čínský",
+        "československý"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Perličky na dně",
+      "values": [
+        "československý",
+        "slovenský",
+        "novozélandský",
+        "čínský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vinnetou a míšenka Apanači",
+      "values": [
+        "švédský",
+        "sovětský",
+        "československý",
+        "jugoslávský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Perníková věž",
+      "values": [
+        "český",
+        "irský",
+        "švédský",
+        "československý"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ve jménu otce",
+      "values": [
+        "čínský",
+        "český",
+        "švédský",
+        "irský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Boj o Moskvu",
+      "values": [
+        "československý",
+        "čínský",
+        "irský",
+        "sovětský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Co děláme v temnotách",
+      "values": [
+        "novozélandský",
+        "irský",
+        "slovenský",
+        "český"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle historického území",
+  "questions": [
+    {
+      "key": "Sudety",
+      "values": [
+        "Rusko",
+        "Lotyšsko",
+        "Belgie",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dalmácie",
+      "values": [
+        "Ukrajina",
+        "Chorvatsko",
+        "Lotyšsko",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gaskoňsko",
+      "values": [
+        "Francie",
+        "Česko",
+        "Švédsko",
+        "Írán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Attika",
+      "values": [
+        "Ukrajina",
+        "Srbsko",
+        "Řecko",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Akvitánské vévodství",
+      "values": [
+        "Švédsko",
+        "Řecko",
+        "Írán",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sikulsko",
+      "values": [
+        "Belgie",
+        "Slovensko",
+        "Rumunsko",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Asturské království",
+      "values": [
+        "Írán",
+        "Španělsko",
+        "Chorvatsko",
+        "Srbsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hrabství Artois",
+      "values": [
+        "Německo",
+        "Itálie",
+        "Belgie",
+        "Slovinsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kujavsko",
+      "values": [
+        "Ukrajina",
+        "Polsko",
+        "Rusko",
+        "Švédsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Persis",
+      "values": [
+        "Írán",
+        "Slovinsko",
+        "Německo",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

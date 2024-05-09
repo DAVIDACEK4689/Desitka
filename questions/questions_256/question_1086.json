@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Bruce Lee",
+      "values": [
+        "rakouského",
+        "australského",
+        "amerického",
+        "hongkongského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Juraj Herz",
+      "values": [
+        "kanadského",
+        "českého",
+        "srbského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sean Penn",
+      "values": [
+        "španělského",
+        "amerického",
+        "dánského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavel Juráček",
+      "values": [
+        "norského",
+        "novozélandského",
+        "belgického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Vláčil",
+      "values": [
+        "rakouského",
+        "ruského",
+        "švýcarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Leonard Nimoy",
+      "values": [
+        "dánského",
+        "mexického",
+        "amerického",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Evžen Sokolovský",
+      "values": [
+        "australského",
+        "srbského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tony Scott",
+      "values": [
+        "irského",
+        "hongkongského",
+        "britského",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jonathan Frakes",
+      "values": [
+        "polského",
+        "amerického",
+        "australského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ron Howard",
+      "values": [
+        "švýcarského",
+        "amerického",
+        "německého",
+        "japonského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte rok podle katastrofy",
+  "questions": [
+    {
+      "key": "Hladomor na Ukrajině",
+      "values": [
+        "1941",
+        "2004",
+        "1932",
+        "2013"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bhópálská katastrofa",
+      "values": [
+        "1902",
+        "2013",
+        "1984",
+        "2010"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Halifaxský výbuch",
+      "values": [
+        "1917",
+        "1957",
+        "1974",
+        "1956"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Výbuch na dole Nelson III",
+      "values": [
+        "1967",
+        "1934",
+        "1902",
+        "1968"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pinatubo",
+      "values": [
+        "1932",
+        "1941",
+        "1991",
+        "1954"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bostonská melasová tragédie",
+      "values": [
+        "1966",
+        "1919",
+        "1976",
+        "1987"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ponte Morandi",
+      "values": [
+        "1995",
+        "1934",
+        "1979",
+        "2018"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Velké zemětřesení v Kantó",
+      "values": [
+        "1923",
+        "1945",
+        "1919",
+        "1974"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tajfun Haiyan",
+      "values": [
+        "1937",
+        "2013",
+        "1995",
+        "1970"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Havárie tankeru Prestige",
+      "values": [
+        "1912",
+        "2002",
+        "1979",
+        "2021"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

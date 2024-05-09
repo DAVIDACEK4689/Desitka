@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "XXx",
+      "values": [
+        "Rob Cohen",
+        "James Ivory",
+        "Rod Lurie",
+        "Barry Sonnenfeld"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rychlí a zběsilí",
+      "values": [
+        "Rob Cohen",
+        "Francis Ford Coppola",
+        "Martin Scorsese",
+        "Justin Lin"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Na hraně zítřka",
+      "values": [
+        "Doug Liman",
+        "Billy Wilder",
+        "Ron Howard",
+        "Bill Duke"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Deník princezny",
+      "values": [
+        "Sydney Pollack",
+        "Steven Spielberg",
+        "Garry Marshall",
+        "McG"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Koyaanisqatsi",
+      "values": [
+        "John Schlesinger",
+        "Godfrey Reggio",
+        "Dean Parisot",
+        "Alan Pakula"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Velký dar",
+      "values": [
+        "Marc Webb",
+        "Bryan Singer",
+        "Mark Neveldine",
+        "Chris Wedge"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Princ a já",
+      "values": [
+        "Martha Coolidge",
+        "John Singleton",
+        "David Frankel",
+        "Brian De Palma"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dannyho parťáci 3",
+      "values": [
+        "Peter Segal",
+        "Steven Soderbergh",
+        "Sidney Lumet",
+        "Bill Duke"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hlubina",
+      "values": [
+        "Robert Aldrich",
+        "David Twohy",
+        "John Landis",
+        "Steven Soderbergh"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sestra v akci 2",
+      "values": [
+        "Bill Duke",
+        "Orson Welles",
+        "George Nolfi",
+        "Andy Fickman"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

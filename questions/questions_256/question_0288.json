@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Damašek",
+      "values": [
+        "Libye",
+        "Izrael",
+        "Sýrie",
+        "Honduras"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tiraspol",
+      "values": [
+        "Etiopie",
+        "Srí Lanka",
+        "Středoafrická republika",
+        "Moldavsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Šibenik",
+      "values": [
+        "Chorvatsko",
+        "Slovinsko",
+        "Nepál",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lemesos",
+      "values": [
+        "Kypr",
+        "Chorvatsko",
+        "Paraguay",
+        "Libye"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gori",
+      "values": [
+        "Francie",
+        "Gruzie",
+        "Tanzanie",
+        "Keňa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kavala",
+      "values": [
+        "Egypt",
+        "Česko",
+        "Saúdská Arábie",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fiľakovo",
+      "values": [
+        "Bolívie",
+        "Mosambik",
+        "Slovensko",
+        "Portugalsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Schaffhausen",
+      "values": [
+        "Chorvatsko",
+        "Rakousko",
+        "Zambie",
+        "Švýcarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sderot",
+      "values": [
+        "Nový Zéland",
+        "Pero",
+        "Niger",
+        "Izrael"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hanko",
+      "values": [
+        "Chorvatsko",
+        "Pero",
+        "Finsko",
+        "Angola"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

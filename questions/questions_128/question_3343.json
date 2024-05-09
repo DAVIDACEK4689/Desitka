@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Rudolf Hrušínský nejmladší",
+      "values": [
+        "českého",
+        "švýcarského",
+        "venezuelského",
+        "tureckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Bek",
+      "values": [
+        "indického",
+        "českého",
+        "venezuelského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mads Mikkelsen",
+      "values": [
+        "portugalského",
+        "bulharského",
+        "dánského",
+        "čínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jonathan Brandis",
+      "values": [
+        "argentinského",
+        "amerického",
+        "tureckého",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Harry Belafonte",
+      "values": [
+        "amerického",
+        "malajsijského",
+        "dánského",
+        "guatemalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Grace Jones",
+      "values": [
+        "španělského",
+        "izraelského",
+        "jamajského",
+        "brazilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jean Dujardin",
+      "values": [
+        "francouzského",
+        "argentinského",
+        "islandského",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Matthias Schoenaerts",
+      "values": [
+        "marockého",
+        "argentinského",
+        "belgického",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chow Yun Fat",
+      "values": [
+        "izraelského",
+        "argentinského",
+        "řeckého",
+        "čínského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tom Baker",
+      "values": [
+        "italského",
+        "mexického",
+        "nizozemského",
+        "britského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

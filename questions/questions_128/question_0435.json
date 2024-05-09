@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Helsinky",
+      "values": [
+        "Ukrajina",
+        "Finsko",
+        "Rumunsko",
+        "Libanon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Malmö",
+      "values": [
+        "Slovinsko",
+        "Jamajka",
+        "Švédsko",
+        "Finsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cartagena",
+      "values": [
+        "Španělsko",
+        "Rumunsko",
+        "Ázerbájdžán",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jokohama",
+      "values": [
+        "Tanzanie",
+        "Gambie",
+        "Řecko",
+        "Japonsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sveti Stefan",
+      "values": [
+        "Izrael",
+        "Libye",
+        "Ekvádor",
+        "Černá Hora"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Trabzon",
+      "values": [
+        "Nigérie",
+        "Kamerun",
+        "Turecko",
+        "Argentina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Huelva",
+      "values": [
+        "Ukrajina",
+        "Španělsko",
+        "Maroko",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Trani",
+      "values": [
+        "Itálie",
+        "Maroko",
+        "Švédsko",
+        "Albánie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mangalia",
+      "values": [
+        "Argentina",
+        "Barbados",
+        "Jemen",
+        "Rumunsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dundalk",
+      "values": [
+        "Ázerbájdžán",
+        "Brazílie",
+        "Libye",
+        "Irsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

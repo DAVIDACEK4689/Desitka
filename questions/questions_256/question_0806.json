@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Mlčení jehňátek",
+      "values": [
+        "Darren Aronofsky",
+        "Tim Burton",
+        "Harold Ramis",
+        "Jonathan Demme"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Statečné srdce",
+      "values": [
+        "Kevin Reynolds",
+        "Todd Phillips",
+        "Mel Gibson",
+        "Jon Turteltaub"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rivalové",
+      "values": [
+        "Emile Ardolino",
+        "Ron Howard",
+        "Kevin Reynolds",
+        "Sean Penn"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vzpomínky na Afriku",
+      "values": [
+        "Steven Soderbergh",
+        "Richard Kelly",
+        "Sydney Pollack",
+        "Michael Bay"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jumanji",
+      "values": [
+        "William Friedkin",
+        "Rian Johnson",
+        "James Mangold",
+        "Joe Johnston"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vetřelec 3",
+      "values": [
+        "David Fincher",
+        "McG",
+        "Billy Wilder",
+        "Wes Craven"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cesta do Ameriky",
+      "values": [
+        "Brian De Palma",
+        "Danny DeVito",
+        "John Landis",
+        "Michael Cimino"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Iron Man 2",
+      "values": [
+        "Joel Schumacher",
+        "Jon Favreau",
+        "Tim Burton",
+        "Rian Johnson"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bez kalhot",
+      "values": [
+        "Dean Parisot",
+        "Edward Zwick",
+        "Noah Baumbach",
+        "Steven Soderbergh"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Batman se vrací",
+      "values": [
+        "Kathryn Bigelowová",
+        "Ang Lee",
+        "bratři Coenové",
+        "Tim Burton"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

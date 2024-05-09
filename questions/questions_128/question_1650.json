@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle organizace",
+  "questions": [
+    {
+      "key": "Mezinárodní kynologická federace",
+      "values": [
+        "Uganda",
+        "Švédsko",
+        "Belgie",
+        "Bělorusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Barnevernet",
+      "values": [
+        "Švýcarsko",
+        "Uganda",
+        "Bělorusko",
+        "Norsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "AB private trust I",
+      "values": [
+        "Bělorusko",
+        "Německo",
+        "Česko",
+        "Norsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mensa International",
+      "values": [
+        "Bělorusko",
+        "Polsko",
+        "Uganda",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "UNIMA",
+      "values": [
+        "Francie",
+        "Japonsko",
+        "Norsko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Britský filmový institut",
+      "values": [
+        "Spojené království",
+        "Rusko",
+        "Francie",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Agentura Evropské unie pro bezpečnost letectví",
+      "values": [
+        "Norsko",
+        "Francie",
+        "Spojené království",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eurojust",
+      "values": [
+        "Izrael",
+        "Belgie",
+        "Nizozemsko",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Junarmija",
+      "values": [
+        "Polsko",
+        "Japonsko",
+        "Nizozemsko",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Witikobund",
+      "values": [
+        "Nizozemsko",
+        "Německo",
+        "Belgie",
+        "Švédsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

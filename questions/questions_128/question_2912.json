@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Gustav Bubník",
+      "values": [
+        "kanadského",
+        "japonského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Donald Sutherland",
+      "values": [
+        "italského",
+        "izraelského",
+        "slovenského",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gary Burghoff",
+      "values": [
+        "indického",
+        "amerického",
+        "japonského",
+        "guatemalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Juraj Loj",
+      "values": [
+        "bulharského",
+        "italského",
+        "slovenského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Brendan Gleeson",
+      "values": [
+        "švýcarského",
+        "irského",
+        "jamajského",
+        "novozélandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eddie Izzard",
+      "values": [
+        "britského",
+        "japonského",
+        "amerického",
+        "chilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sofie Gråbøl",
+      "values": [
+        "dánského",
+        "čínského",
+        "marockého",
+        "tureckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Thomas Keneally",
+      "values": [
+        "australského",
+        "nizozemského",
+        "bosenského",
+        "gruzínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Leonor Varela",
+      "values": [
+        "chorvatského",
+        "ukrajinského",
+        "portorického",
+        "chilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bobcat Goldthwait",
+      "values": [
+        "chorvatského",
+        "sovětského",
+        "amerického",
+        "španělského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

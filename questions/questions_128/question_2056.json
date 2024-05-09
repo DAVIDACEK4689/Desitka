@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistku?",
+  "questions": [
+    {
+      "key": "Marie Bouzková",
+      "values": [
+        "kanadskou",
+        "japonskou",
+        "španělskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sandra Kleinová",
+      "values": [
+        "tuniskou",
+        "belgickou",
+        "kanadskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Paula Badosová",
+      "values": [
+        "americkou",
+        "španělskou",
+        "japonskou",
+        "kanadskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Anastasija Pavljučenkovová",
+      "values": [
+        "rumunskou",
+        "kanadskou",
+        "ruskou",
+        "lotyšskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Barbora Palicová",
+      "values": [
+        "tuniskou",
+        "slovenskou",
+        "českou",
+        "rakouskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jule Niemeierová",
+      "values": [
+        "německou",
+        "dánskou",
+        "slovenskou",
+        "belgickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Barbora Hlavicová",
+      "values": [
+        "zimbabwskou",
+        "českou",
+        "řeckou",
+        "indickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dajana Jastremská",
+      "values": [
+        "ukrajinskou",
+        "kolumbijskou",
+        "britskou",
+        "japonskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jodie Burrageová",
+      "values": [
+        "ukrajinskou",
+        "ruskou",
+        "běloruskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Katarina Zavacká",
+      "values": [
+        "egyptskou",
+        "ukrajinskou",
+        "běloruskou",
+        "španělskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

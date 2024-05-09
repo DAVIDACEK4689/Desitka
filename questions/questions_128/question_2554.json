@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [žánr] videohru?",
+  "questions": [
+    {
+      "key": "Divoké kmeny",
+      "values": [
+        "karetní",
+        "akční",
+        "strategickou",
+        "závodní"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "World of Tanks",
+      "values": [
+        "hudební",
+        "akční",
+        "závodní",
+        "sportovní"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Metal Gear Solid",
+      "values": [
+        "hudební",
+        "strategickou",
+        "akční",
+        "závodní"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Poppy Playtime",
+      "values": [
+        "logickou",
+        "strategickou",
+        "závodní",
+        "karetní"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Travian",
+      "values": [
+        "sportovní",
+        "strategickou",
+        "akční",
+        "logickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Forza Horizon 5",
+      "values": [
+        "strategickou",
+        "akční",
+        "závodní",
+        "bojovou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Phasmophobia",
+      "values": [
+        "akční",
+        "hudební",
+        "logickou",
+        "závodní"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Forza Horizon 4",
+      "values": [
+        "bojovou",
+        "závodní",
+        "hudební",
+        "karetní"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Grand Theft Auto 2",
+      "values": [
+        "logickou",
+        "hudební",
+        "bojovou",
+        "akční"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "SoccerProject",
+      "values": [
+        "akční",
+        "sportovní",
+        "hudební",
+        "strategickou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

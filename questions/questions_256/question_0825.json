@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] hudební skupinu?",
+  "questions": [
+    {
+      "key": "The Prodigy",
+      "values": [
+        "německou",
+        "britskou",
+        "norskou",
+        "islandskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Die Antwoord",
+      "values": [
+        "jihoafrickou",
+        "finskou",
+        "maďarskou",
+        "kanadskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Il Volo",
+      "values": [
+        "švýcarskou",
+        "jihoafrickou",
+        "italskou",
+        "maďarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gregorian",
+      "values": [
+        "chorvatskou",
+        "německou",
+        "dánskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Laibach",
+      "values": [
+        "maďarskou",
+        "norskou",
+        "chorvatskou",
+        "slovinskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hrdza",
+      "values": [
+        "jihokorejskou",
+        "finskou",
+        "slovenskou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sugababes",
+      "values": [
+        "dánskou",
+        "nizozemskou",
+        "estonskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Westlife",
+      "values": [
+        "německou",
+        "jihokorejskou",
+        "irskou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eiffel 65",
+      "values": [
+        "švédskou",
+        "nizozemskou",
+        "kanadskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Boyzone",
+      "values": [
+        "německou",
+        "bosenskou",
+        "kanadskou",
+        "irskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

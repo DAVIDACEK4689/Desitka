@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Pardubice",
+      "values": [
+        "Portugalsko",
+        "Česko",
+        "Německo",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Řezno",
+      "values": [
+        "Spojené království",
+        "Nizozemsko",
+        "Německo",
+        "Polsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pasov",
+      "values": [
+        "Slovensko",
+        "Německo",
+        "Maďarsko",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Birmingham",
+      "values": [
+        "Slovensko",
+        "Spojené království",
+        "Irsko",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lucca",
+      "values": [
+        "Rakousko",
+        "Německo",
+        "Spojené království",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tórshavn",
+      "values": [
+        "Dánsko",
+        "Polsko",
+        "Spojené království",
+        "Portugalsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Faro",
+      "values": [
+        "Itálie",
+        "Německo",
+        "Portugalsko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Plymouth",
+      "values": [
+        "Spojené království",
+        "Itálie",
+        "Rakousko",
+        "Maďarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Frankfurt nad Odrou",
+      "values": [
+        "Belgie",
+        "Německo",
+        "Spojené království",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tournai",
+      "values": [
+        "Polsko",
+        "Belgie",
+        "Portugalsko",
+        "Česko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

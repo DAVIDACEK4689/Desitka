@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Carlo Ancelotti",
+      "values": [
+        "islandského",
+        "skotského",
+        "ghanského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mojmír Chytil",
+      "values": [
+        "gruzínského",
+        "jamajského",
+        "českého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Julián Álvarez",
+      "values": [
+        "švédského",
+        "argentinského",
+        "italského",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jadon Sancho",
+      "values": [
+        "amerického",
+        "tureckého",
+        "anglického",
+        "gruzínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dimitar Berbatov",
+      "values": [
+        "bulharského",
+        "alžírského",
+        "švýcarského",
+        "gruzínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kevin Keegan",
+      "values": [
+        "chilského",
+        "bulharského",
+        "norského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Adam Jánoš",
+      "values": [
+        "českého",
+        "slovinského",
+        "arménského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Šimůnek",
+      "values": [
+        "gambijského",
+        "brazilského",
+        "kostarického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Klein",
+      "values": [
+        "tureckého",
+        "anglického",
+        "senegalského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gunnar Nordahl",
+      "values": [
+        "bulharského",
+        "norského",
+        "švédského",
+        "ekvádorského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

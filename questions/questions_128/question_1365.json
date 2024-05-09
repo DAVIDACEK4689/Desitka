@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle narození",
+  "questions": [
+    {
+      "key": "Pepe",
+      "values": [
+        "Chorvatsko",
+        "Írán",
+        "Gambie",
+        "Brazílie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alain Mimoun",
+      "values": [
+        "Jamajka",
+        "Alžírsko",
+        "Finsko",
+        "Bolívie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gurbanguly Berdimuhamedow",
+      "values": [
+        "Izrael",
+        "Švédsko",
+        "Bělorusko",
+        "Turkmenistán"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Babrak Karmal",
+      "values": [
+        "Afghánistán",
+        "Moldavsko",
+        "Gabon",
+        "Salvador"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ališer Usmanov",
+      "values": [
+        "Mosambik",
+        "Ázerbájdžán",
+        "Uzbekistán",
+        "Kyrgyzstán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Džamala",
+      "values": [
+        "Švédsko",
+        "Kyrgyzstán",
+        "Polsko",
+        "Lucembursko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Luis Díaz",
+      "values": [
+        "Pero",
+        "Kolumbie",
+        "Barbados",
+        "Moldavsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Apollónios z Pergy",
+      "values": [
+        "Česko",
+        "Turecko",
+        "Kolumbie",
+        "Pero"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Antis",
+      "values": [
+        "Venezuela",
+        "Arménie",
+        "Francie",
+        "Čad"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michael Špilar",
+      "values": [
+        "Ekvádor",
+        "Česko",
+        "Rumunsko",
+        "Kosovo"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

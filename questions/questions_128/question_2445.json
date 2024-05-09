@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] hokejového trenéra?",
+  "questions": [
+    {
+      "key": "Kari Jalonen",
+      "values": [
+        "kanadského",
+        "amerického",
+        "finského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vladimír Zábrodský",
+      "values": [
+        "německého",
+        "kanadského",
+        "československého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "František Pospíšil",
+      "values": [
+        "lotyšského",
+        "německého",
+        "československého",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Gut",
+      "values": [
+        "kanadského",
+        "československého",
+        "slovenského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Anatolij Tarasov",
+      "values": [
+        "kanadského",
+        "ruského",
+        "finského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Scotty Bowman",
+      "values": [
+        "německého",
+        "finského",
+        "amerického",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Horešovský",
+      "values": [
+        "lotyšského",
+        "ruského",
+        "československého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ernest Bokroš",
+      "values": [
+        "lotyšského",
+        "finského",
+        "ruského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Hossa",
+      "values": [
+        "německého",
+        "slovenského",
+        "lotyšského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Peter Frühauf",
+      "values": [
+        "československého",
+        "slovenského",
+        "kanadského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

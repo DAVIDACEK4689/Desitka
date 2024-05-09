@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Astana",
+      "values": [
+        "Indie",
+        "Chorvatsko",
+        "Omán",
+        "Kazachstán"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nazaret",
+      "values": [
+        "Tunisko",
+        "Bangladéš",
+        "Portugalsko",
+        "Izrael"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sárvár",
+      "values": [
+        "Namibie",
+        "Slovensko",
+        "Maďarsko",
+        "Srbsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Salamanca",
+      "values": [
+        "Norsko",
+        "Kypr",
+        "Španělsko",
+        "Saúdská Arábie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Umag",
+      "values": [
+        "Chorvatsko",
+        "Rumunsko",
+        "Česko",
+        "Bulharsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vrútky",
+      "values": [
+        "Portugalsko",
+        "Slovensko",
+        "Gruzie",
+        "Středoafrická republika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Baalbek",
+      "values": [
+        "Laos",
+        "Libanon",
+        "Irák",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jerez de la Frontera",
+      "values": [
+        "Mongolsko",
+        "Brunej",
+        "Brazílie",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Maracaibo",
+      "values": [
+        "Venezuela",
+        "Ázerbájdžán",
+        "Island",
+        "Německo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kostanaj",
+      "values": [
+        "Malajsie",
+        "Malta",
+        "Irsko",
+        "Kazachstán"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

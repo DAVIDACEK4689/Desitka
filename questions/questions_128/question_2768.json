@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kytaristu?",
+  "questions": [
+    {
+      "key": "Wabi Daněk",
+      "values": [
+        "kanadského",
+        "finského",
+        "jihoafrického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ota Hereš",
+      "values": [
+        "českého",
+        "maďarského",
+        "mexického",
+        "jamajského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "John Frusciante",
+      "values": [
+        "amerického",
+        "britského",
+        "dánského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Daron Malakian",
+      "values": [
+        "irského",
+        "australského",
+        "amerického",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Martin Motýl",
+      "values": [
+        "slovenského",
+        "argentinského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Rímský",
+      "values": [
+        "maďarského",
+        "českého",
+        "nizozemského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tito Jackson",
+      "values": [
+        "českého",
+        "amerického",
+        "mexického",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Larry Wallis",
+      "values": [
+        "izraelského",
+        "španělského",
+        "francouzského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Don Felder",
+      "values": [
+        "jamajského",
+        "amerického",
+        "australského",
+        "argentinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Křivka",
+      "values": [
+        "slovenského",
+        "českého",
+        "jamajského",
+        "australského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

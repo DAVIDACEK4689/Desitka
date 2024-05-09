@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte kontinent podle fauny",
+  "questions": [
+    {
+      "key": "Srnec obecný",
+      "values": [
+        "Střední Amerika",
+        "Evropa",
+        "Asie",
+        "Afrika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Levhart",
+      "values": [
+        "Antarktida",
+        "Asie",
+        "Střední Amerika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vlk eurasijský",
+      "values": [
+        "Jižní Amerika",
+        "Antarktida",
+        "Evropa",
+        "Asie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Levhart mandžuský",
+      "values": [
+        "Asie",
+        "Střední Amerika",
+        "Severní Amerika",
+        "Antarktida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lachtan hřivnatý",
+      "values": [
+        "Evropa",
+        "Afrika",
+        "Jižní Amerika",
+        "Střední Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dželada",
+      "values": [
+        "Jižní Amerika",
+        "Antarktida",
+        "Afrika",
+        "Evropa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Křovinář němý",
+      "values": [
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Evropa",
+        "Střední Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Arni",
+      "values": [
+        "Severní Amerika",
+        "Střední Amerika",
+        "Evropa",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Orel bojovný",
+      "values": [
+        "Afrika",
+        "Střední Amerika",
+        "Evropa",
+        "Antarktida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tapír horský",
+      "values": [
+        "Střední Amerika",
+        "Evropa",
+        "Asie",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

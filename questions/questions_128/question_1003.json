@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Antoine Griezmann",
+      "values": [
+        "francouzského",
+        "řeckého",
+        "lucemburského",
+        "nigerijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Clarence Seedorf",
+      "values": [
+        "polského",
+        "portugalského",
+        "lucemburského",
+        "nizozemského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Philippe Coutinho",
+      "values": [
+        "brazilského",
+        "uruguayského",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lucas Hernández",
+      "values": [
+        "francouzského",
+        "nigerijského",
+        "baskického",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "John Terry",
+      "values": [
+        "anglického",
+        "srbského",
+        "mongolského",
+        "uruguayského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ashley Cole",
+      "values": [
+        "nigerijského",
+        "nizozemského",
+        "rumunského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marco Materazzi",
+      "values": [
+        "řeckého",
+        "mexického",
+        "irského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ivan Toney",
+      "values": [
+        "kanadského",
+        "anglického",
+        "irského",
+        "nigerijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Milan Černý",
+      "values": [
+        "nigerijského",
+        "lucemburského",
+        "českého",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fernando Redondo",
+      "values": [
+        "švédského",
+        "argentinského",
+        "peruánského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

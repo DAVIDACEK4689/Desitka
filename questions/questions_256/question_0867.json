@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] právníka?",
+  "questions": [
+    {
+      "key": "Daniel Křetínský",
+      "values": [
+        "ruského",
+        "britského",
+        "českého",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bill Clinton",
+      "values": [
+        "švýcarského",
+        "amerického",
+        "peruánského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gottfried Wilhelm Leibniz",
+      "values": [
+        "ruského",
+        "francouzského",
+        "německého",
+        "argentinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Mlsna",
+      "values": [
+        "švýcarského",
+        "českého",
+        "maďarského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Netolický",
+      "values": [
+        "ruského",
+        "českého",
+        "peruánského",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stanislav Polčák",
+      "values": [
+        "slovenského",
+        "rakouského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Kašpar",
+      "values": [
+        "rakouského",
+        "ruského",
+        "estonského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ludwig Czech",
+      "values": [
+        "srbského",
+        "slovinského",
+        "maďarského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Wolfgang Schäuble",
+      "values": [
+        "německého",
+        "švýcarského",
+        "peruánského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "László Sólyom",
+      "values": [
+        "lotyšského",
+        "slovenského",
+        "maďarského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

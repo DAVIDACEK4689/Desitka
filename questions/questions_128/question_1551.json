@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Kato",
+      "values": [
+        "srbského",
+        "českého",
+        "íránského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aldous Huxley",
+      "values": [
+        "anglického",
+        "islandského",
+        "australského",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladimír Kokolia",
+      "values": [
+        "českého",
+        "portugalského",
+        "slovenského",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Thomas Bernhard",
+      "values": [
+        "rakouského",
+        "italského",
+        "dánského",
+        "albánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alfred Tennyson",
+      "values": [
+        "anglického",
+        "islandského",
+        "francouzského",
+        "kubánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Kalus",
+      "values": [
+        "irského",
+        "palestinského",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Samuel Johnson",
+      "values": [
+        "mexického",
+        "ruského",
+        "anglického",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gottfried Benn",
+      "values": [
+        "anglického",
+        "německého",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Patrik Linhart",
+      "values": [
+        "českého",
+        "slovinského",
+        "albánského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Giambattista Basile",
+      "values": [
+        "britského",
+        "řeckého",
+        "francouzského",
+        "italského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

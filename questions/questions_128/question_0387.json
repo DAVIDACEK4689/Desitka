@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte město podle sportovní události",
+  "questions": [
+    {
+      "key": "Mistrovství Evropy ve fotbale 2020",
+      "values": [
+        "Barcelona",
+        "Brusel",
+        "Baku",
+        "Tel Aviv"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství Evropy ve fotbale 1976",
+      "values": [
+        "Montréal",
+        "Peking",
+        "Záhřeb",
+        "Baku"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Letní olympijské hry 2012",
+      "values": [
+        "Tel Aviv",
+        "Barcelona",
+        "Londýn",
+        "Brusel"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství světa ve fotbale 1978",
+      "values": [
+        "Santiago de Chile",
+        "Buenos Aires",
+        "Montréal",
+        "Brusel"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kanadský pohár 1976",
+      "values": [
+        "Santiago de Chile",
+        "Záhřeb",
+        "Montréal",
+        "Tel Aviv"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství Evropy v basketbalu žen 2023",
+      "values": [
+        "Peking",
+        "Barcelona",
+        "Tel Aviv",
+        "Londýn"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství světa juniorů v ledním hokeji 2017",
+      "values": [
+        "Peking",
+        "Baku",
+        "Montréal",
+        "Tel Aviv"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Letní olympijské hry 1908",
+      "values": [
+        "Santiago de Chile",
+        "Minsk",
+        "Londýn",
+        "Záhřeb"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství světa v ledním hokeji 1950",
+      "values": [
+        "Baku",
+        "Londýn",
+        "Sydney",
+        "Peking"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Finalissima 2022",
+      "values": [
+        "Baku",
+        "Záhřeb",
+        "Londýn",
+        "Montréal"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

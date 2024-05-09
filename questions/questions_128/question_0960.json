@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] muslima?",
+  "questions": [
+    {
+      "key": "Rúholláh Chomejní",
+      "values": [
+        "čínského",
+        "německého",
+        "pákistánského",
+        "íránského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gamál Násir",
+      "values": [
+        "amerického",
+        "ukrajinského",
+        "indického",
+        "egyptského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "DJ Khaled",
+      "values": [
+        "egyptského",
+        "afghánského",
+        "ugandského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hasan Rúhání",
+      "values": [
+        "kosovského",
+        "českého",
+        "íránského",
+        "chorvatského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rüstem Paša",
+      "values": [
+        "myanmarského",
+        "chorvatského",
+        "německého",
+        "čínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hamad bin Chalífa Ál Thání",
+      "values": [
+        "albánského",
+        "nigerijského",
+        "francouzského",
+        "katarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Süleyman Demirel",
+      "values": [
+        "německého",
+        "afghánského",
+        "amerického",
+        "tureckého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mos Def",
+      "values": [
+        "amerického",
+        "chorvatského",
+        "tureckého",
+        "afghánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dave Chappelle",
+      "values": [
+        "afghánského",
+        "íránského",
+        "bosenského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fateh Alí Tipú",
+      "values": [
+        "indického",
+        "řeckého",
+        "německého",
+        "myanmarského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

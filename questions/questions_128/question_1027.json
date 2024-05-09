@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Zlín",
+      "values": [
+        "Česko",
+        "Maďarsko",
+        "Polsko",
+        "Irsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Verona",
+      "values": [
+        "Belgie",
+        "Rakousko",
+        "Itálie",
+        "Slovensko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Saská Kamenice",
+      "values": [
+        "Německo",
+        "Rakousko",
+        "Slovensko",
+        "Spojené království"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bolzano",
+      "values": [
+        "Itálie",
+        "Dánsko",
+        "Slovensko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cagliari",
+      "values": [
+        "Spojené království",
+        "Belgie",
+        "Irsko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bayreuth",
+      "values": [
+        "Dánsko",
+        "Itálie",
+        "Německo",
+        "Irsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Osnabrück",
+      "values": [
+        "Irsko",
+        "Rakousko",
+        "Německo",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stirling",
+      "values": [
+        "Nizozemsko",
+        "Slovensko",
+        "Irsko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Évora",
+      "values": [
+        "Itálie",
+        "Maďarsko",
+        "Portugalsko",
+        "Dánsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Colchester",
+      "values": [
+        "Spojené království",
+        "Německo",
+        "Polsko",
+        "Irsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

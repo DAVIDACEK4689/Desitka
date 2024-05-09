@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Břečťan",
+      "values": [
+        "Brazílie",
+        "Mongolsko",
+        "Japonsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mochna husí",
+      "values": [
+        "Madagaskar",
+        "Austrálie",
+        "Mongolsko",
+        "Japonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Psárka luční",
+      "values": [
+        "Madagaskar",
+        "Brazílie",
+        "Mongolsko",
+        "Mexiko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Blýskalka",
+      "values": [
+        "Mexiko",
+        "Austrálie",
+        "Mongolsko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kokořík vonný",
+      "values": [
+        "Japonsko",
+        "Austrálie",
+        "Česko",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Brambořík nachový",
+      "values": [
+        "Česko",
+        "Nový Zéland",
+        "Mexiko",
+        "Brazílie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lufa válcovitá",
+      "values": [
+        "Česko",
+        "Brazílie",
+        "Austrálie",
+        "Mexiko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jetel prostřední",
+      "values": [
+        "Austrálie",
+        "Česko",
+        "Japonsko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Baobab Grandidiérův",
+      "values": [
+        "Česko",
+        "Nový Zéland",
+        "Austrálie",
+        "Madagaskar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bahnička jedlá",
+      "values": [
+        "Brazílie",
+        "Madagaskar",
+        "Česko",
+        "Austrálie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

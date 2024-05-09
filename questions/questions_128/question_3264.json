@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte kontinent podle souostroví",
+  "questions": [
+    {
+      "key": "Faerské ostrovy",
+      "values": [
+        "Evropa",
+        "Asie",
+        "Jižní Amerika",
+        "Antarktida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Galapágy",
+      "values": [
+        "Afrika",
+        "Asie",
+        "Antarktida",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kurilské ostrovy",
+      "values": [
+        "Asie",
+        "Jižní Amerika",
+        "Evropa",
+        "Afrika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tristan da Cunha",
+      "values": [
+        "Evropa",
+        "Jižní Amerika",
+        "Afrika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Britské Panenské ostrovy",
+      "values": [
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Asie",
+        "Afrika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Anguilla",
+      "values": [
+        "Severní Amerika",
+        "Antarktida",
+        "Evropa",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Madeira",
+      "values": [
+        "Afrika",
+        "Jižní Amerika",
+        "Asie",
+        "Severní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kanadské arktické souostroví",
+      "values": [
+        "Severní Amerika",
+        "Antarktida",
+        "Afrika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Novosibiřské ostrovy",
+      "values": [
+        "Evropa",
+        "Afrika",
+        "Jižní Amerika",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "The World",
+      "values": [
+        "Severní Amerika",
+        "Antarktida",
+        "Asie",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

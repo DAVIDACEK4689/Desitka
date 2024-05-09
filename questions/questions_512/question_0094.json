@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Ramen",
+      "values": [
+        "japonskou",
+        "francouzskou",
+        "brazilskou",
+        "americkou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paella",
+      "values": [
+        "židovskou",
+        "anglickou",
+        "španělskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rizoto",
+      "values": [
+        "slovenskou",
+        "italskou",
+        "belgickou",
+        "brazilskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Turecká káva",
+      "values": [
+        "arabskou",
+        "arménskou",
+        "slovenskou",
+        "korejskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vejce Benedikt",
+      "values": [
+        "americkou",
+        "skotskou",
+        "slovenskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pastis",
+      "values": [
+        "belgickou",
+        "australskou",
+        "středomořskou",
+        "francouzskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Císařský trhanec",
+      "values": [
+        "italskou",
+        "ukrajinskou",
+        "arabskou",
+        "rakouskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marmite",
+      "values": [
+        "britskou",
+        "korejskou",
+        "islandskou",
+        "rakouskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sašimi",
+      "values": [
+        "japonskou",
+        "středomořskou",
+        "arménskou",
+        "indickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Currywurst",
+      "values": [
+        "německou",
+        "francouzskou",
+        "rakouskou",
+        "řeckou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

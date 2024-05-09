@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "John Ronald Reuel Tolkien",
+      "values": [
+        "amerického",
+        "anglického",
+        "portugalského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Guillaume Apollinaire",
+      "values": [
+        "francouzského",
+        "ruského",
+        "indického",
+        "vietnamského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Friedrich Schiller",
+      "values": [
+        "německého",
+        "amerického",
+        "francouzského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bertolt Brecht",
+      "values": [
+        "německého",
+        "rumunského",
+        "českého",
+        "kubánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sylvia Plathová",
+      "values": [
+        "dánského",
+        "amerického",
+        "francouzského",
+        "skotského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivan Andrejevič Krylov",
+      "values": [
+        "španělského",
+        "vietnamského",
+        "ruského",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Margaret Atwoodová",
+      "values": [
+        "ruského",
+        "kanadského",
+        "italského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Václav Kotva",
+      "values": [
+        "českého",
+        "kubánského",
+        "irského",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Wisława Szymborská",
+      "values": [
+        "anglického",
+        "ukrajinského",
+        "polského",
+        "perského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cesare Pavese",
+      "values": [
+        "polského",
+        "rumunského",
+        "italského",
+        "kubánského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

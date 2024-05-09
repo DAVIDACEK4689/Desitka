@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva u Verdunu",
+      "values": [
+        "1916",
+        "1813",
+        "1881",
+        "2001"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Obléhání Tobruku",
+      "values": [
+        "1941",
+        "1571",
+        "1877",
+        "1396"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Obléhání Bastogne",
+      "values": [
+        "1756",
+        "1944",
+        "1176",
+        "1420"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Domašova",
+      "values": [
+        "1332",
+        "1758",
+        "1431",
+        "1307"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva v ústí Šeldy",
+      "values": [
+        "1380",
+        "1938",
+        "1461",
+        "1944"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Guadalcanalu",
+      "values": [
+        "878",
+        "1917",
+        "1697",
+        "1942"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stodenní ofenzíva",
+      "values": [
+        "1968",
+        "1451",
+        "1918",
+        "1526"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pevnost Ticonderoga",
+      "values": [
+        "1565",
+        "1775",
+        "1444",
+        "1424"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Buzuluku",
+      "values": [
+        "1451",
+        "1918",
+        "1437",
+        "1664"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Vyškova",
+      "values": [
+        "1807",
+        "1380",
+        "1805",
+        "1647"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

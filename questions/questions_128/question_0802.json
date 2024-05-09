@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Kulajda",
+      "values": [
+        "indonéskou",
+        "vietnamskou",
+        "balkánskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mezcal",
+      "values": [
+        "židovskou",
+        "mexickou",
+        "belgickou",
+        "portugalskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mortadela",
+      "values": [
+        "arménskou",
+        "tureckou",
+        "polskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Moravský vrabec",
+      "values": [
+        "italskou",
+        "britskou",
+        "mexickou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Anglická snídaně",
+      "values": [
+        "indickou",
+        "čínskou",
+        "britskou",
+        "litevskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Topinka",
+      "values": [
+        "dominikánskou",
+        "skotskou",
+        "řeckou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gose",
+      "values": [
+        "finskou",
+        "arménskou",
+        "indickou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cheeseburger",
+      "values": [
+        "laoskou",
+        "americkou",
+        "ukrajinskou",
+        "finskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kruton",
+      "values": [
+        "chorvatskou",
+        "německou",
+        "francouzskou",
+        "arabskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hematogen",
+      "values": [
+        "perskou",
+        "italskou",
+        "ruskou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

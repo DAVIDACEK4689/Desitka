@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalového trenéra?",
+  "questions": [
+    {
+      "key": "Diego Maradona",
+      "values": [
+        "argentinského",
+        "portugalského",
+        "dánského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Antonín Panenka",
+      "values": [
+        "německého",
+        "maďarského",
+        "argentinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miroslav Koubek",
+      "values": [
+        "španělského",
+        "německého",
+        "českého",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vítězslav Lavička",
+      "values": [
+        "skotského",
+        "portugalského",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jürgen Klopp",
+      "values": [
+        "slovenského",
+        "skotského",
+        "australského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Franz Beckenbauer",
+      "values": [
+        "českého",
+        "německého",
+        "portugalského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marek Heinz",
+      "values": [
+        "českého",
+        "dánského",
+        "australského",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zdeněk Ščasný",
+      "values": [
+        "dánského",
+        "australského",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Erik ten Hag",
+      "values": [
+        "slovenského",
+        "dánského",
+        "argentinského",
+        "nizozemského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mauricio Pochettino",
+      "values": [
+        "dánského",
+        "italského",
+        "argentinského",
+        "skotského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

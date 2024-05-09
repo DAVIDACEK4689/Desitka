@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] televizní film?",
+  "questions": [
+    {
+      "key": "Jak dostat tatínka do polepšovny",
+      "values": [
+        "kanadský",
+        "československý",
+        "slovenský",
+        "český"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jak vytrhnout velrybě stoličku",
+      "values": [
+        "český",
+        "československý",
+        "slovenský",
+        "kanadský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nebojsa",
+      "values": [
+        "slovenský",
+        "americký",
+        "československý",
+        "český"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Šťastný smolař",
+      "values": [
+        "americký",
+        "český",
+        "slovenský",
+        "kanadský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Princové jsou na draka",
+      "values": [
+        "československý",
+        "americký",
+        "kanadský",
+        "český"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zázračný nos",
+      "values": [
+        "slovenský",
+        "československý",
+        "americký",
+        "český"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dobře placená procházka",
+      "values": [
+        "kanadský",
+        "československý",
+        "americký",
+        "slovenský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "O štěstí a kráse",
+      "values": [
+        "americký",
+        "československý",
+        "český",
+        "kanadský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Osmy",
+      "values": [
+        "československý",
+        "kanadský",
+        "český",
+        "slovenský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ohnivé ženy",
+      "values": [
+        "československý",
+        "americký",
+        "český",
+        "slovenský"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

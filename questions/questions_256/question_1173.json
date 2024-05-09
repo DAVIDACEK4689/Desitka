@@ -1,0 +1,105 @@
+{
+  "text": "Určete bojiště podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva u Waterloo",
+      "values": [
+        "Belgie",
+        "Ukrajina",
+        "Egypt",
+        "Španělsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva v Teutoburském lese",
+      "values": [
+        "Albánie",
+        "Bělorusko",
+        "Sasko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Dunkerque",
+      "values": [
+        "Francie",
+        "Bělorusko",
+        "Rakousko",
+        "Japonsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Hattínu",
+      "values": [
+        "Španělsko",
+        "Izrael",
+        "Belgie",
+        "Norsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kapitulace u Világoše",
+      "values": [
+        "Finsko",
+        "Chorvatsko",
+        "Rumunsko",
+        "Belgie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Gravelines",
+      "values": [
+        "Belgie",
+        "Francie",
+        "Estonsko",
+        "Izrael"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Caporetta",
+      "values": [
+        "Slovinsko",
+        "Německo",
+        "Bulharsko",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Doss Alto",
+      "values": [
+        "Egypt",
+        "Estonsko",
+        "Itálie",
+        "Súdán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Friedlandu",
+      "values": [
+        "Papua Nová Guinea",
+        "Rusko",
+        "Španělsko",
+        "Irák"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Valmy",
+      "values": [
+        "Mongolsko",
+        "Sasko",
+        "Slovinsko",
+        "Francie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] videohru?",
+  "questions": [
+    {
+      "key": "League of Legends",
+      "values": [
+        "francouzskou",
+        "slovenskou",
+        "běloruskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "War Thunder",
+      "values": [
+        "kanadskou",
+        "švédskou",
+        "ruskou",
+        "dánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Metro Exodus",
+      "values": [
+        "ukrajinskou",
+        "nizozemskou",
+        "polskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mortal Kombat 1",
+      "values": [
+        "švédskou",
+        "srbskou",
+        "rakouskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Far Cry 3",
+      "values": [
+        "australskou",
+        "ukrajinskou",
+        "islandskou",
+        "kanadskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bloodborne",
+      "values": [
+        "japonskou",
+        "švédskou",
+        "rakouskou",
+        "kanadskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dead by Daylight",
+      "values": [
+        "dánskou",
+        "jihokorejskou",
+        "kanadskou",
+        "čínskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Civilization IV",
+      "values": [
+        "rakouskou",
+        "slovenskou",
+        "kanadskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dark Souls III",
+      "values": [
+        "japonskou",
+        "jihokorejskou",
+        "americkou",
+        "australskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Need for Speed Heat",
+      "values": [
+        "japonskou",
+        "britskou",
+        "švédskou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

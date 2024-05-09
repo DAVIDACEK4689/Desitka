@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "František Ringo Čech",
+      "values": [
+        "italského",
+        "nizozemského",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lemmy",
+      "values": [
+        "německého",
+        "mexického",
+        "britského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Slávek Janda",
+      "values": [
+        "českého",
+        "alžírského",
+        "uruguayského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rudolf Antonín Dvorský",
+      "values": [
+        "českého",
+        "sovětského",
+        "polského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Buddy Holly",
+      "values": [
+        "chorvatského",
+        "amerického",
+        "brazilského",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fanda Mrázek",
+      "values": [
+        "českého",
+        "slovenského",
+        "polského",
+        "jihoafrického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pepper Keenan",
+      "values": [
+        "polského",
+        "mexického",
+        "rakouského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alberto Sordi",
+      "values": [
+        "italského",
+        "novozélandského",
+        "belgického",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Brandon Flowers",
+      "values": [
+        "japonského",
+        "kolumbijského",
+        "amerického",
+        "jamajského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Timo Kotipelto",
+      "values": [
+        "finského",
+        "norského",
+        "brazilského",
+        "německého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Michael Jackson",
+      "values": [
+        "rakouského",
+        "amerického",
+        "jihokorejského",
+        "moldavského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "The Weeknd",
+      "values": [
+        "kanadského",
+        "argentinského",
+        "amerického",
+        "kolumbijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Hašler",
+      "values": [
+        "švédského",
+        "ruského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jožka Černý",
+      "values": [
+        "belgického",
+        "českého",
+        "jamajského",
+        "moldavského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bella Ramsey",
+      "values": [
+        "britského",
+        "kolumbijského",
+        "italského",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bourvil",
+      "values": [
+        "kanadského",
+        "francouzského",
+        "jihokorejského",
+        "skotského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vojtěch Nedvěd",
+      "values": [
+        "amerického",
+        "sovětského",
+        "irského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jonathan Davis",
+      "values": [
+        "islandského",
+        "norského",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sebastian Bach",
+      "values": [
+        "českého",
+        "portorického",
+        "kanadského",
+        "skotského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Neil Diamond",
+      "values": [
+        "dánského",
+        "amerického",
+        "argentinského",
+        "norského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

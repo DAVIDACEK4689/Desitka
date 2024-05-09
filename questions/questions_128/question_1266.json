@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Krakov",
+      "values": [
+        "Nizozemsko",
+        "Portugalsko",
+        "Slovensko",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Katovice",
+      "values": [
+        "Polsko",
+        "Itálie",
+        "Slovensko",
+        "Irsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Görlitz",
+      "values": [
+        "Slovensko",
+        "Polsko",
+        "Německo",
+        "Maďarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cambridge",
+      "values": [
+        "Polsko",
+        "Německo",
+        "Spojené království",
+        "Maďarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Parma",
+      "values": [
+        "Maďarsko",
+        "Portugalsko",
+        "Belgie",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Freiburg im Breisgau",
+      "values": [
+        "Německo",
+        "Irsko",
+        "Portugalsko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Saarbrücken",
+      "values": [
+        "Dánsko",
+        "Německo",
+        "Irsko",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Schweinfurt",
+      "values": [
+        "Nizozemsko",
+        "Belgie",
+        "Spojené království",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tübingen",
+      "values": [
+        "Česko",
+        "Rakousko",
+        "Polsko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Enschede",
+      "values": [
+        "Polsko",
+        "Dánsko",
+        "Rakousko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

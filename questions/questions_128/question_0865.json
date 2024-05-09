@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte rok podle katastrofy",
+  "questions": [
+    {
+      "key": "Masakr v My Lai",
+      "values": [
+        "1945",
+        "2017",
+        "1919",
+        "1968"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Havárie elektrárny Three Mile Island",
+      "values": [
+        "1979",
+        "1940",
+        "2019",
+        "1934"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bouře Daniel",
+      "values": [
+        "1987",
+        "2023",
+        "1912",
+        "2018"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Love Parade",
+      "values": [
+        "1921",
+        "1966",
+        "2010",
+        "1986"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tornádo v Litovli",
+      "values": [
+        "1902",
+        "2004",
+        "1940",
+        "2015"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sellafield",
+      "values": [
+        "1957",
+        "2007",
+        "1974",
+        "1968"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nevado del Ruiz",
+      "values": [
+        "2004",
+        "1985",
+        "1954",
+        "2002"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nehoda českých umělců v Mongolsku",
+      "values": [
+        "1968",
+        "1912",
+        "1934",
+        "1974"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nyos",
+      "values": [
+        "1986",
+        "1966",
+        "1995",
+        "1971"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zřícení paletových regálů v Bezděčíně",
+      "values": [
+        "1917",
+        "2008",
+        "1987",
+        "2014"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

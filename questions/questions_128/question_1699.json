@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] svatého?",
+  "questions": [
+    {
+      "key": "Svatý Patrik",
+      "values": [
+        "řeckého",
+        "irského",
+        "velšského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Terezie od Ježíše",
+      "values": [
+        "španělského",
+        "mexického",
+        "ugandského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kateřina Sienská",
+      "values": [
+        "italského",
+        "řeckého",
+        "slovenského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Taťána Nikolajevna",
+      "values": [
+        "španělského",
+        "řeckého",
+        "německého",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Beda Ctihodný",
+      "values": [
+        "srbského",
+        "portugalského",
+        "anglického",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Vianney",
+      "values": [
+        "arménského",
+        "francouzského",
+        "ugandského",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivo Bretaňský",
+      "values": [
+        "francouzského",
+        "španělského",
+        "českého",
+        "velšského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Svatý Eligius",
+      "values": [
+        "francouzského",
+        "španělského",
+        "polského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chrodechilda",
+      "values": [
+        "nizozemského",
+        "španělského",
+        "irského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josafat Kuncevič",
+      "values": [
+        "srbského",
+        "ukrajinského",
+        "nizozemského",
+        "ugandského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

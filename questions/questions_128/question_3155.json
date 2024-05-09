@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Ben Cristovao",
+      "values": [
+        "britského",
+        "českého",
+        "argentinského",
+        "gruzínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavol Habera",
+      "values": [
+        "slovenského",
+        "gruzínského",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jakub Děkan",
+      "values": [
+        "finského",
+        "českého",
+        "sovětského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Robert Nebřenský",
+      "values": [
+        "českého",
+        "nizozemského",
+        "jihoafrického",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bernie Shaw",
+      "values": [
+        "srbského",
+        "kolumbijského",
+        "kanadského",
+        "jamajského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Basshunter",
+      "values": [
+        "švédského",
+        "alžírského",
+        "ruského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Milan Devinne",
+      "values": [
+        "norského",
+        "irského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Howie Dorough",
+      "values": [
+        "amerického",
+        "slovenského",
+        "německého",
+        "izraelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Bartoň",
+      "values": [
+        "českého",
+        "skotského",
+        "alžírského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gilberto Gil",
+      "values": [
+        "srbského",
+        "brazilského",
+        "izraelského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

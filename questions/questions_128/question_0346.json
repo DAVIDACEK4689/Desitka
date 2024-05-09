@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Boj v kostele svatých Cyrila a Metoděje",
+      "values": [
+        "1431",
+        "1942",
+        "1396",
+        "1871"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Hattínu",
+      "values": [
+        "1461",
+        "1915",
+        "1814",
+        "1187"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Bouvines",
+      "values": [
+        "1437",
+        "1214",
+        "1421",
+        "1420"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Aspern a Esslingu",
+      "values": [
+        "1809",
+        "907",
+        "1988",
+        "1876"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Gorlice",
+      "values": [
+        "1915",
+        "1419",
+        "1014",
+        "1565"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Vittorio Veneta",
+      "values": [
+        "1918",
+        "1431",
+        "1877",
+        "1422"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Rozvadova",
+      "values": [
+        "1647",
+        "1621",
+        "1456",
+        "805"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Legnana",
+      "values": [
+        "1176",
+        "1526",
+        "1214",
+        "805"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva o Moravskou Chrastovou",
+      "values": [
+        "1430",
+        "1938",
+        "1240",
+        "1618"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Operace Vojevůdce Rumjancev",
+      "values": [
+        "1943",
+        "1527",
+        "1297",
+        "1916"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

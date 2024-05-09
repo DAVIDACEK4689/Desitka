@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] vězně?",
+  "questions": [
+    {
+      "key": "Adolf Hitler",
+      "values": [
+        "ruského",
+        "německého",
+        "francouzského",
+        "běloruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaroslav a Dana Stodolovi",
+      "values": [
+        "sovětského",
+        "íránského",
+        "českého",
+        "běloruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jindřich z Lipé",
+      "values": [
+        "izraelského",
+        "českého",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Igor Girkin",
+      "values": [
+        "německého",
+        "íránského",
+        "ruského",
+        "velšského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bohumil Hasil",
+      "values": [
+        "francouzského",
+        "amerického",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Baldur von Schirach",
+      "values": [
+        "izraelského",
+        "ruského",
+        "rakouského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ian Watkins",
+      "values": [
+        "ruského",
+        "rakouského",
+        "velšského",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nicolas Fouquet",
+      "values": [
+        "ruského",
+        "francouzského",
+        "velšského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Max Hardcore",
+      "values": [
+        "německého",
+        "běloruského",
+        "rakouského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alexandros Ypsilanti",
+      "values": [
+        "rakouského",
+        "sovětského",
+        "norského",
+        "běloruského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

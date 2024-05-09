@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Pavel Bobek",
+      "values": [
+        "venezuelského",
+        "brazilského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Václav Lohniský",
+      "values": [
+        "čínského",
+        "slovenského",
+        "českého",
+        "tureckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rudolf Deyl mladší",
+      "values": [
+        "českého",
+        "belgického",
+        "španělského",
+        "guatemalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Billy Ray Cyrus",
+      "values": [
+        "japonského",
+        "portorického",
+        "amerického",
+        "tureckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Finn Wolfhard",
+      "values": [
+        "australského",
+        "kanadského",
+        "jihoafrického",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexander Rybak",
+      "values": [
+        "japonského",
+        "marockého",
+        "norského",
+        "chilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vilém Besser",
+      "values": [
+        "belgického",
+        "irského",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gary Cooper",
+      "values": [
+        "amerického",
+        "britského",
+        "mexického",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Roman Mrázik",
+      "values": [
+        "slovenského",
+        "švédského",
+        "guatemalského",
+        "jamajského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David Wenham",
+      "values": [
+        "jihokorejského",
+        "sovětského",
+        "australského",
+        "chilského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

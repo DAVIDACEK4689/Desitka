@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] sériového vraha?",
+  "questions": [
+    {
+      "key": "Ted Bundy",
+      "values": [
+        "ukrajinského",
+        "amerického",
+        "italského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Christopher Scarver",
+      "values": [
+        "českého",
+        "ukrajinského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Richard Ramirez",
+      "values": [
+        "amerického",
+        "ukrajinského",
+        "německého",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karla Homolka",
+      "values": [
+        "kolumbijského",
+        "ruského",
+        "britského",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dennis Nilsen",
+      "values": [
+        "britského",
+        "francouzského",
+        "kanadského",
+        "kolumbijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Harold Shipman",
+      "values": [
+        "belgického",
+        "německého",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rodney Alcala",
+      "values": [
+        "kanadského",
+        "amerického",
+        "německého",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fritz Haarmann",
+      "values": [
+        "ukrajinského",
+        "amerického",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vrahové z močálů",
+      "values": [
+        "britského",
+        "českého",
+        "belgického",
+        "kolumbijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Joachim Kroll",
+      "values": [
+        "německého",
+        "ruského",
+        "ukrajinského",
+        "italského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

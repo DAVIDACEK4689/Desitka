@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Alena Mornštajnová",
+      "values": [
+        "brazilského",
+        "českého",
+        "španělského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bertolt Brecht",
+      "values": [
+        "německého",
+        "černohorského",
+        "nigerijského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Justine Musk",
+      "values": [
+        "mexického",
+        "polského",
+        "albánského",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dietrich Eckart",
+      "values": [
+        "japonského",
+        "německého",
+        "paraguayského",
+        "íránského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vladimir Sergejevič Solovjov",
+      "values": [
+        "izraelského",
+        "čínského",
+        "švýcarského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Katerina Janouch",
+      "values": [
+        "čínského",
+        "nigerijského",
+        "švédského",
+        "izraelského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zviad Gamsachurdia",
+      "values": [
+        "gruzínského",
+        "ázerbájdžánského",
+        "íránského",
+        "islandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sigrid Undsetová",
+      "values": [
+        "norského",
+        "slovinského",
+        "nizozemského",
+        "ázerbájdžánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Pištora",
+      "values": [
+        "rakouského",
+        "peruánského",
+        "českého",
+        "guatemalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomáš Janovic",
+      "values": [
+        "slovenského",
+        "belgického",
+        "čínského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

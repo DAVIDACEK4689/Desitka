@@ -1,0 +1,105 @@
+{
+  "text": "Určete etnický původ podle Čecha",
+  "questions": [
+    {
+      "key": "Jana Černochová",
+      "values": [
+        "polský původ",
+        "japonský původ",
+        "britský původ",
+        "ukrajinský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alice Masaryková",
+      "values": [
+        "francouzský původ",
+        "asijský původ",
+        "slovenský původ",
+        "etiopský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladimír Mišík",
+      "values": [
+        "francouzský původ",
+        "slovenský původ",
+        "ruský původ",
+        "afghánský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ektor",
+      "values": [
+        "slovenský původ",
+        "britský původ",
+        "řecký původ",
+        "ukrajinský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hana Hegerová",
+      "values": [
+        "syrský původ",
+        "slovenský původ",
+        "polský původ",
+        "makedonský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jana Michailidu",
+      "values": [
+        "srbský původ",
+        "řecký původ",
+        "židovský původ",
+        "běloruský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Livia Klausová",
+      "values": [
+        "slovenský původ",
+        "etiopský původ",
+        "makedonský původ",
+        "britský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexander Choupenitch",
+      "values": [
+        "syrský původ",
+        "maďarský původ",
+        "běloruský původ",
+        "makedonský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexandra Udženija",
+      "values": [
+        "srbský původ",
+        "britský původ",
+        "makedonský původ",
+        "afghánský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Adriana Krnáčová",
+      "values": [
+        "japonský původ",
+        "slovenský původ",
+        "etiopský původ",
+        "britský původ"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

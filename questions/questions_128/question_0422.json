@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] dramatický film?",
+  "questions": [
+    {
+      "key": "Spalovač mrtvol",
+      "values": [
+        "český",
+        "japonský",
+        "britský",
+        "novozélandský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rocketman",
+      "values": [
+        "francouzský",
+        "novozélandský",
+        "australský",
+        "britský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fabelmanovi",
+      "values": [
+        "československý",
+        "americký",
+        "estonský",
+        "švédský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kočár do Vídně",
+      "values": [
+        "kanadský",
+        "český",
+        "americký",
+        "estonský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "3 sezóny v pekle",
+      "values": [
+        "mexický",
+        "český",
+        "československý",
+        "americký"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hvězda zvaná Pelyněk",
+      "values": [
+        "estonský",
+        "československý",
+        "španělský",
+        "slovenský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Moskva slzám nevěří",
+      "values": [
+        "sovětský",
+        "mexický",
+        "francouzský",
+        "japonský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chicagský tribunál",
+      "values": [
+        "španělský",
+        "izraelský",
+        "estonský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pohádkář",
+      "values": [
+        "estonský",
+        "americký",
+        "izraelský",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Intolerance",
+      "values": [
+        "československý",
+        "americký",
+        "novozélandský",
+        "švédský"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistku?",
+  "questions": [
+    {
+      "key": "Elina Svitolinová",
+      "values": [
+        "argentinskou",
+        "rumunskou",
+        "ukrajinskou",
+        "polskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dominika Cibulková",
+      "values": [
+        "slovenskou",
+        "ruskou",
+        "španělskou",
+        "japonskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jekatěrina Alexandrovová",
+      "values": [
+        "rumunskou",
+        "československou",
+        "ruskou",
+        "běloruskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Danielle Collinsová",
+      "values": [
+        "indickou",
+        "americkou",
+        "zimbabwskou",
+        "estonskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Amélie Mauresmová",
+      "values": [
+        "dánskou",
+        "tuniskou",
+        "francouzskou",
+        "estonskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sloane Stephensová",
+      "values": [
+        "maďarskou",
+        "španělskou",
+        "estonskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aljaksandra Sasnovičová",
+      "values": [
+        "řeckou",
+        "běloruskou",
+        "čínskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lesja Curenková",
+      "values": [
+        "ukrajinskou",
+        "americkou",
+        "dánskou",
+        "argentinskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Adriana Gerši",
+      "values": [
+        "francouzskou",
+        "australskou",
+        "českou",
+        "rumunskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Emma Navarrová",
+      "values": [
+        "polskou",
+        "řeckou",
+        "americkou",
+        "švýcarskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

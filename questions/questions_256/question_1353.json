@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] ledního hokejistu?",
+  "questions": [
+    {
+      "key": "Alois Hadamczik",
+      "values": [
+        "finského",
+        "rakouského",
+        "československého",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roman Málek",
+      "values": [
+        "českého",
+        "slovenského",
+        "slovinského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Doug Weight",
+      "values": [
+        "slovenského",
+        "amerického",
+        "lotyšského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Luděk Bukač",
+      "values": [
+        "československého",
+        "švýcarského",
+        "kanadského",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Bubla",
+      "values": [
+        "finského",
+        "československého",
+        "sovětského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paul Coffey",
+      "values": [
+        "kanadského",
+        "německého",
+        "lotyšského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jari Kurri",
+      "values": [
+        "rakouského",
+        "lotyšského",
+        "finského",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marek Kvapil",
+      "values": [
+        "slovinského",
+        "československého",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Börje Salming",
+      "values": [
+        "rakouského",
+        "slovinského",
+        "švédského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Taylor Hall",
+      "values": [
+        "kanadského",
+        "českého",
+        "lotyšského",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

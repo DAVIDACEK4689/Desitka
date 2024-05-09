@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Budapešť",
+      "values": [
+        "Portugalsko",
+        "Slovensko",
+        "Dánsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Frankfurt nad Mohanem",
+      "values": [
+        "Dánsko",
+        "Německo",
+        "Polsko",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Manchester",
+      "values": [
+        "Česko",
+        "Slovensko",
+        "Spojené království",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Birmingham",
+      "values": [
+        "Česko",
+        "Spojené království",
+        "Německo",
+        "Irsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ulm",
+      "values": [
+        "Německo",
+        "Maďarsko",
+        "Dánsko",
+        "Rakousko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kiel",
+      "values": [
+        "Slovensko",
+        "Dánsko",
+        "Rakousko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Koblenz",
+      "values": [
+        "Německo",
+        "Maďarsko",
+        "Rakousko",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Delft",
+      "values": [
+        "Rakousko",
+        "Nizozemsko",
+        "Itálie",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Erlangen",
+      "values": [
+        "Německo",
+        "Maďarsko",
+        "Irsko",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Aalborg",
+      "values": [
+        "Dánsko",
+        "Nizozemsko",
+        "Česko",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

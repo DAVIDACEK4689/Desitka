@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Bratislava",
+      "values": [
+        "Spojené království",
+        "Irsko",
+        "Itálie",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Řezno",
+      "values": [
+        "Německo",
+        "Irsko",
+        "Dánsko",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stuttgart",
+      "values": [
+        "Německo",
+        "Česko",
+        "Dánsko",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bonn",
+      "values": [
+        "Německo",
+        "Česko",
+        "Spojené království",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kremže",
+      "values": [
+        "Maďarsko",
+        "Slovensko",
+        "Nizozemsko",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cardiff",
+      "values": [
+        "Česko",
+        "Nizozemsko",
+        "Slovensko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Řešov",
+      "values": [
+        "Slovensko",
+        "Nizozemsko",
+        "Polsko",
+        "Dánsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Braga",
+      "values": [
+        "Polsko",
+        "Nizozemsko",
+        "Belgie",
+        "Portugalsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Schweinfurt",
+      "values": [
+        "Polsko",
+        "Spojené království",
+        "Portugalsko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lüneburg",
+      "values": [
+        "Slovensko",
+        "Itálie",
+        "Česko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

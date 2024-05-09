@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Yvonne Přenosilová",
+      "values": [
+        "nizozemskou",
+        "australskou",
+        "českou",
+        "brazilskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zuzana Norisová",
+      "values": [
+        "islandskou",
+        "slovenskou",
+        "švédskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adéla Elbel",
+      "values": [
+        "českou",
+        "francouzskou",
+        "nizozemskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karolina Neuvirthová",
+      "values": [
+        "ukrajinskou",
+        "irskou",
+        "maďarskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lenka Kořínková",
+      "values": [
+        "ukrajinskou",
+        "českou",
+        "peruánskou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zdenka Tichotová",
+      "values": [
+        "kanadskou",
+        "švýcarskou",
+        "českou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jana Petrů",
+      "values": [
+        "českou",
+        "brazilskou",
+        "finskou",
+        "irskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sheryl Crow",
+      "values": [
+        "kanadskou",
+        "francouzskou",
+        "americkou",
+        "mexickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marie Laforêtová",
+      "values": [
+        "australskou",
+        "francouzskou",
+        "irskou",
+        "brazilskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Idina Menzel",
+      "values": [
+        "australskou",
+        "peruánskou",
+        "francouzskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

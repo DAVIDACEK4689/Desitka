@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Whitney Houston",
+      "values": [
+        "španělskou",
+        "finskou",
+        "americkou",
+        "irskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Soňa Červená",
+      "values": [
+        "německou",
+        "českou",
+        "americkou",
+        "peruánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Judy Garlandová",
+      "values": [
+        "americkou",
+        "barbadoskou",
+        "švýcarskou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Věra Křesadlová",
+      "values": [
+        "japonskou",
+        "mexickou",
+        "norskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dorota Nvotová",
+      "values": [
+        "australskou",
+        "slovenskou",
+        "norskou",
+        "peruánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zuzana Michnová",
+      "values": [
+        "australskou",
+        "irskou",
+        "jihokorejskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Magdalena Dvořáková",
+      "values": [
+        "australskou",
+        "izraelskou",
+        "španělskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Taylor Momsen",
+      "values": [
+        "finskou",
+        "ruskou",
+        "francouzskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Melanie Thornton",
+      "values": [
+        "peruánskou",
+        "německou",
+        "izraelskou",
+        "novozélandskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Leona Lewis",
+      "values": [
+        "nizozemskou",
+        "jihokorejskou",
+        "kanadskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] literární dílo?",
+  "questions": [
+    {
+      "key": "Malý princ",
+      "values": [
+        "francouzské",
+        "anglické",
+        "velšské",
+        "ruské"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tristan a Isolda",
+      "values": [
+        "anglické",
+        "finské",
+        "italské",
+        "francouzské"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Komunistický manifest",
+      "values": [
+        "anglické",
+        "německé",
+        "rakouské",
+        "japonské"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Egypťan Sinuhet",
+      "values": [
+        "rakouské",
+        "čínské",
+        "finské",
+        "americké"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Carmina Burana",
+      "values": [
+        "francouzské",
+        "velšské",
+        "německé",
+        "finské"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Souostroví Gulag",
+      "values": [
+        "rakouské",
+        "české",
+        "americké",
+        "ruské"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Moc bezmocných",
+      "values": [
+        "české",
+        "finské",
+        "čínské",
+        "rakouské"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chansons de geste",
+      "values": [
+        "francouzské",
+        "rakouské",
+        "české",
+        "nizozemské"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Siddhartha",
+      "values": [
+        "německé",
+        "anglické",
+        "americké",
+        "japonské"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Prométheova játra",
+      "values": [
+        "italské",
+        "rakouské",
+        "americké",
+        "české"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

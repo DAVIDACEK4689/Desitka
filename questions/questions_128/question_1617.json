@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle amerického sportovce",
+  "questions": [
+    {
+      "key": "Benjamin Franklin",
+      "values": [
+        "tenista",
+        "šachista",
+        "parašutista",
+        "golfista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Babe Ruth",
+      "values": [
+        "automobilový závodník",
+        "baseballisté",
+        "tenista",
+        "horolezec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mike Modano",
+      "values": [
+        "bobista",
+        "automobilový závodník",
+        "lední hokejista",
+        "horolezec"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andy Roddick",
+      "values": [
+        "zápasník",
+        "tenista",
+        "boxer",
+        "lední hokejista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Frances Tiafoe",
+      "values": [
+        "boxer",
+        "parašutista",
+        "cyklista",
+        "tenista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zion Williamson",
+      "values": [
+        "cyklista",
+        "basketbalista",
+        "zápasník",
+        "golfista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jack Eichel",
+      "values": [
+        "lední hokejista",
+        "šachista",
+        "boxer",
+        "zápasník"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fabiano Caruana",
+      "values": [
+        "horolezec",
+        "šachista",
+        "boxer",
+        "zápasník"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Max Baer",
+      "values": [
+        "zápasník",
+        "basketbalista",
+        "golfista",
+        "boxer"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Julius Erving",
+      "values": [
+        "basketbalista",
+        "šachista",
+        "boxer",
+        "automobilový závodník"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

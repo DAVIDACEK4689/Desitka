@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle povstání",
+  "questions": [
+    {
+      "key": "Husitské války",
+      "values": [
+        "Československo",
+        "Česko",
+        "Slovensko",
+        "Irsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Varšavské povstání",
+      "values": [
+        "Slovensko",
+        "Česko",
+        "Polsko",
+        "Československo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Intifáda",
+      "values": [
+        "Německo",
+        "Polsko",
+        "Palestina",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "První židovská válka",
+      "values": [
+        "Polsko",
+        "Francie",
+        "Palestina",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chodské povstání",
+      "values": [
+        "Česko",
+        "Palestina",
+        "Slovensko",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stavovský odboj roku 1547",
+      "values": [
+        "Česko",
+        "Irsko",
+        "Rusko",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Židenický puč",
+      "values": [
+        "Německo",
+        "Francie",
+        "Irsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Poznaňské povstání",
+      "values": [
+        "Polsko",
+        "Maďarsko",
+        "Německo",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Velikonoční povstání",
+      "values": [
+        "Rusko",
+        "Irsko",
+        "Česko",
+        "Maďarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Krakovské povstání",
+      "values": [
+        "Česko",
+        "Polsko",
+        "Rusko",
+        "Francie"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

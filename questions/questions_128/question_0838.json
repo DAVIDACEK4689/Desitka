@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Kodaň",
+      "values": [
+        "Sierra Leone",
+        "Dánsko",
+        "Senegal",
+        "Sýrie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zadar",
+      "values": [
+        "Alžírsko",
+        "Kamerun",
+        "Chorvatsko",
+        "Tanzanie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Poreč",
+      "values": [
+        "Chorvatsko",
+        "Kazachstán",
+        "Itálie",
+        "Španělsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pescara",
+      "values": [
+        "Itálie",
+        "Togo",
+        "Libérie",
+        "Alžírsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "La Spezia",
+      "values": [
+        "Itálie",
+        "Ukrajina",
+        "Turecko",
+        "Indonésie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fortaleza",
+      "values": [
+        "Namibie",
+        "Bangladéš",
+        "Brazílie",
+        "Kazachstán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sidón",
+      "values": [
+        "Japonsko",
+        "Angola",
+        "Kolumbie",
+        "Libanon"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Banjul",
+      "values": [
+        "Gambie",
+        "Gruzie",
+        "Libanon",
+        "Ekvádor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dordrecht",
+      "values": [
+        "Norsko",
+        "Libanon",
+        "Nizozemsko",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čiba",
+      "values": [
+        "Kolumbie",
+        "Japonsko",
+        "Argentina",
+        "Chorvatsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

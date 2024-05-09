@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Neapol",
+      "values": [
+        "Indonésie",
+        "Slovinsko",
+        "Itálie",
+        "Albánie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hirošima",
+      "values": [
+        "Saúdská Arábie",
+        "Japonsko",
+        "Gruzie",
+        "Turecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oděsa",
+      "values": [
+        "Ukrajina",
+        "Saúdská Arábie",
+        "Turecko",
+        "Španělsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pula",
+      "values": [
+        "Ázerbájdžán",
+        "Senegal",
+        "Chorvatsko",
+        "Izrael"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ceuta",
+      "values": [
+        "Turecko",
+        "Itálie",
+        "Španělsko",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Burgas",
+      "values": [
+        "Bulharsko",
+        "Indonésie",
+        "Malta",
+        "Finsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ósaka",
+      "values": [
+        "Japonsko",
+        "Švýcarsko",
+        "Itálie",
+        "Gruzie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pescara",
+      "values": [
+        "Chorvatsko",
+        "Litva",
+        "Itálie",
+        "Malta"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pafos",
+      "values": [
+        "Indonésie",
+        "Kypr",
+        "Německo",
+        "Ukrajina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sanremo",
+      "values": [
+        "Řecko",
+        "Egypt",
+        "Dánsko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

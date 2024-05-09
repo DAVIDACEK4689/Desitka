@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Záhřeb",
+      "values": [
+        "Nový Zéland",
+        "Austrálie",
+        "Somálsko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rijeka",
+      "values": [
+        "Chorvatsko",
+        "Česko",
+        "Japonsko",
+        "Libye"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mety",
+      "values": [
+        "Grónsko",
+        "Francie",
+        "Turkmenistán",
+        "Švédsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aleppo",
+      "values": [
+        "Turkmenistán",
+        "Pákistán",
+        "Sýrie",
+        "Argentina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Isfahán",
+      "values": [
+        "Jemen",
+        "Írán",
+        "Sýrie",
+        "Vietnam"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Valladolid",
+      "values": [
+        "Německo",
+        "Španělsko",
+        "Nizozemsko",
+        "Nikaragua"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Asunción",
+      "values": [
+        "Island",
+        "Paraguay",
+        "Slovensko",
+        "Ukrajina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tegucigalpa",
+      "values": [
+        "Kazachstán",
+        "Francie",
+        "Honduras",
+        "Gambie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Falun",
+      "values": [
+        "Jemen",
+        "Saúdská Arábie",
+        "Švédsko",
+        "Bangladéš"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jyväskylä",
+      "values": [
+        "Bělorusko",
+        "Finsko",
+        "Venezuela",
+        "Srí Lanka"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

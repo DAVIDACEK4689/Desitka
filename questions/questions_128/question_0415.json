@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] dramatický film?",
+  "questions": [
+    {
+      "key": "Zlatá labuť",
+      "values": [
+        "český",
+        "švédský",
+        "československý",
+        "americký"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Předčítač",
+      "values": [
+        "mexický",
+        "ruský",
+        "jihokorejský",
+        "německý"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dukla 61",
+      "values": [
+        "americký",
+        "německý",
+        "český",
+        "francouzský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kanibalové",
+      "values": [
+        "australský",
+        "maďarský",
+        "italský",
+        "československý"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cesta ven",
+      "values": [
+        "český",
+        "španělský",
+        "americký",
+        "mexický"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kawasakiho růže",
+      "values": [
+        "ruský",
+        "slovenský",
+        "český",
+        "německý"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bezpečný přístav",
+      "values": [
+        "americký",
+        "francouzský",
+        "ruský",
+        "maďarský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "21 gramů",
+      "values": [
+        "jihokorejský",
+        "maďarský",
+        "španělský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vůně vanilky",
+      "values": [
+        "český",
+        "izraelský",
+        "slovenský",
+        "dánský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Můj policista",
+      "values": [
+        "australský",
+        "americký",
+        "československý",
+        "britský"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

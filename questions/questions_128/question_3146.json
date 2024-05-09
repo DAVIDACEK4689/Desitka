@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Andrea Růžičková",
+      "values": [
+        "slovenskou",
+        "německou",
+        "venezuelskou",
+        "izraelskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Milla Jovovich",
+      "values": [
+        "maďarskou",
+        "americkou",
+        "švýcarskou",
+        "australskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vlaďka Erbová",
+      "values": [
+        "australskou",
+        "jihoafrickou",
+        "českou",
+        "švýcarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Maya Hawkeová",
+      "values": [
+        "švédskou",
+        "jihoafrickou",
+        "americkou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bar Refaeli",
+      "values": [
+        "českou",
+        "italskou",
+        "izraelskou",
+        "maďarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alicia Silverstoneová",
+      "values": [
+        "americkou",
+        "slovenskou",
+        "argentinskou",
+        "irskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Natalia Vodianova",
+      "values": [
+        "švýcarskou",
+        "ruskou",
+        "nizozemskou",
+        "rakouskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Naike Rivelli",
+      "values": [
+        "italskou",
+        "slovenskou",
+        "ukrajinskou",
+        "namibijskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Holly Madison",
+      "values": [
+        "japonskou",
+        "britskou",
+        "českou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sean Youngová",
+      "values": [
+        "americkou",
+        "argentinskou",
+        "švýcarskou",
+        "jihoafrickou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

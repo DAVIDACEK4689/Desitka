@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle úmrtí",
+  "questions": [
+    {
+      "key": "Björn Železný bok",
+      "values": [
+        "Švédsko",
+        "Polsko",
+        "Bolívie",
+        "Irák"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Viktor Kaplan",
+      "values": [
+        "Vietnam",
+        "Saúdská Arábie",
+        "Dánsko",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Britský",
+      "values": [
+        "Itálie",
+        "Spojené království",
+        "Honduras",
+        "Afghánistán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bert Trautmann",
+      "values": [
+        "Maďarsko",
+        "Tádžikistán",
+        "Uruguay",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oleg Protopopov",
+      "values": [
+        "Gibraltar",
+        "Švýcarsko",
+        "Albánie",
+        "Panama"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavel Medek",
+      "values": [
+        "Rusko",
+        "Nový Zéland",
+        "Afghánistán",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Edsger Dijkstra",
+      "values": [
+        "Turkmenistán",
+        "Nizozemsko",
+        "Bolívie",
+        "Gibraltar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Klemens",
+      "values": [
+        "Kapverdy",
+        "Irsko",
+        "Sýrie",
+        "Izrael"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michael Strank",
+      "values": [
+        "Kapverdy",
+        "Island",
+        "Kajmanské ostrovy",
+        "Japonsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Isaac Albéniz",
+      "values": [
+        "Spojené království",
+        "Gibraltar",
+        "Madagaskar",
+        "Francie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

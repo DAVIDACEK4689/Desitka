@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Basilej",
+      "values": [
+        "Severní Korea",
+        "Norsko",
+        "Švýcarsko",
+        "Severní Makedonie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nairobi",
+      "values": [
+        "Indonésie",
+        "Mosambik",
+        "Etiopie",
+        "Keňa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Olympie",
+      "values": [
+        "Srí Lanka",
+        "Etiopie",
+        "Řecko",
+        "Uzbekistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gíza",
+      "values": [
+        "Vietnam",
+        "Japonsko",
+        "Keňa",
+        "Egypt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Trenčianske Teplice",
+      "values": [
+        "Eritrea",
+        "Slovensko",
+        "Srbsko",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oviedo",
+      "values": [
+        "Japonsko",
+        "Estonsko",
+        "Saúdská Arábie",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Litschau",
+      "values": [
+        "Slovensko",
+        "Konžská republika",
+        "Kambodža",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Manáma",
+      "values": [
+        "Burkina Faso",
+        "Myanmar",
+        "Bulharsko",
+        "Bahrajn"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bhópál",
+      "values": [
+        "Sýrie",
+        "Nizozemsko",
+        "Súdán",
+        "Indie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Saitama",
+      "values": [
+        "Kolumbie",
+        "Japonsko",
+        "Jihoafrická republika",
+        "Severní Korea"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

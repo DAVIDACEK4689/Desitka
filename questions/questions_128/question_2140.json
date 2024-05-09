@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle premiéra",
+  "questions": [
+    {
+      "key": "Viktor Orbán",
+      "values": [
+        "Maďarsko",
+        "Malta",
+        "Pákistán",
+        "Rumunsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David Ben Gurion",
+      "values": [
+        "Spojené království",
+        "Izrael",
+        "Irák",
+        "Řecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stanislav Rázl",
+      "values": [
+        "Spojené království",
+        "Česko",
+        "Švédsko",
+        "Portugalsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Arsenij Jaceňuk",
+      "values": [
+        "Ukrajina",
+        "Litva",
+        "Srbsko",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petteri Orpo",
+      "values": [
+        "Finsko",
+        "Arménie",
+        "Irák",
+        "Japonsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tadeusz Mazowiecki",
+      "values": [
+        "Senegal",
+        "Indonésie",
+        "Lucembursko",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Juho Kusti Paasikivi",
+      "values": [
+        "Slovensko",
+        "Finsko",
+        "Chorvatsko",
+        "Litva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Robert Cecil",
+      "values": [
+        "Irák",
+        "Spojené království",
+        "Jugoslávie",
+        "Singapur"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Abdul Karim Kásim",
+      "values": [
+        "Irák",
+        "Slovensko",
+        "Senegal",
+        "Japonsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "José Luis Rodríguez Zapatero",
+      "values": [
+        "Malta",
+        "Švédsko",
+        "Island",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

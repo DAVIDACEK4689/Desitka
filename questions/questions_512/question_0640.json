@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Pamela Anderson",
+      "values": [
+        "dánskou",
+        "francouzskou",
+        "kanadskou",
+        "slovenskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aneta Vignerová",
+      "values": [
+        "italskou",
+        "jihoafrickou",
+        "českou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Debbie Harry",
+      "values": [
+        "kanadskou",
+        "slovenskou",
+        "americkou",
+        "dánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nico",
+      "values": [
+        "německou",
+        "britskou",
+        "argentinskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kelly Prestonová",
+      "values": [
+        "americkou",
+        "francouzskou",
+        "jihoafrickou",
+        "švýcarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Adriana Karembeu",
+      "values": [
+        "rakouskou",
+        "izraelskou",
+        "slovenskou",
+        "australskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Diane Krugerová",
+      "values": [
+        "německou",
+        "irskou",
+        "českou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nicol Lenertová",
+      "values": [
+        "irskou",
+        "českou",
+        "maďarskou",
+        "dánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nikol Švantnerová",
+      "values": [
+        "izraelskou",
+        "ruskou",
+        "českou",
+        "kanadskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Camila Morroneová",
+      "values": [
+        "britskou",
+        "americkou",
+        "italskou",
+        "irskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

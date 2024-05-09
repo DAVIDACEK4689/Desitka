@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle historického území",
+  "questions": [
+    {
+      "key": "Sudety",
+      "values": [
+        "Itálie",
+        "Česko",
+        "Belgie",
+        "Chorvatsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Katalánsko",
+      "values": [
+        "Španělsko",
+        "Belgie",
+        "Řecko",
+        "Slovinsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hlučínsko",
+      "values": [
+        "Itálie",
+        "Jihoafrická republika",
+        "Česko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jižní Tyrolsko",
+      "values": [
+        "Slovinsko",
+        "Itálie",
+        "Slovensko",
+        "Rakousko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Asturie",
+      "values": [
+        "Španělsko",
+        "Itálie",
+        "Rusko",
+        "Írán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Opavské knížectví",
+      "values": [
+        "Jihoafrická republika",
+        "Španělsko",
+        "Írán",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Krumlovské vévodství",
+      "values": [
+        "Chorvatsko",
+        "Jihoafrická republika",
+        "Írán",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rožmberské dominium",
+      "values": [
+        "Česko",
+        "Belgie",
+        "Írán",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Meklenbursko",
+      "values": [
+        "Belgie",
+        "Chorvatsko",
+        "Rakousko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kuronsko",
+      "values": [
+        "Itálie",
+        "Rumunsko",
+        "Lotyšsko",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

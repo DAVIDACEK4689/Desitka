@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Valašské Meziříčí",
+      "values": [
+        "Spréva",
+        "Ohře",
+        "Dyje",
+        "Bečva"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Čelákovice",
+      "values": [
+        "Sebnice",
+        "Ploučnice",
+        "Labe",
+        "Hornád"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kaplice",
+      "values": [
+        "Otava",
+        "Berounka",
+        "Malše",
+        "Tibera"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lázně Toušeň",
+      "values": [
+        "Labe",
+        "Radbuza",
+        "Ploučnice",
+        "Úslava"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vukovar",
+      "values": [
+        "Eufrat",
+        "Tibera",
+        "Hornád",
+        "Dunaj"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hlohovec",
+      "values": [
+        "Inn",
+        "Don",
+        "Labe",
+        "Váha"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Poštorná",
+      "values": [
+        "Radbuza",
+        "Dyje",
+        "Mandava",
+        "Ploučnice"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Strachotín",
+      "values": [
+        "Sázava",
+        "Loira",
+        "Lužická Nisa",
+        "Dyje"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Solotvina",
+      "values": [
+        "Hron",
+        "Eufrat",
+        "Úslava",
+        "Tis"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Valtířov",
+      "values": [
+        "Chrudimka",
+        "Lužnice",
+        "Volha",
+        "Labe"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

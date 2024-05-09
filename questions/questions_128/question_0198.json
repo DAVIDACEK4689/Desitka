@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle renesanční stavby",
+  "questions": [
+    {
+      "key": "Hofburg",
+      "values": [
+        "Itálie",
+        "Německo",
+        "Portugalsko",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ospedale degli Innocenti",
+      "values": [
+        "Rakousko",
+        "Česko",
+        "Itálie",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "La Rotonda",
+      "values": [
+        "Slovensko",
+        "Česko",
+        "Itálie",
+        "Portugalsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Medicejský palác",
+      "values": [
+        "Česko",
+        "Itálie",
+        "Slovensko",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sukiennice v Krakově",
+      "values": [
+        "Česko",
+        "Rakousko",
+        "Polsko",
+        "Portugalsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bazilika San Giorgio Maggiore",
+      "values": [
+        "Česko",
+        "Německo",
+        "Rakousko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Schody mrtvých",
+      "values": [
+        "Slovensko",
+        "Německo",
+        "Česko",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jordanova kašna",
+      "values": [
+        "Česko",
+        "Německo",
+        "Rakousko",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Biblioteca Marciana",
+      "values": [
+        "Portugalsko",
+        "Slovensko",
+        "Rakousko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Villa Farnesina",
+      "values": [
+        "Polsko",
+        "Rakousko",
+        "Slovensko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Spaghetti aglio e olio",
+      "values": [
+        "japonskou",
+        "řeckou",
+        "italskou",
+        "čínskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kulajda",
+      "values": [
+        "švédskou",
+        "skotskou",
+        "švýcarskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Langoš",
+      "values": [
+        "švýcarskou",
+        "maďarskou",
+        "arménskou",
+        "indickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Čedar",
+      "values": [
+        "italskou",
+        "anglickou",
+        "skotskou",
+        "indickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Provensálské koření",
+      "values": [
+        "francouzskou",
+        "řeckou",
+        "balkánskou",
+        "českou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Raki",
+      "values": [
+        "belgickou",
+        "tureckou",
+        "řeckou",
+        "německou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pomazánkové máslo",
+      "values": [
+        "českou",
+        "maďarskou",
+        "kanadskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vegemite",
+      "values": [
+        "japonskou",
+        "řeckou",
+        "australskou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rillettes",
+      "values": [
+        "korejskou",
+        "islandskou",
+        "francouzskou",
+        "japonskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hrachová kaše",
+      "values": [
+        "slovenskou",
+        "českou",
+        "islandskou",
+        "italskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

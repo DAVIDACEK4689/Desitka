@@ -1,0 +1,105 @@
+{
+  "text": "Určete typ podle mezinárodní organizace",
+  "questions": [
+    {
+      "key": "Den Země",
+      "values": [
+        "environmentální organizace",
+        "sportovní organizace",
+        "hospodářská organizace",
+        "politická organizace"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Visegrádská skupina",
+      "values": [
+        "politická organizace",
+        "sportovní organizace",
+        "hospodářská organizace",
+        "environmentální organizace"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bukurešťská devítka",
+      "values": [
+        "environmentální organizace",
+        "sportovní organizace",
+        "hospodářská organizace",
+        "politická organizace"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Evropské sdružení volného obchodu",
+      "values": [
+        "sportovní organizace",
+        "environmentální organizace",
+        "politická organizace",
+        "hospodářská organizace"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mezinárodní federace ledního hokeje",
+      "values": [
+        "environmentální organizace",
+        "sportovní organizace",
+        "politická organizace",
+        "hospodářská organizace"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Greenpeace",
+      "values": [
+        "politická organizace",
+        "environmentální organizace",
+        "sportovní organizace",
+        "hospodářská organizace"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ženská tenisová asociace",
+      "values": [
+        "sportovní organizace",
+        "politická organizace",
+        "hospodářská organizace",
+        "environmentální organizace"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Světový fond na ochranu přírody",
+      "values": [
+        "sportovní organizace",
+        "hospodářská organizace",
+        "politická organizace",
+        "environmentální organizace"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mezinárodní automobilová federace",
+      "values": [
+        "environmentální organizace",
+        "hospodářská organizace",
+        "politická organizace",
+        "sportovní organizace"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Olympijská charta",
+      "values": [
+        "politická organizace",
+        "hospodářská organizace",
+        "sportovní organizace",
+        "environmentální organizace"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

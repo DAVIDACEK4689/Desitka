@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle vysoké školy",
+  "questions": [
+    {
+      "key": "Univerzita Palackého v Olomouci",
+      "values": [
+        "Česko",
+        "Československo",
+        "Švédsko",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Janáčkova akademie múzických umění",
+      "values": [
+        "Švýcarsko",
+        "Španělsko",
+        "Československo",
+        "Belgie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Veterinární univerzita Brno",
+      "values": [
+        "Československo",
+        "Německo",
+        "Dánsko",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vysoká škola Sboru národní bezpečnosti",
+      "values": [
+        "Španělsko",
+        "Slovinsko",
+        "Spojené království",
+        "Československo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Univerzita Martina Luthera",
+      "values": [
+        "Švýcarsko",
+        "Německo",
+        "Rakousko",
+        "Portugalsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tereziánská vojenská akademie",
+      "values": [
+        "Izrael",
+        "Itálie",
+        "Rakousko",
+        "Portugalsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Univerzita Pavla Jozefa Šafárika v Košicích",
+      "values": [
+        "Dánsko",
+        "Československo",
+        "Spojené království",
+        "Švédsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Univerzita Tübingen",
+      "values": [
+        "Rusko",
+        "Japonsko",
+        "Sasko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Univerzita v Lublani",
+      "values": [
+        "Francie",
+        "Slovinsko",
+        "Rakousko",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Slovenská technická univerzita v Bratislavě",
+      "values": [
+        "Rakousko",
+        "Československo",
+        "Izrael",
+        "Švýcarsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

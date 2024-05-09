@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Hermann Göring",
+      "values": [
+        "zimbabwského",
+        "nizozemského",
+        "indického",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ho Či Min",
+      "values": [
+        "československého",
+        "vietnamského",
+        "lotyšského",
+        "izraelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Richard Sulík",
+      "values": [
+        "mexického",
+        "nizozemského",
+        "slovenského",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lev Prchala",
+      "values": [
+        "amerického",
+        "ghanského",
+        "českého",
+        "madagaskarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kurt von Schleicher",
+      "values": [
+        "německého",
+        "švýcarského",
+        "venezuelského",
+        "iráckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Leonid Kravčuk",
+      "values": [
+        "kolumbijského",
+        "ukrajinského",
+        "haitského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Johan de Witt",
+      "values": [
+        "libyjského",
+        "chilského",
+        "nizozemského",
+        "maltského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Edgars Rinkēvičs",
+      "values": [
+        "ruského",
+        "eritrejského",
+        "lotyšského",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Wolfgang Schäuble",
+      "values": [
+        "arménského",
+        "peruánského",
+        "německého",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ilja Jašin",
+      "values": [
+        "ruského",
+        "kambodžského",
+        "italského",
+        "dominikánského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

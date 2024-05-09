@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Stepan Bandera",
+      "values": [
+        "českého",
+        "madagaskarského",
+        "maďarského",
+        "ukrajinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "John Wayne Gacy",
+      "values": [
+        "italského",
+        "amerického",
+        "portugalského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ľudovít Štúr",
+      "values": [
+        "íránského",
+        "brazilského",
+        "slovenského",
+        "jihoafrického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Giuseppe Garibaldi",
+      "values": [
+        "švýcarského",
+        "italského",
+        "argentinského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ľuboš Blaha",
+      "values": [
+        "slovenského",
+        "italského",
+        "brazilského",
+        "vietnamského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Max van der Stoel",
+      "values": [
+        "chilského",
+        "nizozemského",
+        "tureckého",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vladimir Žirinovskij",
+      "values": [
+        "ruského",
+        "panamského",
+        "libyjského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vivek Ramaswamy",
+      "values": [
+        "polského",
+        "kanadského",
+        "rakouského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hjalmar Schacht",
+      "values": [
+        "německého",
+        "bulharského",
+        "španělského",
+        "tureckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Draupadí Murmúová",
+      "values": [
+        "jihoafrického",
+        "československého",
+        "indického",
+        "bulharského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

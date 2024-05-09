@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte autora podle stavby",
+  "questions": [
+    {
+      "key": "Dům U Černé Matky Boží",
+      "values": [
+        "Josef Gočár",
+        "Vojtěch Ignác Ullmann",
+        "Martin Rajniš",
+        "Ladislav Machoň"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Národní knihovna na Letné",
+      "values": [
+        "Vladimír Karfík",
+        "Martin Rajniš",
+        "Alois Dryák",
+        "Jan Kaplický"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Třetí nádvoří Pražského hradu",
+      "values": [
+        "Jože Plečnik",
+        "Osvald Polívka",
+        "Alois Dryák",
+        "Josef Gočár"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Guggenheimovo muzeum Bilbao",
+      "values": [
+        "Jože Plečnik",
+        "Bohumír Kozák",
+        "Ludvík Kysela",
+        "Frank Gehry"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Budova Elektrických podniků",
+      "values": [
+        "Jože Plečnik",
+        "Adolf Benš",
+        "Friedrich Ohmann",
+        "Ladislav Machoň"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bauerova vila",
+      "values": [
+        "Vojtěch Ignác Ullmann",
+        "Frank Gehry",
+        "Adolf Benš",
+        "Josef Gočár"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Modrý dům",
+      "values": [
+        "Josef Zasche",
+        "Ladislav Machoň",
+        "Pavel Janák",
+        "Oscar Niemeyer"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Londýnská radnice",
+      "values": [
+        "Martin Rajniš",
+        "Norman Foster",
+        "Jan Kaplický",
+        "Vojtěch Ignác Ullmann"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Balzerova kaple",
+      "values": [
+        "Zacharias Hoffmann",
+        "Kamil Roškot",
+        "Martin Rajniš",
+        "Josef Zítek"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Schebkův palác",
+      "values": [
+        "František Albert Libra",
+        "Max Spielmann",
+        "Stanislav Hubička",
+        "Vojtěch Ignác Ullmann"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

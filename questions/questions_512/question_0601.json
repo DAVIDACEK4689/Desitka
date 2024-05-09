@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle premiéra",
+  "questions": [
+    {
+      "key": "Václav Klaus",
+      "values": [
+        "Španělsko",
+        "Česko",
+        "Indie",
+        "Egypt"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josip Broz Tito",
+      "values": [
+        "Ázerbájdžán",
+        "Polsko",
+        "Portugalsko",
+        "Jugoslávie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jozef Tiso",
+      "values": [
+        "Ukrajina",
+        "Estonsko",
+        "Španělsko",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Donald Tusk",
+      "values": [
+        "Slovensko",
+        "Itálie",
+        "Finsko",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tony Blair",
+      "values": [
+        "Spojené království",
+        "Slovensko",
+        "Japonsko",
+        "Moldavsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sanna Marinová",
+      "values": [
+        "Estonsko",
+        "Nizozemsko",
+        "Irák",
+        "Finsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vojtech Tuka",
+      "values": [
+        "Slovensko",
+        "Portugalsko",
+        "Estonsko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Denys Šmyhal",
+      "values": [
+        "Ukrajina",
+        "Bulharsko",
+        "Španělsko",
+        "Moldavsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stanislav Rázl",
+      "values": [
+        "Finsko",
+        "Nizozemsko",
+        "Spojené království",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Harold Macmillan",
+      "values": [
+        "Norsko",
+        "Spojené království",
+        "Itálie",
+        "Ukrajina"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

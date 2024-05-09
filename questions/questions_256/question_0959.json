@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] šlechtice?",
+  "questions": [
+    {
+      "key": "Kryštof Harant z Polžic a Bezdružic",
+      "values": [
+        "nizozemského",
+        "českého",
+        "slovenského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "John Major",
+      "values": [
+        "britského",
+        "francouzského",
+        "nizozemského",
+        "monackého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladimir Nabokov",
+      "values": [
+        "francouzského",
+        "ruského",
+        "českého",
+        "monackého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jane Goodallová",
+      "values": [
+        "britského",
+        "chorvatského",
+        "francouzského",
+        "nizozemského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hugo Strachwitz",
+      "values": [
+        "španělského",
+        "polského",
+        "moravského",
+        "uherského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Renaud ze Châtillonu",
+      "values": [
+        "slovenského",
+        "chorvatského",
+        "francouzského",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Farinelli",
+      "values": [
+        "monackého",
+        "dánského",
+        "španělského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Des Fours Walderode",
+      "values": [
+        "švédského",
+        "českého",
+        "rakouského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alfred Tennyson",
+      "values": [
+        "uherského",
+        "španělského",
+        "švédského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karolina Meineke",
+      "values": [
+        "uherského",
+        "ruského",
+        "německého",
+        "švédského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

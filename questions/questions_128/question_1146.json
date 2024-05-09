@@ -1,0 +1,105 @@
+{
+  "text": "Určete bojiště podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva u Marathónu",
+      "values": [
+        "Itálie",
+        "Turecko",
+        "Německo",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Brunanburhu",
+      "values": [
+        "Spojené království",
+        "Sasko",
+        "Rakousko",
+        "Senegal"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Bouvines",
+      "values": [
+        "Francie",
+        "Slovinsko",
+        "Egypt",
+        "Finsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Aspern a Esslingu",
+      "values": [
+        "Rakousko",
+        "Lotyšsko",
+        "Chorvatsko",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Sekigahary",
+      "values": [
+        "Gruzie",
+        "Etiopie",
+        "Japonsko",
+        "Braniborsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Boje o Liptovský Mikuláš",
+      "values": [
+        "Slovensko",
+        "Albánie",
+        "Etiopie",
+        "Gruzie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Obléhání Přemyšlu",
+      "values": [
+        "Polsko",
+        "Norsko",
+        "Slovensko",
+        "Lotyšsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Pavie",
+      "values": [
+        "Somálsko",
+        "Itálie",
+        "Bulharsko",
+        "Rumunsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nálet na Darwin",
+      "values": [
+        "Austrálie",
+        "Libye",
+        "Španělsko",
+        "Slovinsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "La Noche Triste",
+      "values": [
+        "Mexiko",
+        "Sasko",
+        "Braniborsko",
+        "Srbsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

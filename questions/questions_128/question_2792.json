@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Niki Lauda",
+      "values": [
+        "britského",
+        "rakouského",
+        "italského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eva Decroix",
+      "values": [
+        "českého",
+        "libanonského",
+        "dánského",
+        "monackého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Emanuele Ridi",
+      "values": [
+        "mexického",
+        "švédského",
+        "italského",
+        "bangladéšského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jimmy Wales",
+      "values": [
+        "francouzského",
+        "íránského",
+        "amerického",
+        "indického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Cichoň",
+      "values": [
+        "brazilského",
+        "íránského",
+        "indického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jared Kushner",
+      "values": [
+        "amerického",
+        "indického",
+        "rakouského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ladislav Bartoníček",
+      "values": [
+        "českého",
+        "švédského",
+        "běloruského",
+        "bangladéšského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "José Silva",
+      "values": [
+        "španělského",
+        "mexického",
+        "litevského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel Varhánek",
+      "values": [
+        "rakouského",
+        "slovenského",
+        "běloruského",
+        "litevského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ivan Baťka",
+      "values": [
+        "českého",
+        "kanadského",
+        "amerického",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

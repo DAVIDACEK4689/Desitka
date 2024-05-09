@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Pelé",
+      "values": [
+        "francouzského",
+        "slovinského",
+        "chorvatského",
+        "brazilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Antoine Griezmann",
+      "values": [
+        "baskického",
+        "dánského",
+        "francouzského",
+        "chorvatského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Franz Beckenbauer",
+      "values": [
+        "norského",
+        "německého",
+        "maďarského",
+        "chilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaromír Blažek",
+      "values": [
+        "německého",
+        "českého",
+        "chilského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Christian Eriksen",
+      "values": [
+        "dánského",
+        "polského",
+        "českého",
+        "marockého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bernardo Silva",
+      "values": [
+        "nizozemského",
+        "mexického",
+        "portugalského",
+        "bulharského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mauro Icardi",
+      "values": [
+        "ghanského",
+        "argentinského",
+        "slovinského",
+        "belgického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gheorghe Hagi",
+      "values": [
+        "španělského",
+        "mongolského",
+        "rumunského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nemanja Vidić",
+      "values": [
+        "srbského",
+        "anglického",
+        "slovenského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Costa Nhamoinesu",
+      "values": [
+        "brazilského",
+        "zimbabwského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

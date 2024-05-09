@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle prezidenta",
+  "questions": [
+    {
+      "key": "Emmanuel Macron",
+      "values": [
+        "Slovinsko",
+        "Francie",
+        "Uruguay",
+        "Moldavsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aleksandar Vučić",
+      "values": [
+        "Uruguay",
+        "Srbsko",
+        "Irsko",
+        "Československo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mohamed Bazoum",
+      "values": [
+        "Írán",
+        "Portugalsko",
+        "Pero",
+        "Niger"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jicchak Ben Cvi",
+      "values": [
+        "Slovensko",
+        "Senegal",
+        "Izrael",
+        "Somálsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Joko Widodo",
+      "values": [
+        "Indonésie",
+        "Uruguay",
+        "Írán",
+        "Mexiko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Andry Rajoelina",
+      "values": [
+        "Kolumbie",
+        "Etiopie",
+        "Madagaskar",
+        "Angola"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alberto Fujimori",
+      "values": [
+        "Irsko",
+        "Pero",
+        "Jihoafrická republika",
+        "Mosambik"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Józef Cyrankiewicz",
+      "values": [
+        "Polsko",
+        "Španělsko",
+        "Čad",
+        "Ekvádor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Serž Sarkisjan",
+      "values": [
+        "Ukrajina",
+        "Rwanda",
+        "Slovinsko",
+        "Arménie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zulfikár Alí Bhutto",
+      "values": [
+        "Tunisko",
+        "Izrael",
+        "Pákistán",
+        "Egypt"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Pedro Pascal",
+      "values": [
+        "polského",
+        "novozélandského",
+        "chilského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pierre Brice",
+      "values": [
+        "francouzského",
+        "maďarského",
+        "srbského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Přemysl Kočí",
+      "values": [
+        "českého",
+        "jihoafrického",
+        "švýcarského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lino Ventura",
+      "values": [
+        "srbského",
+        "jihoafrického",
+        "italského",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jamie Foxx",
+      "values": [
+        "rakouského",
+        "tureckého",
+        "amerického",
+        "portorického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Warren Beatty",
+      "values": [
+        "tureckého",
+        "čínského",
+        "amerického",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miroslav Homola",
+      "values": [
+        "venezuelského",
+        "argentinského",
+        "českého",
+        "novozélandského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zdeněk Kryzánek",
+      "values": [
+        "belgického",
+        "izraelského",
+        "srbského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Barry Keoghan",
+      "values": [
+        "českého",
+        "norského",
+        "mexického",
+        "irského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zbyněk Fric",
+      "values": [
+        "českého",
+        "dánského",
+        "norského",
+        "novozélandského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

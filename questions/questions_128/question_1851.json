@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Niels Bohr",
+      "values": [
+        "baskického",
+        "dánského",
+        "kamerunského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "João Félix",
+      "values": [
+        "marockého",
+        "mongolského",
+        "gruzínského",
+        "portugalského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bernardo Silva",
+      "values": [
+        "československého",
+        "německého",
+        "portugalského",
+        "bulharského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "David Moyes",
+      "values": [
+        "skotského",
+        "řeckého",
+        "kanadského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Guti",
+      "values": [
+        "panamského",
+        "zimbabwského",
+        "španělského",
+        "nigerijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fábio Paím",
+      "values": [
+        "paraguayského",
+        "gruzínského",
+        "kosovského",
+        "portugalského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Massimiliano Allegri",
+      "values": [
+        "ghanského",
+        "slovenského",
+        "italského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Daniel Van Buyten",
+      "values": [
+        "belgického",
+        "mexického",
+        "kostarického",
+        "gruzínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robbie Fowler",
+      "values": [
+        "islandského",
+        "anglického",
+        "peruánského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Júlio César Soares Espíndola",
+      "values": [
+        "marockého",
+        "československého",
+        "brazilského",
+        "tureckého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

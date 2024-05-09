@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] architekta?",
+  "questions": [
+    {
+      "key": "Giotto di Bondone",
+      "values": [
+        "ruského",
+        "italského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Johann Bernhard Fischer",
+      "values": [
+        "francouzského",
+        "chorvatského",
+        "rakouského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alvar Aalto",
+      "values": [
+        "rakouského",
+        "italského",
+        "finského",
+        "chorvatského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Chochol",
+      "values": [
+        "ruského",
+        "českého",
+        "řeckého",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Václav Hilský",
+      "values": [
+        "tureckého",
+        "dánského",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anselmo Lurago",
+      "values": [
+        "českého",
+        "amerického",
+        "italského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Giovanni Domenico Orsi",
+      "values": [
+        "japonského",
+        "italského",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rem Koolhaas",
+      "values": [
+        "německého",
+        "nizozemského",
+        "slovinského",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ricardo Bofill",
+      "values": [
+        "slovenského",
+        "norského",
+        "španělského",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pietro da Cortona",
+      "values": [
+        "finského",
+        "španělského",
+        "italského",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

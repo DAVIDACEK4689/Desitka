@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] šlechtice?",
+  "questions": [
+    {
+      "key": "Margaret Thatcherová",
+      "values": [
+        "švédského",
+        "slovenského",
+        "ruského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Klemens Wenzel von Metternich",
+      "values": [
+        "moravského",
+        "ruského",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Louis Mountbatten",
+      "values": [
+        "italského",
+        "dánského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Horatio Nelson",
+      "values": [
+        "slovenského",
+        "britského",
+        "italského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Anthony Eden",
+      "values": [
+        "dánského",
+        "švédského",
+        "britského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Harold Wilson",
+      "values": [
+        "slovenského",
+        "českého",
+        "nizozemského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Brooke Shieldsová",
+      "values": [
+        "ruského",
+        "českého",
+        "italského",
+        "slezského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vladimir Nabokov",
+      "values": [
+        "ruského",
+        "nizozemského",
+        "uherského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pribina",
+      "values": [
+        "dánského",
+        "uherského",
+        "slovenského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaroslav Bořita z Martinic",
+      "values": [
+        "ruského",
+        "španělského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

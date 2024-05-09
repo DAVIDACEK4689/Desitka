@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] novináře?",
+  "questions": [
+    {
+      "key": "Julius Fučík",
+      "values": [
+        "irského",
+        "českého",
+        "nizozemského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Heinrich Heine",
+      "values": [
+        "německého",
+        "japonského",
+        "dánského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Holeček",
+      "values": [
+        "běloruského",
+        "českého",
+        "kubánského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adam Drda",
+      "values": [
+        "českého",
+        "mexického",
+        "australského",
+        "finského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Libor Dvořák",
+      "values": [
+        "českého",
+        "maďarského",
+        "japonského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stanislav Budín",
+      "values": [
+        "slovinského",
+        "českého",
+        "běloruského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bohuš Beneš",
+      "values": [
+        "německého",
+        "švédského",
+        "českého",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Erika Mannová",
+      "values": [
+        "japonského",
+        "německého",
+        "chorvatského",
+        "íránského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Richard Slánský",
+      "values": [
+        "běloruského",
+        "kubánského",
+        "amerického",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Henry George",
+      "values": [
+        "amerického",
+        "kanadského",
+        "dánského",
+        "izraelského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

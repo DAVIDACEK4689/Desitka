@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Stephen King",
+      "values": [
+        "maďarského",
+        "kanadského",
+        "amerického",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lila Schwarzenbergová",
+      "values": [
+        "finského",
+        "norského",
+        "chorvatského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Federico Fellini",
+      "values": [
+        "slovinského",
+        "amerického",
+        "italského",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "David Boreanaz",
+      "values": [
+        "belgického",
+        "amerického",
+        "sovětského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Přemysl Freiman",
+      "values": [
+        "českého",
+        "belgického",
+        "mexického",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mel Brooks",
+      "values": [
+        "francouzského",
+        "irského",
+        "íránského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Ťapák",
+      "values": [
+        "norského",
+        "hongkongského",
+        "slovenského",
+        "islandského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oleg Tabakov",
+      "values": [
+        "polského",
+        "norského",
+        "ruského",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Terrence Malick",
+      "values": [
+        "amerického",
+        "ukrajinského",
+        "srbského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "František Ferdinand Šamberk",
+      "values": [
+        "švédského",
+        "japonského",
+        "australského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

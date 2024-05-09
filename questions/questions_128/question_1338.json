@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle jazyka",
+  "questions": [
+    {
+      "key": "Rétorománština",
+      "values": [
+        "Lotyšsko",
+        "Palau",
+        "Švýcarsko",
+        "Myanmar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hornolužická srbština",
+      "values": [
+        "Indonésie",
+        "Německo",
+        "Irsko",
+        "Kambodža"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Faerština",
+      "values": [
+        "Rusko",
+        "Estonsko",
+        "Dánsko",
+        "Botswana"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Korsičtina",
+      "values": [
+        "Turecko",
+        "Bhútán",
+        "Francie",
+        "Palau"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gótština",
+      "values": [
+        "Estonsko",
+        "Česko",
+        "Portugalsko",
+        "Ukrajina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Malajálamština",
+      "values": [
+        "Indie",
+        "Portugalsko",
+        "Polsko",
+        "Nigérie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alsaština",
+      "values": [
+        "Turecko",
+        "Moldavsko",
+        "Itálie",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Burjatština",
+      "values": [
+        "Surinam",
+        "Švýcarsko",
+        "Rusko",
+        "Dánsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Neapolština",
+      "values": [
+        "Botswana",
+        "Brazílie",
+        "Itálie",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Valencijština",
+      "values": [
+        "Ukrajina",
+        "Nigérie",
+        "Guatemala",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

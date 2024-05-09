@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Paříž",
+      "values": [
+        "Eufrat",
+        "Rýn",
+        "Seina",
+        "Úslava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jičín",
+      "values": [
+        "Sebnice",
+        "Ohře",
+        "Cidlina",
+        "Dunaj"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Düsseldorf",
+      "values": [
+        "Těrek",
+        "Otava",
+        "Rýn",
+        "Dunaj"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Štúrovo",
+      "values": [
+        "Bečva",
+        "Dunaj",
+        "Sázava",
+        "Rýn"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bydhošť",
+      "values": [
+        "Dunaj",
+        "Visla",
+        "Metuje",
+        "Chrudimka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Duisburg",
+      "values": [
+        "Jizera",
+        "Rýn",
+        "Váha",
+        "Ohře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Příběnice",
+      "values": [
+        "Ploučnice",
+        "Metuje",
+        "Don",
+        "Lužnice"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Svobodné Hamry",
+      "values": [
+        "Temže",
+        "Chrudimka",
+        "Berounka",
+        "Rýn"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Štýřice",
+      "values": [
+        "Hornád",
+        "Labe",
+        "Svratka",
+        "Tibera"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ruse",
+      "values": [
+        "Dunaj",
+        "Chrudimka",
+        "Visla",
+        "Dněpr"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

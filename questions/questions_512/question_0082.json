@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] kulturu?",
+  "questions": [
+    {
+      "key": "Kibuc",
+      "values": [
+        "britskou",
+        "brazilskou",
+        "tureckou",
+        "izraelskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Seppuku",
+      "values": [
+        "tureckou",
+        "řeckou",
+        "japonskou",
+        "havajskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zen",
+      "values": [
+        "mongolskou",
+        "španělskou",
+        "čínskou",
+        "japonskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bludný Holanďan",
+      "values": [
+        "nizozemskou",
+        "skotskou",
+        "mongolskou",
+        "indickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Strýček Sam",
+      "values": [
+        "irskou",
+        "americkou",
+        "tureckou",
+        "izraelskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bonsaj",
+      "values": [
+        "maďarskou",
+        "japonskou",
+        "íránskou",
+        "skotskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Džíny",
+      "values": [
+        "americkou",
+        "irskou",
+        "izraelskou",
+        "maďarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Flamenco",
+      "values": [
+        "španělskou",
+        "indickou",
+        "japonskou",
+        "čínskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Whistlerova matka",
+      "values": [
+        "indickou",
+        "havajskou",
+        "skotskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Čardáš",
+      "values": [
+        "českou",
+        "maďarskou",
+        "tureckou",
+        "íránskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

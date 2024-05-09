@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Mladá Boleslav",
+      "values": [
+        "Volha",
+        "Rýn",
+        "Cidlina",
+        "Jizera"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Malá Strana",
+      "values": [
+        "Vltava",
+        "Lužická Nisa",
+        "Mandava",
+        "Eufrat"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Libeň",
+      "values": [
+        "Rýn",
+        "Lužická Nisa",
+        "Bečva",
+        "Vltava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stráž pod Ralskem",
+      "values": [
+        "Sebnice",
+        "Ploučnice",
+        "Inn",
+        "Dyje"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Melk",
+      "values": [
+        "Úhlava",
+        "Dunaj",
+        "Jizera",
+        "Volha"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kyselka",
+      "values": [
+        "Ploučnice",
+        "Něva",
+        "Ohře",
+        "Úslava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Příšovice",
+      "values": [
+        "Ploučnice",
+        "Jizera",
+        "Sebnice",
+        "Tis"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bešeňová",
+      "values": [
+        "Lužická Nisa",
+        "Váha",
+        "Tibera",
+        "Inn"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Günzburg",
+      "values": [
+        "Dunaj",
+        "Berounka",
+        "Jizera",
+        "Úslava"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Čtyřkoly",
+      "values": [
+        "Sázava",
+        "Váha",
+        "Radbuza",
+        "Hornád"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

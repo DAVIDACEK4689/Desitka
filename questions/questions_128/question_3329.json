@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Richard Genzer",
+      "values": [
+        "gruzínského",
+        "kanadského",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Liam Hemsworth",
+      "values": [
+        "guatemalského",
+        "německého",
+        "italského",
+        "australského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chris Evans",
+      "values": [
+        "guatemalského",
+        "tureckého",
+        "amerického",
+        "portorického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vladimír Hrubý",
+      "values": [
+        "jihoafrického",
+        "srbského",
+        "polského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Robert Duvall",
+      "values": [
+        "čínského",
+        "jihokorejského",
+        "amerického",
+        "jihoafrického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Colin Hanks",
+      "values": [
+        "belgického",
+        "amerického",
+        "tureckého",
+        "chilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ladislav Fialka",
+      "values": [
+        "srbského",
+        "chilského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chris Barrie",
+      "values": [
+        "polského",
+        "mexického",
+        "britského",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vachtang Kikabidze",
+      "values": [
+        "tureckého",
+        "mexického",
+        "sovětského",
+        "gruzínského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Johnny Carson",
+      "values": [
+        "maďarského",
+        "indonéského",
+        "amerického",
+        "chilského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

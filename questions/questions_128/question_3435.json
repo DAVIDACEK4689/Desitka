@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Daniel Landa",
+      "values": [
+        "finského",
+        "jihoafrického",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Patrik Děrgel",
+      "values": [
+        "mexického",
+        "českého",
+        "jihokorejského",
+        "izraelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Václav Upír Krejčí",
+      "values": [
+        "českého",
+        "skotského",
+        "belgického",
+        "portorického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Johnny Rotten",
+      "values": [
+        "ruského",
+        "britského",
+        "srbského",
+        "portorického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Maluma",
+      "values": [
+        "amerického",
+        "kolumbijského",
+        "španělského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vlasta Henych",
+      "values": [
+        "belgického",
+        "argentinského",
+        "českého",
+        "uruguayského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dermot Kennedy",
+      "values": [
+        "irského",
+        "izraelského",
+        "maďarského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "René Gabzdyl",
+      "values": [
+        "nizozemského",
+        "českého",
+        "kolumbijského",
+        "argentinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jérémy Châtelain",
+      "values": [
+        "francouzského",
+        "německého",
+        "irského",
+        "chorvatského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bohdan Mikolášek",
+      "values": [
+        "izraelského",
+        "českého",
+        "alžírského",
+        "polského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

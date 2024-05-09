@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [typ] organizaci?",
+  "questions": [
+    {
+      "key": "Řád templářů",
+      "values": [
+        "humanitární",
+        "fotografickou",
+        "partyzánskou",
+        "zaniklou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jakuza",
+      "values": [
+        "partyzánskou",
+        "vědeckou",
+        "zločineckou",
+        "leteckou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Irgun",
+      "values": [
+        "ekologickou",
+        "zaniklou",
+        "partyzánskou",
+        "hospodářskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "ADRA",
+      "values": [
+        "hospodářskou",
+        "vědeckou",
+        "zločineckou",
+        "humanitární"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lechi",
+      "values": [
+        "politickou",
+        "vzdělávací",
+        "partyzánskou",
+        "vědeckou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Restaurace",
+      "values": [
+        "politickou",
+        "vzdělávací",
+        "hospodářskou",
+        "zdravotnickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čtvrtá internacionála",
+      "values": [
+        "zdravotnickou",
+        "mezinárodní",
+        "náboženskou",
+        "jazykovou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sandinisté",
+      "values": [
+        "humanitární",
+        "partyzánskou",
+        "zločineckou",
+        "politickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Internacionála pirátských stran",
+      "values": [
+        "humanitární",
+        "náboženskou",
+        "politickou",
+        "vědeckou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Levá fronta",
+      "values": [
+        "mezinárodní",
+        "šlechtickou",
+        "politickou",
+        "fiktivní"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

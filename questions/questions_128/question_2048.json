@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistku?",
+  "questions": [
+    {
+      "key": "Aryna Sabalenková",
+      "values": [
+        "běloruskou",
+        "indickou",
+        "argentinskou",
+        "zimbabwskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jessica Pegulaová",
+      "values": [
+        "americkou",
+        "indickou",
+        "nizozemskou",
+        "tuniskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chris Evertová",
+      "values": [
+        "zimbabwskou",
+        "českou",
+        "americkou",
+        "kanadskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Donna Vekićová",
+      "values": [
+        "černohorskou",
+        "nizozemskou",
+        "chorvatskou",
+        "řeckou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gabriela Knutsonová",
+      "values": [
+        "československou",
+        "belgickou",
+        "ukrajinskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Světlana Kuzněcovová",
+      "values": [
+        "německou",
+        "ruskou",
+        "srbskou",
+        "dánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kaia Kanepiová",
+      "values": [
+        "srbskou",
+        "nizozemskou",
+        "estonskou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tímea Babosová",
+      "values": [
+        "australskou",
+        "kolumbijskou",
+        "maďarskou",
+        "černohorskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tereza Smitková",
+      "values": [
+        "českou",
+        "kanadskou",
+        "švýcarskou",
+        "řeckou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alizé Limová",
+      "values": [
+        "chorvatskou",
+        "zimbabwskou",
+        "francouzskou",
+        "polskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte kontinent podle fauny",
+  "questions": [
+    {
+      "key": "Medvěd grizzly",
+      "values": [
+        "Asie",
+        "Severní Amerika",
+        "Evropa",
+        "Střední Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Skokan zelený",
+      "values": [
+        "Střední Amerika",
+        "Asie",
+        "Afrika",
+        "Evropa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pralesnička azurová",
+      "values": [
+        "Asie",
+        "Jižní Amerika",
+        "Evropa",
+        "Antarktida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Delta Dunaje",
+      "values": [
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Afrika",
+        "Evropa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hyena čabraková",
+      "values": [
+        "Evropa",
+        "Asie",
+        "Severní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Čolek dravý",
+      "values": [
+        "Střední Amerika",
+        "Afrika",
+        "Asie",
+        "Evropa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Delfínovec ganžský",
+      "values": [
+        "Asie",
+        "Antarktida",
+        "Severní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vlk iberský",
+      "values": [
+        "Asie",
+        "Evropa",
+        "Střední Amerika",
+        "Antarktida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pes krátkouchý",
+      "values": [
+        "Afrika",
+        "Jižní Amerika",
+        "Evropa",
+        "Asie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lvíček zlatohlavý",
+      "values": [
+        "Evropa",
+        "Jižní Amerika",
+        "Střední Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

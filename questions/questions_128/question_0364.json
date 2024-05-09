@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle stavby",
+  "questions": [
+    {
+      "key": "Mauzoleum v Halikarnassu",
+      "values": [
+        "Belgie",
+        "Ukrajina",
+        "Turecko",
+        "Súdán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Falkirk Wheel",
+      "values": [
+        "Kolumbie",
+        "Rakousko",
+        "Island",
+        "Skotsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lumbiní",
+      "values": [
+        "Nizozemsko",
+        "Nepál",
+        "Kolumbie",
+        "Bulharsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hypogeum Ħal Saflieni",
+      "values": [
+        "Malta",
+        "Japonsko",
+        "Vatikán",
+        "Írán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Broch",
+      "values": [
+        "Bulharsko",
+        "Skotsko",
+        "Írán",
+        "Nepál"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mütherova věž",
+      "values": [
+        "Belgie",
+        "Německo",
+        "Turecko",
+        "Bulharsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lotosový chrám",
+      "values": [
+        "Indie",
+        "Írán",
+        "Rakousko",
+        "Nepál"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Euromast",
+      "values": [
+        "Ukrajina",
+        "Írán",
+        "Česko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vlaštovčí hnízdo",
+      "values": [
+        "Kolumbie",
+        "Německo",
+        "Ukrajina",
+        "Súdán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Divadlo v Epidauru",
+      "values": [
+        "Japonsko",
+        "Skotsko",
+        "Řecko",
+        "Turecko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

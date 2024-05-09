@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte město podle fotbalu",
+  "questions": [
+    {
+      "key": "Mistrovství světa ve fotbale žen 2023",
+      "values": [
+        "Kyjev",
+        "Sydney",
+        "Rotterdam",
+        "Bělehrad"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stadio Giuseppe Meazza",
+      "values": [
+        "Paříž",
+        "Kyjev",
+        "Madrid",
+        "Milán"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mistrovství světa ve fotbale 2018",
+      "values": [
+        "Rotterdam",
+        "Madrid",
+        "Petrohrad",
+        "Kyjev"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Estadio Santiago Bernabéu",
+      "values": [
+        "Paříž",
+        "Petrohrad",
+        "Madrid",
+        "Bělehrad"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství Evropy ve fotbale 2016",
+      "values": [
+        "Bělehrad",
+        "Kyjev",
+        "Paříž",
+        "Milán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství světa ve fotbale 1998",
+      "values": [
+        "Bělehrad",
+        "Rotterdam",
+        "Paříž",
+        "Milán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství Evropy ve fotbale 2012",
+      "values": [
+        "Milán",
+        "Petrohrad",
+        "Kyjev",
+        "Sydney"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství Evropy ve fotbale 1976",
+      "values": [
+        "Milán",
+        "Madrid",
+        "Bělehrad",
+        "Sydney"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "AFC Ajax",
+      "values": [
+        "Kyjev",
+        "Milán",
+        "Madrid",
+        "Amsterdam"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "FK Crvena zvezda",
+      "values": [
+        "Amsterdam",
+        "Petrohrad",
+        "Madrid",
+        "Bělehrad"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

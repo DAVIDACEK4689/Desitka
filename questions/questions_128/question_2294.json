@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Juraj Herz",
+      "values": [
+        "polského",
+        "indického",
+        "českého",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Němec",
+      "values": [
+        "ukrajinského",
+        "finského",
+        "nizozemského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Lynch",
+      "values": [
+        "norského",
+        "britského",
+        "kanadského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sergio Leone",
+      "values": [
+        "italského",
+        "českého",
+        "nizozemského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Luke Wilson",
+      "values": [
+        "amerického",
+        "slovenského",
+        "novozélandského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gustav Oplustil",
+      "values": [
+        "mexického",
+        "polského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Antonín Kachlík",
+      "values": [
+        "hongkongského",
+        "japonského",
+        "českého",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Hanibal",
+      "values": [
+        "íránského",
+        "indického",
+        "polského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaroslav Hurt",
+      "values": [
+        "íránského",
+        "ukrajinského",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Houška",
+      "values": [
+        "ukrajinského",
+        "estonského",
+        "českého",
+        "islandského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

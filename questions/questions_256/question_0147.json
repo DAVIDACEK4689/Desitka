@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Alexandr Sergejevič Puškin",
+      "values": [
+        "perského",
+        "ruského",
+        "řeckého",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Halas",
+      "values": [
+        "kubánského",
+        "českého",
+        "rakouského",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Radovan Karadžić",
+      "values": [
+        "francouzského",
+        "ruského",
+        "irského",
+        "srbského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaroslav Kvapil",
+      "values": [
+        "českého",
+        "dánského",
+        "portugalského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "William Blake",
+      "values": [
+        "belgického",
+        "amerického",
+        "anglického",
+        "srbského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Gruša",
+      "values": [
+        "skotského",
+        "českého",
+        "španělského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alan Alexander Milne",
+      "values": [
+        "rumunského",
+        "anglického",
+        "čínského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Křesadlo",
+      "values": [
+        "rakouského",
+        "českého",
+        "kubánského",
+        "perského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Suzanne Renaud",
+      "values": [
+        "rumunského",
+        "francouzského",
+        "dánského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alfred Tennyson",
+      "values": [
+        "irského",
+        "čínského",
+        "anglického",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

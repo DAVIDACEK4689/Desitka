@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Petr Novák",
+      "values": [
+        "švýcarského",
+        "českého",
+        "moldavského",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivan Král",
+      "values": [
+        "norského",
+        "jihoafrického",
+        "českého",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomáš Hajíček",
+      "values": [
+        "belgického",
+        "uruguayského",
+        "jamajského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Haubert",
+      "values": [
+        "uruguayského",
+        "českého",
+        "polského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Segrado",
+      "values": [
+        "českého",
+        "skotského",
+        "švýcarského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jaime Lorente",
+      "values": [
+        "nizozemského",
+        "španělského",
+        "německého",
+        "jihoafrického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Donovan",
+      "values": [
+        "nizozemského",
+        "britského",
+        "islandského",
+        "gruzínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gene Kelly",
+      "values": [
+        "slovenského",
+        "švédského",
+        "amerického",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Don Felder",
+      "values": [
+        "jihoafrického",
+        "švédského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chubby Checker",
+      "values": [
+        "jihoafrického",
+        "argentinského",
+        "nizozemského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

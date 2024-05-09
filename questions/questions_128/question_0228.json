@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte rok podle politiky",
+  "questions": [
+    {
+      "key": "Invaze vojsk Varšavské smlouvy do Československa",
+      "values": [
+        "1968",
+        "1848",
+        "1990",
+        "1904"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kauza Nagyová",
+      "values": [
+        "2018",
+        "2013",
+        "2011",
+        "1783"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kroměřížský sněm",
+      "values": [
+        "1958",
+        "1848",
+        "1915",
+        "1851"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Otrava Alexandra Litviněnka",
+      "values": [
+        "1904",
+        "2006",
+        "1997",
+        "1896"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fundamentální články",
+      "values": [
+        "1871",
+        "1807",
+        "1867",
+        "1995"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Clevelandská dohoda",
+      "values": [
+        "1915",
+        "1608",
+        "1991",
+        "1871"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vysočanský sjezd KSČ",
+      "values": [
+        "1783",
+        "2014",
+        "1968",
+        "1975"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Libeňský mír",
+      "values": [
+        "1699",
+        "1963",
+        "2012",
+        "1608"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ústava z roku III",
+      "values": [
+        "1951",
+        "1795",
+        "2011",
+        "1945"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bagdádský pakt",
+      "values": [
+        "1918",
+        "1955",
+        "1879",
+        "1860"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

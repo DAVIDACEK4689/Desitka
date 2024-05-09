@@ -1,0 +1,105 @@
+{
+  "text": "Určete rok podle konfliktu",
+  "questions": [
+    {
+      "key": "Operace Spojenecká síla",
+      "values": [
+        "1991",
+        "1999",
+        "2007",
+        "2012"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Časová osa ruské invaze na Ukrajinu",
+      "values": [
+        "1995",
+        "2022",
+        "1999",
+        "2006"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Druhá válka o Náhorní Karabach",
+      "values": [
+        "2011",
+        "2014",
+        "2020",
+        "2006"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Masakr na náměstí Nebeského klidu",
+      "values": [
+        "1992",
+        "2007",
+        "2012",
+        "1989"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Srpnový puč",
+      "values": [
+        "1991",
+        "1995",
+        "2022",
+        "1999"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vojenská intervence v Libyi",
+      "values": [
+        "2011",
+        "2004",
+        "2023",
+        "2007"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Druhá libanonská válka",
+      "values": [
+        "2020",
+        "2006",
+        "2022",
+        "2004"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "První občanská válka v Libyi",
+      "values": [
+        "2005",
+        "2006",
+        "2007",
+        "2011"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Blokáda Pásma Gazy",
+      "values": [
+        "2022",
+        "2014",
+        "2007",
+        "2012"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Operace Rozhodná síla",
+      "values": [
+        "1995",
+        "2006",
+        "2007",
+        "2023"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

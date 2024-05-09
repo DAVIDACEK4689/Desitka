@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Paul Pogba",
+      "values": [
+        "tureckého",
+        "francouzského",
+        "gruzínského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fernando Santos",
+      "values": [
+        "brazilského",
+        "portugalského",
+        "chilského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gonzalo Higuaín",
+      "values": [
+        "argentinského",
+        "venezuelského",
+        "mongolského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rui Costa",
+      "values": [
+        "irského",
+        "bulharského",
+        "portugalského",
+        "srbského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Daniel Silva Rossi",
+      "values": [
+        "černohorského",
+        "nigerijského",
+        "brazilského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nuno Espírito Santo",
+      "values": [
+        "rumunského",
+        "uruguayského",
+        "venezuelského",
+        "portugalského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Diogo Jota",
+      "values": [
+        "norského",
+        "chilského",
+        "mexického",
+        "portugalského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Adebayo Akinfenwa",
+      "values": [
+        "anglického",
+        "kolumbijského",
+        "peruánského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Peter Drozd",
+      "values": [
+        "ukrajinského",
+        "německého",
+        "portugalského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Trevor Francis",
+      "values": [
+        "venezuelského",
+        "švédského",
+        "mexického",
+        "anglického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

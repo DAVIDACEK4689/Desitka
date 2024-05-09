@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Riva Krieglová",
+      "values": [
+        "nigerského",
+        "československého",
+        "tureckého",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gerhard Schröder",
+      "values": [
+        "německého",
+        "singapurského",
+        "etiopského",
+        "lotyšského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fridtjof Nansen",
+      "values": [
+        "singapurského",
+        "maďarského",
+        "norského",
+        "nauruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Julius Schreck",
+      "values": [
+        "německého",
+        "rakouského",
+        "maďarského",
+        "afghánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Friedrich Wilhelm Raiffeisen",
+      "values": [
+        "mexického",
+        "nigerského",
+        "německého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eduard Vorobjov",
+      "values": [
+        "ruského",
+        "mongolského",
+        "německého",
+        "kyrgyzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jacques Necker",
+      "values": [
+        "albánského",
+        "chilského",
+        "francouzského",
+        "gruzínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bronisław Geremek",
+      "values": [
+        "venezuelského",
+        "finského",
+        "polského",
+        "kubánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Charles Maurras",
+      "values": [
+        "řeckého",
+        "jugoslávského",
+        "francouzského",
+        "pruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Antonín Capoušek",
+      "values": [
+        "českého",
+        "italského",
+        "argentinského",
+        "běloruského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

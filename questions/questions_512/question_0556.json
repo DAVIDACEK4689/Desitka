@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Jevgenij Prigožin",
+      "values": [
+        "řeckého",
+        "ruského",
+        "českého",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Coco Chanel",
+      "values": [
+        "nizozemského",
+        "francouzského",
+        "švýcarského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Dědek",
+      "values": [
+        "italského",
+        "jihoafrického",
+        "libanonského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Henry Ford",
+      "values": [
+        "ukrajinského",
+        "německého",
+        "libanonského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Calvin Klein",
+      "values": [
+        "libanonského",
+        "britského",
+        "kanadského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Březina",
+      "values": [
+        "rakouského",
+        "italského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sam Altman",
+      "values": [
+        "libanonského",
+        "švédského",
+        "amerického",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stanislav Bernard",
+      "values": [
+        "britského",
+        "kanadského",
+        "řeckého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pierluigi Collina",
+      "values": [
+        "italského",
+        "švédského",
+        "českého",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Boris Berezovskij",
+      "values": [
+        "ruského",
+        "rakouského",
+        "brazilského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete město podle lesa",
+  "questions": [
+    {
+      "key": "Klánovický les",
+      "values": [
+        "Praha",
+        "Brno",
+        "Paříž",
+        "Ostrava"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Halda Ema",
+      "values": [
+        "Paříž",
+        "Praha",
+        "Brno",
+        "Ostrava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hulvácký les",
+      "values": [
+        "Brno",
+        "Ostrava",
+        "Paříž",
+        "Praha"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bělský Les",
+      "values": [
+        "Praha",
+        "Brno",
+        "Ostrava",
+        "Paříž"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Milíčovský les a rybníky",
+      "values": [
+        "Praha",
+        "Ostrava",
+        "Brno",
+        "Paříž"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Wilsonův les",
+      "values": [
+        "Paříž",
+        "Ostrava",
+        "Praha",
+        "Brno"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Obora Holedná",
+      "values": [
+        "Brno",
+        "Ostrava",
+        "Paříž",
+        "Praha"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Buloňský lesík",
+      "values": [
+        "Brno",
+        "Paříž",
+        "Ostrava",
+        "Praha"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Radotínské údolí",
+      "values": [
+        "Paříž",
+        "Ostrava",
+        "Praha",
+        "Brno"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Údolí Kunratického potoka",
+      "values": [
+        "Ostrava",
+        "Brno",
+        "Paříž",
+        "Praha"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Paolo Maldini",
+      "values": [
+        "finského",
+        "italského",
+        "jamajského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "İlkay Gündoğan",
+      "values": [
+        "ekvádorského",
+        "německého",
+        "rumunského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lukáš Provod",
+      "values": [
+        "kamerunského",
+        "anglického",
+        "paraguayského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Yassine Bounou",
+      "values": [
+        "amerického",
+        "marockého",
+        "nigerijského",
+        "islandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dida",
+      "values": [
+        "kostarického",
+        "brazilského",
+        "rumunského",
+        "gambijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jakub Hora",
+      "values": [
+        "českého",
+        "bulharského",
+        "maďarského",
+        "tožského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Julian Draxler",
+      "values": [
+        "mexického",
+        "anglického",
+        "německého",
+        "skotského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Niko Kovač",
+      "values": [
+        "chorvatského",
+        "německého",
+        "rumunského",
+        "kamerunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Arkadiusz Milik",
+      "values": [
+        "sovětského",
+        "polského",
+        "senegalského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Trevor Francis",
+      "values": [
+        "anglického",
+        "jamajského",
+        "polského",
+        "tureckého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

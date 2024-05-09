@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] evropského podnikatele?",
+  "questions": [
+    {
+      "key": "Coco Chanel",
+      "values": [
+        "francouzského",
+        "rakouského",
+        "britského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Czernin",
+      "values": [
+        "polského",
+        "českého",
+        "švýcarského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Václav Fischer",
+      "values": [
+        "ukrajinského",
+        "švýcarského",
+        "belgického",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kristian Kinský",
+      "values": [
+        "německého",
+        "nizozemského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zora Kolínska",
+      "values": [
+        "polského",
+        "slovenského",
+        "švýcarského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Flavio Briatore",
+      "values": [
+        "nizozemského",
+        "rakouského",
+        "švýcarského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaromír Kijonka",
+      "values": [
+        "řeckého",
+        "českého",
+        "švýcarského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zdeněk Jandejsek",
+      "values": [
+        "italského",
+        "slovenského",
+        "českého",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miroslav Černošek",
+      "values": [
+        "italského",
+        "českého",
+        "polského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dmitrij Kovtun",
+      "values": [
+        "britského",
+        "švýcarského",
+        "ruského",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

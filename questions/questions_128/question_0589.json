@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle památky",
+  "questions": [
+    {
+      "key": "Španělské schody",
+      "values": [
+        "Itálie",
+        "Spojené království",
+        "Řecko",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Achillion",
+      "values": [
+        "Rakousko",
+        "Rusko",
+        "Nizozemsko",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Noto",
+      "values": [
+        "Rusko",
+        "Nizozemsko",
+        "Švédsko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Goslar",
+      "values": [
+        "Německo",
+        "Laos",
+        "Řecko",
+        "Ukrajina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mauritshuis",
+      "values": [
+        "Nizozemsko",
+        "Laos",
+        "Česko",
+        "Řecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Luang Prabang",
+      "values": [
+        "Švédsko",
+        "Česko",
+        "Itálie",
+        "Laos"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Španělská jezdecká škola",
+      "values": [
+        "Arménie",
+        "Řecko",
+        "Itálie",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vagharšapat",
+      "values": [
+        "Francie",
+        "Švédsko",
+        "Arménie",
+        "Španělsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Palác Noordeinde",
+      "values": [
+        "Arménie",
+        "Česko",
+        "Irák",
+        "Nizozemsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Klášter Klosterneuburg",
+      "values": [
+        "Francie",
+        "Německo",
+        "Itálie",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [téma] televizní stanici?",
+  "questions": [
+    {
+      "key": "HBO",
+      "values": [
+        "filmovou",
+        "sportovní",
+        "zpravodajskou",
+        "křesťanskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "CNN",
+      "values": [
+        "zpravodajskou",
+        "křesťanskou",
+        "filmovou",
+        "sportovní"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nova Cinema",
+      "values": [
+        "hudební",
+        "dětskou",
+        "dokumentární",
+        "filmovou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Prima Max",
+      "values": [
+        "filmovou",
+        "zpravodajskou",
+        "dětskou",
+        "hudební"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Óčko Black",
+      "values": [
+        "sportovní",
+        "dokumentární",
+        "hudební",
+        "filmovou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Showtime",
+      "values": [
+        "sportovní",
+        "dětskou",
+        "filmovou",
+        "hudební"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "TVP Info",
+      "values": [
+        "sportovní",
+        "dětskou",
+        "hudební",
+        "zpravodajskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Disney XD",
+      "values": [
+        "dokumentární",
+        "sportovní",
+        "hudební",
+        "dětskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "MSNBC",
+      "values": [
+        "hudební",
+        "zpravodajskou",
+        "sportovní",
+        "dětskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "MTV Unplugged",
+      "values": [
+        "filmovou",
+        "hudební",
+        "zpravodajskou",
+        "dokumentární"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

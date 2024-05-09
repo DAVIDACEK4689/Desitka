@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] evropského podnikatele?",
+  "questions": [
+    {
+      "key": "Petr Kellner",
+      "values": [
+        "francouzského",
+        "ruského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oliver Dlouhý",
+      "values": [
+        "rakouského",
+        "slovenského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dalibor Dědek",
+      "values": [
+        "německého",
+        "ukrajinského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Barta",
+      "values": [
+        "slovenského",
+        "německého",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ferruccio Lamborghini",
+      "values": [
+        "řeckého",
+        "italského",
+        "rakouského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fritz Tugendhat",
+      "values": [
+        "německého",
+        "řeckého",
+        "rakouského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David Beran",
+      "values": [
+        "polského",
+        "belgického",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Albert von Thurn und Taxis",
+      "values": [
+        "rakouského",
+        "českého",
+        "ruského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Elias Palme",
+      "values": [
+        "rakouského",
+        "španělského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert Čásenský",
+      "values": [
+        "polského",
+        "českého",
+        "německého",
+        "španělského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

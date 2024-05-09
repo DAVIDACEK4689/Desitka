@@ -1,0 +1,105 @@
+{
+  "text": "Určete etnický původ podle Čecha",
+  "questions": [
+    {
+      "key": "Josef Abrhám",
+      "values": [
+        "polský původ",
+        "řecký původ",
+        "vietnamský původ",
+        "slovenský původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Klára Issová",
+      "values": [
+        "židovský původ",
+        "japonský původ",
+        "syrský původ",
+        "řecký původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tary",
+      "values": [
+        "estonský původ",
+        "etiopský původ",
+        "židovský původ",
+        "ukrajinský původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaroslav Foldyna",
+      "values": [
+        "srbský původ",
+        "židovský původ",
+        "kanadský původ",
+        "ruský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bohumil Klepl",
+      "values": [
+        "maďarský původ",
+        "japonský původ",
+        "chorvatský původ",
+        "arménský původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ha Thanh Špetlíková",
+      "values": [
+        "srbský původ",
+        "etiopský původ",
+        "vietnamský původ",
+        "britský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Joachim Barrande",
+      "values": [
+        "francouzský původ",
+        "evropský původ",
+        "vietnamský původ",
+        "běloruský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Theodor Gebre Selassie",
+      "values": [
+        "etiopský původ",
+        "afghánský původ",
+        "židovský původ",
+        "běloruský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michal Papadopulos",
+      "values": [
+        "etiopský původ",
+        "ukrajinský původ",
+        "srbský původ",
+        "řecký původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gevorg Avetisjan",
+      "values": [
+        "kanadský původ",
+        "arménský původ",
+        "běloruský původ",
+        "syrský původ"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

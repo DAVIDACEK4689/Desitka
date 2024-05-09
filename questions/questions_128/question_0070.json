@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [typ] organizaci?",
+  "questions": [
+    {
+      "key": "Wagnerova skupina",
+      "values": [
+        "fiktivní",
+        "ekologickou",
+        "zločineckou",
+        "šlechtickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Integrovaný záchranný systém",
+      "values": [
+        "zločineckou",
+        "zaniklou",
+        "partyzánskou",
+        "zdravotnickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Maffie",
+      "values": [
+        "humanitární",
+        "politickou",
+        "leteckou",
+        "zaniklou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mudžáhid",
+      "values": [
+        "mezinárodní",
+        "fiktivní",
+        "jazykovou",
+        "partyzánskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Five Eyes",
+      "values": [
+        "partyzánskou",
+        "leteckou",
+        "zaniklou",
+        "mezinárodní"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "IEEE",
+      "values": [
+        "zaniklou",
+        "šlechtickou",
+        "jazykovou",
+        "mezinárodní"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Národní svaz za úplnou nezávislost Angoly",
+      "values": [
+        "jazykovou",
+        "vzdělávací",
+        "zdravotnickou",
+        "partyzánskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Syrská opozice",
+      "values": [
+        "leteckou",
+        "zdravotnickou",
+        "partyzánskou",
+        "vědeckou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Severská rada",
+      "values": [
+        "fiktivní",
+        "vědeckou",
+        "politickou",
+        "mezinárodní"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Thugové",
+      "values": [
+        "humanitární",
+        "partyzánskou",
+        "zločineckou",
+        "vědeckou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

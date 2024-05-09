@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] ledního hokejistu?",
+  "questions": [
+    {
+      "key": "David Pastrňák",
+      "values": [
+        "českého",
+        "ruského",
+        "rumunského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavel Bure",
+      "values": [
+        "slovenského",
+        "československého",
+        "ruského",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miroslav Šatan",
+      "values": [
+        "slovenského",
+        "lotyšského",
+        "rumunského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jack Hughes",
+      "values": [
+        "lotyšského",
+        "polského",
+        "amerického",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ed Belfour",
+      "values": [
+        "finského",
+        "kanadského",
+        "českého",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Erich Kühnhackl",
+      "values": [
+        "německého",
+        "lotyšského",
+        "švýcarského",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Štrbák",
+      "values": [
+        "finského",
+        "rakouského",
+        "slovenského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rob Blake",
+      "values": [
+        "švédského",
+        "kanadského",
+        "švýcarského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aaron Ekblad",
+      "values": [
+        "kanadského",
+        "sovětského",
+        "lotyšského",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lukáš Cingeľ",
+      "values": [
+        "britského",
+        "německého",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

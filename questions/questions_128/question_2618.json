@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle kraje",
+  "questions": [
+    {
+      "key": "Žilinský kraj",
+      "values": [
+        "Norsko",
+        "Slovensko",
+        "Švédsko",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Banskobystrický kraj",
+      "values": [
+        "Slovensko",
+        "Švédsko",
+        "Česko",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Krasnojarský kraj",
+      "values": [
+        "Rusko",
+        "Švédsko",
+        "Česko",
+        "Norsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Trnavský kraj",
+      "values": [
+        "Rusko",
+        "Norsko",
+        "Švédsko",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Skåne",
+      "values": [
+        "Norsko",
+        "Švédsko",
+        "Slovensko",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ústavní zákon o vytvoření vyšších územních samosprávných celků",
+      "values": [
+        "Slovensko",
+        "Rusko",
+        "Česko",
+        "Norsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Altajský kraj",
+      "values": [
+        "Řecko",
+        "Švédsko",
+        "Rusko",
+        "Norsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Halland",
+      "values": [
+        "Řecko",
+        "Rusko",
+        "Švédsko",
+        "Norsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Střední Makedonie",
+      "values": [
+        "Slovensko",
+        "Česko",
+        "Švédsko",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rogaland",
+      "values": [
+        "Norsko",
+        "Řecko",
+        "Slovensko",
+        "Švédsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

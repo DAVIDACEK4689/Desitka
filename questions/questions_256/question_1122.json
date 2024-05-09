@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] cyklistu?",
+  "questions": [
+    {
+      "key": "Peter Sagan",
+      "values": [
+        "slovenského",
+        "rakouského",
+        "italského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Wout van Aert",
+      "values": [
+        "švýcarského",
+        "belgického",
+        "slovenského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Roman Kreuziger",
+      "values": [
+        "českého",
+        "francouzského",
+        "rakouského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eddy Merckx",
+      "values": [
+        "slovenského",
+        "nizozemského",
+        "belgického",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alberto Contador",
+      "values": [
+        "švýcarského",
+        "španělského",
+        "německého",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miguel Indurain",
+      "values": [
+        "rakouského",
+        "španělského",
+        "dánského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Leopold König",
+      "values": [
+        "britského",
+        "amerického",
+        "českého",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Thibaut Pinot",
+      "values": [
+        "dánského",
+        "francouzského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Veselý",
+      "values": [
+        "německého",
+        "československého",
+        "nizozemského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jacques Anquetil",
+      "values": [
+        "francouzského",
+        "britského",
+        "slovinského",
+        "československého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

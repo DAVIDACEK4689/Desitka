@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] bubeníka?",
+  "questions": [
+    {
+      "key": "František Ringo Čech",
+      "values": [
+        "českého",
+        "australského",
+        "britského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dave Grohl",
+      "values": [
+        "amerického",
+        "australského",
+        "slovenského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Hejduk",
+      "values": [
+        "finského",
+        "britského",
+        "českého",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Christoph Schneider",
+      "values": [
+        "českého",
+        "australského",
+        "slovenského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eric Carr",
+      "values": [
+        "britského",
+        "německého",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lukáš Perný",
+      "values": [
+        "australského",
+        "německého",
+        "britského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Pavka",
+      "values": [
+        "kanadského",
+        "britského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zdeněk Kluka",
+      "values": [
+        "britského",
+        "německého",
+        "českého",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Martin Škaroupka",
+      "values": [
+        "českého",
+        "norského",
+        "kanadského",
+        "australského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Randy Castillo",
+      "values": [
+        "amerického",
+        "norského",
+        "kanadského",
+        "australského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

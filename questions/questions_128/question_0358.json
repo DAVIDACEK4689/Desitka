@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva u Grunwaldu",
+      "values": [
+        "907",
+        "1410",
+        "1298",
+        "1941"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pražská ofenzíva",
+      "values": [
+        "1945",
+        "1424",
+        "1438",
+        "1836"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva o Vukovar",
+      "values": [
+        "1991",
+        "1861",
+        "1953",
+        "1302"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vylodění u Anzia",
+      "values": [
+        "1968",
+        "1588",
+        "1944",
+        "1904"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Letecký souboj nad Merklínem",
+      "values": [
+        "1571",
+        "1746",
+        "1953",
+        "1993"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva na Kolubaře",
+      "values": [
+        "1898",
+        "1631",
+        "1914",
+        "1621"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "První bitva o Damanskij",
+      "values": [
+        "1917",
+        "1969",
+        "533",
+        "1859"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Malplaquet",
+      "values": [
+        "1709",
+        "1687",
+        "1415",
+        "1896"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Uherského Brodu",
+      "values": [
+        "1789",
+        "1775",
+        "1469",
+        "1619"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Řevničova",
+      "values": [
+        "1410",
+        "1621",
+        "1434",
+        "1969"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

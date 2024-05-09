@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte sport podle československého sportovce",
+  "questions": [
+    {
+      "key": "Eliška Junková",
+      "values": [
+        "tenista",
+        "automobilový závodník",
+        "stolní tenista",
+        "veslař"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Dědeček",
+      "values": [
+        "boxer",
+        "fotbalista",
+        "veslař",
+        "basketbalista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Nováček",
+      "values": [
+        "plavec",
+        "tenista",
+        "horolezec",
+        "boxer"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stanislav Konopásek",
+      "values": [
+        "basketbalista",
+        "volejbalista",
+        "lední hokejista",
+        "akrobatický letec"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jozef Psotka",
+      "values": [
+        "atlet",
+        "tenista",
+        "horolezec",
+        "automobilový závodník"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Bobrovský",
+      "values": [
+        "vodní lyžař",
+        "atlet",
+        "basketbalista",
+        "horolezec"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Mikoláš",
+      "values": [
+        "horolezec",
+        "volejbalista",
+        "automobilový závodník",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Salo Flohr",
+      "values": [
+        "tenista",
+        "šachista",
+        "basketbalista",
+        "stolní tenista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Michálek",
+      "values": [
+        "lední hokejista",
+        "cyklista",
+        "fotbalista",
+        "šachista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alipi Kostadinov",
+      "values": [
+        "volejbalista",
+        "cyklista",
+        "stolní tenista",
+        "pozemní hokejista"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

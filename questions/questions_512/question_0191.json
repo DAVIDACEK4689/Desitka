@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] automobilku?",
+  "questions": [
+    {
+      "key": "Škoda Auto",
+      "values": [
+        "českou",
+        "britskou",
+        "francouzskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zetor",
+      "values": [
+        "českou",
+        "americkou",
+        "španělskou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ferrari",
+      "values": [
+        "italskou",
+        "českou",
+        "německou",
+        "maďarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "McLaren",
+      "values": [
+        "britskou",
+        "japonskou",
+        "německou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Volvo",
+      "values": [
+        "francouzskou",
+        "britskou",
+        "rumunskou",
+        "švédskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Honda",
+      "values": [
+        "britskou",
+        "japonskou",
+        "německou",
+        "švédskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nissan",
+      "values": [
+        "maďarskou",
+        "japonskou",
+        "rumunskou",
+        "švédskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Land Rover",
+      "values": [
+        "německou",
+        "českou",
+        "italskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaguar Cars",
+      "values": [
+        "nizozemskou",
+        "italskou",
+        "německou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Suzuki",
+      "values": [
+        "japonskou",
+        "nizozemskou",
+        "jihokorejskou",
+        "rumunskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

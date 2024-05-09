@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Pelyněk",
+      "values": [
+        "Madagaskar",
+        "Česko",
+        "Mongolsko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Banánovník",
+      "values": [
+        "Nový Zéland",
+        "Mongolsko",
+        "Česko",
+        "Austrálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Opuncie",
+      "values": [
+        "Česko",
+        "Mexiko",
+        "Brazílie",
+        "Nový Zéland"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Olivovník",
+      "values": [
+        "Austrálie",
+        "Mongolsko",
+        "Mexiko",
+        "Madagaskar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Borovice vejmutovka",
+      "values": [
+        "Mexiko",
+        "Brazílie",
+        "Madagaskar",
+        "Austrálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Barvínek menší",
+      "values": [
+        "Česko",
+        "Madagaskar",
+        "Brazílie",
+        "Austrálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rozchodnice růžová",
+      "values": [
+        "Mexiko",
+        "Austrálie",
+        "Mongolsko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ananasovník chocholatý",
+      "values": [
+        "Mexiko",
+        "Česko",
+        "Brazílie",
+        "Nový Zéland"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lýkovec",
+      "values": [
+        "Česko",
+        "Mongolsko",
+        "Madagaskar",
+        "Austrálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bez chebdí",
+      "values": [
+        "Mongolsko",
+        "Česko",
+        "Austrálie",
+        "Madagaskar"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

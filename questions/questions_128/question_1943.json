@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle úmrtí",
+  "questions": [
+    {
+      "key": "Benito Mussolini",
+      "values": [
+        "Finsko",
+        "Dominikánská republika",
+        "Itálie",
+        "Monako"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Maxim Gorkij",
+      "values": [
+        "Itálie",
+        "Belgie",
+        "Rusko",
+        "Finsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Helene Schjerfbecková",
+      "values": [
+        "Kolumbie",
+        "Švédsko",
+        "Izrael",
+        "Uruguay"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vasco Núñez de Balboa",
+      "values": [
+        "Maďarsko",
+        "Zambie",
+        "Panama",
+        "Singapur"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pietro Badoglio",
+      "values": [
+        "Brazílie",
+        "Itálie",
+        "Rusko",
+        "Monako"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Francisco de Orellana",
+      "values": [
+        "Vietnam",
+        "Brazílie",
+        "Venezuela",
+        "Řecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michaela Tichá",
+      "values": [
+        "Irsko",
+        "Sýrie",
+        "Egypt",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Emil z Fürstenbergu",
+      "values": [
+        "Alžírsko",
+        "Angola",
+        "Rakousko",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Óscar Romero",
+      "values": [
+        "Litva",
+        "Salvador",
+        "Nepál",
+        "Vietnam"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Václav František Vinš",
+      "values": [
+        "Gruzie",
+        "Polsko",
+        "Grónsko",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

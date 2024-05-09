@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] vězně?",
+  "questions": [
+    {
+      "key": "Anders Behring Breivik",
+      "values": [
+        "sovětského",
+        "běloruského",
+        "norského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaroslav a Dana Stodolovi",
+      "values": [
+        "běloruského",
+        "ruského",
+        "norského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Rath",
+      "values": [
+        "íránského",
+        "běloruského",
+        "českého",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bernard Madoff",
+      "values": [
+        "íránského",
+        "německého",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "George Jung",
+      "values": [
+        "íránského",
+        "velšského",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Wesley Snipes",
+      "values": [
+        "běloruského",
+        "amerického",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michail Chodorkovskij",
+      "values": [
+        "velšského",
+        "ruského",
+        "českého",
+        "izraelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vladimír Bayer",
+      "values": [
+        "izraelského",
+        "českého",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dandeny Muñoz Mosquera",
+      "values": [
+        "íránského",
+        "francouzského",
+        "amerického",
+        "izraelského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ian Watkins",
+      "values": [
+        "velšského",
+        "íránského",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

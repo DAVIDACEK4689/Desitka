@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle archeologické lokality",
+  "questions": [
+    {
+      "key": "Hallstatt",
+      "values": [
+        "Rakousko",
+        "Indonésie",
+        "Chorvatsko",
+        "Řecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Altamira",
+      "values": [
+        "Sýrie",
+        "Španělsko",
+        "Irák",
+        "Gruzie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gíza",
+      "values": [
+        "Tunisko",
+        "Turecko",
+        "Albánie",
+        "Egypt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Palmýra",
+      "values": [
+        "Sýrie",
+        "Litva",
+        "Itálie",
+        "Ukrajina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Šaľa",
+      "values": [
+        "Irák",
+        "Federativní státy Mikronésie",
+        "Slovensko",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nan Madol",
+      "values": [
+        "Gruzie",
+        "Turecko",
+        "Federativní státy Mikronésie",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ani",
+      "values": [
+        "Kambodža",
+        "Německo",
+        "Česko",
+        "Turecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zobor",
+      "values": [
+        "Litva",
+        "Česko",
+        "Francie",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Uelen",
+      "values": [
+        "Pákistán",
+        "Gruzie",
+        "Rusko",
+        "Jordánsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aspendos",
+      "values": [
+        "Jordánsko",
+        "Afghánistán",
+        "Turecko",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

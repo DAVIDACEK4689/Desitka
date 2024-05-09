@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] malíře?",
+  "questions": [
+    {
+      "key": "Hieronymus Bosch",
+      "values": [
+        "kolumbijského",
+        "španělského",
+        "nizozemského",
+        "mexického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Friedensreich Hundertwasser",
+      "values": [
+        "ukrajinského",
+        "litevského",
+        "japonského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Giorgio Vasari",
+      "values": [
+        "italského",
+        "novozélandského",
+        "francouzského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Frans Hals",
+      "values": [
+        "izraelského",
+        "britského",
+        "nizozemského",
+        "chorvatského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Honoré Daumier",
+      "values": [
+        "norského",
+        "polského",
+        "francouzského",
+        "běloruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eduard Veith",
+      "values": [
+        "francouzského",
+        "litevského",
+        "kanadského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Maurice Utrillo",
+      "values": [
+        "chilského",
+        "chorvatského",
+        "novozélandského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Břetislav Slováček",
+      "values": [
+        "českého",
+        "kanadského",
+        "ruského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Wilhelm Busch",
+      "values": [
+        "chilského",
+        "německého",
+        "slovenského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Wols",
+      "values": [
+        "francouzského",
+        "amerického",
+        "německého",
+        "norského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

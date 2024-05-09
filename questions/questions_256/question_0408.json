@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] aktivistu?",
+  "questions": [
+    {
+      "key": "Karolina Světlá",
+      "values": [
+        "jihoafrického",
+        "běloruského",
+        "českého",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nelson Mandela",
+      "values": [
+        "slovenského",
+        "německého",
+        "jihoafrického",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nina Špitálníková",
+      "values": [
+        "ukrajinského",
+        "českého",
+        "italského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Urza",
+      "values": [
+        "italského",
+        "jihoafrického",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivan Smetana",
+      "values": [
+        "českého",
+        "francouzského",
+        "indického",
+        "jihoafrického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Darja Duginová",
+      "values": [
+        "českého",
+        "německého",
+        "ruského",
+        "indického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Viktorija Amelinová",
+      "values": [
+        "italského",
+        "ukrajinského",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Burt Lancaster",
+      "values": [
+        "italského",
+        "australského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ronan Farrow",
+      "values": [
+        "amerického",
+        "německého",
+        "českého",
+        "běloruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jaroslav Miko",
+      "values": [
+        "českého",
+        "ukrajinského",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

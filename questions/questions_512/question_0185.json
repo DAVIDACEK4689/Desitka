@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle českého sportovce",
+  "questions": [
+    {
+      "key": "Jiří Lehečka",
+      "values": [
+        "jezdec",
+        "akrobatický letec",
+        "tenista",
+        "fotbalista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Jákl",
+      "values": [
+        "ragbista",
+        "judista",
+        "golfista",
+        "fotbalista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Radek Jaroš",
+      "values": [
+        "horolezec",
+        "basketbalista",
+        "automobilový závodník",
+        "kanoista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jakub Menšík",
+      "values": [
+        "šachista",
+        "rybář",
+        "kickboxeři",
+        "tenista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Matěj Houška",
+      "values": [
+        "rybář",
+        "bojový umělec",
+        "lední hokejista",
+        "cyklista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rostislav Klesla",
+      "values": [
+        "boxer",
+        "bojový umělec",
+        "jezdec",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Kaberle",
+      "values": [
+        "kickboxeři",
+        "lední hokejista",
+        "kajakář",
+        "kanoista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Pála",
+      "values": [
+        "tenista",
+        "rychlostní kanoista",
+        "kickboxeři",
+        "fotbalista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David Kaše",
+      "values": [
+        "lední hokejista",
+        "akrobatický letec",
+        "kickboxeři",
+        "boxer"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Matěj Blümel",
+      "values": [
+        "judista",
+        "lední hokejista",
+        "rybář",
+        "jezdec"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

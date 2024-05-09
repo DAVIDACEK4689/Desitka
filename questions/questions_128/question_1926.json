@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebníka?",
+  "questions": [
+    {
+      "key": "David Matásek",
+      "values": [
+        "českého",
+        "australského",
+        "jihokorejského",
+        "chorvatského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jáchym Topol",
+      "values": [
+        "bulharského",
+        "arménského",
+        "českého",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Theo James",
+      "values": [
+        "francouzského",
+        "norského",
+        "jamajského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hector Berlioz",
+      "values": [
+        "řeckého",
+        "jihokorejského",
+        "gruzínského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Goran Bregović",
+      "values": [
+        "jugoslávského",
+        "gruzínského",
+        "chorvatského",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Igor Cavalera",
+      "values": [
+        "amerického",
+        "brazilského",
+        "švýcarského",
+        "arménského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Leeroy Thornhill",
+      "values": [
+        "norského",
+        "francouzského",
+        "britského",
+        "jugoslávského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andrea Corr",
+      "values": [
+        "jamajského",
+        "belgického",
+        "indického",
+        "irského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaromír Vogel",
+      "values": [
+        "švédského",
+        "jihokorejského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Salvatore Adamo",
+      "values": [
+        "islandského",
+        "slovenského",
+        "belgického",
+        "polského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

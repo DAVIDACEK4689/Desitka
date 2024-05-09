@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] román?",
+  "questions": [
+    {
+      "key": "Obraz Doriana Graye",
+      "values": [
+        "americký",
+        "slovenský",
+        "irský",
+        "rakouský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hlava XXII",
+      "values": [
+        "americký",
+        "ruský",
+        "německý",
+        "rakouský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pán much",
+      "values": [
+        "americký",
+        "irský",
+        "britský",
+        "anglický"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vyhoďme ho z kola ven",
+      "values": [
+        "britský",
+        "čínský",
+        "americký",
+        "německý"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dobrodružství Huckleberryho Finna",
+      "values": [
+        "americký",
+        "ruský",
+        "polský",
+        "český"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oblomov",
+      "values": [
+        "japonský",
+        "český",
+        "čínský",
+        "ruský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Utrpení knížete Sternenhocha",
+      "values": [
+        "slovenský",
+        "britský",
+        "český",
+        "ruský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Něžná je noc",
+      "values": [
+        "americký",
+        "polský",
+        "francouzský",
+        "čínský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jarmark marnosti",
+      "values": [
+        "španělský",
+        "anglický",
+        "irský",
+        "rakouský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Muž bez vlastností",
+      "values": [
+        "český",
+        "australský",
+        "slovenský",
+        "rakouský"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

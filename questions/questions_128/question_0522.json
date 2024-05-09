@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] trenéra?",
+  "questions": [
+    {
+      "key": "Aziz Šaveršijan",
+      "values": [
+        "australského",
+        "polského",
+        "českého",
+        "československého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ondrej Nepela",
+      "values": [
+        "amerického",
+        "československého",
+        "polského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaroslav Potměšil",
+      "values": [
+        "československého",
+        "australského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaroslav Sakala",
+      "values": [
+        "československého",
+        "českého",
+        "australského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Olga Charvátová",
+      "values": [
+        "polského",
+        "amerického",
+        "australského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dušan Dědeček",
+      "values": [
+        "australského",
+        "amerického",
+        "polského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaroslav Hošek",
+      "values": [
+        "polského",
+        "českého",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Nálepa",
+      "values": [
+        "českého",
+        "polského",
+        "australského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Patrick Ewing",
+      "values": [
+        "polského",
+        "slovenského",
+        "československého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Barbora Horáčková",
+      "values": [
+        "československého",
+        "polského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

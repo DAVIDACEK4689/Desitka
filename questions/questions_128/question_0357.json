@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Obležení Waco",
+      "values": [
+        "1849",
+        "1789",
+        "1993",
+        "1942"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva na Kosově poli",
+      "values": [
+        "1643",
+        "1389",
+        "1666",
+        "1631"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Leyte",
+      "values": [
+        "1191",
+        "1402",
+        "1944",
+        "1565"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nálet na Mladou Boleslav",
+      "values": [
+        "1898",
+        "1945",
+        "1461",
+        "1438"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Valmy",
+      "values": [
+        "1937",
+        "1177",
+        "1453",
+        "1792"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Leuthenu",
+      "values": [
+        "1757",
+        "1854",
+        "1438",
+        "1918"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Masakr v Suchumi",
+      "values": [
+        "1743",
+        "1969",
+        "1993",
+        "1954"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Jasla",
+      "values": [
+        "1666",
+        "1945",
+        "1800",
+        "1380"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Žďáru",
+      "values": [
+        "1620",
+        "1745",
+        "1988",
+        "878"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Tarutina",
+      "values": [
+        "1426",
+        "1435",
+        "1861",
+        "1812"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Poslední aristokratka",
+      "values": [
+        "Jiří Vejdělek",
+        "Petr Zelenka",
+        "Ondřej Trojan",
+        "Ladislav Rychman"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jak básníci čekají na zázrak",
+      "values": [
+        "Jindřich Polák",
+        "Vít Olmer",
+        "Dušan Klein",
+        "Bohdan Sláma"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Smrt stopařek",
+      "values": [
+        "Jindřich Polák",
+        "Ivan Passer",
+        "Václav Wasserman",
+        "Hynek Bočan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zakleté pírko",
+      "values": [
+        "Antonín Moskalyk",
+        "Zdeněk Troška",
+        "Petr Jákl",
+        "Martin Frič"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ikarie XB 1",
+      "values": [
+        "Karel Kachyňa",
+        "Miroslav Sobota",
+        "Zbyněk Brynych",
+        "Jindřich Polák"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vrásky z lásky",
+      "values": [
+        "Jiří Strach",
+        "Ladislav Smoljak",
+        "Zdeněk Podskalský",
+        "Filip Renč"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Případ pro začínajícího kata",
+      "values": [
+        "Jan Prušinovský",
+        "Jan Svěrák",
+        "Tomáš Vorel",
+        "Pavel Juráček"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Srdečný pozdrav ze zeměkoule",
+      "values": [
+        "Jan Schmidt",
+        "Miloslav Šmídmajer",
+        "Jan Svěrák",
+        "Oldřich Lipský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zkřížené meče",
+      "values": [
+        "Václav Binovec",
+        "Jaromil Jireš",
+        "Miroslav Sobota",
+        "David Ondříček"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ta naše písnička česká",
+      "values": [
+        "Zdeněk Podskalský",
+        "Miloš Forman",
+        "Jan Prušinovský",
+        "Otakar Vávra"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

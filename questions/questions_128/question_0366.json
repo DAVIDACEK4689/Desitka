@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] miliardáře?",
+  "questions": [
+    {
+      "key": "Andrej Babiš",
+      "values": [
+        "amerického",
+        "britského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kanye West",
+      "values": [
+        "rakouského",
+        "ukrajinského",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mark Zuckerberg",
+      "values": [
+        "amerického",
+        "tureckého",
+        "slovenského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michal Strnad",
+      "values": [
+        "českého",
+        "tureckého",
+        "ukrajinského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "John Pierpont Morgan",
+      "values": [
+        "ukrajinského",
+        "ruského",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Luděk Sekyra",
+      "values": [
+        "tureckého",
+        "českého",
+        "slovenského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavel Durov",
+      "values": [
+        "slovenského",
+        "ukrajinského",
+        "ruského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dustin Moskovitz",
+      "values": [
+        "slovenského",
+        "ruského",
+        "ukrajinského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zbyněk Frolík",
+      "values": [
+        "českého",
+        "tureckého",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fethullah Gülen",
+      "values": [
+        "ruského",
+        "tureckého",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

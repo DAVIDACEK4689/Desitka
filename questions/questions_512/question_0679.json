@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Patrik Schick",
+      "values": [
+        "slovenského",
+        "českého",
+        "argentinského",
+        "severoirského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Romelu Lukaku",
+      "values": [
+        "portugalského",
+        "belgického",
+        "dánského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kaká",
+      "values": [
+        "brazilského",
+        "chorvatského",
+        "severoirského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Theodor Gebre Selassie",
+      "values": [
+        "sovětského",
+        "českého",
+        "velšského",
+        "československého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tomáš Skuhravý",
+      "values": [
+        "českého",
+        "španělského",
+        "kamerunského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oliver Kahn",
+      "values": [
+        "nizozemského",
+        "argentinského",
+        "kolumbijského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Luděk Mikloško",
+      "values": [
+        "severoirského",
+        "ukrajinského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Carles Puyol",
+      "values": [
+        "španělského",
+        "nizozemského",
+        "kolumbijského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Radek Slončík",
+      "values": [
+        "českého",
+        "belgického",
+        "sovětského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lautaro Martínez",
+      "values": [
+        "československého",
+        "argentinského",
+        "kostarického",
+        "polského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

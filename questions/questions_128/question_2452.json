@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kytaristu?",
+  "questions": [
+    {
+      "key": "Tom Kaulitz",
+      "values": [
+        "norského",
+        "irského",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Milan Schelinger",
+      "values": [
+        "českého",
+        "mexického",
+        "francouzského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bob Frídl",
+      "values": [
+        "švédského",
+        "italského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chad Kroeger",
+      "values": [
+        "dánského",
+        "maďarského",
+        "irského",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kevin Jonas",
+      "values": [
+        "mexického",
+        "amerického",
+        "slovenského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Milan Devinne",
+      "values": [
+        "australského",
+        "izraelského",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Richie Kotzen",
+      "values": [
+        "slovenského",
+        "amerického",
+        "izraelského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karolína Kamberská",
+      "values": [
+        "českého",
+        "mexického",
+        "argentinského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paul Gilbert",
+      "values": [
+        "brazilského",
+        "jihoafrického",
+        "italského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ondřej Voršilka",
+      "values": [
+        "maďarského",
+        "českého",
+        "jihoafrického",
+        "mexického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

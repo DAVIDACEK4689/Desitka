@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte město podle geografie",
+  "questions": [
+    {
+      "key": "Vatikán",
+      "values": [
+        "Řím",
+        "Helsinky",
+        "Paříž",
+        "Londýn"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Temže",
+      "values": [
+        "Kodaň",
+        "Helsinky",
+        "Londýn",
+        "Sofie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Musala",
+      "values": [
+        "Buenos Aires",
+        "Řím",
+        "Kodaň",
+        "Sofie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "La Défense",
+      "values": [
+        "Paříž",
+        "Řím",
+        "Sofie",
+        "Sevastopol"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gellértova hora",
+      "values": [
+        "Buenos Aires",
+        "Budapešť",
+        "Řím",
+        "Sofie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pešť",
+      "values": [
+        "Řím",
+        "Sevastopol",
+        "Paříž",
+        "Budapešť"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Covent Garden",
+      "values": [
+        "Paříž",
+        "Londýn",
+        "Budapešť",
+        "Helsinky"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Notting Hill",
+      "values": [
+        "Sevastopol",
+        "Budapešť",
+        "Sofie",
+        "Londýn"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rila",
+      "values": [
+        "Sevastopol",
+        "Sofie",
+        "Londýn",
+        "Kodaň"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aventin",
+      "values": [
+        "Sofie",
+        "Řím",
+        "Londýn",
+        "Budapešť"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

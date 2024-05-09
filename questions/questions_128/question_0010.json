@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte autora podle stavby",
+  "questions": [
+    {
+      "key": "Fakultní Thomayerova nemocnice",
+      "values": [
+        "Bohumír Kozák",
+        "Josef Gočár",
+        "Jaroslav Fragner",
+        "Richard Klenka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Historická budova Národního muzea",
+      "values": [
+        "Josef Schulz",
+        "František Albert Libra",
+        "Ladislav Machoň",
+        "Věra Machoninová"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ondřejovská hvězdárna",
+      "values": [
+        "Le Corbusier",
+        "Gustave Eiffel",
+        "Josef Fanta",
+        "Zaha Hadid"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Klášter Hájek",
+      "values": [
+        "Osvald Polívka",
+        "Carlo Lurago",
+        "Jože Plečnik",
+        "Josef Danda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Štencův dům",
+      "values": [
+        "Věra Machoninová",
+        "Frank Gehry",
+        "Stanislav Franc",
+        "Matěj Blecha"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Elektrárna Kolín",
+      "values": [
+        "Věra Machoninová",
+        "Jaroslav Fragner",
+        "Pavel Janák",
+        "Adolf Foehr"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pražská úvěrní banka",
+      "values": [
+        "Emil Králíček",
+        "Otakar Novotný",
+        "Osvald Polívka",
+        "Kamil Roškot"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dresden Hauptbahnhof",
+      "values": [
+        "Norman Foster",
+        "Stanislav Franc",
+        "Adolf Loos",
+        "Matěj Blecha"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Špálova vila",
+      "values": [
+        "František Antonín Grimm",
+        "Carlo Lurago",
+        "Otakar Novotný",
+        "Karel Prager"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vila Kouřimka",
+      "values": [
+        "Matěj Blecha",
+        "Josef Fanta",
+        "Václav Aulický",
+        "Jan Chládek"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

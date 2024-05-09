@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] aktivistu?",
+  "questions": [
+    {
+      "key": "George Orwell",
+      "values": [
+        "ruského",
+        "německého",
+        "britského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gina Lollobrigida",
+      "values": [
+        "německého",
+        "francouzského",
+        "italského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Matka Tereza",
+      "values": [
+        "indického",
+        "amerického",
+        "kanadského",
+        "australského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sebastian Vettel",
+      "values": [
+        "slovenského",
+        "amerického",
+        "ruského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dean Reed",
+      "values": [
+        "amerického",
+        "indického",
+        "britského",
+        "běloruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Julian Assange",
+      "values": [
+        "ruského",
+        "australského",
+        "běloruského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marcel Kolaja",
+      "values": [
+        "indického",
+        "amerického",
+        "běloruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bohumil Kartous",
+      "values": [
+        "českého",
+        "amerického",
+        "jihoafrického",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Amanda Knoxová",
+      "values": [
+        "australského",
+        "britského",
+        "amerického",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Darja Duginová",
+      "values": [
+        "českého",
+        "australského",
+        "ruského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

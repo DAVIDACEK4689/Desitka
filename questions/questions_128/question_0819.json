@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte spisovatele podle literárního díla",
+  "questions": [
+    {
+      "key": "Labyrint světa a ráj srdce",
+      "values": [
+        "Jan Amos Komenský",
+        "William Saroyan",
+        "Karl Popper",
+        "Roald Dahl"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bratři Karamazovi",
+      "values": [
+        "Fjodor Michajlovič Dostojevskij",
+        "Nikolaj Vasiljevič Gogol",
+        "Alexandr Sergejevič Puškin",
+        "Jan Amos Komenský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Didactica magna",
+      "values": [
+        "Erich Kästner",
+        "Kurt Vonnegut",
+        "Simon Mawer",
+        "Jan Amos Komenský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bratři Lví srdce",
+      "values": [
+        "Astrid Lindgrenová",
+        "Friedrich Nietzsche",
+        "Karl Popper",
+        "Mark Twain"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Informatorium školy mateřské",
+      "values": [
+        "August Strindberg",
+        "Oscar Wilde",
+        "Jack Kerouac",
+        "Jan Amos Komenský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Všechny řitě světa i ta má",
+      "values": [
+        "William Saroyan",
+        "Astrid Lindgrenová",
+        "Martin Luther",
+        "Charles Bukowski"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nový život",
+      "values": [
+        "Friedrich Nietzsche",
+        "Dante Alighieri",
+        "Haruki Murakami",
+        "William Saroyan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Malá Dorritka",
+      "values": [
+        "Victor Hugo",
+        "Alexandr Sergejevič Puškin",
+        "George Gordon Byron",
+        "Charles Dickens"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dělníci moře",
+      "values": [
+        "Neil Gaiman",
+        "Victor Hugo",
+        "Karl Popper",
+        "Stephen King"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tajemný cizinec",
+      "values": [
+        "Nikolaj Vasiljevič Gogol",
+        "Simon Mawer",
+        "Mark Twain",
+        "Jules Verne"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

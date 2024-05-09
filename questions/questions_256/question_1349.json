@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] ledního hokejistu?",
+  "questions": [
+    {
+      "key": "Alexandr Ovečkin",
+      "values": [
+        "slovenského",
+        "finského",
+        "ruského",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michal Jordán",
+      "values": [
+        "německého",
+        "českého",
+        "polského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Leon Draisaitl",
+      "values": [
+        "švédského",
+        "slovinského",
+        "lotyšského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dominik Kahun",
+      "values": [
+        "německého",
+        "ruského",
+        "československého",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mike Modano",
+      "values": [
+        "finského",
+        "ruského",
+        "kanadského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladislav Treťjak",
+      "values": [
+        "švýcarského",
+        "českého",
+        "sovětského",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Richard Pánik",
+      "values": [
+        "ruského",
+        "kanadského",
+        "slovenského",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stanislav Konopásek",
+      "values": [
+        "polského",
+        "ruského",
+        "československého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miroslav Fryčer",
+      "values": [
+        "slovenského",
+        "československého",
+        "lotyšského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Milan Kraft",
+      "values": [
+        "sovětského",
+        "kanadského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

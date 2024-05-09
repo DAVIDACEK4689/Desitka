@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] cestovatele?",
+  "questions": [
+    {
+      "key": "Marco Polo",
+      "values": [
+        "italského",
+        "britského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miroslav Zikmund",
+      "values": [
+        "amerického",
+        "českého",
+        "německého",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Julius Zeyer",
+      "values": [
+        "amerického",
+        "německého",
+        "českého",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "James Cook",
+      "values": [
+        "slovenského",
+        "norského",
+        "britského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hernán Cortés",
+      "values": [
+        "ruského",
+        "německého",
+        "španělského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ladislav Zibura",
+      "values": [
+        "českého",
+        "španělského",
+        "norského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Thor Heyerdahl",
+      "values": [
+        "norského",
+        "portugalského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert Falcon Scott",
+      "values": [
+        "britského",
+        "australského",
+        "italského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Calamity Jane",
+      "values": [
+        "italského",
+        "australského",
+        "amerického",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ibráhím ibn Jákúb",
+      "values": [
+        "španělského",
+        "britského",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

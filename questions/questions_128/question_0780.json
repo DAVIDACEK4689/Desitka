@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] ministra?",
+  "questions": [
+    {
+      "key": "Alois Eliáš",
+      "values": [
+        "polského",
+        "finského",
+        "sovětského",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bernard Tapie",
+      "values": [
+        "ruského",
+        "československého",
+        "finského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lazar Kaganovič",
+      "values": [
+        "rakouského",
+        "portugalského",
+        "lucemburského",
+        "sovětského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Alois Schumpeter",
+      "values": [
+        "italského",
+        "rakouského",
+        "československého",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Matteo Salvini",
+      "values": [
+        "italského",
+        "sovětského",
+        "portugalského",
+        "československého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nicolas Jean de Dieu Soult",
+      "values": [
+        "rakouského",
+        "československého",
+        "francouzského",
+        "lucemburského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Simone Veilová",
+      "values": [
+        "finského",
+        "britského",
+        "portugalského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alphonse de Lamartine",
+      "values": [
+        "německého",
+        "polského",
+        "francouzského",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vladimir Medinskij",
+      "values": [
+        "norského",
+        "ruského",
+        "sovětského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Emilio De Bono",
+      "values": [
+        "norského",
+        "polského",
+        "albánského",
+        "italského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

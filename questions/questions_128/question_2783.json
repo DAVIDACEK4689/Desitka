@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Marian Kočner",
+      "values": [
+        "ukrajinského",
+        "slovenského",
+        "libanonského",
+        "bangladéšského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Roman Abramovič",
+      "values": [
+        "japonského",
+        "ruského",
+        "britského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vivek Ramaswamy",
+      "values": [
+        "íránského",
+        "italského",
+        "amerického",
+        "mexického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Larry Ellison",
+      "values": [
+        "jihoafrického",
+        "amerického",
+        "mexického",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hugo Ferdinand Boss",
+      "values": [
+        "íránského",
+        "německého",
+        "španělského",
+        "jihoafrického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ferdinand Piëch",
+      "values": [
+        "německého",
+        "ukrajinského",
+        "jihoafrického",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Václav Klán",
+      "values": [
+        "českého",
+        "bangladéšského",
+        "německého",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zino Davidoff",
+      "values": [
+        "britského",
+        "švýcarského",
+        "švédského",
+        "běloruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jindřich Fremuth",
+      "values": [
+        "amerického",
+        "českého",
+        "německého",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Antonín Capoušek",
+      "values": [
+        "monackého",
+        "českého",
+        "švýcarského",
+        "indického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

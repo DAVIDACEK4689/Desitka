@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [téma] televizní stanici?",
+  "questions": [
+    {
+      "key": "Jetix",
+      "values": [
+        "křesťanskou",
+        "dětskou",
+        "zpravodajskou",
+        "dokumentární"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "MTV",
+      "values": [
+        "hudební",
+        "zpravodajskou",
+        "filmovou",
+        "dětskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "ČT art",
+      "values": [
+        "zpravodajskou",
+        "hudební",
+        "dokumentární",
+        "filmovou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Megamax",
+      "values": [
+        "dětskou",
+        "filmovou",
+        "sportovní",
+        "dokumentární"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cartoon Network",
+      "values": [
+        "hudební",
+        "filmovou",
+        "zpravodajskou",
+        "dětskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Discovery Channel",
+      "values": [
+        "zpravodajskou",
+        "filmovou",
+        "dokumentární",
+        "dětskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Retro Music Television",
+      "values": [
+        "hudební",
+        "dětskou",
+        "zpravodajskou",
+        "filmovou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "O2 TV Tenis",
+      "values": [
+        "filmovou",
+        "hudební",
+        "sportovní",
+        "křesťanskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "ABC News",
+      "values": [
+        "sportovní",
+        "zpravodajskou",
+        "dokumentární",
+        "dětskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "CS mini",
+      "values": [
+        "filmovou",
+        "zpravodajskou",
+        "hudební",
+        "dětskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

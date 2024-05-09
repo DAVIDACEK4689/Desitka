@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Ronaldinho",
+      "values": [
+        "brazilského",
+        "finského",
+        "belgického",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lamine Yamal",
+      "values": [
+        "českého",
+        "řeckého",
+        "španělského",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kevin De Bruyne",
+      "values": [
+        "belgického",
+        "marockého",
+        "německého",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Thomas Tuchel",
+      "values": [
+        "norského",
+        "kolumbijského",
+        "německého",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Xabi Alonso",
+      "values": [
+        "baskického",
+        "řeckého",
+        "rumunského",
+        "argentinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Remco Evenepoel",
+      "values": [
+        "belgického",
+        "anglického",
+        "chorvatského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "João Félix",
+      "values": [
+        "portugalského",
+        "baskického",
+        "španělského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "João Cancelo",
+      "values": [
+        "portugalského",
+        "slovenského",
+        "ruského",
+        "skotského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "José Antonio Reyes",
+      "values": [
+        "španělského",
+        "francouzského",
+        "portugalského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Ødegaard",
+      "values": [
+        "italského",
+        "švédského",
+        "norského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

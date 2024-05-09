@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte rok podle katastrofy",
+  "questions": [
+    {
+      "key": "Havárie elektrárny Fukušima I",
+      "values": [
+        "1991",
+        "2011",
+        "1980",
+        "2009"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tunguská událost",
+      "values": [
+        "1908",
+        "1971",
+        "1989",
+        "1973"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Požár Říšského sněmu",
+      "values": [
+        "1917",
+        "1923",
+        "1986",
+        "1933"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bouře Kyrill",
+      "values": [
+        "2021",
+        "2007",
+        "2018",
+        "2009"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vařákovy Paseky",
+      "values": [
+        "1979",
+        "1945",
+        "1954",
+        "1941"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Výbuch metanu v dole ČSM",
+      "values": [
+        "2004",
+        "2018",
+        "1937",
+        "1917"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Výbuch plynu v panelovém domě v Prešově",
+      "values": [
+        "1976",
+        "2019",
+        "1986",
+        "2015"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Expedice Terra Nova",
+      "values": [
+        "1912",
+        "1985",
+        "2013",
+        "2004"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Železniční nehoda u Santiaga de Compostela",
+      "values": [
+        "1980",
+        "1937",
+        "2013",
+        "1945"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zhroucení obchodního domu Sampoong",
+      "values": [
+        "1995",
+        "2018",
+        "1999",
+        "1916"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Hans Christian Andersen",
+      "values": [
+        "dánského",
+        "argentinského",
+        "ázerbájdžánského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pablo Neruda",
+      "values": [
+        "ukrajinského",
+        "rumunského",
+        "kolumbijského",
+        "chilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Edmund Hillary",
+      "values": [
+        "švédského",
+        "novozélandského",
+        "peruánského",
+        "jihoafrického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Charles Ingram",
+      "values": [
+        "rakouského",
+        "srbského",
+        "kanadského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lev Kameněv",
+      "values": [
+        "ruského",
+        "srbského",
+        "indického",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Olga Tokarczuková",
+      "values": [
+        "novozélandského",
+        "indického",
+        "nizozemského",
+        "polského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jevgenij Zamjatin",
+      "values": [
+        "italského",
+        "ruského",
+        "řeckého",
+        "vietnamského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Deepak Chopra",
+      "values": [
+        "švýcarského",
+        "chilského",
+        "indického",
+        "vietnamského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Adam Weishaupt",
+      "values": [
+        "německého",
+        "izraelského",
+        "australského",
+        "filipínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kamill Resler",
+      "values": [
+        "kolumbijského",
+        "českého",
+        "amerického",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

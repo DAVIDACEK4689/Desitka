@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Jiří Hrzán",
+      "values": [
+        "českého",
+        "gruzínského",
+        "maďarského",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Pavlica",
+      "values": [
+        "belgického",
+        "brazilského",
+        "českého",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Milan Drobný",
+      "values": [
+        "ruského",
+        "kanadského",
+        "norského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Paul Rodgers",
+      "values": [
+        "nizozemského",
+        "ruského",
+        "britského",
+        "jihokorejského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dan McCafferty",
+      "values": [
+        "argentinského",
+        "skotského",
+        "irského",
+        "uruguayského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fancy",
+      "values": [
+        "finského",
+        "švédského",
+        "skotského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mikoláš Chadima",
+      "values": [
+        "portorického",
+        "českého",
+        "kanadského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Benjamin Kowalewicz",
+      "values": [
+        "japonského",
+        "kanadského",
+        "švýcarského",
+        "portorického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Quorthon",
+      "values": [
+        "irského",
+        "švédského",
+        "islandského",
+        "jihokorejského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavel Pešata",
+      "values": [
+        "českého",
+        "mexického",
+        "belgického",
+        "skotského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

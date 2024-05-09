@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Petr Spálený",
+      "values": [
+        "sovětského",
+        "českého",
+        "skotského",
+        "moldavského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Ďurinda",
+      "values": [
+        "japonského",
+        "švédského",
+        "jihoafrického",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Angelo Kelly",
+      "values": [
+        "jamajského",
+        "uruguayského",
+        "dánského",
+        "irského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mika",
+      "values": [
+        "dánského",
+        "britského",
+        "českého",
+        "jamajského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Trace Cyrus",
+      "values": [
+        "francouzského",
+        "amerického",
+        "italského",
+        "gruzínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Pošta",
+      "values": [
+        "izraelského",
+        "českého",
+        "norského",
+        "portorického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stephen Gately",
+      "values": [
+        "australského",
+        "brazilského",
+        "irského",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dima Bilan",
+      "values": [
+        "francouzského",
+        "ruského",
+        "irského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Billy Connolly",
+      "values": [
+        "skotského",
+        "sovětského",
+        "švýcarského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Blixa Bargeld",
+      "values": [
+        "britského",
+        "argentinského",
+        "chorvatského",
+        "německého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

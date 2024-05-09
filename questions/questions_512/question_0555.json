@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zločince?",
+  "questions": [
+    {
+      "key": "Jiří Kajínek",
+      "values": [
+        "českého",
+        "amerického",
+        "britského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Antonín Běla",
+      "values": [
+        "ruského",
+        "německého",
+        "českého",
+        "kolumbijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "6ix9ine",
+      "values": [
+        "mexického",
+        "amerického",
+        "francouzského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "George Jung",
+      "values": [
+        "jihoafrického",
+        "ukrajinského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jimmy Hoffa",
+      "values": [
+        "kolumbijského",
+        "ruského",
+        "amerického",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Muž se železnou maskou",
+      "values": [
+        "amerického",
+        "mexického",
+        "slovenského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gilberto Rodríguez Orejuela",
+      "values": [
+        "německého",
+        "amerického",
+        "kolumbijského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Butch Cassidy",
+      "values": [
+        "německého",
+        "francouzského",
+        "amerického",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ned Kelly",
+      "values": [
+        "jihoafrického",
+        "australského",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "George Floyd",
+      "values": [
+        "ruského",
+        "amerického",
+        "mexického",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

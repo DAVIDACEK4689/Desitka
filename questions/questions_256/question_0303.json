@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Soluň",
+      "values": [
+        "Uzbekistán",
+        "Afghánistán",
+        "Řecko",
+        "Černá Hora"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nagasaki",
+      "values": [
+        "Estonsko",
+        "Japonsko",
+        "Malajsie",
+        "Maďarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Villach",
+      "values": [
+        "Somálsko",
+        "Rakousko",
+        "Estonsko",
+        "Nikaragua"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Szombathely",
+      "values": [
+        "Tanzanie",
+        "Maďarsko",
+        "Malta",
+        "Zambie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Edirne",
+      "values": [
+        "Rumunsko",
+        "Turecko",
+        "Španělsko",
+        "Libanon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Famagusta",
+      "values": [
+        "Portugalsko",
+        "Kypr",
+        "Burkina Faso",
+        "Honduras"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Brazzaville",
+      "values": [
+        "Nikaragua",
+        "Konžská republika",
+        "Jemen",
+        "Bulharsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tullamore",
+      "values": [
+        "Belgie",
+        "Irsko",
+        "Namibie",
+        "Libye"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nijmegen",
+      "values": [
+        "Ghana",
+        "Brazílie",
+        "Madagaskar",
+        "Nizozemsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Svätý Jur",
+      "values": [
+        "Slovensko",
+        "Moldavsko",
+        "Portugalsko",
+        "Litva"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

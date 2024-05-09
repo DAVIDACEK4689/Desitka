@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] ekonoma?",
+  "questions": [
+    {
+      "key": "Katalin Nováková",
+      "values": [
+        "francouzského",
+        "belgického",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vladimír Pikora",
+      "values": [
+        "českého",
+        "ruského",
+        "švédského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "John Stuart Mill",
+      "values": [
+        "moldavského",
+        "britského",
+        "portugalského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Jahn",
+      "values": [
+        "českého",
+        "indického",
+        "německého",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gitanas Nausėda",
+      "values": [
+        "brazilského",
+        "litevského",
+        "dánského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nicolas Fouquet",
+      "values": [
+        "chilského",
+        "britského",
+        "francouzského",
+        "bulharského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jakub Fischer",
+      "values": [
+        "skotského",
+        "českého",
+        "kolumbijského",
+        "chilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jacques Necker",
+      "values": [
+        "italského",
+        "francouzského",
+        "moldavského",
+        "peruánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hyman Minsky",
+      "values": [
+        "norského",
+        "rakouského",
+        "amerického",
+        "moldavského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ladislav Kos",
+      "values": [
+        "bangladéšského",
+        "estonského",
+        "českého",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

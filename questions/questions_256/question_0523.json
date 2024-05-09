@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebníka?",
+  "questions": [
+    {
+      "key": "Bořek Slezáček",
+      "values": [
+        "ukrajinského",
+        "českého",
+        "rumunského",
+        "jugoslávského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adam Kajumi",
+      "values": [
+        "rumunského",
+        "českého",
+        "kanadského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gwen Stefani",
+      "values": [
+        "nizozemského",
+        "španělského",
+        "portorického",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ezra Miller",
+      "values": [
+        "amerického",
+        "nizozemského",
+        "indického",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mike Grose",
+      "values": [
+        "arménského",
+        "českého",
+        "španělského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bill Cosby",
+      "values": [
+        "německého",
+        "amerického",
+        "portorického",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mitski",
+      "values": [
+        "brazilského",
+        "japonského",
+        "australského",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vídeňští filharmonikové",
+      "values": [
+        "jihokorejského",
+        "nizozemského",
+        "rumunského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Igor Cavalera",
+      "values": [
+        "brazilského",
+        "rakouského",
+        "irského",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dermot Kennedy",
+      "values": [
+        "irského",
+        "indického",
+        "italského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

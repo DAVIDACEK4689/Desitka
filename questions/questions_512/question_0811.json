@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Kyjev",
+      "values": [
+        "Ukrajina",
+        "Venezuela",
+        "Slovinsko",
+        "Bolívie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Haag",
+      "values": [
+        "Mexiko",
+        "Pero",
+        "Nizozemsko",
+        "Slovensko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Narvik",
+      "values": [
+        "Rusko",
+        "Norsko",
+        "Austrálie",
+        "Thajsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nikósie",
+      "values": [
+        "Kolumbie",
+        "Egypt",
+        "Kypr",
+        "Súdán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Davos",
+      "values": [
+        "Grónsko",
+        "Černá Hora",
+        "Švýcarsko",
+        "Srí Lanka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Naarden",
+      "values": [
+        "Island",
+        "Nizozemsko",
+        "Portugalsko",
+        "Turecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miskolc",
+      "values": [
+        "Bělorusko",
+        "Česko",
+        "Mongolsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mogadišo",
+      "values": [
+        "Somálsko",
+        "Bolívie",
+        "Nizozemsko",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Siófok",
+      "values": [
+        "Japonsko",
+        "Německo",
+        "Bulharsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Turzovka",
+      "values": [
+        "Izrael",
+        "Slovensko",
+        "Madagaskar",
+        "Somálsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

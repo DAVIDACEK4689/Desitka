@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Ondřej Havelka",
+      "values": [
+        "českého",
+        "indického",
+        "švédského",
+        "guatemalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Adam Kraus",
+      "values": [
+        "namibijského",
+        "bosenského",
+        "českého",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Jiráň",
+      "values": [
+        "venezuelského",
+        "ukrajinského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vinnie Jones",
+      "values": [
+        "britského",
+        "guatemalského",
+        "chorvatského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "John Wilkes Booth",
+      "values": [
+        "amerického",
+        "portugalského",
+        "čínského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Christopher Castile",
+      "values": [
+        "britského",
+        "amerického",
+        "francouzského",
+        "malajsijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jason Biggs",
+      "values": [
+        "kanadského",
+        "amerického",
+        "dánského",
+        "bulharského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jonathan Groff",
+      "values": [
+        "italského",
+        "bulharského",
+        "australského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jorge Garcia",
+      "values": [
+        "jihoafrického",
+        "japonského",
+        "amerického",
+        "namibijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bill Burr",
+      "values": [
+        "srbského",
+        "namibijského",
+        "islandského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

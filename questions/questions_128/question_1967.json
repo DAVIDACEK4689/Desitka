@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle letiště",
+  "questions": [
+    {
+      "key": "Letiště Istanbul",
+      "values": [
+        "Německo",
+        "Chorvatsko",
+        "Turecko",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Letiště Antalya",
+      "values": [
+        "Malajsie",
+        "Kiribati",
+        "Turecko",
+        "Slovensko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Letiště Zürich",
+      "values": [
+        "Japonsko",
+        "Egypt",
+        "Jižní Korea",
+        "Švýcarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Letiště Kodaň",
+      "values": [
+        "Dánsko",
+        "Indie",
+        "Itálie",
+        "Belgie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Letiště Split",
+      "values": [
+        "Belgie",
+        "Chorvatsko",
+        "Malajsie",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Letecká základna Bagrám",
+      "values": [
+        "Ukrajina",
+        "Itálie",
+        "Afghánistán",
+        "Černá Hora"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Letiště Orio al Serio",
+      "values": [
+        "Belgie",
+        "Island",
+        "Izrael",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Letiště Oslo",
+      "values": [
+        "Slovensko",
+        "Norsko",
+        "Kiribati",
+        "Chorvatsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Letiště Düsseldorf",
+      "values": [
+        "Německo",
+        "Austrálie",
+        "Indie",
+        "Černá Hora"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Letiště Řím Ciampino",
+      "values": [
+        "Dánsko",
+        "Itálie",
+        "Ukrajina",
+        "Německo"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

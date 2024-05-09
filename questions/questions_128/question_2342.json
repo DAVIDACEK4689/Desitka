@@ -1,0 +1,105 @@
+{
+  "text": "Určete etnický původ podle Čecha",
+  "questions": [
+    {
+      "key": "Alice Masaryková",
+      "values": [
+        "francouzský původ",
+        "srbský původ",
+        "maďarský původ",
+        "britský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zdeněk Toman",
+      "values": [
+        "etiopský původ",
+        "maďarský původ",
+        "arménský původ",
+        "francouzský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Livia Klausová",
+      "values": [
+        "italský původ",
+        "židovský původ",
+        "afghánský původ",
+        "slovenský původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jakub Szántó",
+      "values": [
+        "maďarský původ",
+        "britský původ",
+        "evropský původ",
+        "etiopský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rafael Kubelík",
+      "values": [
+        "maďarský původ",
+        "etiopský původ",
+        "ruský původ",
+        "estonský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Zieleniec",
+      "values": [
+        "etiopský původ",
+        "polský původ",
+        "řecký původ",
+        "chorvatský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kostas Samaras",
+      "values": [
+        "vietnamský původ",
+        "italský původ",
+        "řecký původ",
+        "afghánský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Renáta Gorecká",
+      "values": [
+        "francouzský původ",
+        "polský původ",
+        "afghánský původ",
+        "chorvatský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Igor Petrov",
+      "values": [
+        "ruský původ",
+        "polský původ",
+        "maďarský původ",
+        "arménský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paolo della Stella",
+      "values": [
+        "ukrajinský původ",
+        "řecký původ",
+        "italský původ",
+        "asijský původ"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

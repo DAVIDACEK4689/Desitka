@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Freddie Mercury",
+      "values": [
+        "švédského",
+        "britského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Slávek Boura",
+      "values": [
+        "francouzského",
+        "arménského",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Milan Dufek",
+      "values": [
+        "francouzského",
+        "slovenského",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Renata Drössler",
+      "values": [
+        "českého",
+        "dánského",
+        "španělského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alex Švamberk",
+      "values": [
+        "českého",
+        "italského",
+        "maďarského",
+        "australského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Wilbur Soot",
+      "values": [
+        "švýcarského",
+        "britského",
+        "švédského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Heinrich Wilhelm Ernst",
+      "values": [
+        "českého",
+        "kanadského",
+        "australského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jerry Goldsmith",
+      "values": [
+        "amerického",
+        "slovenského",
+        "českého",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Bažant",
+      "values": [
+        "belgického",
+        "ruského",
+        "českého",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luděk Hulan",
+      "values": [
+        "ruského",
+        "slovinského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

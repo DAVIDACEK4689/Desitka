@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte moře podle přístavního města",
+  "questions": [
+    {
+      "key": "Istanbul",
+      "values": [
+        "Marmarské moře",
+        "Baltské moře",
+        "Severní moře",
+        "Černé moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Amsterdam",
+      "values": [
+        "Baltské moře",
+        "Černé moře",
+        "Severní moře",
+        "Irské moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Riga",
+      "values": [
+        "Rudé moře",
+        "Baltské moře",
+        "Marmarské moře",
+        "Černé moře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Edinburgh",
+      "values": [
+        "Rudé moře",
+        "Severní moře",
+        "Irské moře",
+        "Azovské moře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hurghada",
+      "values": [
+        "Baltské moře",
+        "Irské moře",
+        "Rudé moře",
+        "Azovské moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Antverpy",
+      "values": [
+        "Marmarské moře",
+        "Černé moře",
+        "Azovské moře",
+        "Severní moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tallinn",
+      "values": [
+        "Marmarské moře",
+        "Baltské moře",
+        "Rudé moře",
+        "Irské moře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Göteborg",
+      "values": [
+        "Marmarské moře",
+        "Baltské moře",
+        "Severní moře",
+        "Irské moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Brémy",
+      "values": [
+        "Azovské moře",
+        "Černé moře",
+        "Severní moře",
+        "Baltské moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Malmö",
+      "values": [
+        "Severní moře",
+        "Baltské moře",
+        "Marmarské moře",
+        "Černé moře"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

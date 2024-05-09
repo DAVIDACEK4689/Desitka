@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] časopis?",
+  "questions": [
+    {
+      "key": "Playboy",
+      "values": [
+        "francouzský",
+        "mezinárodní",
+        "československý",
+        "německý"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Filmový přehled",
+      "values": [
+        "československý",
+        "francouzský",
+        "německý",
+        "britský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "National Geographic Magazine",
+      "values": [
+        "mezinárodní",
+        "český",
+        "britský",
+        "československý"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Moderní revue",
+      "values": [
+        "československý",
+        "francouzský",
+        "český",
+        "německý"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "DTest",
+      "values": [
+        "mezinárodní",
+        "americký",
+        "francouzský",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mladý svět",
+      "values": [
+        "československý",
+        "mezinárodní",
+        "francouzský",
+        "český"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Literární noviny",
+      "values": [
+        "francouzský",
+        "český",
+        "britský",
+        "československý"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Strážná věž",
+      "values": [
+        "mezinárodní",
+        "český",
+        "československý",
+        "americký"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "The New Yorker",
+      "values": [
+        "československý",
+        "německý",
+        "americký",
+        "francouzský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "The Economist",
+      "values": [
+        "český",
+        "mezinárodní",
+        "americký",
+        "britský"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

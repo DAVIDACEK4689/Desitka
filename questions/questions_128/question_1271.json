@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Budapešť",
+      "values": [
+        "Dánsko",
+        "Slovensko",
+        "Německo",
+        "Maďarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lipsko",
+      "values": [
+        "Maďarsko",
+        "Nizozemsko",
+        "Německo",
+        "Dánsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Katánie",
+      "values": [
+        "Itálie",
+        "Irsko",
+        "Dánsko",
+        "Spojené království"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Belfast",
+      "values": [
+        "Spojené království",
+        "Polsko",
+        "Belgie",
+        "Portugalsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bristol",
+      "values": [
+        "Nizozemsko",
+        "Spojené království",
+        "Polsko",
+        "Německo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Perugia",
+      "values": [
+        "Spojené království",
+        "Maďarsko",
+        "Dánsko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Špýr",
+      "values": [
+        "Itálie",
+        "Dánsko",
+        "Slovensko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Coventry",
+      "values": [
+        "Spojené království",
+        "Maďarsko",
+        "Itálie",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Namur",
+      "values": [
+        "Spojené království",
+        "Belgie",
+        "Portugalsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gödöllő",
+      "values": [
+        "Dánsko",
+        "Maďarsko",
+        "Nizozemsko",
+        "Irsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

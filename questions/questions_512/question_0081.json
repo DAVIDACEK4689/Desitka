@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte rok podle katastrofy",
+  "questions": [
+    {
+      "key": "Metanolová aféra",
+      "values": [
+        "2009",
+        "1989",
+        "2012",
+        "2015"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hladomor na Ukrajině",
+      "values": [
+        "2014",
+        "1959",
+        "1932",
+        "1917"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Masakr v My Lai",
+      "values": [
+        "1984",
+        "1968",
+        "2014",
+        "1934"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tunguská událost",
+      "values": [
+        "1908",
+        "1966",
+        "2010",
+        "1979"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Výbuchy muničních skladů ve Vrběticích",
+      "values": [
+        "2017",
+        "1908",
+        "2013",
+        "2014"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Neštěstí v Aberfanu",
+      "values": [
+        "1908",
+        "1984",
+        "2011",
+        "1966"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Čeljabinský meteor",
+      "values": [
+        "2009",
+        "1968",
+        "2013",
+        "1932"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Exxon Valdez",
+      "values": [
+        "1968",
+        "1959",
+        "2005",
+        "1989"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hurikán Katrina",
+      "values": [
+        "1979",
+        "2005",
+        "1916",
+        "2007"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Výbuch na dole Nelson III",
+      "values": [
+        "2005",
+        "2021",
+        "2007",
+        "1934"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

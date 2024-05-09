@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle premiéra",
+  "questions": [
+    {
+      "key": "Igor Matovič",
+      "values": [
+        "Nizozemsko",
+        "Slovensko",
+        "Izrael",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sanna Marinová",
+      "values": [
+        "Finsko",
+        "Austrálie",
+        "Turecko",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kaja Kallasová",
+      "values": [
+        "Senegal",
+        "Estonsko",
+        "Bulharsko",
+        "Litva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Georges Clemenceau",
+      "values": [
+        "Francie",
+        "Bulharsko",
+        "Izrael",
+        "Malta"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jacques Delors",
+      "values": [
+        "Malta",
+        "Francie",
+        "Švédsko",
+        "Indonésie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Anthony Albanese",
+      "values": [
+        "Lotyšsko",
+        "Jihoafrická republika",
+        "Singapur",
+        "Austrálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mahathir Mohamad",
+      "values": [
+        "Kosovo",
+        "Finsko",
+        "Malajsie",
+        "Irák"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Šáhbáz Šaríf",
+      "values": [
+        "Pákistán",
+        "Španělsko",
+        "Litva",
+        "Grónsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mauno Koivisto",
+      "values": [
+        "Finsko",
+        "Bulharsko",
+        "Kosovo",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Agim Çeku",
+      "values": [
+        "Finsko",
+        "Lucembursko",
+        "Norsko",
+        "Kosovo"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

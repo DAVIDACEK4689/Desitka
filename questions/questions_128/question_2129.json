@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte rok podle železniční nehody",
+  "questions": [
+    {
+      "key": "Železniční nehoda u Řikonína",
+      "values": [
+        "2004",
+        "1950",
+        "1970",
+        "1989"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Železniční nehoda u Šakvic",
+      "values": [
+        "2020",
+        "1995",
+        "2007",
+        "1953"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Železniční nehoda v Eschede",
+      "values": [
+        "2013",
+        "1998",
+        "1953",
+        "1958"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nezajištěná jízda vlaku u Martinic",
+      "values": [
+        "2007",
+        "1995",
+        "1895",
+        "2019"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Železniční nehoda u Církvic",
+      "values": [
+        "2008",
+        "1960",
+        "1962",
+        "1970"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Železniční nehoda na nádraží Montparnasse",
+      "values": [
+        "2008",
+        "1989",
+        "1950",
+        "1895"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Železniční nehoda ve Kbelích",
+      "values": [
+        "1943",
+        "1839",
+        "1950",
+        "1962"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Srážka vlaků u Milavčí",
+      "values": [
+        "1950",
+        "2021",
+        "1990",
+        "1953"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Železniční nehoda u Českého Brodu",
+      "values": [
+        "2020",
+        "1989",
+        "2004",
+        "1960"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Železniční nehoda u Santiaga de Compostela",
+      "values": [
+        "2021",
+        "2013",
+        "2020",
+        "1839"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

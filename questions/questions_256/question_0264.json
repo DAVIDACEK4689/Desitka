@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle metra",
+  "questions": [
+    {
+      "key": "Metro v Praze",
+      "values": [
+        "Rusko",
+        "Polsko",
+        "Česko",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Metro v Londýně",
+      "values": [
+        "Spojené království",
+        "Rakousko",
+        "Česko",
+        "Švédsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Metro v Budapešti",
+      "values": [
+        "Itálie",
+        "Německo",
+        "Francie",
+        "Maďarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Metro v Moskvě",
+      "values": [
+        "Rusko",
+        "Itálie",
+        "Rakousko",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Brněnská podzemní dráha",
+      "values": [
+        "Ukrajina",
+        "Spojené království",
+        "Švédsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Metro v Paříži",
+      "values": [
+        "Francie",
+        "Švédsko",
+        "Ukrajina",
+        "Rakousko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Metro ve Varšavě",
+      "values": [
+        "Francie",
+        "Polsko",
+        "Spojené království",
+        "Španělsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Metro ve Vídni",
+      "values": [
+        "Česko",
+        "Rakousko",
+        "Polsko",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Metro v Římě",
+      "values": [
+        "Maďarsko",
+        "Rakousko",
+        "Ukrajina",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Metro v Kyjevě",
+      "values": [
+        "Španělsko",
+        "Ukrajina",
+        "Polsko",
+        "Švédsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete město podle zaniklé firmy",
+  "questions": [
+    {
+      "key": "SPT Telecom",
+      "values": [
+        "Berlín",
+        "Liberec",
+        "Praha",
+        "Třebíč"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rustonka",
+      "values": [
+        "Praha",
+        "Amsterdam",
+        "Třebíč",
+        "Ostrava"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Palace Cinemas",
+      "values": [
+        "Praha",
+        "Liberec",
+        "Berlín",
+        "Ostrava"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "ROMO",
+      "values": [
+        "Brno",
+        "Teplice",
+        "Třebíč",
+        "Berlín"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Reichenberger Automobil Fabrik",
+      "values": [
+        "Brno",
+        "Třebíč",
+        "Amsterdam",
+        "Liberec"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "První klubová pojišťovna",
+      "values": [
+        "Ostrava",
+        "Berlín",
+        "Praha",
+        "Liberec"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Holidays Czech Airlines",
+      "values": [
+        "Praha",
+        "Ostrava",
+        "Liberec",
+        "Berlín"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Arado",
+      "values": [
+        "Brno",
+        "Liberec",
+        "Amsterdam",
+        "Berlín"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vítkovické horní a hutní těžířstvo",
+      "values": [
+        "Berlín",
+        "Ostrava",
+        "Liberec",
+        "Teplice"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sklárna a rafinerie Josef Inwald",
+      "values": [
+        "Amsterdam",
+        "Praha",
+        "Teplice",
+        "Třebíč"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

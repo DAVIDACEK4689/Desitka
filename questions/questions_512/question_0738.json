@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Vesničko má středisková",
+      "values": [
+        "Juraj Herz",
+        "Ladislav Smoljak",
+        "Martin Frič",
+        "Jiří Menzel"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "S tebou mě baví svět",
+      "values": [
+        "Hynek Bočan",
+        "Marie Poledňáková",
+        "Karel Zeman",
+        "Tomáš Vorel"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Limonádový Joe aneb Koňská opera",
+      "values": [
+        "Tomáš Bařina",
+        "Oldřich Lipský",
+        "Karel Smyczek",
+        "Jan Svěrák"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cesta do pravěku",
+      "values": [
+        "Jiří Vejdělek",
+        "Hynek Bočan",
+        "Jiří Menzel",
+        "Karel Zeman"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jak se krotí krokodýli",
+      "values": [
+        "Zdeněk Troška",
+        "Marie Poledňáková",
+        "Martin Frič",
+        "Zdeněk Zelenka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Světáci",
+      "values": [
+        "Bořivoj Zeman",
+        "Martin Horský",
+        "Zdeněk Podskalský",
+        "Jiří Strach"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Smrt stopařek",
+      "values": [
+        "Martin Frič",
+        "Jindřich Polák",
+        "Jiří Menzel",
+        "Petr Jákl"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Což takhle dát si špenát",
+      "values": [
+        "Filip Renč",
+        "David Ondříček",
+        "Juraj Herz",
+        "Václav Vorlíček"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jak si zasloužit princeznu",
+      "values": [
+        "Karel Smyczek",
+        "Antonín Moskalyk",
+        "Jiří Vejdělek",
+        "Jan Schmidt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Doktor od jezera hrochů",
+      "values": [
+        "Martin Horský",
+        "Zdeněk Troška",
+        "Petr Jákl",
+        "Jindřich Polák"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

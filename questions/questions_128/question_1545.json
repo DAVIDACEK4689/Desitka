@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Johannes Brahms",
+      "values": [
+        "finského",
+        "německého",
+        "irského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Eben",
+      "values": [
+        "rumunského",
+        "belgického",
+        "českého",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "George Gershwin",
+      "values": [
+        "amerického",
+        "německého",
+        "finského",
+        "estonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miroslav Imrich",
+      "values": [
+        "českého",
+        "švýcarského",
+        "německého",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ľubica Čekovská",
+      "values": [
+        "irského",
+        "slovenského",
+        "ruského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "John Carpenter",
+      "values": [
+        "švédského",
+        "italského",
+        "polského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cole Porter",
+      "values": [
+        "jihoafrického",
+        "litevského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karol Szymanowski",
+      "values": [
+        "polského",
+        "německého",
+        "francouzského",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eliška Cílková",
+      "values": [
+        "kanadského",
+        "českého",
+        "švédského",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Stamic",
+      "values": [
+        "řeckého",
+        "německého",
+        "polského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

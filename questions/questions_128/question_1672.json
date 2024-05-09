@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [období] malíře?",
+  "questions": [
+    {
+      "key": "Albrecht Dürer",
+      "values": [
+        "renesančního",
+        "romantického",
+        "rokokového",
+        "gotického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mistr Theodorik",
+      "values": [
+        "realistického",
+        "gotického",
+        "secesního",
+        "romantického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vojtěch Preissig",
+      "values": [
+        "realistického",
+        "gotického",
+        "secesního",
+        "barokního"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Donato Bramante",
+      "values": [
+        "rokokového",
+        "renesančního",
+        "gotického",
+        "barokního"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Frans Hals",
+      "values": [
+        "barokního",
+        "realistického",
+        "renesančního",
+        "secesního"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cimabue",
+      "values": [
+        "secesního",
+        "renesančního",
+        "realistického",
+        "gotického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Valentin Držkovic",
+      "values": [
+        "romantického",
+        "renesančního",
+        "secesního",
+        "gotického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Adrian Ludwig Richter",
+      "values": [
+        "romantického",
+        "realistického",
+        "gotického",
+        "secesního"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Isaak Iljič Levitan",
+      "values": [
+        "secesního",
+        "rokokového",
+        "gotického",
+        "realistického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jean Siméon Chardin",
+      "values": [
+        "realistického",
+        "rokokového",
+        "barokního",
+        "romantického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

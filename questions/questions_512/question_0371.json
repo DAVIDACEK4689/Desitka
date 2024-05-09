@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte autora podle stavby",
+  "questions": [
+    {
+      "key": "Tančící dům",
+      "values": [
+        "Josef Gočár",
+        "Frank Gehry",
+        "Karel Prager",
+        "Norman Foster"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kramářova vila",
+      "values": [
+        "Josef Gočár",
+        "Karel Prager",
+        "Friedrich Ohmann",
+        "Frank Lloyd Wright"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petschkův palác",
+      "values": [
+        "Stanislav Hubička",
+        "Karel Filsak",
+        "Jan Kaplický",
+        "Max Spielmann"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Budova Říšského sněmu v Berlíně",
+      "values": [
+        "Gustave Eiffel",
+        "Norman Foster",
+        "Carlo Lurago",
+        "Vojtěch Ignác Ullmann"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kladrubský klášter",
+      "values": [
+        "Antonín Balšánek",
+        "Karel Prager",
+        "Pavel Janák",
+        "Kilián Ignác Dientzenhofer"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Prozatímní divadlo",
+      "values": [
+        "Vojtěch Ignác Ullmann",
+        "Josef Schulz",
+        "Pavel Janák",
+        "Giovanni Battista Alliprandi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Barrandovský most",
+      "values": [
+        "Kamil Roškot",
+        "Karel Prager",
+        "Karel Filsak",
+        "Giovanni Battista Alliprandi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Humprecht",
+      "values": [
+        "Frank Lloyd Wright",
+        "Karel Prager",
+        "Otakar Novotný",
+        "Carlo Lurago"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Winternitzova vila",
+      "values": [
+        "Adolf Loos",
+        "Ladislav Machoň",
+        "Vladimír Karfík",
+        "Jan Kaplický"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Banka československých legií",
+      "values": [
+        "Giovanni Battista Alliprandi",
+        "Josef Gočár",
+        "Adolf Loos",
+        "Kamil Roškot"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

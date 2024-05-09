@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle českého sportovce",
+  "questions": [
+    {
+      "key": "Petr Nedvěd",
+      "values": [
+        "skeletonisté",
+        "judista",
+        "lyžař",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Kaberle",
+      "values": [
+        "fotbalista",
+        "kanoista",
+        "rychlostní kanoista",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Václav Nedorost",
+      "values": [
+        "stolní tenista",
+        "kickboxeři",
+        "horolezec",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Otakar Štěrba",
+      "values": [
+        "tenista",
+        "lyžař",
+        "horolezec",
+        "squashisté"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jakub Petružálek",
+      "values": [
+        "lední hokejista",
+        "šipkaři",
+        "basketbalista",
+        "skeletonisté"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lukáš Mensator",
+      "values": [
+        "rybář",
+        "baseballisté",
+        "tenista",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Lukáš",
+      "values": [
+        "skeletonisté",
+        "kanoista",
+        "lední hokejista",
+        "lyžař"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Kalus",
+      "values": [
+        "rybář",
+        "sportovní střelec",
+        "pozemní hokejista",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Simona Hradilová",
+      "values": [
+        "taekwondisté",
+        "boxer",
+        "gymnasta",
+        "pozemní hokejista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Micka",
+      "values": [
+        "taekwondisté",
+        "plavec",
+        "automobilový závodník",
+        "akrobatický letec"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

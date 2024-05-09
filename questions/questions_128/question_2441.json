@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte město podle mrakodrapu",
+  "questions": [
+    {
+      "key": "Empire State Building",
+      "values": [
+        "Manhattan",
+        "Varšava",
+        "Dubaj",
+        "Londýn"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "The Shard",
+      "values": [
+        "Frankfurt nad Mohanem",
+        "Londýn",
+        "Vídeň",
+        "Dubaj"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "City Empiria",
+      "values": [
+        "Praha",
+        "La Défense",
+        "Dubaj",
+        "Frankfurt nad Mohanem"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rezidence Eliška",
+      "values": [
+        "Chicago",
+        "Praha",
+        "Moskva",
+        "Frankfurt nad Mohanem"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hotel Olympik",
+      "values": [
+        "Vídeň",
+        "Paříž",
+        "La Défense",
+        "Praha"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Věž Federace",
+      "values": [
+        "Manhattan",
+        "Moskva",
+        "Vídeň",
+        "Frankfurt nad Mohanem"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Centrála České spořitelny",
+      "values": [
+        "La Défense",
+        "Londýn",
+        "Paříž",
+        "Praha"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tour First",
+      "values": [
+        "Manhattan",
+        "La Défense",
+        "Praha",
+        "Vídeň"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lighthouse Vltava Waterfront Towers",
+      "values": [
+        "Manhattan",
+        "Praha",
+        "Vídeň",
+        "Paříž"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bytový dům SOL",
+      "values": [
+        "Londýn",
+        "Chicago",
+        "Praha",
+        "Vídeň"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

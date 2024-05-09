@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle etnické skupiny",
+  "questions": [
+    {
+      "key": "Češi",
+      "values": [
+        "Turecko",
+        "Česko",
+        "Madagaskar",
+        "Alžírsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sefardští Židé",
+      "values": [
+        "Alžírsko",
+        "Keňa",
+        "Česko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bosňáci",
+      "values": [
+        "Alžírsko",
+        "Egypt",
+        "Srbsko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Irové",
+      "values": [
+        "Srbsko",
+        "Thajsko",
+        "Kambodža",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vepsové",
+      "values": [
+        "Singapur",
+        "Rusko",
+        "Myanmar",
+        "Alžírsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Baškirové",
+      "values": [
+        "Myanmar",
+        "Estonsko",
+        "Rusko",
+        "Turecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Velšané",
+      "values": [
+        "Spojené království",
+        "Indie",
+        "Súdán",
+        "Irák"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hunzové",
+      "values": [
+        "Pákistán",
+        "Nigérie",
+        "Brazílie",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kabylové",
+      "values": [
+        "Polsko",
+        "Austrálie",
+        "Pákistán",
+        "Alžírsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jukagirové",
+      "values": [
+        "Izrael",
+        "Singapur",
+        "Rusko",
+        "Mongolsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

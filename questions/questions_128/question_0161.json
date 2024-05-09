@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle provincie",
+  "questions": [
+    {
+      "key": "Baleáry",
+      "values": [
+        "Španělsko",
+        "Irsko",
+        "Pákistán",
+        "Thajsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alandy",
+      "values": [
+        "Španělsko",
+        "Finsko",
+        "Dominikánská republika",
+        "Írán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Německé Čechy",
+      "values": [
+        "Československo",
+        "Arménie",
+        "Argentina",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Limpopo",
+      "values": [
+        "Afghánistán",
+        "Jihoafrická republika",
+        "Nizozemsko",
+        "Pákistán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Střední Jáva",
+      "values": [
+        "Indonésie",
+        "Prusko",
+        "Španělsko",
+        "Argentina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Badachšán",
+      "values": [
+        "Afghánistán",
+        "Argentina",
+        "Arménie",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gelderland",
+      "values": [
+        "Thajsko",
+        "Jižní Korea",
+        "Pákistán",
+        "Nizozemsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Munster",
+      "values": [
+        "Nizozemsko",
+        "Irsko",
+        "Vietnam",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chúzistán",
+      "values": [
+        "Írán",
+        "Nizozemsko",
+        "Afghánistán",
+        "Argentina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Misiones",
+      "values": [
+        "Argentina",
+        "Pákistán",
+        "Vietnam",
+        "Afghánistán"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

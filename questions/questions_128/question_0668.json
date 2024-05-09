@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Adéla Gondíková",
+      "values": [
+        "českou",
+        "chorvatskou",
+        "íránskou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Anne Hathawayová",
+      "values": [
+        "americkou",
+        "kubánskou",
+        "finskou",
+        "australskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eva Perkausová",
+      "values": [
+        "českou",
+        "bermudskou",
+        "tureckou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jitka Kocurová",
+      "values": [
+        "českou",
+        "bermudskou",
+        "belgickou",
+        "kubánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cyndi Lauper",
+      "values": [
+        "americkou",
+        "španělskou",
+        "nizozemskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Darja Hajská",
+      "values": [
+        "nizozemskou",
+        "kubánskou",
+        "kolumbijskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Olivia Hussey",
+      "values": [
+        "izraelskou",
+        "britskou",
+        "italskou",
+        "norskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Moira Kelly",
+      "values": [
+        "čínskou",
+        "irskou",
+        "slovenskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Markéta Bělonohá",
+      "values": [
+        "kubánskou",
+        "českou",
+        "švédskou",
+        "kolumbijskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nina Bártů",
+      "values": [
+        "českou",
+        "dánskou",
+        "belgickou",
+        "švédskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

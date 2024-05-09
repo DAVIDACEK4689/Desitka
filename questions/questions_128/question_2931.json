@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Střihoruký Edward",
+      "values": [
+        "Tim Burton",
+        "John Huston",
+        "Ron Howard",
+        "David Zucker"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dokonalý trik",
+      "values": [
+        "Christopher Nolan",
+        "David Silverman",
+        "Peter Segal",
+        "Raja Gosnell"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vrtěti psem",
+      "values": [
+        "Richard Kelly",
+        "Mark Waters",
+        "Barry Levinson",
+        "James Mangold"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dračí srdce",
+      "values": [
+        "David Zucker",
+        "Rob Cohen",
+        "Richard Lester",
+        "Jason Friedberg a Aaron Seltzer"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vicky Cristina Barcelona",
+      "values": [
+        "William Wyler",
+        "Robert Eggers",
+        "Woody Allen",
+        "Charles Shyer"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Přes palubu",
+      "values": [
+        "Garry Marshall",
+        "Joe Johnston",
+        "Zack Snyder",
+        "Rian Johnson"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jsou mezi námi",
+      "values": [
+        "Barry Sonnenfeld",
+        "Clint Eastwood",
+        "Rian Johnson",
+        "John Carpenter"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Poslední akční hrdina",
+      "values": [
+        "James Ivory",
+        "David Lynch",
+        "Mark Neveldine",
+        "John McTiernan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Obyčejní lidé",
+      "values": [
+        "Tim Burton",
+        "Harold Ramis",
+        "Robert Redford",
+        "Mel Gibson"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kafe a cigára",
+      "values": [
+        "Godfrey Reggio",
+        "Bob Gale",
+        "Sam Raimi",
+        "Jim Jarmusch"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

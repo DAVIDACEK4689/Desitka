@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Simona Krainová",
+      "values": [
+        "argentinskou",
+        "švédskou",
+        "českou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Irina Shayk",
+      "values": [
+        "japonskou",
+        "švýcarskou",
+        "ruskou",
+        "dánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bella Thorne",
+      "values": [
+        "americkou",
+        "českou",
+        "slovenskou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lily Collins",
+      "values": [
+        "americkou",
+        "kanadskou",
+        "izraelskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Helena Houdová",
+      "values": [
+        "německou",
+        "italskou",
+        "českou",
+        "izraelskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Elen Černá",
+      "values": [
+        "švýcarskou",
+        "japonskou",
+        "australskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Torrey DeVitto",
+      "values": [
+        "švýcarskou",
+        "americkou",
+        "jihoafrickou",
+        "japonskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Maggie Q",
+      "values": [
+        "polskou",
+        "kanadskou",
+        "brazilskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kristýna Kubíčková",
+      "values": [
+        "irskou",
+        "venezuelskou",
+        "českou",
+        "japonskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anna Chapmanová",
+      "values": [
+        "izraelskou",
+        "jihoafrickou",
+        "ruskou",
+        "dánskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

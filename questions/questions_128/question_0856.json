@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte moře podle přístavního města",
+  "questions": [
+    {
+      "key": "Stockholm",
+      "values": [
+        "Baltské moře",
+        "Karibské moře",
+        "Irské moře",
+        "Rudé moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mariupol",
+      "values": [
+        "Černé moře",
+        "Irské moře",
+        "Azovské moře",
+        "Marmarské moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rostock",
+      "values": [
+        "Baltské moře",
+        "Azovské moře",
+        "Marmarské moře",
+        "Irské moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Inverness",
+      "values": [
+        "Černé moře",
+        "Azovské moře",
+        "Irské moře",
+        "Severní moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kalmar",
+      "values": [
+        "Marmarské moře",
+        "Severní moře",
+        "Rudé moře",
+        "Baltské moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cuxhaven",
+      "values": [
+        "Irské moře",
+        "Severní moře",
+        "Bílé moře",
+        "Baltské moře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kingston upon Hull",
+      "values": [
+        "Rudé moře",
+        "Azovské moře",
+        "Severní moře",
+        "Irské moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kotka",
+      "values": [
+        "Baltské moře",
+        "Irské moře",
+        "Karibské moře",
+        "Marmarské moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vlissingen",
+      "values": [
+        "Bílé moře",
+        "Karibské moře",
+        "Severní moře",
+        "Irské moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Norrköping",
+      "values": [
+        "Baltské moře",
+        "Azovské moře",
+        "Černé moře",
+        "Irské moře"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

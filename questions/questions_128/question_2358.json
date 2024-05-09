@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Dagmar Patrasová",
+      "values": [
+        "kolumbijskou",
+        "irskou",
+        "maďarskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Judy Garlandová",
+      "values": [
+        "americkou",
+        "nizozemskou",
+        "peruánskou",
+        "polskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lenka Geislerová",
+      "values": [
+        "japonskou",
+        "moldavskou",
+        "českou",
+        "portugalskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiřina Petrovická",
+      "values": [
+        "nizozemskou",
+        "řeckou",
+        "českou",
+        "maďarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kelly Clarkson",
+      "values": [
+        "barbadoskou",
+        "japonskou",
+        "americkou",
+        "moldavskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Billie Holiday",
+      "values": [
+        "americkou",
+        "barbadoskou",
+        "mexickou",
+        "finskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mary Nótár",
+      "values": [
+        "maďarskou",
+        "nizozemskou",
+        "indickou",
+        "australskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Doris Dayová",
+      "values": [
+        "americkou",
+        "německou",
+        "španělskou",
+        "řeckou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zorka Kohoutová",
+      "values": [
+        "nizozemskou",
+        "kolumbijskou",
+        "českou",
+        "novozélandskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cedella Marley",
+      "values": [
+        "ukrajinskou",
+        "portugalskou",
+        "moldavskou",
+        "jamajskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

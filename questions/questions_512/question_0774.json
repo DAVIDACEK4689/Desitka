@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Řím",
+      "values": [
+        "Itálie",
+        "Belgie",
+        "Rakousko",
+        "Maďarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Řezno",
+      "values": [
+        "Česko",
+        "Irsko",
+        "Německo",
+        "Maďarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pisa",
+      "values": [
+        "Maďarsko",
+        "Rakousko",
+        "Itálie",
+        "Dánsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Görlitz",
+      "values": [
+        "Dánsko",
+        "Německo",
+        "Česko",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Brighton",
+      "values": [
+        "Belgie",
+        "Spojené království",
+        "Česko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gdyně",
+      "values": [
+        "Maďarsko",
+        "Polsko",
+        "Česko",
+        "Dánsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Newcastle upon Tyne",
+      "values": [
+        "Spojené království",
+        "Irsko",
+        "Slovensko",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miskolc",
+      "values": [
+        "Itálie",
+        "Německo",
+        "Maďarsko",
+        "Spojené království"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Leeds",
+      "values": [
+        "Nizozemsko",
+        "Spojené království",
+        "Dánsko",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aberdeen",
+      "values": [
+        "Dánsko",
+        "Německo",
+        "Slovensko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

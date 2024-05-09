@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Ondřej Havelka",
+      "values": [
+        "rumunského",
+        "sovětského",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jakub Smolík",
+      "values": [
+        "dánského",
+        "belgického",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Martin Maxa",
+      "values": [
+        "kanadského",
+        "českého",
+        "švýcarského",
+        "islandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Robert Křesťan",
+      "values": [
+        "švédského",
+        "českého",
+        "švýcarského",
+        "islandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Xavier Baumaxa",
+      "values": [
+        "nizozemského",
+        "rumunského",
+        "dánského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Sahara Hedl",
+      "values": [
+        "norského",
+        "dánského",
+        "argentinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dan Bălan",
+      "values": [
+        "rakouského",
+        "britského",
+        "německého",
+        "moldavského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karol Konárik",
+      "values": [
+        "sovětského",
+        "slovenského",
+        "amerického",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Kaplan",
+      "values": [
+        "italského",
+        "českého",
+        "španělského",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Carpenters",
+      "values": [
+        "rumunského",
+        "italského",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

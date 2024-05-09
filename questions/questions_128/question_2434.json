@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Kaley Cuoco",
+      "values": [
+        "venezuelskou",
+        "argentinskou",
+        "americkou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Charlize Theronová",
+      "values": [
+        "jihoafrickou",
+        "maďarskou",
+        "venezuelskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sofía Vergara",
+      "values": [
+        "britskou",
+        "italskou",
+        "americkou",
+        "argentinskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Madelyn Clineová",
+      "values": [
+        "jihoafrickou",
+        "britskou",
+        "namibijskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miranda Kerr",
+      "values": [
+        "jihoafrickou",
+        "australskou",
+        "japonskou",
+        "slovenskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Suzuka Nakamotová",
+      "values": [
+        "japonskou",
+        "jihoafrickou",
+        "venezuelskou",
+        "americkou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Blac Chyna",
+      "values": [
+        "indickou",
+        "americkou",
+        "japonskou",
+        "českou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Claudine Auger",
+      "values": [
+        "polskou",
+        "rakouskou",
+        "japonskou",
+        "francouzskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Noor Pahlaví",
+      "values": [
+        "americkou",
+        "ruskou",
+        "německou",
+        "namibijskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kate Uptonová",
+      "values": [
+        "francouzskou",
+        "americkou",
+        "argentinskou",
+        "českou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

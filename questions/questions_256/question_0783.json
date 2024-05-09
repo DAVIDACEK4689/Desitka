@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistu?",
+  "questions": [
+    {
+      "key": "Rafael Nadal",
+      "values": [
+        "švýcarského",
+        "slovenského",
+        "švédského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Macháč",
+      "values": [
+        "českého",
+        "dánského",
+        "argentinského",
+        "bulharského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lukáš Rosol",
+      "values": [
+        "českého",
+        "francouzského",
+        "dánského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dominic Thiem",
+      "values": [
+        "rakouského",
+        "německého",
+        "řeckého",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Taylor Fritz",
+      "values": [
+        "amerického",
+        "španělského",
+        "československého",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alex Molčan",
+      "values": [
+        "slovenského",
+        "bulharského",
+        "řeckého",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hubert Hurkacz",
+      "values": [
+        "švýcarského",
+        "rakouského",
+        "polského",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jonáš Forejtek",
+      "values": [
+        "amerického",
+        "nizozemského",
+        "dánského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ryan Sweeting",
+      "values": [
+        "amerického",
+        "italského",
+        "portugalského",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Frances Tiafoe",
+      "values": [
+        "ruského",
+        "španělského",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

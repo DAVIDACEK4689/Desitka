@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] atleta?",
+  "questions": [
+    {
+      "key": "Emerich Rath",
+      "values": [
+        "belgického",
+        "českého",
+        "slovenského",
+        "československého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Divíšek",
+      "values": [
+        "československého",
+        "slovenského",
+        "indického",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mário Bihári",
+      "values": [
+        "indického",
+        "běloruského",
+        "slovenského",
+        "chorvatského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Níradž Čopra",
+      "values": [
+        "belgického",
+        "chorvatského",
+        "indického",
+        "československého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Atlet roku",
+      "values": [
+        "indického",
+        "belgického",
+        "chorvatského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Viktória Čerňanská",
+      "values": [
+        "chorvatského",
+        "československého",
+        "indického",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Richard Kania",
+      "values": [
+        "běloruského",
+        "slovenského",
+        "československého",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nafissatou Thiamová",
+      "values": [
+        "československého",
+        "belgického",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sandra Perkovićová",
+      "values": [
+        "indického",
+        "chorvatského",
+        "československého",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kryscina Cimanouská",
+      "values": [
+        "belgického",
+        "československého",
+        "českého",
+        "běloruského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

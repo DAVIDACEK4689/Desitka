@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Terence Hill",
+      "values": [
+        "kanadského",
+        "italského",
+        "norského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Charles Bronson",
+      "values": [
+        "izraelského",
+        "ukrajinského",
+        "amerického",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Libíček",
+      "values": [
+        "českého",
+        "čínského",
+        "švýcarského",
+        "jamajského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Simon Baker",
+      "values": [
+        "australského",
+        "indického",
+        "švédského",
+        "jihokorejského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Adolf Filip",
+      "values": [
+        "jihoafrického",
+        "amerického",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bohumil Bezouška",
+      "values": [
+        "českého",
+        "chilského",
+        "venezuelského",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "František Dibarbora",
+      "values": [
+        "amerického",
+        "chilského",
+        "slovenského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexander Ludwig",
+      "values": [
+        "mexického",
+        "malajsijského",
+        "slovenského",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ctibor Filčík",
+      "values": [
+        "islandského",
+        "britského",
+        "slovenského",
+        "jamajského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Thomas Kretschmann",
+      "values": [
+        "australského",
+        "německého",
+        "maďarského",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

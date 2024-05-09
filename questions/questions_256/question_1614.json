@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Marek Eben",
+      "values": [
+        "francouzského",
+        "českého",
+        "jamajského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "David Kraus",
+      "values": [
+        "dánského",
+        "srbského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Benny Andersson",
+      "values": [
+        "švédského",
+        "jihokorejského",
+        "australského",
+        "kolumbijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Peterka",
+      "values": [
+        "švédského",
+        "českého",
+        "moldavského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Anthony Kiedis",
+      "values": [
+        "německého",
+        "skotského",
+        "argentinského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pavol Horváth",
+      "values": [
+        "slovenského",
+        "jihokorejského",
+        "brazilského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dežo Ursiny",
+      "values": [
+        "ruského",
+        "finského",
+        "slovenského",
+        "moldavského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marek Viršík",
+      "values": [
+        "britského",
+        "portorického",
+        "belgického",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Daniel Barták",
+      "values": [
+        "švédského",
+        "českého",
+        "francouzského",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vivian Campbell",
+      "values": [
+        "skotského",
+        "britského",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

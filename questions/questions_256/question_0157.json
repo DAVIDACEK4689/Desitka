@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [období] malíře?",
+  "questions": [
+    {
+      "key": "Josef Mánes",
+      "values": [
+        "realistického",
+        "gotického",
+        "romantického",
+        "secesního"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sandro Botticelli",
+      "values": [
+        "realistického",
+        "renesančního",
+        "barokního",
+        "gotického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "El Greco",
+      "values": [
+        "romantického",
+        "barokního",
+        "secesního",
+        "renesančního"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Diego Velázquez",
+      "values": [
+        "romantického",
+        "gotického",
+        "barokního",
+        "secesního"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Masaccio",
+      "values": [
+        "gotického",
+        "renesančního",
+        "realistického",
+        "romantického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lucas Cranach starší",
+      "values": [
+        "renesančního",
+        "gotického",
+        "secesního",
+        "barokního"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Vítězslav Mašek",
+      "values": [
+        "gotického",
+        "romantického",
+        "rokokového",
+        "secesního"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Krásný sloh",
+      "values": [
+        "barokního",
+        "romantického",
+        "gotického",
+        "secesního"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Giorgione",
+      "values": [
+        "rokokového",
+        "renesančního",
+        "secesního",
+        "realistického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Giovanni Battista Tiepolo",
+      "values": [
+        "barokního",
+        "realistického",
+        "rokokového",
+        "romantického"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

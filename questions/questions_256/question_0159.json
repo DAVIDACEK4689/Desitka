@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [období] malíře?",
+  "questions": [
+    {
+      "key": "Alfons Mucha",
+      "values": [
+        "barokního",
+        "secesního",
+        "romantického",
+        "rokokového"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Max Švabinský",
+      "values": [
+        "romantického",
+        "gotického",
+        "barokního",
+        "realistického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Édouard Manet",
+      "values": [
+        "renesančního",
+        "realistického",
+        "barokního",
+        "romantického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Giotto di Bondone",
+      "values": [
+        "rokokového",
+        "gotického",
+        "romantického",
+        "realistického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Caspar David Friedrich",
+      "values": [
+        "renesančního",
+        "romantického",
+        "secesního",
+        "gotického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vojtěch Preissig",
+      "values": [
+        "rokokového",
+        "barokního",
+        "gotického",
+        "secesního"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Kupecký",
+      "values": [
+        "barokního",
+        "romantického",
+        "realistického",
+        "secesního"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paolo Veronese",
+      "values": [
+        "rokokového",
+        "barokního",
+        "renesančního",
+        "secesního"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dvorní malíři rudolfínské Prahy",
+      "values": [
+        "romantického",
+        "renesančního",
+        "realistického",
+        "gotického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Felix Jenewein",
+      "values": [
+        "renesančního",
+        "romantického",
+        "realistického",
+        "gotického"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

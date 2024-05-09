@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] ateistu?",
+  "questions": [
+    {
+      "key": "Keanu Reeves",
+      "values": [
+        "kanadského",
+        "irského",
+        "ruského",
+        "chorvatského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ivo Vondrák",
+      "values": [
+        "francouzského",
+        "britského",
+        "rumunského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Veselovský",
+      "values": [
+        "kubánského",
+        "českého",
+        "švýcarského",
+        "černohorského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Björk",
+      "values": [
+        "albánského",
+        "ukrajinského",
+        "islandského",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Diego Rivera",
+      "values": [
+        "černohorského",
+        "mexického",
+        "albánského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jeff Hanneman",
+      "values": [
+        "belgického",
+        "srbského",
+        "albánského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hector Berlioz",
+      "values": [
+        "kanadského",
+        "švédského",
+        "polského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Linus Torvalds",
+      "values": [
+        "belgického",
+        "arménského",
+        "polského",
+        "finského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bree Olson",
+      "values": [
+        "islandského",
+        "indického",
+        "amerického",
+        "skotského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "German Titov",
+      "values": [
+        "ruského",
+        "brazilského",
+        "českého",
+        "židovského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

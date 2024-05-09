@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Shakira",
+      "values": [
+        "nizozemskou",
+        "mexickou",
+        "kolumbijskou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavlína Filipovská",
+      "values": [
+        "irskou",
+        "indickou",
+        "českou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vanessa Paradis",
+      "values": [
+        "ruskou",
+        "španělskou",
+        "ukrajinskou",
+        "francouzskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lenka Geislerová",
+      "values": [
+        "nizozemskou",
+        "českou",
+        "jihokorejskou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tereza Vágnerová",
+      "values": [
+        "jihokorejskou",
+        "mexickou",
+        "českou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Olivie Žižková",
+      "values": [
+        "kolumbijskou",
+        "českou",
+        "španělskou",
+        "slovenskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lou Doillon",
+      "values": [
+        "jihokorejskou",
+        "japonskou",
+        "francouzskou",
+        "slovenskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Darja Hajská",
+      "values": [
+        "jihokorejskou",
+        "německou",
+        "českou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Naomi Scott",
+      "values": [
+        "indickou",
+        "slovenskou",
+        "britskou",
+        "kolumbijskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zuzana Stirská",
+      "values": [
+        "českou",
+        "islandskou",
+        "uruguayskou",
+        "španělskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

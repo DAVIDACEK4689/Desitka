@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vraha?",
+  "questions": [
+    {
+      "key": "Charles Manson",
+      "values": [
+        "ruského",
+        "francouzského",
+        "amerického",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaroslava Fabiánová",
+      "values": [
+        "ruského",
+        "japonského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Varg Vikernes",
+      "values": [
+        "izraelského",
+        "norského",
+        "japonského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Henri Charrière",
+      "values": [
+        "rakouského",
+        "tureckého",
+        "francouzského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Muhammad Atta",
+      "values": [
+        "německého",
+        "norského",
+        "tureckého",
+        "egyptského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stanislav Večeřa",
+      "values": [
+        "českého",
+        "amerického",
+        "japonského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mehmet Ali Ağca",
+      "values": [
+        "norského",
+        "japonského",
+        "slovenského",
+        "tureckého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Phil Spector",
+      "values": [
+        "českého",
+        "amerického",
+        "egyptského",
+        "belgického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Felix Felixovič Jusupov",
+      "values": [
+        "slovenského",
+        "ruského",
+        "rakouského",
+        "izraelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dmitrij Kovtun",
+      "values": [
+        "ruského",
+        "německého",
+        "tureckého",
+        "egyptského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

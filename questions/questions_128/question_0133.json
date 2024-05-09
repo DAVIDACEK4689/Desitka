@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle vlády",
+  "questions": [
+    {
+      "key": "Čtvrtá vláda Roberta Fica",
+      "values": [
+        "Spojené království",
+        "Itálie",
+        "Slovenská republika",
+        "Česká republika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "První vláda Klementa Gottwalda",
+      "values": [
+        "Itálie",
+        "Česká republika",
+        "Československo",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vláda Jiřího Paroubka",
+      "values": [
+        "Česká republika",
+        "Polsko",
+        "Německo",
+        "Československo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vláda Antonína Zápotockého a Viliama Širokého",
+      "values": [
+        "Ukrajina",
+        "Spojené království",
+        "Československo",
+        "Česká republika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Druhá vláda Zdeňka Fierlingera",
+      "values": [
+        "Itálie",
+        "Slovenská republika",
+        "Československo",
+        "Spojené království"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "První vláda Mikuláše Dzurindy",
+      "values": [
+        "Slovenská republika",
+        "Ukrajina",
+        "Československo",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "První vláda Vlastimila Tusara",
+      "values": [
+        "Ukrajina",
+        "Česká republika",
+        "Československo",
+        "Slovenská republika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vláda Jozefa Moravčíka",
+      "values": [
+        "Německo",
+        "Slovenská republika",
+        "Polsko",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rudozelená koalice",
+      "values": [
+        "Polsko",
+        "Spojené království",
+        "Česká republika",
+        "Československo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Třetí vláda Jana Malypetra",
+      "values": [
+        "Česká republika",
+        "Slovenská republika",
+        "Polsko",
+        "Československo"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] alpského lyžaře?",
+  "questions": [
+    {
+      "key": "Ester Ledecká",
+      "values": [
+        "českého",
+        "slovinského",
+        "francouzského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ingemar Stenmark",
+      "values": [
+        "švédského",
+        "lichtenštejnského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martina Dubovská",
+      "values": [
+        "norského",
+        "českého",
+        "švýcarského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tomáš Kraus",
+      "values": [
+        "norského",
+        "českého",
+        "švýcarského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sofia Goggiová",
+      "values": [
+        "českého",
+        "nizozemského",
+        "italského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eva Kurfürstová",
+      "values": [
+        "českého",
+        "švédského",
+        "chorvatského",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Záhrobský",
+      "values": [
+        "chorvatského",
+        "slovenského",
+        "českého",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Veronika Velez Zuzulová",
+      "values": [
+        "nizozemského",
+        "rakouského",
+        "chorvatského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bohumír Zeman",
+      "values": [
+        "českého",
+        "slovinského",
+        "lichtenštejnského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ivica Kostelić",
+      "values": [
+        "lichtenštejnského",
+        "norského",
+        "chorvatského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

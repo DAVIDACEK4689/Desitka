@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Soluň",
+      "values": [
+        "Myanmar",
+        "Řecko",
+        "Madagaskar",
+        "Ekvádor"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zadar",
+      "values": [
+        "Srí Lanka",
+        "Maroko",
+        "Chorvatsko",
+        "Malajsie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nuuk",
+      "values": [
+        "Ukrajina",
+        "Nigérie",
+        "Grónsko",
+        "Irák"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nairobi",
+      "values": [
+        "Thajsko",
+        "Tunisko",
+        "Keňa",
+        "Tádžikistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alanya",
+      "values": [
+        "Austrálie",
+        "Izrael",
+        "Slovinsko",
+        "Turecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kutaisi",
+      "values": [
+        "Severní Makedonie",
+        "Francie",
+        "Senegal",
+        "Gruzie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Akaba",
+      "values": [
+        "Belgie",
+        "Mongolsko",
+        "Island",
+        "Jordánsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Brezno",
+      "values": [
+        "Bolívie",
+        "Keňa",
+        "Slovensko",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Asuán",
+      "values": [
+        "Slovinsko",
+        "Madagaskar",
+        "Egypt",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Grindavík",
+      "values": [
+        "Tunisko",
+        "Island",
+        "Pero",
+        "Severní Makedonie"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Gianluca Vialli",
+      "values": [
+        "italského",
+        "venezuelského",
+        "ruského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michael Owen",
+      "values": [
+        "srbského",
+        "gruzínského",
+        "slovinského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kepa Arrizabalaga",
+      "values": [
+        "španělského",
+        "srbského",
+        "peruánského",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Roberto De Zerbi",
+      "values": [
+        "chilského",
+        "belgického",
+        "finského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rudi Garcia",
+      "values": [
+        "tureckého",
+        "belgického",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lukáš Červ",
+      "values": [
+        "českého",
+        "chilského",
+        "venezuelského",
+        "kosovského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Endrick Felipe",
+      "values": [
+        "kostarického",
+        "zimbabwského",
+        "brazilského",
+        "anglického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Santi Cazorla",
+      "values": [
+        "španělského",
+        "maďarského",
+        "řeckého",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dunga",
+      "values": [
+        "venezuelského",
+        "německého",
+        "brazilského",
+        "argentinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vítor Baía",
+      "values": [
+        "finského",
+        "portugalského",
+        "kamerunského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

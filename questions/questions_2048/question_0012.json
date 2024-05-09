@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] křesťana?",
+  "questions": [
+    {
+      "key": "Isaac Newton",
+      "values": [
+        "francouzského",
+        "dánského",
+        "anglického",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Paul Walker",
+      "values": [
+        "norského",
+        "anglického",
+        "čínského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kim Kardashianová",
+      "values": [
+        "německého",
+        "norského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Johnny Cash",
+      "values": [
+        "amerického",
+        "indického",
+        "čínského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Megan Fox",
+      "values": [
+        "dánského",
+        "amerického",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "René Descartes",
+      "values": [
+        "rakouského",
+        "francouzského",
+        "anglického",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Matka Tereza",
+      "values": [
+        "indického",
+        "českého",
+        "amerického",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Caitlyn Jennerová",
+      "values": [
+        "francouzského",
+        "švýcarského",
+        "amerického",
+        "anglického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čankajšek",
+      "values": [
+        "českého",
+        "rakouského",
+        "čínského",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexander Fleming",
+      "values": [
+        "skotského",
+        "rakouského",
+        "italského",
+        "čínského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Jude Bellingham",
+      "values": [
+        "švýcarského",
+        "anglického",
+        "australského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eduardo Camavinga",
+      "values": [
+        "chorvatského",
+        "gruzínského",
+        "francouzského",
+        "uruguayského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lothar Matthäus",
+      "values": [
+        "německého",
+        "kamerunského",
+        "severoirského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dennis Bergkamp",
+      "values": [
+        "chorvatského",
+        "nizozemského",
+        "ekvádorského",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dušan Vlahović",
+      "values": [
+        "norského",
+        "dánského",
+        "srbského",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rúben Neves",
+      "values": [
+        "ghanského",
+        "portugalského",
+        "irského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nicklas Bendtner",
+      "values": [
+        "dánského",
+        "švýcarského",
+        "portugalského",
+        "egyptského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gianni Rivera",
+      "values": [
+        "japonského",
+        "severoirského",
+        "arménského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Matěj Chaluš",
+      "values": [
+        "dánského",
+        "maďarského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jakub Rada",
+      "values": [
+        "českého",
+        "japonského",
+        "kostarického",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

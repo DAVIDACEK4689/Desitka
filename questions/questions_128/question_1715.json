@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] evropského podnikatele?",
+  "questions": [
+    {
+      "key": "Jan Antonín Baťa",
+      "values": [
+        "litevského",
+        "německého",
+        "českého",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Hlávka",
+      "values": [
+        "ruského",
+        "belgického",
+        "českého",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Giorgio Armani",
+      "values": [
+        "ukrajinského",
+        "nizozemského",
+        "španělského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Káš",
+      "values": [
+        "českého",
+        "belgického",
+        "italského",
+        "běloruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Horal",
+      "values": [
+        "řeckého",
+        "monackého",
+        "ukrajinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oszkár Világi",
+      "values": [
+        "německého",
+        "slovenského",
+        "nizozemského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Bányai",
+      "values": [
+        "španělského",
+        "ukrajinského",
+        "českého",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robert Siercke",
+      "values": [
+        "dánského",
+        "rakouského",
+        "nizozemského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Böhm",
+      "values": [
+        "dánského",
+        "českého",
+        "polského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Cígler",
+      "values": [
+        "britského",
+        "dánského",
+        "švýcarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

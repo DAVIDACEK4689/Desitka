@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle prezidenta",
+  "questions": [
+    {
+      "key": "Petr Pavel",
+      "values": [
+        "Česká republika",
+        "Argentina",
+        "Brazílie",
+        "Libérie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Klement Gottwald",
+      "values": [
+        "Řecko",
+        "Srbsko",
+        "Gruzie",
+        "Československo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nicolae Ceaușescu",
+      "values": [
+        "Srbsko",
+        "Vietnam",
+        "Československo",
+        "Rumunsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petro Porošenko",
+      "values": [
+        "Argentina",
+        "Jugoslávie",
+        "Ukrajina",
+        "Gruzie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ho Či Min",
+      "values": [
+        "Francie",
+        "Vietnam",
+        "Libérie",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexander Van der Bellen",
+      "values": [
+        "Niger",
+        "Libérie",
+        "Rusko",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oleksandr Turčynov",
+      "values": [
+        "Ukrajina",
+        "Rumunsko",
+        "Gruzie",
+        "Niger"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Daniel Ortega",
+      "values": [
+        "Bulharsko",
+        "Nikaragua",
+        "Maďarsko",
+        "Niger"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rumen Radev",
+      "values": [
+        "Československo",
+        "Egypt",
+        "Bělorusko",
+        "Bulharsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ngô Ðình Diệm",
+      "values": [
+        "Rumunsko",
+        "Vietnam",
+        "Írán",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] firmu?",
+  "questions": [
+    {
+      "key": "CASA",
+      "values": [
+        "španělskou",
+        "kanadskou",
+        "polskou",
+        "švédskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Liberta",
+      "values": [
+        "československou",
+        "švýcarskou",
+        "čínskou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Scio",
+      "values": [
+        "českou",
+        "japonskou",
+        "vietnamskou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Online Computer Library Center",
+      "values": [
+        "americkou",
+        "španělskou",
+        "izraelskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Restaurace a jídelny",
+      "values": [
+        "italskou",
+        "nizozemskou",
+        "jihokorejskou",
+        "československou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "ARM Holdings",
+      "values": [
+        "britskou",
+        "rumunskou",
+        "maltskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kawasaki Heavy Industries",
+      "values": [
+        "belgickou",
+        "finskou",
+        "českou",
+        "japonskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Továrna dětských vozidel",
+      "values": [
+        "saúdskoarabskou",
+        "švýcarskou",
+        "československou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lavazza",
+      "values": [
+        "italskou",
+        "finskou",
+        "indickou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fincantieri",
+      "values": [
+        "sovětskou",
+        "kanadskou",
+        "italskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

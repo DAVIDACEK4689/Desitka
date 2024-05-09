@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] malíře?",
+  "questions": [
+    {
+      "key": "Alfons Mucha",
+      "values": [
+        "slovenského",
+        "britského",
+        "českého",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Vermeer",
+      "values": [
+        "polského",
+        "nizozemského",
+        "španělského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paul Cézanne",
+      "values": [
+        "řeckého",
+        "francouzského",
+        "norského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lubor Tokoš",
+      "values": [
+        "českého",
+        "chorvatského",
+        "slovenského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tony Bennett",
+      "values": [
+        "finského",
+        "švýcarského",
+        "amerického",
+        "kolumbijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jean Auguste Dominique Ingres",
+      "values": [
+        "mexického",
+        "francouzského",
+        "německého",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joseph Beuys",
+      "values": [
+        "německého",
+        "kolumbijského",
+        "chorvatského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michal Olšiak",
+      "values": [
+        "českého",
+        "belgického",
+        "nizozemského",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Giovanni Battista Tiepolo",
+      "values": [
+        "francouzského",
+        "amerického",
+        "finského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Giovanni Antonio Canal",
+      "values": [
+        "norského",
+        "rakouského",
+        "italského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

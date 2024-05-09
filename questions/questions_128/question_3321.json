@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Jan Cina",
+      "values": [
+        "portorického",
+        "argentinského",
+        "jamajského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Finger",
+      "values": [
+        "českého",
+        "španělského",
+        "portugalského",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Christian Clavier",
+      "values": [
+        "polského",
+        "amerického",
+        "francouzského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "František Kreuzmann starší",
+      "values": [
+        "belgického",
+        "jamajského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "František Krištof Veselý",
+      "values": [
+        "norského",
+        "irského",
+        "švédského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimír Fišer",
+      "values": [
+        "bulharského",
+        "českého",
+        "jihokorejského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Clark Gregg",
+      "values": [
+        "jihoafrického",
+        "kanadského",
+        "amerického",
+        "brazilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Peter Facinelli",
+      "values": [
+        "amerického",
+        "indonéského",
+        "brazilského",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rita Morenová",
+      "values": [
+        "portorického",
+        "islandského",
+        "novozélandského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Leopold Haverl",
+      "values": [
+        "švédského",
+        "maďarského",
+        "argentinského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] šlechtice?",
+  "questions": [
+    {
+      "key": "Anthony Eden",
+      "values": [
+        "rakouského",
+        "polského",
+        "britského",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lisa del Giocondo",
+      "values": [
+        "italského",
+        "chorvatského",
+        "francouzského",
+        "gruzínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Pořízka",
+      "values": [
+        "řeckého",
+        "německého",
+        "italského",
+        "moravského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karl Friedrich Hieronymus von Münchhausen",
+      "values": [
+        "švédského",
+        "německého",
+        "albánského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hasso von Manteuffel",
+      "values": [
+        "německého",
+        "polského",
+        "portugalského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Adam ze Schwarzenbergu",
+      "values": [
+        "albánského",
+        "uherského",
+        "španělského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hans Christoff Königsmarck",
+      "values": [
+        "slovenského",
+        "slezského",
+        "německého",
+        "gruzínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Joannis Kapodistrias",
+      "values": [
+        "chorvatského",
+        "řeckého",
+        "slovenského",
+        "moravského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andrea Doria",
+      "values": [
+        "moravského",
+        "slovenského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Edmund Allenby",
+      "values": [
+        "britského",
+        "gruzínského",
+        "nizozemského",
+        "albánského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

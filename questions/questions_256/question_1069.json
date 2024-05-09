@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle geografie",
+  "questions": [
+    {
+      "key": "Malá Asie",
+      "values": [
+        "Itálie",
+        "Libye",
+        "Turecko",
+        "Eritrea"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aokigahara",
+      "values": [
+        "Španělsko",
+        "Japonsko",
+        "Palestina",
+        "Tanzanie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Slavonie",
+      "values": [
+        "Slovinsko",
+        "Indie",
+        "Rovníková Guinea",
+        "Srbsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Velké Tokio",
+      "values": [
+        "Japonsko",
+        "Botswana",
+        "Singapur",
+        "Libye"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ngorongoro",
+      "values": [
+        "Česko",
+        "Tanzanie",
+        "Německo",
+        "Guatemala"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hindúkuš",
+      "values": [
+        "Libye",
+        "Afghánistán",
+        "Mauritánie",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Semipalatinský jaderný polygon",
+      "values": [
+        "Kazachstán",
+        "Česko",
+        "Jordánsko",
+        "Mongolsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Žluté moře",
+      "values": [
+        "Severní Korea",
+        "Slovinsko",
+        "Španělsko",
+        "Džibutsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rakouské přímoří",
+      "values": [
+        "Andorra",
+        "Maďarsko",
+        "Slovinsko",
+        "Indie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Korálové moře",
+      "values": [
+        "Vanuatu",
+        "Tanzanie",
+        "Švýcarsko",
+        "Izrael"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

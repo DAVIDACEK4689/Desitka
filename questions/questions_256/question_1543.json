@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] atentátníka?",
+  "questions": [
+    {
+      "key": "Theodore Kaczynski",
+      "values": [
+        "italského",
+        "ruského",
+        "srbského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gavrilo Princip",
+      "values": [
+        "polského",
+        "německého",
+        "slovenského",
+        "srbského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lee Harvey Oswald",
+      "values": [
+        "amerického",
+        "francouzského",
+        "ruského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mark David Chapman",
+      "values": [
+        "německého",
+        "amerického",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jacob Rubinstein",
+      "values": [
+        "slovenského",
+        "amerického",
+        "polského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Šoupal",
+      "values": [
+        "polského",
+        "anglického",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "John Wilkes Booth",
+      "values": [
+        "ruského",
+        "amerického",
+        "polského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Charlotta Cordayová",
+      "values": [
+        "francouzského",
+        "německého",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Georg Elser",
+      "values": [
+        "německého",
+        "anglického",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Danilo Ilić",
+      "values": [
+        "českého",
+        "amerického",
+        "slovenského",
+        "srbského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalového trenéra?",
+  "questions": [
+    {
+      "key": "Ivan Hašek",
+      "values": [
+        "slovenského",
+        "českého",
+        "nizozemského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaroslav Šilhavý",
+      "values": [
+        "španělského",
+        "italského",
+        "argentinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Horst Siegl",
+      "values": [
+        "slovenského",
+        "českého",
+        "australského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Jarošík",
+      "values": [
+        "slovenského",
+        "skotského",
+        "australského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pavel Srniček",
+      "values": [
+        "nizozemského",
+        "skotského",
+        "brazilského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marco van Basten",
+      "values": [
+        "českého",
+        "argentinského",
+        "nizozemského",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luděk Mikloško",
+      "values": [
+        "českého",
+        "maďarského",
+        "španělského",
+        "australského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Arsène Wenger",
+      "values": [
+        "australského",
+        "francouzského",
+        "nizozemského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Frýdek",
+      "values": [
+        "italského",
+        "českého",
+        "australského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zdenko Frťala",
+      "values": [
+        "slovenského",
+        "skotského",
+        "brazilského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

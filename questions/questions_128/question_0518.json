@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle přítoku",
+  "questions": [
+    {
+      "key": "Berounka",
+      "values": [
+        "Dunaj",
+        "Rýn",
+        "Vltava",
+        "Labe"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Otava",
+      "values": [
+        "Morava",
+        "Labe",
+        "Rýn",
+        "Vltava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Botič",
+      "values": [
+        "Morava",
+        "Rýn",
+        "Vltava",
+        "Labe"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ploučnice",
+      "values": [
+        "Vltava",
+        "Rýn",
+        "Dunaj",
+        "Labe"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Úpa",
+      "values": [
+        "Vltava",
+        "Morava",
+        "Labe",
+        "Dunaj"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Opatovický kanál",
+      "values": [
+        "Rýn",
+        "Labe",
+        "Vltava",
+        "Dunaj"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sála",
+      "values": [
+        "Dunaj",
+        "Vltava",
+        "Labe",
+        "Morava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aara",
+      "values": [
+        "Dunaj",
+        "Vltava",
+        "Morava",
+        "Rýn"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Neckar",
+      "values": [
+        "Labe",
+        "Morava",
+        "Rýn",
+        "Dunaj"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Řezná",
+      "values": [
+        "Labe",
+        "Rýn",
+        "Dunaj",
+        "Morava"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

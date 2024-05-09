@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filozofa?",
+  "questions": [
+    {
+      "key": "Immanuel Kant",
+      "values": [
+        "indického",
+        "německého",
+        "nizozemského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Niels Bohr",
+      "values": [
+        "italského",
+        "ruského",
+        "indického",
+        "dánského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Baruch Spinoza",
+      "values": [
+        "nizozemského",
+        "řeckého",
+        "indického",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Šrí Činmoj",
+      "values": [
+        "ruského",
+        "švýcarského",
+        "indického",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zdeněk Neubauer",
+      "values": [
+        "maďarského",
+        "českého",
+        "nizozemského",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Emanuel Rádl",
+      "values": [
+        "řeckého",
+        "amerického",
+        "slovinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Anselm z Canterbury",
+      "values": [
+        "španělského",
+        "italského",
+        "indického",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Georg Simmel",
+      "values": [
+        "slovinského",
+        "českého",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Strabón",
+      "values": [
+        "francouzského",
+        "perského",
+        "řeckého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gorgiás z Leontín",
+      "values": [
+        "řeckého",
+        "slovinského",
+        "indického",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

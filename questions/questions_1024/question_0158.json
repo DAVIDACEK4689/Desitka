@@ -1,0 +1,105 @@
+{
+  "text": "Určete bojiště podle bitvy",
+  "questions": [
+    {
+      "key": "Vylodění v Normandii",
+      "values": [
+        "Sasko",
+        "Maďarsko",
+        "Rakousko",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Verdunu",
+      "values": [
+        "Španělsko",
+        "Francie",
+        "Sasko",
+        "Maďarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Zborova",
+      "values": [
+        "Španělsko",
+        "Sasko",
+        "Ukrajina",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Lipska",
+      "values": [
+        "Sasko",
+        "Belgie",
+        "Maďarsko",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva v Teutoburském lese",
+      "values": [
+        "Ukrajina",
+        "Spojené království",
+        "Polsko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Wogastisburgu",
+      "values": [
+        "Itálie",
+        "Polsko",
+        "Slovensko",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Borodina",
+      "values": [
+        "Rakousko",
+        "Francie",
+        "Rusko",
+        "Norsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva o Gallipoli",
+      "values": [
+        "Turecko",
+        "Norsko",
+        "Maďarsko",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Obléhání Tobruku",
+      "values": [
+        "Libye",
+        "Rakousko",
+        "Maďarsko",
+        "Řecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva na Bajkalském jezeře",
+      "values": [
+        "Rakousko",
+        "Polsko",
+        "Norsko",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

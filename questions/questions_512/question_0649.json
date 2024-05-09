@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle organizace",
+  "questions": [
+    {
+      "key": "Wagnerova skupina",
+      "values": [
+        "Bělorusko",
+        "Belgie",
+        "Spojené království",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Společenství nezávislých států",
+      "values": [
+        "Švýcarsko",
+        "Bělorusko",
+        "Spojené království",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mezinárodní kynologická federace",
+      "values": [
+        "Švýcarsko",
+        "Norsko",
+        "Česko",
+        "Belgie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Noční vlci",
+      "values": [
+        "Švýcarsko",
+        "Spojené království",
+        "Rusko",
+        "Belgie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mezinárodní svaz ochrany přírody",
+      "values": [
+        "Spojené království",
+        "Švýcarsko",
+        "Belgie",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Panevropská unie",
+      "values": [
+        "Švýcarsko",
+        "Česko",
+        "Spojené království",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Barnevernet",
+      "values": [
+        "Švýcarsko",
+        "Rusko",
+        "Norsko",
+        "Bělorusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eurasijský ekonomický svaz",
+      "values": [
+        "Rusko",
+        "Švýcarsko",
+        "Bělorusko",
+        "Norsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pussy Riot",
+      "values": [
+        "Belgie",
+        "Česko",
+        "Spojené království",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Scotland Yard",
+      "values": [
+        "Rusko",
+        "Bělorusko",
+        "Švýcarsko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

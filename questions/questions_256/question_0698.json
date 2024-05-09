@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Petro Porošenko",
+      "values": [
+        "belgického",
+        "černohorského",
+        "ukrajinského",
+        "vietnamského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Svatopluk Machar",
+      "values": [
+        "eritrejského",
+        "českého",
+        "kambodžského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Guglielmo Marconi",
+      "values": [
+        "švédského",
+        "kubánského",
+        "britského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zbigniew Brzezinski",
+      "values": [
+        "kanadského",
+        "amerického",
+        "dominikánského",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mohamed Bazoum",
+      "values": [
+        "amerického",
+        "řeckého",
+        "pákistánského",
+        "nigerského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ján Budaj",
+      "values": [
+        "kolumbijského",
+        "palestinského",
+        "madagaskarského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nadija Savčenková",
+      "values": [
+        "indického",
+        "keňského",
+        "ukrajinského",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gyula Andrássy mladší",
+      "values": [
+        "maďarského",
+        "kambodžského",
+        "zimbabwského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Péter Szijjártó",
+      "values": [
+        "maďarského",
+        "kanadského",
+        "argentinského",
+        "peruánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mario Vargas Llosa",
+      "values": [
+        "chilského",
+        "anglického",
+        "peruánského",
+        "nigerského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

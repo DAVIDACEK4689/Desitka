@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalového trenéra?",
+  "questions": [
+    {
+      "key": "José Mourinho",
+      "values": [
+        "španělského",
+        "brazilského",
+        "portugalského",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "František Straka",
+      "values": [
+        "portugalského",
+        "italského",
+        "anglického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Svědík",
+      "values": [
+        "českého",
+        "australského",
+        "nizozemského",
+        "skotského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michal Bílek",
+      "values": [
+        "maďarského",
+        "nizozemského",
+        "českého",
+        "argentinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Xavi",
+      "values": [
+        "italského",
+        "australského",
+        "francouzského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roman Kukleta",
+      "values": [
+        "českého",
+        "dánského",
+        "nizozemského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Jarolím",
+      "values": [
+        "anglického",
+        "francouzského",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Luis Enrique Martínez García",
+      "values": [
+        "anglického",
+        "skotského",
+        "argentinského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Csaplár",
+      "values": [
+        "portugalského",
+        "italského",
+        "nizozemského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Filippo Inzaghi",
+      "values": [
+        "anglického",
+        "českého",
+        "italského",
+        "dánského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Rozálie Havelková",
+      "values": [
+        "argentinskou",
+        "dánskou",
+        "jihoafrickou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Inna Puhajková",
+      "values": [
+        "australskou",
+        "českou",
+        "kanadskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Heidi Klumová",
+      "values": [
+        "švýcarskou",
+        "německou",
+        "slovenskou",
+        "dánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexandra Daddario",
+      "values": [
+        "slovenskou",
+        "dánskou",
+        "italskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hailey Bieberová",
+      "values": [
+        "americkou",
+        "jihoafrickou",
+        "italskou",
+        "rakouskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vlaďka Erbová",
+      "values": [
+        "irskou",
+        "slovenskou",
+        "českou",
+        "kanadskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Monika Žídková",
+      "values": [
+        "australskou",
+        "českou",
+        "brazilskou",
+        "izraelskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Barbara Palvinová",
+      "values": [
+        "maďarskou",
+        "ruskou",
+        "jihoafrickou",
+        "americkou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Helena Houdová",
+      "values": [
+        "českou",
+        "argentinskou",
+        "dánskou",
+        "brazilskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sasha Grey",
+      "values": [
+        "maďarskou",
+        "ukrajinskou",
+        "argentinskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

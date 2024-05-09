@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] klavíristu?",
+  "questions": [
+    {
+      "key": "Steven Tyler",
+      "values": [
+        "amerického",
+        "českého",
+        "ukrajinského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Adam Levine",
+      "values": [
+        "španělského",
+        "amerického",
+        "italského",
+        "gruzínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nina Simone",
+      "values": [
+        "amerického",
+        "finského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Daniel Barenboim",
+      "values": [
+        "italského",
+        "německého",
+        "španělského",
+        "izraelského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sláva Vorlová",
+      "values": [
+        "finského",
+        "ukrajinského",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Liberace",
+      "values": [
+        "australského",
+        "kanadského",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dave Brubeck",
+      "values": [
+        "norského",
+        "amerického",
+        "gruzínského",
+        "izraelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kryštof Marek",
+      "values": [
+        "polského",
+        "australského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Melody Gardot",
+      "values": [
+        "japonského",
+        "ruského",
+        "amerického",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lubomyr Melnyk",
+      "values": [
+        "slovenského",
+        "japonského",
+        "ukrajinského",
+        "italského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

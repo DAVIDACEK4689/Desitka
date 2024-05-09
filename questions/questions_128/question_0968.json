@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalového trenéra?",
+  "questions": [
+    {
+      "key": "Pavel Horváth",
+      "values": [
+        "španělského",
+        "českého",
+        "anglického",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marek Heinz",
+      "values": [
+        "českého",
+        "československého",
+        "belgického",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miroslav Klose",
+      "values": [
+        "chorvatského",
+        "anglického",
+        "německého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bronislav Červenka",
+      "values": [
+        "německého",
+        "australského",
+        "českého",
+        "skotského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Henrik Larsson",
+      "values": [
+        "srbského",
+        "uruguayského",
+        "velšského",
+        "švédského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roman Kučera",
+      "values": [
+        "belgického",
+        "polského",
+        "uruguayského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rafael van der Vaart",
+      "values": [
+        "španělského",
+        "nizozemského",
+        "ukrajinského",
+        "velšského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paolo Di Canio",
+      "values": [
+        "rumunského",
+        "velšského",
+        "dánského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miroslav Holeňák",
+      "values": [
+        "italského",
+        "českého",
+        "bulharského",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavel Hadamczik",
+      "values": [
+        "amerického",
+        "českého",
+        "slovenského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

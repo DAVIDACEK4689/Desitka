@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [typ] organizaci?",
+  "questions": [
+    {
+      "key": "Rudí Khmerové",
+      "values": [
+        "vědeckou",
+        "šlechtickou",
+        "partyzánskou",
+        "hospodářskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Národní fronta osvobození Jižního Vietnamu",
+      "values": [
+        "vzdělávací",
+        "partyzánskou",
+        "politickou",
+        "fotografickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ruská mafie",
+      "values": [
+        "zločineckou",
+        "šlechtickou",
+        "politickou",
+        "hospodářskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Trilaterální komise",
+      "values": [
+        "politickou",
+        "jazykovou",
+        "mezinárodní",
+        "leteckou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Socialistická internacionála",
+      "values": [
+        "leteckou",
+        "šlechtickou",
+        "partyzánskou",
+        "politickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Radio Luxembourg",
+      "values": [
+        "vědeckou",
+        "humanitární",
+        "zaniklou",
+        "fotografickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Agentura pro ochranu životního prostředí",
+      "values": [
+        "vědeckou",
+        "náboženskou",
+        "zaniklou",
+        "ekologickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zelená armáda",
+      "values": [
+        "partyzánskou",
+        "jazykovou",
+        "zločineckou",
+        "fotografickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pešmerga",
+      "values": [
+        "partyzánskou",
+        "vzdělávací",
+        "zločineckou",
+        "fotografickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mezinárodní agentura pro výzkum rakoviny",
+      "values": [
+        "humanitární",
+        "zdravotnickou",
+        "jazykovou",
+        "ekologickou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

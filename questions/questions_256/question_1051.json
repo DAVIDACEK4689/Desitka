@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte obor podle průkopníka",
+  "questions": [
+    {
+      "key": "Charlie Chaplin",
+      "values": [
+        "automobilismus",
+        "počítač",
+        "kinematografie",
+        "sport"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eliška Junková",
+      "values": [
+        "automobilismus",
+        "sport",
+        "počítač",
+        "letectví"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gustav Frištenský",
+      "values": [
+        "kinematografie",
+        "počítač",
+        "železnice",
+        "sport"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rudolf Diesel",
+      "values": [
+        "internet",
+        "letectví",
+        "automobilismus",
+        "kinematografie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "František Venclovský",
+      "values": [
+        "internet",
+        "automobilismus",
+        "sport",
+        "počítač"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Steve Chen",
+      "values": [
+        "počítač",
+        "železnice",
+        "internet",
+        "kinematografie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sergey Brin",
+      "values": [
+        "automobilismus",
+        "železnice",
+        "internet",
+        "kinematografie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kleinové",
+      "values": [
+        "kinematografie",
+        "železnice",
+        "počítač",
+        "automobilismus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nicolaus Otto",
+      "values": [
+        "železnice",
+        "internet",
+        "sport",
+        "automobilismus"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Emil Jellinek",
+      "values": [
+        "internet",
+        "počítač",
+        "automobilismus",
+        "sport"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

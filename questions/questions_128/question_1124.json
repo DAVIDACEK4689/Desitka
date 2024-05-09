@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] evropskou kulturu?",
+  "questions": [
+    {
+      "key": "Beltain",
+      "values": [
+        "maďarskou",
+        "britskou",
+        "irskou",
+        "českou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gopnik",
+      "values": [
+        "ruskou",
+        "dánskou",
+        "švédskou",
+        "polskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dvanáct bobulí révy",
+      "values": [
+        "španělskou",
+        "českou",
+        "maďarskou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Schlaraffia",
+      "values": [
+        "polskou",
+        "vatikánskou",
+        "německou",
+        "ázerbájdžánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Las Fallas",
+      "values": [
+        "španělskou",
+        "finskou",
+        "švýcarskou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Svatební zvyky",
+      "values": [
+        "britskou",
+        "irskou",
+        "českou",
+        "tureckou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Giallo",
+      "values": [
+        "arménskou",
+        "ukrajinskou",
+        "německou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "LGBT práva ve Spojeném království",
+      "values": [
+        "běloruskou",
+        "arménskou",
+        "finskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sirtaki",
+      "values": [
+        "španělskou",
+        "řeckou",
+        "německou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dalarnský kůň",
+      "values": [
+        "švýcarskou",
+        "řeckou",
+        "švédskou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

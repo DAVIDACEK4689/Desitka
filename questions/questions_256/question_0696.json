@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Bill Clinton",
+      "values": [
+        "chilského",
+        "amerického",
+        "etiopského",
+        "černohorského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Giuseppe Garibaldi",
+      "values": [
+        "albánského",
+        "italského",
+        "arménského",
+        "chilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Svjatlana Cichanouská",
+      "values": [
+        "běloruského",
+        "turkmenského",
+        "pákistánského",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert Mugabe",
+      "values": [
+        "libyjského",
+        "bosenského",
+        "francouzského",
+        "zimbabwského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sahra Wagenknechtová",
+      "values": [
+        "mexického",
+        "indického",
+        "brazilského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alexandr Karelin",
+      "values": [
+        "etiopského",
+        "ruského",
+        "tureckého",
+        "salvadorského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Manfred Weber",
+      "values": [
+        "kolumbijského",
+        "vietnamského",
+        "německého",
+        "katarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Emiliano Zapata",
+      "values": [
+        "švýcarského",
+        "jihoafrického",
+        "kanadského",
+        "mexického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Peter Colotka",
+      "values": [
+        "českého",
+        "haitského",
+        "madagaskarského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sixt z Ottersdorfu",
+      "values": [
+        "pákistánského",
+        "českého",
+        "dánského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

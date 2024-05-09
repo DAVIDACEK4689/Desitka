@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Joseph Goebbels",
+      "values": [
+        "rakouského",
+        "mexického",
+        "švédského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vidkun Quisling",
+      "values": [
+        "portugalského",
+        "ázerbájdžánského",
+        "norského",
+        "chilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Móric Beňovský",
+      "values": [
+        "španělského",
+        "egyptského",
+        "madagaskarského",
+        "ázerbájdžánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Horatio Kitchener",
+      "values": [
+        "indického",
+        "panamského",
+        "italského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Józef Antoni Poniatowski",
+      "values": [
+        "polského",
+        "izraelského",
+        "peruánského",
+        "arménského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karol Świerczewski",
+      "values": [
+        "francouzského",
+        "myanmarského",
+        "polského",
+        "chilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ruslan Chasbulatov",
+      "values": [
+        "černohorského",
+        "ruského",
+        "malajsijského",
+        "československého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Anton Rakický",
+      "values": [
+        "slovenského",
+        "palestinského",
+        "singapurského",
+        "myanmarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lazar Koliševski",
+      "values": [
+        "maltského",
+        "slovenského",
+        "kyperského",
+        "jugoslávského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alberto Núñez Feijóo",
+      "values": [
+        "panamského",
+        "estonského",
+        "španělského",
+        "maltského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

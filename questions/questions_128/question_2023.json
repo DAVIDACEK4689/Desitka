@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] generála?",
+  "questions": [
+    {
+      "key": "Ramzan Kadyrov",
+      "values": [
+        "chorvatského",
+        "britského",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sergej Surovikin",
+      "values": [
+        "amerického",
+        "ruského",
+        "búrského",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pancho Villa",
+      "values": [
+        "francouzského",
+        "dánského",
+        "izraelského",
+        "mexického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Carlo Alberto dalla Chiesa",
+      "values": [
+        "italského",
+        "polského",
+        "ukrajinského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lloyd Austin",
+      "values": [
+        "československého",
+        "ruského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vilém Sacher",
+      "values": [
+        "španělského",
+        "českého",
+        "ruského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andrej Suchověckij",
+      "values": [
+        "dánského",
+        "rumunského",
+        "mexického",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hans Christoff Königsmarck",
+      "values": [
+        "chorvatského",
+        "amerického",
+        "polského",
+        "švédského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lev Rochlin",
+      "values": [
+        "mexického",
+        "polského",
+        "ruského",
+        "československého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexander Vandegrift",
+      "values": [
+        "finského",
+        "československého",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

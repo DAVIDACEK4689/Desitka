@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte kontinent podle jazyka",
+  "questions": [
+    {
+      "key": "Němčina",
+      "values": [
+        "Jižní Amerika",
+        "Evropa",
+        "Afrika",
+        "Asie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ruština",
+      "values": [
+        "Jižní Amerika",
+        "Asie",
+        "Afrika",
+        "Evropa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Germánské jazyky",
+      "values": [
+        "Asie",
+        "Afrika",
+        "Jižní Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Albánština",
+      "values": [
+        "Jižní Amerika",
+        "Afrika",
+        "Evropa",
+        "Asie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Baskičtina",
+      "values": [
+        "Afrika",
+        "Evropa",
+        "Asie",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Maltština",
+      "values": [
+        "Evropa",
+        "Asie",
+        "Jižní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Arménština",
+      "values": [
+        "Jižní Amerika",
+        "Evropa",
+        "Asie",
+        "Afrika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Baltské jazyky",
+      "values": [
+        "Asie",
+        "Jižní Amerika",
+        "Afrika",
+        "Evropa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mongolština",
+      "values": [
+        "Asie",
+        "Jižní Amerika",
+        "Afrika",
+        "Evropa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Uralské jazyky",
+      "values": [
+        "Jižní Amerika",
+        "Evropa",
+        "Afrika",
+        "Asie"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

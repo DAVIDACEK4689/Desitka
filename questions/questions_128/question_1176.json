@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte oblast podle ptáka",
+  "questions": [
+    {
+      "key": "Pštros dvouprstý",
+      "values": [
+        "Antarktida",
+        "celosvětové rozšíření",
+        "Atlantský oceán",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Perlička kropenatá",
+      "values": [
+        "Jižní Amerika",
+        "Afrika",
+        "Severní Amerika",
+        "Antarktida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Konipas luční",
+      "values": [
+        "Antarktida",
+        "Atlantský oceán",
+        "Tichý oceán",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sojka chocholatá",
+      "values": [
+        "Severní Amerika",
+        "celosvětové rozšíření",
+        "Jižní Amerika",
+        "Atlantský oceán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Terej modronohý",
+      "values": [
+        "Severní Amerika",
+        "Tichý oceán",
+        "celosvětové rozšíření",
+        "Antarktida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aratinga zelený",
+      "values": [
+        "Střední Amerika",
+        "Severní Amerika",
+        "Jižní oceán",
+        "Orientální oblast"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tenkozobec opačný",
+      "values": [
+        "Orientální oblast",
+        "Antarktida",
+        "Tichý oceán",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Papoušek konžský",
+      "values": [
+        "Tichý oceán",
+        "Atlantský oceán",
+        "celosvětové rozšíření",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Salašník horský",
+      "values": [
+        "Střední Amerika",
+        "Severní Amerika",
+        "Orientální oblast",
+        "Atlantský oceán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Labuť černokrká",
+      "values": [
+        "Antarktida",
+        "Jižní Amerika",
+        "Afrika",
+        "Tichý oceán"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

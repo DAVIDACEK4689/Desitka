@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] generála?",
+  "questions": [
+    {
+      "key": "Heliodor Píka",
+      "values": [
+        "japonského",
+        "amerického",
+        "československého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sergej Šojgu",
+      "values": [
+        "českého",
+        "slovenského",
+        "československého",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Fajtl",
+      "values": [
+        "českého",
+        "ruského",
+        "izraelského",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Douglas MacArthur",
+      "values": [
+        "českého",
+        "rakouského",
+        "amerického",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sepp Dietrich",
+      "values": [
+        "polského",
+        "japonského",
+        "německého",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ondřej Řecký a Dánský",
+      "values": [
+        "sovětského",
+        "britského",
+        "řeckého",
+        "československého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Walter Model",
+      "values": [
+        "německého",
+        "slovenského",
+        "izraelského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Theodor Eicke",
+      "values": [
+        "rakouského",
+        "německého",
+        "řeckého",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oleksandr Syrskyj",
+      "values": [
+        "amerického",
+        "ruského",
+        "ukrajinského",
+        "československého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fedor von Bock",
+      "values": [
+        "izraelského",
+        "japonského",
+        "německého",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

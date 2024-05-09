@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] literární dílo?",
+  "questions": [
+    {
+      "key": "My děti ze stanice ZOO",
+      "values": [
+        "americké",
+        "německé",
+        "španělské",
+        "italské"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tristan a Isolda",
+      "values": [
+        "španělské",
+        "finské",
+        "francouzské",
+        "italské"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gulliverovy cesty",
+      "values": [
+        "italské",
+        "francouzské",
+        "španělské",
+        "anglické"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rukopis zelenohorský",
+      "values": [
+        "francouzské",
+        "nizozemské",
+        "americké",
+        "české"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Beowulf",
+      "values": [
+        "české",
+        "italské",
+        "nizozemské",
+        "anglické"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sto roků samoty",
+      "values": [
+        "španělské",
+        "německé",
+        "nizozemské",
+        "italské"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Carmina Burana",
+      "values": [
+        "španělské",
+        "nizozemské",
+        "ruské",
+        "německé"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Těžká hodina",
+      "values": [
+        "americké",
+        "francouzské",
+        "české",
+        "španělské"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Život svaté Kateřiny",
+      "values": [
+        "anglické",
+        "francouzské",
+        "americké",
+        "české"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kolo času",
+      "values": [
+        "americké",
+        "španělské",
+        "německé",
+        "ruské"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

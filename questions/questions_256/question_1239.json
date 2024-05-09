@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [téma] televizní stanici?",
+  "questions": [
+    {
+      "key": "CNN Prima News",
+      "values": [
+        "hudební",
+        "dokumentární",
+        "křesťanskou",
+        "zpravodajskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "ČT24",
+      "values": [
+        "filmovou",
+        "zpravodajskou",
+        "dokumentární",
+        "sportovní"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Šlágr TV",
+      "values": [
+        "sportovní",
+        "dětskou",
+        "dokumentární",
+        "hudební"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "CNN",
+      "values": [
+        "zpravodajskou",
+        "sportovní",
+        "hudební",
+        "dětskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "MTV",
+      "values": [
+        "křesťanskou",
+        "zpravodajskou",
+        "hudební",
+        "dětskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Óčko",
+      "values": [
+        "sportovní",
+        "zpravodajskou",
+        "dětskou",
+        "hudební"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Disney Channel",
+      "values": [
+        "křesťanskou",
+        "sportovní",
+        "dětskou",
+        "dokumentární"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Spektrum Home",
+      "values": [
+        "hudební",
+        "dětskou",
+        "dokumentární",
+        "filmovou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Prima Max",
+      "values": [
+        "filmovou",
+        "křesťanskou",
+        "dokumentární",
+        "dětskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Megamax",
+      "values": [
+        "filmovou",
+        "sportovní",
+        "dětskou",
+        "zpravodajskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

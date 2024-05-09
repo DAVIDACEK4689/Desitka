@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] román?",
+  "questions": [
+    {
+      "key": "Tři mušketýři",
+      "values": [
+        "německý",
+        "český",
+        "francouzský",
+        "australský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jana Eyrová",
+      "values": [
+        "český",
+        "francouzský",
+        "ruský",
+        "anglický"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hlava XXII",
+      "values": [
+        "americký",
+        "britský",
+        "ruský",
+        "francouzský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Klub rváčů",
+      "values": [
+        "australský",
+        "americký",
+        "slovenský",
+        "britský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Forrest Gump",
+      "values": [
+        "český",
+        "americký",
+        "francouzský",
+        "anglický"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bratři Karamazovi",
+      "values": [
+        "ruský",
+        "španělský",
+        "český",
+        "japonský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rozum a cit",
+      "values": [
+        "francouzský",
+        "český",
+        "německý",
+        "anglický"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jako zabít ptáčka",
+      "values": [
+        "irský",
+        "český",
+        "italský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pan Theodor Mundstock",
+      "values": [
+        "český",
+        "ruský",
+        "slovenský",
+        "anglický"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Řbitov zviřátek",
+      "values": [
+        "americký",
+        "ruský",
+        "japonský",
+        "britský"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

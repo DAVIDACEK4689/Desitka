@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Augusto Pinochet",
+      "values": [
+        "chilského",
+        "haitského",
+        "finského",
+        "ázerbájdžánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Thomas More",
+      "values": [
+        "finského",
+        "anglického",
+        "chorvatského",
+        "myanmarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michail Kalašnikov",
+      "values": [
+        "pruského",
+        "sovětského",
+        "rumunského",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ernest Denis",
+      "values": [
+        "libanonského",
+        "černohorského",
+        "dominikánského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Farah Pahlaví",
+      "values": [
+        "kambodžského",
+        "peruánského",
+        "řeckého",
+        "íránského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Henri Barbusse",
+      "values": [
+        "chorvatského",
+        "bosenského",
+        "francouzského",
+        "indického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "José Rizal",
+      "values": [
+        "salvadorského",
+        "filipínského",
+        "švýcarského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Walter Runciman",
+      "values": [
+        "britského",
+        "keňského",
+        "rumunského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Wojciech Korfanty",
+      "values": [
+        "nigerského",
+        "salvadorského",
+        "polského",
+        "filipínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "George Frost Kennan",
+      "values": [
+        "nigerského",
+        "rakouského",
+        "amerického",
+        "peruánského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

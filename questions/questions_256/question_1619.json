@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte kontinent podle fauny",
+  "questions": [
+    {
+      "key": "Panda velká",
+      "values": [
+        "Afrika",
+        "Antarktida",
+        "Střední Amerika",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Želva zelenavá",
+      "values": [
+        "Evropa",
+        "Střední Amerika",
+        "Severní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dingo",
+      "values": [
+        "Afrika",
+        "Evropa",
+        "Střední Amerika",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gaviál indický",
+      "values": [
+        "Severní Amerika",
+        "Asie",
+        "Jižní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Slon pralesní",
+      "values": [
+        "Jižní Amerika",
+        "Střední Amerika",
+        "Afrika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dhoul",
+      "values": [
+        "Evropa",
+        "Asie",
+        "Antarktida",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kočka rybářská",
+      "values": [
+        "Asie",
+        "Jižní Amerika",
+        "Evropa",
+        "Afrika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pes pralesní",
+      "values": [
+        "Afrika",
+        "Evropa",
+        "Střední Amerika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Levhart Diardův",
+      "values": [
+        "Jižní Amerika",
+        "Antarktida",
+        "Asie",
+        "Severní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čolek dravý",
+      "values": [
+        "Antarktida",
+        "Střední Amerika",
+        "Evropa",
+        "Afrika"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

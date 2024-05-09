@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] román?",
+  "questions": [
+    {
+      "key": "Jana Eyrová",
+      "values": [
+        "španělský",
+        "čínský",
+        "anglický",
+        "italský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nikola Šuhaj loupežník",
+      "values": [
+        "rakouský",
+        "italský",
+        "český",
+        "francouzský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Obsluhoval jsem anglického krále",
+      "values": [
+        "italský",
+        "slovenský",
+        "český",
+        "německý"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Šifra mistra Leonarda",
+      "values": [
+        "americký",
+        "německý",
+        "český",
+        "irský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josefina Mutzenbacherová",
+      "values": [
+        "anglický",
+        "irský",
+        "ruský",
+        "rakouský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stříbrný vítr",
+      "values": [
+        "britský",
+        "český",
+        "rakouský",
+        "americký"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hvězdná pěchota",
+      "values": [
+        "španělský",
+        "slovenský",
+        "americký",
+        "český"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dobrodružný Simplicius Simplicissimus",
+      "values": [
+        "italský",
+        "německý",
+        "americký",
+        "slovenský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dobrý člověk ještě žije",
+      "values": [
+        "rakouský",
+        "americký",
+        "slovenský",
+        "francouzský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Laskavé bohyně",
+      "values": [
+        "australský",
+        "italský",
+        "anglický",
+        "francouzský"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

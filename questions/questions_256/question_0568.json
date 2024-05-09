@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [typ] tank?",
+  "questions": [
+    {
+      "key": "Panzerkampfwagen VI Tiger",
+      "values": [
+        "pěchotní",
+        "střední",
+        "těžký",
+        "lehký"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "M4 Sherman",
+      "values": [
+        "střední",
+        "pěchotní",
+        "těžký",
+        "lehký"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Panzerkampfwagen V Panther",
+      "values": [
+        "obojživelný",
+        "lehký",
+        "střední",
+        "pěchotní"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Panzerkampfwagen III",
+      "values": [
+        "těžký",
+        "střední",
+        "obojživelný",
+        "lehký"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stridsvagn 103",
+      "values": [
+        "lehký",
+        "střední",
+        "těžký",
+        "obojživelný"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Panzerkampfwagen II",
+      "values": [
+        "lehký",
+        "pěchotní",
+        "střední",
+        "těžký"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "M3 Lee",
+      "values": [
+        "pěchotní",
+        "těžký",
+        "střední",
+        "obojživelný"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "M46 Patton",
+      "values": [
+        "lehký",
+        "těžký",
+        "obojživelný",
+        "střední"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "M24 Chaffee",
+      "values": [
+        "pěchotní",
+        "obojživelný",
+        "lehký",
+        "těžký"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Turán",
+      "values": [
+        "střední",
+        "těžký",
+        "pěchotní",
+        "lehký"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

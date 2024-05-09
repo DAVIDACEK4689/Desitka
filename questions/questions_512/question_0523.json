@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Tábor",
+      "values": [
+        "Hron",
+        "Lužnice",
+        "Visla",
+        "Svratka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Žatec",
+      "values": [
+        "Lužická Nisa",
+        "Ohře",
+        "Hornád",
+        "Bečva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Smíchov",
+      "values": [
+        "Vltava",
+        "Hron",
+        "Úslava",
+        "Eufrat"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mohuč",
+      "values": [
+        "Váha",
+        "Chrudimka",
+        "Visla",
+        "Rýn"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zbraslav",
+      "values": [
+        "Radbuza",
+        "Seina",
+        "Vltava",
+        "Svratka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rajhrad",
+      "values": [
+        "Vltava",
+        "Svratka",
+        "Hornád",
+        "Úhlava"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ingolstadt",
+      "values": [
+        "Hron",
+        "Dunaj",
+        "Vltava",
+        "Dněpr"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Troja",
+      "values": [
+        "Ploučnice",
+        "Vltava",
+        "Úhlava",
+        "Eufrat"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Brezno",
+      "values": [
+        "Eufrat",
+        "Dyje",
+        "Hron",
+        "Sázava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čeňkova pila",
+      "values": [
+        "Úhlava",
+        "Berounka",
+        "Otava",
+        "Hron"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

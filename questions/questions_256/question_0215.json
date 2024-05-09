@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Jan Hartl",
+      "values": [
+        "ukrajinského",
+        "kanadského",
+        "českého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Antonio Banderas",
+      "values": [
+        "švýcarského",
+        "španělského",
+        "rakouského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kit Connor",
+      "values": [
+        "maďarského",
+        "britského",
+        "kanadského",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "David Carradine",
+      "values": [
+        "norského",
+        "německého",
+        "marockého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Andrej Hryc",
+      "values": [
+        "italského",
+        "marockého",
+        "sovětského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Connor Swindells",
+      "values": [
+        "dánského",
+        "britského",
+        "švédského",
+        "malajsijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Václav Glazar",
+      "values": [
+        "jihoafrického",
+        "marockého",
+        "českého",
+        "izraelského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Emil Bolek",
+      "values": [
+        "portorického",
+        "českého",
+        "indického",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Busta Rhymes",
+      "values": [
+        "jihokorejského",
+        "dánského",
+        "novozélandského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Baekhyun",
+      "values": [
+        "jihokorejského",
+        "italského",
+        "ukrajinského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

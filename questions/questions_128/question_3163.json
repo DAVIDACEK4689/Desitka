@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] firmu?",
+  "questions": [
+    {
+      "key": "Orlen",
+      "values": [
+        "rakouskou",
+        "kanadskou",
+        "polskou",
+        "japonskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Majak",
+      "values": [
+        "malajsijskou",
+        "ruskou",
+        "chorvatskou",
+        "australskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tesla Pardubice",
+      "values": [
+        "vietnamskou",
+        "československou",
+        "britskou",
+        "irskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stratolaunch",
+      "values": [
+        "belgickou",
+        "maďarskou",
+        "americkou",
+        "československou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stadler Rail",
+      "values": [
+        "saúdskoarabskou",
+        "slovenskou",
+        "švýcarskou",
+        "dánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kickstarter",
+      "values": [
+        "britskou",
+        "sovětskou",
+        "americkou",
+        "indickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "MetLife",
+      "values": [
+        "americkou",
+        "izraelskou",
+        "malajsijskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Osram",
+      "values": [
+        "německou",
+        "irskou",
+        "španělskou",
+        "maďarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "PGA Tour",
+      "values": [
+        "jihokorejskou",
+        "italskou",
+        "americkou",
+        "rumunskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "MESIT",
+      "values": [
+        "malajsijskou",
+        "československou",
+        "ruskou",
+        "maltskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

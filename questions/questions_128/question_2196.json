@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] lékaře?",
+  "questions": [
+    {
+      "key": "Paracelsus",
+      "values": [
+        "čínského",
+        "švýcarského",
+        "afghánského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Harold Shipman",
+      "values": [
+        "britského",
+        "švýcarského",
+        "německého",
+        "jihoafrického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Síla",
+      "values": [
+        "rakouského",
+        "českého",
+        "německého",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Lom",
+      "values": [
+        "německého",
+        "amerického",
+        "chilského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Luděk Rubáš",
+      "values": [
+        "švédského",
+        "českého",
+        "kanadského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ctirad John",
+      "values": [
+        "českého",
+        "rakouského",
+        "afghánského",
+        "albánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "František Neuwirth",
+      "values": [
+        "českého",
+        "izraelského",
+        "rakouského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "John Lilly",
+      "values": [
+        "švédského",
+        "australského",
+        "francouzského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Leopold Firt",
+      "values": [
+        "českého",
+        "švýcarského",
+        "italského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Edmund Wojtyła",
+      "values": [
+        "izraelského",
+        "francouzského",
+        "německého",
+        "polského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

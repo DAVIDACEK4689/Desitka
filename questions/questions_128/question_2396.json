@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Side",
+      "values": [
+        "Súdán",
+        "Turecko",
+        "Zambie",
+        "Jižní Korea"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Quito",
+      "values": [
+        "Bulharsko",
+        "Ekvádor",
+        "Jihoafrická republika",
+        "Irsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sucre",
+      "values": [
+        "Gabon",
+        "Bolívie",
+        "Finsko",
+        "Komora"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Šamorín",
+      "values": [
+        "Estonsko",
+        "Slovensko",
+        "Nigérie",
+        "Rumunsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Harappa",
+      "values": [
+        "Česko",
+        "Niger",
+        "Severní Makedonie",
+        "Pákistán"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Visp",
+      "values": [
+        "Japonsko",
+        "Švýcarsko",
+        "Izrael",
+        "Irsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Solna",
+      "values": [
+        "Středoafrická republika",
+        "Švédsko",
+        "Kiribati",
+        "Angola"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vrbové",
+      "values": [
+        "Egypt",
+        "Francie",
+        "Moldavsko",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pliska",
+      "values": [
+        "Bulharsko",
+        "Marshallovy ostrovy",
+        "Venezuela",
+        "Irák"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Óbidos",
+      "values": [
+        "Ekvádor",
+        "Nový Zéland",
+        "Indonésie",
+        "Portugalsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

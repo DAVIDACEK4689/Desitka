@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] architekta?",
+  "questions": [
+    {
+      "key": "Leonardo da Vinci",
+      "values": [
+        "řeckého",
+        "italského",
+        "ruského",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Le Corbusier",
+      "values": [
+        "maďarského",
+        "norského",
+        "řeckého",
+        "švýcarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ladislav Lábus",
+      "values": [
+        "českého",
+        "brazilského",
+        "italského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Feidiás",
+      "values": [
+        "českého",
+        "řeckého",
+        "maďarského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Hoffmann",
+      "values": [
+        "ruského",
+        "slovinského",
+        "slovenského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marcus Vitruvius Pollio",
+      "values": [
+        "českého",
+        "řeckého",
+        "maďarského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Carlo Lurago",
+      "values": [
+        "brazilského",
+        "českého",
+        "italského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Baptista Mathey",
+      "values": [
+        "francouzského",
+        "švýcarského",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zdeněk Lukeš",
+      "values": [
+        "rakouského",
+        "polského",
+        "řeckého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Antonín Engel",
+      "values": [
+        "rakouského",
+        "španělského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

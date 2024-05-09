@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Tomáš Rosický",
+      "values": [
+        "českého",
+        "polského",
+        "italského",
+        "albánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Václav Jurečka",
+      "values": [
+        "chilského",
+        "australského",
+        "velšského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marek Kulič",
+      "values": [
+        "severoirského",
+        "českého",
+        "švýcarského",
+        "kostarického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eduardo Camavinga",
+      "values": [
+        "italského",
+        "sovětského",
+        "belgického",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Romário",
+      "values": [
+        "maďarského",
+        "italského",
+        "švédského",
+        "brazilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Vitík",
+      "values": [
+        "bulharského",
+        "českého",
+        "španělského",
+        "argentinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kepa Arrizabalaga",
+      "values": [
+        "španělského",
+        "finského",
+        "chilského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Aleksandar Mitrović",
+      "values": [
+        "belgického",
+        "nizozemského",
+        "srbského",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ricardo Quaresma",
+      "values": [
+        "amerického",
+        "portugalského",
+        "mexického",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rudolf Skácel",
+      "values": [
+        "srbského",
+        "kolumbijského",
+        "sovětského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

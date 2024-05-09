@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] videohru?",
+  "questions": [
+    {
+      "key": "Roblox",
+      "values": [
+        "americkou",
+        "jihokorejskou",
+        "japonskou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pokémon",
+      "values": [
+        "japonskou",
+        "finskou",
+        "americkou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "League of Legends",
+      "values": [
+        "americkou",
+        "britskou",
+        "německou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Brawl Stars",
+      "values": [
+        "finskou",
+        "běloruskou",
+        "americkou",
+        "japonskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "God of War",
+      "values": [
+        "švédskou",
+        "běloruskou",
+        "americkou",
+        "japonskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Among Us",
+      "values": [
+        "polskou",
+        "německou",
+        "americkou",
+        "běloruskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Diablo IV",
+      "values": [
+        "americkou",
+        "běloruskou",
+        "jihokorejskou",
+        "polskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Grand Theft Auto IV",
+      "values": [
+        "ruskou",
+        "polskou",
+        "německou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sword Art Online",
+      "values": [
+        "švédskou",
+        "japonskou",
+        "běloruskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Battlefield",
+      "values": [
+        "jihokorejskou",
+        "finskou",
+        "švédskou",
+        "německou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

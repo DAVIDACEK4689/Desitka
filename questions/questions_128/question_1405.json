@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte kontinent podle fauny",
+  "questions": [
+    {
+      "key": "Anakonda velká",
+      "values": [
+        "Střední Amerika",
+        "Evropa",
+        "Severní Amerika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kalmar Hamiltonův",
+      "values": [
+        "Střední Amerika",
+        "Antarktida",
+        "Jižní Amerika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zebra stepní",
+      "values": [
+        "Asie",
+        "Evropa",
+        "Severní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Herkules antilský",
+      "values": [
+        "Afrika",
+        "Antarktida",
+        "Jižní Amerika",
+        "Střední Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sobol východní",
+      "values": [
+        "Antarktida",
+        "Asie",
+        "Evropa",
+        "Střední Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tamarín pinčí",
+      "values": [
+        "Afrika",
+        "Evropa",
+        "Jižní Amerika",
+        "Asie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Levhart perský",
+      "values": [
+        "Afrika",
+        "Evropa",
+        "Jižní Amerika",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Krokodýl siamský",
+      "values": [
+        "Střední Amerika",
+        "Evropa",
+        "Jižní Amerika",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rosnička včelí",
+      "values": [
+        "Střední Amerika",
+        "Asie",
+        "Evropa",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vydra hladkosrstá",
+      "values": [
+        "Antarktida",
+        "Severní Amerika",
+        "Asie",
+        "Střední Amerika"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Hermann Göring",
+      "values": [
+        "běloruského",
+        "vietnamského",
+        "zimbabwského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jurij Andropov",
+      "values": [
+        "sovětského",
+        "rakouského",
+        "iráckého",
+        "běloruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Muhammad Rezá Pahlaví",
+      "values": [
+        "íránského",
+        "ázerbájdžánského",
+        "indického",
+        "ghanského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sanna Marinová",
+      "values": [
+        "finského",
+        "švýcarského",
+        "československého",
+        "anglického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Grigorij Alexandrovič Potěmkin",
+      "values": [
+        "ghanského",
+        "chorvatského",
+        "ruského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Erich Ludendorff",
+      "values": [
+        "jihoafrického",
+        "albánského",
+        "německého",
+        "zimbabwského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oleksij Reznikov",
+      "values": [
+        "ukrajinského",
+        "běloruského",
+        "chilského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Georgi Dimitrov",
+      "values": [
+        "italského",
+        "bulharského",
+        "portugalského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Roland Freisler",
+      "values": [
+        "německého",
+        "nigerského",
+        "katarského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Penny Mordauntová",
+      "values": [
+        "britského",
+        "maltského",
+        "polského",
+        "chilského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

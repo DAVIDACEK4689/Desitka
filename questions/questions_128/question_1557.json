@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] biatlonistku?",
+  "questions": [
+    {
+      "key": "Tereza Voborníková",
+      "values": [
+        "slovenskou",
+        "běloruskou",
+        "finskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dorothea Wiererová",
+      "values": [
+        "švédskou",
+        "norskou",
+        "italskou",
+        "slovinskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jessica Jislová",
+      "values": [
+        "německou",
+        "finskou",
+        "běloruskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eliška Václavíková",
+      "values": [
+        "finskou",
+        "českou",
+        "švédskou",
+        "italskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tereza Vinklárková",
+      "values": [
+        "českou",
+        "švédskou",
+        "finskou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Darja Domračevová",
+      "values": [
+        "běloruskou",
+        "švédskou",
+        "italskou",
+        "finskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Klára Moravcová",
+      "values": [
+        "finskou",
+        "českou",
+        "německou",
+        "švédskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Juni Arnekleivová",
+      "values": [
+        "norskou",
+        "finskou",
+        "běloruskou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Franziska Preussová",
+      "values": [
+        "norskou",
+        "německou",
+        "francouzskou",
+        "slovenskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tora Bergerová",
+      "values": [
+        "norskou",
+        "švédskou",
+        "běloruskou",
+        "slovinskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

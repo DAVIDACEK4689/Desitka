@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Perkelt",
+      "values": [
+        "maďarskou",
+        "finskou",
+        "švýcarskou",
+        "indickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Caipirinha",
+      "values": [
+        "brazilskou",
+        "skotskou",
+        "vietnamskou",
+        "kanadskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hranolky",
+      "values": [
+        "řeckou",
+        "španělskou",
+        "gruzínskou",
+        "belgickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Holandská omáčka",
+      "values": [
+        "britskou",
+        "italskou",
+        "chorvatskou",
+        "francouzskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ovar",
+      "values": [
+        "českou",
+        "britskou",
+        "americkou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vídeňská melange",
+      "values": [
+        "řeckou",
+        "ruskou",
+        "rakouskou",
+        "belgickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Perila křovitá",
+      "values": [
+        "indickou",
+        "korejskou",
+        "dominikánskou",
+        "finskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Boží milosti",
+      "values": [
+        "dominikánskou",
+        "českou",
+        "italskou",
+        "japonskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ravioly",
+      "values": [
+        "rakouskou",
+        "irskou",
+        "italskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Salmiakki",
+      "values": [
+        "finskou",
+        "kanadskou",
+        "ruskou",
+        "skotskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

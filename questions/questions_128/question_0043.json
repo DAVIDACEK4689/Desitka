@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] hudební skupinu?",
+  "questions": [
+    {
+      "key": "Spice Girls",
+      "values": [
+        "portugalskou",
+        "britskou",
+        "maďarskou",
+        "jihoafrickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sum 41",
+      "values": [
+        "kubánskou",
+        "finskou",
+        "španělskou",
+        "kanadskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pussycat Dolls",
+      "values": [
+        "americkou",
+        "maďarskou",
+        "belgickou",
+        "islandskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sugababes",
+      "values": [
+        "francouzskou",
+        "britskou",
+        "jihoafrickou",
+        "kanadskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Šum svistu",
+      "values": [
+        "maďarskou",
+        "dánskou",
+        "českou",
+        "portugalskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vanilla Ninja",
+      "values": [
+        "slovinskou",
+        "dánskou",
+        "norskou",
+        "estonskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sigur Rós",
+      "values": [
+        "chorvatskou",
+        "slovinskou",
+        "islandskou",
+        "australskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Baltimora",
+      "values": [
+        "dánskou",
+        "portugalskou",
+        "italskou",
+        "islandskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Wanna One",
+      "values": [
+        "jihokorejskou",
+        "kubánskou",
+        "jihoafrickou",
+        "českou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Front 242",
+      "values": [
+        "kubánskou",
+        "belgickou",
+        "švédskou",
+        "dánskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] firmu?",
+  "questions": [
+    {
+      "key": "Yandex",
+      "values": [
+        "švédskou",
+        "chorvatskou",
+        "izraelskou",
+        "ruskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "PricewaterhouseCoopers",
+      "values": [
+        "norskou",
+        "francouzskou",
+        "americkou",
+        "nizozemskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "GymBeam",
+      "values": [
+        "maltskou",
+        "dánskou",
+        "slovenskou",
+        "kanadskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "ThyssenKrupp",
+      "values": [
+        "belgickou",
+        "německou",
+        "saúdskoarabskou",
+        "malajsijskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cofidis",
+      "values": [
+        "ukrajinskou",
+        "francouzskou",
+        "dánskou",
+        "maltskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hamleys",
+      "values": [
+        "britskou",
+        "finskou",
+        "rumunskou",
+        "indickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fiskars",
+      "values": [
+        "maďarskou",
+        "finskou",
+        "československou",
+        "českou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Slazenger",
+      "values": [
+        "japonskou",
+        "britskou",
+        "jihokorejskou",
+        "irskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Newag",
+      "values": [
+        "vietnamskou",
+        "polskou",
+        "francouzskou",
+        "německou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sigfox",
+      "values": [
+        "jihokorejskou",
+        "francouzskou",
+        "indickou",
+        "irskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

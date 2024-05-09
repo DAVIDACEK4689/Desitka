@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Helena Vondráčková",
+      "values": [
+        "americkou",
+        "japonskou",
+        "českou",
+        "australskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Agnetha Fältskog",
+      "values": [
+        "řeckou",
+        "kolumbijskou",
+        "uruguayskou",
+        "švédskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kylie Minogue",
+      "values": [
+        "izraelskou",
+        "ruskou",
+        "australskou",
+        "finskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lenka Plačková",
+      "values": [
+        "islandskou",
+        "barbadoskou",
+        "českou",
+        "chorvatskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sharon den Adel",
+      "values": [
+        "islandskou",
+        "srbskou",
+        "kolumbijskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Taylor Momsen",
+      "values": [
+        "americkou",
+        "slovenskou",
+        "izraelskou",
+        "českou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Naomi Scott",
+      "values": [
+        "nizozemskou",
+        "uruguayskou",
+        "britskou",
+        "mexickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Delta Goodremová",
+      "values": [
+        "irskou",
+        "portugalskou",
+        "americkou",
+        "australskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Momo Hirai",
+      "values": [
+        "řeckou",
+        "portugalskou",
+        "japonskou",
+        "švédskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anita Hegerland",
+      "values": [
+        "jamajskou",
+        "norskou",
+        "japonskou",
+        "italskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

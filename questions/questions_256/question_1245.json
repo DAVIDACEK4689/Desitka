@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte firmu podle softwaru",
+  "questions": [
+    {
+      "key": "YouTube",
+      "values": [
+        "Google",
+        "Borland",
+        "Apple",
+        "Microsoft"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "MacOS",
+      "values": [
+        "Google",
+        "Borland",
+        "Apple",
+        "Microsoft"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "IOS",
+      "values": [
+        "Apple",
+        "Borland",
+        "Google",
+        "Microsoft"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "OEM produkce",
+      "values": [
+        "Microsoft",
+        "Borland",
+        "Google",
+        "Apple"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Siri",
+      "values": [
+        "Google",
+        "Microsoft",
+        "Borland",
+        "Apple"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "ITunes",
+      "values": [
+        "Borland",
+        "Apple",
+        "Google",
+        "Microsoft"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Active Server Pages",
+      "values": [
+        "Borland",
+        "Apple",
+        "Google",
+        "Microsoft"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Delphi",
+      "values": [
+        "Microsoft",
+        "Apple",
+        "Borland",
+        "Google"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Internet Explorer",
+      "values": [
+        "Google",
+        "Apple",
+        "Borland",
+        "Microsoft"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Waze",
+      "values": [
+        "Google",
+        "Microsoft",
+        "Borland",
+        "Apple"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

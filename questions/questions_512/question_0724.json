@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle narození",
+  "questions": [
+    {
+      "key": "Usain Bolt",
+      "values": [
+        "Jamajka",
+        "Jihoafrická republika",
+        "Nizozemsko",
+        "Arménie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Svatý Augustin",
+      "values": [
+        "Angola",
+        "Senegal",
+        "Kazachstán",
+        "Alžírsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Riva Krieglová",
+      "values": [
+        "Argentina",
+        "Bělorusko",
+        "Nigérie",
+        "Řecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sadio Mané",
+      "values": [
+        "Libye",
+        "Senegal",
+        "Dánsko",
+        "Řecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michel Galabru",
+      "values": [
+        "Nový Zéland",
+        "Rusko",
+        "Maroko",
+        "Arménie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eusébio",
+      "values": [
+        "Nikaragua",
+        "Slovinsko",
+        "Mosambik",
+        "Pákistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mike Grose",
+      "values": [
+        "Malta",
+        "Slovinsko",
+        "Spojené království",
+        "Dánsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "André Onana",
+      "values": [
+        "Finsko",
+        "Senegal",
+        "Rumunsko",
+        "Kamerun"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nurbanu Sultan",
+      "values": [
+        "Pero",
+        "Venezuela",
+        "Řecko",
+        "Barbados"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Julián Álvarez",
+      "values": [
+        "Jihoafrická republika",
+        "Argentina",
+        "Španělsko",
+        "Portugalsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle řeky",
+  "questions": [
+    {
+      "key": "Sázava",
+      "values": [
+        "Španělsko",
+        "Německo",
+        "Česko",
+        "Srbsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ganga",
+      "values": [
+        "Bangladéš",
+        "Mongolsko",
+        "Portugalsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ploučnice",
+      "values": [
+        "Česko",
+        "Lucembursko",
+        "Švýcarsko",
+        "Kazachstán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tajo",
+      "values": [
+        "Myanmar",
+        "Kazachstán",
+        "Portugalsko",
+        "Pákistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Úhlava",
+      "values": [
+        "Česko",
+        "Španělsko",
+        "Vietnam",
+        "Řecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Daugava",
+      "values": [
+        "Vietnam",
+        "Lotyšsko",
+        "Myanmar",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Essequibo",
+      "values": [
+        "Guyana",
+        "Venezuela",
+        "Ghana",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Şəmkirçay",
+      "values": [
+        "Kazachstán",
+        "Pero",
+        "Německo",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bodrog",
+      "values": [
+        "Maďarsko",
+        "Česko",
+        "Polsko",
+        "Německo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rioni",
+      "values": [
+        "Gruzie",
+        "Ghana",
+        "Polsko",
+        "Německo"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

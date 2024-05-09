@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Lisabon",
+      "values": [
+        "Kypr",
+        "Jamajka",
+        "Brazílie",
+        "Portugalsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Katánie",
+      "values": [
+        "Slovinsko",
+        "Nigérie",
+        "Irsko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Burgas",
+      "values": [
+        "Guinea",
+        "Bulharsko",
+        "Kolumbie",
+        "Dominikánská republika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ajaccio",
+      "values": [
+        "Ázerbájdžán",
+        "Dominika",
+        "Francie",
+        "Západní Sahara"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Suchumi",
+      "values": [
+        "Libye",
+        "Venezuela",
+        "Gruzie",
+        "Švédsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Władysławowo",
+      "values": [
+        "Norsko",
+        "Saúdská Arábie",
+        "Dominika",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Picunda",
+      "values": [
+        "Irsko",
+        "Jemen",
+        "Gruzie",
+        "Dominika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Severomorsk",
+      "values": [
+        "Estonsko",
+        "Argentina",
+        "Rusko",
+        "Kamerun"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gagra",
+      "values": [
+        "Alžírsko",
+        "Gruzie",
+        "Finsko",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Puerto Plata",
+      "values": [
+        "Surinam",
+        "Malta",
+        "Dominikánská republika",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

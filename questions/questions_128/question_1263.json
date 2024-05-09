@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] aktivistu?",
+  "questions": [
+    {
+      "key": "Ben Affleck",
+      "values": [
+        "australského",
+        "amerického",
+        "slovenského",
+        "jihoafrického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Julian Assange",
+      "values": [
+        "australského",
+        "ruského",
+        "kanadského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Joe Rogan",
+      "values": [
+        "francouzského",
+        "kanadského",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kateř Tureček",
+      "values": [
+        "polského",
+        "českého",
+        "palestinského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vojtěch Razima",
+      "values": [
+        "českého",
+        "palestinského",
+        "íránského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Susan Sontagová",
+      "values": [
+        "ukrajinského",
+        "slovenského",
+        "amerického",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Piper Kerman",
+      "values": [
+        "italského",
+        "palestinského",
+        "amerického",
+        "indického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Afeni Shakur",
+      "values": [
+        "amerického",
+        "běloruského",
+        "indického",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Doubravský",
+      "values": [
+        "italského",
+        "australského",
+        "polského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Bierhanzl",
+      "values": [
+        "jihoafrického",
+        "českého",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

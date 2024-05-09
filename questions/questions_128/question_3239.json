@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] firmu?",
+  "questions": [
+    {
+      "key": "Glock",
+      "values": [
+        "australskou",
+        "malajsijskou",
+        "rakouskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Westinghouse",
+      "values": [
+        "francouzskou",
+        "americkou",
+        "vietnamskou",
+        "španělskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Reserved",
+      "values": [
+        "polskou",
+        "slovinskou",
+        "sovětskou",
+        "rumunskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "AXA",
+      "values": [
+        "indickou",
+        "francouzskou",
+        "vietnamskou",
+        "belgickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Spojené farmaceutické závody",
+      "values": [
+        "ruskou",
+        "rumunskou",
+        "československou",
+        "španělskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vonovia",
+      "values": [
+        "německou",
+        "ruskou",
+        "rakouskou",
+        "švédskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Minerfin",
+      "values": [
+        "chorvatskou",
+        "polskou",
+        "jihokorejskou",
+        "slovenskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Myprotein",
+      "values": [
+        "dánskou",
+        "britskou",
+        "norskou",
+        "čínskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "JCDecaux",
+      "values": [
+        "maďarskou",
+        "francouzskou",
+        "rakouskou",
+        "australskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kores",
+      "values": [
+        "irskou",
+        "americkou",
+        "švédskou",
+        "rakouskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

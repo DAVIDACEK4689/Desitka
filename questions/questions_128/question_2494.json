@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] novináře?",
+  "questions": [
+    {
+      "key": "Ľudovít Štúr",
+      "values": [
+        "dánského",
+        "slovenského",
+        "mexického",
+        "belgického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dmitrij Gluchovskij",
+      "values": [
+        "finského",
+        "kanadského",
+        "izraelského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Julius Grégr",
+      "values": [
+        "českého",
+        "íránského",
+        "československého",
+        "běloruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bohuslav Chňoupek",
+      "values": [
+        "ruského",
+        "japonského",
+        "slovenského",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Viktor Vincze",
+      "values": [
+        "maďarského",
+        "arménského",
+        "nizozemského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vlastimil Ježek",
+      "values": [
+        "arménského",
+        "nizozemského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Arto Paasilinna",
+      "values": [
+        "českého",
+        "ruského",
+        "slovinského",
+        "finského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Endre Ady",
+      "values": [
+        "ukrajinského",
+        "maďarského",
+        "slovenského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Albrecht",
+      "values": [
+        "českého",
+        "portugalského",
+        "amerického",
+        "běloruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavel Frýbort",
+      "values": [
+        "ruského",
+        "českého",
+        "španělského",
+        "japonského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

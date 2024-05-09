@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Mladá Boleslav",
+      "values": [
+        "Jizera",
+        "Ohře",
+        "Cidlina",
+        "Chrudimka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Düsseldorf",
+      "values": [
+        "Berounka",
+        "Mandava",
+        "Rýn",
+        "Svratka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karlsruhe",
+      "values": [
+        "Loira",
+        "Rýn",
+        "Chrudimka",
+        "Eufrat"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Worms",
+      "values": [
+        "Don",
+        "Svratka",
+        "Rýn",
+        "Spréva"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Všenory",
+      "values": [
+        "Berounka",
+        "Tis",
+        "Otava",
+        "Mandava"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kremenčuk",
+      "values": [
+        "Těrek",
+        "Metuje",
+        "Něva",
+        "Dněpr"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hainburg an der Donau",
+      "values": [
+        "Lužická Nisa",
+        "Dunaj",
+        "Těrek",
+        "Hornád"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nebanice",
+      "values": [
+        "Lužická Nisa",
+        "Emže",
+        "Ohře",
+        "Inn"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hvězdonice",
+      "values": [
+        "Sázava",
+        "Hornád",
+        "Metuje",
+        "Úslava"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bernhardsthal",
+      "values": [
+        "Berounka",
+        "Svratka",
+        "Dyje",
+        "Jizera"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

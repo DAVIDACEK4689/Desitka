@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] šlechtice?",
+  "questions": [
+    {
+      "key": "Horatio Nelson",
+      "values": [
+        "britského",
+        "moravského",
+        "italského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michel de Montaigne",
+      "values": [
+        "francouzského",
+        "italského",
+        "monackého",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "James Callaghan",
+      "values": [
+        "slovenského",
+        "britského",
+        "gruzínského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gottfried Heinrich Pappenheim",
+      "values": [
+        "francouzského",
+        "německého",
+        "albánského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josip Jelačić",
+      "values": [
+        "chorvatského",
+        "španělského",
+        "rakouského",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lutz Schwerin von Krosigk",
+      "values": [
+        "slovenského",
+        "slezského",
+        "albánského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karl Heidler von Heilborn",
+      "values": [
+        "řeckého",
+        "českého",
+        "slovenského",
+        "gruzínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sven Hedin",
+      "values": [
+        "švédského",
+        "polského",
+        "chorvatského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "František Josef Černín z Chudenic",
+      "values": [
+        "chorvatského",
+        "českého",
+        "gruzínského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jenny von Westphalen",
+      "values": [
+        "švédského",
+        "gruzínského",
+        "německého",
+        "dánského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

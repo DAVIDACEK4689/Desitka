@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] společnost?",
+  "questions": [
+    {
+      "key": "Edinburgh",
+      "values": [
+        "belgickou",
+        "honduraskou",
+        "skotskou",
+        "indickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Svatojiřská stuha",
+      "values": [
+        "ruskou",
+        "honduraskou",
+        "ukrajinskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mara Salvatrucha",
+      "values": [
+        "jihokorejskou",
+        "skotskou",
+        "honduraskou",
+        "indickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Obyvatelstvo Spojeného království",
+      "values": [
+        "honduraskou",
+        "italskou",
+        "britskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Záchytka",
+      "values": [
+        "etiopskou",
+        "indickou",
+        "českou",
+        "nizozemskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Komsomol",
+      "values": [
+        "italskou",
+        "sovětskou",
+        "indickou",
+        "honduraskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kauza rodiny Michalákových",
+      "values": [
+        "honduraskou",
+        "norskou",
+        "sovětskou",
+        "etiopskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pitralon",
+      "values": [
+        "indickou",
+        "skotskou",
+        "německou",
+        "etiopskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Náboženství v Jižní Koreji",
+      "values": [
+        "honduraskou",
+        "etiopskou",
+        "britskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bráhman",
+      "values": [
+        "jihokorejskou",
+        "ukrajinskou",
+        "ruskou",
+        "indickou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

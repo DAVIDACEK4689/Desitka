@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Marika Gombitová",
+      "values": [
+        "ukrajinskou",
+        "finskou",
+        "slovenskou",
+        "indickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tarja Turunen",
+      "values": [
+        "novozélandskou",
+        "islandskou",
+        "finskou",
+        "indickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jana Kirschner",
+      "values": [
+        "českou",
+        "rumunskou",
+        "slovenskou",
+        "portugalskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lucie Redlová",
+      "values": [
+        "ruskou",
+        "izraelskou",
+        "českou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Diana Rossová",
+      "values": [
+        "řeckou",
+        "irskou",
+        "chorvatskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Diana Krall",
+      "values": [
+        "barbadoskou",
+        "kanadskou",
+        "řeckou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Iva Marešová",
+      "values": [
+        "islandskou",
+        "polskou",
+        "českou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Caro Emerald",
+      "values": [
+        "norskou",
+        "kanadskou",
+        "nizozemskou",
+        "barbadoskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lucia Piussi",
+      "values": [
+        "novozélandskou",
+        "německou",
+        "slovenskou",
+        "irskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zemfira",
+      "values": [
+        "maďarskou",
+        "jamajskou",
+        "islandskou",
+        "ruskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

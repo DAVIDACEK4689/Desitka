@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Hovězí Stroganov",
+      "values": [
+        "korejskou",
+        "britskou",
+        "ruskou",
+        "islandskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kari koření",
+      "values": [
+        "švédskou",
+        "britskou",
+        "indickou",
+        "židovskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hákarl",
+      "values": [
+        "islandskou",
+        "anglickou",
+        "slovenskou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kontušovka",
+      "values": [
+        "americkou",
+        "polskou",
+        "skotskou",
+        "tureckou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lázeňská oplatka",
+      "values": [
+        "anglickou",
+        "indickou",
+        "skotskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Feta",
+      "values": [
+        "americkou",
+        "řeckou",
+        "slovenskou",
+        "arménskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lívanec",
+      "values": [
+        "mexickou",
+        "arménskou",
+        "ukrajinskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Basmati",
+      "values": [
+        "korejskou",
+        "německou",
+        "švédskou",
+        "indickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Makaróny",
+      "values": [
+        "balkánskou",
+        "švýcarskou",
+        "italskou",
+        "španělskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Živáňská pečeně",
+      "values": [
+        "židovskou",
+        "slovenskou",
+        "řeckou",
+        "brazilskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

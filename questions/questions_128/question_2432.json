@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] alpského lyžaře?",
+  "questions": [
+    {
+      "key": "Petra Vlhová",
+      "values": [
+        "italského",
+        "českého",
+        "rakouského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aleksander Aamodt Kilde",
+      "values": [
+        "nizozemského",
+        "norského",
+        "mexického",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marco Odermatt",
+      "values": [
+        "slovinského",
+        "amerického",
+        "švýcarského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Federica Brignoneová",
+      "values": [
+        "chorvatského",
+        "italského",
+        "mexického",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tina Mazeová",
+      "values": [
+        "švýcarského",
+        "českého",
+        "amerického",
+        "slovinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Henrik Kristoffersen",
+      "values": [
+        "norského",
+        "švédského",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hubertus von Hohenlohe",
+      "values": [
+        "švýcarského",
+        "mexického",
+        "francouzského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexis Pinturault",
+      "values": [
+        "nizozemského",
+        "rakouského",
+        "francouzského",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Henrieta Farkašová",
+      "values": [
+        "rakouského",
+        "švýcarského",
+        "slovenského",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Didier Cuche",
+      "values": [
+        "amerického",
+        "mexického",
+        "chorvatského",
+        "švýcarského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

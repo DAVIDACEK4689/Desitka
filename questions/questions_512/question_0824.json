@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [typ] organizaci?",
+  "questions": [
+    {
+      "key": "Ukrajinská povstalecká armáda",
+      "values": [
+        "politickou",
+        "ekologickou",
+        "zločineckou",
+        "partyzánskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fatah",
+      "values": [
+        "humanitární",
+        "ekologickou",
+        "zdravotnickou",
+        "partyzánskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Organizace pro osvobození Palestiny",
+      "values": [
+        "ekologickou",
+        "humanitární",
+        "fiktivní",
+        "partyzánskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "NAFTA",
+      "values": [
+        "mezinárodní",
+        "zaniklou",
+        "politickou",
+        "ekologickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Soudní dvůr Evropské unie",
+      "values": [
+        "mezinárodní",
+        "fiktivní",
+        "politickou",
+        "zdravotnickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Antifa",
+      "values": [
+        "humanitární",
+        "fiktivní",
+        "politickou",
+        "ekologickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Euskadi Ta Askatasuna",
+      "values": [
+        "zdravotnickou",
+        "partyzánskou",
+        "zločineckou",
+        "fiktivní"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fénixův řád",
+      "values": [
+        "fiktivní",
+        "zaniklou",
+        "zločineckou",
+        "politickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Svobodná Francie",
+      "values": [
+        "hospodářskou",
+        "mezinárodní",
+        "zaniklou",
+        "partyzánskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Šanghajská organizace pro spolupráci",
+      "values": [
+        "politickou",
+        "ekologickou",
+        "mezinárodní",
+        "humanitární"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

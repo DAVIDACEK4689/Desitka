@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] evropského podnikatele?",
+  "questions": [
+    {
+      "key": "Miloš Havel",
+      "values": [
+        "slovenského",
+        "švédského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dalibor Dědek",
+      "values": [
+        "monackého",
+        "českého",
+        "ruského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Hampl",
+      "values": [
+        "českého",
+        "slovinského",
+        "německého",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kleinové",
+      "values": [
+        "ukrajinského",
+        "nizozemského",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Andrej Lugovoj",
+      "values": [
+        "britského",
+        "švédského",
+        "ruského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Florentino Pérez",
+      "values": [
+        "monackého",
+        "německého",
+        "švédského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Donald Crowhurst",
+      "values": [
+        "dánského",
+        "ruského",
+        "britského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nikolaj Storonskij",
+      "values": [
+        "nizozemského",
+        "běloruského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vít Chaloupka",
+      "values": [
+        "českého",
+        "slovenského",
+        "slovinského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miloš Babiš",
+      "values": [
+        "britského",
+        "českého",
+        "švýcarského",
+        "německého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

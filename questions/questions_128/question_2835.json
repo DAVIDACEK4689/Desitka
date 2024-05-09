@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Český Krumlov",
+      "values": [
+        "Vltava",
+        "Sebnice",
+        "Seina",
+        "Tibera"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mohuč",
+      "values": [
+        "Rýn",
+        "Spréva",
+        "Eufrat",
+        "Bečva"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bohnice",
+      "values": [
+        "Sázava",
+        "Otava",
+        "Temže",
+        "Vltava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pasohlávky",
+      "values": [
+        "Váha",
+        "Spréva",
+        "Dyje",
+        "Hron"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ostia Antica",
+      "values": [
+        "Svratka",
+        "Dunaj",
+        "Radbuza",
+        "Tibera"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Solotvina",
+      "values": [
+        "Bečva",
+        "Hron",
+        "Tis",
+        "Úhlava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rochlice",
+      "values": [
+        "Don",
+        "Visla",
+        "Lužická Nisa",
+        "Seina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dordrecht",
+      "values": [
+        "Ploučnice",
+        "Sebnice",
+        "Úslava",
+        "Rýn"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Písty",
+      "values": [
+        "Těrek",
+        "Labe",
+        "Don",
+        "Loira"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Orša",
+      "values": [
+        "Eufrat",
+        "Don",
+        "Dněpr",
+        "Tibera"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

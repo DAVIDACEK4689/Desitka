@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistku?",
+  "questions": [
+    {
+      "key": "Karolína Plíšková",
+      "values": [
+        "ukrajinskou",
+        "českou",
+        "dánskou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Leylah Fernandezová",
+      "values": [
+        "kanadskou",
+        "japonskou",
+        "italskou",
+        "belgickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Viktória Hrunčáková",
+      "values": [
+        "českou",
+        "slovenskou",
+        "německou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Elise Mertensová",
+      "values": [
+        "belgickou",
+        "americkou",
+        "srbskou",
+        "australskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Anna Karolína Schmiedlová",
+      "values": [
+        "maďarskou",
+        "československou",
+        "slovenskou",
+        "egyptskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kim Clijstersová",
+      "values": [
+        "tuniskou",
+        "maďarskou",
+        "belgickou",
+        "polskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sara Erraniová",
+      "values": [
+        "italskou",
+        "nizozemskou",
+        "egyptskou",
+        "maďarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Anna Blinkovová",
+      "values": [
+        "rumunskou",
+        "ruskou",
+        "americkou",
+        "belgickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sandra Záhlavová",
+      "values": [
+        "kolumbijskou",
+        "italskou",
+        "českou",
+        "srbskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Katie Boulterová",
+      "values": [
+        "černohorskou",
+        "nizozemskou",
+        "československou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

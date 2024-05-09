@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte sport podle československého sportovce",
+  "questions": [
+    {
+      "key": "Václav Nedomanský",
+      "values": [
+        "basketbalista",
+        "lední hokejista",
+        "šachista",
+        "boxer"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Luděk Bukač",
+      "values": [
+        "sportovní střelec",
+        "stolní tenista",
+        "veslař",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Radek Bejbl",
+      "values": [
+        "pozemní hokejista",
+        "veslař",
+        "fotbalista",
+        "šachista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vladimír Kameš",
+      "values": [
+        "lední hokejista",
+        "judista",
+        "basketbalista",
+        "kajakář"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zdeněk Pohl",
+      "values": [
+        "automobilový závodník",
+        "biatlonista",
+        "stolní tenista",
+        "cyklista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Kůrka",
+      "values": [
+        "kajakář",
+        "plavec",
+        "sportovní střelec",
+        "jezdec"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Daler",
+      "values": [
+        "tenista",
+        "cyklista",
+        "fotbalista",
+        "zápasník"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavel Janků",
+      "values": [
+        "sportovní střelec",
+        "lední hokejista",
+        "veslař",
+        "horolezec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Rohan",
+      "values": [
+        "kajakář",
+        "kanoista",
+        "akrobatický letec",
+        "automobilový závodník"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bohumil Bizoň",
+      "values": [
+        "sportovní střelec",
+        "volejbalista",
+        "kajakář",
+        "fotbalista"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

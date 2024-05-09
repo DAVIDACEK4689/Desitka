@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte moře podle přístavního města",
+  "questions": [
+    {
+      "key": "Riga",
+      "values": [
+        "Baltské moře",
+        "Severní moře",
+        "Karibské moře",
+        "Bílé moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Antverpy",
+      "values": [
+        "Rudé moře",
+        "Černé moře",
+        "Severní moře",
+        "Marmarské moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Brémy",
+      "values": [
+        "Severní moře",
+        "Černé moře",
+        "Rudé moře",
+        "Azovské moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gdyně",
+      "values": [
+        "Baltské moře",
+        "Bílé moře",
+        "Marmarské moře",
+        "Irské moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kiel",
+      "values": [
+        "Severní moře",
+        "Baltské moře",
+        "Rudé moře",
+        "Bílé moře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Calais",
+      "values": [
+        "Severní moře",
+        "Marmarské moře",
+        "Černé moře",
+        "Baltské moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dahab",
+      "values": [
+        "Karibské moře",
+        "Marmarské moře",
+        "Baltské moře",
+        "Rudé moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Władysławowo",
+      "values": [
+        "Baltské moře",
+        "Irské moře",
+        "Azovské moře",
+        "Černé moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Luleå",
+      "values": [
+        "Baltské moře",
+        "Azovské moře",
+        "Bílé moře",
+        "Marmarské moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Liepāja",
+      "values": [
+        "Rudé moře",
+        "Irské moře",
+        "Bílé moře",
+        "Baltské moře"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

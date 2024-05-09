@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Igor Bareš",
+      "values": [
+        "švýcarského",
+        "českého",
+        "japonského",
+        "jihokorejského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Johnny Galecki",
+      "values": [
+        "jamajského",
+        "ukrajinského",
+        "indonéského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Omar Sy",
+      "values": [
+        "polského",
+        "francouzského",
+        "brazilského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Milan Markovič",
+      "values": [
+        "českého",
+        "gruzínského",
+        "slovenského",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tim Allen",
+      "values": [
+        "francouzského",
+        "amerického",
+        "thajského",
+        "venezuelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jason Clarke",
+      "values": [
+        "švédského",
+        "japonského",
+        "ruského",
+        "australského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Big Show",
+      "values": [
+        "švédského",
+        "českého",
+        "jihoafrického",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oleg Tabakov",
+      "values": [
+        "ruského",
+        "portorického",
+        "mexického",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Berman",
+      "values": [
+        "čínského",
+        "německého",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Valentina Vargasová",
+      "values": [
+        "britského",
+        "chilského",
+        "řeckého",
+        "malajsijského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

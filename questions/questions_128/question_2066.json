@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] šlechtice?",
+  "questions": [
+    {
+      "key": "Tomáš Czernin",
+      "values": [
+        "řeckého",
+        "rakouského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Peter Phillips",
+      "values": [
+        "španělského",
+        "slovenského",
+        "britského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Humprecht Jan Černín",
+      "values": [
+        "polského",
+        "českého",
+        "chorvatského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Christian Battaglia",
+      "values": [
+        "českého",
+        "španělského",
+        "moravského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert von Greim",
+      "values": [
+        "dánského",
+        "polského",
+        "německého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kateřina Sforzová",
+      "values": [
+        "italského",
+        "slovenského",
+        "chorvatského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Savannah Phillipsová",
+      "values": [
+        "nizozemského",
+        "rakouského",
+        "britského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čéč",
+      "values": [
+        "českého",
+        "rakouského",
+        "albánského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Emanuel ze Žerotína",
+      "values": [
+        "italského",
+        "španělského",
+        "moravského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kašpar Šlik",
+      "values": [
+        "polského",
+        "německého",
+        "chorvatského",
+        "albánského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

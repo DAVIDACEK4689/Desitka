@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Hlinsko",
+      "values": [
+        "Cidlina",
+        "Úhlava",
+        "Chrudimka",
+        "Metuje"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rajhrad",
+      "values": [
+        "Dyje",
+        "Don",
+        "Svratka",
+        "Váha"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Leverkusen",
+      "values": [
+        "Cidlina",
+        "Něva",
+        "Ploučnice",
+        "Rýn"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bytča",
+      "values": [
+        "Sebnice",
+        "Seina",
+        "Váha",
+        "Spréva"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Deggendorf",
+      "values": [
+        "Dunaj",
+        "Těrek",
+        "Bečva",
+        "Hornád"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stará Hlína",
+      "values": [
+        "Loira",
+        "Lužnice",
+        "Sázava",
+        "Dyje"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Horní Počaply",
+      "values": [
+        "Něva",
+        "Dyje",
+        "Labe",
+        "Loira"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tangermünde",
+      "values": [
+        "Rýn",
+        "Ploučnice",
+        "Bečva",
+        "Labe"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dráchov",
+      "values": [
+        "Lužnice",
+        "Visla",
+        "Hron",
+        "Metuje"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nový Vestec",
+      "values": [
+        "Jizera",
+        "Rýn",
+        "Temže",
+        "Mandava"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

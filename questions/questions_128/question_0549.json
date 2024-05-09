@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle etnické skupiny",
+  "questions": [
+    {
+      "key": "Kašubové",
+      "values": [
+        "Thajsko",
+        "Polsko",
+        "Srí Lanka",
+        "Švýcarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chorvati",
+      "values": [
+        "Srbsko",
+        "Ukrajina",
+        "Maďarsko",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Moravští Chorvati",
+      "values": [
+        "Česko",
+        "Irák",
+        "Izrael",
+        "Kambodža"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jakuti",
+      "values": [
+        "Rusko",
+        "Irák",
+        "Polsko",
+        "Srbsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Moravci",
+      "values": [
+        "Polsko",
+        "Česko",
+        "Srbsko",
+        "Thajsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aleuti",
+      "values": [
+        "Rusko",
+        "Polsko",
+        "Thajsko",
+        "Srí Lanka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Černohorci",
+      "values": [
+        "Egypt",
+        "Pákistán",
+        "Indie",
+        "Srbsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Adygejci",
+      "values": [
+        "Madagaskar",
+        "Rusko",
+        "Česko",
+        "Egypt"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oromové",
+      "values": [
+        "Španělsko",
+        "Etiopie",
+        "Česko",
+        "Thajsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ingušové",
+      "values": [
+        "Rusko",
+        "Írán",
+        "Nepál",
+        "Maďarsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

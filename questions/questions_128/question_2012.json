@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] generála?",
+  "questions": [
+    {
+      "key": "Philippe Pétain",
+      "values": [
+        "německého",
+        "amerického",
+        "francouzského",
+        "albánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "George Catlett Marshall",
+      "values": [
+        "českého",
+        "amerického",
+        "australského",
+        "albánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ante Gotovina",
+      "values": [
+        "chorvatského",
+        "izraelského",
+        "ukrajinského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladimir Zavadskij",
+      "values": [
+        "ruského",
+        "búrského",
+        "argentinského",
+        "tureckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Filip Parmský",
+      "values": [
+        "rumunského",
+        "argentinského",
+        "amerického",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Johannes Steinhoff",
+      "values": [
+        "búrského",
+        "německého",
+        "dánského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Smedley Butler",
+      "values": [
+        "chorvatského",
+        "španělského",
+        "mexického",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oleg Saljukov",
+      "values": [
+        "polského",
+        "australského",
+        "japonského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dmitrij Grigorjevič Pavlov",
+      "values": [
+        "sovětského",
+        "dánského",
+        "albánského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Winfield Scott",
+      "values": [
+        "myanmarského",
+        "amerického",
+        "řeckého",
+        "ruského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

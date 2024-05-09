@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filozofa?",
+  "questions": [
+    {
+      "key": "Lev Nikolajevič Tolstoj",
+      "values": [
+        "francouzského",
+        "nizozemského",
+        "dánského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Auguste Comte",
+      "values": [
+        "britského",
+        "francouzského",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Herbert Spencer",
+      "values": [
+        "indického",
+        "německého",
+        "čínského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Anaxagorás",
+      "values": [
+        "irského",
+        "řeckého",
+        "bulharského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Kordač",
+      "values": [
+        "českého",
+        "řeckého",
+        "ruského",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hermann von Helmholtz",
+      "values": [
+        "ruského",
+        "německého",
+        "srbského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ferdinand Tönnies",
+      "values": [
+        "brazilského",
+        "finského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Georgij Plechanov",
+      "values": [
+        "ruského",
+        "švédského",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "René Guénon",
+      "values": [
+        "francouzského",
+        "nizozemského",
+        "sovětského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Angelo Poliziano",
+      "values": [
+        "rakouského",
+        "italského",
+        "egyptského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

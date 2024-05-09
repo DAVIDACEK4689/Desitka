@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte rok podle politiky",
+  "questions": [
+    {
+      "key": "Varšavská smlouva",
+      "values": [
+        "1945",
+        "1867",
+        "2010",
+        "1991"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Deklarace nezávislosti Spojených států amerických",
+      "values": [
+        "1919",
+        "2020",
+        "1776",
+        "1867"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kauza Nagyová",
+      "values": [
+        "1952",
+        "2013",
+        "2018",
+        "1815"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vláda Jiřího Rusnoka",
+      "values": [
+        "1925",
+        "2014",
+        "1985",
+        "1968"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vláda Jana Fischera",
+      "values": [
+        "1925",
+        "2010",
+        "2006",
+        "1867"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pittsburská dohoda",
+      "values": [
+        "2010",
+        "1918",
+        "1878",
+        "1945"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kapitulace Japonska",
+      "values": [
+        "2010",
+        "1920",
+        "1815",
+        "1945"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Prosincová ústava",
+      "values": [
+        "2011",
+        "1919",
+        "1975",
+        "1867"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Říjnový diplom",
+      "values": [
+        "1952",
+        "1803",
+        "1776",
+        "1860"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Koupě Louisiany",
+      "values": [
+        "2017",
+        "1803",
+        "1776",
+        "1952"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

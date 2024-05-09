@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Filip Blažek",
+      "values": [
+        "českého",
+        "belgického",
+        "čínského",
+        "indonéského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dolph Lundgren",
+      "values": [
+        "švédského",
+        "ukrajinského",
+        "jamajského",
+        "gruzínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ferenc Futurista",
+      "values": [
+        "australského",
+        "českého",
+        "thajského",
+        "islandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Viktor Coj",
+      "values": [
+        "izraelského",
+        "malajsijského",
+        "sovětského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miloš Kirschner",
+      "values": [
+        "thajského",
+        "islandského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alan Bastien",
+      "values": [
+        "švýcarského",
+        "českého",
+        "tureckého",
+        "venezuelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aidan Turner",
+      "values": [
+        "thajského",
+        "portugalského",
+        "irského",
+        "guatemalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jeff Daniels",
+      "values": [
+        "amerického",
+        "mexického",
+        "jihoafrického",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jesse Tyler Ferguson",
+      "values": [
+        "namibijského",
+        "čínského",
+        "amerického",
+        "bulharského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Xavier Samuel",
+      "values": [
+        "portorického",
+        "australského",
+        "španělského",
+        "novozélandského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

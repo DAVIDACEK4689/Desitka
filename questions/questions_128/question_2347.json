@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] ekonoma?",
+  "questions": [
+    {
+      "key": "Ľudovít Ódor",
+      "values": [
+        "portugalského",
+        "peruánského",
+        "indického",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Valtr Komárek",
+      "values": [
+        "dánského",
+        "ruského",
+        "portugalského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michail Mišustin",
+      "values": [
+        "ukrajinského",
+        "italského",
+        "ruského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomáš Ježek",
+      "values": [
+        "českého",
+        "německého",
+        "litevského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jaromír Drábek",
+      "values": [
+        "bangladéšského",
+        "švédského",
+        "dánského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Věněk Šilhán",
+      "values": [
+        "rakouského",
+        "ukrajinského",
+        "českého",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Romano Prodi",
+      "values": [
+        "moldavského",
+        "chilského",
+        "italského",
+        "bangladéšského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Svatopluk Potáč",
+      "values": [
+        "skotského",
+        "chilského",
+        "peruánského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Tecl",
+      "values": [
+        "slovenského",
+        "britského",
+        "peruánského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kiril Petkov",
+      "values": [
+        "bulharského",
+        "peruánského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Jakub Řezníček",
+      "values": [
+        "rakouského",
+        "českého",
+        "velšského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stanislav Vlček",
+      "values": [
+        "českého",
+        "švýcarského",
+        "francouzského",
+        "senegalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fabio Cannavaro",
+      "values": [
+        "československého",
+        "italského",
+        "albánského",
+        "peruánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lukáš Zelenka",
+      "values": [
+        "uruguayského",
+        "arménského",
+        "gambijského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ivo Ulich",
+      "values": [
+        "skotského",
+        "rumunského",
+        "gambijského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Patrik Gedeon",
+      "values": [
+        "chorvatského",
+        "českého",
+        "uruguayského",
+        "senegalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Luděk Stracený",
+      "values": [
+        "tožského",
+        "italského",
+        "českého",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luke Shaw",
+      "values": [
+        "senegalského",
+        "finského",
+        "anglického",
+        "uruguayského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ángel Correa",
+      "values": [
+        "peruánského",
+        "paraguayského",
+        "brazilského",
+        "argentinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Benjamin Šeško",
+      "values": [
+        "senegalského",
+        "kostarického",
+        "kolumbijského",
+        "slovinského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

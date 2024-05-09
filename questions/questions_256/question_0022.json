@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte rok podle katastrofy",
+  "questions": [
+    {
+      "key": "Černobylská havárie",
+      "values": [
+        "1984",
+        "1986",
+        "1933",
+        "2017"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zánik Ďatlovovy výpravy",
+      "values": [
+        "2012",
+        "1979",
+        "1966",
+        "1959"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tunguská událost",
+      "values": [
+        "1908",
+        "1902",
+        "1986",
+        "1932"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Havárie elektrárny Three Mile Island",
+      "values": [
+        "1957",
+        "1916",
+        "1937",
+        "1979"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Halifaxský výbuch",
+      "values": [
+        "1902",
+        "1917",
+        "1959",
+        "2004"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hurikán Katrina",
+      "values": [
+        "2018",
+        "1902",
+        "2005",
+        "1945"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tragédie na stadiónu Hillsborough",
+      "values": [
+        "2010",
+        "1987",
+        "1989",
+        "2012"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bolevecká katastrofa",
+      "values": [
+        "1987",
+        "1945",
+        "1917",
+        "2021"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Epidemie eboly v západní Africe",
+      "values": [
+        "1945",
+        "1937",
+        "2014",
+        "1881"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Masakr v Devínské Nové Vsi",
+      "values": [
+        "2007",
+        "1916",
+        "1966",
+        "2010"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

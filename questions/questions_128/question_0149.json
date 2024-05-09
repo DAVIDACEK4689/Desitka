@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte obor podle průkopníka",
+  "questions": [
+    {
+      "key": "Thomas Alva Edison",
+      "values": [
+        "internet",
+        "počítač",
+        "sport",
+        "kinematografie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pierre de Coubertin",
+      "values": [
+        "sport",
+        "železnice",
+        "letectví",
+        "automobilismus"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Perner",
+      "values": [
+        "železnice",
+        "sport",
+        "internet",
+        "letectví"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Steve Chen",
+      "values": [
+        "počítač",
+        "internet",
+        "železnice",
+        "automobilismus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tadeáš Haenke",
+      "values": [
+        "kinematografie",
+        "letectví",
+        "železnice",
+        "počítač"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jimmy Doolittle",
+      "values": [
+        "kinematografie",
+        "letectví",
+        "železnice",
+        "internet"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Antonín Petrák",
+      "values": [
+        "sport",
+        "automobilismus",
+        "železnice",
+        "počítač"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Donald Ervin Knuth",
+      "values": [
+        "kinematografie",
+        "železnice",
+        "automobilismus",
+        "počítač"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Douglas Engelbart",
+      "values": [
+        "letectví",
+        "internet",
+        "kinematografie",
+        "automobilismus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "John Walter Christie",
+      "values": [
+        "letectví",
+        "automobilismus",
+        "železnice",
+        "sport"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle prezidenta",
+  "questions": [
+    {
+      "key": "Gustáv Husák",
+      "values": [
+        "Moldavsko",
+        "Československo",
+        "Bělorusko",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Emmanuel Macron",
+      "values": [
+        "Čečenci",
+        "Ukrajina",
+        "Francie",
+        "Uganda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Viktor Janukovyč",
+      "values": [
+        "Ukrajina",
+        "Kazachstán",
+        "Řecko",
+        "Bulharsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lech Wałęsa",
+      "values": [
+        "Československo",
+        "Bulharsko",
+        "Libérie",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Juan Perón",
+      "values": [
+        "Argentina",
+        "Izrael",
+        "Chorvatsko",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Luiz Inácio Lula da Silva",
+      "values": [
+        "Chorvatsko",
+        "Brazílie",
+        "Polsko",
+        "Česká republika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Juscelino Kubitschek de Oliveira",
+      "values": [
+        "Slovensko",
+        "Gruzie",
+        "Zair",
+        "Brazílie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sauli Niinistö",
+      "values": [
+        "Finsko",
+        "Zair",
+        "Česká republika",
+        "Německo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kurt Waldheim",
+      "values": [
+        "Rakousko",
+        "Rusko",
+        "Řecko",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eduard Ševardnadze",
+      "values": [
+        "Gruzie",
+        "Izrael",
+        "Nikaragua",
+        "Kazachstán"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

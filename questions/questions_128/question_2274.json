@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Petr Jákl",
+      "values": [
+        "italského",
+        "hongkongského",
+        "českého",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ondřej Trojan",
+      "values": [
+        "sovětského",
+        "rakouského",
+        "australského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Billy Bob Thornton",
+      "values": [
+        "španělského",
+        "maďarského",
+        "amerického",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Libor Hruška",
+      "values": [
+        "českého",
+        "švýcarského",
+        "ukrajinského",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Forest Whitaker",
+      "values": [
+        "islandského",
+        "amerického",
+        "italského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Robert Rodriguez",
+      "values": [
+        "španělského",
+        "ukrajinského",
+        "amerického",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michael Brandon",
+      "values": [
+        "amerického",
+        "irského",
+        "maďarského",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Fišer",
+      "values": [
+        "slovenského",
+        "ruského",
+        "belgického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Joel Schumacher",
+      "values": [
+        "českého",
+        "irského",
+        "amerického",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Blake Edwards",
+      "values": [
+        "sovětského",
+        "srbského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

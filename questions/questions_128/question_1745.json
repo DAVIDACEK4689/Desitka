@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] šachistu?",
+  "questions": [
+    {
+      "key": "Roman Prymula",
+      "values": [
+        "španělského",
+        "estonského",
+        "indického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bohdan Pomahač",
+      "values": [
+        "českého",
+        "amerického",
+        "litevského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hikaru Nakamura",
+      "values": [
+        "amerického",
+        "indického",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Levy Rozman",
+      "values": [
+        "ruského",
+        "amerického",
+        "nizozemského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Robert Cvek",
+      "values": [
+        "italského",
+        "indického",
+        "českého",
+        "kubánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Višvanáthan Ánand",
+      "values": [
+        "norského",
+        "indického",
+        "francouzského",
+        "litevského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paul Morphy",
+      "values": [
+        "amerického",
+        "španělského",
+        "ruského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Šachový svaz České republiky",
+      "values": [
+        "norského",
+        "kubánského",
+        "nizozemského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Štěpán Žilka",
+      "values": [
+        "českého",
+        "německého",
+        "bulharského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Max Euwe",
+      "values": [
+        "indického",
+        "amerického",
+        "nizozemského",
+        "kubánského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle letiště",
+  "questions": [
+    {
+      "key": "Letiště Madeira",
+      "values": [
+        "Španělsko",
+        "Česko",
+        "Portugalsko",
+        "Ukrajina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Letiště Mnichov",
+      "values": [
+        "Německo",
+        "Řecko",
+        "Indie",
+        "Turecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Letiště Jásira Arafata",
+      "values": [
+        "Chorvatsko",
+        "Rusko",
+        "Švýcarsko",
+        "Palestinské území"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Letiště Sliač",
+      "values": [
+        "Slovensko",
+        "Chorvatsko",
+        "Spojené království",
+        "Irsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Letiště Malpensa",
+      "values": [
+        "Chorvatsko",
+        "Izrael",
+        "Itálie",
+        "Jižní Korea"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mezinárodní letiště Taba",
+      "values": [
+        "Řecko",
+        "Česko",
+        "Egypt",
+        "Kypr"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Letecká základna Aviano",
+      "values": [
+        "Polsko",
+        "Kiribati",
+        "Belgie",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Letiště Dublin",
+      "values": [
+        "Irsko",
+        "Island",
+        "Egypt",
+        "Japonsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Letiště Sydney",
+      "values": [
+        "Česko",
+        "Ukrajina",
+        "Kiribati",
+        "Austrálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "RAF Akrotiri",
+      "values": [
+        "Nizozemsko",
+        "Kypr",
+        "Izrael",
+        "Japonsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

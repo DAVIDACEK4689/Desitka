@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] román?",
+  "questions": [
+    {
+      "key": "Pýcha a předsudek",
+      "values": [
+        "anglický",
+        "maďarský",
+        "ruský",
+        "japonský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pán much",
+      "values": [
+        "britský",
+        "anglický",
+        "americký",
+        "italský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nebezpečné známosti",
+      "values": [
+        "německý",
+        "francouzský",
+        "britský",
+        "rakouský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nebe nezná vyvolených",
+      "values": [
+        "francouzský",
+        "německý",
+        "čínský",
+        "ruský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "The Winds of Winter",
+      "values": [
+        "polský",
+        "americký",
+        "francouzský",
+        "britský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kreutzerova sonáta",
+      "values": [
+        "maďarský",
+        "ruský",
+        "polský",
+        "rakouský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lovec draků",
+      "values": [
+        "americký",
+        "maďarský",
+        "polský",
+        "irský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cesta krve",
+      "values": [
+        "kanadský",
+        "český",
+        "britský",
+        "francouzský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Příběhy Kožené punčochy",
+      "values": [
+        "slovenský",
+        "americký",
+        "australský",
+        "český"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vyhlídka na věčnost",
+      "values": [
+        "australský",
+        "ruský",
+        "český",
+        "norský"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

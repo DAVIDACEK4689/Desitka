@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] evropského podnikatele?",
+  "questions": [
+    {
+      "key": "Ivan Jonák",
+      "values": [
+        "německého",
+        "českého",
+        "švýcarského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Slávek Boura",
+      "values": [
+        "českého",
+        "britského",
+        "běloruského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Heinrich Mattoni",
+      "values": [
+        "britského",
+        "slovenského",
+        "řeckého",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Viktor But",
+      "values": [
+        "litevského",
+        "francouzského",
+        "švédského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Hlavenka",
+      "values": [
+        "běloruského",
+        "českého",
+        "nizozemského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miuccia Prada",
+      "values": [
+        "dánského",
+        "ukrajinského",
+        "švédského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zbyněk Frolík",
+      "values": [
+        "slovenského",
+        "ruského",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sjarhej Cichanouski",
+      "values": [
+        "běloruského",
+        "britského",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Helán",
+      "values": [
+        "nizozemského",
+        "ruského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alfred Krupp",
+      "values": [
+        "německého",
+        "běloruského",
+        "italského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

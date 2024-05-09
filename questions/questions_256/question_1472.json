@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte autora podle stavby",
+  "questions": [
+    {
+      "key": "Nuselský most",
+      "values": [
+        "Adolf Benš",
+        "Ludvík Kysela",
+        "Frank Gehry",
+        "Stanislav Hubička"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Svatá Hora",
+      "values": [
+        "Frank Gehry",
+        "Carlo Lurago",
+        "Stanislav Franc",
+        "Jiří Stibral"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Divadlo Josefa Kajetána Tyla",
+      "values": [
+        "Antonín Balšánek",
+        "Ladislav Machoň",
+        "Frank Gehry",
+        "Josef Schulz"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Viadukt Millau",
+      "values": [
+        "Adolf Foehr",
+        "Josef Danda",
+        "Norman Foster",
+        "Jan Kaplický"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mlýnská kolonáda",
+      "values": [
+        "Vladimír Karfík",
+        "Josef Zítek",
+        "Kamil Roškot",
+        "Jan Kaplický"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Klášter Hájek",
+      "values": [
+        "Carlo Lurago",
+        "Vladimír Karfík",
+        "Frank Lloyd Wright",
+        "Gustave Eiffel"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michnův letohrádek",
+      "values": [
+        "Josef Gočár",
+        "Max Spielmann",
+        "Jan Kaplický",
+        "Kilián Ignác Dientzenhofer"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Budova Elektrických podniků",
+      "values": [
+        "Alois Dryák",
+        "Adolf Benš",
+        "Věra Machoninová",
+        "Ladislav Machoň"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Staroměstská vodárenská věž",
+      "values": [
+        "Frank Gehry",
+        "Friedrich Ohmann",
+        "Josef Zítek",
+        "Antonín Wiehl"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vila Viktora Bauera",
+      "values": [
+        "František Lýdie Gahura",
+        "Carlo Lurago",
+        "Adolf Foehr",
+        "Adolf Loos"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

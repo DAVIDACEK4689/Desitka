@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle válku",
+  "questions": [
+    {
+      "key": "Sovětská válka v Afghánistánu",
+      "values": [
+        "Portugalsko",
+        "Pákistán",
+        "Japonsko",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Maďarské povstání",
+      "values": [
+        "Etiopie",
+        "Japonsko",
+        "Sovětský svaz",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Spartakovo povstání",
+      "values": [
+        "Spojené království",
+        "Portugalsko",
+        "starověký Řím",
+        "Anglie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alžírská válka",
+      "values": [
+        "Izrael",
+        "Anglie",
+        "Rusko",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Turecká invaze na Kypr",
+      "values": [
+        "sovětské Rusko",
+        "Srbsko",
+        "Řecko",
+        "Pákistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Druhá libanonská válka",
+      "values": [
+        "Izrael",
+        "Polsko",
+        "Austrálie",
+        "Sýrie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Balkánské tažení",
+      "values": [
+        "Byzantská říše",
+        "Chorvatsko",
+        "Anglie",
+        "Srbsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Válka proti Islámskému státu",
+      "values": [
+        "Rusko",
+        "Sýrie",
+        "Chorvatsko",
+        "Sovětský svaz"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Občanská válka v Jižním Súdánu",
+      "values": [
+        "Řecko",
+        "Uganda",
+        "Česko",
+        "Izrael"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Belgická revoluce",
+      "values": [
+        "Anglie",
+        "Nizozemsko",
+        "Jihoafrická republika",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

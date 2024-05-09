@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle premiéra",
+  "questions": [
+    {
+      "key": "Petr Nečas",
+      "values": [
+        "Česko",
+        "Maďarsko",
+        "Chorvatsko",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dmitrij Medveděv",
+      "values": [
+        "Slovensko",
+        "Rusko",
+        "Turecko",
+        "Portugalsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mikuláš Dzurinda",
+      "values": [
+        "Francie",
+        "Slovensko",
+        "Jugoslávie",
+        "Srbsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Liz Trussová",
+      "values": [
+        "Irsko",
+        "Ukrajina",
+        "Spojené království",
+        "Norsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Naréndra Módí",
+      "values": [
+        "Ázerbájdžán",
+        "Estonsko",
+        "Indie",
+        "Irsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robert Schuman",
+      "values": [
+        "Francie",
+        "Jugoslávie",
+        "Moldavsko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fumio Kišida",
+      "values": [
+        "Izrael",
+        "Bulharsko",
+        "Japonsko",
+        "Pákistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nikol Pašinjan",
+      "values": [
+        "Jugoslávie",
+        "Arménie",
+        "Turecko",
+        "Moldavsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Kempný",
+      "values": [
+        "Bulharsko",
+        "Česko",
+        "Indonésie",
+        "Island"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Katrín Jakobsdóttir",
+      "values": [
+        "Island",
+        "Řecko",
+        "Ázerbájdžán",
+        "Ukrajina"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

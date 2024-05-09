@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Milán",
+      "values": [
+        "Itálie",
+        "Česko",
+        "Nizozemsko",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kolín nad Rýnem",
+      "values": [
+        "Dánsko",
+        "Německo",
+        "Belgie",
+        "Portugalsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hannover",
+      "values": [
+        "Nizozemsko",
+        "Německo",
+        "Maďarsko",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Heidelberg",
+      "values": [
+        "Polsko",
+        "Německo",
+        "Itálie",
+        "Nizozemsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Erfurt",
+      "values": [
+        "Portugalsko",
+        "Slovensko",
+        "Itálie",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Svobodné hanzovní město Brémy",
+      "values": [
+        "Nizozemsko",
+        "Slovensko",
+        "Česko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Göttingen",
+      "values": [
+        "Německo",
+        "Rakousko",
+        "Itálie",
+        "Portugalsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Straubing",
+      "values": [
+        "Polsko",
+        "Portugalsko",
+        "Belgie",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Norwich",
+      "values": [
+        "Belgie",
+        "Dánsko",
+        "Spojené království",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Potenza",
+      "values": [
+        "Polsko",
+        "Itálie",
+        "Spojené království",
+        "Irsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

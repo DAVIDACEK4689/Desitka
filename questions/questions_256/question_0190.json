@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Josef Bláha",
+      "values": [
+        "čínského",
+        "českého",
+        "irského",
+        "tureckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Patrik Děrgel",
+      "values": [
+        "českého",
+        "rakouského",
+        "dánského",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marian Vojtko",
+      "values": [
+        "švédského",
+        "slovenského",
+        "venezuelského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Robert Jašków",
+      "values": [
+        "norského",
+        "českého",
+        "ruského",
+        "argentinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Truman Capote",
+      "values": [
+        "britského",
+        "čínského",
+        "amerického",
+        "indického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bill Cosby",
+      "values": [
+        "jihokorejského",
+        "mexického",
+        "jihoafrického",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Battěk",
+      "values": [
+        "slovenského",
+        "maďarského",
+        "českého",
+        "novozélandského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dan Castellaneta",
+      "values": [
+        "nizozemského",
+        "amerického",
+        "norského",
+        "novozélandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gael García Bernal",
+      "values": [
+        "tureckého",
+        "mexického",
+        "irského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Chvalina",
+      "values": [
+        "slovenského",
+        "brazilského",
+        "marockého",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

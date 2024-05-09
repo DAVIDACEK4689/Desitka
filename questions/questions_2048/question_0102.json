@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] firmu?",
+  "questions": [
+    {
+      "key": "AliExpress",
+      "values": [
+        "dánskou",
+        "americkou",
+        "čínskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "IKEA",
+      "values": [
+        "britskou",
+        "švédskou",
+        "čínskou",
+        "československou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "BlackRock",
+      "values": [
+        "švédskou",
+        "nizozemskou",
+        "americkou",
+        "čínskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jawa",
+      "values": [
+        "čínskou",
+        "americkou",
+        "československou",
+        "dánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Spotify",
+      "values": [
+        "čínskou",
+        "nizozemskou",
+        "britskou",
+        "švédskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kaufland",
+      "values": [
+        "jihokorejskou",
+        "německou",
+        "švédskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tesco",
+      "values": [
+        "jihokorejskou",
+        "čínskou",
+        "britskou",
+        "dánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jysk",
+      "values": [
+        "nizozemskou",
+        "britskou",
+        "dánskou",
+        "československou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "The Lego Group",
+      "values": [
+        "dánskou",
+        "americkou",
+        "švédskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stellantis",
+      "values": [
+        "německou",
+        "dánskou",
+        "nizozemskou",
+        "švédskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

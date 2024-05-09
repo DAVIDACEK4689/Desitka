@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "František Ringo Čech",
+      "values": [
+        "australského",
+        "chilského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hugh Jackman",
+      "values": [
+        "australského",
+        "guatemalského",
+        "britského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ota Jirák",
+      "values": [
+        "českého",
+        "novozélandského",
+        "jihoafrického",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ján Kroner",
+      "values": [
+        "portugalského",
+        "izraelského",
+        "sovětského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Libor Hruška",
+      "values": [
+        "belgického",
+        "venezuelského",
+        "bosenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Vršťala",
+      "values": [
+        "guatemalského",
+        "irského",
+        "německého",
+        "tureckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Kobr",
+      "values": [
+        "francouzského",
+        "českého",
+        "ruského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ladislav Brom",
+      "values": [
+        "venezuelského",
+        "českého",
+        "dánského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miroslav Kořínek",
+      "values": [
+        "britského",
+        "českého",
+        "amerického",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lance Bass",
+      "values": [
+        "amerického",
+        "britského",
+        "malajsijského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

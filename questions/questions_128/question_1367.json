@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle národního parku",
+  "questions": [
+    {
+      "key": "Kilimandžáro",
+      "values": [
+        "Tanzanie",
+        "Chorvatsko",
+        "Rakousko",
+        "Černá Hora"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Masada",
+      "values": [
+        "Izrael",
+        "Namibie",
+        "Řecko",
+        "Německo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Národní park Krka",
+      "values": [
+        "Kostarika",
+        "Island",
+        "Chorvatsko",
+        "Mexiko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Megido",
+      "values": [
+        "Austrálie",
+        "Egypt",
+        "Izrael",
+        "Island"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Národní park Abisko",
+      "values": [
+        "Indonésie",
+        "Švédsko",
+        "Dánsko",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Národní park Timanfaya",
+      "values": [
+        "Španělsko",
+        "Jihoafrická republika",
+        "Černá Hora",
+        "Švédsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Národní park Saské Švýcarsko",
+      "values": [
+        "Černá Hora",
+        "Česko",
+        "Německo",
+        "Ukrajina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Wolinský národní park",
+      "values": [
+        "Francie",
+        "Norsko",
+        "Mexiko",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ojcowský národní park",
+      "values": [
+        "Švédsko",
+        "Egypt",
+        "Brazílie",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Národní park Lençóis Maranhenses",
+      "values": [
+        "Mexiko",
+        "Ukrajina",
+        "Brazílie",
+        "Nový Zéland"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

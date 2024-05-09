@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Bobbi Kristina Brown",
+      "values": [
+        "americkou",
+        "finskou",
+        "českou",
+        "peruánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ljuba Hermanová",
+      "values": [
+        "českou",
+        "brazilskou",
+        "irskou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Iva Bittová",
+      "values": [
+        "maďarskou",
+        "českou",
+        "francouzskou",
+        "australskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Floor Jansen",
+      "values": [
+        "kanadskou",
+        "japonskou",
+        "novozélandskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kateřina Mátlová",
+      "values": [
+        "finskou",
+        "ukrajinskou",
+        "švédskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marta Töpferová",
+      "values": [
+        "izraelskou",
+        "polskou",
+        "českou",
+        "brazilskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kelly Clarkson",
+      "values": [
+        "ruskou",
+        "jihokorejskou",
+        "americkou",
+        "irskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cheryl Cole",
+      "values": [
+        "kanadskou",
+        "britskou",
+        "izraelskou",
+        "německou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Brigita Cmuntová",
+      "values": [
+        "barbadoskou",
+        "australskou",
+        "islandskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eva Matějovská",
+      "values": [
+        "českou",
+        "norskou",
+        "kolumbijskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

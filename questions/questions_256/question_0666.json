@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistku?",
+  "questions": [
+    {
+      "key": "Markéta Vondroušová",
+      "values": [
+        "chorvatskou",
+        "českou",
+        "dánskou",
+        "brazilskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lucie Šafářová",
+      "values": [
+        "českou",
+        "ruskou",
+        "brazilskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Andrea Sestini Hlaváčková",
+      "values": [
+        "českou",
+        "lotyšskou",
+        "italskou",
+        "belgickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lucie Hradecká",
+      "values": [
+        "dánskou",
+        "britskou",
+        "španělskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marina Stakusicová",
+      "values": [
+        "estonskou",
+        "japonskou",
+        "švýcarskou",
+        "kanadskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Regina Kordová",
+      "values": [
+        "československou",
+        "australskou",
+        "francouzskou",
+        "brazilskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sorana Cîrsteaová",
+      "values": [
+        "estonskou",
+        "srbskou",
+        "rumunskou",
+        "řeckou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Barbara Schettová",
+      "values": [
+        "rakouskou",
+        "estonskou",
+        "francouzskou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Klára Koukalová",
+      "values": [
+        "ruskou",
+        "rakouskou",
+        "australskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Barbora Palicová",
+      "values": [
+        "řeckou",
+        "českou",
+        "italskou",
+        "srbskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

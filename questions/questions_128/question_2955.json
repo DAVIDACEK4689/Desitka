@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] softwarovou firmu?",
+  "questions": [
+    {
+      "key": "IBM",
+      "values": [
+        "českou",
+        "francouzskou",
+        "slovenskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Avast Software",
+      "values": [
+        "americkou",
+        "českou",
+        "německou",
+        "slovenskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "JetBrains",
+      "values": [
+        "slovenskou",
+        "německou",
+        "českou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "WEDOS Internet",
+      "values": [
+        "francouzskou",
+        "německou",
+        "českou",
+        "slovenskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Seyfor",
+      "values": [
+        "českou",
+        "americkou",
+        "francouzskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "STRV",
+      "values": [
+        "německou",
+        "českou",
+        "americkou",
+        "slovenskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "CHAPS",
+      "values": [
+        "německou",
+        "českou",
+        "slovenskou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Novell",
+      "values": [
+        "americkou",
+        "slovenskou",
+        "francouzskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "ABRA Software",
+      "values": [
+        "českou",
+        "americkou",
+        "německou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Esri",
+      "values": [
+        "německou",
+        "francouzskou",
+        "slovenskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

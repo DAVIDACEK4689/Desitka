@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Yvetta Blanarovičová",
+      "values": [
+        "australskou",
+        "českou",
+        "řeckou",
+        "německou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Markéta Děrgelová",
+      "values": [
+        "chorvatskou",
+        "uzbeckou",
+        "českou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anna Fixová",
+      "values": [
+        "rakouskou",
+        "argentinskou",
+        "srbskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Léa Seydouxová",
+      "values": [
+        "kubánskou",
+        "francouzskou",
+        "španělskou",
+        "kanadskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Elizabeth Debicki",
+      "values": [
+        "íránskou",
+        "maďarskou",
+        "irskou",
+        "australskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dianna Agronová",
+      "values": [
+        "uzbeckou",
+        "americkou",
+        "argentinskou",
+        "uruguayskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tricia Helfer",
+      "values": [
+        "kolumbijskou",
+        "nizozemskou",
+        "kanadskou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marie Gillain",
+      "values": [
+        "belgickou",
+        "kubánskou",
+        "řeckou",
+        "čínskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Soňa Neumannová",
+      "values": [
+        "bermudskou",
+        "českou",
+        "uzbeckou",
+        "novozélandskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Belinda Peregrínová",
+      "values": [
+        "americkou",
+        "francouzskou",
+        "čínskou",
+        "mexickou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

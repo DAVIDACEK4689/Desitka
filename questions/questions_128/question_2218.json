@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle narození",
+  "questions": [
+    {
+      "key": "Barbora z Nikomédie",
+      "values": [
+        "Slovinsko",
+        "Jordánsko",
+        "Turecko",
+        "Indie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mike Grose",
+      "values": [
+        "Švédsko",
+        "Spojené království",
+        "Slovinsko",
+        "Finsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Qazim Laçi",
+      "values": [
+        "Argentina",
+        "Vietnam",
+        "Lotyšsko",
+        "Albánie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Abebe Bikila",
+      "values": [
+        "Švédsko",
+        "Rakousko",
+        "Etiopie",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Muhammad Siad Barre",
+      "values": [
+        "Malta",
+        "Finsko",
+        "Etiopie",
+        "Írán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sergej Lukjaněnko",
+      "values": [
+        "Kypr",
+        "Kazachstán",
+        "Lotyšsko",
+        "Brunej"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Odo Pařížský",
+      "values": [
+        "Polsko",
+        "Etiopie",
+        "Jihoafrická republika",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Faith Kipyegonová",
+      "values": [
+        "Ekvádor",
+        "Libérie",
+        "Chorvatsko",
+        "Keňa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cheslin Kolbe",
+      "values": [
+        "Jihoafrická republika",
+        "Vietnam",
+        "Uzbekistán",
+        "Etiopie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gonçalo Ramos",
+      "values": [
+        "Argentina",
+        "Singapur",
+        "Portugalsko",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

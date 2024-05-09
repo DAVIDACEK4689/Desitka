@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle amerického sportovce",
+  "questions": [
+    {
+      "key": "Carroll Shelby",
+      "values": [
+        "tenista",
+        "zápasník",
+        "automobilový závodník",
+        "taekwondisté"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pete Sampras",
+      "values": [
+        "basketbalista",
+        "parašutista",
+        "tenista",
+        "golfista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "John Isner",
+      "values": [
+        "basketbalista",
+        "tenista",
+        "baseballisté",
+        "cyklista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Scott Fischer",
+      "values": [
+        "lední hokejista",
+        "parašutista",
+        "zápasník",
+        "horolezec"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Derrick Rose",
+      "values": [
+        "cyklista",
+        "basketbalista",
+        "golfista",
+        "zápasník"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nermin Crnkić",
+      "values": [
+        "automobilový závodník",
+        "fotbalista",
+        "cyklista",
+        "golfista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Danica Patricková",
+      "values": [
+        "baseballisté",
+        "golfista",
+        "automobilový závodník",
+        "lední hokejista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tim Thomas",
+      "values": [
+        "basketbalista",
+        "bobista",
+        "boxer",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kelly Slater",
+      "values": [
+        "surfař",
+        "horolezec",
+        "tenista",
+        "fotbalista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jeremy Roenick",
+      "values": [
+        "surfař",
+        "lední hokejista",
+        "šachista",
+        "basketbalista"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

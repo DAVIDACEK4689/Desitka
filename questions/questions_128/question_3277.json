@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] právníka?",
+  "questions": [
+    {
+      "key": "Michelle Obamová",
+      "values": [
+        "amerického",
+        "slovenského",
+        "dánského",
+        "lotyšského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Mlsna",
+      "values": [
+        "českého",
+        "ruského",
+        "německého",
+        "izraelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Richard Salzmann",
+      "values": [
+        "německého",
+        "slovinského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Nejedlý",
+      "values": [
+        "českého",
+        "chorvatského",
+        "dánského",
+        "litevského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oszkár Világi",
+      "values": [
+        "peruánského",
+        "dánského",
+        "mexického",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miroslav Mareš",
+      "values": [
+        "slovinského",
+        "českého",
+        "portugalského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Cyril Kotrlý",
+      "values": [
+        "českého",
+        "dánského",
+        "ukrajinského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Gřivna",
+      "values": [
+        "slovenského",
+        "českého",
+        "francouzského",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Franz Walter Stahlecker",
+      "values": [
+        "peruánského",
+        "německého",
+        "ruského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stanislav Grospič",
+      "values": [
+        "českého",
+        "italského",
+        "finského",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

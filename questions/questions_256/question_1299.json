@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Carlo Ancelotti",
+      "values": [
+        "rumunského",
+        "sovětského",
+        "italského",
+        "egyptského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sadio Mané",
+      "values": [
+        "portugalského",
+        "senegalského",
+        "kolumbijského",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Edinson Cavani",
+      "values": [
+        "ukrajinského",
+        "uruguayského",
+        "irského",
+        "alžírského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Libor Kozák",
+      "values": [
+        "ekvádorského",
+        "italského",
+        "českého",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomáš Pekhart",
+      "values": [
+        "ukrajinského",
+        "sovětského",
+        "nigerijského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lumír Mistr",
+      "values": [
+        "dánského",
+        "československého",
+        "slovinského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michal Horňák",
+      "values": [
+        "uruguayského",
+        "českého",
+        "kanadského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Deco",
+      "values": [
+        "portugalského",
+        "ruského",
+        "ekvádorského",
+        "uruguayského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Adam Vlkanova",
+      "values": [
+        "sovětského",
+        "severoirského",
+        "dánského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Matthijs de Ligt",
+      "values": [
+        "uruguayského",
+        "ukrajinského",
+        "nizozemského",
+        "norského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

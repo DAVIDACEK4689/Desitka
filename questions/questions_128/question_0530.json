@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Paella",
+      "values": [
+        "chorvatskou",
+        "dánskou",
+        "litevskou",
+        "španělskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chorizo",
+      "values": [
+        "japonskou",
+        "skotskou",
+        "indonéskou",
+        "španělskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hot dog",
+      "values": [
+        "americkou",
+        "balkánskou",
+        "mexickou",
+        "belgickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Špagety",
+      "values": [
+        "italskou",
+        "arabskou",
+        "indickou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vegeta",
+      "values": [
+        "tureckou",
+        "tibetskou",
+        "arabskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tokáň",
+      "values": [
+        "gruzínskou",
+        "maďarskou",
+        "irskou",
+        "arménskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Okroška",
+      "values": [
+        "ruskou",
+        "dominikánskou",
+        "arménskou",
+        "norskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Labskaus",
+      "values": [
+        "německou",
+        "ruskou",
+        "brazilskou",
+        "švédskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomatillo",
+      "values": [
+        "mexickou",
+        "arabskou",
+        "italskou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Furikake",
+      "values": [
+        "japonskou",
+        "chorvatskou",
+        "tibetskou",
+        "brazilskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

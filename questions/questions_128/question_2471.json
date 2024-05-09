@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filozofa?",
+  "questions": [
+    {
+      "key": "Tereza Matějčková",
+      "values": [
+        "českého",
+        "řeckého",
+        "finského",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Štítný ze Štítného",
+      "values": [
+        "sovětského",
+        "švýcarského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jacques Derrida",
+      "values": [
+        "dánského",
+        "kanadského",
+        "ruského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Friedrich Schelling",
+      "values": [
+        "švédského",
+        "nizozemského",
+        "perského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Julius Evola",
+      "values": [
+        "polského",
+        "italského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paul Valéry",
+      "values": [
+        "švýcarského",
+        "španělského",
+        "slovenského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Paul Ricoeur",
+      "values": [
+        "kanadského",
+        "maďarského",
+        "francouzského",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Giovanni Pico della Mirandola",
+      "values": [
+        "dánského",
+        "polského",
+        "nizozemského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stanislav Sousedík",
+      "values": [
+        "brazilského",
+        "českého",
+        "indického",
+        "čínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Viktor Černov",
+      "values": [
+        "slovenského",
+        "perského",
+        "španělského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

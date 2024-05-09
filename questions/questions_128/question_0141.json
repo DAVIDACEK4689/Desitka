@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle poloostrova",
+  "questions": [
+    {
+      "key": "Kamčatka",
+      "values": [
+        "Francie",
+        "Finsko",
+        "Rusko",
+        "Turecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Apeninský poloostrov",
+      "values": [
+        "Řecko",
+        "Itálie",
+        "Chorvatsko",
+        "Ukrajina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pireus",
+      "values": [
+        "Řecko",
+        "Mexiko",
+        "Finsko",
+        "Indie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Yucatánský poloostrov",
+      "values": [
+        "Austrálie",
+        "Francie",
+        "Mexiko",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pelješac",
+      "values": [
+        "Itálie",
+        "Chorvatsko",
+        "Indie",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Severní Holandsko",
+      "values": [
+        "Nizozemsko",
+        "Austrálie",
+        "Finsko",
+        "Řecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kalifornský poloostrov",
+      "values": [
+        "Mexiko",
+        "Rusko",
+        "Finsko",
+        "Řecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tamaňský poloostrov",
+      "values": [
+        "Turecko",
+        "Rusko",
+        "Ukrajina",
+        "Mexiko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Východní Thrákie",
+      "values": [
+        "Austrálie",
+        "Turecko",
+        "Řecko",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rybářský poloostrov",
+      "values": [
+        "Rusko",
+        "Indie",
+        "Chorvatsko",
+        "Argentina"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

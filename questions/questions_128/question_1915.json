@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] cyklistu?",
+  "questions": [
+    {
+      "key": "Peter Sagan",
+      "values": [
+        "belgického",
+        "ekvádorského",
+        "německého",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zdeněk Štybar",
+      "values": [
+        "českého",
+        "německého",
+        "kolumbijského",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miguel Indurain",
+      "values": [
+        "německého",
+        "slovenského",
+        "kolumbijského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Christian Battaglia",
+      "values": [
+        "švýcarského",
+        "nizozemského",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sylvain Chavanel",
+      "values": [
+        "dánského",
+        "portugalského",
+        "španělského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Vakoč",
+      "values": [
+        "slovinského",
+        "australského",
+        "uzbeckého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Kopka",
+      "values": [
+        "slovinského",
+        "francouzského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Daniel Polman",
+      "values": [
+        "českého",
+        "slovinského",
+        "belgického",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jolanda Neffová",
+      "values": [
+        "švýcarského",
+        "rakouského",
+        "českého",
+        "ekvádorského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mario Cipollini",
+      "values": [
+        "rakouského",
+        "amerického",
+        "španělského",
+        "italského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

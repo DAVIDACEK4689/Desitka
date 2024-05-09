@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] kulturu?",
+  "questions": [
+    {
+      "key": "Korida",
+      "values": [
+        "dominikánskou",
+        "španělskou",
+        "mongolskou",
+        "německou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Flamenco",
+      "values": [
+        "nizozemskou",
+        "australskou",
+        "španělskou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aloha",
+      "values": [
+        "havajskou",
+        "angolskou",
+        "maďarskou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Die Brücke",
+      "values": [
+        "německou",
+        "švédskou",
+        "nizozemskou",
+        "havajskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Velcí Řekové",
+      "values": [
+        "španělskou",
+        "novozélandskou",
+        "mexickou",
+        "řeckou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Yowie",
+      "values": [
+        "německou",
+        "australskou",
+        "dominikánskou",
+        "íránskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Palio",
+      "values": [
+        "australskou",
+        "italskou",
+        "řeckou",
+        "tureckou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "LGBT práva v Jižní Koreji",
+      "values": [
+        "ukrajinskou",
+        "jihokorejskou",
+        "australskou",
+        "tureckou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chléb s máslem",
+      "values": [
+        "švédskou",
+        "irskou",
+        "německou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sarariman",
+      "values": [
+        "čínskou",
+        "finskou",
+        "dánskou",
+        "japonskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

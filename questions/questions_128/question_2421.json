@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebníka?",
+  "questions": [
+    {
+      "key": "Adam Sandler",
+      "values": [
+        "gruzínského",
+        "irského",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivo Pešák",
+      "values": [
+        "ukrajinského",
+        "irského",
+        "českého",
+        "arménského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mike Grose",
+      "values": [
+        "britského",
+        "jihoafrického",
+        "italského",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Kočko",
+      "values": [
+        "českého",
+        "chorvatského",
+        "jugoslávského",
+        "islandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Věrka Serďučka",
+      "values": [
+        "amerického",
+        "francouzského",
+        "bulharského",
+        "ukrajinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "José Feliciano",
+      "values": [
+        "ukrajinského",
+        "indického",
+        "portorického",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Carlo Gesualdo",
+      "values": [
+        "argentinského",
+        "řeckého",
+        "portorického",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nate Ruess",
+      "values": [
+        "nizozemského",
+        "jihoafrického",
+        "švýcarského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Rokyta",
+      "values": [
+        "českého",
+        "venezuelského",
+        "belgického",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sharon Corr",
+      "values": [
+        "slovenského",
+        "islandského",
+        "ruského",
+        "irského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

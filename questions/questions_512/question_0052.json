@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle fotbalu",
+  "questions": [
+    {
+      "key": "Premier League",
+      "values": [
+        "Československo",
+        "Itálie",
+        "Spojené království",
+        "Švýcarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pohár FAČR",
+      "values": [
+        "Indonésie",
+        "Jižní Korea",
+        "Československo",
+        "Švýcarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "FIFA",
+      "values": [
+        "Itálie",
+        "Spojené království",
+        "Sovětský svaz",
+        "Švýcarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mistrovství světa ve fotbale 2010",
+      "values": [
+        "Jihoafrická republika",
+        "Švýcarsko",
+        "Španělsko",
+        "Sovětský svaz"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mistrovství světa ve fotbale 2002",
+      "values": [
+        "Jižní Korea",
+        "Jihoafrická republika",
+        "Československo",
+        "Švýcarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Italská fotbalová reprezentace",
+      "values": [
+        "Spojené království",
+        "Jižní Korea",
+        "Sovětský svaz",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mistrovství Evropy ve fotbale 2008",
+      "values": [
+        "Rakousko",
+        "Španělsko",
+        "Jihoafrická republika",
+        "Československo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "El Clásico",
+      "values": [
+        "Jižní Korea",
+        "Sovětský svaz",
+        "Španělsko",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství světa ve fotbale 1982",
+      "values": [
+        "Jižní Korea",
+        "Španělsko",
+        "Gruzie",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mistrovství Evropy ve fotbale hráčů do 21 let 2023",
+      "values": [
+        "Jižní Korea",
+        "Gruzie",
+        "Československo",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

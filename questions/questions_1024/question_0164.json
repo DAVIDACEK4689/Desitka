@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] právníka?",
+  "questions": [
+    {
+      "key": "Karel Hynek Mácha",
+      "values": [
+        "slovenského",
+        "českého",
+        "amerického",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Emil Hácha",
+      "values": [
+        "českého",
+        "srbského",
+        "polského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michail Gorbačov",
+      "values": [
+        "českého",
+        "francouzského",
+        "ruského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Kramář",
+      "values": [
+        "českého",
+        "britského",
+        "polského",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Katalin Nováková",
+      "values": [
+        "srbského",
+        "amerického",
+        "maďarského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dmitrij Medveděv",
+      "values": [
+        "amerického",
+        "slovenského",
+        "rakouského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimír Mečiar",
+      "values": [
+        "slovenského",
+        "ruského",
+        "srbského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marián Čalfa",
+      "values": [
+        "britského",
+        "rakouského",
+        "slovenského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tony Blair",
+      "values": [
+        "ruského",
+        "britského",
+        "srbského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Konrad Adenauer",
+      "values": [
+        "německého",
+        "rakouského",
+        "polského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

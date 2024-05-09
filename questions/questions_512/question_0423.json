@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] generála?",
+  "questions": [
+    {
+      "key": "Charles de Gaulle",
+      "values": [
+        "britského",
+        "sovětského",
+        "finského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Isaac Brock",
+      "values": [
+        "bulharského",
+        "mexického",
+        "britského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Václav Morávek",
+      "values": [
+        "polského",
+        "českého",
+        "sovětského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bedřich Reicin",
+      "values": [
+        "britského",
+        "československého",
+        "slovenského",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ariel Šaron",
+      "values": [
+        "francouzského",
+        "izraelského",
+        "španělského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Leslie Groves",
+      "values": [
+        "japonského",
+        "ukrajinského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "František Peřina",
+      "values": [
+        "mexického",
+        "ukrajinského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Felix Steiner",
+      "values": [
+        "řeckého",
+        "mexického",
+        "německého",
+        "bulharského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Džochar Dudajev",
+      "values": [
+        "amerického",
+        "britského",
+        "sovětského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bohumil Boček",
+      "values": [
+        "japonského",
+        "ukrajinského",
+        "ruského",
+        "československého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

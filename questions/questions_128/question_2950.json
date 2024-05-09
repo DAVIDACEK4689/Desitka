@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Jana Fabiánová",
+      "values": [
+        "slovenskou",
+        "irskou",
+        "českou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Markéta Konvičková",
+      "values": [
+        "brazilskou",
+        "peruánskou",
+        "českou",
+        "ruskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aaliyah",
+      "values": [
+        "peruánskou",
+        "srbskou",
+        "norskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Brie Larson",
+      "values": [
+        "francouzskou",
+        "americkou",
+        "australskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavla Kapitánová",
+      "values": [
+        "jihokorejskou",
+        "irskou",
+        "řeckou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jennifer Hudson",
+      "values": [
+        "kolumbijskou",
+        "českou",
+        "americkou",
+        "ruskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Laurie Anderson",
+      "values": [
+        "švýcarskou",
+        "ukrajinskou",
+        "japonskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lenka Slabá",
+      "values": [
+        "norskou",
+        "jamajskou",
+        "českou",
+        "barbadoskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jessica Origliasso",
+      "values": [
+        "nizozemskou",
+        "polskou",
+        "ukrajinskou",
+        "australskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Natalie Coleová",
+      "values": [
+        "americkou",
+        "italskou",
+        "francouzskou",
+        "japonskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

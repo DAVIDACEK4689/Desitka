@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Donald Trump",
+      "values": [
+        "francouzského",
+        "kanadského",
+        "amerického",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alfred Nobel",
+      "values": [
+        "řeckého",
+        "španělského",
+        "polského",
+        "švédského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Čupr",
+      "values": [
+        "amerického",
+        "českého",
+        "nizozemského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jawed Karim",
+      "values": [
+        "nizozemského",
+        "indického",
+        "španělského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michail Chodorkovskij",
+      "values": [
+        "českého",
+        "německého",
+        "ruského",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Václav Klement",
+      "values": [
+        "ruského",
+        "českého",
+        "polského",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rick Salomon",
+      "values": [
+        "španělského",
+        "italského",
+        "libanonského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Čížek",
+      "values": [
+        "francouzského",
+        "řeckého",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivan Chrenko",
+      "values": [
+        "britského",
+        "jihoafrického",
+        "slovenského",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robert Bosch",
+      "values": [
+        "švédského",
+        "slovenského",
+        "polského",
+        "německého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

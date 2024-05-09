@@ -1,0 +1,105 @@
+{
+  "text": "Určete povolání podle fiktivní postavy",
+  "questions": [
+    {
+      "key": "Král Artuš",
+      "values": [
+        "námořník",
+        "kuchař",
+        "špión",
+        "válečník"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hannibal Lecter",
+      "values": [
+        "hudebník",
+        "psychiatr",
+        "mafián",
+        "herec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hektór",
+      "values": [
+        "pedagog",
+        "námořník",
+        "válečník",
+        "vynálezce"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bilbo Pytlík",
+      "values": [
+        "spisovatel",
+        "chůva",
+        "kuchař",
+        "archeolog"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jabba Hutt",
+      "values": [
+        "vladař",
+        "mág",
+        "zločinec",
+        "námořník"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tintin",
+      "values": [
+        "válečník",
+        "reportér",
+        "vynálezce",
+        "herec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Soudce Ti",
+      "values": [
+        "letec",
+        "detektiv",
+        "zločinec",
+        "policista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vočko Szyslak",
+      "values": [
+        "umělec",
+        "podnikatel",
+        "detektiv",
+        "zločinec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Komisař Moulin",
+      "values": [
+        "policista",
+        "sportovec",
+        "hudebník",
+        "psychiatr"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dat",
+      "values": [
+        "vědec",
+        "sportovec",
+        "válečník",
+        "zpěvák"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

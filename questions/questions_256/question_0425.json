@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vegetariána?",
+  "questions": [
+    {
+      "key": "Cillian Murphy",
+      "values": [
+        "irského",
+        "izraelského",
+        "španělského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Antoni Gaudí",
+      "values": [
+        "českého",
+        "italského",
+        "finského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Uršula Kluková",
+      "values": [
+        "francouzského",
+        "českého",
+        "finského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mayim Bialik",
+      "values": [
+        "českého",
+        "amerického",
+        "australského",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adela Vinczeová",
+      "values": [
+        "slovenského",
+        "kanadského",
+        "španělského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Billy Idol",
+      "values": [
+        "britského",
+        "francouzského",
+        "belgického",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sharon den Adel",
+      "values": [
+        "nizozemského",
+        "amerického",
+        "finského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nikol Kouklová",
+      "values": [
+        "českého",
+        "slovenského",
+        "australského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kristen Bellová",
+      "values": [
+        "finského",
+        "belgického",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Maurice Maeterlinck",
+      "values": [
+        "rakouského",
+        "italského",
+        "irského",
+        "belgického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

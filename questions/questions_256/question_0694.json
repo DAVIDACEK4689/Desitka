@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Ursula von der Leyenová",
+      "values": [
+        "venezuelského",
+        "německého",
+        "nizozemského",
+        "íránského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rúholláh Chomejní",
+      "values": [
+        "pákistánského",
+        "britského",
+        "íránského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oleksandr Turčynov",
+      "values": [
+        "ukrajinského",
+        "etiopského",
+        "norského",
+        "palestinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gerhard Schröder",
+      "values": [
+        "německého",
+        "íránského",
+        "československého",
+        "chorvatského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jefferson Davis",
+      "values": [
+        "sovětského",
+        "afghánského",
+        "amerického",
+        "maltského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nestor Machno",
+      "values": [
+        "brazilského",
+        "rumunského",
+        "belgického",
+        "ukrajinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Xenija Sobčaková",
+      "values": [
+        "ruského",
+        "peruánského",
+        "belgického",
+        "madagaskarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Albert Pražák",
+      "values": [
+        "dánského",
+        "turkmenského",
+        "iráckého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Zika",
+      "values": [
+        "panamského",
+        "československého",
+        "vietnamského",
+        "zimbabwského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "János Esterházy",
+      "values": [
+        "maďarského",
+        "pruského",
+        "italského",
+        "zimbabwského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

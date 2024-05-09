@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte interpreta podle hudební alby",
+  "questions": [
+    {
+      "key": "HovnoZle",
+      "values": [
+        "The Cure",
+        "Deep Purple",
+        "Krucipüsk",
+        "John Cale"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Black Celebration",
+      "values": [
+        "Black Sabbath",
+        "Krucipüsk",
+        "The Clash",
+        "Depeche Mode"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "The Slim Shady LP",
+      "values": [
+        "Eagles",
+        "The Cure",
+        "Eminem",
+        "Deep Purple"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Frihet",
+      "values": [
+        "Chinaski",
+        "The Doors",
+        "Insania",
+        "The Clash"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hotel California",
+      "values": [
+        "David Bowie",
+        "Eagles",
+        "Judas Priest",
+        "Fleetwood Mac"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Svět hledačů",
+      "values": [
+        "The Clash",
+        "Blue Effect",
+        "Coldplay",
+        "Kabát"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Recovery",
+      "values": [
+        "Eminem",
+        "Helloween",
+        "Blue Effect",
+        "Karel Kryl"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "GRRRotesky",
+      "values": [
+        "Imagine Dragons",
+        "Judas Priest",
+        "Hana Hegerová",
+        "Insania"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Super Trouper",
+      "values": [
+        "ABBA",
+        "Chinaski",
+        "Imagine Dragons",
+        "Helloween"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rastakayakwanna",
+      "values": [
+        "Accept",
+        "Fleetwood Mac",
+        "The Cure",
+        "Buty"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Tel Aviv",
+      "values": [
+        "Jihoafrická republika",
+        "Izrael",
+        "Rumunsko",
+        "Libanon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Helsinky",
+      "values": [
+        "Finsko",
+        "Francie",
+        "Indie",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Buenos Aires",
+      "values": [
+        "Ázerbájdžán",
+        "Rumunsko",
+        "Chorvatsko",
+        "Argentina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Heráklion",
+      "values": [
+        "Ázerbájdžán",
+        "Černá Hora",
+        "Řecko",
+        "Španělsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kolobřeh",
+      "values": [
+        "Maroko",
+        "Polsko",
+        "Itálie",
+        "Ukrajina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cádiz",
+      "values": [
+        "Německo",
+        "Španělsko",
+        "Estonsko",
+        "Belgie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaffa",
+      "values": [
+        "Libye",
+        "Izrael",
+        "Polsko",
+        "Tanzanie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Magadan",
+      "values": [
+        "Estonsko",
+        "Rusko",
+        "Jordánsko",
+        "Rumunsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lemesos",
+      "values": [
+        "Tanzanie",
+        "Kypr",
+        "Rumunsko",
+        "Saúdská Arábie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Agádír",
+      "values": [
+        "Finsko",
+        "Dánsko",
+        "Rusko",
+        "Maroko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

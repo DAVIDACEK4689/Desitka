@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] ledního hokejistu?",
+  "questions": [
+    {
+      "key": "Rostislav Klesla",
+      "values": [
+        "slovenského",
+        "německého",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Čaloun",
+      "values": [
+        "lotyšského",
+        "slovenského",
+        "československého",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Paul Kariya",
+      "values": [
+        "švédského",
+        "amerického",
+        "kanadského",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Evžen Musil",
+      "values": [
+        "slovinského",
+        "rakouského",
+        "finského",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Richard Zedník",
+      "values": [
+        "německého",
+        "slovenského",
+        "československého",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rastislav Dej",
+      "values": [
+        "rakouského",
+        "českého",
+        "slovenského",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dale Hawerchuk",
+      "values": [
+        "kanadského",
+        "českého",
+        "finského",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Wendel Clark",
+      "values": [
+        "ruského",
+        "slovenského",
+        "německého",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Květoň",
+      "values": [
+        "českého",
+        "lotyšského",
+        "švédského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alec Martinez",
+      "values": [
+        "švédského",
+        "amerického",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Gdaňsk",
+      "values": [
+        "Sierra Leone",
+        "Gruzie",
+        "Barbados",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bruggy",
+      "values": [
+        "Venezuela",
+        "Indonésie",
+        "Japonsko",
+        "Belgie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gdyně",
+      "values": [
+        "Francie",
+        "Saúdská Arábie",
+        "Polsko",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Caracas",
+      "values": [
+        "Dominikánská republika",
+        "Estonsko",
+        "Venezuela",
+        "Benin"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vigo",
+      "values": [
+        "Togo",
+        "Ekvádor",
+        "Španělsko",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Limerick",
+      "values": [
+        "Argentina",
+        "Slovinsko",
+        "Chorvatsko",
+        "Irsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "İskenderun",
+      "values": [
+        "Slovinsko",
+        "Turecko",
+        "Libye",
+        "Brazílie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Balčik",
+      "values": [
+        "Dominikánská republika",
+        "Belgie",
+        "Bulharsko",
+        "Nigérie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rowy",
+      "values": [
+        "Benin",
+        "Polsko",
+        "Sýrie",
+        "Sierra Leone"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mytiléna",
+      "values": [
+        "Jordánsko",
+        "Španělsko",
+        "Řecko",
+        "Maroko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

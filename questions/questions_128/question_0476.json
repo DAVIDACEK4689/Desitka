@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Aneta Langerová",
+      "values": [
+        "australskou",
+        "českou",
+        "švýcarskou",
+        "slovenskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vlasta Fabianová",
+      "values": [
+        "tureckou",
+        "izraelskou",
+        "českou",
+        "uruguayskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kamila Kikinčuková",
+      "values": [
+        "rakouskou",
+        "novozélandskou",
+        "tureckou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Madelyn Clineová",
+      "values": [
+        "kolumbijskou",
+        "izraelskou",
+        "americkou",
+        "tureckou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jarmila Krulišová",
+      "values": [
+        "českou",
+        "ruskou",
+        "izraelskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Carina Wiese",
+      "values": [
+        "novozélandskou",
+        "kolumbijskou",
+        "německou",
+        "chorvatskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Markéta Martiníková",
+      "values": [
+        "jihoafrickou",
+        "českou",
+        "americkou",
+        "bermudskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marlee Matlinová",
+      "values": [
+        "íránskou",
+        "americkou",
+        "finskou",
+        "švédskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lucia Bosè",
+      "values": [
+        "italskou",
+        "slovenskou",
+        "brazilskou",
+        "íránskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mira Furlanová",
+      "values": [
+        "francouzskou",
+        "chorvatskou",
+        "australskou",
+        "belgickou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

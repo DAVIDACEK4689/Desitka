@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Karel Kryl",
+      "values": [
+        "irského",
+        "kanadského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pavel Kohout",
+      "values": [
+        "kanadského",
+        "německého",
+        "chilského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Egon Bondy",
+      "values": [
+        "dánského",
+        "irského",
+        "českého",
+        "skotského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Charles Baudelaire",
+      "values": [
+        "ukrajinského",
+        "amerického",
+        "francouzského",
+        "anglického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Paul Verlaine",
+      "values": [
+        "anglického",
+        "francouzského",
+        "ruského",
+        "vietnamského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pablo Neruda",
+      "values": [
+        "amerického",
+        "anglického",
+        "norského",
+        "chilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "John Antoine Nau",
+      "values": [
+        "ruského",
+        "rakouského",
+        "francouzského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Henrik Ibsen",
+      "values": [
+        "norského",
+        "italského",
+        "chilského",
+        "anglického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karl Kraus",
+      "values": [
+        "rakouského",
+        "českého",
+        "chilského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tobiáš Jirous",
+      "values": [
+        "španělského",
+        "českého",
+        "skotského",
+        "italského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

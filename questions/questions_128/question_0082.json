@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [typ] organizaci?",
+  "questions": [
+    {
+      "key": "Schutzstaffel",
+      "values": [
+        "partyzánskou",
+        "zločineckou",
+        "vzdělávací",
+        "ekologickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "G20",
+      "values": [
+        "mezinárodní",
+        "zločineckou",
+        "jazykovou",
+        "ekologickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Camorra",
+      "values": [
+        "zločineckou",
+        "šlechtickou",
+        "fotografickou",
+        "humanitární"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Četnici",
+      "values": [
+        "zdravotnickou",
+        "partyzánskou",
+        "fiktivní",
+        "vědeckou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "SS",
+      "values": [
+        "zaniklou",
+        "ekologickou",
+        "hospodářskou",
+        "zločineckou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tygři osvobození tamilského Ílamu",
+      "values": [
+        "jazykovou",
+        "partyzánskou",
+        "šlechtickou",
+        "hospodářskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Contras",
+      "values": [
+        "šlechtickou",
+        "fiktivní",
+        "jazykovou",
+        "partyzánskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Global Biodiversity Information Facility",
+      "values": [
+        "náboženskou",
+        "ekologickou",
+        "partyzánskou",
+        "zaniklou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nakam",
+      "values": [
+        "politickou",
+        "vědeckou",
+        "partyzánskou",
+        "ekologickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lidoví mudžáhedíni",
+      "values": [
+        "mezinárodní",
+        "partyzánskou",
+        "fiktivní",
+        "fotografickou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

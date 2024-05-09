@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Joseph Goebbels",
+      "values": [
+        "německého",
+        "amerického",
+        "norského",
+        "nigerského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bill Clinton",
+      "values": [
+        "amerického",
+        "nizozemského",
+        "sovětského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vitalij Kličko",
+      "values": [
+        "maltského",
+        "sovětského",
+        "českého",
+        "ukrajinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bohdan Chmelnický",
+      "values": [
+        "ukrajinského",
+        "srbského",
+        "tureckého",
+        "myanmarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vidkun Quisling",
+      "values": [
+        "norského",
+        "zimbabwského",
+        "španělského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Beau Biden",
+      "values": [
+        "francouzského",
+        "anglického",
+        "kambodžského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sergej Mironovič Kirov",
+      "values": [
+        "kanadského",
+        "sovětského",
+        "polského",
+        "palestinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Grigorij Zinovjev",
+      "values": [
+        "ruského",
+        "slovenského",
+        "zimbabwského",
+        "nigerského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Móric Beňovský",
+      "values": [
+        "anglického",
+        "kubánského",
+        "tureckého",
+        "madagaskarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mohamed Bazoum",
+      "values": [
+        "nigerského",
+        "bulharského",
+        "amerického",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

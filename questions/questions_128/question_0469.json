@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] řeholníka?",
+  "questions": [
+    {
+      "key": "Gregor Mendel",
+      "values": [
+        "španělského",
+        "italského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pio z Pietrelciny",
+      "values": [
+        "anglického",
+        "portugalského",
+        "italského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lúcia dos Santos",
+      "values": [
+        "českého",
+        "irského",
+        "portugalského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Strachkvas",
+      "values": [
+        "českého",
+        "italského",
+        "francouzského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Svatý Havel",
+      "values": [
+        "španělského",
+        "italského",
+        "irského",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fra Angelico",
+      "values": [
+        "francouzského",
+        "španělského",
+        "italského",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Filip Neri",
+      "values": [
+        "irského",
+        "španělského",
+        "italského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Kapistrán",
+      "values": [
+        "španělského",
+        "italského",
+        "francouzského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bartolomé de las Casas",
+      "values": [
+        "portugalského",
+        "španělského",
+        "slovenského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jonáš Jozef Maxim",
+      "values": [
+        "italského",
+        "francouzského",
+        "slovenského",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle olympijské hry",
+  "questions": [
+    {
+      "key": "Letní olympijské hry 2024",
+      "values": [
+        "Brazílie",
+        "Francie",
+        "Spojené království",
+        "Japonsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zimní olympijské hry 1998",
+      "values": [
+        "Jižní Korea",
+        "Rusko",
+        "Austrálie",
+        "Japonsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Letní olympijské hry 1936",
+      "values": [
+        "Německo",
+        "Spojené království",
+        "Jugoslávie",
+        "Mexiko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Letní olympijské hry 1952",
+      "values": [
+        "Řecko",
+        "Finsko",
+        "Španělsko",
+        "Japonsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Letní olympijské hry 1972",
+      "values": [
+        "Jižní Korea",
+        "Itálie",
+        "Rusko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Letní olympijské hry 1948",
+      "values": [
+        "Spojené království",
+        "Rusko",
+        "Řecko",
+        "Brazílie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Letní olympijské hry 1896",
+      "values": [
+        "Řecko",
+        "Finsko",
+        "Jugoslávie",
+        "Německo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Letní olympijské hry 2032",
+      "values": [
+        "Francie",
+        "Austrálie",
+        "Rusko",
+        "Jižní Korea"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zimní olympijské hry 1984",
+      "values": [
+        "Jižní Korea",
+        "Jugoslávie",
+        "Austrálie",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Letní olympijské hry 1968",
+      "values": [
+        "Jugoslávie",
+        "Mexiko",
+        "Austrálie",
+        "Německo"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

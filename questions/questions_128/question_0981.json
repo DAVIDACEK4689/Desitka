@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] klavíristu?",
+  "questions": [
+    {
+      "key": "Ludwig van Beethoven",
+      "values": [
+        "německého",
+        "ruského",
+        "čínského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Brabec",
+      "values": [
+        "kanadského",
+        "izraelského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Franz Xaver Wolfgang Mozart",
+      "values": [
+        "finského",
+        "kanadského",
+        "rakouského",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaroslav Krombholc",
+      "values": [
+        "českého",
+        "polského",
+        "ruského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alban Berg",
+      "values": [
+        "francouzského",
+        "kanadského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vilém Blodek",
+      "values": [
+        "českého",
+        "kanadského",
+        "gruzínského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Přemysl Rut",
+      "values": [
+        "českého",
+        "polského",
+        "slovenského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Proksch",
+      "values": [
+        "japonského",
+        "českého",
+        "britského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Regina Spektor",
+      "values": [
+        "amerického",
+        "francouzského",
+        "německého",
+        "australského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gram Parsons",
+      "values": [
+        "japonského",
+        "ruského",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

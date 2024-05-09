@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] psychologa?",
+  "questions": [
+    {
+      "key": "Abraham Maslow",
+      "values": [
+        "francouzského",
+        "kanadského",
+        "švýcarského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Albert Bandura",
+      "values": [
+        "německého",
+        "kanadského",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Dobeš",
+      "values": [
+        "českého",
+        "amerického",
+        "britského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hermann Rorschach",
+      "values": [
+        "českého",
+        "ruského",
+        "amerického",
+        "švýcarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Howard Gardner",
+      "values": [
+        "izraelského",
+        "amerického",
+        "nizozemského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Christina Maslach",
+      "values": [
+        "francouzského",
+        "amerického",
+        "britského",
+        "izraelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Geert Hofstede",
+      "values": [
+        "nizozemského",
+        "britského",
+        "rakouského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karl Abraham",
+      "values": [
+        "rakouského",
+        "německého",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Herbert Freudenberger",
+      "values": [
+        "německého",
+        "švýcarského",
+        "amerického",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Carol Gilligan",
+      "values": [
+        "rakouského",
+        "nizozemského",
+        "švýcarského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

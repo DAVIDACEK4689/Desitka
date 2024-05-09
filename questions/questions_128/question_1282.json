@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vynálezce?",
+  "questions": [
+    {
+      "key": "Otto Wichterle",
+      "values": [
+        "rakouského",
+        "českého",
+        "britského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alessandro Volta",
+      "values": [
+        "českého",
+        "italského",
+        "slovenského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Trofim Lysenko",
+      "values": [
+        "švédského",
+        "polského",
+        "sovětského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Louis Braille",
+      "values": [
+        "britského",
+        "kanadského",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robert Bosch",
+      "values": [
+        "britského",
+        "švédského",
+        "irského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Adam Petřina",
+      "values": [
+        "sovětského",
+        "kanadského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Martin Cooper",
+      "values": [
+        "amerického",
+        "kanadského",
+        "sovětského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rudolf Hacker",
+      "values": [
+        "amerického",
+        "kanadského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "George Eastman",
+      "values": [
+        "polského",
+        "švédského",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivan Puluj",
+      "values": [
+        "ukrajinského",
+        "britského",
+        "belgického",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

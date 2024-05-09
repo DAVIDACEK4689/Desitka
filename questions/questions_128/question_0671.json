@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] miliardáře?",
+  "questions": [
+    {
+      "key": "Michael Jordan",
+      "values": [
+        "britského",
+        "amerického",
+        "ukrajinského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Komárek mladší",
+      "values": [
+        "britského",
+        "ukrajinského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Chrenek",
+      "values": [
+        "slovenského",
+        "tureckého",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jack Dorsey",
+      "values": [
+        "amerického",
+        "českého",
+        "ruského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavel Sehnal",
+      "values": [
+        "ukrajinského",
+        "českého",
+        "tureckého",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Libor Winkler",
+      "values": [
+        "tureckého",
+        "amerického",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivan Chrenko",
+      "values": [
+        "tureckého",
+        "ruského",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "MacKenzie Scottová",
+      "values": [
+        "českého",
+        "ruského",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ivan Kaufmann",
+      "values": [
+        "britského",
+        "amerického",
+        "tureckého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michail Prochorov",
+      "values": [
+        "ruského",
+        "britského",
+        "ukrajinského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

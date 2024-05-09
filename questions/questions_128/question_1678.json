@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Robert Lewandowski",
+      "values": [
+        "ukrajinského",
+        "nigerijského",
+        "uruguayského",
+        "polského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eusébio",
+      "values": [
+        "amerického",
+        "lucemburského",
+        "portugalského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Christian Atsu",
+      "values": [
+        "ghanského",
+        "rumunského",
+        "irského",
+        "marockého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rafael Leão",
+      "values": [
+        "chorvatského",
+        "portugalského",
+        "ukrajinského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adam Johnson",
+      "values": [
+        "argentinského",
+        "španělského",
+        "anglického",
+        "kosovského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kenny Dalglish",
+      "values": [
+        "srbského",
+        "finského",
+        "tureckého",
+        "skotského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Trézéguet",
+      "values": [
+        "francouzského",
+        "kanadského",
+        "bulharského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Flórián Albert",
+      "values": [
+        "francouzského",
+        "maďarského",
+        "uruguayského",
+        "chilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nwankwo Kanu",
+      "values": [
+        "českého",
+        "rumunského",
+        "nigerijského",
+        "mexického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Maksym Talovjerov",
+      "values": [
+        "italského",
+        "nigerijského",
+        "ukrajinského",
+        "gruzínského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

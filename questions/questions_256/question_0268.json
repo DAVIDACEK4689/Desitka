@@ -1,0 +1,105 @@
+{
+  "text": "Určete rok podle konfliktu",
+  "questions": [
+    {
+      "key": "Anexe Krymu Ruskou federací",
+      "values": [
+        "2005",
+        "2014",
+        "2022",
+        "1991"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rwandská genocida",
+      "values": [
+        "2022",
+        "2020",
+        "1994",
+        "2011"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Masakr v Buči",
+      "values": [
+        "2011",
+        "1995",
+        "2020",
+        "2022"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oranžová revoluce",
+      "values": [
+        "1995",
+        "2012",
+        "1994",
+        "2004"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Palachův týden",
+      "values": [
+        "2011",
+        "1989",
+        "2014",
+        "2020"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Střelba na základní škole v Bělehradě",
+      "values": [
+        "2023",
+        "1994",
+        "1999",
+        "1989"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rumunská revoluce",
+      "values": [
+        "1989",
+        "2006",
+        "2023",
+        "2004"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Válka v Podněstří",
+      "values": [
+        "1999",
+        "2023",
+        "1992",
+        "1995"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Slovinská válka za nezávislost",
+      "values": [
+        "1999",
+        "2020",
+        "2011",
+        "1991"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva o Ilovajsk",
+      "values": [
+        "2007",
+        "2023",
+        "2014",
+        "2005"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

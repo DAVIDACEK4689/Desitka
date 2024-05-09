@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte sport podle olympijského vítěze",
+  "questions": [
+    {
+      "key": "Rafael Nadal",
+      "values": [
+        "zápas",
+        "biatlon",
+        "alpské lyžování",
+        "tenis"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lukáš Krpálek",
+      "values": [
+        "fotbal",
+        "judo",
+        "sportovní gymnastika",
+        "alpské lyžování"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexander Zverev",
+      "values": [
+        "golf",
+        "lední hokej",
+        "akrobatické lyžování",
+        "tenis"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Fourcade",
+      "values": [
+        "judo",
+        "box",
+        "sportovní střelba",
+        "biatlon"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Boris Becker",
+      "values": [
+        "fotbal",
+        "sportovní gymnastika",
+        "lední hokej",
+        "tenis"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vítězslav Mácha",
+      "values": [
+        "biatlon",
+        "cyklistika",
+        "zápas",
+        "sportovní gymnastika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lennox Lewis",
+      "values": [
+        "box",
+        "golf",
+        "akrobatické lyžování",
+        "sportovní gymnastika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nelly Kordová",
+      "values": [
+        "golf",
+        "box",
+        "fotbal",
+        "sportovní střelba"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ilja Kovalčuk",
+      "values": [
+        "krasobruslení",
+        "lední hokej",
+        "zápas",
+        "akrobatické lyžování"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vladimir Krutov",
+      "values": [
+        "box",
+        "lední hokej",
+        "zápas",
+        "akrobatické lyžování"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

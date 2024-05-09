@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle geografie",
+  "questions": [
+    {
+      "key": "Morava",
+      "values": [
+        "Losotho",
+        "Turecko",
+        "Jihoafrická republika",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Velký bariérový útes",
+      "values": [
+        "Švýcarsko",
+        "Austrálie",
+        "Indie",
+        "Losotho"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stabilní katastr",
+      "values": [
+        "Španělsko",
+        "Tanzanie",
+        "Severní Korea",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nabatejci",
+      "values": [
+        "Jordánsko",
+        "Mongolsko",
+        "Rovníková Guinea",
+        "Pero"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Judea a Samaří",
+      "values": [
+        "Palestina",
+        "Norsko",
+        "Pákistán",
+        "Eritrea"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jugo",
+      "values": [
+        "Chorvatsko",
+        "Afghánistán",
+        "Mauritánie",
+        "Vanuatu"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Přírodní jaderný reaktor",
+      "values": [
+        "Súdán",
+        "Gabon",
+        "Srbsko",
+        "Omán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Malacký průliv",
+      "values": [
+        "Kazachstán",
+        "Singapur",
+        "Pero",
+        "Abcházie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Meseta",
+      "values": [
+        "Mongolsko",
+        "Španělsko",
+        "Indie",
+        "Východní Timor"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Japonské moře",
+      "values": [
+        "Jihoafrická republika",
+        "Severní Korea",
+        "Kazachstán",
+        "Rakousko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

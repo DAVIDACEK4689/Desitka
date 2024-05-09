@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Marseille",
+      "values": [
+        "Francie",
+        "Německo",
+        "Bangladéš",
+        "Saúdská Arábie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Heráklion",
+      "values": [
+        "Kypr",
+        "Řecko",
+        "Uruguay",
+        "Surinam"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rostock",
+      "values": [
+        "Indonésie",
+        "Togo",
+        "Německo",
+        "Indie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rethymno",
+      "values": [
+        "Lotyšsko",
+        "Řecko",
+        "Kazachstán",
+        "Gambie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Astrachaň",
+      "values": [
+        "Černá Hora",
+        "Estonsko",
+        "Argentina",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cayenne",
+      "values": [
+        "Francie",
+        "Černá Hora",
+        "Belgie",
+        "Dánsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bastia",
+      "values": [
+        "Francie",
+        "Finsko",
+        "Západní Sahara",
+        "Bangladéš"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lomé",
+      "values": [
+        "Togo",
+        "Kamerun",
+        "Španělsko",
+        "Japonsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Recife",
+      "values": [
+        "Brazílie",
+        "Senegal",
+        "Egypt",
+        "Černá Hora"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Södertälje",
+      "values": [
+        "Venezuela",
+        "Jemen",
+        "Švédsko",
+        "Irsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

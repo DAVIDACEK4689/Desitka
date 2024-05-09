@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalovou soutěž?",
+  "questions": [
+    {
+      "key": "Serie A",
+      "values": [
+        "belgickou",
+        "českou",
+        "španělskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ligue 1",
+      "values": [
+        "španělskou",
+        "italskou",
+        "belgickou",
+        "francouzskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Divize A",
+      "values": [
+        "anglickou",
+        "portugalskou",
+        "českou",
+        "chorvatskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Copa del Rey",
+      "values": [
+        "belgickou",
+        "francouzskou",
+        "španělskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Divize D",
+      "values": [
+        "polskou",
+        "španělskou",
+        "italskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Divize C",
+      "values": [
+        "tureckou",
+        "anglickou",
+        "nizozemskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Divize E",
+      "values": [
+        "českou",
+        "polskou",
+        "nizozemskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Divize F",
+      "values": [
+        "tureckou",
+        "českou",
+        "francouzskou",
+        "polskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "National League",
+      "values": [
+        "anglickou",
+        "německou",
+        "belgickou",
+        "tureckou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Audi Cup",
+      "values": [
+        "skotskou",
+        "chorvatskou",
+        "německou",
+        "nizozemskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

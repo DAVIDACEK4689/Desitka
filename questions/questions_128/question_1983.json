@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle narození",
+  "questions": [
+    {
+      "key": "Luiz Inácio Lula da Silva",
+      "values": [
+        "Kyrgyzstán",
+        "Uruguay",
+        "Nizozemsko",
+        "Brazílie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nurbanu Sultan",
+      "values": [
+        "Irák",
+        "Severní Korea",
+        "Vietnam",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Muhammad Mursí",
+      "values": [
+        "Egypt",
+        "Kapverdy",
+        "Černá Hora",
+        "Namibie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bajram Begaj",
+      "values": [
+        "Írán",
+        "Finsko",
+        "Albánie",
+        "Panama"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nǃxau",
+      "values": [
+        "Mongolsko",
+        "Namibie",
+        "Keňa",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Muhammadu Buhari",
+      "values": [
+        "Nigérie",
+        "Severní Korea",
+        "Brazílie",
+        "Somálsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paul Biya",
+      "values": [
+        "Kamerun",
+        "Česko",
+        "Bulharsko",
+        "Srbsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Amha Selassie",
+      "values": [
+        "Japonsko",
+        "Portugalsko",
+        "Etiopie",
+        "Jemen"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Beauden John Barrett",
+      "values": [
+        "Salvador",
+        "Nový Zéland",
+        "Alžírsko",
+        "Irsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ólafur Ragnar Grímsson",
+      "values": [
+        "Albánie",
+        "Paraguay",
+        "Myanmar",
+        "Island"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

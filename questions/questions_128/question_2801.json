@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Walt Disney",
+      "values": [
+        "švýcarského",
+        "libanonského",
+        "rakouského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Patrik Tkáč",
+      "values": [
+        "slovenského",
+        "německého",
+        "polského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rudolf Jelínek",
+      "values": [
+        "českého",
+        "jihoafrického",
+        "amerického",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bohumír Ďuričko",
+      "values": [
+        "českého",
+        "mexického",
+        "německého",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Carlos Slim Helú",
+      "values": [
+        "mexického",
+        "amerického",
+        "španělského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bethel Henry Strousberg",
+      "values": [
+        "německého",
+        "íránského",
+        "monackého",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marc Andreessen",
+      "values": [
+        "libanonského",
+        "indického",
+        "jihoafrického",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roger Ailes",
+      "values": [
+        "bangladéšského",
+        "libanonského",
+        "rakouského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Steve Bannon",
+      "values": [
+        "britského",
+        "íránského",
+        "běloruského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Cígler",
+      "values": [
+        "švédského",
+        "českého",
+        "ukrajinského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

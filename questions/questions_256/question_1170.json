@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle českého sportovce",
+  "questions": [
+    {
+      "key": "Ivan Lendl",
+      "values": [
+        "tenista",
+        "fotbalista",
+        "jezdec",
+        "lední hokejista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Roman Prymula",
+      "values": [
+        "šachista",
+        "veslař",
+        "golfista",
+        "jezdec"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rostislav Klesla",
+      "values": [
+        "šipkaři",
+        "šachista",
+        "lední hokejista",
+        "fotbalista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Martin Kaut",
+      "values": [
+        "lední hokejista",
+        "šachista",
+        "akrobatický letec",
+        "automobilový závodník"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Matěj Machovský",
+      "values": [
+        "plavec",
+        "lední hokejista",
+        "gymnasta",
+        "šipkaři"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bohuslav Schnirch",
+      "values": [
+        "golfista",
+        "šachista",
+        "cyklista",
+        "gymnasta"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Jelínek",
+      "values": [
+        "automobilový závodník",
+        "lední hokejista",
+        "basketbalista",
+        "šachista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Robert Kron",
+      "values": [
+        "lyžař",
+        "lední hokejista",
+        "kajakář",
+        "horolezec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marek Červenka",
+      "values": [
+        "automobilový závodník",
+        "fotbalista",
+        "šipkaři",
+        "cyklista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zdeněk Kolář",
+      "values": [
+        "šipkaři",
+        "cyklista",
+        "tenista",
+        "judista"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

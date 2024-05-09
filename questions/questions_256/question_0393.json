@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Karel Havlíček Borovský",
+      "values": [
+        "kubánského",
+        "keňského",
+        "českého",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Valentina Těreškovová",
+      "values": [
+        "katarského",
+        "arménského",
+        "československého",
+        "sovětského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rudolf Schuster",
+      "values": [
+        "italského",
+        "katarského",
+        "indického",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Georges Danton",
+      "values": [
+        "švýcarského",
+        "francouzského",
+        "norského",
+        "belgického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kemal Kılıçdaroğlu",
+      "values": [
+        "irského",
+        "maltského",
+        "tureckého",
+        "salvadorského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Béla Kun",
+      "values": [
+        "palestinského",
+        "maďarského",
+        "amerického",
+        "salvadorského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gregor Strasser",
+      "values": [
+        "pákistánského",
+        "německého",
+        "panamského",
+        "bulharského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cosimo Medicejský",
+      "values": [
+        "peruánského",
+        "slovenského",
+        "bulharského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Duke",
+      "values": [
+        "československého",
+        "amerického",
+        "dánského",
+        "vietnamského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Albert Lebrun",
+      "values": [
+        "francouzského",
+        "etiopského",
+        "norského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

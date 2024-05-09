@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] lékaře?",
+  "questions": [
+    {
+      "key": "Sigmund Freud",
+      "values": [
+        "švýcarského",
+        "německého",
+        "rakouského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Evangelista Purkyně",
+      "values": [
+        "francouzského",
+        "německého",
+        "švýcarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lukáš Pollert",
+      "values": [
+        "českého",
+        "rakouského",
+        "brazilského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert Koch",
+      "values": [
+        "rakouského",
+        "německého",
+        "chilského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paracelsus",
+      "values": [
+        "britského",
+        "kanadského",
+        "chilského",
+        "švýcarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rudolf Vrba",
+      "values": [
+        "francouzského",
+        "britského",
+        "švýcarského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Albert Schweitzer",
+      "values": [
+        "brazilského",
+        "francouzského",
+        "britského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Juscelino Kubitschek de Oliveira",
+      "values": [
+        "brazilského",
+        "rakouského",
+        "francouzského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Hnízdil",
+      "values": [
+        "českého",
+        "švýcarského",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tadeáš Haenke",
+      "values": [
+        "rakouského",
+        "amerického",
+        "českého",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

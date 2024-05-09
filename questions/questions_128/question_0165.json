@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle lázně",
+  "questions": [
+    {
+      "key": "Oděsa",
+      "values": [
+        "Ukrajina",
+        "Litva",
+        "Řecko",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Soči",
+      "values": [
+        "Rusko",
+        "Spojené království",
+        "Rakousko",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Laa an der Thaya",
+      "values": [
+        "Rusko",
+        "Francie",
+        "Řecko",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rajecké Teplice",
+      "values": [
+        "Polsko",
+        "Ukrajina",
+        "Slovensko",
+        "Lotyšsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Wieliczka",
+      "values": [
+        "Polsko",
+        "Rakousko",
+        "Itálie",
+        "Řecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jūrmala",
+      "values": [
+        "Slovensko",
+        "Litva",
+        "Ukrajina",
+        "Lotyšsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Solotvina",
+      "values": [
+        "Ukrajina",
+        "Slovinsko",
+        "Rakousko",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Svaljava",
+      "values": [
+        "Polsko",
+        "Německo",
+        "Litva",
+        "Ukrajina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dudince",
+      "values": [
+        "Estonsko",
+        "Maďarsko",
+        "Rakousko",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bad Godesberg",
+      "values": [
+        "Německo",
+        "Polsko",
+        "Francie",
+        "Maďarsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

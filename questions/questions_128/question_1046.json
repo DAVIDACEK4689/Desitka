@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle náboženství",
+  "questions": [
+    {
+      "key": "Judaismus",
+      "values": [
+        "Jižní Korea",
+        "Mexiko",
+        "Izrael",
+        "Omán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Samaritáni",
+      "values": [
+        "Belgie",
+        "Izrael",
+        "Francie",
+        "Benin"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jezídové",
+      "values": [
+        "Mexiko",
+        "Irák",
+        "Řecko",
+        "Izrael"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mezinárodní společnost pro vědomí Kršny",
+      "values": [
+        "Indie",
+        "Česko",
+        "Palestina",
+        "Mongolsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pársové",
+      "values": [
+        "Indie",
+        "Belgie",
+        "Irák",
+        "Uganda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tengrismus",
+      "values": [
+        "Uganda",
+        "Mongolsko",
+        "Palestina",
+        "Izrael"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rilský klášter",
+      "values": [
+        "Omán",
+        "Bulharsko",
+        "Belgie",
+        "Řecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Boží armáda odporu",
+      "values": [
+        "Uganda",
+        "Slovensko",
+        "Tibet",
+        "Bolívie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Santería",
+      "values": [
+        "Austrálie",
+        "Brazílie",
+        "Jamajka",
+        "Mongolsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hora Blahoslavenství",
+      "values": [
+        "Řecko",
+        "Izrael",
+        "Jamajka",
+        "Malta"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

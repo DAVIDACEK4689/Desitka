@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] ledního hokejistu?",
+  "questions": [
+    {
+      "key": "Martin Nečas",
+      "values": [
+        "rakouského",
+        "českého",
+        "švýcarského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaromír Jágr starší",
+      "values": [
+        "kanadského",
+        "amerického",
+        "československého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Brad Marchand",
+      "values": [
+        "finského",
+        "rakouského",
+        "kanadského",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stanislav Konopásek",
+      "values": [
+        "československého",
+        "německého",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Maurice Richard",
+      "values": [
+        "českého",
+        "polského",
+        "kanadského",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mislav Rosandić",
+      "values": [
+        "kanadského",
+        "britského",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marek Uram",
+      "values": [
+        "slovenského",
+        "ruského",
+        "lotyšského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oskars Cibuļskis",
+      "values": [
+        "finského",
+        "slovenského",
+        "polského",
+        "lotyšského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Patrik Rybár",
+      "values": [
+        "československého",
+        "slovenského",
+        "sovětského",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Roman Josi",
+      "values": [
+        "polského",
+        "kanadského",
+        "českého",
+        "švýcarského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

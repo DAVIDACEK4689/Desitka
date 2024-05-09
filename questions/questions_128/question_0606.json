@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] boxera?",
+  "questions": [
+    {
+      "key": "Mike Tyson",
+      "values": [
+        "ruského",
+        "maďarského",
+        "amerického",
+        "panamského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jake Paul",
+      "values": [
+        "maďarského",
+        "ugandského",
+        "amerického",
+        "novozélandského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "František Venclovský",
+      "values": [
+        "francouzského",
+        "německého",
+        "českého",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Anthony Joshua",
+      "values": [
+        "německého",
+        "amerického",
+        "britského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Joe Louis",
+      "values": [
+        "novozélandského",
+        "ugandského",
+        "amerického",
+        "filipínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Manny Pacquiao",
+      "values": [
+        "italského",
+        "německého",
+        "českého",
+        "filipínského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nikolaj Valujev",
+      "values": [
+        "amerického",
+        "francouzského",
+        "ruského",
+        "filipínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Janusz Gortat",
+      "values": [
+        "polského",
+        "ukrajinského",
+        "novozélandského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rubin Carter",
+      "values": [
+        "amerického",
+        "italského",
+        "ugandského",
+        "československého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Primo Carnera",
+      "values": [
+        "italského",
+        "ukrajinského",
+        "maďarského",
+        "novozélandského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

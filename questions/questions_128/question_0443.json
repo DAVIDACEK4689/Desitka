@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] jezuitu?",
+  "questions": [
+    {
+      "key": "Bohuslav Balbín",
+      "values": [
+        "českého",
+        "italského",
+        "španělského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bedřich Bridel",
+      "values": [
+        "českého",
+        "francouzského",
+        "slovenského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marko Ivan Rupnik",
+      "values": [
+        "polského",
+        "slovinského",
+        "kanadského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joseph Ignace Guillotin",
+      "values": [
+        "italského",
+        "českého",
+        "francouzského",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Slavíček",
+      "values": [
+        "kanadského",
+        "českého",
+        "nizozemského",
+        "anglického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Samuel Fritz",
+      "values": [
+        "kanadského",
+        "švýcarského",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stanislav Vydra",
+      "values": [
+        "polského",
+        "italského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hugo Vaníček",
+      "values": [
+        "polského",
+        "českého",
+        "slovenského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Václav Umlauf",
+      "values": [
+        "švýcarského",
+        "českého",
+        "italského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Felix Kadlinský",
+      "values": [
+        "polského",
+        "kanadského",
+        "českého",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

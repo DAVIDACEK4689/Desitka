@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] evropského podnikatele?",
+  "questions": [
+    {
+      "key": "Vlasta Burian",
+      "values": [
+        "českého",
+        "nizozemského",
+        "francouzského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Otto Frank",
+      "values": [
+        "ruského",
+        "britského",
+        "švédského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michal Horáček",
+      "values": [
+        "českého",
+        "slovenského",
+        "italského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Slávek Boura",
+      "values": [
+        "českého",
+        "nizozemského",
+        "německého",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Bubeník",
+      "values": [
+        "řeckého",
+        "německého",
+        "českého",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roman Abramovič",
+      "values": [
+        "ukrajinského",
+        "rakouského",
+        "švýcarského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Guglielmo Marconi",
+      "values": [
+        "německého",
+        "italského",
+        "ukrajinského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ferruccio Lamborghini",
+      "values": [
+        "slovenského",
+        "nizozemského",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michael Thonet",
+      "values": [
+        "slovenského",
+        "švédského",
+        "německého",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Flavio Briatore",
+      "values": [
+        "italského",
+        "řeckého",
+        "německého",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

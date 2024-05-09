@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] hudbu?",
+  "questions": [
+    {
+      "key": "Live Aid",
+      "values": [
+        "slovenskou",
+        "britskou",
+        "moldavskou",
+        "mexickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Reggae",
+      "values": [
+        "jamajskou",
+        "španělskou",
+        "indickou",
+        "polskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexandrovův soubor písní a tanců",
+      "values": [
+        "jamajskou",
+        "italskou",
+        "sovětskou",
+        "finskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Billboard Hot 100",
+      "values": [
+        "jihokorejskou",
+        "americkou",
+        "britskou",
+        "izraelskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Goran Bregović",
+      "values": [
+        "německou",
+        "rakouskou",
+        "bosenskou",
+        "polskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ievan Polkka",
+      "values": [
+        "finskou",
+        "sovětskou",
+        "brazilskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Billboard 200",
+      "values": [
+        "peruánskou",
+        "německou",
+        "českou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mocná hrstka",
+      "values": [
+        "švédskou",
+        "ukrajinskou",
+        "sovětskou",
+        "ruskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Čardášová princezna",
+      "values": [
+        "jamajskou",
+        "kolumbijskou",
+        "bosenskou",
+        "maďarskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "UK Singles Chart",
+      "values": [
+        "britskou",
+        "brazilskou",
+        "španělskou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

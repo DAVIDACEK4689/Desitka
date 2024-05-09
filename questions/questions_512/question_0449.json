@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Lev Davidovič Trockij",
+      "values": [
+        "kubánského",
+        "sovětského",
+        "iráckého",
+        "anglického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexej Navalnyj",
+      "values": [
+        "českého",
+        "rakouského",
+        "ruského",
+        "albánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jens Stoltenberg",
+      "values": [
+        "maltského",
+        "norského",
+        "ghanského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jean Paul Marat",
+      "values": [
+        "vietnamského",
+        "francouzského",
+        "ázerbájdžánského",
+        "libanonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oleksandr Turčynov",
+      "values": [
+        "venezuelského",
+        "palestinského",
+        "chilského",
+        "ukrajinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michail Kalašnikov",
+      "values": [
+        "britského",
+        "nigerského",
+        "sovětského",
+        "běloruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vít Jedlička",
+      "values": [
+        "kambodžského",
+        "českého",
+        "srbského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oleksij Arestovyč",
+      "values": [
+        "britského",
+        "ghanského",
+        "francouzského",
+        "ukrajinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cyril Ramaphosa",
+      "values": [
+        "ukrajinského",
+        "katarského",
+        "brazilského",
+        "jihoafrického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Béla Kun",
+      "values": [
+        "ruského",
+        "katarského",
+        "maďarského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

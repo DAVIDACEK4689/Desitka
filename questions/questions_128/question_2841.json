@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Žatec",
+      "values": [
+        "Tibera",
+        "Chrudimka",
+        "Ohře",
+        "Jizera"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Štětí",
+      "values": [
+        "Loira",
+        "Tibera",
+        "Labe",
+        "Těrek"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mojžíř",
+      "values": [
+        "Inn",
+        "Metuje",
+        "Sázava",
+        "Labe"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Šakvice",
+      "values": [
+        "Eufrat",
+        "Dyje",
+        "Malše",
+        "Hornád"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hevlín",
+      "values": [
+        "Spréva",
+        "Bečva",
+        "Těrek",
+        "Dyje"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Čtyřkoly",
+      "values": [
+        "Sázava",
+        "Spréva",
+        "Dyje",
+        "Seina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vaňov",
+      "values": [
+        "Něva",
+        "Labe",
+        "Úslava",
+        "Cidlina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Riesa",
+      "values": [
+        "Labe",
+        "Spréva",
+        "Svratka",
+        "Úslava"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vidov",
+      "values": [
+        "Malše",
+        "Dunaj",
+        "Mandava",
+        "Chrudimka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pěkná",
+      "values": [
+        "Vltava",
+        "Cidlina",
+        "Hron",
+        "Radbuza"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

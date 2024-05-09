@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] novináře?",
+  "questions": [
+    {
+      "key": "Honza Dědek",
+      "values": [
+        "českého",
+        "saúdskoarabského",
+        "rakouského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Andrej Anastasov",
+      "values": [
+        "běloruského",
+        "švédského",
+        "slovinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Seymour Hersh",
+      "values": [
+        "amerického",
+        "běloruského",
+        "českého",
+        "arménského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ulrike Meinhofová",
+      "values": [
+        "belgického",
+        "německého",
+        "polského",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Upton Sinclair",
+      "values": [
+        "maďarského",
+        "amerického",
+        "britského",
+        "kolumbijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Heinrich von Kleist",
+      "values": [
+        "bulharského",
+        "německého",
+        "irského",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Emanuel Hrubý",
+      "values": [
+        "sovětského",
+        "nizozemského",
+        "českého",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anatolij Lunačarskij",
+      "values": [
+        "francouzského",
+        "amerického",
+        "íránského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Malcolm Gladwell",
+      "values": [
+        "italského",
+        "kanadského",
+        "íránského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tom Wolfe",
+      "values": [
+        "sovětského",
+        "nizozemského",
+        "amerického",
+        "kolumbijského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

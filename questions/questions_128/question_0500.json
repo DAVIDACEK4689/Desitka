@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva u Domažlic",
+      "values": [
+        "Itálie",
+        "starověký Řek",
+        "Švédsko",
+        "starověký Řím"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Tachova",
+      "values": [
+        "Anglie",
+        "Indie",
+        "Ruské impérium",
+        "Norsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Isandlwany",
+      "values": [
+        "Frank",
+        "Chorvatsko",
+        "Anglie",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Chairóneie",
+      "values": [
+        "starověký Řek",
+        "Nizozemsko",
+        "Rakouské císařství",
+        "habsburská monarchie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u San Jacinta",
+      "values": [
+        "Japonsko",
+        "Rusko",
+        "Srbsko",
+        "Mexiko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Pydny",
+      "values": [
+        "habsburská monarchie",
+        "starověký Řím",
+        "Spojené království",
+        "Byzanc"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva na Mons Badonicus",
+      "values": [
+        "Irsko",
+        "Byzanc",
+        "Anglie",
+        "Germán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Barská konfederace",
+      "values": [
+        "Ruské impérium",
+        "Spojené království",
+        "Švédsko",
+        "habsburská monarchie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Bratislavy",
+      "values": [
+        "Frank",
+        "Skotsko",
+        "Maďarsko",
+        "Germán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chuchelská bitka",
+      "values": [
+        "Irák",
+        "Rakouské císařství",
+        "Česko",
+        "Maďarsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

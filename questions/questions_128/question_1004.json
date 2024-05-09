@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Miklós Fehér",
+      "values": [
+        "maďarského",
+        "rakouského",
+        "tureckého",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Francesco Totti",
+      "values": [
+        "belgického",
+        "ghanského",
+        "rumunského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mason Greenwood",
+      "values": [
+        "norského",
+        "paraguayského",
+        "kanadského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Siniša Mihajlović",
+      "values": [
+        "ruského",
+        "ukrajinského",
+        "nizozemského",
+        "srbského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bobby Moore",
+      "values": [
+        "anglického",
+        "italského",
+        "venezuelského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Landon Donovan",
+      "values": [
+        "peruánského",
+        "argentinského",
+        "amerického",
+        "severoirského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dani Olmo",
+      "values": [
+        "paraguayského",
+        "skotského",
+        "španělského",
+        "ghanského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Danny Welbeck",
+      "values": [
+        "paraguayského",
+        "anglického",
+        "mongolského",
+        "kosovského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andreas Brehme",
+      "values": [
+        "srbského",
+        "československého",
+        "německého",
+        "mexického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miralem Pjanić",
+      "values": [
+        "lucemburského",
+        "kanadského",
+        "mongolského",
+        "albánského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

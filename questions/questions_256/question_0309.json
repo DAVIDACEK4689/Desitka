@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Štýrský Hradec",
+      "values": [
+        "Severní Makedonie",
+        "Thajsko",
+        "Rakousko",
+        "Pero"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pchjongjang",
+      "values": [
+        "Uganda",
+        "Severní Korea",
+        "Kazachstán",
+        "Argentina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Davos",
+      "values": [
+        "Švýcarsko",
+        "Irsko",
+        "Egypt",
+        "Severní Makedonie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Caracas",
+      "values": [
+        "Belgie",
+        "Česko",
+        "Nizozemsko",
+        "Venezuela"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kremnica",
+      "values": [
+        "Afghánistán",
+        "Bangladéš",
+        "Slovensko",
+        "Izrael"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mahdia",
+      "values": [
+        "Niger",
+        "Maďarsko",
+        "Tunisko",
+        "Laos"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Salála",
+      "values": [
+        "Norsko",
+        "Island",
+        "Rusko",
+        "Omán"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Preveza",
+      "values": [
+        "Nizozemsko",
+        "Jihoafrická republika",
+        "Afghánistán",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lusaka",
+      "values": [
+        "Ghana",
+        "Libye",
+        "Zambie",
+        "Maroko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ramla",
+      "values": [
+        "Izrael",
+        "Malta",
+        "Burkina Faso",
+        "Kambodža"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

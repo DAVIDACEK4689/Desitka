@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle pohoří",
+  "questions": [
+    {
+      "key": "Malá Fatra",
+      "values": [
+        "Maroko",
+        "Černá Hora",
+        "Slovensko",
+        "Uganda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hostýnské vrchy",
+      "values": [
+        "Česko",
+        "Izrael",
+        "Rakousko",
+        "Maroko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Italské Alpy",
+      "values": [
+        "Alžírsko",
+        "Itálie",
+        "Maroko",
+        "Portugalsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Děčínská vrchovina",
+      "values": [
+        "Německo",
+        "Slovensko",
+        "Švýcarsko",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Krušnohorská subprovincie",
+      "values": [
+        "Venezuela",
+        "Portugalsko",
+        "Česko",
+        "Tádžikistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Západní Ghát",
+      "values": [
+        "Polsko",
+        "Rumunsko",
+        "Indie",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hřebeny",
+      "values": [
+        "Slovensko",
+        "Švýcarsko",
+        "Írán",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nockberge",
+      "values": [
+        "Írán",
+        "Ukrajina",
+        "Turecko",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pontské hory",
+      "values": [
+        "Írán",
+        "Maroko",
+        "Turecko",
+        "Portugalsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kaisergebirge",
+      "values": [
+        "Itálie",
+        "Rakousko",
+        "Rusko",
+        "Izrael"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

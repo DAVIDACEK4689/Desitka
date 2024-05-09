@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Temešvár",
+      "values": [
+        "Eritrea",
+        "Rumunsko",
+        "Pero",
+        "Komora"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Laa an der Thaya",
+      "values": [
+        "Pákistán",
+        "Rakousko",
+        "Írán",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Saná",
+      "values": [
+        "Gruzie",
+        "Brunej",
+        "Jižní Korea",
+        "Jemen"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Manáma",
+      "values": [
+        "Sýrie",
+        "Indie",
+        "Finsko",
+        "Bahrajn"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mašhad",
+      "values": [
+        "Írán",
+        "Austrálie",
+        "Indonésie",
+        "Ekvádor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mogilev",
+      "values": [
+        "Česko",
+        "Bělorusko",
+        "Togo",
+        "Německo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lappeenranta",
+      "values": [
+        "Bangladéš",
+        "Egypt",
+        "Namibie",
+        "Finsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Paleokastritsa",
+      "values": [
+        "Řecko",
+        "Irsko",
+        "Angola",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fajjúm",
+      "values": [
+        "Bahrajn",
+        "Argentina",
+        "Egypt",
+        "Marshallovy ostrovy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lendava",
+      "values": [
+        "Kazachstán",
+        "Slovinsko",
+        "Pákistán",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

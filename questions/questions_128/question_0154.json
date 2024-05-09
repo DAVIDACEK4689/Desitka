@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] zoologa?",
+  "questions": [
+    {
+      "key": "Carl Linné",
+      "values": [
+        "francouzského",
+        "norského",
+        "švédského",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexander von Humboldt",
+      "values": [
+        "německého",
+        "amerického",
+        "českého",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Juliane Koepckeová",
+      "values": [
+        "švédského",
+        "českého",
+        "německého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miroslav Bobek",
+      "values": [
+        "francouzského",
+        "amerického",
+        "českého",
+        "novozélandského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Otakar Štěrba",
+      "values": [
+        "francouzského",
+        "amerického",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Dungel",
+      "values": [
+        "norského",
+        "českého",
+        "rakouského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vladimír Šilhavý",
+      "values": [
+        "českého",
+        "německého",
+        "rakouského",
+        "novozélandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rachel Carsonová",
+      "values": [
+        "novozélandského",
+        "italského",
+        "amerického",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karl Patterson Schmidt",
+      "values": [
+        "francouzského",
+        "německého",
+        "novozélandského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karl von Frisch",
+      "values": [
+        "amerického",
+        "novozélandského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

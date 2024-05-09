@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Kryštof Hádek",
+      "values": [
+        "norského",
+        "rakouského",
+        "venezuelského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Henry Cavill",
+      "values": [
+        "chilského",
+        "britského",
+        "maďarského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Hraběta",
+      "values": [
+        "guatemalského",
+        "nizozemského",
+        "novozélandského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Juraj Nvota",
+      "values": [
+        "slovenského",
+        "irského",
+        "islandského",
+        "jihokorejského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nick Cave",
+      "values": [
+        "australského",
+        "britského",
+        "italského",
+        "guatemalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladimír Hlavatý",
+      "values": [
+        "guatemalského",
+        "švýcarského",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaroslav Filip",
+      "values": [
+        "amerického",
+        "kanadského",
+        "jamajského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Paul Mescal",
+      "values": [
+        "nizozemského",
+        "ukrajinského",
+        "izraelského",
+        "irského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vittorio Gassman",
+      "values": [
+        "jihoafrického",
+        "jihokorejského",
+        "čínského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jamie Waylett",
+      "values": [
+        "britského",
+        "argentinského",
+        "švédského",
+        "čínského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

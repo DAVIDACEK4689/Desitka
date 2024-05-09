@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle fotbalové události",
+  "questions": [
+    {
+      "key": "Mistrovství Evropy ve fotbale 2004",
+      "values": [
+        "Švýcarsko",
+        "Portugalsko",
+        "Argentina",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mistrovství Evropy ve fotbale 2016",
+      "values": [
+        "Japonsko",
+        "Portugalsko",
+        "Francie",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství Evropy ve fotbale 2008",
+      "values": [
+        "Francie",
+        "Česko",
+        "Itálie",
+        "Švýcarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mistrovství Evropy ve fotbale hráčů do 21 let 2023",
+      "values": [
+        "Francie",
+        "Rumunsko",
+        "Japonsko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mistrovství světa ve fotbale 1958",
+      "values": [
+        "Švédsko",
+        "Rusko",
+        "Portugalsko",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mistrovství Evropy ve fotbale 1980",
+      "values": [
+        "Francie",
+        "Švýcarsko",
+        "Itálie",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství Evropy ve fotbale 1984",
+      "values": [
+        "Itálie",
+        "Rumunsko",
+        "Francie",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství Evropy ve fotbale hráčů do 21 let 2000",
+      "values": [
+        "Rumunsko",
+        "Rusko",
+        "Slovensko",
+        "Mexiko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Copa América 2021",
+      "values": [
+        "Brazílie",
+        "Japonsko",
+        "Mexiko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mistrovství světa ve fotbale hráčů do 20 let 2019",
+      "values": [
+        "Polsko",
+        "Rusko",
+        "Belgie",
+        "Švédsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Operace Barbarossa",
+      "values": [
+        "1796",
+        "1422",
+        "1941",
+        "1427"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Švédské obléhání Prahy",
+      "values": [
+        "1648",
+        "1631",
+        "1905",
+        "1634"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Bannockburnu",
+      "values": [
+        "1814",
+        "1314",
+        "1461",
+        "1806"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Třetí bitva o Charkov",
+      "values": [
+        "1943",
+        "1815",
+        "1683",
+        "1973"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Stamford Bridge",
+      "values": [
+        "1741",
+        "1814",
+        "2001",
+        "1066"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Želenic",
+      "values": [
+        "1666",
+        "1438",
+        "1853",
+        "1307"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva pod Studencem",
+      "values": [
+        "1757",
+        "1631",
+        "1469",
+        "1968"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Operace Faustschlag",
+      "values": [
+        "1565",
+        "1918",
+        "1430",
+        "1402"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pegasus Bridge",
+      "values": [
+        "1944",
+        "1431",
+        "1253",
+        "1776"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Operace Bodenplatte",
+      "values": [
+        "1854",
+        "907",
+        "1945",
+        "1742"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

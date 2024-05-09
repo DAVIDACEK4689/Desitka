@@ -1,0 +1,105 @@
+{
+  "text": "Určete kontinent podle měny",
+  "questions": [
+    {
+      "key": "Čínský jüan",
+      "values": [
+        "Jižní Amerika",
+        "Severní Amerika",
+        "Evropa",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Konvertibilní marka",
+      "values": [
+        "Evropa",
+        "Severní Amerika",
+        "Afrika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Španělská peseta",
+      "values": [
+        "Jižní Amerika",
+        "Afrika",
+        "Asie",
+        "Evropa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Slovinský tolar",
+      "values": [
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Afrika",
+        "Evropa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Belgický frank",
+      "values": [
+        "Severní Amerika",
+        "Evropa",
+        "Asie",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Makedonský denár",
+      "values": [
+        "Afrika",
+        "Severní Amerika",
+        "Evropa",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kubánské peso",
+      "values": [
+        "Severní Amerika",
+        "Evropa",
+        "Asie",
+        "Afrika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Severokorejský won",
+      "values": [
+        "Asie",
+        "Evropa",
+        "Jižní Amerika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pákistánská rupie",
+      "values": [
+        "Evropa",
+        "Afrika",
+        "Severní Amerika",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Manská libra",
+      "values": [
+        "Severní Amerika",
+        "Evropa",
+        "Afrika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

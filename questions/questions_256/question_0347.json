@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] klavíristu?",
+  "questions": [
+    {
+      "key": "Petr Skoumal",
+      "values": [
+        "čínského",
+        "českého",
+        "amerického",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sergej Rachmaninov",
+      "values": [
+        "polského",
+        "českého",
+        "ruského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ray Charles",
+      "values": [
+        "německého",
+        "japonského",
+        "ukrajinského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Spálený",
+      "values": [
+        "rakouského",
+        "českého",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tom Odell",
+      "values": [
+        "britského",
+        "polského",
+        "finského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Billy Joel",
+      "values": [
+        "italského",
+        "polského",
+        "finského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Václav Holzknecht",
+      "values": [
+        "českého",
+        "ruského",
+        "francouzského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Norah Jones",
+      "values": [
+        "britského",
+        "amerického",
+        "norského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Daniel Barenboim",
+      "values": [
+        "izraelského",
+        "polského",
+        "norského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jaroslava Vernerová Pěchočová",
+      "values": [
+        "britského",
+        "francouzského",
+        "českého",
+        "čínského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

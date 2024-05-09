@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle letecké nehody",
+  "questions": [
+    {
+      "key": "Letecké neštěstí na Tenerife 1977",
+      "values": [
+        "Španělsko",
+        "Německo",
+        "Egypt",
+        "Řecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Let Malaysia Airlines 17",
+      "values": [
+        "Španělsko",
+        "Ukrajina",
+        "Indonésie",
+        "Argentina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Let Pan Am 103",
+      "values": [
+        "Etiopie",
+        "Írán",
+        "Spojené království",
+        "Slovensko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Let Korean Air 007",
+      "values": [
+        "Sovětský svaz",
+        "Etiopie",
+        "Argentina",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nehoda lanové dráhy v Cavalese 1998",
+      "values": [
+        "Spojené království",
+        "Československo",
+        "Itálie",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nehoda na letecké základně Ramstein",
+      "values": [
+        "Německo",
+        "Egypt",
+        "Španělsko",
+        "Sýrie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Letecká nehoda generála Štefánika",
+      "values": [
+        "Rusko",
+        "Slovensko",
+        "Etiopie",
+        "Francie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Srážka letadel nad Überlingenem",
+      "values": [
+        "Československo",
+        "Indonésie",
+        "Argentina",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Let Kogalymavia 9268",
+      "values": [
+        "Německo",
+        "Egypt",
+        "Rusko",
+        "Ukrajina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Letecký souboj nad Merklínem",
+      "values": [
+        "Itálie",
+        "Sovětský svaz",
+        "Československo",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

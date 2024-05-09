@@ -1,0 +1,105 @@
+{
+  "text": "Určete bojiště podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva u Borodina",
+      "values": [
+        "Chorvatsko",
+        "Rusko",
+        "Turecko",
+        "Mongolsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitvy na Soči",
+      "values": [
+        "Uganda",
+        "Itálie",
+        "Polsko",
+        "Srbsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Operace Gothic Serpent",
+      "values": [
+        "Súdán",
+        "Somálsko",
+        "Sýrie",
+        "Slovinsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Operace Bouře",
+      "values": [
+        "Egypt",
+        "Sýrie",
+        "Pákistán",
+        "Chorvatsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nájezd na Dieppe",
+      "values": [
+        "Indie",
+        "Norsko",
+        "Francie",
+        "Belgie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Guadalete",
+      "values": [
+        "Afghánistán",
+        "Itálie",
+        "Španělsko",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Ulmu",
+      "values": [
+        "Singapur",
+        "Německo",
+        "Nizozemsko",
+        "Albánie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Buzuluku",
+      "values": [
+        "Pákistán",
+        "Maďarsko",
+        "Slovensko",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Mühlberka",
+      "values": [
+        "Uganda",
+        "Braniborsko",
+        "Austrálie",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Obsazení Münsteru",
+      "values": [
+        "Německo",
+        "Rusko",
+        "Bavorsko",
+        "Vietnam"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

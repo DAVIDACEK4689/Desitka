@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte sport podle švédského sportovce",
+  "questions": [
+    {
+      "key": "Zlatan Ibrahimović",
+      "values": [
+        "fotbalista",
+        "lední hokejista",
+        "biatlonista",
+        "jezdec"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mats Wilander",
+      "values": [
+        "tenista",
+        "lední hokejista",
+        "pilot",
+        "fotbalista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stefan Edberg",
+      "values": [
+        "tenista",
+        "lední hokejista",
+        "fotbalista",
+        "pilot"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Henrik Lundqvist",
+      "values": [
+        "pilot",
+        "plavec",
+        "lední hokejista",
+        "tenista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Henrik Larsson",
+      "values": [
+        "jezdec",
+        "biatlonista",
+        "fotbalista",
+        "pilot"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marcus Ericsson",
+      "values": [
+        "jezdec",
+        "pilot",
+        "tenista",
+        "biatlonista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexander Isak",
+      "values": [
+        "jezdec",
+        "plavec",
+        "biatlonista",
+        "fotbalista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Daniel Sedin",
+      "values": [
+        "tenista",
+        "jezdec",
+        "biatlonista",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "William Nylander",
+      "values": [
+        "lední hokejista",
+        "plavec",
+        "pilot",
+        "tenista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mikael Ymer",
+      "values": [
+        "lední hokejista",
+        "tenista",
+        "pilot",
+        "plavec"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

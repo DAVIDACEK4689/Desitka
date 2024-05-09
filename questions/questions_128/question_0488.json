@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] miliardáře?",
+  "questions": [
+    {
+      "key": "Madonna",
+      "values": [
+        "slovenského",
+        "rakouského",
+        "tureckého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Walt Disney",
+      "values": [
+        "britského",
+        "tureckého",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Radim Passer",
+      "values": [
+        "amerického",
+        "tureckého",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Richard Branson",
+      "values": [
+        "amerického",
+        "slovenského",
+        "britského",
+        "tureckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Olga Chabr Grillová",
+      "values": [
+        "amerického",
+        "ruského",
+        "českého",
+        "tureckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Steve Ballmer",
+      "values": [
+        "britského",
+        "slovenského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Phil Knight",
+      "values": [
+        "rakouského",
+        "ukrajinského",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Dienstl",
+      "values": [
+        "českého",
+        "amerického",
+        "ruského",
+        "tureckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ted Turner",
+      "values": [
+        "amerického",
+        "britského",
+        "ukrajinského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Libor Malý",
+      "values": [
+        "českého",
+        "slovenského",
+        "rakouského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

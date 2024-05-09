@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle bitvy",
+  "questions": [
+    {
+      "key": "Švédské obléhání Prahy",
+      "values": [
+        "Maďarsko",
+        "Sovětský svaz",
+        "Česko",
+        "Španělsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Druhá bitva o Atlantik",
+      "values": [
+        "Španělsko",
+        "Rusko",
+        "Nizozemsko",
+        "starověký Řek"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Karrh",
+      "values": [
+        "starověký Řím",
+        "Švédsko",
+        "Rusko",
+        "Indie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Vilémova",
+      "values": [
+        "Československo",
+        "Mexiko",
+        "Polsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Třebele",
+      "values": [
+        "Česko",
+        "Švédsko",
+        "starověký Řek",
+        "Osmanská říše"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva o Středozemní moře",
+      "values": [
+        "Nový Zéland",
+        "Srbsko",
+        "starověký Řek",
+        "Švédsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Zvole",
+      "values": [
+        "Rakousko",
+        "Germán",
+        "Česko",
+        "Norsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Obléhání Bělehradu",
+      "values": [
+        "Španělsko",
+        "Indie",
+        "Osmanská říše",
+        "Irsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Partizánské Ľupči",
+      "values": [
+        "Japonsko",
+        "Chorvatsko",
+        "Československo",
+        "Švédsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u záseků",
+      "values": [
+        "Indie",
+        "Skotsko",
+        "Nový Zéland",
+        "Česko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Céline Dion",
+      "values": [
+        "ukrajinskou",
+        "kolumbijskou",
+        "kanadskou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Adele",
+      "values": [
+        "polskou",
+        "britskou",
+        "ukrajinskou",
+        "islandskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hana Ulrychová",
+      "values": [
+        "kanadskou",
+        "českou",
+        "novozélandskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Halsey",
+      "values": [
+        "italskou",
+        "americkou",
+        "maďarskou",
+        "indickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Veronika Borovková",
+      "values": [
+        "českou",
+        "barbadoskou",
+        "brazilskou",
+        "irskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ofra Haza",
+      "values": [
+        "izraelskou",
+        "francouzskou",
+        "brazilskou",
+        "řeckou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mária Čírová",
+      "values": [
+        "slovenskou",
+        "ukrajinskou",
+        "novozélandskou",
+        "mexickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tate McRae",
+      "values": [
+        "japonskou",
+        "kanadskou",
+        "americkou",
+        "švýcarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petula Clark",
+      "values": [
+        "chorvatskou",
+        "britskou",
+        "americkou",
+        "španělskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gail Ann Dorsey",
+      "values": [
+        "řeckou",
+        "švýcarskou",
+        "německou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

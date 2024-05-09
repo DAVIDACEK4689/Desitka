@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] evropského podnikatele?",
+  "questions": [
+    {
+      "key": "Alfred Nobel",
+      "values": [
+        "ruského",
+        "českého",
+        "švýcarského",
+        "švédského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roman Janoušek",
+      "values": [
+        "polského",
+        "českého",
+        "francouzského",
+        "běloruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zora Kolínska",
+      "values": [
+        "ukrajinského",
+        "švédského",
+        "slovenského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fedor Gál",
+      "values": [
+        "slovenského",
+        "nizozemského",
+        "slovinského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Helena Rubinsteinová",
+      "values": [
+        "řeckého",
+        "polského",
+        "slovinského",
+        "belgického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Friedrich Wilhelm Raiffeisen",
+      "values": [
+        "slovenského",
+        "dánského",
+        "německého",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Richard Háva",
+      "values": [
+        "dánského",
+        "českého",
+        "polského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Franz Friedrich Palme",
+      "values": [
+        "francouzského",
+        "českého",
+        "řeckého",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eduard Hamburger",
+      "values": [
+        "ukrajinského",
+        "slovenského",
+        "českého",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Carl von Linde",
+      "values": [
+        "monackého",
+        "českého",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

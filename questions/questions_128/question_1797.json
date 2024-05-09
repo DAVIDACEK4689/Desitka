@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] šlechtice?",
+  "questions": [
+    {
+      "key": "Klemens Wenzel von Metternich",
+      "values": [
+        "německého",
+        "českého",
+        "portugalského",
+        "monackého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Václav Budovec z Budova",
+      "values": [
+        "moravského",
+        "švédského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Matúš Čák Trenčanský",
+      "values": [
+        "uherského",
+        "španělského",
+        "slovenského",
+        "chorvatského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Heřman Kryštof Russworm",
+      "values": [
+        "moravského",
+        "německého",
+        "monackého",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hugo František Salm",
+      "values": [
+        "monackého",
+        "slezského",
+        "moravského",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ali Paša Janinský",
+      "values": [
+        "albánského",
+        "nizozemského",
+        "britského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Heřman Jakub Černín",
+      "values": [
+        "řeckého",
+        "chorvatského",
+        "albánského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Hasištejnský z Lobkovic",
+      "values": [
+        "albánského",
+        "ruského",
+        "českého",
+        "slezského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Harold Alexander",
+      "values": [
+        "ruského",
+        "švédského",
+        "německého",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Isla Phillipsová",
+      "values": [
+        "německého",
+        "britského",
+        "francouzského",
+        "slezského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] aktivistu?",
+  "questions": [
+    {
+      "key": "Vendula Pizingerová",
+      "values": [
+        "britského",
+        "českého",
+        "běloruského",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Brigitte Bardotová",
+      "values": [
+        "slovenského",
+        "běloruského",
+        "francouzského",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Ruml",
+      "values": [
+        "německého",
+        "slovenského",
+        "běloruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tony Curtis",
+      "values": [
+        "amerického",
+        "indického",
+        "íránského",
+        "běloruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Denisa Rohanová",
+      "values": [
+        "australského",
+        "českého",
+        "ruského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joan Baez",
+      "values": [
+        "italského",
+        "českého",
+        "australského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bill Cosby",
+      "values": [
+        "německého",
+        "amerického",
+        "ruského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Šimon Žďárský",
+      "values": [
+        "slovenského",
+        "českého",
+        "italského",
+        "jihoafrického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vojtěch Razima",
+      "values": [
+        "českého",
+        "italského",
+        "indického",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Bouchal",
+      "values": [
+        "íránského",
+        "ruského",
+        "kanadského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

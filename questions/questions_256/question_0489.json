@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Marek Eben",
+      "values": [
+        "amerického",
+        "německého",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kryštof Harant z Polžic a Bezdružic",
+      "values": [
+        "českého",
+        "arménského",
+        "brazilského",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sergej Rachmaninov",
+      "values": [
+        "estonského",
+        "maďarského",
+        "ruského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eman Fiala",
+      "values": [
+        "norského",
+        "německého",
+        "argentinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rudolf Antonín Dvorský",
+      "values": [
+        "kanadského",
+        "českého",
+        "brazilského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan z Jenštejna",
+      "values": [
+        "maďarského",
+        "ruského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Christoph Willibald Gluck",
+      "values": [
+        "slovinského",
+        "irského",
+        "švédského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Christopher Chaplin",
+      "values": [
+        "polského",
+        "švýcarského",
+        "rumunského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Conan Gray",
+      "values": [
+        "amerického",
+        "kanadského",
+        "norského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Riz Ortolani",
+      "values": [
+        "italského",
+        "českého",
+        "japonského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

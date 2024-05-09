@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Čekanka obecná",
+      "values": [
+        "Nový Zéland",
+        "Mexiko",
+        "Austrálie",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Monstera",
+      "values": [
+        "Nový Zéland",
+        "Česko",
+        "Mongolsko",
+        "Brazílie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaterník podléška",
+      "values": [
+        "Brazílie",
+        "Mongolsko",
+        "Česko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Řeřišnice luční",
+      "values": [
+        "Brazílie",
+        "Madagaskar",
+        "Mongolsko",
+        "Mexiko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pryskyřník plazivý",
+      "values": [
+        "Madagaskar",
+        "Česko",
+        "Mongolsko",
+        "Mexiko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pcháč rolní",
+      "values": [
+        "Česko",
+        "Brazílie",
+        "Austrálie",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Blýskalka",
+      "values": [
+        "Mexiko",
+        "Brazílie",
+        "Česko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Locika kompasová",
+      "values": [
+        "Mongolsko",
+        "Brazílie",
+        "Madagaskar",
+        "Austrálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tužebník obecný",
+      "values": [
+        "Brazílie",
+        "Nový Zéland",
+        "Madagaskar",
+        "Mexiko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Agáve modrá",
+      "values": [
+        "Mongolsko",
+        "Mexiko",
+        "Brazílie",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

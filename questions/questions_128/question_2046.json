@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistku?",
+  "questions": [
+    {
+      "key": "Lucie Šafářová",
+      "values": [
+        "švýcarskou",
+        "ukrajinskou",
+        "brazilskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kristýna Plíšková",
+      "values": [
+        "československou",
+        "běloruskou",
+        "lotyšskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gabriela Sabatini",
+      "values": [
+        "indickou",
+        "rakouskou",
+        "americkou",
+        "argentinskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Garbiñe Muguruzaová",
+      "values": [
+        "španělskou",
+        "japonskou",
+        "českou",
+        "argentinskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Storm Hunterová",
+      "values": [
+        "španělskou",
+        "indickou",
+        "australskou",
+        "egyptskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Květa Peschkeová",
+      "values": [
+        "ruskou",
+        "španělskou",
+        "českou",
+        "egyptskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petra Cetkovská",
+      "values": [
+        "ruskou",
+        "tuniskou",
+        "českou",
+        "egyptskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Li Na",
+      "values": [
+        "čínskou",
+        "maďarskou",
+        "tuniskou",
+        "brazilskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Julia Görgesová",
+      "values": [
+        "japonskou",
+        "československou",
+        "německou",
+        "tuniskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luisa Abrahams",
+      "values": [
+        "španělskou",
+        "lotyšskou",
+        "českou",
+        "brazilskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

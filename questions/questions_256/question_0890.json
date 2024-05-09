@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle katastrofy",
+  "questions": [
+    {
+      "key": "Metanolová aféra",
+      "values": [
+        "Srbsko",
+        "Sovětský svaz",
+        "Indie",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Havárie elektrárny Fukušima I",
+      "values": [
+        "Maďarsko",
+        "Japonsko",
+        "Srbsko",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "RMS Lusitania",
+      "values": [
+        "Spojené království",
+        "Rakousko",
+        "Indie",
+        "Srbsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bhópálská katastrofa",
+      "values": [
+        "Sovětský svaz",
+        "Japonsko",
+        "Maďarsko",
+        "Indie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Velký smog 1952",
+      "values": [
+        "Srbsko",
+        "Indie",
+        "Sovětský svaz",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Uhelné prázdniny 1979",
+      "values": [
+        "Česko",
+        "Maďarsko",
+        "Sovětský svaz",
+        "Srbsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Povodně ve Slovinsku 2023",
+      "values": [
+        "Rakousko",
+        "Sovětský svaz",
+        "Japonsko",
+        "Spojené království"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Střelba na základní škole v Bělehradě",
+      "values": [
+        "Česko",
+        "Japonsko",
+        "Srbsko",
+        "Indie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Úniky toxických látek do Bečvy 2020",
+      "values": [
+        "Srbsko",
+        "Česko",
+        "Japonsko",
+        "Sovětský svaz"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kyštymská katastrofa",
+      "values": [
+        "Sovětský svaz",
+        "Rakousko",
+        "Spojené království",
+        "Srbsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

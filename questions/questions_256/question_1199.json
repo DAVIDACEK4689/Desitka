@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle národního parku",
+  "questions": [
+    {
+      "key": "Kilimandžáro",
+      "values": [
+        "Chorvatsko",
+        "Austrálie",
+        "Itálie",
+        "Tanzanie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Olymp",
+      "values": [
+        "Jihoafrická republika",
+        "Řecko",
+        "Keňa",
+        "Guatemala"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Plitvická jezera",
+      "values": [
+        "Černá Hora",
+        "Keňa",
+        "Chorvatsko",
+        "Egypt"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sloviňský národní park",
+      "values": [
+        "Keňa",
+        "Polsko",
+        "Ekvádor",
+        "Řecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Krugerův národní park",
+      "values": [
+        "Černá Hora",
+        "Německo",
+        "Izrael",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Samaria",
+      "values": [
+        "Španělsko",
+        "Chorvatsko",
+        "Guatemala",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tatranský národní park",
+      "values": [
+        "Island",
+        "Izrael",
+        "Slovensko",
+        "Švédsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Samaří",
+      "values": [
+        "Izrael",
+        "Španělsko",
+        "Chorvatsko",
+        "Keňa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Megido",
+      "values": [
+        "Česko",
+        "Izrael",
+        "Keňa",
+        "Švédsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paklenica",
+      "values": [
+        "Švédsko",
+        "Česko",
+        "Řecko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

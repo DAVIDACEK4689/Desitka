@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Luxor",
+      "values": [
+        "Litva",
+        "Laos",
+        "Egypt",
+        "Chorvatsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jakarta",
+      "values": [
+        "Indonésie",
+        "Srí Lanka",
+        "Tunisko",
+        "Austrálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chartúm",
+      "values": [
+        "Litva",
+        "Grónsko",
+        "Súdán",
+        "Ekvádor"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Novi Sad",
+      "values": [
+        "Nikaragua",
+        "Srbsko",
+        "Černá Hora",
+        "Řecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bodø",
+      "values": [
+        "Rusko",
+        "Norsko",
+        "Irsko",
+        "Etiopie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chur",
+      "values": [
+        "Mongolsko",
+        "Vietnam",
+        "Švýcarsko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Adana",
+      "values": [
+        "Turkmenistán",
+        "Turecko",
+        "Lotyšsko",
+        "Austrálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Skadar",
+      "values": [
+        "Malta",
+        "Kazachstán",
+        "Albánie",
+        "Bolívie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Basra",
+      "values": [
+        "Alžírsko",
+        "Jihoafrická republika",
+        "Lotyšsko",
+        "Irák"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sárospatak",
+      "values": [
+        "Malta",
+        "Maďarsko",
+        "Mexiko",
+        "Švédsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

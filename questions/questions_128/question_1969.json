@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle letiště",
+  "questions": [
+    {
+      "key": "Letecká základna Ramstein",
+      "values": [
+        "Německo",
+        "Řecko",
+        "Švýcarsko",
+        "Černá Hora"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mezinárodní letiště Korfu",
+      "values": [
+        "Afghánistán",
+        "Řecko",
+        "Ukrajina",
+        "Portugalsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mezinárodní letiště Marsa Alam",
+      "values": [
+        "Indie",
+        "Egypt",
+        "Spojené království",
+        "Kypr"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Letiště v Praze",
+      "values": [
+        "Slovensko",
+        "Nizozemsko",
+        "Česko",
+        "Ukrajina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mezinárodní letiště Hurghada",
+      "values": [
+        "Česko",
+        "Egypt",
+        "Austrálie",
+        "Izrael"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Letiště Tivat",
+      "values": [
+        "Černá Hora",
+        "Palestinské území",
+        "Izrael",
+        "Kiribati"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mezinárodní letiště Ben Guriona",
+      "values": [
+        "Izrael",
+        "Malajsie",
+        "Palestinské území",
+        "Irsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mezinárodní letiště Gibraltar",
+      "values": [
+        "Kiribati",
+        "Švýcarsko",
+        "Indie",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mezinárodní letiště Hostomel",
+      "values": [
+        "Turecko",
+        "Spojené království",
+        "Ukrajina",
+        "Izrael"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mezinárodní letiště Kansai",
+      "values": [
+        "Itálie",
+        "Island",
+        "Japonsko",
+        "Palestinské území"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

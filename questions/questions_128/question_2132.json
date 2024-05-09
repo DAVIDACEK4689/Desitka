@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Tina Turner",
+      "values": [
+        "jihokorejskou",
+        "kubánskou",
+        "izraelskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Avril Lavigne",
+      "values": [
+        "norskou",
+        "kolumbijskou",
+        "izraelskou",
+        "kanadskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jitka Boho",
+      "values": [
+        "moldavskou",
+        "italskou",
+        "českou",
+        "kanadskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Laura Branigan",
+      "values": [
+        "islandskou",
+        "jamajskou",
+        "peruánskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Candice King",
+      "values": [
+        "americkou",
+        "francouzskou",
+        "španělskou",
+        "finskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Renata Drössler",
+      "values": [
+        "nizozemskou",
+        "českou",
+        "srbskou",
+        "španělskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lilka Ročáková",
+      "values": [
+        "českou",
+        "španělskou",
+        "nizozemskou",
+        "švédskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "JoJo",
+      "values": [
+        "ruskou",
+        "irskou",
+        "americkou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karolína Kamberská",
+      "values": [
+        "řeckou",
+        "českou",
+        "mexickou",
+        "finskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ylva Eriksson",
+      "values": [
+        "švédskou",
+        "japonskou",
+        "peruánskou",
+        "mexickou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

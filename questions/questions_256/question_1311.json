@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Zlatan Ibrahimović",
+      "values": [
+        "ghanského",
+        "amerického",
+        "švédského",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alex Král",
+      "values": [
+        "českého",
+        "senegalského",
+        "brazilského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fernando Torres",
+      "values": [
+        "chilského",
+        "španělského",
+        "rakouského",
+        "ekvádorského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Roman Bednář",
+      "values": [
+        "českého",
+        "švédského",
+        "belgického",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ange Postecoglou",
+      "values": [
+        "chorvatského",
+        "marockého",
+        "australského",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alan Shearer",
+      "values": [
+        "alžírského",
+        "irského",
+        "marockého",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Manuel Pellegrini",
+      "values": [
+        "chilského",
+        "švédského",
+        "maďarského",
+        "australského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marek Suchý",
+      "values": [
+        "českého",
+        "ghanského",
+        "ruského",
+        "gambijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Skalák",
+      "values": [
+        "severoirského",
+        "uruguayského",
+        "českého",
+        "velšského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roger Milla",
+      "values": [
+        "egyptského",
+        "gruzínského",
+        "kamerunského",
+        "českého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

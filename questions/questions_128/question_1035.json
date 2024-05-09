@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Guacamole",
+      "values": [
+        "mexickou",
+        "korejskou",
+        "dominikánskou",
+        "bhútánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vídeňská káva",
+      "values": [
+        "brazilskou",
+        "ukrajinskou",
+        "čínskou",
+        "rakouskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Focaccia",
+      "values": [
+        "středoamerickou",
+        "italskou",
+        "tibetskou",
+        "balkánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Skyr",
+      "values": [
+        "řeckou",
+        "americkou",
+        "islandskou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Krabí tyčinka",
+      "values": [
+        "australskou",
+        "japonskou",
+        "indonéskou",
+        "středomořskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karlovačko",
+      "values": [
+        "arménskou",
+        "chorvatskou",
+        "japonskou",
+        "dánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Salcburské noky",
+      "values": [
+        "portugalskou",
+        "rakouskou",
+        "italskou",
+        "bhútánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Corn dog",
+      "values": [
+        "australskou",
+        "americkou",
+        "středomořskou",
+        "židovskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Slezský stryk",
+      "values": [
+        "německou",
+        "anglickou",
+        "českou",
+        "norskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Baharat",
+      "values": [
+        "slovenskou",
+        "mexickou",
+        "tureckou",
+        "litevskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

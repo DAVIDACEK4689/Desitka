@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filozofa?",
+  "questions": [
+    {
+      "key": "Mahátma Gándhí",
+      "values": [
+        "českého",
+        "indického",
+        "dánského",
+        "perského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Denis Diderot",
+      "values": [
+        "českého",
+        "britského",
+        "francouzského",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rudolf Steiner",
+      "values": [
+        "rakouského",
+        "švédského",
+        "indického",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "John Stuart Mill",
+      "values": [
+        "slovenského",
+        "maďarského",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bohuslav Brouk",
+      "values": [
+        "slovenského",
+        "perského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Epiktétos",
+      "values": [
+        "britského",
+        "řeckého",
+        "ruského",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ludwig Feuerbach",
+      "values": [
+        "českého",
+        "německého",
+        "švýcarského",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Judith Butlerová",
+      "values": [
+        "indického",
+        "amerického",
+        "britského",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Emanuel Swedenborg",
+      "values": [
+        "českého",
+        "švédského",
+        "italského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Anaximenés",
+      "values": [
+        "nizozemského",
+        "řeckého",
+        "slovinského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

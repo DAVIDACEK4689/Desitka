@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fyzika?",
+  "questions": [
+    {
+      "key": "Prokop Diviš",
+      "values": [
+        "ukrajinského",
+        "českého",
+        "nizozemského",
+        "íránského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Henri Becquerel",
+      "values": [
+        "běloruského",
+        "kanadského",
+        "francouzského",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bob Lazar",
+      "values": [
+        "kanadského",
+        "amerického",
+        "íránského",
+        "izraelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Thomas Samuel Kuhn",
+      "values": [
+        "amerického",
+        "indického",
+        "sovětského",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lev Sergejevič Těrmen",
+      "values": [
+        "australského",
+        "ruského",
+        "dánského",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Adam Petřina",
+      "values": [
+        "izraelského",
+        "českého",
+        "britského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Černohorský",
+      "values": [
+        "rakouského",
+        "českého",
+        "australského",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joseph Henry",
+      "values": [
+        "srbského",
+        "amerického",
+        "australského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paul Ehrenfest",
+      "values": [
+        "íránského",
+        "slovenského",
+        "dánského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ivan Štoll",
+      "values": [
+        "kanadského",
+        "íránského",
+        "indického",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

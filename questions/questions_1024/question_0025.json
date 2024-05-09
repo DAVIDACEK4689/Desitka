@@ -1,0 +1,105 @@
+{
+  "text": "Určete etnický původ podle Čecha",
+  "questions": [
+    {
+      "key": "Tomáš Garrigue Masaryk",
+      "values": [
+        "maďarský původ",
+        "britský původ",
+        "japonský původ",
+        "slovenský původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ewa Farna",
+      "values": [
+        "polský původ",
+        "syrský původ",
+        "japonský původ",
+        "etiopský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Halina Pawlowská",
+      "values": [
+        "ukrajinský původ",
+        "maďarský původ",
+        "polský původ",
+        "afghánský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Taťána Kuchařová",
+      "values": [
+        "japonský původ",
+        "slovenský původ",
+        "makedonský původ",
+        "maďarský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "David Černý",
+      "values": [
+        "židovský původ",
+        "asijský původ",
+        "italský původ",
+        "francouzský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Skopeček",
+      "values": [
+        "japonský původ",
+        "židovský původ",
+        "italský původ",
+        "etiopský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martha Elefteriadu",
+      "values": [
+        "slovenský původ",
+        "makedonský původ",
+        "italský původ",
+        "řecký původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Adam Kajumi",
+      "values": [
+        "afghánský původ",
+        "arménský původ",
+        "japonský původ",
+        "asijský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Moris Issa",
+      "values": [
+        "ruský původ",
+        "syrský původ",
+        "asijský původ",
+        "maďarský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Monika Leová",
+      "values": [
+        "vietnamský původ",
+        "kanadský původ",
+        "makedonský původ",
+        "běloruský původ"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

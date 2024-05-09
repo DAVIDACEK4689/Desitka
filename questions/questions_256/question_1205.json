@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotografa?",
+  "questions": [
+    {
+      "key": "Jan Saudek",
+      "values": [
+        "anglického",
+        "slovenského",
+        "českého",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zuzana Šulajová",
+      "values": [
+        "dánského",
+        "amerického",
+        "kanadského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Břínek",
+      "values": [
+        "slovenského",
+        "francouzského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kate Barry",
+      "values": [
+        "rakouského",
+        "sovětského",
+        "jihoafrického",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Robert Mapplethorpe",
+      "values": [
+        "kanadského",
+        "rakouského",
+        "sovětského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "August Strindberg",
+      "values": [
+        "švédského",
+        "českého",
+        "slovenského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Kořenský",
+      "values": [
+        "maďarského",
+        "sovětského",
+        "jihoafrického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mário Bihári",
+      "values": [
+        "švédského",
+        "jihoafrického",
+        "polského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Agnès Varda",
+      "values": [
+        "sovětského",
+        "slovenského",
+        "francouzského",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nadar",
+      "values": [
+        "jihoafrického",
+        "českého",
+        "francouzského",
+        "dánského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

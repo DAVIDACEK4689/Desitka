@@ -1,0 +1,105 @@
+{
+  "text": "Určete rok podle konfliktu",
+  "questions": [
+    {
+      "key": "Operace Spojenecká síla",
+      "values": [
+        "2014",
+        "1999",
+        "1989",
+        "1994"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Anexe Krymu Ruskou federací",
+      "values": [
+        "2011",
+        "1994",
+        "2014",
+        "2006"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Časová osa ruské invaze na Ukrajinu",
+      "values": [
+        "2011",
+        "2022",
+        "1989",
+        "1991"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rwandská genocida",
+      "values": [
+        "1994",
+        "2014",
+        "1991",
+        "2020"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Druhá válka o Náhorní Karabach",
+      "values": [
+        "2006",
+        "2020",
+        "2007",
+        "1991"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Masakr v Buči",
+      "values": [
+        "1991",
+        "2011",
+        "2022",
+        "2023"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Masakr na náměstí Nebeského klidu",
+      "values": [
+        "2022",
+        "2014",
+        "1989",
+        "2007"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oranžová revoluce",
+      "values": [
+        "2004",
+        "1991",
+        "2022",
+        "2007"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Srpnový puč",
+      "values": [
+        "2020",
+        "1992",
+        "1991",
+        "2014"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Palachův týden",
+      "values": [
+        "2022",
+        "2023",
+        "1989",
+        "2011"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

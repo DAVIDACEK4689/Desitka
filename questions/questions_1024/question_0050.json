@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Anne Franková",
+      "values": [
+        "italského",
+        "ruského",
+        "slovenského",
+        "nizozemského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hans Christian Andersen",
+      "values": [
+        "dánského",
+        "chilského",
+        "kanadského",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Astrid Lindgrenová",
+      "values": [
+        "japonského",
+        "irského",
+        "švédského",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jack Kerouac",
+      "values": [
+        "amerického",
+        "dánského",
+        "polského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ondřej Neff",
+      "values": [
+        "českého",
+        "ukrajinského",
+        "chilského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert Bryndza",
+      "values": [
+        "britského",
+        "polského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rainer Maria Rilke",
+      "values": [
+        "rakouského",
+        "ukrajinského",
+        "novozélandského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Václav Rais",
+      "values": [
+        "britského",
+        "kolumbijského",
+        "českého",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karen Blixenová",
+      "values": [
+        "dánského",
+        "norského",
+        "kolumbijského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavel Josef Šafařík",
+      "values": [
+        "norského",
+        "slovenského",
+        "srbského",
+        "italského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

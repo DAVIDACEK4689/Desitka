@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Josef Kemr",
+      "values": [
+        "jihokorejského",
+        "nizozemského",
+        "českého",
+        "chilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jon Cryer",
+      "values": [
+        "jihokorejského",
+        "čínského",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Javier Bardem",
+      "values": [
+        "jihoafrického",
+        "malajsijského",
+        "indického",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Broněk Černý",
+      "values": [
+        "českého",
+        "norského",
+        "kanadského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jonathan Brandis",
+      "values": [
+        "dánského",
+        "ruského",
+        "amerického",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dušan Vitázek",
+      "values": [
+        "britského",
+        "francouzského",
+        "izraelského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Seth Rogen",
+      "values": [
+        "francouzského",
+        "kanadského",
+        "islandského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aleš Jarý",
+      "values": [
+        "britského",
+        "portorického",
+        "českého",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lukáš Latinák",
+      "values": [
+        "švédského",
+        "srbského",
+        "japonského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Burtka",
+      "values": [
+        "německého",
+        "jihokorejského",
+        "jihoafrického",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

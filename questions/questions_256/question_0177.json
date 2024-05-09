@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Vyproštění francouzských vojáků ze základny Karin",
+      "values": [
+        "1631",
+        "1709",
+        "1993",
+        "1954"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Trafalgaru",
+      "values": [
+        "1991",
+        "1346",
+        "1242",
+        "1805"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Gettysburgu",
+      "values": [
+        "1863",
+        "1917",
+        "1775",
+        "1898"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Bachmače",
+      "values": [
+        "1918",
+        "1571",
+        "1187",
+        "1241"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Obléhání Bastogne",
+      "values": [
+        "1260",
+        "1916",
+        "1944",
+        "1427"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva o letiště Hostomel",
+      "values": [
+        "1849",
+        "2022",
+        "1278",
+        "1863"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Incident na mostě Marca Pola",
+      "values": [
+        "1814",
+        "1863",
+        "1937",
+        "805"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vylodění u Anzia",
+      "values": [
+        "1438",
+        "1571",
+        "1944",
+        "1806"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva o Belgii",
+      "values": [
+        "1756",
+        "1396",
+        "1836",
+        "1940"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nájezd na Dieppe",
+      "values": [
+        "1040",
+        "1942",
+        "1812",
+        "1991"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

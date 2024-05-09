@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] anarchistu?",
+  "questions": [
+    {
+      "key": "Javier Milei",
+      "values": [
+        "britského",
+        "argentinského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lev Nikolajevič Tolstoj",
+      "values": [
+        "britského",
+        "ruského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stanislav Kostka Neumann",
+      "values": [
+        "britského",
+        "českého",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fráňa Šrámek",
+      "values": [
+        "argentinského",
+        "českého",
+        "francouzského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Guillaume Apollinaire",
+      "values": [
+        "britského",
+        "francouzského",
+        "argentinského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lemmy",
+      "values": [
+        "argentinského",
+        "britského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Chelčický",
+      "values": [
+        "italského",
+        "českého",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marie Majerová",
+      "values": [
+        "ruského",
+        "francouzského",
+        "českého",
+        "argentinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gustave Courbet",
+      "values": [
+        "francouzského",
+        "českého",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Henry David Thoreau",
+      "values": [
+        "ruského",
+        "amerického",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Freddie Mercury",
+      "values": [
+        "britského",
+        "slovenského",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michal David",
+      "values": [
+        "amerického",
+        "ruského",
+        "českého",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Johannes Brahms",
+      "values": [
+        "maďarského",
+        "slovenského",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Iljič Čajkovskij",
+      "values": [
+        "maďarského",
+        "britského",
+        "ruského",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Giuseppe Verdi",
+      "values": [
+        "francouzského",
+        "slovenského",
+        "italského",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pink",
+      "values": [
+        "amerického",
+        "italského",
+        "irského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Leonard Bernstein",
+      "values": [
+        "amerického",
+        "německého",
+        "irského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Franz Schubert",
+      "values": [
+        "rakouského",
+        "francouzského",
+        "německého",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Willie Nelson",
+      "values": [
+        "amerického",
+        "švédského",
+        "britského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sergej Prokofjev",
+      "values": [
+        "ruského",
+        "britského",
+        "rakouského",
+        "irského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

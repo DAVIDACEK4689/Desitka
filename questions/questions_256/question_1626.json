@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte kontinent podle fauny",
+  "questions": [
+    {
+      "key": "Srnec obecný",
+      "values": [
+        "Střední Amerika",
+        "Asie",
+        "Evropa",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Orangutan",
+      "values": [
+        "Asie",
+        "Severní Amerika",
+        "Střední Amerika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gekončík noční",
+      "values": [
+        "Střední Amerika",
+        "Asie",
+        "Afrika",
+        "Antarktida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pakůň",
+      "values": [
+        "Evropa",
+        "Afrika",
+        "Severní Amerika",
+        "Asie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pes hřivnatý",
+      "values": [
+        "Severní Amerika",
+        "Antarktida",
+        "Střední Amerika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nártoun filipínský",
+      "values": [
+        "Afrika",
+        "Severní Amerika",
+        "Asie",
+        "Evropa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hyena žíhaná",
+      "values": [
+        "Antarktida",
+        "Afrika",
+        "Severní Amerika",
+        "Střední Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Korsak",
+      "values": [
+        "Evropa",
+        "Jižní Amerika",
+        "Asie",
+        "Antarktida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Velemlok japonský",
+      "values": [
+        "Severní Amerika",
+        "Asie",
+        "Antarktida",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Šakal čabrakový",
+      "values": [
+        "Afrika",
+        "Antarktida",
+        "Evropa",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

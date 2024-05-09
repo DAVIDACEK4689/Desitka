@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva u Lipan",
+      "values": [
+        "1396",
+        "1905",
+        "1434",
+        "1526"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva o Francii",
+      "values": [
+        "1940",
+        "937",
+        "1648",
+        "1396"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva o Berlín",
+      "values": [
+        "1526",
+        "1976",
+        "1945",
+        "1905"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva o Alamo",
+      "values": [
+        "1809",
+        "1620",
+        "1434",
+        "1836"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Cullodenu",
+      "values": [
+        "1746",
+        "1648",
+        "1260",
+        "1918"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva na Kosově poli",
+      "values": [
+        "1944",
+        "1396",
+        "1389",
+        "1976"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Saratogy",
+      "values": [
+        "1346",
+        "1775",
+        "1805",
+        "1214"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Ústí nad Labem",
+      "values": [
+        "1812",
+        "1905",
+        "1426",
+        "1836"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Jutska",
+      "values": [
+        "1527",
+        "1916",
+        "1434",
+        "1789"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u řeky Chalchyn",
+      "values": [
+        "1757",
+        "1939",
+        "1410",
+        "1905"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

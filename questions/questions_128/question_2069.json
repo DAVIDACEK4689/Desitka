@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle geografie",
+  "questions": [
+    {
+      "key": "Pyreneje",
+      "values": [
+        "Faerské ostrovy",
+        "Vanuatu",
+        "Andorra",
+        "Pero"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Norské moře",
+      "values": [
+        "Itálie",
+        "Faerské ostrovy",
+        "Pákistán",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Špicberky a Jan Mayen",
+      "values": [
+        "Brazílie",
+        "Norsko",
+        "Slovinsko",
+        "Austrálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Žluté moře",
+      "values": [
+        "Omán",
+        "Losotho",
+        "Severní Korea",
+        "Svatý Kryštof a Nevis"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Holandské království",
+      "values": [
+        "Afghánistán",
+        "Nizozemsko",
+        "Norsko",
+        "Moldavsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tehuantepecká šíje",
+      "values": [
+        "Mexiko",
+        "Andorra",
+        "Irsko",
+        "Rakousko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Retba",
+      "values": [
+        "Libye",
+        "Senegal",
+        "Česko",
+        "Súdán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Perekopská šíje",
+      "values": [
+        "Ukrajina",
+        "Brazílie",
+        "Súdán",
+        "Komora"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bačka",
+      "values": [
+        "Srbsko",
+        "Tanzanie",
+        "Abcházie",
+        "Lotyšsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Annam",
+      "values": [
+        "Abcházie",
+        "Brazílie",
+        "Palestina",
+        "Vietnam"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

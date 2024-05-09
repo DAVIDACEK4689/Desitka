@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] dramatický film?",
+  "questions": [
+    {
+      "key": "Minuta věčnosti",
+      "values": [
+        "ruský",
+        "dánský",
+        "český",
+        "francouzský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Králova řeč",
+      "values": [
+        "britský",
+        "švédský",
+        "ruský",
+        "novozélandský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Blízká setkání třetího druhu",
+      "values": [
+        "dánský",
+        "maďarský",
+        "francouzský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Návrat idiota",
+      "values": [
+        "český",
+        "jihokorejský",
+        "československý",
+        "španělský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hlas pro římského krále",
+      "values": [
+        "český",
+        "francouzský",
+        "estonský",
+        "australský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Svět podle Prota",
+      "values": [
+        "izraelský",
+        "švédský",
+        "německý",
+        "mexický"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "T2 Trainspotting",
+      "values": [
+        "francouzský",
+        "britský",
+        "australský",
+        "český"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Venkovský učitel",
+      "values": [
+        "novozélandský",
+        "australský",
+        "český",
+        "jihokorejský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bouřlivé dny",
+      "values": [
+        "československý",
+        "slovenský",
+        "dánský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Čest rodiny Prizziů",
+      "values": [
+        "český",
+        "novozélandský",
+        "americký",
+        "slovenský"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

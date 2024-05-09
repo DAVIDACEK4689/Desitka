@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Karel Černoch",
+      "values": [
+        "irského",
+        "českého",
+        "chorvatského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ondřej Hejma",
+      "values": [
+        "českého",
+        "alžírského",
+        "dánského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bill Wyman",
+      "values": [
+        "novozélandského",
+        "slovenského",
+        "argentinského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roman Horký",
+      "values": [
+        "českého",
+        "francouzského",
+        "belgického",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Deryck Whibley",
+      "values": [
+        "skotského",
+        "kanadského",
+        "italského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Christopher Bowes",
+      "values": [
+        "skotského",
+        "uruguayského",
+        "maďarského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robo Kazík",
+      "values": [
+        "slovenského",
+        "norského",
+        "německého",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chris Barnes",
+      "values": [
+        "amerického",
+        "kolumbijského",
+        "francouzského",
+        "gruzínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Leon Hendrix",
+      "values": [
+        "španělského",
+        "irského",
+        "amerického",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Asaf Avidan",
+      "values": [
+        "slovenského",
+        "španělského",
+        "belgického",
+        "izraelského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

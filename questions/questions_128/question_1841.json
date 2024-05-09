@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Eduard Heger",
+      "values": [
+        "slovenského",
+        "etiopského",
+        "myanmarského",
+        "československého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oleksij Reznikov",
+      "values": [
+        "peruánského",
+        "palestinského",
+        "rakouského",
+        "ukrajinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nestor Machno",
+      "values": [
+        "černohorského",
+        "ukrajinského",
+        "nizozemského",
+        "arménského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dmitrij Rogozin",
+      "values": [
+        "ukrajinského",
+        "srbského",
+        "španělského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Naftalij Aronovič Frenkel",
+      "values": [
+        "arménského",
+        "sovětského",
+        "keňského",
+        "kolumbijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Schulz",
+      "values": [
+        "izraelského",
+        "německého",
+        "panamského",
+        "lotyšského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jean Jaurès",
+      "values": [
+        "dominikánského",
+        "lotyšského",
+        "libanonského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alfred Hugenberg",
+      "values": [
+        "dominikánského",
+        "polského",
+        "tureckého",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Anna Lindhová",
+      "values": [
+        "vietnamského",
+        "švýcarského",
+        "švédského",
+        "bulharského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Joseph Chamberlain",
+      "values": [
+        "britského",
+        "jemenského",
+        "albánského",
+        "estonského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

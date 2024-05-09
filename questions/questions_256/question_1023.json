@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle premiéra",
+  "questions": [
+    {
+      "key": "Robert Fico",
+      "values": [
+        "Slovensko",
+        "Spojené království",
+        "Portugalsko",
+        "Ukrajina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Viktor Orbán",
+      "values": [
+        "Kosovo",
+        "Island",
+        "Maďarsko",
+        "Ukrajina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Julija Tymošenková",
+      "values": [
+        "Ukrajina",
+        "Moldavsko",
+        "Maďarsko",
+        "Indie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Šimon Peres",
+      "values": [
+        "Řecko",
+        "Finsko",
+        "Izrael",
+        "Indie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Olof Palme",
+      "values": [
+        "Chorvatsko",
+        "Švédsko",
+        "Irák",
+        "Island"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Husní Mubárak",
+      "values": [
+        "Kosovo",
+        "Egypt",
+        "Nizozemsko",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Pitra",
+      "values": [
+        "Česko",
+        "Egypt",
+        "Španělsko",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pierre Laval",
+      "values": [
+        "Izrael",
+        "Srbsko",
+        "Itálie",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Manuel Azaña",
+      "values": [
+        "Chorvatsko",
+        "Itálie",
+        "Estonsko",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "İsmet İnönü",
+      "values": [
+        "Egypt",
+        "Turecko",
+        "Island",
+        "Estonsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

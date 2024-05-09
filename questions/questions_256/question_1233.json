@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Přerov",
+      "values": [
+        "Bečva",
+        "Váha",
+        "Berounka",
+        "Metuje"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oxford",
+      "values": [
+        "Bečva",
+        "Temže",
+        "Sázava",
+        "Spréva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Horšovský Týn",
+      "values": [
+        "Chrudimka",
+        "Sebnice",
+        "Radbuza",
+        "Berounka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Visegrád",
+      "values": [
+        "Seina",
+        "Dunaj",
+        "Dněpr",
+        "Sázava"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chvaletice",
+      "values": [
+        "Hornád",
+        "Lužická Nisa",
+        "Labe",
+        "Něva"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Windsor",
+      "values": [
+        "Chrudimka",
+        "Bečva",
+        "Sebnice",
+        "Temže"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Moháč",
+      "values": [
+        "Dunaj",
+        "Radbuza",
+        "Úslava",
+        "Chrudimka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hýskov",
+      "values": [
+        "Seina",
+        "Visla",
+        "Volha",
+        "Berounka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kamenný Přívoz",
+      "values": [
+        "Inn",
+        "Cidlina",
+        "Sázava",
+        "Spréva"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Smidary",
+      "values": [
+        "Těrek",
+        "Temže",
+        "Cidlina",
+        "Mandava"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

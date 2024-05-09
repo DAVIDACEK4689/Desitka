@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle archeologické lokality",
+  "questions": [
+    {
+      "key": "Chrámová hora",
+      "values": [
+        "Ukrajina",
+        "Rakousko",
+        "Srí Lanka",
+        "Izrael"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Veset",
+      "values": [
+        "Irák",
+        "Federativní státy Mikronésie",
+        "Francie",
+        "Egypt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pantelleria",
+      "values": [
+        "Jordánsko",
+        "Itálie",
+        "Gruzie",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Délos",
+      "values": [
+        "Irák",
+        "Řecko",
+        "Chorvatsko",
+        "Írán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ioánnina",
+      "values": [
+        "Izrael",
+        "Turecko",
+        "Irák",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chrám Kom Ombo",
+      "values": [
+        "Ukrajina",
+        "Tanzanie",
+        "Pákistán",
+        "Egypt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sacsayhuamán",
+      "values": [
+        "Německo",
+        "Pero",
+        "Turecko",
+        "Litva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Biskupin",
+      "values": [
+        "Slovensko",
+        "Srí Lanka",
+        "Polsko",
+        "Egypt"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lilienstein",
+      "values": [
+        "Irák",
+        "Německo",
+        "Afghánistán",
+        "Írán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "La Tène",
+      "values": [
+        "Irák",
+        "Švýcarsko",
+        "Chorvatsko",
+        "Srí Lanka"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

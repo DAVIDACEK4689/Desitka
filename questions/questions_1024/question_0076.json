@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] ateistu?",
+  "questions": [
+    {
+      "key": "Miloš Zeman",
+      "values": [
+        "německého",
+        "francouzského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Benito Mussolini",
+      "values": [
+        "ruského",
+        "italského",
+        "irského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Daniel Radcliffe",
+      "values": [
+        "rumunského",
+        "židovského",
+        "islandského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Albert Camus",
+      "values": [
+        "švýcarského",
+        "běloruského",
+        "francouzského",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Joaquin Phoenix",
+      "values": [
+        "švýcarského",
+        "chorvatského",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Frank Zappa",
+      "values": [
+        "srbského",
+        "irského",
+        "kanadského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lance Armstrong",
+      "values": [
+        "skotského",
+        "švédského",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eva Greenová",
+      "values": [
+        "španělského",
+        "islandského",
+        "mexického",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Friedrich Engels",
+      "values": [
+        "německého",
+        "srbského",
+        "slovinského",
+        "gruzínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Erich Honecker",
+      "values": [
+        "mexického",
+        "německého",
+        "ruského",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

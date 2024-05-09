@@ -1,0 +1,105 @@
+{
+  "text": "Určete rok podle letecké nehody",
+  "questions": [
+    {
+      "key": "Let Helios Airways 522",
+      "values": [
+        "2005",
+        "2000",
+        "1988",
+        "1948"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Let JAT 367",
+      "values": [
+        "2015",
+        "1972",
+        "2018",
+        "1985"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Let Air France 447",
+      "values": [
+        "1937",
+        "2020",
+        "2009",
+        "1972"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Let ČSA 001",
+      "values": [
+        "2009",
+        "2021",
+        "1976",
+        "1972"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Italia",
+      "values": [
+        "1928",
+        "1958",
+        "2001",
+        "1985"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nehoda na letecké základně Ramstein",
+      "values": [
+        "1988",
+        "1994",
+        "1958",
+        "1928"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nehoda vrtulníku Eurocopter AS 350 u ledovce Knik",
+      "values": [
+        "1983",
+        "1973",
+        "1928",
+        "2021"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Let Air Canada 143",
+      "values": [
+        "1994",
+        "2018",
+        "1983",
+        "2014"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Let Ethiopian Airlines 302",
+      "values": [
+        "1988",
+        "2019",
+        "1972",
+        "2009"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Let China Eastern Airlines 5735",
+      "values": [
+        "2005",
+        "2022",
+        "2019",
+        "1972"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

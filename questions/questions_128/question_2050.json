@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistku?",
+  "questions": [
+    {
+      "key": "Ons Džabúrová",
+      "values": [
+        "chorvatskou",
+        "americkou",
+        "tuniskou",
+        "čínskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lucie Hradecká",
+      "values": [
+        "řeckou",
+        "kolumbijskou",
+        "českou",
+        "dánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Maria Sakkariová",
+      "values": [
+        "nizozemskou",
+        "maďarskou",
+        "egyptskou",
+        "řeckou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lucie Havlíčková",
+      "values": [
+        "zimbabwskou",
+        "českou",
+        "argentinskou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Peyton Stearnsová",
+      "values": [
+        "řeckou",
+        "černohorskou",
+        "americkou",
+        "srbskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sania Mirzaová",
+      "values": [
+        "indickou",
+        "švýcarskou",
+        "kanadskou",
+        "japonskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lindsay Davenportová",
+      "values": [
+        "americkou",
+        "švýcarskou",
+        "maďarskou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Denisa Šátralová",
+      "values": [
+        "argentinskou",
+        "švýcarskou",
+        "francouzskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mary Pierceová",
+      "values": [
+        "francouzskou",
+        "kanadskou",
+        "maďarskou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lucia Bronzettiová",
+      "values": [
+        "československou",
+        "italskou",
+        "kanadskou",
+        "argentinskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

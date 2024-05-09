@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Ennio Morricone",
+      "values": [
+        "slovenského",
+        "slovinského",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Maurice Ravel",
+      "values": [
+        "britského",
+        "řeckého",
+        "ruského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chuck Schuldiner",
+      "values": [
+        "ruského",
+        "amerického",
+        "rumunského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Henry Purcell",
+      "values": [
+        "britského",
+        "brazilského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marko Ivanović",
+      "values": [
+        "slovenského",
+        "francouzského",
+        "kanadského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Anton Rubinstein",
+      "values": [
+        "ruského",
+        "italského",
+        "dánského",
+        "arménského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mikis Theodorakis",
+      "values": [
+        "českého",
+        "řeckého",
+        "švýcarského",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mike Pratt",
+      "values": [
+        "britského",
+        "norského",
+        "francouzského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Dudešek",
+      "values": [
+        "dánského",
+        "finského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lubomyr Melnyk",
+      "values": [
+        "ukrajinského",
+        "nizozemského",
+        "australského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

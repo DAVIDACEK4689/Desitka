@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle národního parku",
+  "questions": [
+    {
+      "key": "Galapágy",
+      "values": [
+        "Ekvádor",
+        "Mexiko",
+        "Lotyšsko",
+        "Nepál"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sloviňský národní park",
+      "values": [
+        "Argentina",
+        "Polsko",
+        "Slovensko",
+        "Brazílie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Durmitor",
+      "values": [
+        "Černá Hora",
+        "Kostarika",
+        "Venezuela",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kumrán",
+      "values": [
+        "Brazílie",
+        "Mexiko",
+        "Island",
+        "Izrael"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Brijuni",
+      "values": [
+        "Keňa",
+        "Německo",
+        "Brazílie",
+        "Chorvatsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Národní park Thayatal",
+      "values": [
+        "Slovinsko",
+        "Tanzanie",
+        "Island",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Národní park Čitvan",
+      "values": [
+        "Nepál",
+        "Brazílie",
+        "Slovinsko",
+        "Island"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Národní park Vysoké Taury",
+      "values": [
+        "Rakousko",
+        "Lotyšsko",
+        "Brazílie",
+        "Ukrajina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Národní park Severovýchodní Grónsko",
+      "values": [
+        "Nový Zéland",
+        "Dánsko",
+        "Jihoafrická republika",
+        "Maďarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kampinoský národní park",
+      "values": [
+        "Černá Hora",
+        "Mexiko",
+        "Slovensko",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

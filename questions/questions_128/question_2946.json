@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Marta Verner",
+      "values": [
+        "českou",
+        "španělskou",
+        "nizozemskou",
+        "kubánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dolly Parton",
+      "values": [
+        "americkou",
+        "německou",
+        "portugalskou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mariah Carey",
+      "values": [
+        "českou",
+        "americkou",
+        "kolumbijskou",
+        "srbskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zdenka Tichotová",
+      "values": [
+        "britskou",
+        "řeckou",
+        "novozélandskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Brenda Lee",
+      "values": [
+        "švédskou",
+        "americkou",
+        "australskou",
+        "indickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jolana Smyčková",
+      "values": [
+        "polskou",
+        "irskou",
+        "švýcarskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Amira Willighagen",
+      "values": [
+        "finskou",
+        "nizozemskou",
+        "kubánskou",
+        "peruánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Megan Thee Stallion",
+      "values": [
+        "mexickou",
+        "americkou",
+        "kubánskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Katarína Hasprová",
+      "values": [
+        "peruánskou",
+        "maďarskou",
+        "slovenskou",
+        "švédskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Faith Hill",
+      "values": [
+        "peruánskou",
+        "australskou",
+        "španělskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

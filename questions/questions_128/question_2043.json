@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Alex Ferguson",
+      "values": [
+        "uruguayského",
+        "československého",
+        "skotského",
+        "brazilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eusébio",
+      "values": [
+        "portugalského",
+        "japonského",
+        "dánského",
+        "arménského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Pekhart",
+      "values": [
+        "ruského",
+        "českého",
+        "rakouského",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Leroy Sané",
+      "values": [
+        "dánského",
+        "německého",
+        "ghanského",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nemanja Vidić",
+      "values": [
+        "srbského",
+        "španělského",
+        "jamajského",
+        "senegalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stanley Matthews",
+      "values": [
+        "anglického",
+        "uruguayského",
+        "egyptského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Pospíšil",
+      "values": [
+        "slovinského",
+        "černohorského",
+        "českého",
+        "peruánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jordan Pickford",
+      "values": [
+        "finského",
+        "australského",
+        "srbského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Samec",
+      "values": [
+        "anglického",
+        "severoirského",
+        "ekvádorského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ian Walker",
+      "values": [
+        "anglického",
+        "kanadského",
+        "mexického",
+        "marockého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

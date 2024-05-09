@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [typ] tank?",
+  "questions": [
+    {
+      "key": "M4 Sherman",
+      "values": [
+        "lehký",
+        "pěchotní",
+        "střední",
+        "obojživelný"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "M26 Pershing",
+      "values": [
+        "střední",
+        "pěchotní",
+        "obojživelný",
+        "těžký"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stridsvagn 103",
+      "values": [
+        "těžký",
+        "střední",
+        "lehký",
+        "obojživelný"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "M3 Stuart",
+      "values": [
+        "lehký",
+        "pěchotní",
+        "střední",
+        "těžký"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "M46 Patton",
+      "values": [
+        "střední",
+        "lehký",
+        "těžký",
+        "pěchotní"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Praga LTH",
+      "values": [
+        "obojživelný",
+        "pěchotní",
+        "lehký",
+        "střední"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "M51 Sherman",
+      "values": [
+        "pěchotní",
+        "střední",
+        "lehký",
+        "obojživelný"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Objekt 279",
+      "values": [
+        "pěchotní",
+        "těžký",
+        "střední",
+        "obojživelný"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "ARL 44",
+      "values": [
+        "pěchotní",
+        "obojživelný",
+        "střední",
+        "těžký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Leichttraktor",
+      "values": [
+        "lehký",
+        "těžký",
+        "obojživelný",
+        "pěchotní"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

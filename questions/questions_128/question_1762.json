@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle českého sportovce",
+  "questions": [
+    {
+      "key": "Roman Staněk",
+      "values": [
+        "tenista",
+        "automobilový závodník",
+        "sportovní střelec",
+        "rychlostní kanoista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Kovář",
+      "values": [
+        "rybář",
+        "plavec",
+        "lední hokejista",
+        "sportovní střelec"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexej Jaškin",
+      "values": [
+        "zápasník",
+        "horolezec",
+        "rychlostní kanoista",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Vavroušek",
+      "values": [
+        "lyžař",
+        "horolezec",
+        "kickboxeři",
+        "rychlostní kanoista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cyril Suk",
+      "values": [
+        "tenista",
+        "šermíř",
+        "plavec",
+        "rybář"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lubomír Kaválek",
+      "values": [
+        "zápasník",
+        "pozemní hokejista",
+        "šachista",
+        "squashisté"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Platil",
+      "values": [
+        "lední hokejista",
+        "automobilový závodník",
+        "horolezec",
+        "zápasník"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miloš Adamec",
+      "values": [
+        "lední hokejista",
+        "fotbalista",
+        "rychlostní kanoista",
+        "šachista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Radovan Pavlík",
+      "values": [
+        "sportovní střelec",
+        "bojový umělec",
+        "lední hokejista",
+        "cyklista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Václav Pantůček",
+      "values": [
+        "šachista",
+        "sportovní střelec",
+        "cyklista",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

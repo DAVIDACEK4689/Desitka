@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] architekta?",
+  "questions": [
+    {
+      "key": "Petr Parléř",
+      "values": [
+        "norského",
+        "německého",
+        "brazilského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ludwig Mies van der Rohe",
+      "values": [
+        "italského",
+        "německého",
+        "brazilského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavel Janák",
+      "values": [
+        "českého",
+        "slovinského",
+        "francouzského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Letzel",
+      "values": [
+        "českého",
+        "norského",
+        "španělského",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Johann Bernhard Fischer",
+      "values": [
+        "řeckého",
+        "rakouského",
+        "švýcarského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Giovanni Battista Alliprandi",
+      "values": [
+        "řeckého",
+        "slovenského",
+        "francouzského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Frédéric Auguste Bartholdi",
+      "values": [
+        "francouzského",
+        "norského",
+        "slovenského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stanislav Bechyně",
+      "values": [
+        "rakouského",
+        "amerického",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ernst Ludwig Kirchner",
+      "values": [
+        "slovenského",
+        "italského",
+        "německého",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jindřich Kumpošt",
+      "values": [
+        "švýcarského",
+        "českého",
+        "norského",
+        "německého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

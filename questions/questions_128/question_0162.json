@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle klasicistní stavby",
+  "questions": [
+    {
+      "key": "Braniborská brána",
+      "values": [
+        "Německo",
+        "Slovensko",
+        "Belgie",
+        "Maďarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Malý Trianon",
+      "values": [
+        "Česko",
+        "Francie",
+        "Slovensko",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sándorův palác",
+      "values": [
+        "Německo",
+        "Slovensko",
+        "Maďarsko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Královská rezidence Mnichov",
+      "values": [
+        "Francie",
+        "Itálie",
+        "Česko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Teatro La Fenice",
+      "values": [
+        "Maďarsko",
+        "Itálie",
+        "Belgie",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Staré muzeum",
+      "values": [
+        "Francie",
+        "Německo",
+        "Česko",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Maxmiliánův vodovod",
+      "values": [
+        "Slovensko",
+        "Maďarsko",
+        "Francie",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dorotin altán",
+      "values": [
+        "Slovensko",
+        "Francie",
+        "Itálie",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Konvikt svatých Andělů",
+      "values": [
+        "Česko",
+        "Itálie",
+        "Slovensko",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Primaciální palác",
+      "values": [
+        "Slovensko",
+        "Francie",
+        "Německo",
+        "Maďarsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle řeky",
+  "questions": [
+    {
+      "key": "Berounka",
+      "values": [
+        "Lucembursko",
+        "Česko",
+        "Itálie",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Svratka",
+      "values": [
+        "Francie",
+        "Česko",
+        "Španělsko",
+        "Lotyšsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Váh",
+      "values": [
+        "Kazachstán",
+        "Slovensko",
+        "Pákistán",
+        "Španělsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Loira",
+      "values": [
+        "Lotyšsko",
+        "Řecko",
+        "Francie",
+        "Pákistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tibera",
+      "values": [
+        "Itálie",
+        "Rusko",
+        "Portugalsko",
+        "Lotyšsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Úpa",
+      "values": [
+        "Česko",
+        "Španělsko",
+        "Srbsko",
+        "Lotyšsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Neretva",
+      "values": [
+        "Guyana",
+        "Chorvatsko",
+        "Litva",
+        "Kazachstán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dněstr",
+      "values": [
+        "Guyana",
+        "Polsko",
+        "Moldavsko",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Úslava",
+      "values": [
+        "Portugalsko",
+        "Česko",
+        "Řecko",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aara",
+      "values": [
+        "Lucembursko",
+        "Bangladéš",
+        "Itálie",
+        "Švýcarsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

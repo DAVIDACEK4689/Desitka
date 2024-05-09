@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistku?",
+  "questions": [
+    {
+      "key": "Kateřina Siniaková",
+      "values": [
+        "běloruskou",
+        "řeckou",
+        "rumunskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tereza Martincová",
+      "values": [
+        "estonskou",
+        "egyptskou",
+        "ukrajinskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nicole Vaidišová",
+      "values": [
+        "českou",
+        "běloruskou",
+        "nizozemskou",
+        "dánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Angelique Kerberová",
+      "values": [
+        "německou",
+        "nizozemskou",
+        "rumunskou",
+        "černohorskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Taylor Townsendová",
+      "values": [
+        "maďarskou",
+        "americkou",
+        "srbskou",
+        "slovenskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Renata Voráčová",
+      "values": [
+        "československou",
+        "kanadskou",
+        "francouzskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Maria Kirilenková",
+      "values": [
+        "ukrajinskou",
+        "českou",
+        "srbskou",
+        "ruskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Flavia Pennettaová",
+      "values": [
+        "italskou",
+        "německou",
+        "čínskou",
+        "indickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Céline Naefová",
+      "values": [
+        "belgickou",
+        "španělskou",
+        "polskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ču Lin",
+      "values": [
+        "italskou",
+        "belgickou",
+        "čínskou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

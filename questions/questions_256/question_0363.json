@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalového trenéra?",
+  "questions": [
+    {
+      "key": "Ivan Hašek",
+      "values": [
+        "francouzského",
+        "španělského",
+        "českého",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Johan Cruijff",
+      "values": [
+        "velšského",
+        "nizozemského",
+        "německého",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Suchopárek",
+      "values": [
+        "českého",
+        "chorvatského",
+        "portugalského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Václav Kotal",
+      "values": [
+        "českého",
+        "německého",
+        "australského",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Andrea Pirlo",
+      "values": [
+        "nizozemského",
+        "anglického",
+        "srbského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Antonio Conte",
+      "values": [
+        "bulharského",
+        "slovenského",
+        "italského",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miroslav Isteník",
+      "values": [
+        "českého",
+        "německého",
+        "velšského",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jozef Adamec",
+      "values": [
+        "ukrajinského",
+        "brazilského",
+        "rumunského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Frank Rijkaard",
+      "values": [
+        "nizozemského",
+        "dánského",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hugo Sánchez",
+      "values": [
+        "rumunského",
+        "irského",
+        "mexického",
+        "italského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

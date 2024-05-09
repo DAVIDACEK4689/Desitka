@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] automobilového závodníka?",
+  "questions": [
+    {
+      "key": "Ken Block",
+      "values": [
+        "ruského",
+        "rakouského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dalibor Gondík",
+      "values": [
+        "československého",
+        "belgického",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oscar Piastri",
+      "values": [
+        "českého",
+        "australského",
+        "francouzského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Patrick Dempsey",
+      "values": [
+        "československého",
+        "amerického",
+        "monackého",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fabien Barthez",
+      "values": [
+        "švýcarského",
+        "francouzského",
+        "amerického",
+        "belgického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivan Hodáč",
+      "values": [
+        "československého",
+        "belgického",
+        "italského",
+        "monackého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Enzo Fittipaldi",
+      "values": [
+        "amerického",
+        "britského",
+        "italského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jindřich Hudeček",
+      "values": [
+        "monackého",
+        "švýcarského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Manfred von Brauchitsch",
+      "values": [
+        "československého",
+        "amerického",
+        "ruského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dan Gurney",
+      "values": [
+        "amerického",
+        "italského",
+        "československého",
+        "španělského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

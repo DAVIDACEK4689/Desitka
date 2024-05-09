@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Kim Kardashianová",
+      "values": [
+        "americkou",
+        "japonskou",
+        "indickou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dakota Johnsonová",
+      "values": [
+        "americkou",
+        "venezuelskou",
+        "francouzskou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Anna Kadeřávková",
+      "values": [
+        "namibijskou",
+        "nizozemskou",
+        "českou",
+        "dánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tyra Banksová",
+      "values": [
+        "britskou",
+        "ruskou",
+        "americkou",
+        "australskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lucie Hadašová",
+      "values": [
+        "nizozemskou",
+        "českou",
+        "švýcarskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jennifer Beals",
+      "values": [
+        "italskou",
+        "dánskou",
+        "německou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Linda Evangelista",
+      "values": [
+        "kanadskou",
+        "německou",
+        "francouzskou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mia Goth",
+      "values": [
+        "japonskou",
+        "americkou",
+        "indickou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tereza Fajksová",
+      "values": [
+        "německou",
+        "indickou",
+        "brazilskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tanya Robertsová",
+      "values": [
+        "polskou",
+        "maďarskou",
+        "americkou",
+        "kanadskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

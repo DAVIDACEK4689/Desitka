@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Jan Hartl",
+      "values": [
+        "českého",
+        "čínského",
+        "venezuelského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miloš Hlavica",
+      "values": [
+        "indonéského",
+        "českého",
+        "chilského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Peter Dinklage",
+      "values": [
+        "mexického",
+        "indonéského",
+        "amerického",
+        "tureckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Paolo Villaggio",
+      "values": [
+        "italského",
+        "australského",
+        "ukrajinského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Milan Bahúl",
+      "values": [
+        "německého",
+        "slovenského",
+        "dánského",
+        "marockého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Matthias Schweighöfer",
+      "values": [
+        "německého",
+        "malajsijského",
+        "ukrajinského",
+        "jihoafrického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jamie Waylett",
+      "values": [
+        "britského",
+        "belgického",
+        "německého",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Július Vašek",
+      "values": [
+        "nizozemského",
+        "thajského",
+        "slovenského",
+        "islandského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Noël Czuczor",
+      "values": [
+        "srbského",
+        "chilského",
+        "ukrajinského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zbigniew Cybulski",
+      "values": [
+        "gruzínského",
+        "polského",
+        "portugalského",
+        "norského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

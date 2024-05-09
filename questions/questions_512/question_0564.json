@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Eric Trump",
+      "values": [
+        "amerického",
+        "švýcarského",
+        "slovenského",
+        "libanonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexander Babiš",
+      "values": [
+        "amerického",
+        "kanadského",
+        "německého",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "MrBeast",
+      "values": [
+        "ruského",
+        "libanonského",
+        "amerického",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Slávek Boura",
+      "values": [
+        "českého",
+        "rakouského",
+        "švýcarského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rupert Murdoch",
+      "values": [
+        "francouzského",
+        "švýcarského",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Emanuele Ridi",
+      "values": [
+        "italského",
+        "německého",
+        "francouzského",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert Kiyosaki",
+      "values": [
+        "amerického",
+        "švýcarského",
+        "rakouského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Benedict Arnold",
+      "values": [
+        "švédského",
+        "amerického",
+        "francouzského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Antonín Charouz",
+      "values": [
+        "ukrajinského",
+        "českého",
+        "libanonského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Albert Göring",
+      "values": [
+        "německého",
+        "řeckého",
+        "švýcarského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

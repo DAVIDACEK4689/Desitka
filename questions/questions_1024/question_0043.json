@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Neapol",
+      "values": [
+        "Senegal",
+        "Irsko",
+        "Itálie",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tel Aviv",
+      "values": [
+        "Malta",
+        "Izrael",
+        "Finsko",
+        "Egypt"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hirošima",
+      "values": [
+        "Švýcarsko",
+        "Estonsko",
+        "Dánsko",
+        "Japonsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Helsinky",
+      "values": [
+        "Ukrajina",
+        "Finsko",
+        "Ázerbájdžán",
+        "Senegal"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oděsa",
+      "values": [
+        "Ukrajina",
+        "Ázerbájdžán",
+        "Norsko",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Buenos Aires",
+      "values": [
+        "Nizozemsko",
+        "Řecko",
+        "Nigérie",
+        "Argentina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pula",
+      "values": [
+        "Chorvatsko",
+        "Francie",
+        "Španělsko",
+        "Maroko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Heráklion",
+      "values": [
+        "Řecko",
+        "Maroko",
+        "Nizozemsko",
+        "Finsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ceuta",
+      "values": [
+        "Švýcarsko",
+        "Dánsko",
+        "Španělsko",
+        "Malta"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kolobřeh",
+      "values": [
+        "Ázerbájdžán",
+        "Ukrajina",
+        "Polsko",
+        "Estonsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte obor podle průkopníka",
+  "questions": [
+    {
+      "key": "Elon Musk",
+      "values": [
+        "sport",
+        "automobilismus",
+        "kinematografie",
+        "internet"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Charlie Chaplin",
+      "values": [
+        "sport",
+        "kinematografie",
+        "automobilismus",
+        "železnice"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ferdinand Porsche",
+      "values": [
+        "internet",
+        "letectví",
+        "automobilismus",
+        "sport"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miroslav Tyrš",
+      "values": [
+        "sport",
+        "kinematografie",
+        "železnice",
+        "internet"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Enzo Ferrari",
+      "values": [
+        "automobilismus",
+        "kinematografie",
+        "železnice",
+        "sport"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karl Benz",
+      "values": [
+        "automobilismus",
+        "sport",
+        "počítač",
+        "kinematografie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rudolf Diesel",
+      "values": [
+        "automobilismus",
+        "počítač",
+        "kinematografie",
+        "železnice"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Steve Wozniak",
+      "values": [
+        "automobilismus",
+        "kinematografie",
+        "počítač",
+        "železnice"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Charles Lindbergh",
+      "values": [
+        "letectví",
+        "kinematografie",
+        "automobilismus",
+        "počítač"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Auguste a Louis Lumièrové",
+      "values": [
+        "sport",
+        "letectví",
+        "automobilismus",
+        "kinematografie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

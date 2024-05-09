@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte kontinent podle fauny",
+  "questions": [
+    {
+      "key": "Panda velká",
+      "values": [
+        "Asie",
+        "Severní Amerika",
+        "Střední Amerika",
+        "Antarktida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Srnec obecný",
+      "values": [
+        "Afrika",
+        "Asie",
+        "Evropa",
+        "Střední Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Irbis",
+      "values": [
+        "Evropa",
+        "Asie",
+        "Afrika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Piraňa obecná",
+      "values": [
+        "Jižní Amerika",
+        "Evropa",
+        "Antarktida",
+        "Afrika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kalmar Hamiltonův",
+      "values": [
+        "Jižní Amerika",
+        "Severní Amerika",
+        "Evropa",
+        "Antarktida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hrabáč kapský",
+      "values": [
+        "Asie",
+        "Evropa",
+        "Afrika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Levhart obláčkový",
+      "values": [
+        "Afrika",
+        "Evropa",
+        "Střední Amerika",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Velryba jižní",
+      "values": [
+        "Střední Amerika",
+        "Jižní Amerika",
+        "Evropa",
+        "Antarktida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Žirafa Rothschildova",
+      "values": [
+        "Jižní Amerika",
+        "Severní Amerika",
+        "Afrika",
+        "Asie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Daman skalní",
+      "values": [
+        "Afrika",
+        "Střední Amerika",
+        "Severní Amerika",
+        "Asie"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

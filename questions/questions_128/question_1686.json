@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] bankéře?",
+  "questions": [
+    {
+      "key": "Nicholas Winton",
+      "values": [
+        "ruského",
+        "britského",
+        "slovenského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michal Kováč",
+      "values": [
+        "československého",
+        "českého",
+        "ruského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaroslav Preiss",
+      "values": [
+        "italského",
+        "britského",
+        "československého",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Kysilka",
+      "values": [
+        "československého",
+        "italského",
+        "českého",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "František Staněk",
+      "values": [
+        "českého",
+        "britského",
+        "slovenského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mario Draghi",
+      "values": [
+        "britského",
+        "českého",
+        "italského",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Otto Petschek",
+      "values": [
+        "německého",
+        "českého",
+        "britského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vladislav Surkov",
+      "values": [
+        "ruského",
+        "českého",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Isidor Zahradník",
+      "values": [
+        "slovenského",
+        "ruského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Šimonek",
+      "values": [
+        "rumunského",
+        "britského",
+        "českého",
+        "československého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

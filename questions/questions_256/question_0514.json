@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebníka?",
+  "questions": [
+    {
+      "key": "Ryan Gosling",
+      "values": [
+        "norského",
+        "kanadského",
+        "portorického",
+        "jugoslávského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hellmut Sickel",
+      "values": [
+        "ukrajinského",
+        "japonského",
+        "španělského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Separ",
+      "values": [
+        "brazilského",
+        "ukrajinského",
+        "arménského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Theo James",
+      "values": [
+        "italského",
+        "nizozemského",
+        "britského",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jonáš Ledecký",
+      "values": [
+        "amerického",
+        "bulharského",
+        "jihokorejského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sonny Bono",
+      "values": [
+        "italského",
+        "amerického",
+        "německého",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Radan Dolejš",
+      "values": [
+        "ukrajinského",
+        "českého",
+        "švédského",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Liam Howlett",
+      "values": [
+        "irského",
+        "francouzského",
+        "britského",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alex Švamberk",
+      "values": [
+        "slovenského",
+        "českého",
+        "chorvatského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Arthur Honegger",
+      "values": [
+        "švýcarského",
+        "italského",
+        "řeckého",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

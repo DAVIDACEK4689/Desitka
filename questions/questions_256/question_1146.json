@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Karel Poborský",
+      "values": [
+        "českého",
+        "japonského",
+        "francouzského",
+        "kostarického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Roberto Carlos",
+      "values": [
+        "bulharského",
+        "brazilského",
+        "kamerunského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Škrtel",
+      "values": [
+        "gruzínského",
+        "slovenského",
+        "rakouského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marián Čišovský",
+      "values": [
+        "anglického",
+        "velšského",
+        "slovenského",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ousmane Dembélé",
+      "values": [
+        "francouzského",
+        "švýcarského",
+        "nizozemského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Christo Stoičkov",
+      "values": [
+        "nigerijského",
+        "gambijského",
+        "irského",
+        "bulharského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michael Ballack",
+      "values": [
+        "českého",
+        "anglického",
+        "německého",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zico",
+      "values": [
+        "brazilského",
+        "ruského",
+        "ekvádorského",
+        "skotského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nani",
+      "values": [
+        "portugalského",
+        "velšského",
+        "senegalského",
+        "severoirského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David Ospina",
+      "values": [
+        "egyptského",
+        "československého",
+        "kolumbijského",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete sport podle české sportovkyně",
+  "questions": [
+    {
+      "key": "Petra Kvitová",
+      "values": [
+        "cyklistka",
+        "rychlobruslařka",
+        "šachistky",
+        "tenistka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Linda Fruhvirtová",
+      "values": [
+        "sportovní střelkyně",
+        "fotbalistka",
+        "basketbalistka",
+        "tenistka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marcela Skuherská",
+      "values": [
+        "florbalistky",
+        "fotbalistka",
+        "lední hokejistky",
+        "tenistka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Barbora Seemanová",
+      "values": [
+        "fotbalistka",
+        "veslařka",
+        "plavkyně",
+        "orientační běžkyně"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alena Mills",
+      "values": [
+        "atletka",
+        "stolní tenistka",
+        "orientační běžkyně",
+        "lední hokejistky"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Barbora Palicová",
+      "values": [
+        "orientační běžkyně",
+        "atletka",
+        "tenistka",
+        "lední hokejistky"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Věra Menčíková",
+      "values": [
+        "orientační běžkyně",
+        "házenkářka",
+        "šachistky",
+        "rychlobruslařka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Barbora Hlavicová",
+      "values": [
+        "tenistka",
+        "cyklistka",
+        "florbalistky",
+        "krasobruslařka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ivana Večeřová",
+      "values": [
+        "volejbalistka",
+        "stolní tenistka",
+        "basketbalistka",
+        "orientační běžkyně"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kateřina Beránková",
+      "values": [
+        "golfistky",
+        "cyklistka",
+        "rychlobruslařka",
+        "krasobruslařka"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

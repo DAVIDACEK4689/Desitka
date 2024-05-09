@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Kristýna Boková",
+      "values": [
+        "kubánskou",
+        "uzbeckou",
+        "jihoafrickou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Patricie Pagáčová",
+      "values": [
+        "argentinskou",
+        "českou",
+        "kanadskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hana Baroňová",
+      "values": [
+        "brazilskou",
+        "českou",
+        "argentinskou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michelle Yeoh",
+      "values": [
+        "brazilskou",
+        "francouzskou",
+        "čínskou",
+        "jihoafrickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Carmen Electra",
+      "values": [
+        "americkou",
+        "slovenskou",
+        "jihokorejskou",
+        "novozélandskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Teresa Palmer",
+      "values": [
+        "belgickou",
+        "izraelskou",
+        "německou",
+        "australskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zuzana Kolářová",
+      "values": [
+        "řeckou",
+        "francouzskou",
+        "českou",
+        "dánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Faith Evans",
+      "values": [
+        "švédskou",
+        "čínskou",
+        "americkou",
+        "maďarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anne Dudek",
+      "values": [
+        "bulharskou",
+        "slovenskou",
+        "izraelskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chloe Bennet",
+      "values": [
+        "tureckou",
+        "uzbeckou",
+        "španělskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

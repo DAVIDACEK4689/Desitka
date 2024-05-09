@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] novináře?",
+  "questions": [
+    {
+      "key": "Vítězslav Hálek",
+      "values": [
+        "japonského",
+        "rakouského",
+        "bulharského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stieg Larsson",
+      "values": [
+        "českého",
+        "švédského",
+        "chorvatského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miloš Čermák",
+      "values": [
+        "mexického",
+        "francouzského",
+        "českého",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "José Martí",
+      "values": [
+        "australského",
+        "sovětského",
+        "kubánského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "František Herites",
+      "values": [
+        "slovinského",
+        "belgického",
+        "českého",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "John Reed",
+      "values": [
+        "ruského",
+        "amerického",
+        "německého",
+        "saúdskoarabského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miroslav Florian",
+      "values": [
+        "českého",
+        "chorvatského",
+        "izraelského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Holub",
+      "values": [
+        "chorvatského",
+        "sovětského",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Antonín Brousek",
+      "values": [
+        "sovětského",
+        "kolumbijského",
+        "finského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Štefan Hríb",
+      "values": [
+        "slovenského",
+        "izraelského",
+        "nizozemského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

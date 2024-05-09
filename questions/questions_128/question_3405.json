@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Daniel Nekonečný",
+      "values": [
+        "italského",
+        "maďarského",
+        "českého",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michal Kavalčík",
+      "values": [
+        "islandského",
+        "skotského",
+        "rumunského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ray Charles",
+      "values": [
+        "belgického",
+        "jihoafrického",
+        "amerického",
+        "argentinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miloš Dodo Doležal",
+      "values": [
+        "českého",
+        "moldavského",
+        "mexického",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Phil Anselmo",
+      "values": [
+        "irského",
+        "amerického",
+        "sovětského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jason Derulo",
+      "values": [
+        "novozélandského",
+        "amerického",
+        "slovenského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "David Draiman",
+      "values": [
+        "amerického",
+        "australského",
+        "italského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "J Balvin",
+      "values": [
+        "kanadského",
+        "portorického",
+        "sovětského",
+        "kolumbijského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ezdráš Egon Hýbl",
+      "values": [
+        "novozélandského",
+        "švédského",
+        "belgického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Otto Weiter",
+      "values": [
+        "ruského",
+        "španělského",
+        "slovenského",
+        "italského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

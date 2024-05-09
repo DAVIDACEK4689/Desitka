@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle válku",
+  "questions": [
+    {
+      "key": "Válka na Donbase",
+      "values": [
+        "Japonsko",
+        "starověký Řím",
+        "Ukrajina",
+        "Irsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Punské války",
+      "values": [
+        "Nizozemsko",
+        "starověký Řím",
+        "Sovětský svaz",
+        "Etiopie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Reconquista",
+      "values": [
+        "Uganda",
+        "Portugalsko",
+        "Japonsko",
+        "Pákistán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Válka s emuy",
+      "values": [
+        "Izrael",
+        "Ruské impérium",
+        "Japonsko",
+        "Austrálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Druhá búrská válka",
+      "values": [
+        "starověký Řím",
+        "Sýrie",
+        "Austrálie",
+        "Irsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Válka v Podněstří",
+      "values": [
+        "Rusko",
+        "Anglie",
+        "Uganda",
+        "Řecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vpád pasovských",
+      "values": [
+        "starověký Řím",
+        "Chorvatsko",
+        "Česko",
+        "Anglie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Válka Bošin",
+      "values": [
+        "Japonsko",
+        "Rusko",
+        "Ukrajina",
+        "Etiopie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Velikonoční povstání",
+      "values": [
+        "Japonsko",
+        "Spojené království",
+        "Byzantská říše",
+        "Irsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sacumské povstání",
+      "values": [
+        "Polsko",
+        "Japonsko",
+        "Austrálie",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

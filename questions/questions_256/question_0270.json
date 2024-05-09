@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle letiště",
+  "questions": [
+    {
+      "key": "Letecká základna Ramstein",
+      "values": [
+        "Německo",
+        "Dánsko",
+        "Slovensko",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Letiště Frankfurt nad Mohanem",
+      "values": [
+        "Česko",
+        "Kiribati",
+        "Belgie",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Letiště Palma de Mallorca",
+      "values": [
+        "Palestinské území",
+        "Slovensko",
+        "Polsko",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Letiště Mnichov",
+      "values": [
+        "Německo",
+        "Island",
+        "Rakousko",
+        "Portugalsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Letiště Antalya",
+      "values": [
+        "Řecko",
+        "Turecko",
+        "Španělsko",
+        "Německo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mezinárodní letiště Marsa Alam",
+      "values": [
+        "Turecko",
+        "Švýcarsko",
+        "Německo",
+        "Egypt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mezinárodní letiště Bonriki",
+      "values": [
+        "Španělsko",
+        "Kiribati",
+        "Turecko",
+        "Island"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Letiště Brusel",
+      "values": [
+        "Portugalsko",
+        "Belgie",
+        "Švýcarsko",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Letiště Sliač",
+      "values": [
+        "Island",
+        "Česko",
+        "Španělsko",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Letiště Kodaň",
+      "values": [
+        "Polsko",
+        "Španělsko",
+        "Řecko",
+        "Dánsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

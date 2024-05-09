@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "Anežka Česká",
+      "values": [
+        "kanadského",
+        "portugalského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Valentino Rossi",
+      "values": [
+        "italského",
+        "amerického",
+        "maďarského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lucky Luciano",
+      "values": [
+        "britského",
+        "českého",
+        "italského",
+        "litevského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sergio Mattarella",
+      "values": [
+        "italského",
+        "českého",
+        "monackého",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Girolamo Savonarola",
+      "values": [
+        "francouzského",
+        "italského",
+        "amerického",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Viktor Emanuel Savojský",
+      "values": [
+        "německého",
+        "maďarského",
+        "italského",
+        "monackého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Bratinka",
+      "values": [
+        "kanadského",
+        "českého",
+        "portugalského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pál Schmitt",
+      "values": [
+        "monackého",
+        "francouzského",
+        "švýcarského",
+        "maďarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Helena Zrínská",
+      "values": [
+        "monackého",
+        "maďarského",
+        "italského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Giuseppe Tomasi di Lampedusa",
+      "values": [
+        "amerického",
+        "maďarského",
+        "kanadského",
+        "italského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

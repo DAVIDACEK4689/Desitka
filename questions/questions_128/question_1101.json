@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [národnost] komunistu?",
+  "questions": [
+    {
+      "key": "Jana Michailidu",
+      "values": [
+        "českého",
+        "jugoslávského",
+        "polského",
+        "čínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Julius a Ethel Rosenbergovi",
+      "values": [
+        "portugalského",
+        "brazilského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Béla Kun",
+      "values": [
+        "bulharského",
+        "francouzského",
+        "slovenského",
+        "maďarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gennadij Zjuganov",
+      "values": [
+        "maďarského",
+        "bulharského",
+        "německého",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karl Liebknecht",
+      "values": [
+        "německého",
+        "sovětského",
+        "slovenského",
+        "kambodžského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "José Saramago",
+      "values": [
+        "španělského",
+        "sovětského",
+        "řeckého",
+        "portugalského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Imre Lakatos",
+      "values": [
+        "čínského",
+        "maďarského",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marinus van der Lubbe",
+      "values": [
+        "moldavského",
+        "britského",
+        "nizozemského",
+        "vietnamského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mircea Snegur",
+      "values": [
+        "německého",
+        "amerického",
+        "moldavského",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aleksandar Ranković",
+      "values": [
+        "maďarského",
+        "českého",
+        "francouzského",
+        "jugoslávského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

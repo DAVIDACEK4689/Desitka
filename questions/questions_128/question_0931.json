@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] malíře?",
+  "questions": [
+    {
+      "key": "John Wayne Gacy",
+      "values": [
+        "amerického",
+        "kanadského",
+        "ukrajinského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "El Greco",
+      "values": [
+        "italského",
+        "izraelského",
+        "řeckého",
+        "běloruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mark Rothko",
+      "values": [
+        "novozélandského",
+        "amerického",
+        "litevského",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paul Signac",
+      "values": [
+        "kanadského",
+        "švýcarského",
+        "francouzského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pieter Brueghel mladší",
+      "values": [
+        "finského",
+        "chilského",
+        "nizozemského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Kotrba",
+      "values": [
+        "belgického",
+        "nizozemského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "František Tkadlík",
+      "values": [
+        "českého",
+        "polského",
+        "kolumbijského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vasilij Vasiljevič Věreščagin",
+      "values": [
+        "japonského",
+        "ruského",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "John Singer Sargent",
+      "values": [
+        "amerického",
+        "dánského",
+        "chilského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Thomas Cole",
+      "values": [
+        "amerického",
+        "mexického",
+        "kolumbijského",
+        "českého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] malíře?",
+  "questions": [
+    {
+      "key": "Sandro Botticelli",
+      "values": [
+        "italského",
+        "amerického",
+        "chorvatského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eugène Delacroix",
+      "values": [
+        "chorvatského",
+        "francouzského",
+        "polského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Umberto Boccioni",
+      "values": [
+        "italského",
+        "kanadského",
+        "ukrajinského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Aegidius Sadeler",
+      "values": [
+        "belgického",
+        "slovenského",
+        "nizozemského",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivan Ivanovič Šiškin",
+      "values": [
+        "dánského",
+        "polského",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ludwig Blum",
+      "values": [
+        "chorvatského",
+        "francouzského",
+        "novozélandského",
+        "izraelského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Camillo Sitte",
+      "values": [
+        "francouzského",
+        "rakouského",
+        "litevského",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Bergler",
+      "values": [
+        "dánského",
+        "chilského",
+        "chorvatského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Georg Baselitz",
+      "values": [
+        "německého",
+        "slovenského",
+        "finského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hyacinthe Rigaud",
+      "values": [
+        "dánského",
+        "slovenského",
+        "belgického",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

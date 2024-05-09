@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle lázně",
+  "questions": [
+    {
+      "key": "Zakopané",
+      "values": [
+        "Belgie",
+        "Polsko",
+        "Spojené království",
+        "Rakousko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Piešťany",
+      "values": [
+        "Litva",
+        "Spojené království",
+        "Slovensko",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mosonmagyaróvár",
+      "values": [
+        "Řecko",
+        "Belgie",
+        "Ukrajina",
+        "Maďarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Wiesbaden",
+      "values": [
+        "Belgie",
+        "Španělsko",
+        "Německo",
+        "Litva"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bled",
+      "values": [
+        "Ukrajina",
+        "Slovinsko",
+        "Francie",
+        "Belgie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Balatonfüred",
+      "values": [
+        "Itálie",
+        "Řecko",
+        "Maďarsko",
+        "Lotyšsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bad Reichenhall",
+      "values": [
+        "Německo",
+        "Lotyšsko",
+        "Řecko",
+        "Gruzie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pjatigorsk",
+      "values": [
+        "Rakousko",
+        "Německo",
+        "Rusko",
+        "Spojené království"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gyula",
+      "values": [
+        "Maďarsko",
+        "Itálie",
+        "Polsko",
+        "Spojené království"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gelendžik",
+      "values": [
+        "Španělsko",
+        "Itálie",
+        "Rusko",
+        "Estonsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

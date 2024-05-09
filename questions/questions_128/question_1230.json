@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalovou soutěž?",
+  "questions": [
+    {
+      "key": "Premier League",
+      "values": [
+        "anglickou",
+        "belgickou",
+        "československou",
+        "španělskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ligue 1",
+      "values": [
+        "španělskou",
+        "českou",
+        "francouzskou",
+        "anglickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Community Shield",
+      "values": [
+        "chorvatskou",
+        "norskou",
+        "anglickou",
+        "rumunskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ekstraklasa",
+      "values": [
+        "nizozemskou",
+        "dánskou",
+        "tureckou",
+        "polskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Divize C",
+      "values": [
+        "polskou",
+        "italskou",
+        "lotyšskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "EFL League One",
+      "values": [
+        "irskou",
+        "československou",
+        "anglickou",
+        "nizozemskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Supercopa de España",
+      "values": [
+        "španělskou",
+        "švédskou",
+        "francouzskou",
+        "lotyšskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Audi Cup",
+      "values": [
+        "maďarskou",
+        "německou",
+        "portugalskou",
+        "dánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Superligaen",
+      "values": [
+        "portugalskou",
+        "švédskou",
+        "norskou",
+        "dánskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eliteserien",
+      "values": [
+        "skotskou",
+        "dánskou",
+        "maďarskou",
+        "norskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

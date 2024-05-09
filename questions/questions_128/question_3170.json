@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle vodstva",
+  "questions": [
+    {
+      "key": "Boka Kotorska",
+      "values": [
+        "Estonsko",
+        "Spojené království",
+        "Turecko",
+        "Černá Hora"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marmarské moře",
+      "values": [
+        "Turecko",
+        "Jižní Korea",
+        "Egypt",
+        "Írán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ha Long",
+      "values": [
+        "Egypt",
+        "Řecko",
+        "Norsko",
+        "Vietnam"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Krétské moře",
+      "values": [
+        "Madagaskar",
+        "Japonsko",
+        "Norsko",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ochotské moře",
+      "values": [
+        "Írán",
+        "Japonsko",
+        "Jižní Korea",
+        "Estonsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Delta Nilu",
+      "values": [
+        "Ukrajina",
+        "Estonsko",
+        "Egypt",
+        "Jižní Korea"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Finský záliv",
+      "values": [
+        "Egypt",
+        "Řecko",
+        "Estonsko",
+        "Irsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Japonské moře",
+      "values": [
+        "Japonsko",
+        "Turecko",
+        "Madagaskar",
+        "Jižní Korea"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Korintský záliv",
+      "values": [
+        "Island",
+        "Řecko",
+        "Jižní Korea",
+        "Turecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Torresův průliv",
+      "values": [
+        "Turecko",
+        "Papua Nová Guinea",
+        "Estonsko",
+        "Řecko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

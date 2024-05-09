@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Linda Finková",
+      "values": [
+        "francouzskou",
+        "argentinskou",
+        "nizozemskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zdenka Procházková",
+      "values": [
+        "francouzskou",
+        "íránskou",
+        "nizozemskou",
+        "rakouskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Barbora Jánová",
+      "values": [
+        "čínskou",
+        "českou",
+        "norskou",
+        "irskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martina Adamcová",
+      "values": [
+        "českou",
+        "rakouskou",
+        "francouzskou",
+        "kolumbijskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Galla Macků",
+      "values": [
+        "německou",
+        "australskou",
+        "českou",
+        "rakouskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sherilyn Fenn",
+      "values": [
+        "jihoafrickou",
+        "izraelskou",
+        "americkou",
+        "dánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kaia Gerberová",
+      "values": [
+        "belgickou",
+        "irskou",
+        "švýcarskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Summer Glau",
+      "values": [
+        "německou",
+        "americkou",
+        "nizozemskou",
+        "maďarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Papia Ghoshal",
+      "values": [
+        "indickou",
+        "srbskou",
+        "izraelskou",
+        "americkou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rachelle Lefevre",
+      "values": [
+        "kanadskou",
+        "novozélandskou",
+        "bulharskou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] právníka?",
+  "questions": [
+    {
+      "key": "Josef Baxa",
+      "values": [
+        "českého",
+        "britského",
+        "litevského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vojtěch Filip",
+      "values": [
+        "estonského",
+        "českého",
+        "švýcarského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Robert Pelikán",
+      "values": [
+        "českého",
+        "britského",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "János Áder",
+      "values": [
+        "peruánského",
+        "slovenského",
+        "srbského",
+        "maďarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Albín Bráf",
+      "values": [
+        "českého",
+        "britského",
+        "maďarského",
+        "izraelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Andrij Jermak",
+      "values": [
+        "srbského",
+        "rumunského",
+        "ukrajinského",
+        "peruánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michal Mazanec",
+      "values": [
+        "českého",
+        "litevského",
+        "mexického",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Holomek",
+      "values": [
+        "finského",
+        "řeckého",
+        "českého",
+        "litevského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "John Foster Dulles",
+      "values": [
+        "amerického",
+        "slovinského",
+        "řeckého",
+        "argentinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jens Böhrnsen",
+      "values": [
+        "srbského",
+        "lotyšského",
+        "německého",
+        "finského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

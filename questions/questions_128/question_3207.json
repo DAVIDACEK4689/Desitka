@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Vykoupení z věznice Shawshank",
+      "values": [
+        "David Silverman",
+        "Herbert Ross",
+        "James Ivory",
+        "Frank Darabont"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Útěk do divočiny",
+      "values": [
+        "Gore Verbinski",
+        "Sean Penn",
+        "George Lucas",
+        "Peter Hyams"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sirotčinec slečny Peregrinové pro podivné děti",
+      "values": [
+        "Herbert Ross",
+        "Joel Schumacher",
+        "David Frankel",
+        "Tim Burton"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mumie se vrací",
+      "values": [
+        "Richard Kelly",
+        "Stephen Sommers",
+        "Bill Duke",
+        "Nick Cassavetes"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Za zvuků hudby",
+      "values": [
+        "Robert Wise",
+        "Peter Hyams",
+        "Herbert Ross",
+        "Billy Wilder"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Černočerná tma",
+      "values": [
+        "James Mangold",
+        "David Twohy",
+        "Alan Taylor",
+        "Roger Kumble"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Návrat do budoucnosti III",
+      "values": [
+        "Robert Zemeckis",
+        "Mel Brooks",
+        "Stephen Sommers",
+        "Godfrey Reggio"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Velká ryba",
+      "values": [
+        "Tim Burton",
+        "Frank Darabont",
+        "Alfred Hitchcock",
+        "Howard Hawks"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Soylent Green",
+      "values": [
+        "Richard Fleischer",
+        "Richard Kelly",
+        "Rob Reiner",
+        "Alfred Hitchcock"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rudé horko",
+      "values": [
+        "Walter Hill",
+        "Clint Eastwood",
+        "Chloé Zhaová",
+        "Tom Shadyac"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

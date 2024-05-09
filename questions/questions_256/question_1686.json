@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] svatého?",
+  "questions": [
+    {
+      "key": "Jana z Arku",
+      "values": [
+        "českého",
+        "francouzského",
+        "libanonského",
+        "anglického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Antonín z Padovy",
+      "values": [
+        "rakouského",
+        "portugalského",
+        "německého",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexej Nikolajevič",
+      "values": [
+        "egyptského",
+        "ruského",
+        "libanonského",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Svatá Agáta",
+      "values": [
+        "ruského",
+        "italského",
+        "portugalského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Xaverský",
+      "values": [
+        "indického",
+        "českého",
+        "španělského",
+        "skotského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Boromejský",
+      "values": [
+        "italského",
+        "libanonského",
+        "polského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Taťána Nikolajevna",
+      "values": [
+        "ruského",
+        "libanonského",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Antonín Veliký",
+      "values": [
+        "egyptského",
+        "anglického",
+        "portugalského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Svatý Vendelín",
+      "values": [
+        "indického",
+        "polského",
+        "skotského",
+        "anglického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anaklét",
+      "values": [
+        "italského",
+        "egyptského",
+        "alžírského",
+        "skotského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

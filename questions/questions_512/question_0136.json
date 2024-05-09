@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Jiří Langmajer",
+      "values": [
+        "irského",
+        "venezuelského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gérard Depardieu",
+      "values": [
+        "španělského",
+        "norského",
+        "německého",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Jákl",
+      "values": [
+        "tureckého",
+        "českého",
+        "španělského",
+        "izraelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hugh Jackman",
+      "values": [
+        "australského",
+        "českého",
+        "ukrajinského",
+        "guatemalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "André the Giant",
+      "values": [
+        "tureckého",
+        "marockého",
+        "francouzského",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Jiráň",
+      "values": [
+        "českého",
+        "italského",
+        "ukrajinského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert Jašków",
+      "values": [
+        "irského",
+        "dánského",
+        "českého",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jamie Farr",
+      "values": [
+        "indického",
+        "guatemalského",
+        "amerického",
+        "malajsijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gustáv Valach",
+      "values": [
+        "nizozemského",
+        "slovenského",
+        "dánského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mark Hamill",
+      "values": [
+        "jihoafrického",
+        "maďarského",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Jiří Korn",
+      "values": [
+        "českého",
+        "rakouského",
+        "britského",
+        "islandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michal Malátný",
+      "values": [
+        "argentinského",
+        "německého",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Keith Flint",
+      "values": [
+        "izraelského",
+        "českého",
+        "polského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Hasselhoff",
+      "values": [
+        "německého",
+        "amerického",
+        "finského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chad Kroeger",
+      "values": [
+        "kanadského",
+        "alžírského",
+        "švýcarského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bing Crosby",
+      "values": [
+        "amerického",
+        "nizozemského",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Denny Doherty",
+      "values": [
+        "sovětského",
+        "srbského",
+        "kanadského",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Midge Ure",
+      "values": [
+        "dánského",
+        "skotského",
+        "norského",
+        "novozélandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Korál",
+      "values": [
+        "brazilského",
+        "českého",
+        "jihokorejského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ryan Adams",
+      "values": [
+        "kolumbijského",
+        "moldavského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

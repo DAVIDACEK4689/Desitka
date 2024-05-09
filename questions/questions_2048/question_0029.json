@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Liberec",
+      "values": [
+        "Metuje",
+        "Ohře",
+        "Lužická Nisa",
+        "Vltava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Berlín",
+      "values": [
+        "Temže",
+        "Spréva",
+        "Lužická Nisa",
+        "Jizera"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Český Krumlov",
+      "values": [
+        "Spréva",
+        "Vltava",
+        "Eufrat",
+        "Ploučnice"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mladá Boleslav",
+      "values": [
+        "Dněpr",
+        "Lužická Nisa",
+        "Něva",
+        "Jizera"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kyjev",
+      "values": [
+        "Dněpr",
+        "Něva",
+        "Spréva",
+        "Úhlava"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Břeclav",
+      "values": [
+        "Dunaj",
+        "Lužická Nisa",
+        "Rýn",
+        "Dyje"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Babylón",
+      "values": [
+        "Lužnice",
+        "Temže",
+        "Dunaj",
+        "Eufrat"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Osvětim",
+      "values": [
+        "Otava",
+        "Metuje",
+        "Visla",
+        "Sázava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Štrasburk",
+      "values": [
+        "Labe",
+        "Visla",
+        "Ohře",
+        "Rýn"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Varnsdorf",
+      "values": [
+        "Mandava",
+        "Tibera",
+        "Jizera",
+        "Dyje"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

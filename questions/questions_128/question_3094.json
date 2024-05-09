@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Hugo Haas",
+      "values": [
+        "japonského",
+        "českého",
+        "nizozemského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hynek Bočan",
+      "values": [
+        "estonského",
+        "slovinského",
+        "českého",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eduard Dubský",
+      "values": [
+        "novozélandského",
+        "českého",
+        "ukrajinského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gary Sinise",
+      "values": [
+        "francouzského",
+        "dánského",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Guillaume Canet",
+      "values": [
+        "německého",
+        "dánského",
+        "francouzského",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Yvan Attal",
+      "values": [
+        "francouzského",
+        "amerického",
+        "novozélandského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "John Carpenter",
+      "values": [
+        "amerického",
+        "českého",
+        "estonského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Noah Baumbach",
+      "values": [
+        "amerického",
+        "švýcarského",
+        "mexického",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Magnús Scheving",
+      "values": [
+        "islandského",
+        "kanadského",
+        "sovětského",
+        "indického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fisher Stevens",
+      "values": [
+        "českého",
+        "amerického",
+        "australského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

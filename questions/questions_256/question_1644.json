@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte autora podle stavby",
+  "questions": [
+    {
+      "key": "Petschkův palác",
+      "values": [
+        "Ludvík Kysela",
+        "Stanislav Hubička",
+        "Max Spielmann",
+        "Jaroslav Fragner"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Prozatímní divadlo",
+      "values": [
+        "Frank Lloyd Wright",
+        "Martin Rajniš",
+        "Richard Klenka",
+        "Vojtěch Ignác Ullmann"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Winternitzova vila",
+      "values": [
+        "Max Spielmann",
+        "Adolf Loos",
+        "Zaha Hadid",
+        "Gustave Eiffel"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ondřejovská hvězdárna",
+      "values": [
+        "Kilián Ignác Dientzenhofer",
+        "Jaroslav Fragner",
+        "Karel Prager",
+        "Josef Fanta"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Palác Koruna",
+      "values": [
+        "Alois Dryák",
+        "Stanislav Franc",
+        "Karel Prager",
+        "Matěj Blecha"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Guggenheimovo muzeum Bilbao",
+      "values": [
+        "Bohumír Kozák",
+        "Frank Gehry",
+        "Alois Dryák",
+        "Friedrich Ohmann"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kubistická lampa",
+      "values": [
+        "Emil Králíček",
+        "Frank Lloyd Wright",
+        "Ladislav Machoň",
+        "Carlo Lurago"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Býčí schodiště",
+      "values": [
+        "Jože Plečnik",
+        "Zaha Hadid",
+        "Ludvík Kysela",
+        "Stanislav Franc"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Budova Teplotechny",
+      "values": [
+        "Josef Gočár",
+        "Gustave Eiffel",
+        "Věra Machoninová",
+        "Bohumír Čermák"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Palác Merkur",
+      "values": [
+        "Adolf Loos",
+        "Jaroslav Fragner",
+        "Pavel Janák",
+        "Josef Gočár"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

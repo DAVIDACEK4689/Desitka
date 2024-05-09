@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Curych",
+      "values": [
+        "Severní Korea",
+        "Portugalsko",
+        "Švýcarsko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Podgorica",
+      "values": [
+        "Gambie",
+        "Černá Hora",
+        "Brunej",
+        "Norsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mariazell",
+      "values": [
+        "Estonsko",
+        "Bolívie",
+        "Uganda",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Plovdiv",
+      "values": [
+        "Severní Makedonie",
+        "Mexiko",
+        "Rumunsko",
+        "Bulharsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Antananarivo",
+      "values": [
+        "Tunisko",
+        "Gambie",
+        "Madagaskar",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ciudad Juárez",
+      "values": [
+        "Rumunsko",
+        "Írán",
+        "Myanmar",
+        "Mexiko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Veszprém",
+      "values": [
+        "Kyrgyzstán",
+        "Tunisko",
+        "Myanmar",
+        "Maďarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Knin",
+      "values": [
+        "Jemen",
+        "Chorvatsko",
+        "Ázerbájdžán",
+        "Slovinsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bandar Seri Begawan",
+      "values": [
+        "Brunej",
+        "Jordánsko",
+        "Španělsko",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sisak",
+      "values": [
+        "Mosambik",
+        "Brunej",
+        "Albánie",
+        "Chorvatsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

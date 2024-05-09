@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle muzea",
+  "questions": [
+    {
+      "key": "Královský palác v Madridu",
+      "values": [
+        "Španělsko",
+        "Česko",
+        "Spojené království",
+        "Německo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Guggenheimovo muzeum Bilbao",
+      "values": [
+        "Španělsko",
+        "Slovensko",
+        "Norsko",
+        "Německo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petropavlovská pevnost",
+      "values": [
+        "Rusko",
+        "Francie",
+        "Vatikán",
+        "Gruzie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vila Savoye",
+      "values": [
+        "Slovensko",
+        "Dánsko",
+        "Rusko",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tankové muzeum v Bovingtonu",
+      "values": [
+        "Rusko",
+        "Spojené království",
+        "Itálie",
+        "Nizozemsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Madurodam",
+      "values": [
+        "Španělsko",
+        "Austrálie",
+        "Nizozemsko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Muzea ve Florencii",
+      "values": [
+        "Austrálie",
+        "Francie",
+        "Itálie",
+        "Španělsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Muzejní noc",
+      "values": [
+        "Nizozemsko",
+        "Dánsko",
+        "Česko",
+        "Norsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Spolkový dům ve Skalici",
+      "values": [
+        "Německo",
+        "Slovensko",
+        "Spojené království",
+        "Rakousko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Städelovo muzeum",
+      "values": [
+        "Německo",
+        "Rusko",
+        "Rakousko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

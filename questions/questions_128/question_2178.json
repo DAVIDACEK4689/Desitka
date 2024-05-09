@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] videohru?",
+  "questions": [
+    {
+      "key": "Pokémon",
+      "values": [
+        "ruskou",
+        "kanadskou",
+        "americkou",
+        "japonskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Valorant",
+      "values": [
+        "rakouskou",
+        "jihokorejskou",
+        "ukrajinskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alan Wake",
+      "values": [
+        "kanadskou",
+        "čínskou",
+        "finskou",
+        "německou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Elektronika IM",
+      "values": [
+        "čínskou",
+        "srbskou",
+        "japonskou",
+        "ruskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lemmings",
+      "values": [
+        "australskou",
+        "ruskou",
+        "britskou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Yandere Simulator",
+      "values": [
+        "slovenskou",
+        "americkou",
+        "kanadskou",
+        "polskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Valheim",
+      "values": [
+        "švédskou",
+        "jihokorejskou",
+        "německou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Far Cry 2",
+      "values": [
+        "polskou",
+        "ukrajinskou",
+        "jihokorejskou",
+        "kanadskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Moorhuhn",
+      "values": [
+        "německou",
+        "dánskou",
+        "australskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Arkanoid",
+      "values": [
+        "slovenskou",
+        "švédskou",
+        "japonskou",
+        "islandskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

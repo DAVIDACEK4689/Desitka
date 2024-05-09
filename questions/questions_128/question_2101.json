@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] ekonoma?",
+  "questions": [
+    {
+      "key": "Miloš Zeman",
+      "values": [
+        "moldavského",
+        "skotského",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Klára Dostálová",
+      "values": [
+        "chilského",
+        "českého",
+        "ukrajinského",
+        "litevského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Engliš",
+      "values": [
+        "brazilského",
+        "belgického",
+        "českého",
+        "bulharského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hjalmar Schacht",
+      "values": [
+        "brazilského",
+        "francouzského",
+        "německého",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Schwarz",
+      "values": [
+        "českého",
+        "indického",
+        "brazilského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marek Mora",
+      "values": [
+        "německého",
+        "slovenského",
+        "norského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Kaizl",
+      "values": [
+        "ruského",
+        "kolumbijského",
+        "bangladéšského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Thomas Piketty",
+      "values": [
+        "britského",
+        "belgického",
+        "francouzského",
+        "moldavského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Řežábek",
+      "values": [
+        "norského",
+        "brazilského",
+        "chilského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Elinor Ostromová",
+      "values": [
+        "norského",
+        "peruánského",
+        "ukrajinského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

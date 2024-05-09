@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] duchovního?",
+  "questions": [
+    {
+      "key": "Jonathan Swift",
+      "values": [
+        "australského",
+        "albánského",
+        "anglického",
+        "íránského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Svatý Hubert",
+      "values": [
+        "egyptského",
+        "českého",
+        "australského",
+        "franského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Girolamo Savonarola",
+      "values": [
+        "albánského",
+        "amerického",
+        "italského",
+        "egyptského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pedro Calderón de la Barca",
+      "values": [
+        "anglického",
+        "amerického",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ralph Waldo Emerson",
+      "values": [
+        "albánského",
+        "italského",
+        "amerického",
+        "anglického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vladimír Petřek",
+      "values": [
+        "franského",
+        "českého",
+        "egyptského",
+        "íránského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Figulus Jablonský",
+      "values": [
+        "franského",
+        "íránského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nick Vujicic",
+      "values": [
+        "australského",
+        "českého",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Justin Welby",
+      "values": [
+        "anglického",
+        "australského",
+        "íránského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Špilar",
+      "values": [
+        "íránského",
+        "českého",
+        "amerického",
+        "anglického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

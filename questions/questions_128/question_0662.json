@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Petra Nesvačilová",
+      "values": [
+        "rakouskou",
+        "českou",
+        "americkou",
+        "irskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kateřina Marie Fialová",
+      "values": [
+        "uzbeckou",
+        "tureckou",
+        "kolumbijskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Irena Kačírková",
+      "values": [
+        "kolumbijskou",
+        "dánskou",
+        "australskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alexis Bledel",
+      "values": [
+        "indickou",
+        "českou",
+        "brazilskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Viktória Ráková",
+      "values": [
+        "dánskou",
+        "maďarskou",
+        "indickou",
+        "českou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ofra Haza",
+      "values": [
+        "argentinskou",
+        "rakouskou",
+        "izraelskou",
+        "norskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marta Krásová",
+      "values": [
+        "americkou",
+        "jihoafrickou",
+        "švýcarskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Florence Marlyová",
+      "values": [
+        "australskou",
+        "českou",
+        "mexickou",
+        "švédskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lena Olin",
+      "values": [
+        "francouzskou",
+        "dánskou",
+        "švédskou",
+        "tureckou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dominika Kavaschová",
+      "values": [
+        "íránskou",
+        "slovenskou",
+        "maďarskou",
+        "bulharskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

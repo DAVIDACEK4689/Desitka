@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle katedrály",
+  "questions": [
+    {
+      "key": "Chrám Vasila Blaženého",
+      "values": [
+        "Rusko",
+        "Česko",
+        "Rakousko",
+        "Brazílie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Katedrála v Santiago de Compostela",
+      "values": [
+        "Rakousko",
+        "Německo",
+        "Španělsko",
+        "Brazílie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Katedrála na Wawelu",
+      "values": [
+        "Brazílie",
+        "Rakousko",
+        "Německo",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Katedrála svatého Klimenta",
+      "values": [
+        "Česko",
+        "Brazílie",
+        "Německo",
+        "Rakousko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Katedrála svatého Ruperta a Virgila",
+      "values": [
+        "Česko",
+        "Rusko",
+        "Itálie",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Katedrála svatého Izáka",
+      "values": [
+        "Rusko",
+        "Německo",
+        "Rakousko",
+        "Brazílie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Katedrála v Bamberku",
+      "values": [
+        "Polsko",
+        "Brazílie",
+        "Německo",
+        "Španělsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Katedrála Panny Marie Almudenské",
+      "values": [
+        "Polsko",
+        "Španělsko",
+        "Rusko",
+        "Brazílie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Katedrála Zjevení Panny Marie",
+      "values": [
+        "Polsko",
+        "Brazílie",
+        "Španělsko",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Katedrála v Granadě",
+      "values": [
+        "Španělsko",
+        "Polsko",
+        "Česko",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

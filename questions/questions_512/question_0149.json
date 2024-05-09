@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Volodymyr Zelenskyj",
+      "values": [
+        "amerického",
+        "ukrajinského",
+        "jihoafrického",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavel Landovský",
+      "values": [
+        "českého",
+        "německého",
+        "marockého",
+        "jihoafrického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nicolas Cage",
+      "values": [
+        "novozélandského",
+        "ruského",
+        "amerického",
+        "indického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michal Kavalčík",
+      "values": [
+        "českého",
+        "maďarského",
+        "sovětského",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladimír Kratina",
+      "values": [
+        "britského",
+        "českého",
+        "švédského",
+        "malajsijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Heřmánek mladší",
+      "values": [
+        "francouzského",
+        "sovětského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Klem",
+      "values": [
+        "německého",
+        "amerického",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Caruso",
+      "values": [
+        "českého",
+        "amerického",
+        "tureckého",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nathan Fillion",
+      "values": [
+        "chilského",
+        "německého",
+        "kanadského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Connor Swindells",
+      "values": [
+        "kanadského",
+        "chilského",
+        "tureckého",
+        "britského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

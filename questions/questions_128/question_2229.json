@@ -1,0 +1,105 @@
+{
+  "text": "Určete sport podle české sportovkyně",
+  "questions": [
+    {
+      "key": "Alena Zárybnická",
+      "values": [
+        "cyklistka",
+        "krasobruslařka",
+        "sportovní střelkyně",
+        "lední hokejistky"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tereza Martincová",
+      "values": [
+        "volejbalistka",
+        "horolezci",
+        "golfistky",
+        "tenistka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jessica Kordová",
+      "values": [
+        "házenkářka",
+        "basketbalistka",
+        "golfistky",
+        "horolezci"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kristýna Horská",
+      "values": [
+        "lední hokejistky",
+        "cyklistka",
+        "plavkyně",
+        "golfistky"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marie Horáčková",
+      "values": [
+        "volejbalistka",
+        "sportovní střelkyně",
+        "lukostřelkyně",
+        "krasobruslařka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Renata Voráčová",
+      "values": [
+        "rychlobruslařka",
+        "stolní tenistka",
+        "tenistka",
+        "krasobruslařka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Barbora Hodačová",
+      "values": [
+        "krasobruslařka",
+        "házenkářka",
+        "basketbalistka",
+        "volejbalistka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Denisa Šátralová",
+      "values": [
+        "házenkářka",
+        "tenistka",
+        "fotbalistka",
+        "veslařka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Anet Jarolímová",
+      "values": [
+        "veslařka",
+        "florbalistky",
+        "rychlobruslařka",
+        "tenistka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andrea Strnadová",
+      "values": [
+        "sportovní střelkyně",
+        "plavkyně",
+        "golfistky",
+        "tenistka"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

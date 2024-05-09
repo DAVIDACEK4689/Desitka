@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle amerického sportovce",
+  "questions": [
+    {
+      "key": "Mike Tyson",
+      "values": [
+        "golfista",
+        "baseballisté",
+        "basketbalista",
+        "boxer"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ivan Lendl",
+      "values": [
+        "lední hokejista",
+        "tenista",
+        "golfista",
+        "automobilový závodník"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bobby Fischer",
+      "values": [
+        "automobilový závodník",
+        "šachista",
+        "basketbalista",
+        "boxer"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lance Armstrong",
+      "values": [
+        "automobilový závodník",
+        "basketbalista",
+        "golfista",
+        "cyklista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rocky Marciano",
+      "values": [
+        "automobilový závodník",
+        "lední hokejista",
+        "šachista",
+        "boxer"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Patrick Kane",
+      "values": [
+        "lední hokejista",
+        "baseballisté",
+        "automobilový závodník",
+        "šachista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Babe Ruth",
+      "values": [
+        "cyklista",
+        "golfista",
+        "baseballisté",
+        "automobilový závodník"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tiger Woods",
+      "values": [
+        "automobilový závodník",
+        "boxer",
+        "golfista",
+        "lední hokejista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Patrick Dempsey",
+      "values": [
+        "automobilový závodník",
+        "baseballisté",
+        "horolezec",
+        "lední hokejista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jason Priestley",
+      "values": [
+        "baseballisté",
+        "golfista",
+        "automobilový závodník",
+        "tenista"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

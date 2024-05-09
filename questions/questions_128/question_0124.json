@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle vysoké školy",
+  "questions": [
+    {
+      "key": "Akademie múzických umění v Praze",
+      "values": [
+        "Česko",
+        "Irsko",
+        "Itálie",
+        "Československo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Boloňská univerzita",
+      "values": [
+        "Česko",
+        "Austrálie",
+        "Itálie",
+        "Sasko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Spolková vysoká technická škola v Curychu",
+      "values": [
+        "Švýcarsko",
+        "Sasko",
+        "Polsko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Žilinská univerzita v Žilině",
+      "values": [
+        "Dánsko",
+        "Rakousko",
+        "Česko",
+        "Československo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Institut Karolinska",
+      "values": [
+        "Dánsko",
+        "Švédsko",
+        "Spojené království",
+        "Německo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Varšavská univerzita",
+      "values": [
+        "Japonsko",
+        "Belgie",
+        "Polsko",
+        "Dánsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Open University",
+      "values": [
+        "Irsko",
+        "Finsko",
+        "Spojené království",
+        "Dánsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Univerzita Coimbra",
+      "values": [
+        "Francie",
+        "Finsko",
+        "Itálie",
+        "Portugalsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Užhorodská národní univerzita",
+      "values": [
+        "Ukrajina",
+        "Sasko",
+        "Finsko",
+        "Dánsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Schola medica salernitana",
+      "values": [
+        "Estonsko",
+        "Itálie",
+        "Nizozemsko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

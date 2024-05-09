@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle historického území",
+  "questions": [
+    {
+      "key": "Dubrovník",
+      "values": [
+        "Švédsko",
+        "Česko",
+        "Chorvatsko",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jižní Tyrolsko",
+      "values": [
+        "Itálie",
+        "Rakousko",
+        "Srbsko",
+        "Belgie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oranžský svobodný stát",
+      "values": [
+        "Írán",
+        "Česko",
+        "Jihoafrická republika",
+        "Španělsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kastilie",
+      "values": [
+        "Rakousko",
+        "Francie",
+        "Španělsko",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Transvaal",
+      "values": [
+        "Chorvatsko",
+        "Jihoafrická republika",
+        "Rumunsko",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Levobřežní Ukrajina",
+      "values": [
+        "Lotyšsko",
+        "Rusko",
+        "Francie",
+        "Srbsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Machnovščyna",
+      "values": [
+        "Itálie",
+        "Ukrajina",
+        "Rusko",
+        "Belgie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hohenzollernsko",
+      "values": [
+        "Německo",
+        "Česko",
+        "Ukrajina",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Götaland",
+      "values": [
+        "Švédsko",
+        "Belgie",
+        "Německo",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Romagna",
+      "values": [
+        "Ukrajina",
+        "Srbsko",
+        "Francie",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

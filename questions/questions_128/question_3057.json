@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Alex Král",
+      "values": [
+        "marockého",
+        "českého",
+        "československého",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marco Reus",
+      "values": [
+        "severoirského",
+        "chilského",
+        "rumunského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lautaro Martínez",
+      "values": [
+        "gruzínského",
+        "argentinského",
+        "uruguayského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Leonardo Bonucci",
+      "values": [
+        "švédského",
+        "kostarického",
+        "italského",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rui Costa",
+      "values": [
+        "peruánského",
+        "kamerunského",
+        "alžírského",
+        "portugalského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marek Bakoš",
+      "values": [
+        "slovenského",
+        "německého",
+        "belgického",
+        "tožského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zbigniew Boniek",
+      "values": [
+        "československého",
+        "polského",
+        "kanadského",
+        "egyptského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Phil Neville",
+      "values": [
+        "marockého",
+        "anglického",
+        "brazilského",
+        "alžírského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mathieu Flamini",
+      "values": [
+        "norského",
+        "francouzského",
+        "senegalského",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Yannick Carrasco",
+      "values": [
+        "italského",
+        "ghanského",
+        "belgického",
+        "australského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

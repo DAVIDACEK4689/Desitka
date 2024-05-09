@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Káhira",
+      "values": [
+        "Egypt",
+        "Angola",
+        "Finsko",
+        "Švédsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kuala Lumpur",
+      "values": [
+        "Grónsko",
+        "Maďarsko",
+        "Malajsie",
+        "Izrael"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Samarkand",
+      "values": [
+        "Tádžikistán",
+        "Madagaskar",
+        "Uzbekistán",
+        "Sýrie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karáčí",
+      "values": [
+        "Kapverdy",
+        "Namibie",
+        "Pákistán",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Asuán",
+      "values": [
+        "Namibie",
+        "Chorvatsko",
+        "Brunej",
+        "Egypt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Berat",
+      "values": [
+        "Albánie",
+        "Namibie",
+        "Nikaragua",
+        "Súdán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "San Cristóbal de La Laguna",
+      "values": [
+        "Portugalsko",
+        "Švédsko",
+        "Severní Korea",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Interlaken",
+      "values": [
+        "Rwanda",
+        "Brunej",
+        "Severní Makedonie",
+        "Švýcarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Handlová",
+      "values": [
+        "Uzbekistán",
+        "Severní Makedonie",
+        "Somálsko",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kuşadası",
+      "values": [
+        "Rumunsko",
+        "Turecko",
+        "Ukrajina",
+        "Bělorusko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

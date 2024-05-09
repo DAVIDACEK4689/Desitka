@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Ozzy Osbourne",
+      "values": [
+        "britského",
+        "kolumbijského",
+        "brazilského",
+        "finského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David Gránský",
+      "values": [
+        "českého",
+        "britského",
+        "argentinského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oldřich Říha",
+      "values": [
+        "dánského",
+        "rakouského",
+        "skotského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bono",
+      "values": [
+        "švýcarského",
+        "islandského",
+        "irského",
+        "jamajského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Niall Horan",
+      "values": [
+        "nizozemského",
+        "jihoafrického",
+        "irského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ricky Martin",
+      "values": [
+        "irského",
+        "srbského",
+        "francouzského",
+        "portorického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chris Brown",
+      "values": [
+        "portorického",
+        "italského",
+        "nizozemského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mirek Hoffmann",
+      "values": [
+        "českého",
+        "německého",
+        "jamajského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oskar Petr",
+      "values": [
+        "italského",
+        "moldavského",
+        "kolumbijského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Xaver Richter",
+      "values": [
+        "německého",
+        "španělského",
+        "českého",
+        "jihokorejského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

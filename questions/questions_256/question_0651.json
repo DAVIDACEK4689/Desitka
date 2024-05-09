@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Tatarský biftek",
+      "values": [
+        "skotskou",
+        "českou",
+        "čínskou",
+        "řeckou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Svíčková na smetaně",
+      "values": [
+        "řeckou",
+        "portugalskou",
+        "českou",
+        "slovenskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pastrami",
+      "values": [
+        "židovskou",
+        "britskou",
+        "německou",
+        "švédskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Quesadilla",
+      "values": [
+        "belgickou",
+        "irskou",
+        "mexickou",
+        "polskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Taco",
+      "values": [
+        "gruzínskou",
+        "mexickou",
+        "rakouskou",
+        "thajskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fettuccine",
+      "values": [
+        "ukrajinskou",
+        "ruskou",
+        "švýcarskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Currywurst",
+      "values": [
+        "americkou",
+        "španělskou",
+        "čínskou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Srbská kuchyně",
+      "values": [
+        "balkánskou",
+        "českou",
+        "ukrajinskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vánoční pudink",
+      "values": [
+        "arabskou",
+        "anglickou",
+        "tureckou",
+        "maďarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Orecchiette",
+      "values": [
+        "balkánskou",
+        "skotskou",
+        "italskou",
+        "polskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

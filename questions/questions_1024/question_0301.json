@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Julia Robertsová",
+      "values": [
+        "jihoafrickou",
+        "ruskou",
+        "německou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rozálie Havelková",
+      "values": [
+        "francouzskou",
+        "ruskou",
+        "jihoafrickou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gigi Hadid",
+      "values": [
+        "ruskou",
+        "slovenskou",
+        "izraelskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lindsay Lohan",
+      "values": [
+        "jihoafrickou",
+        "ruskou",
+        "americkou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andrea Verešová",
+      "values": [
+        "slovenskou",
+        "izraelskou",
+        "italskou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kendall Jenner",
+      "values": [
+        "českou",
+        "německou",
+        "švýcarskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Anna Kadeřávková",
+      "values": [
+        "českou",
+        "izraelskou",
+        "jihoafrickou",
+        "americkou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ginger Aldenová",
+      "values": [
+        "americkou",
+        "slovenskou",
+        "jihoafrickou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Amanda Seyfriedová",
+      "values": [
+        "americkou",
+        "německou",
+        "kanadskou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Diana Kobzanová",
+      "values": [
+        "českou",
+        "německou",
+        "jihoafrickou",
+        "americkou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

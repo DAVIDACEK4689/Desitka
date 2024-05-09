@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle metra",
+  "questions": [
+    {
+      "key": "Metro v Londýně",
+      "values": [
+        "Rumunsko",
+        "Spojené království",
+        "Itálie",
+        "Řecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Brněnská podzemní dráha",
+      "values": [
+        "Česko",
+        "Švédsko",
+        "Německo",
+        "Ukrajina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Metro ve Vídni",
+      "values": [
+        "Rakousko",
+        "Belgie",
+        "Rusko",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Metro v Mnichově",
+      "values": [
+        "Ukrajina",
+        "Švýcarsko",
+        "Německo",
+        "Nizozemsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Metro ve Stockholmu",
+      "values": [
+        "Švédsko",
+        "Norsko",
+        "Nizozemsko",
+        "Belgie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Metro v Charkově",
+      "values": [
+        "Finsko",
+        "Norsko",
+        "Švédsko",
+        "Ukrajina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Metro v Athénách",
+      "values": [
+        "Spojené království",
+        "Rumunsko",
+        "Bělorusko",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Metro v Norimberku",
+      "values": [
+        "Nizozemsko",
+        "Švédsko",
+        "Německo",
+        "Finsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Metro v Istanbulu",
+      "values": [
+        "Německo",
+        "Finsko",
+        "Turecko",
+        "Španělsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Metro v Oslu",
+      "values": [
+        "Maďarsko",
+        "Rakousko",
+        "Ukrajina",
+        "Norsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zločince?",
+  "questions": [
+    {
+      "key": "Jevgenij Prigožin",
+      "values": [
+        "kolumbijského",
+        "slovenského",
+        "ruského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Juraj Jánošík",
+      "values": [
+        "jihoafrického",
+        "mexického",
+        "britského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jordan Belfort",
+      "values": [
+        "amerického",
+        "francouzského",
+        "německého",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bedřich Reicin",
+      "values": [
+        "australského",
+        "britského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miguel Ángel Félix Gallardo",
+      "values": [
+        "britského",
+        "kolumbijského",
+        "francouzského",
+        "mexického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "John Demjanjuk",
+      "values": [
+        "slovenského",
+        "ukrajinského",
+        "australského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hélmer Herrera",
+      "values": [
+        "amerického",
+        "kolumbijského",
+        "slovenského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Charles Ingram",
+      "values": [
+        "ukrajinského",
+        "australského",
+        "německého",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ghislaine Maxwellová",
+      "values": [
+        "francouzského",
+        "ukrajinského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mathias Rust",
+      "values": [
+        "australského",
+        "německého",
+        "ukrajinského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

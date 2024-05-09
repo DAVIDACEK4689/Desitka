@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] literární dílo?",
+  "questions": [
+    {
+      "key": "Mein Kampf",
+      "values": [
+        "anglické",
+        "nizozemské",
+        "rakouské",
+        "německé"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sto roků samoty",
+      "values": [
+        "české",
+        "rakouské",
+        "italské",
+        "španělské"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Reportáž psaná na oprátce",
+      "values": [
+        "francouzské",
+        "japonské",
+        "americké",
+        "české"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kalevala",
+      "values": [
+        "americké",
+        "finské",
+        "nizozemské",
+        "polské"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zlatá legenda",
+      "values": [
+        "italské",
+        "francouzské",
+        "ruské",
+        "české"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oráč z Čech",
+      "values": [
+        "irské",
+        "německé",
+        "americké",
+        "pruské"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Perry Rhodan",
+      "values": [
+        "francouzské",
+        "německé",
+        "finské",
+        "čínské"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kodžiki",
+      "values": [
+        "německé",
+        "ruské",
+        "české",
+        "japonské"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jak Kulhwch dostal Olwen",
+      "values": [
+        "velšské",
+        "finské",
+        "české",
+        "nizozemské"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nihonšoki",
+      "values": [
+        "rakouské",
+        "italské",
+        "velšské",
+        "japonské"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

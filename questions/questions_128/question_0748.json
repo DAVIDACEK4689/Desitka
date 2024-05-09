@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] ateistu?",
+  "questions": [
+    {
+      "key": "Daniel Radcliffe",
+      "values": [
+        "bulharského",
+        "židovského",
+        "francouzského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Warren Buffett",
+      "values": [
+        "italského",
+        "bosenského",
+        "amerického",
+        "srbského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Enver Hodža",
+      "values": [
+        "italského",
+        "albánského",
+        "černohorského",
+        "bulharského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Maurice Ravel",
+      "values": [
+        "francouzského",
+        "českého",
+        "norského",
+        "gruzínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pier Paolo Pasolini",
+      "values": [
+        "norského",
+        "běloruského",
+        "italského",
+        "židovského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jason Isaacs",
+      "values": [
+        "bulharského",
+        "bosenského",
+        "brazilského",
+        "židovského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Isaak Babel",
+      "values": [
+        "ruského",
+        "finského",
+        "kubánského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Myles Kennedy",
+      "values": [
+        "chorvatského",
+        "amerického",
+        "gruzínského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Randy Newman",
+      "values": [
+        "finského",
+        "amerického",
+        "francouzského",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oriana Fallaci",
+      "values": [
+        "albánského",
+        "skotského",
+        "rumunského",
+        "italského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

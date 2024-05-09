@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] novináře?",
+  "questions": [
+    {
+      "key": "Vlasta Burian",
+      "values": [
+        "sovětského",
+        "japonského",
+        "českého",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jean Paul Marat",
+      "values": [
+        "saúdskoarabského",
+        "francouzského",
+        "australského",
+        "kolumbijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Václav Frič",
+      "values": [
+        "britského",
+        "bulharského",
+        "kubánského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Jandourek",
+      "values": [
+        "amerického",
+        "českého",
+        "izraelského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ronan Farrow",
+      "values": [
+        "ruského",
+        "portugalského",
+        "nizozemského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Feřtek",
+      "values": [
+        "japonského",
+        "sovětského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "August Šenoa",
+      "values": [
+        "francouzského",
+        "japonského",
+        "italského",
+        "chorvatského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Guttmann",
+      "values": [
+        "ruského",
+        "íránského",
+        "českého",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivan Hanousek",
+      "values": [
+        "českého",
+        "slovinského",
+        "nizozemského",
+        "běloruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oldřich Bubeníček",
+      "values": [
+        "chorvatského",
+        "kolumbijského",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

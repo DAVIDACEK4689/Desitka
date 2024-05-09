@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] literaturu?",
+  "questions": [
+    {
+      "key": "Ztracená generace",
+      "values": [
+        "španělskou",
+        "irskou",
+        "americkou",
+        "portugalskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Manga",
+      "values": [
+        "portugalskou",
+        "japonskou",
+        "indickou",
+        "německou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Anglická literatura",
+      "values": [
+        "dánskou",
+        "britskou",
+        "portugalskou",
+        "řeckou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dévanágarí",
+      "values": [
+        "indickou",
+        "italskou",
+        "kosovskou",
+        "japonskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan ze Žatce",
+      "values": [
+        "německou",
+        "českou",
+        "portugalskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Poetická Edda",
+      "values": [
+        "kosovskou",
+        "irskou",
+        "českou",
+        "islandskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oráč z Čech",
+      "values": [
+        "chorvatskou",
+        "irskou",
+        "kolumbijskou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vij",
+      "values": [
+        "portugalskou",
+        "ruskou",
+        "kosovskou",
+        "maďarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kočičí hra",
+      "values": [
+        "maďarskou",
+        "španělskou",
+        "dánskou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Light novel",
+      "values": [
+        "sovětskou",
+        "islandskou",
+        "švýcarskou",
+        "japonskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

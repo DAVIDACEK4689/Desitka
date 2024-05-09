@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Marika Gombitová",
+      "values": [
+        "jihokorejskou",
+        "barbadoskou",
+        "slovenskou",
+        "irskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Leona Machálková",
+      "values": [
+        "uruguayskou",
+        "indickou",
+        "maďarskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gabriela Gunčíková",
+      "values": [
+        "islandskou",
+        "japonskou",
+        "českou",
+        "švýcarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Melanie Martinez",
+      "values": [
+        "indickou",
+        "švédskou",
+        "mexickou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alla Pugačova",
+      "values": [
+        "ruskou",
+        "nizozemskou",
+        "italskou",
+        "maďarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vlasta Kahovcová",
+      "values": [
+        "nizozemskou",
+        "českou",
+        "australskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavla Kapitánová",
+      "values": [
+        "španělskou",
+        "českou",
+        "australskou",
+        "mexickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marcela Laiferová",
+      "values": [
+        "českou",
+        "indickou",
+        "nizozemskou",
+        "slovenskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lilka Ročáková",
+      "values": [
+        "francouzskou",
+        "španělskou",
+        "českou",
+        "ruskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Xuxa",
+      "values": [
+        "brazilskou",
+        "britskou",
+        "francouzskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

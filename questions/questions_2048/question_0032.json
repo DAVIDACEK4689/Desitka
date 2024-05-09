@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Hradec Králové",
+      "values": [
+        "Něva",
+        "Labe",
+        "Lužická Nisa",
+        "Bečva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bratislava",
+      "values": [
+        "Spréva",
+        "Váha",
+        "Eufrat",
+        "Dunaj"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Krakov",
+      "values": [
+        "Ploučnice",
+        "Úhlava",
+        "Visla",
+        "Bečva"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tábor",
+      "values": [
+        "Otava",
+        "Lužnice",
+        "Cidlina",
+        "Jizera"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cheb",
+      "values": [
+        "Ohře",
+        "Otava",
+        "Hornád",
+        "Něva"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Česká Lípa",
+      "values": [
+        "Cidlina",
+        "Ploučnice",
+        "Lužnice",
+        "Dněpr"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Poděbrady",
+      "values": [
+        "Lužická Nisa",
+        "Labe",
+        "Sázava",
+        "Jizera"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Žatec",
+      "values": [
+        "Temže",
+        "Labe",
+        "Ohře",
+        "Dněpr"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bělehrad",
+      "values": [
+        "Dunaj",
+        "Seina",
+        "Dyje",
+        "Spréva"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Turnov",
+      "values": [
+        "Ohře",
+        "Otava",
+        "Metuje",
+        "Jizera"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

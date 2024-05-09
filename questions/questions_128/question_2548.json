@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Manuel Neuer",
+      "values": [
+        "portugalského",
+        "německého",
+        "alžírského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Arjen Robben",
+      "values": [
+        "nizozemského",
+        "dánského",
+        "paraguayského",
+        "velšského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jamal Musiala",
+      "values": [
+        "paraguayského",
+        "kolumbijského",
+        "srbského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Robinho",
+      "values": [
+        "brazilského",
+        "ghanského",
+        "německého",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Václav Drobný",
+      "values": [
+        "gruzínského",
+        "alžírského",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Landon Donovan",
+      "values": [
+        "severoirského",
+        "anglického",
+        "amerického",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Václav Jemelka",
+      "values": [
+        "českého",
+        "nigerijského",
+        "islandského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Radja Nainggolan",
+      "values": [
+        "belgického",
+        "nigerijského",
+        "rumunského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jermain Defoe",
+      "values": [
+        "anglického",
+        "rumunského",
+        "kanadského",
+        "chorvatského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Vozábal",
+      "values": [
+        "egyptského",
+        "českého",
+        "černohorského",
+        "skotského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

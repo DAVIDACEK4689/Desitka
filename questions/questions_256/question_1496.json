@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle českého sportovce",
+  "questions": [
+    {
+      "key": "Petr Jákl",
+      "values": [
+        "judista",
+        "kajakář",
+        "lední hokejista",
+        "basketbalista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavel Bém",
+      "values": [
+        "sportovní střelec",
+        "horolezec",
+        "šachista",
+        "rychlostní kanoista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lukáš Rosol",
+      "values": [
+        "golfista",
+        "bojový umělec",
+        "sportovní střelec",
+        "tenista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Berger",
+      "values": [
+        "cyklista",
+        "kickboxeři",
+        "fotbalista",
+        "bojový umělec"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ondřej Synek",
+      "values": [
+        "bojový umělec",
+        "veslař",
+        "lední hokejista",
+        "horolezec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Dobeš",
+      "values": [
+        "šipkaři",
+        "golfista",
+        "judista",
+        "fotbalista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Jelínek",
+      "values": [
+        "golfista",
+        "lední hokejista",
+        "sportovní střelec",
+        "automobilový závodník"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marek Kvapil",
+      "values": [
+        "rybář",
+        "bojový umělec",
+        "automobilový závodník",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Charouz",
+      "values": [
+        "gymnasta",
+        "akrobatický letec",
+        "automobilový závodník",
+        "basketbalista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Engel",
+      "values": [
+        "ragbista",
+        "stolní tenista",
+        "šachista",
+        "zápasník"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

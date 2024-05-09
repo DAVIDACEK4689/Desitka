@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [národnost] marxistu?",
+  "questions": [
+    {
+      "key": "Lee Harvey Oswald",
+      "values": [
+        "slovinského",
+        "českého",
+        "chilského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bertolt Brecht",
+      "values": [
+        "rakouského",
+        "chilského",
+        "ruského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Luchino Visconti",
+      "values": [
+        "francouzského",
+        "ruského",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Angela Davisová",
+      "values": [
+        "amerického",
+        "chilského",
+        "rakouského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexandra Kollontajová",
+      "values": [
+        "francouzského",
+        "německého",
+        "ruského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Inessa Armandová",
+      "values": [
+        "italského",
+        "francouzského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dalton Trumbo",
+      "values": [
+        "amerického",
+        "chilského",
+        "britského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eric Hobsbawm",
+      "values": [
+        "francouzského",
+        "slovinského",
+        "britského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Georgij Plechanov",
+      "values": [
+        "ruského",
+        "židovského",
+        "britského",
+        "chilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Charles Wright Mills",
+      "values": [
+        "amerického",
+        "českého",
+        "francouzského",
+        "britského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

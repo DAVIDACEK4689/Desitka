@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle události",
+  "questions": [
+    {
+      "key": "Černobylská havárie",
+      "values": [
+        "Chorvatsko",
+        "Portugalsko",
+        "Bělorusko",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zjevení Panny Marie ve Fatimě",
+      "values": [
+        "Libanon",
+        "Portugalsko",
+        "Gabon",
+        "Maďarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Výbuch v bejrútském přístavu 2020",
+      "values": [
+        "Egypt",
+        "Norsko",
+        "Černá Hora",
+        "Libanon"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Čeljabinský meteor",
+      "values": [
+        "Maďarsko",
+        "Bělorusko",
+        "Thajsko",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bouře Daniel",
+      "values": [
+        "Norsko",
+        "Černá Hora",
+        "Rusko",
+        "Libye"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Otrava Sergeje a Julije Skripalových",
+      "values": [
+        "Chorvatsko",
+        "Spojené království",
+        "Irák",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Italia",
+      "values": [
+        "Rusko",
+        "Libanon",
+        "Norsko",
+        "Libye"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vzpoura v boce Kotorské",
+      "values": [
+        "Bělorusko",
+        "Černá Hora",
+        "Gabon",
+        "Egypt"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Expedice Lambaréné",
+      "values": [
+        "Irák",
+        "Chorvatsko",
+        "Vatikán",
+        "Gabon"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Masakr na farmě Ovčara",
+      "values": [
+        "Portugalsko",
+        "Chorvatsko",
+        "Thajsko",
+        "Libye"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

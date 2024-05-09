@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte kontinent podle fauny",
+  "questions": [
+    {
+      "key": "Medvěd lední",
+      "values": [
+        "Severní Amerika",
+        "Střední Amerika",
+        "Antarktida",
+        "Asie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Medvěd grizzly",
+      "values": [
+        "Antarktida",
+        "Jižní Amerika",
+        "Severní Amerika",
+        "Střední Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Slon indický",
+      "values": [
+        "Asie",
+        "Jižní Amerika",
+        "Afrika",
+        "Antarktida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rypouš sloní",
+      "values": [
+        "Střední Amerika",
+        "Antarktida",
+        "Afrika",
+        "Evropa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vandélie obecná",
+      "values": [
+        "Severní Amerika",
+        "Střední Amerika",
+        "Asie",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mangusta žíhaná",
+      "values": [
+        "Antarktida",
+        "Střední Amerika",
+        "Afrika",
+        "Evropa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Slon pralesní",
+      "values": [
+        "Severní Amerika",
+        "Asie",
+        "Afrika",
+        "Evropa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pes hřivnatý",
+      "values": [
+        "Jižní Amerika",
+        "Severní Amerika",
+        "Antarktida",
+        "Evropa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Titán obrovský",
+      "values": [
+        "Afrika",
+        "Střední Amerika",
+        "Severní Amerika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Psohlavec zelený",
+      "values": [
+        "Jižní Amerika",
+        "Severní Amerika",
+        "Antarktida",
+        "Střední Amerika"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

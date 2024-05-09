@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotografa?",
+  "questions": [
+    {
+      "key": "Jan Saudek",
+      "values": [
+        "maďarského",
+        "kubánského",
+        "dánského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Robert Vano",
+      "values": [
+        "brazilského",
+        "mexického",
+        "anglického",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alphonse Bertillon",
+      "values": [
+        "kubánského",
+        "britského",
+        "rakouského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dennis Hopper",
+      "values": [
+        "německého",
+        "francouzského",
+        "švédského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Kříženecký",
+      "values": [
+        "českého",
+        "nizozemského",
+        "mexického",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexandra Breckenridge",
+      "values": [
+        "mexického",
+        "amerického",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Robert Rauschenberg",
+      "values": [
+        "švédského",
+        "ruského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Hájek",
+      "values": [
+        "českého",
+        "ruského",
+        "italského",
+        "vietnamského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zdeněk Hejduk",
+      "values": [
+        "polského",
+        "vietnamského",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Fassati",
+      "values": [
+        "maďarského",
+        "sovětského",
+        "českého",
+        "vietnamského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Lucie Bílá",
+      "values": [
+        "francouzskou",
+        "českou",
+        "švédskou",
+        "uruguayskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ariana Grande",
+      "values": [
+        "polskou",
+        "americkou",
+        "novozélandskou",
+        "finskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jitka Smutná",
+      "values": [
+        "švýcarskou",
+        "českou",
+        "německou",
+        "maďarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hana Vítová",
+      "values": [
+        "kanadskou",
+        "polskou",
+        "norskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tonya Graves",
+      "values": [
+        "irskou",
+        "nizozemskou",
+        "americkou",
+        "německou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eva Šenková",
+      "values": [
+        "švýcarskou",
+        "kanadskou",
+        "irskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Věra Vlková",
+      "values": [
+        "americkou",
+        "ukrajinskou",
+        "českou",
+        "švédskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jana Malknechtová",
+      "values": [
+        "australskou",
+        "islandskou",
+        "českou",
+        "německou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sabina Křováková",
+      "values": [
+        "polskou",
+        "maďarskou",
+        "francouzskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tanita Tikaram",
+      "values": [
+        "britskou",
+        "španělskou",
+        "švýcarskou",
+        "švédskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

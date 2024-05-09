@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle prezidenta",
+  "questions": [
+    {
+      "key": "Petr Pavel",
+      "values": [
+        "Francie",
+        "Česká republika",
+        "Jugoslávie",
+        "Bělorusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vladimir Putin",
+      "values": [
+        "Čečenci",
+        "Jihoafrická republika",
+        "Rusko",
+        "Ukrajina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zuzana Čaputová",
+      "values": [
+        "Česká republika",
+        "Slovensko",
+        "Čečenci",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Klement Gottwald",
+      "values": [
+        "Bělorusko",
+        "Argentina",
+        "Polsko",
+        "Československo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Antonín Novotný",
+      "values": [
+        "Argentina",
+        "Rusko",
+        "Jihoafrická republika",
+        "Československo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ramzan Kadyrov",
+      "values": [
+        "Čečenci",
+        "Rumunsko",
+        "Jihoafrická republika",
+        "Argentina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nicolae Ceaușescu",
+      "values": [
+        "Rumunsko",
+        "Německo",
+        "Maďarsko",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Charles de Gaulle",
+      "values": [
+        "Ukrajina",
+        "Francie",
+        "Jihoafrická republika",
+        "Bělorusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dmitrij Medveděv",
+      "values": [
+        "Rusko",
+        "Rumunsko",
+        "Československo",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petro Porošenko",
+      "values": [
+        "Argentina",
+        "Německo",
+        "Ukrajina",
+        "Slovensko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete kontinent podle měny",
+  "questions": [
+    {
+      "key": "Maďarský forint",
+      "values": [
+        "Jižní Amerika",
+        "Evropa",
+        "Afrika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nový izraelský šekel",
+      "values": [
+        "Asie",
+        "Severní Amerika",
+        "Afrika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Norská koruna",
+      "values": [
+        "Jižní Amerika",
+        "Afrika",
+        "Evropa",
+        "Asie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jugoslávský dinár",
+      "values": [
+        "Severní Amerika",
+        "Evropa",
+        "Asie",
+        "Afrika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Indonéská rupie",
+      "values": [
+        "Asie",
+        "Afrika",
+        "Severní Amerika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lotyšský lat",
+      "values": [
+        "Evropa",
+        "Jižní Amerika",
+        "Afrika",
+        "Asie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Arménský dram",
+      "values": [
+        "Evropa",
+        "Asie",
+        "Afrika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Faerská koruna",
+      "values": [
+        "Severní Amerika",
+        "Afrika",
+        "Evropa",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Srílanská rupie",
+      "values": [
+        "Jižní Amerika",
+        "Evropa",
+        "Afrika",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Malgašský ariary",
+      "values": [
+        "Severní Amerika",
+        "Afrika",
+        "Asie",
+        "Evropa"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

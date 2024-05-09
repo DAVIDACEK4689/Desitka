@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] lékaře?",
+  "questions": [
+    {
+      "key": "Daniella Rush",
+      "values": [
+        "německého",
+        "českého",
+        "brazilského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Robert Koch",
+      "values": [
+        "německého",
+        "chilského",
+        "irského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Rakušan",
+      "values": [
+        "českého",
+        "kanadského",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Lewit",
+      "values": [
+        "českého",
+        "rakouského",
+        "chilského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karl Brandt",
+      "values": [
+        "britského",
+        "slovenského",
+        "chilského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Šimon Žďárský",
+      "values": [
+        "irského",
+        "rakouského",
+        "slovenského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomáš Julínek",
+      "values": [
+        "českého",
+        "britského",
+        "italského",
+        "izraelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ladislav Pecháček",
+      "values": [
+        "britského",
+        "českého",
+        "slovenského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Bořivoj Presl",
+      "values": [
+        "italského",
+        "kanadského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hermann von Helmholtz",
+      "values": [
+        "švýcarského",
+        "jihoafrického",
+        "ruského",
+        "německého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

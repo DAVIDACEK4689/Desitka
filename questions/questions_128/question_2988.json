@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] román?",
+  "questions": [
+    {
+      "key": "Frankenstein",
+      "values": [
+        "australský",
+        "francouzský",
+        "anglický",
+        "čínský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hra o trůny",
+      "values": [
+        "čínský",
+        "americký",
+        "irský",
+        "kanadský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Příběh opravdového člověka",
+      "values": [
+        "australský",
+        "ruský",
+        "norský",
+        "britský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kalibův zločin",
+      "values": [
+        "italský",
+        "polský",
+        "rakouský",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tři muži ve člunu",
+      "values": [
+        "italský",
+        "anglický",
+        "kanadský",
+        "rakouský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Atlas mraků",
+      "values": [
+        "ruský",
+        "anglický",
+        "španělský",
+        "švédský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Prokletí Salemu",
+      "values": [
+        "japonský",
+        "maďarský",
+        "polský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dva divoši",
+      "values": [
+        "americký",
+        "francouzský",
+        "britský",
+        "kanadský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Light novel",
+      "values": [
+        "polský",
+        "norský",
+        "japonský",
+        "čínský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Metro 2035",
+      "values": [
+        "španělský",
+        "maďarský",
+        "ruský",
+        "japonský"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

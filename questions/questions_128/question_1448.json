@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] kulturu?",
+  "questions": [
+    {
+      "key": "Santa Claus",
+      "values": [
+        "britskou",
+        "americkou",
+        "švýcarskou",
+        "českou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Origami",
+      "values": [
+        "japonskou",
+        "čínskou",
+        "ázerbájdžánskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pomsta 47 róninů",
+      "values": [
+        "ázerbájdžánskou",
+        "švédskou",
+        "britskou",
+        "japonskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Baileys Irish Cream",
+      "values": [
+        "maďarskou",
+        "australskou",
+        "egyptskou",
+        "irskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Galský fotbal",
+      "values": [
+        "irskou",
+        "jihokorejskou",
+        "japonskou",
+        "arménskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karóši",
+      "values": [
+        "japonskou",
+        "vatikánskou",
+        "kubánskou",
+        "finskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kšiltovka",
+      "values": [
+        "švýcarskou",
+        "kubánskou",
+        "americkou",
+        "českou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Blackface",
+      "values": [
+        "americkou",
+        "českou",
+        "rakouskou",
+        "íránskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kretek",
+      "values": [
+        "ukrajinskou",
+        "indonéskou",
+        "řeckou",
+        "španělskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stańczyk",
+      "values": [
+        "tureckou",
+        "finskou",
+        "polskou",
+        "českou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

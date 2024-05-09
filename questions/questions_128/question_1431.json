@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "John Fitzgerald Kennedy",
+      "values": [
+        "maďarského",
+        "monackého",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jacqueline Kennedyová Onassisová",
+      "values": [
+        "monackého",
+        "amerického",
+        "portugalského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Anežka Hrůzová",
+      "values": [
+        "švýcarského",
+        "monackého",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Adam Michna z Otradovic",
+      "values": [
+        "německého",
+        "českého",
+        "portugalského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mia Farrowová",
+      "values": [
+        "kanadského",
+        "amerického",
+        "francouzského",
+        "litevského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marie Tereza Luisa Savojská",
+      "values": [
+        "amerického",
+        "italského",
+        "britského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Robert Hanssen",
+      "values": [
+        "německého",
+        "britského",
+        "amerického",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alessandro Moreschi",
+      "values": [
+        "německého",
+        "českého",
+        "italského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Litold Znojemský",
+      "values": [
+        "britského",
+        "českého",
+        "portugalského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Charles Daniel Balvo",
+      "values": [
+        "švýcarského",
+        "italského",
+        "litevského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Segedínský guláš",
+      "values": [
+        "slovenskou",
+        "irskou",
+        "maďarskou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Šopský salát",
+      "values": [
+        "balkánskou",
+        "českou",
+        "mexickou",
+        "indickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kontušovka",
+      "values": [
+        "ukrajinskou",
+        "australskou",
+        "českou",
+        "polskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Popcorn",
+      "values": [
+        "thajskou",
+        "dánskou",
+        "americkou",
+        "rakouskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Croissant",
+      "values": [
+        "britskou",
+        "portugalskou",
+        "italskou",
+        "francouzskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Samovar",
+      "values": [
+        "arménskou",
+        "ruskou",
+        "britskou",
+        "islandskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pappardelle",
+      "values": [
+        "čínskou",
+        "židovskou",
+        "skotskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vitello tonnato",
+      "values": [
+        "českou",
+        "korejskou",
+        "ruskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Linecký koláč",
+      "values": [
+        "švédskou",
+        "slovenskou",
+        "židovskou",
+        "rakouskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chačapuri",
+      "values": [
+        "brazilskou",
+        "gruzínskou",
+        "americkou",
+        "dánskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

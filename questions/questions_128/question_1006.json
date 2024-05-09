@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte město podle české kultury",
+  "questions": [
+    {
+      "key": "Porta",
+      "values": [
+        "Bystřice nad Pernštejnem",
+        "Řevnice",
+        "Orel",
+        "Krnov"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "IQLANDIA",
+      "values": [
+        "Liberec",
+        "Havlíčkův Brod",
+        "Štramberk",
+        "Beroun"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pomník padlým za Těšínsko",
+      "values": [
+        "Orel",
+        "Řevnice",
+        "Broumov",
+        "Štramberk"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fritscheho arboretum",
+      "values": [
+        "Krásná Lípa",
+        "Turnov",
+        "Hejnice",
+        "Semily"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Naučná Máchova stezka",
+      "values": [
+        "Litoměřice",
+        "Lipnice nad Sázavou",
+        "Nepomuk",
+        "Doksy"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Muzeum Jindřicha Jindřicha",
+      "values": [
+        "Domažlice",
+        "Kadaň",
+        "Jičín",
+        "Hustopeče"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Česká vysokohmotnostní mince",
+      "values": [
+        "Brno",
+        "Havlíčkův Brod",
+        "Loštice",
+        "Praha"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vedem",
+      "values": [
+        "Kostelec nad Černými lesy",
+        "Benešov",
+        "Terezín",
+        "Hlinsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Expozice historie železniční dopravy",
+      "values": [
+        "Česká Lípa",
+        "Chotěboř",
+        "Pardubice",
+        "Telč"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Čekání na tramvaj",
+      "values": [
+        "Bechyně",
+        "Boskovice",
+        "Žďár nad Sázavou",
+        "Beroun"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

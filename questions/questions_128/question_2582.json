@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Pablo Escobar",
+      "values": [
+        "kolumbijského",
+        "belgického",
+        "kanadského",
+        "keňského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Simón Bolívar",
+      "values": [
+        "italského",
+        "nauruského",
+        "venezuelského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ilham Alijev",
+      "values": [
+        "bulharského",
+        "kyrgyzského",
+        "irského",
+        "ázerbájdžánského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Štefan Osuský",
+      "values": [
+        "dominikánského",
+        "venezuelského",
+        "slovenského",
+        "nauruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Upton Sinclair",
+      "values": [
+        "katarského",
+        "pruského",
+        "sovětského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dolores Ibárruri",
+      "values": [
+        "litevského",
+        "španělského",
+        "ghanského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mahathir Mohamad",
+      "values": [
+        "maďarského",
+        "čínského",
+        "malajsijského",
+        "nepálského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaroslav Novák Večerníček",
+      "values": [
+        "českého",
+        "salvadorského",
+        "lotyšského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jesse Jackson",
+      "values": [
+        "nepálského",
+        "čínského",
+        "amerického",
+        "bolivijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Manolis Glezos",
+      "values": [
+        "pruského",
+        "řeckého",
+        "singapurského",
+        "ghanského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

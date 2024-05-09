@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Ramzan Kadyrov",
+      "values": [
+        "rumunského",
+        "pruského",
+        "nizozemského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ján Jesenský",
+      "values": [
+        "iráckého",
+        "českého",
+        "sovětského",
+        "bosenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sergej Bubka",
+      "values": [
+        "ukrajinského",
+        "brazilského",
+        "ruského",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Édouard Daladier",
+      "values": [
+        "španělského",
+        "maltského",
+        "francouzského",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Móric Beňovský",
+      "values": [
+        "madagaskarského",
+        "eritrejského",
+        "argentinského",
+        "černohorského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kusaj Husajn",
+      "values": [
+        "ruského",
+        "bosenského",
+        "ghanského",
+        "iráckého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kolinda Grabarová Kitarovičová",
+      "values": [
+        "chorvatského",
+        "kubánského",
+        "českého",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michail Frunze",
+      "values": [
+        "nigerského",
+        "sovětského",
+        "anglického",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Pernes",
+      "values": [
+        "českého",
+        "sovětského",
+        "rumunského",
+        "panamského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hasso von Manteuffel",
+      "values": [
+        "německého",
+        "argentinského",
+        "pákistánského",
+        "československého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

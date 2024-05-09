@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Tři oříšky pro Popelku",
+      "values": [
+        "Karel Smyczek",
+        "Zdeněk Zelenka",
+        "Bořivoj Zeman",
+        "Václav Vorlíček"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Spalovač mrtvol",
+      "values": [
+        "Zdeněk Zelenka",
+        "Juraj Herz",
+        "Vojtěch Jasný",
+        "Tomáš Vorel"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nejkrásnější hádanka",
+      "values": [
+        "Zdeněk Troška",
+        "Václav Vorlíček",
+        "Hynek Bočan",
+        "Vojtěch Jasný"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Babovřesky",
+      "values": [
+        "Karel Zeman",
+        "Miloslav Šmídmajer",
+        "Zdeněk Troška",
+        "Jiří Vejdělek"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lotrando a Zubejda",
+      "values": [
+        "Věra Chytilová",
+        "Jiří Strach",
+        "Jiří Menzel",
+        "Karel Smyczek"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dívka na koštěti",
+      "values": [
+        "Martin Frič",
+        "Václav Vorlíček",
+        "Juraj Herz",
+        "Miloslav Šmídmajer"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adéla ještě nevečeřela",
+      "values": [
+        "Hynek Bočan",
+        "Oldřich Lipský",
+        "Miloš Forman",
+        "Miloslav Šmídmajer"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Starci na chmelu",
+      "values": [
+        "Věra Chytilová",
+        "Zdeněk Zelenka",
+        "Ladislav Rychman",
+        "Václav Vorlíček"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jak svět přichází o básníky",
+      "values": [
+        "Hynek Bočan",
+        "Jiří Menzel",
+        "Dušan Klein",
+        "Marie Poledňáková"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gympl",
+      "values": [
+        "Marie Poledňáková",
+        "Tomáš Vorel",
+        "Jan Hřebejk",
+        "Antonín Moskalyk"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

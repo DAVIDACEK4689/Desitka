@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] hokejového trenéra?",
+  "questions": [
+    {
+      "key": "Vladimír Martinec",
+      "values": [
+        "ruského",
+        "amerického",
+        "německého",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vjačeslav Fetisov",
+      "values": [
+        "ruského",
+        "amerického",
+        "slovenského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Artūrs Irbe",
+      "values": [
+        "amerického",
+        "československého",
+        "německého",
+        "lotyšského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mike Buckna",
+      "values": [
+        "německého",
+        "lotyšského",
+        "československého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Scott Niedermayer",
+      "values": [
+        "amerického",
+        "ruského",
+        "československého",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Herb Brooks",
+      "values": [
+        "slovenského",
+        "československého",
+        "finského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vjačeslav Bykov",
+      "values": [
+        "československého",
+        "ruského",
+        "amerického",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miroslav Ihnačák",
+      "values": [
+        "ruského",
+        "amerického",
+        "finského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Wendel Clark",
+      "values": [
+        "finského",
+        "ruského",
+        "kanadského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Adam Oates",
+      "values": [
+        "kanadského",
+        "československého",
+        "lotyšského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

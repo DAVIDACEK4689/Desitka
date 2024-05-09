@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] literaturu?",
+  "questions": [
+    {
+      "key": "Májovci",
+      "values": [
+        "německou",
+        "českou",
+        "britskou",
+        "mexickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Taras Bulba",
+      "values": [
+        "českou",
+        "chorvatskou",
+        "německou",
+        "ruskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ovčí pramen",
+      "values": [
+        "japonskou",
+        "irskou",
+        "španělskou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tintin",
+      "values": [
+        "kosovskou",
+        "srbskou",
+        "německou",
+        "belgickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nový román",
+      "values": [
+        "irskou",
+        "francouzskou",
+        "italskou",
+        "kosovskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fyzikové",
+      "values": [
+        "maďarskou",
+        "německou",
+        "indickou",
+        "dánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Večery na samotě u Dikaňky",
+      "values": [
+        "italskou",
+        "řeckou",
+        "kosovskou",
+        "ruskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Davisté",
+      "values": [
+        "slovenskou",
+        "španělskou",
+        "norskou",
+        "kosovskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vjása",
+      "values": [
+        "indickou",
+        "afghánskou",
+        "islandskou",
+        "řeckou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Imažinismus",
+      "values": [
+        "ruskou",
+        "maďarskou",
+        "sovětskou",
+        "dánskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

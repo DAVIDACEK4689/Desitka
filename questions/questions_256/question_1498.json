@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle ekonomiky",
+  "questions": [
+    {
+      "key": "SK Slavia Praha",
+      "values": [
+        "Česko",
+        "Rusko",
+        "Slovensko",
+        "Finsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zlotý",
+      "values": [
+        "Nizozemsko",
+        "Polsko",
+        "Rusko",
+        "Rakousko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kaizen",
+      "values": [
+        "Řecko",
+        "Kazachstán",
+        "Polsko",
+        "Japonsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ropovod Družba",
+      "values": [
+        "Česko",
+        "Jižní Korea",
+        "Řecko",
+        "Japonsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Italská lira",
+      "values": [
+        "Itálie",
+        "Slovensko",
+        "Rakousko",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pireus",
+      "values": [
+        "Nizozemsko",
+        "Řecko",
+        "Kazachstán",
+        "Finsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zákon o obchodních korporacích",
+      "values": [
+        "Jižní Korea",
+        "Česko",
+        "Kazachstán",
+        "Rakousko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bankocetle",
+      "values": [
+        "Jižní Korea",
+        "Česko",
+        "Kazachstán",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "CzechInvest",
+      "values": [
+        "Nizozemsko",
+        "Japonsko",
+        "Česko",
+        "Rakousko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Markka",
+      "values": [
+        "Finsko",
+        "Rusko",
+        "Nizozemsko",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

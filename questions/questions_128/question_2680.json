@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Innsbruck",
+      "values": [
+        "Mongolsko",
+        "Laos",
+        "Afghánistán",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Maastricht",
+      "values": [
+        "Pákistán",
+        "Sýrie",
+        "Brunej",
+        "Nizozemsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Retz",
+      "values": [
+        "Rakousko",
+        "Pero",
+        "Gambie",
+        "Brazílie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cali",
+      "values": [
+        "Kolumbie",
+        "Paraguay",
+        "Saúdská Arábie",
+        "Finsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Novigrad",
+      "values": [
+        "Komora",
+        "Rumunsko",
+        "Venezuela",
+        "Chorvatsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Băile Herculane",
+      "values": [
+        "Moldavsko",
+        "Thajsko",
+        "Severní Makedonie",
+        "Rumunsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zaandam",
+      "values": [
+        "Nizozemsko",
+        "Thajsko",
+        "Vanuatu",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Turda",
+      "values": [
+        "Nepál",
+        "Venezuela",
+        "Zambie",
+        "Rumunsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Blagoevgrad",
+      "values": [
+        "Ekvádor",
+        "Bulharsko",
+        "Kambodža",
+        "Belgie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Edfu",
+      "values": [
+        "Island",
+        "Portugalsko",
+        "Jižní Korea",
+        "Egypt"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

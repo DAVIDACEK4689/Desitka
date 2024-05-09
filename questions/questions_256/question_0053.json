@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Milán",
+      "values": [
+        "Rakousko",
+        "Maďarsko",
+        "Itálie",
+        "Belgie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dublin",
+      "values": [
+        "Česko",
+        "Slovensko",
+        "Spojené království",
+        "Irsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nitra",
+      "values": [
+        "Irsko",
+        "Maďarsko",
+        "Dánsko",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Belfast",
+      "values": [
+        "Belgie",
+        "Slovensko",
+        "Maďarsko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Klagenfurt am Wörthersee",
+      "values": [
+        "Rakousko",
+        "Slovensko",
+        "Česko",
+        "Portugalsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jena",
+      "values": [
+        "Belgie",
+        "Německo",
+        "Polsko",
+        "Rakousko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Faro",
+      "values": [
+        "Belgie",
+        "Slovensko",
+        "Německo",
+        "Portugalsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vicenza",
+      "values": [
+        "Maďarsko",
+        "Německo",
+        "Itálie",
+        "Irsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bochum",
+      "values": [
+        "Německo",
+        "Česko",
+        "Slovensko",
+        "Spojené království"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Friedrichshafen",
+      "values": [
+        "Rakousko",
+        "Německo",
+        "Slovensko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

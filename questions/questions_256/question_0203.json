@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Marek Adamczyk",
+      "values": [
+        "českého",
+        "čínského",
+        "amerického",
+        "australského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bradley Cooper",
+      "values": [
+        "norského",
+        "amerického",
+        "španělského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jon Bon Jovi",
+      "values": [
+        "amerického",
+        "britského",
+        "španělského",
+        "jamajského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Luděk Kopřiva",
+      "values": [
+        "nizozemského",
+        "českého",
+        "čínského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "David Hasselhoff",
+      "values": [
+        "japonského",
+        "amerického",
+        "britského",
+        "izraelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alan Arkin",
+      "values": [
+        "amerického",
+        "ruského",
+        "italského",
+        "islandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vlasta Korec",
+      "values": [
+        "tureckého",
+        "českého",
+        "ukrajinského",
+        "novozélandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bing Crosby",
+      "values": [
+        "mexického",
+        "novozélandského",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Štefan Skrúcaný",
+      "values": [
+        "nizozemského",
+        "kanadského",
+        "čínského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dietmar Huhn",
+      "values": [
+        "švýcarského",
+        "německého",
+        "irského",
+        "norského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

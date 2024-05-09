@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle premiéra",
+  "questions": [
+    {
+      "key": "Ľudovít Ódor",
+      "values": [
+        "Lucembursko",
+        "Slovensko",
+        "Kamerun",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ariel Šaron",
+      "values": [
+        "Izrael",
+        "Afghánistán",
+        "Francie",
+        "Norsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Menachem Begin",
+      "values": [
+        "Austrálie",
+        "Ukrajina",
+        "Izrael",
+        "Bulharsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Władysław Sikorski",
+      "values": [
+        "Polsko",
+        "Maďarsko",
+        "Etiopie",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Parvíz Mušaraf",
+      "values": [
+        "Pákistán",
+        "Bangladéš",
+        "Česko",
+        "Singapur"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Smuts",
+      "values": [
+        "Lotyšsko",
+        "Pákistán",
+        "Jihoafrická republika",
+        "Bangladéš"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Arthur Balfour",
+      "values": [
+        "Izrael",
+        "Portugalsko",
+        "Lotyšsko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "William Pitt",
+      "values": [
+        "Izrael",
+        "Arménie",
+        "Irák",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gyula Horn",
+      "values": [
+        "Maroko",
+        "Řecko",
+        "Portugalsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jozef Sivák",
+      "values": [
+        "Slovinsko",
+        "Slovensko",
+        "Island",
+        "Maďarsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Hans Christian Andersen",
+      "values": [
+        "kanadského",
+        "srbského",
+        "dánského",
+        "skotského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Charlotte Brontëová",
+      "values": [
+        "španělského",
+        "anglického",
+        "českého",
+        "perského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Konstantin Biebl",
+      "values": [
+        "francouzského",
+        "českého",
+        "portugalského",
+        "perského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lewis Carroll",
+      "values": [
+        "anglického",
+        "ukrajinského",
+        "irského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pier Paolo Pasolini",
+      "values": [
+        "čínského",
+        "italského",
+        "německého",
+        "chilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vladimír Kokolia",
+      "values": [
+        "ruského",
+        "českého",
+        "italského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivan Franko",
+      "values": [
+        "čínského",
+        "řeckého",
+        "francouzského",
+        "ukrajinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pavel Eisner",
+      "values": [
+        "dánského",
+        "kanadského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ondřej Hanus",
+      "values": [
+        "ukrajinského",
+        "slovenského",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Dubravius",
+      "values": [
+        "českého",
+        "španělského",
+        "irského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] cyklistu?",
+  "questions": [
+    {
+      "key": "Tadej Pogačar",
+      "values": [
+        "slovinského",
+        "britského",
+        "kolumbijského",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Primož Roglič",
+      "values": [
+        "belgického",
+        "španělského",
+        "československého",
+        "slovinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chris Froome",
+      "values": [
+        "rakouského",
+        "britského",
+        "dánského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Remco Evenepoel",
+      "values": [
+        "německého",
+        "nizozemského",
+        "britského",
+        "belgického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gino Mäder",
+      "values": [
+        "britského",
+        "slovenského",
+        "belgického",
+        "švýcarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jasper Philipsen",
+      "values": [
+        "belgického",
+        "švýcarského",
+        "amerického",
+        "kolumbijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fabio Jakobsen",
+      "values": [
+        "slovenského",
+        "belgického",
+        "československého",
+        "nizozemského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Egan Bernal",
+      "values": [
+        "československého",
+        "kolumbijského",
+        "britského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vincenzo Nibali",
+      "values": [
+        "italského",
+        "rakouského",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Graeme Obree",
+      "values": [
+        "britského",
+        "belgického",
+        "rakouského",
+        "československého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

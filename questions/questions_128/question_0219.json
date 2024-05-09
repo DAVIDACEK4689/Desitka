@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle jaderné elektrárny",
+  "questions": [
+    {
+      "key": "Jaderná elektrárna Dukovany",
+      "values": [
+        "Turecko",
+        "Česko",
+        "Finsko",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaderná elektrárna Mochovce",
+      "values": [
+        "Slovensko",
+        "Turecko",
+        "Litva",
+        "Finsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jaderná elektrárna Paks",
+      "values": [
+        "Maďarsko",
+        "Rumunsko",
+        "Arménie",
+        "Finsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jaderná elektrárna Żarnowiec",
+      "values": [
+        "Finsko",
+        "Polsko",
+        "Česko",
+        "Turecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaderná elektrárna Fukušima II",
+      "values": [
+        "Turecko",
+        "Japonsko",
+        "Rakousko",
+        "Bulharsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Leningradská jaderná elektrárna II",
+      "values": [
+        "Spojené království",
+        "Rusko",
+        "Finsko",
+        "Slovinsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaderná elektrárna Kozloduj",
+      "values": [
+        "Rumunsko",
+        "Japonsko",
+        "Německo",
+        "Bulharsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tatarská jaderná elektrárna",
+      "values": [
+        "Rusko",
+        "Turecko",
+        "Rakousko",
+        "Ukrajina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Isarská jaderná elektrárna",
+      "values": [
+        "Bulharsko",
+        "Bělorusko",
+        "Německo",
+        "Arménie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaderná elektrárna Greifswald",
+      "values": [
+        "Rumunsko",
+        "Bělorusko",
+        "Turecko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

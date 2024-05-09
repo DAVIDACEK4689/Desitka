@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Leonardo DiCaprio",
+      "values": [
+        "jihokorejského",
+        "marockého",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "50 Cent",
+      "values": [
+        "ukrajinského",
+        "izraelského",
+        "amerického",
+        "jihoafrického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jet Li",
+      "values": [
+        "ukrajinského",
+        "indického",
+        "francouzského",
+        "čínského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jamie Farr",
+      "values": [
+        "jihoafrického",
+        "portugalského",
+        "amerického",
+        "malajsijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marek Fašiang",
+      "values": [
+        "italského",
+        "jihokorejského",
+        "slovenského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dominic Monaghan",
+      "values": [
+        "australského",
+        "islandského",
+        "malajsijského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Arón Piper",
+      "values": [
+        "německého",
+        "švýcarského",
+        "malajsijského",
+        "thajského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Melissa Barrera",
+      "values": [
+        "japonského",
+        "portorického",
+        "mexického",
+        "argentinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Peter Gallagher",
+      "values": [
+        "ukrajinského",
+        "namibijského",
+        "švédského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimír Borský",
+      "values": [
+        "bosenského",
+        "amerického",
+        "českého",
+        "mexického"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

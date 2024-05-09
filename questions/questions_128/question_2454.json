@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kytaristu?",
+  "questions": [
+    {
+      "key": "Bob Marley",
+      "values": [
+        "amerického",
+        "francouzského",
+        "australského",
+        "jamajského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaroslav Hutka",
+      "values": [
+        "kanadského",
+        "argentinského",
+        "českého",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivo Jahelka",
+      "values": [
+        "norského",
+        "českého",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mick Mars",
+      "values": [
+        "mexického",
+        "amerického",
+        "švédského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hillel Slovak",
+      "values": [
+        "finského",
+        "izraelského",
+        "australského",
+        "jihoafrického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Les Paul",
+      "values": [
+        "jihoafrického",
+        "irského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Doug Aldrich",
+      "values": [
+        "francouzského",
+        "izraelského",
+        "amerického",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chris Barnes",
+      "values": [
+        "amerického",
+        "brazilského",
+        "izraelského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "DJ Ashba",
+      "values": [
+        "amerického",
+        "izraelského",
+        "finského",
+        "jihoafrického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavel Steidl",
+      "values": [
+        "slovenského",
+        "britského",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

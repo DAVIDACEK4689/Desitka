@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [žánr] videohru?",
+  "questions": [
+    {
+      "key": "Need for Speed",
+      "values": [
+        "logickou",
+        "bojovou",
+        "závodní",
+        "sportovní"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Doom",
+      "values": [
+        "akční",
+        "hudební",
+        "logickou",
+        "závodní"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mortal Kombat",
+      "values": [
+        "sportovní",
+        "strategickou",
+        "hudební",
+        "bojovou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "World of Tanks",
+      "values": [
+        "logickou",
+        "sportovní",
+        "akční",
+        "strategickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Battlefield",
+      "values": [
+        "bojovou",
+        "akční",
+        "strategickou",
+        "logickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Grand Theft Auto III",
+      "values": [
+        "akční",
+        "sportovní",
+        "strategickou",
+        "logickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Beat Saber",
+      "values": [
+        "hudební",
+        "sportovní",
+        "bojovou",
+        "logickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Total War",
+      "values": [
+        "strategickou",
+        "logickou",
+        "akční",
+        "sportovní"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Poppy Playtime",
+      "values": [
+        "akční",
+        "bojovou",
+        "strategickou",
+        "logickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Clash Royale",
+      "values": [
+        "logickou",
+        "akční",
+        "závodní",
+        "strategickou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

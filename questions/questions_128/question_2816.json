@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] atentátníka?",
+  "questions": [
+    {
+      "key": "Theodore Kaczynski",
+      "values": [
+        "amerického",
+        "slovenského",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Claus Schenk von Stauffenberg",
+      "values": [
+        "německého",
+        "ruského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mark David Chapman",
+      "values": [
+        "ruského",
+        "amerického",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Guy Fawkes",
+      "values": [
+        "slovenského",
+        "anglického",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "John Wilkes Booth",
+      "values": [
+        "anglického",
+        "amerického",
+        "ruského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Charles Harrelson",
+      "values": [
+        "francouzského",
+        "českého",
+        "anglického",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Danilo Ilić",
+      "values": [
+        "amerického",
+        "srbského",
+        "anglického",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "John Hinckley",
+      "values": [
+        "srbského",
+        "slovenského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Balthasar Gérard",
+      "values": [
+        "ruského",
+        "italského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimír Blažka",
+      "values": [
+        "ruského",
+        "českého",
+        "italského",
+        "anglického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Mikuláš Dzurinda",
+      "values": [
+        "argentinského",
+        "slovenského",
+        "bosenského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Robert Maxwell",
+      "values": [
+        "rakouského",
+        "československého",
+        "britského",
+        "myanmarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Václav Pláteník",
+      "values": [
+        "švédského",
+        "českého",
+        "kubánského",
+        "libyjského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zachar Prilepin",
+      "values": [
+        "palestinského",
+        "amerického",
+        "anglického",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jeremy Corbyn",
+      "values": [
+        "portugalského",
+        "britského",
+        "katarského",
+        "afghánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Palmiro Togliatti",
+      "values": [
+        "lotyšského",
+        "pruského",
+        "norského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Georgij Vasiljevič Čičerin",
+      "values": [
+        "libanonského",
+        "litevského",
+        "maltského",
+        "sovětského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Arnošt Heidrich",
+      "values": [
+        "afghánského",
+        "katarského",
+        "etiopského",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jens Böhrnsen",
+      "values": [
+        "portugalského",
+        "ázerbájdžánského",
+        "libyjského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Armin Laschet",
+      "values": [
+        "německého",
+        "filipínského",
+        "španělského",
+        "britského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

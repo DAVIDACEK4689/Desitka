@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Mila Kunis",
+      "values": [
+        "americkou",
+        "srbskou",
+        "belgickou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alena Šeredová",
+      "values": [
+        "čínskou",
+        "italskou",
+        "španělskou",
+        "bermudskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ursula Andressová",
+      "values": [
+        "belgickou",
+        "švédskou",
+        "jihoafrickou",
+        "švýcarskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hana Čížková",
+      "values": [
+        "maďarskou",
+        "českou",
+        "dánskou",
+        "uruguayskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hayley Atwellová",
+      "values": [
+        "novozélandskou",
+        "rakouskou",
+        "americkou",
+        "brazilskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Neve Campbellová",
+      "values": [
+        "americkou",
+        "uruguayskou",
+        "kanadskou",
+        "mexickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Iva Marešová",
+      "values": [
+        "izraelskou",
+        "švédskou",
+        "českou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Virna Lisiová",
+      "values": [
+        "francouzskou",
+        "uruguayskou",
+        "maďarskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Erika Mannová",
+      "values": [
+        "irskou",
+        "tureckou",
+        "čínskou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Irena Konvalinová",
+      "values": [
+        "mexickou",
+        "švýcarskou",
+        "jihoafrickou",
+        "českou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

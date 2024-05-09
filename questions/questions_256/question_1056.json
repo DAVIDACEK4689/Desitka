@@ -1,0 +1,105 @@
+{
+  "text": "Určete rok podle letecké nehody",
+  "questions": [
+    {
+      "key": "Let Malaysia Airlines 17",
+      "values": [
+        "2014",
+        "1975",
+        "1988",
+        "2000"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Let Pan Am 103",
+      "values": [
+        "2019",
+        "1928",
+        "2002",
+        "1988"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Let Korean Air 007",
+      "values": [
+        "1983",
+        "1996",
+        "2019",
+        "1988"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Let ČSA 540",
+      "values": [
+        "1975",
+        "2009",
+        "1994",
+        "1968"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Let Japan Airlines 123",
+      "values": [
+        "1979",
+        "2018",
+        "1968",
+        "1985"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Let Iran Air 655",
+      "values": [
+        "1973",
+        "1937",
+        "1988",
+        "2001"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Letecká nehoda generála Štefánika",
+      "values": [
+        "1919",
+        "2014",
+        "1972",
+        "1968"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Let Lion Air 610",
+      "values": [
+        "2018",
+        "1919",
+        "1985",
+        "1996"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Let American Airlines 191",
+      "values": [
+        "2009",
+        "1983",
+        "1979",
+        "1968"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Let Aeroflot 593",
+      "values": [
+        "2018",
+        "1994",
+        "1919",
+        "2009"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

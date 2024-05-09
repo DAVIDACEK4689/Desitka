@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalového trenéra?",
+  "questions": [
+    {
+      "key": "Alex Ferguson",
+      "values": [
+        "francouzského",
+        "ruského",
+        "skotského",
+        "srbského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Jarolím",
+      "values": [
+        "maďarského",
+        "českého",
+        "ukrajinského",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Unai Emery",
+      "values": [
+        "španělského",
+        "nizozemského",
+        "rumunského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gheorghe Hagi",
+      "values": [
+        "brazilského",
+        "ruského",
+        "norského",
+        "rumunského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roy Hodgson",
+      "values": [
+        "rakouského",
+        "polského",
+        "chorvatského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kenny Dalglish",
+      "values": [
+        "belgického",
+        "skotského",
+        "tureckého",
+        "mexického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Svatopluk Habanec",
+      "values": [
+        "polského",
+        "českého",
+        "brazilského",
+        "uruguayského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jakub Dovalil",
+      "values": [
+        "slovenského",
+        "španělského",
+        "tureckého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chris Armas",
+      "values": [
+        "irského",
+        "norského",
+        "amerického",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dejan Stanković",
+      "values": [
+        "amerického",
+        "srbského",
+        "rumunského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] malíře?",
+  "questions": [
+    {
+      "key": "Edvard Munch",
+      "values": [
+        "norského",
+        "novozélandského",
+        "španělského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Diego Velázquez",
+      "values": [
+        "litevského",
+        "ukrajinského",
+        "japonského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nicolas Poussin",
+      "values": [
+        "norského",
+        "českého",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Benka",
+      "values": [
+        "slovenského",
+        "mexického",
+        "chorvatského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gottfried Lindauer",
+      "values": [
+        "chilského",
+        "novozélandského",
+        "chorvatského",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Benátská škola",
+      "values": [
+        "belgického",
+        "kolumbijského",
+        "italského",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Captain Beefheart",
+      "values": [
+        "amerického",
+        "švýcarského",
+        "řeckého",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vittore Carpaccio",
+      "values": [
+        "ruského",
+        "německého",
+        "chilského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Albrecht Altdorfer",
+      "values": [
+        "kanadského",
+        "chorvatského",
+        "polského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aristide Maillol",
+      "values": [
+        "francouzského",
+        "kolumbijského",
+        "rakouského",
+        "italského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

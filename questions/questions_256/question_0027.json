@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] matematika?",
+  "questions": [
+    {
+      "key": "Stephen Hawking",
+      "values": [
+        "polského",
+        "britského",
+        "nizozemského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Johannes Kepler",
+      "values": [
+        "irského",
+        "polského",
+        "německého",
+        "indického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bernard Bolzano",
+      "values": [
+        "indického",
+        "rakouského",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mileva Marićová",
+      "values": [
+        "slovenského",
+        "maďarského",
+        "srbského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Leonhard Euler",
+      "values": [
+        "britského",
+        "irského",
+        "švýcarského",
+        "srbského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mikuláš Kusánský",
+      "values": [
+        "indického",
+        "amerického",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Denis Papin",
+      "values": [
+        "francouzského",
+        "nizozemského",
+        "maďarského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Křesadlo",
+      "values": [
+        "švédského",
+        "českého",
+        "indického",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Charles Sanders Peirce",
+      "values": [
+        "indického",
+        "německého",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Daniel Bernoulli",
+      "values": [
+        "indického",
+        "českého",
+        "švédského",
+        "švýcarského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "Mirek Topolánek",
+      "values": [
+        "českého",
+        "monackého",
+        "amerického",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Giovanni Boccaccio",
+      "values": [
+        "kanadského",
+        "portugalského",
+        "italského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Gazdík",
+      "values": [
+        "českého",
+        "monackého",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Lobkowicz",
+      "values": [
+        "francouzského",
+        "českého",
+        "italského",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Franz Lehár",
+      "values": [
+        "německého",
+        "italského",
+        "francouzského",
+        "maďarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Margaret Brownová",
+      "values": [
+        "kanadského",
+        "německého",
+        "portugalského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sepp Blatter",
+      "values": [
+        "monackého",
+        "českého",
+        "litevského",
+        "švýcarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Friedrich Merz",
+      "values": [
+        "litevského",
+        "německého",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Frank Capone",
+      "values": [
+        "britského",
+        "amerického",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kryštof Kolowrat Krakowský Liebsteinský",
+      "values": [
+        "francouzského",
+        "českého",
+        "německého",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

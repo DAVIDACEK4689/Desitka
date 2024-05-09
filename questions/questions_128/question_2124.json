@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotografa?",
+  "questions": [
+    {
+      "key": "Peter Nagy",
+      "values": [
+        "francouzského",
+        "kanadského",
+        "slovenského",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kate Barry",
+      "values": [
+        "nizozemského",
+        "rakouského",
+        "anglického",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Man Ray",
+      "values": [
+        "dánského",
+        "rumunského",
+        "vietnamského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel Ludwig",
+      "values": [
+        "českého",
+        "brazilského",
+        "německého",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David Hockney",
+      "values": [
+        "slovenského",
+        "kubánského",
+        "polského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Filip Crhák",
+      "values": [
+        "kubánského",
+        "českého",
+        "kanadského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Václav Chochola",
+      "values": [
+        "německého",
+        "lucemburského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Horálek",
+      "values": [
+        "rumunského",
+        "rakouského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Viktor Kolář",
+      "values": [
+        "italského",
+        "českého",
+        "rumunského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oliviero Toscani",
+      "values": [
+        "slovenského",
+        "rumunského",
+        "maďarského",
+        "italského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle geografie",
+  "questions": [
+    {
+      "key": "Podkarpatská Rus",
+      "values": [
+        "Španělsko",
+        "Andorra",
+        "Ukrajina",
+        "Faerské ostrovy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pyreneje",
+      "values": [
+        "Andorra",
+        "Palestina",
+        "Ukrajina",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Porúří",
+      "values": [
+        "Moldavsko",
+        "Německo",
+        "Tanzanie",
+        "Singapur"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Severní Čechy",
+      "values": [
+        "Ukrajina",
+        "Česko",
+        "Izrael",
+        "Pákistán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Izraelská bezpečnostní bariéra",
+      "values": [
+        "Vanuatu",
+        "Palestina",
+        "Itálie",
+        "Rovníková Guinea"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Svobodné území Terst",
+      "values": [
+        "Slovinsko",
+        "Afghánistán",
+        "Jihoafrická republika",
+        "Jordánsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Malé Sundy",
+      "values": [
+        "Abcházie",
+        "Libye",
+        "Guatemala",
+        "Východní Timor"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Keukenhof",
+      "values": [
+        "Japonsko",
+        "Chorvatsko",
+        "Nizozemsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kantó",
+      "values": [
+        "Japonsko",
+        "Německo",
+        "Vanuatu",
+        "Guatemala"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Trolltunga",
+      "values": [
+        "Singapur",
+        "Norsko",
+        "Pero",
+        "Rovníková Guinea"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva v Kurském oblouku",
+      "values": [
+        "1709",
+        "1943",
+        "1805",
+        "1938"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pád Konstantinopole",
+      "values": [
+        "1453",
+        "1298",
+        "1746",
+        "1991"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva na Bajkalském jezeře",
+      "values": [
+        "1918",
+        "1453",
+        "1919",
+        "1438"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva o Czajankova kasárna",
+      "values": [
+        "1423",
+        "1805",
+        "1939",
+        "1526"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Jutska",
+      "values": [
+        "1916",
+        "2022",
+        "1444",
+        "1836"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Operace Gomora",
+      "values": [
+        "1943",
+        "1314",
+        "1066",
+        "1805"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva o Zvolen",
+      "values": [
+        "1588",
+        "1993",
+        "1919",
+        "1939"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Znojma",
+      "values": [
+        "1898",
+        "1565",
+        "1809",
+        "1631"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Jeny",
+      "values": [
+        "1485",
+        "1806",
+        "1697",
+        "1812"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Falkirku",
+      "values": [
+        "1469",
+        "1991",
+        "1421",
+        "1298"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

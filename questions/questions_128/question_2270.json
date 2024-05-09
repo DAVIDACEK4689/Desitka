@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Radoslav Kováč",
+      "values": [
+        "českého",
+        "gruzínského",
+        "sovětského",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lukáš Vácha",
+      "values": [
+        "kostarického",
+        "maďarského",
+        "ekvádorského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Raheem Sterling",
+      "values": [
+        "anglického",
+        "dánského",
+        "argentinského",
+        "ekvádorského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michal Horňák",
+      "values": [
+        "brazilského",
+        "českého",
+        "ukrajinského",
+        "nigerijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alessandro Nesta",
+      "values": [
+        "italského",
+        "slovinského",
+        "mexického",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sócrates",
+      "values": [
+        "italského",
+        "brazilského",
+        "kamerunského",
+        "nigerijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vernon De Marco",
+      "values": [
+        "francouzského",
+        "gruzínského",
+        "slovenského",
+        "argentinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sebastián Abreu",
+      "values": [
+        "irského",
+        "brazilského",
+        "ruského",
+        "uruguayského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Míchel Salgado",
+      "values": [
+        "jamajského",
+        "kolumbijského",
+        "tožského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gary Cahill",
+      "values": [
+        "španělského",
+        "nigerijského",
+        "anglického",
+        "severoirského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

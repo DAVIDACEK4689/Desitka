@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] generála?",
+  "questions": [
+    {
+      "key": "Isaac Brock",
+      "values": [
+        "francouzského",
+        "britského",
+        "mexického",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Philippe Pétain",
+      "values": [
+        "francouzského",
+        "britského",
+        "albánského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "František Peřina",
+      "values": [
+        "českého",
+        "československého",
+        "japonského",
+        "albánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "George Catlett Marshall",
+      "values": [
+        "dánského",
+        "bulharského",
+        "amerického",
+        "albánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sergej Beseda",
+      "values": [
+        "chorvatského",
+        "ruského",
+        "francouzského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ante Gotovina",
+      "values": [
+        "rumunského",
+        "španělského",
+        "ukrajinského",
+        "chorvatského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nikolaj Fjodorovič Vatutin",
+      "values": [
+        "sovětského",
+        "dánského",
+        "ukrajinského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jozef Remek",
+      "values": [
+        "britského",
+        "československého",
+        "slovenského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alois Šiška",
+      "values": [
+        "amerického",
+        "českého",
+        "rumunského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Filip Parmský",
+      "values": [
+        "českého",
+        "španělského",
+        "polského",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

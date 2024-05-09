@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Leoš Mareš",
+      "values": [
+        "finského",
+        "českého",
+        "maďarského",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jimi Hendrix",
+      "values": [
+        "amerického",
+        "jihokorejského",
+        "finského",
+        "kolumbijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mikolas Josef",
+      "values": [
+        "německého",
+        "britského",
+        "českého",
+        "jihokorejského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marian Vojtko",
+      "values": [
+        "portorického",
+        "slovenského",
+        "norského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vlastimil Horváth",
+      "values": [
+        "dánského",
+        "portorického",
+        "srbského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Yungblud",
+      "values": [
+        "slovenského",
+        "německého",
+        "britského",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mark Keller",
+      "values": [
+        "brazilského",
+        "německého",
+        "argentinského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gilbert Bécaud",
+      "values": [
+        "moldavského",
+        "francouzského",
+        "sovětského",
+        "jihokorejského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pepa Lábus",
+      "values": [
+        "českého",
+        "kanadského",
+        "jamajského",
+        "portorického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Damian Marley",
+      "values": [
+        "jamajského",
+        "srbského",
+        "kanadského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "Michelangelo Buonarroti",
+      "values": [
+        "českého",
+        "italského",
+        "kanadského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Evžen Savojský",
+      "values": [
+        "portugalského",
+        "amerického",
+        "kanadského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Světlana Allilujevová",
+      "values": [
+        "italského",
+        "britského",
+        "monackého",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Filippo Brunelleschi",
+      "values": [
+        "kanadského",
+        "portugalského",
+        "švýcarského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Laura Antonelli",
+      "values": [
+        "českého",
+        "italského",
+        "amerického",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marie Bavorská",
+      "values": [
+        "britského",
+        "litevského",
+        "švýcarského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Béla Lugosi",
+      "values": [
+        "litevského",
+        "amerického",
+        "italského",
+        "maďarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alberto Sordi",
+      "values": [
+        "italského",
+        "francouzského",
+        "litevského",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nick Fuentes",
+      "values": [
+        "francouzského",
+        "českého",
+        "amerického",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Václav Jindřich Olomoucký",
+      "values": [
+        "českého",
+        "britského",
+        "švýcarského",
+        "litevského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

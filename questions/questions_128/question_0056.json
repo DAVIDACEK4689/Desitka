@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle tisícovky",
+  "questions": [
+    {
+      "key": "Ještěd",
+      "values": [
+        "Portugalsko",
+        "Irsko",
+        "Bulharsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petrovy kameny",
+      "values": [
+        "Irsko",
+        "Česko",
+        "Island",
+        "Německo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Boubín",
+      "values": [
+        "Česko",
+        "Maďarsko",
+        "Slovensko",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Keprník",
+      "values": [
+        "Izrael",
+        "Martinik",
+        "Maďarsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fichtelberg",
+      "values": [
+        "Německo",
+        "Spojené království",
+        "Rakousko",
+        "Island"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Har Meron",
+      "values": [
+        "Izrael",
+        "Francie",
+        "Rakousko",
+        "Japonsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ptačí kupy",
+      "values": [
+        "Česko",
+        "Polsko",
+        "Izrael",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Wysoka Kopa",
+      "values": [
+        "Chorvatsko",
+        "Česko",
+        "Omán",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Monte Grappa",
+      "values": [
+        "Itálie",
+        "Spojené království",
+        "Francie",
+        "Rakousko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Drachenwand",
+      "values": [
+        "Kostarika",
+        "Rakousko",
+        "Omán",
+        "Island"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

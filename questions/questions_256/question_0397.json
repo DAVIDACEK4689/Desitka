@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Joseph Goebbels",
+      "values": [
+        "německého",
+        "nigerského",
+        "myanmarského",
+        "arménského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ľudovít Štúr",
+      "values": [
+        "nigerského",
+        "slovenského",
+        "finského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Roman Abramovič",
+      "values": [
+        "ruského",
+        "izraelského",
+        "bosenského",
+        "dominikánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "John Stuart Mill",
+      "values": [
+        "peruánského",
+        "britského",
+        "kambodžského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Girolamo Savonarola",
+      "values": [
+        "italského",
+        "pákistánského",
+        "indického",
+        "iráckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Julius Streicher",
+      "values": [
+        "sovětského",
+        "eritrejského",
+        "německého",
+        "ghanského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mette Frederiksenová",
+      "values": [
+        "kambodžského",
+        "dánského",
+        "ázerbájdžánského",
+        "černohorského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jozef Banáš",
+      "values": [
+        "nizozemského",
+        "švédského",
+        "finského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Milorad Dodik",
+      "values": [
+        "španělského",
+        "pruského",
+        "německého",
+        "bosenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Viktor Mládek",
+      "values": [
+        "madagaskarského",
+        "československého",
+        "haitského",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

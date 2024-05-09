@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Charles Bukowski",
+      "values": [
+        "amerického",
+        "palestinského",
+        "norského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Franz Werfel",
+      "values": [
+        "slovinského",
+        "německého",
+        "tureckého",
+        "mexického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Henry David Thoreau",
+      "values": [
+        "gruzínského",
+        "belgického",
+        "amerického",
+        "perského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Guido Gezelle",
+      "values": [
+        "belgického",
+        "albánského",
+        "australského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jindřich Heisler",
+      "values": [
+        "českého",
+        "švédského",
+        "španělského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dante Gabriel Rossetti",
+      "values": [
+        "chilského",
+        "íránského",
+        "anglického",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Théophile Gautier",
+      "values": [
+        "anglického",
+        "francouzského",
+        "perského",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sergej Vladimirovič Michalkov",
+      "values": [
+        "sovětského",
+        "francouzského",
+        "italského",
+        "vietnamského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nikolaj Alexejevič Někrasov",
+      "values": [
+        "tureckého",
+        "sovětského",
+        "slovinského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Angelus Silesius",
+      "values": [
+        "francouzského",
+        "německého",
+        "českého",
+        "anglického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

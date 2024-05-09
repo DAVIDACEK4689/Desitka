@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle organizace",
+  "questions": [
+    {
+      "key": "Wagnerova skupina",
+      "values": [
+        "Rusko",
+        "Bělorusko",
+        "Sýrie",
+        "Dánsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mezinárodní svaz ochrany přírody",
+      "values": [
+        "Švýcarsko",
+        "Spojené království",
+        "Uganda",
+        "Německo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pussy Riot",
+      "values": [
+        "Bělorusko",
+        "Německo",
+        "Švédsko",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dignitas",
+      "values": [
+        "Japonsko",
+        "Polsko",
+        "Česko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "DILIA",
+      "values": [
+        "Nizozemsko",
+        "Česko",
+        "Belgie",
+        "Jugoslávie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Židovská agentura",
+      "values": [
+        "Izrael",
+        "Francie",
+        "Japonsko",
+        "Norsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oxfam",
+      "values": [
+        "Izrael",
+        "Spojené království",
+        "Rusko",
+        "Dánsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Světová rada církví",
+      "values": [
+        "Bělorusko",
+        "Česko",
+        "Švýcarsko",
+        "Izrael"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Harcerství",
+      "values": [
+        "Polsko",
+        "Dánsko",
+        "Itálie",
+        "Německo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Wandervogel",
+      "values": [
+        "Jugoslávie",
+        "Francie",
+        "Itálie",
+        "Německo"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

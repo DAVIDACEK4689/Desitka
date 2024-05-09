@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] boxera?",
+  "questions": [
+    {
+      "key": "Jaromír Soukup",
+      "values": [
+        "amerického",
+        "českého",
+        "československého",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Emerich Rath",
+      "values": [
+        "československého",
+        "českého",
+        "britského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mike Tyson",
+      "values": [
+        "československého",
+        "německého",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vitalij Kličko",
+      "values": [
+        "českého",
+        "ugandského",
+        "ukrajinského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Idi Amin",
+      "values": [
+        "ugandského",
+        "ukrajinského",
+        "československého",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladimir Kličko",
+      "values": [
+        "britského",
+        "československého",
+        "amerického",
+        "ukrajinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jake Paul",
+      "values": [
+        "britského",
+        "amerického",
+        "ugandského",
+        "československého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tyson Fury",
+      "values": [
+        "britského",
+        "českého",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oleksandr Usyk",
+      "values": [
+        "ugandského",
+        "německého",
+        "českého",
+        "ukrajinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rocky Marciano",
+      "values": [
+        "českého",
+        "amerického",
+        "ugandského",
+        "německého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

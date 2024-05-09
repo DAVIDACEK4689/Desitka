@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle státního symbolu",
+  "questions": [
+    {
+      "key": "Varan komodský",
+      "values": [
+        "Francie",
+        "Estonsko",
+        "Indonésie",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vlaštovka obecná",
+      "values": [
+        "Japonsko",
+        "Estonsko",
+        "Spojené království",
+        "Indonésie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lípa malolistá",
+      "values": [
+        "Spojené království",
+        "Indie",
+        "Česká republika",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Páv korunkatý",
+      "values": [
+        "Francie",
+        "Japonsko",
+        "Indonésie",
+        "Indie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dudek chocholatý",
+      "values": [
+        "Japonsko",
+        "Izrael",
+        "Estonsko",
+        "Česká republika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chryzantéma",
+      "values": [
+        "Spojené království",
+        "Izrael",
+        "Francie",
+        "Japonsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Řád čestné legie",
+      "values": [
+        "Japonsko",
+        "Francie",
+        "Estonsko",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Svatojiřská stuha",
+      "values": [
+        "Spojené království",
+        "Francie",
+        "Rusko",
+        "Izrael"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pravda vítězí",
+      "values": [
+        "Česká republika",
+        "Estonsko",
+        "Izrael",
+        "Japonsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Britské korunovační klenoty",
+      "values": [
+        "Francie",
+        "Spojené království",
+        "Česká republika",
+        "Indie"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] svatého?",
+  "questions": [
+    {
+      "key": "Jana z Arku",
+      "values": [
+        "ruského",
+        "portugalského",
+        "skotského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Anastázie Nikolajevna",
+      "values": [
+        "ruského",
+        "arménského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Svatý Dominik",
+      "values": [
+        "indického",
+        "polského",
+        "španělského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hedvika z Anjou",
+      "values": [
+        "německého",
+        "anglického",
+        "italského",
+        "polského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Svatá Monika",
+      "values": [
+        "mexického",
+        "rakouského",
+        "alžírského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anežka Římská",
+      "values": [
+        "slovenského",
+        "italského",
+        "španělského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vasilij Blažený",
+      "values": [
+        "ukrajinského",
+        "skotského",
+        "ruského",
+        "indického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "John Henry Newman",
+      "values": [
+        "indického",
+        "ukrajinského",
+        "súdánského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Demetrios ze Soluně",
+      "values": [
+        "súdánského",
+        "anglického",
+        "egyptského",
+        "řeckého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hilarius z Poitiers",
+      "values": [
+        "francouzského",
+        "nizozemského",
+        "ruského",
+        "libanonského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

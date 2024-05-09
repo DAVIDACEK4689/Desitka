@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] ledního hokejistu?",
+  "questions": [
+    {
+      "key": "Alois Hadamczik",
+      "values": [
+        "švýcarského",
+        "československého",
+        "českého",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Kaut",
+      "values": [
+        "švýcarského",
+        "českého",
+        "rumunského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jakub Lauko",
+      "values": [
+        "ruského",
+        "amerického",
+        "sovětského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Phil Kessel",
+      "values": [
+        "československého",
+        "amerického",
+        "švédského",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Branko Radivojevič",
+      "values": [
+        "britského",
+        "amerického",
+        "lotyšského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nino Niederreiter",
+      "values": [
+        "sovětského",
+        "amerického",
+        "švýcarského",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Filip Pavlík",
+      "values": [
+        "finského",
+        "českého",
+        "kanadského",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mike Gartner",
+      "values": [
+        "sovětského",
+        "britského",
+        "kanadského",
+        "lotyšského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nicklas Bäckström",
+      "values": [
+        "amerického",
+        "švédského",
+        "švýcarského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Markus Näslund",
+      "values": [
+        "švédského",
+        "amerického",
+        "sovětského",
+        "finského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

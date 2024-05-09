@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Jmelí bílé",
+      "values": [
+        "Nový Zéland",
+        "Česko",
+        "Madagaskar",
+        "Mexiko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Okurka",
+      "values": [
+        "Madagaskar",
+        "Austrálie",
+        "Brazílie",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dřišťál obecný",
+      "values": [
+        "Madagaskar",
+        "Mongolsko",
+        "Česko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kaučukovník",
+      "values": [
+        "Nový Zéland",
+        "Brazílie",
+        "Austrálie",
+        "Mongolsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Borovice blatka",
+      "values": [
+        "Madagaskar",
+        "Mexiko",
+        "Česko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hořec tolitovitý",
+      "values": [
+        "Madagaskar",
+        "Austrálie",
+        "Česko",
+        "Japonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Agastache",
+      "values": [
+        "Česko",
+        "Austrálie",
+        "Mongolsko",
+        "Mexiko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pětiprstka žežulník",
+      "values": [
+        "Mongolsko",
+        "Česko",
+        "Japonsko",
+        "Mexiko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Opletka obecná",
+      "values": [
+        "Mongolsko",
+        "Česko",
+        "Austrálie",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Čičorka",
+      "values": [
+        "Japonsko",
+        "Brazílie",
+        "Mongolsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

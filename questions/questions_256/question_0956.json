@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] šlechtice?",
+  "questions": [
+    {
+      "key": "Klemens Wenzel von Metternich",
+      "values": [
+        "monackého",
+        "německého",
+        "britského",
+        "slezského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Arnošt z Pardubic",
+      "values": [
+        "moravského",
+        "českého",
+        "německého",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Václav Budovec z Budova",
+      "values": [
+        "monackého",
+        "německého",
+        "českého",
+        "chorvatského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "János Hunyadi",
+      "values": [
+        "španělského",
+        "českého",
+        "francouzského",
+        "uherského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Matúš Čák Trenčanský",
+      "values": [
+        "britského",
+        "dánského",
+        "uherského",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ludwig von Benedek",
+      "values": [
+        "českého",
+        "švédského",
+        "uherského",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Heřman Kryštof Russworm",
+      "values": [
+        "uherského",
+        "německého",
+        "dánského",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hilma af Klint",
+      "values": [
+        "švédského",
+        "španělského",
+        "italského",
+        "slezského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hugo František Salm",
+      "values": [
+        "španělského",
+        "rakouského",
+        "chorvatského",
+        "moravského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kazimír Felix Badeni",
+      "values": [
+        "polského",
+        "monackého",
+        "uherského",
+        "českého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

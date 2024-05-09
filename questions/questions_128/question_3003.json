@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] ledního hokejistu?",
+  "questions": [
+    {
+      "key": "Milan Michálek",
+      "values": [
+        "švédského",
+        "českého",
+        "amerického",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Viktor Tichonov",
+      "values": [
+        "polského",
+        "československého",
+        "rakouského",
+        "sovětského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Jandač",
+      "values": [
+        "rumunského",
+        "finského",
+        "československého",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jakub Lev",
+      "values": [
+        "amerického",
+        "českého",
+        "slovenského",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Clint Malarchuk",
+      "values": [
+        "švýcarského",
+        "slovinského",
+        "kanadského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nathan MacKinnon",
+      "values": [
+        "sovětského",
+        "finského",
+        "kanadského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roman Stantien",
+      "values": [
+        "britského",
+        "slovinského",
+        "finského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Brian Leetch",
+      "values": [
+        "slovenského",
+        "švýcarského",
+        "amerického",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aleš Píša",
+      "values": [
+        "československého",
+        "českého",
+        "kanadského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jeremy Roenick",
+      "values": [
+        "českého",
+        "rumunského",
+        "kanadského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

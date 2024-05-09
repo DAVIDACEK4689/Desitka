@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Jaroslav Drbohlav",
+      "values": [
+        "marockého",
+        "australského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michal Holán",
+      "values": [
+        "japonského",
+        "thajského",
+        "českého",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rudolf Deyl mladší",
+      "values": [
+        "brazilského",
+        "českého",
+        "indického",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adolf Filip",
+      "values": [
+        "českého",
+        "irského",
+        "švýcarského",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David Harbour",
+      "values": [
+        "řeckého",
+        "jamajského",
+        "amerického",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexander Dreymon",
+      "values": [
+        "německého",
+        "gruzínského",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Arnold Vosloo",
+      "values": [
+        "jihoafrického",
+        "bulharského",
+        "tureckého",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Anthony Edwards",
+      "values": [
+        "amerického",
+        "venezuelského",
+        "polského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Herrmann",
+      "values": [
+        "japonského",
+        "českého",
+        "marockého",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivan Rajniak",
+      "values": [
+        "belgického",
+        "slovenského",
+        "venezuelského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] ledního hokejistu?",
+  "questions": [
+    {
+      "key": "Bohumil Modrý",
+      "values": [
+        "polského",
+        "amerického",
+        "slovenského",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Andres Ambühl",
+      "values": [
+        "rakouského",
+        "slovenského",
+        "švýcarského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Kubina",
+      "values": [
+        "československého",
+        "českého",
+        "sovětského",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lukáš Dostál",
+      "values": [
+        "ruského",
+        "českého",
+        "polského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Milan Kraft",
+      "values": [
+        "lotyšského",
+        "slovinského",
+        "československého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Andrej Vasilevskij",
+      "values": [
+        "kanadského",
+        "ruského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Robert Kysela",
+      "values": [
+        "rumunského",
+        "švýcarského",
+        "českého",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ion Țiriac",
+      "values": [
+        "rumunského",
+        "československého",
+        "britského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "René Vydarený",
+      "values": [
+        "slovenského",
+        "finského",
+        "německého",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Peter Cehlárik",
+      "values": [
+        "československého",
+        "britského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

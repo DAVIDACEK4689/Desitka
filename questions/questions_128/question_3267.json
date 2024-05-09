@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filozofa?",
+  "questions": [
+    {
+      "key": "Karl Marx",
+      "values": [
+        "australského",
+        "čínského",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ladislav Klíma",
+      "values": [
+        "finského",
+        "brazilského",
+        "egyptského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Antonio Gramsci",
+      "values": [
+        "perského",
+        "španělského",
+        "slovinského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Antonín Marek",
+      "values": [
+        "indického",
+        "českého",
+        "slovinského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Radim Palouš",
+      "values": [
+        "perského",
+        "řeckého",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jean Baudrillard",
+      "values": [
+        "amerického",
+        "sovětského",
+        "francouzského",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dimitr Blagoev",
+      "values": [
+        "švédského",
+        "britského",
+        "bulharského",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kléméns Alexandrijský",
+      "values": [
+        "brazilského",
+        "švýcarského",
+        "britského",
+        "řeckého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Geber",
+      "values": [
+        "perského",
+        "maďarského",
+        "italského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tzvetan Todorov",
+      "values": [
+        "ruského",
+        "polského",
+        "francouzského",
+        "britského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

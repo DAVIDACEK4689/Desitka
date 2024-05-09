@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] miliardáře?",
+  "questions": [
+    {
+      "key": "Petr Kellner",
+      "values": [
+        "českého",
+        "ruského",
+        "slovenského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Janeček",
+      "values": [
+        "ruského",
+        "ukrajinského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mark Zuckerberg",
+      "values": [
+        "britského",
+        "slovenského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Chrenek",
+      "values": [
+        "ukrajinského",
+        "rakouského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ralph Lauren",
+      "values": [
+        "amerického",
+        "slovenského",
+        "britského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dietrich Mateschitz",
+      "values": [
+        "britského",
+        "ukrajinského",
+        "rakouského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luděk Sekyra",
+      "values": [
+        "britského",
+        "českého",
+        "rakouského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Libor Winkler",
+      "values": [
+        "rakouského",
+        "amerického",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Světlík",
+      "values": [
+        "ukrajinského",
+        "ruského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cornelius Vanderbilt",
+      "values": [
+        "českého",
+        "slovenského",
+        "amerického",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

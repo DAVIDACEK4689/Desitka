@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Lucie Vondráčková",
+      "values": [
+        "nizozemskou",
+        "islandskou",
+        "finskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jana Paulová",
+      "values": [
+        "chorvatskou",
+        "polskou",
+        "českou",
+        "slovenskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sharlota",
+      "values": [
+        "českou",
+        "kanadskou",
+        "jihokorejskou",
+        "maďarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alžběta Kolečkářová",
+      "values": [
+        "českou",
+        "francouzskou",
+        "srbskou",
+        "novozélandskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "PJ Harvey",
+      "values": [
+        "britskou",
+        "kolumbijskou",
+        "ukrajinskou",
+        "mexickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Indila",
+      "values": [
+        "irskou",
+        "německou",
+        "francouzskou",
+        "kanadskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Truda Grosslichtová",
+      "values": [
+        "španělskou",
+        "švédskou",
+        "uruguayskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eva Emingerová",
+      "values": [
+        "českou",
+        "jihokorejskou",
+        "polskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Emmylou Harris",
+      "values": [
+        "mexickou",
+        "norskou",
+        "americkou",
+        "barbadoskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ludmila Pecháčková",
+      "values": [
+        "americkou",
+        "slovenskou",
+        "novozélandskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

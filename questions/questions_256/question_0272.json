@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Terezín",
+      "values": [
+        "Eufrat",
+        "Ohře",
+        "Sázava",
+        "Něva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Banská Bystrica",
+      "values": [
+        "Hron",
+        "Lužická Nisa",
+        "Váha",
+        "Ploučnice"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Štětí",
+      "values": [
+        "Labe",
+        "Eufrat",
+        "Cidlina",
+        "Dyje"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ingolstadt",
+      "values": [
+        "Dunaj",
+        "Něva",
+        "Sebnice",
+        "Don"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Radotín",
+      "values": [
+        "Lužická Nisa",
+        "Labe",
+        "Berounka",
+        "Tibera"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tours",
+      "values": [
+        "Loira",
+        "Váha",
+        "Vltava",
+        "Spréva"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jaroslavice",
+      "values": [
+        "Ploučnice",
+        "Sázava",
+        "Těrek",
+        "Dyje"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Toljatti",
+      "values": [
+        "Úslava",
+        "Berounka",
+        "Volha",
+        "Eufrat"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Horní Police",
+      "values": [
+        "Malše",
+        "Ploučnice",
+        "Dyje",
+        "Ohře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lešná",
+      "values": [
+        "Eufrat",
+        "Hron",
+        "Bečva",
+        "Berounka"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

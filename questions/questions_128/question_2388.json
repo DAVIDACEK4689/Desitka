@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Reykjavík",
+      "values": [
+        "Nikaragua",
+        "Kolumbie",
+        "Island",
+        "Palau"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Longyearbyen",
+      "values": [
+        "Norsko",
+        "Maroko",
+        "Maďarsko",
+        "Malta"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rajecké Teplice",
+      "values": [
+        "Niger",
+        "Slovensko",
+        "Somálsko",
+        "Indonésie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hue",
+      "values": [
+        "Vietnam",
+        "Namibie",
+        "Konžská republika",
+        "Malta"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kranj",
+      "values": [
+        "Japonsko",
+        "Slovinsko",
+        "Německo",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vantaa",
+      "values": [
+        "Brunej",
+        "Finsko",
+        "Angola",
+        "Palau"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pomorie",
+      "values": [
+        "Mongolsko",
+        "Rumunsko",
+        "Kazachstán",
+        "Bulharsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kőszeg",
+      "values": [
+        "Kambodža",
+        "Kapverdy",
+        "Maďarsko",
+        "Nigérie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tønsberg",
+      "values": [
+        "Egypt",
+        "Honduras",
+        "Norsko",
+        "Konžská republika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Haguenau",
+      "values": [
+        "Turkmenistán",
+        "Francie",
+        "Vietnam",
+        "Nizozemsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

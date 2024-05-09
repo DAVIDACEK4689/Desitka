@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte jazyk podle písně",
+  "questions": [
+    {
+      "key": "Bohemian Rhapsody",
+      "values": [
+        "rumunština",
+        "angličtina",
+        "španělština",
+        "čeština"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hymna Spojeného království",
+      "values": [
+        "rumunština",
+        "čeština",
+        "španělština",
+        "angličtina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kaťuša",
+      "values": [
+        "hebrejština",
+        "latina",
+        "ruština",
+        "čeština"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Za 100 let",
+      "values": [
+        "němčina",
+        "čeština",
+        "španělština",
+        "angličtina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Despacito",
+      "values": [
+        "rumunština",
+        "latina",
+        "španělština",
+        "angličtina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hava nagila",
+      "values": [
+        "rumunština",
+        "ruština",
+        "čeština",
+        "hebrejština"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "I Want It All",
+      "values": [
+        "čeština",
+        "španělština",
+        "angličtina",
+        "němčina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nafrněná",
+      "values": [
+        "rumunština",
+        "němčina",
+        "čeština",
+        "latina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Drunken Sailor",
+      "values": [
+        "španělština",
+        "angličtina",
+        "latina",
+        "rumunština"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Another Brick in the Wall",
+      "values": [
+        "čeština",
+        "hebrejština",
+        "ruština",
+        "angličtina"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

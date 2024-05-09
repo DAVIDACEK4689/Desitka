@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] hudební skupinu?",
+  "questions": [
+    {
+      "key": "Lollipopz",
+      "values": [
+        "australskou",
+        "estonskou",
+        "bosenskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Il Volo",
+      "values": [
+        "španělskou",
+        "italskou",
+        "ruskou",
+        "německou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gipsy Kings",
+      "values": [
+        "bosenskou",
+        "francouzskou",
+        "jihokorejskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "The Sisters of Mercy",
+      "values": [
+        "kubánskou",
+        "islandskou",
+        "dánskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Three Days Grace",
+      "values": [
+        "kanadskou",
+        "americkou",
+        "bosenskou",
+        "maďarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sunrise Avenue",
+      "values": [
+        "finskou",
+        "švýcarskou",
+        "moldavskou",
+        "dánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Of Monsters and Men",
+      "values": [
+        "belgickou",
+        "norskou",
+        "portugalskou",
+        "islandskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Middle of the Road",
+      "values": [
+        "britskou",
+        "australskou",
+        "estonskou",
+        "portugalskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "The Tiger Lillies",
+      "values": [
+        "belgickou",
+        "britskou",
+        "kubánskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lasgo",
+      "values": [
+        "českou",
+        "norskou",
+        "chorvatskou",
+        "belgickou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

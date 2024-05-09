@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Joe Biden",
+      "values": [
+        "ghanského",
+        "německého",
+        "amerického",
+        "jihoafrického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "John Bok",
+      "values": [
+        "českého",
+        "rakouského",
+        "britského",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lewis Strauss",
+      "values": [
+        "iráckého",
+        "norského",
+        "kolumbijského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mikuláš Dzurinda",
+      "values": [
+        "srbského",
+        "slovenského",
+        "norského",
+        "československého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Roman Abramovič",
+      "values": [
+        "švýcarského",
+        "portugalského",
+        "německého",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Svjatlana Cichanouská",
+      "values": [
+        "argentinského",
+        "iráckého",
+        "indického",
+        "běloruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Theresa Mayová",
+      "values": [
+        "ruského",
+        "myanmarského",
+        "britského",
+        "katarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robert Maxwell",
+      "values": [
+        "rumunského",
+        "norského",
+        "vietnamského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jair Bolsonaro",
+      "values": [
+        "brazilského",
+        "sovětského",
+        "argentinského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nikolaj Viktorovič Podgornyj",
+      "values": [
+        "anglického",
+        "albánského",
+        "sovětského",
+        "maltského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

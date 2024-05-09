@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] horolezce?",
+  "questions": [
+    {
+      "key": "Radek Jaroš",
+      "values": [
+        "československého",
+        "novozélandského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Edmund Hillary",
+      "values": [
+        "novozélandského",
+        "švýcarského",
+        "nepálského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Heinrich Harrer",
+      "values": [
+        "polského",
+        "německého",
+        "rakouského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tenzing Norgay",
+      "values": [
+        "nepálského",
+        "československého",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David Stirling",
+      "values": [
+        "španělského",
+        "britského",
+        "sovětského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Maciej Berbeka",
+      "values": [
+        "švýcarského",
+        "italského",
+        "britského",
+        "polského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rob Hall",
+      "values": [
+        "italského",
+        "novozélandského",
+        "španělského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kílian Jornet Burgada",
+      "values": [
+        "španělského",
+        "polského",
+        "novozélandského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Vavroušek",
+      "values": [
+        "nepálského",
+        "švýcarského",
+        "novozélandského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Peter Aufschnaiter",
+      "values": [
+        "rakouského",
+        "švýcarského",
+        "španělského",
+        "polského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

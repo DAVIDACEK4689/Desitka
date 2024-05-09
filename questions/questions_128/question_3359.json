@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "David Deyl",
+      "values": [
+        "rumunského",
+        "srbského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vilém Čok",
+      "values": [
+        "ruského",
+        "jihokorejského",
+        "irského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roman Dragoun",
+      "values": [
+        "kanadského",
+        "gruzínského",
+        "finského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Neil Young",
+      "values": [
+        "novozélandského",
+        "španělského",
+        "kanadského",
+        "brazilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Roth",
+      "values": [
+        "rumunského",
+        "irského",
+        "islandského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "James Corden",
+      "values": [
+        "švýcarského",
+        "britského",
+        "novozélandského",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dave Evans",
+      "values": [
+        "jamajského",
+        "australského",
+        "švýcarského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Darren Criss",
+      "values": [
+        "argentinského",
+        "francouzského",
+        "amerického",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Graham Bonnet",
+      "values": [
+        "amerického",
+        "norského",
+        "novozélandského",
+        "kolumbijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kris Wu",
+      "values": [
+        "jihoafrického",
+        "amerického",
+        "kanadského",
+        "japonského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

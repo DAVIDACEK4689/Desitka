@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] televizní stanici?",
+  "questions": [
+    {
+      "key": "TV Barrandov",
+      "values": [
+        "českou",
+        "norskou",
+        "japonskou",
+        "kanadskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fox News",
+      "values": [
+        "italskou",
+        "českou",
+        "americkou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "TV JOJ",
+      "values": [
+        "francouzskou",
+        "britskou",
+        "finskou",
+        "slovenskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nova Gold",
+      "values": [
+        "českou",
+        "japonskou",
+        "francouzskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "ITV",
+      "values": [
+        "chorvatskou",
+        "britskou",
+        "slovenskou",
+        "japonskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "The CW",
+      "values": [
+        "finskou",
+        "americkou",
+        "chorvatskou",
+        "kanadskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Syfy",
+      "values": [
+        "japonskou",
+        "americkou",
+        "slovenskou",
+        "finskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "RTVS Šport",
+      "values": [
+        "slovenskou",
+        "americkou",
+        "britskou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sky TV",
+      "values": [
+        "britskou",
+        "italskou",
+        "ruskou",
+        "finskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mňau TV",
+      "values": [
+        "italskou",
+        "českou",
+        "japonskou",
+        "finskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Vašo Patejdl",
+      "values": [
+        "japonského",
+        "slovinského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Emil František Burian",
+      "values": [
+        "kanadského",
+        "slovinského",
+        "japonského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Slávek Boura",
+      "values": [
+        "českého",
+        "amerického",
+        "britského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Hejduk",
+      "values": [
+        "argentinského",
+        "českého",
+        "řeckého",
+        "estonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lou Reed",
+      "values": [
+        "amerického",
+        "britského",
+        "finského",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Georges Bizet",
+      "values": [
+        "řeckého",
+        "českého",
+        "francouzského",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sylvie Bodorová",
+      "values": [
+        "rumunského",
+        "německého",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Morten Harket",
+      "values": [
+        "brazilského",
+        "norského",
+        "francouzského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Bendl",
+      "values": [
+        "ruského",
+        "českého",
+        "řeckého",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jason Becker",
+      "values": [
+        "amerického",
+        "japonského",
+        "švýcarského",
+        "norského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

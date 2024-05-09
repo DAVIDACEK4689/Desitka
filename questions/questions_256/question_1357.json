@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] román?",
+  "questions": [
+    {
+      "key": "Na západní frontě klid",
+      "values": [
+        "italský",
+        "anglický",
+        "německý",
+        "polský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oliver Twist",
+      "values": [
+        "polský",
+        "britský",
+        "australský",
+        "anglický"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kdo chytá v žitě",
+      "values": [
+        "čínský",
+        "americký",
+        "italský",
+        "slovenský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Konec civilizace",
+      "values": [
+        "ruský",
+        "rakouský",
+        "český",
+        "anglický"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Most přes řeku Kwai",
+      "values": [
+        "francouzský",
+        "britský",
+        "irský",
+        "německý"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Milenec lady Chatterleyové",
+      "values": [
+        "irský",
+        "polský",
+        "japonský",
+        "britský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zlodějka knih",
+      "values": [
+        "irský",
+        "anglický",
+        "australský",
+        "rakouský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Svět podle Garpa",
+      "values": [
+        "rakouský",
+        "americký",
+        "italský",
+        "australský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "The Winds of Winter",
+      "values": [
+        "čínský",
+        "americký",
+        "anglický",
+        "australský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Příběhy Arthura Gordona Pyma",
+      "values": [
+        "britský",
+        "anglický",
+        "americký",
+        "slovenský"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

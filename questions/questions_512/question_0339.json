@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle prezidenta",
+  "questions": [
+    {
+      "key": "Václav Klaus",
+      "values": [
+        "Egypt",
+        "Irák",
+        "Argentina",
+        "Česká republika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Antonín Zápotocký",
+      "values": [
+        "Polsko",
+        "Československo",
+        "Gruzie",
+        "Německo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jozef Tiso",
+      "values": [
+        "Egypt",
+        "Řecko",
+        "Slovensko",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andrzej Duda",
+      "values": [
+        "Čečenci",
+        "Vietnam",
+        "Polsko",
+        "Niger"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Viktor Juščenko",
+      "values": [
+        "Řecko",
+        "Ukrajina",
+        "Německo",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "António de Oliveira Salazar",
+      "values": [
+        "Portugalsko",
+        "Chorvatsko",
+        "Brazílie",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sergio Mattarella",
+      "values": [
+        "Itálie",
+        "Srbsko",
+        "Rusko",
+        "Řecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Klaus Iohannis",
+      "values": [
+        "Izrael",
+        "Argentina",
+        "Francie",
+        "Rumunsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cyril Ramaphosa",
+      "values": [
+        "Brazílie",
+        "Polsko",
+        "Maďarsko",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chajim Herzog",
+      "values": [
+        "Portugalsko",
+        "Libérie",
+        "Írán",
+        "Izrael"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

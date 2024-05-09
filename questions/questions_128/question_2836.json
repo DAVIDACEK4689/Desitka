@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Basilej",
+      "values": [
+        "Eufrat",
+        "Rýn",
+        "Hron",
+        "Labe"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ružomberok",
+      "values": [
+        "Don",
+        "Váha",
+        "Eufrat",
+        "Seina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vukovar",
+      "values": [
+        "Hornád",
+        "Dunaj",
+        "Lužnice",
+        "Temže"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lutherstadt Wittenberg",
+      "values": [
+        "Seina",
+        "Labe",
+        "Těrek",
+        "Malše"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vladikavkaz",
+      "values": [
+        "Spréva",
+        "Emže",
+        "Visla",
+        "Těrek"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Velké Poříčí",
+      "values": [
+        "Tis",
+        "Labe",
+        "Metuje",
+        "Hornád"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Žichovice",
+      "values": [
+        "Ploučnice",
+        "Tibera",
+        "Otava",
+        "Úhlava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Útušice",
+      "values": [
+        "Cidlina",
+        "Úhlava",
+        "Seina",
+        "Mandava"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vstiš",
+      "values": [
+        "Berounka",
+        "Radbuza",
+        "Inn",
+        "Spréva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ilok",
+      "values": [
+        "Sázava",
+        "Vltava",
+        "Metuje",
+        "Dunaj"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

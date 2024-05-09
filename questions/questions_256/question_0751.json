@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] horolezce?",
+  "questions": [
+    {
+      "key": "Reinhold Messner",
+      "values": [
+        "amerického",
+        "italského",
+        "německého",
+        "novozélandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Rakoncaj",
+      "values": [
+        "nepálského",
+        "španělského",
+        "českého",
+        "československého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aleister Crowley",
+      "values": [
+        "novozélandského",
+        "italského",
+        "švýcarského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alex Honnold",
+      "values": [
+        "polského",
+        "československého",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jerzy Kukuczka",
+      "values": [
+        "polského",
+        "novozélandského",
+        "nepálského",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nirmal Purdža",
+      "values": [
+        "nepálského",
+        "britského",
+        "švýcarského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "George Mallory",
+      "values": [
+        "britského",
+        "českého",
+        "sovětského",
+        "nepálského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Trávníček",
+      "values": [
+        "italského",
+        "českého",
+        "španělského",
+        "československého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hermann Buhl",
+      "values": [
+        "rakouského",
+        "nepálského",
+        "českého",
+        "novozélandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Günther Messner",
+      "values": [
+        "italského",
+        "sovětského",
+        "nepálského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

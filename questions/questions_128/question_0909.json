@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte sport podle olympijského vítěze",
+  "questions": [
+    {
+      "key": "Vladimir Kličko",
+      "values": [
+        "box",
+        "krasobruslení",
+        "judo",
+        "tenis"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Boris Becker",
+      "values": [
+        "házená",
+        "golf",
+        "tenis",
+        "basketbal"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anthony Joshua",
+      "values": [
+        "box",
+        "basketbal",
+        "fotbal",
+        "severská kombinace"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bedřich Šupčík",
+      "values": [
+        "cyklistika",
+        "basketbal",
+        "sportovní gymnastika",
+        "atletika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oleg Protopopov",
+      "values": [
+        "cyklistika",
+        "golf",
+        "krasobruslení",
+        "judo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anton Tkáč",
+      "values": [
+        "cyklistika",
+        "sportovní střelba",
+        "golf",
+        "akrobatické lyžování"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ian Thorpe",
+      "values": [
+        "cyklistika",
+        "sportovní střelba",
+        "atletika",
+        "plavání"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nikola Karabatić",
+      "values": [
+        "házená",
+        "judo",
+        "fotbal",
+        "basketbal"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Raúl Jiménez",
+      "values": [
+        "fotbal",
+        "akrobatické lyžování",
+        "krasobruslení",
+        "atletika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mate Pavić",
+      "values": [
+        "alpské lyžování",
+        "basketbal",
+        "tenis",
+        "atletika"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

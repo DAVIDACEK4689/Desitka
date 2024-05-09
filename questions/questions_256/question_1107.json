@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Marek Němec",
+      "values": [
+        "španělského",
+        "belgického",
+        "českého",
+        "srbského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Budař",
+      "values": [
+        "britského",
+        "japonského",
+        "australského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Markus Krug",
+      "values": [
+        "českého",
+        "hongkongského",
+        "slovenského",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladimír Merta",
+      "values": [
+        "norského",
+        "australského",
+        "hongkongského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Emilio Estevez",
+      "values": [
+        "ruského",
+        "švédského",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Luis Buñuel",
+      "values": [
+        "ukrajinského",
+        "švédského",
+        "australského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oliver Stone",
+      "values": [
+        "kanadského",
+        "ukrajinského",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ladislav Smoček",
+      "values": [
+        "novozélandského",
+        "irského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Matt Dillon",
+      "values": [
+        "amerického",
+        "rakouského",
+        "norského",
+        "hongkongského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michel Piccoli",
+      "values": [
+        "hongkongského",
+        "švédského",
+        "irského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

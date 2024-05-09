@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Soňa Červená",
+      "values": [
+        "americkou",
+        "srbskou",
+        "čínskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kendall Jenner",
+      "values": [
+        "ruskou",
+        "americkou",
+        "argentinskou",
+        "dánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zuzana Geislerová",
+      "values": [
+        "českou",
+        "bermudskou",
+        "uruguayskou",
+        "norskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Magda Lokvencová",
+      "values": [
+        "českou",
+        "americkou",
+        "uzbeckou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sienna Millerová",
+      "values": [
+        "řeckou",
+        "britskou",
+        "norskou",
+        "uruguayskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jitka Charvátová",
+      "values": [
+        "slovenskou",
+        "českou",
+        "tureckou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Margaret Qualley",
+      "values": [
+        "americkou",
+        "dánskou",
+        "belgickou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Patrika Darbo",
+      "values": [
+        "nizozemskou",
+        "indickou",
+        "americkou",
+        "španělskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jennifer Jonesová",
+      "values": [
+        "íránskou",
+        "americkou",
+        "maďarskou",
+        "novozélandskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Amanda Kimmel",
+      "values": [
+        "bulharskou",
+        "uzbeckou",
+        "americkou",
+        "srbskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

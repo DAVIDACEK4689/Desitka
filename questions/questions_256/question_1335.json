@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle českého sportovce",
+  "questions": [
+    {
+      "key": "Petr Čech",
+      "values": [
+        "fotbalista",
+        "boxer",
+        "šipkaři",
+        "horolezec"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Radek Štěpánek",
+      "values": [
+        "veslař",
+        "akrobatický letec",
+        "kajakář",
+        "tenista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Mrázek",
+      "values": [
+        "kanoista",
+        "lední hokejista",
+        "boxer",
+        "golfista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zbyněk Michálek",
+      "values": [
+        "jezdec",
+        "sportovní střelec",
+        "fotbalista",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Doktor",
+      "values": [
+        "rychlostní kanoista",
+        "lední hokejista",
+        "cyklista",
+        "zápasník"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavel Kubina",
+      "values": [
+        "automobilový závodník",
+        "bojový umělec",
+        "lední hokejista",
+        "akrobatický letec"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dalibor Svrčina",
+      "values": [
+        "tenista",
+        "automobilový závodník",
+        "basketbalista",
+        "zápasník"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lukáš Pech",
+      "values": [
+        "veslař",
+        "lední hokejista",
+        "basketbalista",
+        "boxer"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Matěj Peňáz",
+      "values": [
+        "veslař",
+        "lední hokejista",
+        "kickboxeři",
+        "šachista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Kučera",
+      "values": [
+        "šachista",
+        "lední hokejista",
+        "akrobatický letec",
+        "ragbista"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

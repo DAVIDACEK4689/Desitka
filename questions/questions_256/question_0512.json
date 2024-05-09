@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebníka?",
+  "questions": [
+    {
+      "key": "David Matásek",
+      "values": [
+        "jihokorejského",
+        "japonského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimír Tesařík",
+      "values": [
+        "českého",
+        "jamajského",
+        "švédského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Serge Gainsbourg",
+      "values": [
+        "amerického",
+        "švýcarského",
+        "ukrajinského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stevie Wonder",
+      "values": [
+        "indického",
+        "amerického",
+        "bulharského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kryštof Eben",
+      "values": [
+        "francouzského",
+        "portorického",
+        "indického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Kumžák",
+      "values": [
+        "jamajského",
+        "rumunského",
+        "českého",
+        "arménského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nick Kamen",
+      "values": [
+        "švédského",
+        "ukrajinského",
+        "britského",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michael Cretu",
+      "values": [
+        "japonského",
+        "švédského",
+        "rumunského",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ronan Keating",
+      "values": [
+        "švédského",
+        "nizozemského",
+        "irského",
+        "brazilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr a Pavel Orm",
+      "values": [
+        "chorvatského",
+        "arménského",
+        "českého",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

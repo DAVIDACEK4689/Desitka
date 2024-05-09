@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vegetariána?",
+  "questions": [
+    {
+      "key": "Leonardo da Vinci",
+      "values": [
+        "italského",
+        "německého",
+        "amerického",
+        "izraelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Romain Rolland",
+      "values": [
+        "českého",
+        "francouzského",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Kupka",
+      "values": [
+        "slovenského",
+        "irského",
+        "indického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Penélope Cruzová",
+      "values": [
+        "španělského",
+        "australského",
+        "francouzského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eduard Tomáš",
+      "values": [
+        "španělského",
+        "britského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Dědeček",
+      "values": [
+        "českého",
+        "italského",
+        "ruského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Linda Perry",
+      "values": [
+        "německého",
+        "belgického",
+        "izraelského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Henry David Thoreau",
+      "values": [
+        "italského",
+        "amerického",
+        "australského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rob Zombie",
+      "values": [
+        "slovenského",
+        "nizozemského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jukka Nevalainen",
+      "values": [
+        "belgického",
+        "rakouského",
+        "irského",
+        "finského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

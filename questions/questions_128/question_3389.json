@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte město podle paláce",
+  "questions": [
+    {
+      "key": "Westminsterský palác",
+      "values": [
+        "Olomouc",
+        "Florencie",
+        "Londýn",
+        "Řím"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lobkovický palác",
+      "values": [
+        "Brno",
+        "Vídeň",
+        "Bratislava",
+        "Praha"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dům pánů z Lipé",
+      "values": [
+        "Brno",
+        "Paříž",
+        "Madrid",
+        "Petrohrad"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Drottningholmský palác",
+      "values": [
+        "Stockholm",
+        "Olomouc",
+        "Vídeň",
+        "Madrid"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Palais des Tuileries",
+      "values": [
+        "Brno",
+        "Madrid",
+        "Paříž",
+        "Řím"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Palazzo Venezia",
+      "values": [
+        "Brno",
+        "Paříž",
+        "Bratislava",
+        "Řím"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Schrattenbachův palác",
+      "values": [
+        "Brno",
+        "Stockholm",
+        "Petrohrad",
+        "Bratislava"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Palais du Luxembourg",
+      "values": [
+        "Praha",
+        "Brno",
+        "Londýn",
+        "Paříž"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hauenschildův palác",
+      "values": [
+        "Řím",
+        "Praha",
+        "Olomouc",
+        "Petrohrad"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bargello",
+      "values": [
+        "Petrohrad",
+        "Florencie",
+        "Paříž",
+        "Vídeň"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

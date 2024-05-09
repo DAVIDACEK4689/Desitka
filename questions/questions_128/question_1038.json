@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Spaghetti aglio e olio",
+      "values": [
+        "švýcarskou",
+        "italskou",
+        "dánskou",
+        "irskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pršut",
+      "values": [
+        "anglickou",
+        "italskou",
+        "středoamerickou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Popcorn",
+      "values": [
+        "anglickou",
+        "americkou",
+        "belgickou",
+        "chorvatskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ovar",
+      "values": [
+        "českou",
+        "středoamerickou",
+        "německou",
+        "dánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Currywurst",
+      "values": [
+        "anglickou",
+        "středomořskou",
+        "skotskou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Caprese",
+      "values": [
+        "středoamerickou",
+        "italskou",
+        "norskou",
+        "thajskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ciabatta",
+      "values": [
+        "italskou",
+        "skotskou",
+        "ruskou",
+        "islandskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Schwarzwaldský dort",
+      "values": [
+        "australskou",
+        "rakouskou",
+        "německou",
+        "finskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Charčo",
+      "values": [
+        "gruzínskou",
+        "ukrajinskou",
+        "dánskou",
+        "japonskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sukijaki",
+      "values": [
+        "vietnamskou",
+        "japonskou",
+        "španělskou",
+        "australskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

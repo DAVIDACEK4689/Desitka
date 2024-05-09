@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Londýn",
+      "values": [
+        "Spojené království",
+        "Irsko",
+        "Maďarsko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lisabon",
+      "values": [
+        "Portugalsko",
+        "Maďarsko",
+        "Slovensko",
+        "Irsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stuttgart",
+      "values": [
+        "Německo",
+        "Belgie",
+        "Itálie",
+        "Portugalsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Siena",
+      "values": [
+        "Itálie",
+        "Portugalsko",
+        "Spojené království",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ulm",
+      "values": [
+        "Spojené království",
+        "Česko",
+        "Německo",
+        "Rakousko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mannheim",
+      "values": [
+        "Nizozemsko",
+        "Německo",
+        "Irsko",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Southampton",
+      "values": [
+        "Slovensko",
+        "Spojené království",
+        "Rakousko",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vicenza",
+      "values": [
+        "Spojené království",
+        "Itálie",
+        "Slovensko",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Exeter",
+      "values": [
+        "Slovensko",
+        "Německo",
+        "Maďarsko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sassari",
+      "values": [
+        "Rakousko",
+        "Belgie",
+        "Itálie",
+        "Nizozemsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

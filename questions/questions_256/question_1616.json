@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Petr Janda",
+      "values": [
+        "amerického",
+        "slovenského",
+        "českého",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Macháček",
+      "values": [
+        "islandského",
+        "českého",
+        "německého",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Peter Nagy",
+      "values": [
+        "českého",
+        "slovenského",
+        "srbského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Pivec",
+      "values": [
+        "švýcarského",
+        "dánského",
+        "argentinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roman Dragoun",
+      "values": [
+        "jihokorejského",
+        "brazilského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Don Johnson",
+      "values": [
+        "norského",
+        "amerického",
+        "italského",
+        "jihoafrického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tom DeLonge",
+      "values": [
+        "sovětského",
+        "francouzského",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Trace Cyrus",
+      "values": [
+        "srbského",
+        "irského",
+        "amerického",
+        "skotského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vlasta Henych",
+      "values": [
+        "norského",
+        "dánského",
+        "českého",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Richard Pachman",
+      "values": [
+        "švédského",
+        "českého",
+        "švýcarského",
+        "jihokorejského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

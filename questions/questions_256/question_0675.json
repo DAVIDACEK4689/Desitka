@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistku?",
+  "questions": [
+    {
+      "key": "Serena Williamsová",
+      "values": [
+        "estonskou",
+        "ukrajinskou",
+        "americkou",
+        "švýcarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Venus Williamsová",
+      "values": [
+        "tuniskou",
+        "americkou",
+        "polskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kristýna Plíšková",
+      "values": [
+        "japonskou",
+        "chorvatskou",
+        "českou",
+        "argentinskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Belinda Bencicová",
+      "values": [
+        "kanadskou",
+        "švýcarskou",
+        "estonskou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Maria Sakkariová",
+      "values": [
+        "českou",
+        "polskou",
+        "řeckou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Veronika Kuděrmetovová",
+      "values": [
+        "ruskou",
+        "běloruskou",
+        "dánskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lucie Havlíčková",
+      "values": [
+        "českou",
+        "japonskou",
+        "francouzskou",
+        "polskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Agnieszka Radwańská",
+      "values": [
+        "lotyšskou",
+        "polskou",
+        "britskou",
+        "československou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Iveta Benešová",
+      "values": [
+        "českou",
+        "rumunskou",
+        "francouzskou",
+        "brazilskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Věra Zvonarevová",
+      "values": [
+        "československou",
+        "srbskou",
+        "dánskou",
+        "ruskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

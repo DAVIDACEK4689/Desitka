@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle soutěsky",
+  "questions": [
+    {
+      "key": "Soutěsky Kamenice",
+      "values": [
+        "Chorvatsko",
+        "Česko",
+        "Slovensko",
+        "Rakousko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Thermopyly",
+      "values": [
+        "Česko",
+        "Francie",
+        "Řecko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Grand canyon du Verdon",
+      "values": [
+        "Česko",
+        "Řecko",
+        "Slovensko",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Paklenica",
+      "values": [
+        "Slovensko",
+        "Česko",
+        "Chorvatsko",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bobří soutěska",
+      "values": [
+        "Chorvatsko",
+        "Rumunsko",
+        "Francie",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lichtenštejnská soutěska",
+      "values": [
+        "Slovensko",
+        "Rumunsko",
+        "Rakousko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Iľanovská dolina",
+      "values": [
+        "Česko",
+        "Slovensko",
+        "Rumunsko",
+        "Francie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bicazská soutěska",
+      "values": [
+        "Chorvatsko",
+        "Rumunsko",
+        "Slovensko",
+        "Francie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Medvědí soutěska",
+      "values": [
+        "Francie",
+        "Rakousko",
+        "Česko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vikos",
+      "values": [
+        "Řecko",
+        "Francie",
+        "Česko",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Italská kuchyně",
+      "values": [
+        "islandskou",
+        "japonskou",
+        "středomořskou",
+        "korejskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tafelspitz",
+      "values": [
+        "irskou",
+        "řeckou",
+        "rakouskou",
+        "australskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gazpacho",
+      "values": [
+        "skotskou",
+        "chorvatskou",
+        "francouzskou",
+        "španělskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nutella",
+      "values": [
+        "anglickou",
+        "australskou",
+        "francouzskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Houbová omáčka",
+      "values": [
+        "portugalskou",
+        "českou",
+        "řeckou",
+        "australskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pibimbap",
+      "values": [
+        "maďarskou",
+        "balkánskou",
+        "australskou",
+        "korejskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Velouté",
+      "values": [
+        "rakouskou",
+        "islandskou",
+        "švédskou",
+        "francouzskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Toast",
+      "values": [
+        "arabskou",
+        "rakouskou",
+        "australskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Crumble",
+      "values": [
+        "britskou",
+        "brazilskou",
+        "thajskou",
+        "českou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Frittata",
+      "values": [
+        "italskou",
+        "dánskou",
+        "finskou",
+        "kanadskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

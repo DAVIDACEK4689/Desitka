@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Daniel Hůlka",
+      "values": [
+        "gruzínského",
+        "nizozemského",
+        "českého",
+        "guatemalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oldřich Lipský",
+      "values": [
+        "novozélandského",
+        "thajského",
+        "českého",
+        "indonéského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eman Fiala",
+      "values": [
+        "irského",
+        "japonského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kevin Bacon",
+      "values": [
+        "amerického",
+        "nizozemského",
+        "guatemalského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Krejčíř",
+      "values": [
+        "chilského",
+        "norského",
+        "tureckého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rolf Wanka",
+      "values": [
+        "rakouského",
+        "novozélandského",
+        "amerického",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Troy Baker",
+      "values": [
+        "švédského",
+        "amerického",
+        "rakouského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Udo Thomer",
+      "values": [
+        "německého",
+        "argentinského",
+        "polského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Brož",
+      "values": [
+        "českého",
+        "jamajského",
+        "polského",
+        "guatemalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jürgen Prochnow",
+      "values": [
+        "slovenského",
+        "sovětského",
+        "německého",
+        "novozélandského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

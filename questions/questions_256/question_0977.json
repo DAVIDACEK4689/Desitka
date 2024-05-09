@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "Leonardo da Vinci",
+      "values": [
+        "maďarského",
+        "italského",
+        "portugalského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Strach",
+      "values": [
+        "německého",
+        "švýcarského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andrea Bocelli",
+      "values": [
+        "italského",
+        "českého",
+        "amerického",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gian Lorenzo Bernini",
+      "values": [
+        "kanadského",
+        "švýcarského",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roman Joch",
+      "values": [
+        "kanadského",
+        "českého",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "John Krasinski",
+      "values": [
+        "českého",
+        "amerického",
+        "německého",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Francesco Totti",
+      "values": [
+        "amerického",
+        "maďarského",
+        "italského",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Evangelista Torricelli",
+      "values": [
+        "švýcarského",
+        "kanadského",
+        "francouzského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Djibril Cissé",
+      "values": [
+        "italského",
+        "portugalského",
+        "francouzského",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Bratinka",
+      "values": [
+        "německého",
+        "českého",
+        "britského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

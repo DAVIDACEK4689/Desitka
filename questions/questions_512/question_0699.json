@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte kontinent podle fauny",
+  "questions": [
+    {
+      "key": "Kapybara",
+      "values": [
+        "Severní Amerika",
+        "Střední Amerika",
+        "Evropa",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Varan komodský",
+      "values": [
+        "Střední Amerika",
+        "Asie",
+        "Jižní Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fenek",
+      "values": [
+        "Evropa",
+        "Afrika",
+        "Asie",
+        "Antarktida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Krokodýl mořský",
+      "values": [
+        "Severní Amerika",
+        "Asie",
+        "Afrika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nosorožec tuponosý",
+      "values": [
+        "Severní Amerika",
+        "Afrika",
+        "Střední Amerika",
+        "Antarktida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gaviál indický",
+      "values": [
+        "Evropa",
+        "Afrika",
+        "Antarktida",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pakůň",
+      "values": [
+        "Jižní Amerika",
+        "Antarktida",
+        "Asie",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Medvěd malajský",
+      "values": [
+        "Evropa",
+        "Severní Amerika",
+        "Afrika",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Orangutan bornejský",
+      "values": [
+        "Severní Amerika",
+        "Asie",
+        "Antarktida",
+        "Evropa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Levhart mandžuský",
+      "values": [
+        "Asie",
+        "Jižní Amerika",
+        "Střední Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

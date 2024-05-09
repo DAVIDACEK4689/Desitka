@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Rajská omáčka",
+      "values": [
+        "středoamerickou",
+        "perskou",
+        "českou",
+        "vietnamskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čedar",
+      "values": [
+        "španělskou",
+        "tureckou",
+        "anglickou",
+        "tibetskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fuet",
+      "values": [
+        "středomořskou",
+        "arménskou",
+        "indickou",
+        "španělskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Francesinha",
+      "values": [
+        "kanadskou",
+        "laoskou",
+        "arabskou",
+        "portugalskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Brynzové halušky",
+      "values": [
+        "slovenskou",
+        "francouzskou",
+        "anglickou",
+        "indonéskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Salade niçoise",
+      "values": [
+        "španělskou",
+        "francouzskou",
+        "korejskou",
+        "litevskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Umeocet",
+      "values": [
+        "japonskou",
+        "vietnamskou",
+        "indickou",
+        "tibetskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rivella",
+      "values": [
+        "arabskou",
+        "tibetskou",
+        "rakouskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sambal",
+      "values": [
+        "arabskou",
+        "čínskou",
+        "indonéskou",
+        "skotskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čchusok",
+      "values": [
+        "korejskou",
+        "švédskou",
+        "brazilskou",
+        "středoamerickou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

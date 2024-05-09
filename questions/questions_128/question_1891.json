@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle premiéra",
+  "questions": [
+    {
+      "key": "Winston Churchill",
+      "values": [
+        "Rusko",
+        "Dánsko",
+        "Lucembursko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Golda Meirová",
+      "values": [
+        "Izrael",
+        "Grónsko",
+        "Libanon",
+        "Lotyšsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "António Guterres",
+      "values": [
+        "Portugalsko",
+        "Ázerbájdžán",
+        "Gruzie",
+        "Ukrajina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Georges Pompidou",
+      "values": [
+        "Maroko",
+        "Jihoafrická republika",
+        "Francie",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kyriakos Mitsotakis",
+      "values": [
+        "Slovensko",
+        "Litva",
+        "Izrael",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Andrej Plenković",
+      "values": [
+        "Chorvatsko",
+        "Ukrajina",
+        "Irsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jonas Gahr Støre",
+      "values": [
+        "Norsko",
+        "Srbsko",
+        "Egypt",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Manuel Valls",
+      "values": [
+        "Francie",
+        "Rumunsko",
+        "Malta",
+        "Finsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stjepan Mesić",
+      "values": [
+        "Estonsko",
+        "Chorvatsko",
+        "Austrálie",
+        "Finsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kevin Rudd",
+      "values": [
+        "Singapur",
+        "Austrálie",
+        "Japonsko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

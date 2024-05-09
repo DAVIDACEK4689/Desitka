@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva u Little Bighornu",
+      "values": [
+        "1434",
+        "1040",
+        "1876",
+        "1314"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Kressenbrunnu",
+      "values": [
+        "1881",
+        "1995",
+        "1260",
+        "1953"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva o Halič",
+      "values": [
+        "636",
+        "1947",
+        "1805",
+        "1914"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Německá invaze do Dánska",
+      "values": [
+        "2024",
+        "1940",
+        "1800",
+        "1014"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u ostrovů Santa Cruz",
+      "values": [
+        "495",
+        "1942",
+        "1438",
+        "1468"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Falklandských ostrovů",
+      "values": [
+        "1745",
+        "1877",
+        "1914",
+        "1697"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva na Neretvě",
+      "values": [
+        "1943",
+        "1427",
+        "1853",
+        "1915"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva ve Žlutém moři",
+      "values": [
+        "1904",
+        "1253",
+        "1298",
+        "1014"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Dettingenu",
+      "values": [
+        "907",
+        "1428",
+        "1940",
+        "1743"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gruzínské povstání na Texelu",
+      "values": [
+        "2023",
+        "1945",
+        "1332",
+        "1380"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

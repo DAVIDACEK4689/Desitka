@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte autora podle stavby",
+  "questions": [
+    {
+      "key": "Nuselský most",
+      "values": [
+        "Stanislav Franc",
+        "Victor Horta",
+        "Stanislav Hubička",
+        "Karel Filsak"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Most Legií",
+      "values": [
+        "Antonín Balšánek",
+        "Pavel Janák",
+        "Adolf Benš",
+        "Otakar Novotný"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vila Otto Petschka",
+      "values": [
+        "Max Spielmann",
+        "František Albert Libra",
+        "Josef Gočár",
+        "Stanislav Hubička"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Maják Járy Cimrmana",
+      "values": [
+        "Martin Rajniš",
+        "Josef Zasche",
+        "Emil Králíček",
+        "Jiří Stibral"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Palác Dunaj",
+      "values": [
+        "Jindřich Freiwald",
+        "Carlo Lurago",
+        "Adolf Foehr",
+        "Hanuš Zápal"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Palác Luxor",
+      "values": [
+        "Bohumír Kozák",
+        "Osvald Polívka",
+        "Josef Danda",
+        "Kamil Roškot"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Majáková a vodárenská věž Kbely",
+      "values": [
+        "Jože Plečnik",
+        "Otakar Novotný",
+        "Vladimír Karfík",
+        "Jan Kaplický"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vila Josefa Andera",
+      "values": [
+        "Josef Zasche",
+        "Josef Fanta",
+        "Josef Schulz",
+        "Bohumír Čermák"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hlávkovy domy",
+      "values": [
+        "Vojtěch Ignác Ullmann",
+        "Stanislav Franc",
+        "Josef Fanta",
+        "Kilián Ignác Dientzenhofer"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Commerzbank Tower",
+      "values": [
+        "Adolf Foehr",
+        "Frank Lloyd Wright",
+        "Norman Foster",
+        "Josef Gočár"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

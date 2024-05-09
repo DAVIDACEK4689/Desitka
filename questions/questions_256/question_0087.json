@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] ateistu?",
+  "questions": [
+    {
+      "key": "Petr Pavel",
+      "values": [
+        "indického",
+        "českého",
+        "ruského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Daniel Radcliffe",
+      "values": [
+        "italského",
+        "rumunského",
+        "židovského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Juraj Herz",
+      "values": [
+        "českého",
+        "švýcarského",
+        "arménského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Giuseppe Garibaldi",
+      "values": [
+        "italského",
+        "maďarského",
+        "běloruského",
+        "židovského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dmitrij Šostakovič",
+      "values": [
+        "ruského",
+        "švýcarského",
+        "slovinského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miloslav Ransdorf",
+      "values": [
+        "francouzského",
+        "ukrajinského",
+        "kanadského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "William James Sidis",
+      "values": [
+        "německého",
+        "židovského",
+        "chorvatského",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Burrhus Frederic Skinner",
+      "values": [
+        "chorvatského",
+        "španělského",
+        "albánského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Olga Tokarczuková",
+      "values": [
+        "arménského",
+        "rumunského",
+        "italského",
+        "polského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Wilhelm Pieck",
+      "values": [
+        "německého",
+        "gruzínského",
+        "norského",
+        "kubánského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

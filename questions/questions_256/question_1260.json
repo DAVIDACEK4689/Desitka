@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] hudbu?",
+  "questions": [
+    {
+      "key": "Live Aid",
+      "values": [
+        "finskou",
+        "ukrajinskou",
+        "britskou",
+        "portugalskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hymna Spojeného království",
+      "values": [
+        "německou",
+        "americkou",
+        "britskou",
+        "mexickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dragostea Din Tei",
+      "values": [
+        "slovenskou",
+        "ukrajinskou",
+        "portugalskou",
+        "moldavskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Flamenco",
+      "values": [
+        "sovětskou",
+        "španělskou",
+        "bosenskou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Billboard Hot 100",
+      "values": [
+        "americkou",
+        "portugalskou",
+        "německou",
+        "českou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fujara",
+      "values": [
+        "slovenskou",
+        "brazilskou",
+        "mexickou",
+        "finskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pařížská šestka",
+      "values": [
+        "francouzskou",
+        "českou",
+        "mexickou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fado",
+      "values": [
+        "portugalskou",
+        "rakouskou",
+        "ruskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Billboard 200",
+      "values": [
+        "moldavskou",
+        "jihokorejskou",
+        "ruskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mariachi",
+      "values": [
+        "rakouskou",
+        "izraelskou",
+        "mexickou",
+        "brazilskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

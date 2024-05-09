@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vegetariána?",
+  "questions": [
+    {
+      "key": "Jaroslav Dušek",
+      "values": [
+        "španělského",
+        "českého",
+        "britského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Antoni Gaudí",
+      "values": [
+        "španělského",
+        "australského",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "George Bernard Shaw",
+      "values": [
+        "izraelského",
+        "německého",
+        "kanadského",
+        "irského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Loretta Switová",
+      "values": [
+        "kanadského",
+        "amerického",
+        "finského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sadie Sink",
+      "values": [
+        "nizozemského",
+        "amerického",
+        "izraelského",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nina Hagen",
+      "values": [
+        "francouzského",
+        "slovenského",
+        "německého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rob Zombie",
+      "values": [
+        "britského",
+        "slovenského",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Christine Lagardeová",
+      "values": [
+        "francouzského",
+        "italského",
+        "amerického",
+        "indického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jorja Fox",
+      "values": [
+        "amerického",
+        "francouzského",
+        "belgického",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nikolaj Leskov",
+      "values": [
+        "italského",
+        "ruského",
+        "nizozemského",
+        "indického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

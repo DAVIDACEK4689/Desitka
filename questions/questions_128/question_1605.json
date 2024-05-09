@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Kukuřice setá",
+      "values": [
+        "Austrálie",
+        "Madagaskar",
+        "Mexiko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kakaovník pravý",
+      "values": [
+        "Brazílie",
+        "Mexiko",
+        "Japonsko",
+        "Mongolsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cesmína paraguayská",
+      "values": [
+        "Brazílie",
+        "Austrálie",
+        "Nový Zéland",
+        "Mongolsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jícnovka",
+      "values": [
+        "Japonsko",
+        "Austrálie",
+        "Mexiko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Myrhovník",
+      "values": [
+        "Česko",
+        "Brazílie",
+        "Mongolsko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Agáve modrá",
+      "values": [
+        "Mexiko",
+        "Mongolsko",
+        "Česko",
+        "Japonsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gardénie",
+      "values": [
+        "Austrálie",
+        "Mongolsko",
+        "Madagaskar",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pepřovec",
+      "values": [
+        "Mexiko",
+        "Mongolsko",
+        "Nový Zéland",
+        "Brazílie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Konopice",
+      "values": [
+        "Japonsko",
+        "Mongolsko",
+        "Nový Zéland",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hadinec červený",
+      "values": [
+        "Česko",
+        "Brazílie",
+        "Mongolsko",
+        "Japonsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

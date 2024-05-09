@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Dana Medřická",
+      "values": [
+        "kubánskou",
+        "mexickou",
+        "českou",
+        "indickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Inna Čurikovová",
+      "values": [
+        "ruskou",
+        "španělskou",
+        "indickou",
+        "izraelskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Veronika Gajerová",
+      "values": [
+        "dánskou",
+        "jihokorejskou",
+        "českou",
+        "indickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Viktorie Čermáková",
+      "values": [
+        "irskou",
+        "českou",
+        "americkou",
+        "norskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aimee Lou Wood",
+      "values": [
+        "britskou",
+        "francouzskou",
+        "ruskou",
+        "australskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eva Gorčicová",
+      "values": [
+        "kolumbijskou",
+        "uzbeckou",
+        "českou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zoë Wanamaker",
+      "values": [
+        "britskou",
+        "francouzskou",
+        "finskou",
+        "uzbeckou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Daniela Bianchi",
+      "values": [
+        "švýcarskou",
+        "norskou",
+        "italskou",
+        "argentinskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tereza Groszmannová",
+      "values": [
+        "švédskou",
+        "indickou",
+        "francouzskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Louise Brealey",
+      "values": [
+        "bermudskou",
+        "britskou",
+        "norskou",
+        "belgickou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

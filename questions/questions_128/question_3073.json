@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vědce?",
+  "questions": [
+    {
+      "key": "Jan Amos Komenský",
+      "values": [
+        "švédského",
+        "chorvatského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gerty Coriová",
+      "values": [
+        "švédského",
+        "maďarského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Jan Juračka",
+      "values": [
+        "českého",
+        "amerického",
+        "sovětského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Emanuel Swedenborg",
+      "values": [
+        "rakouského",
+        "francouzského",
+        "maďarského",
+        "švédského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Jesenský",
+      "values": [
+        "maďarského",
+        "rakouského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Brož",
+      "values": [
+        "českého",
+        "švýcarského",
+        "rakouského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Athanasius Kircher",
+      "values": [
+        "německého",
+        "švédského",
+        "chorvatského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Helena Zitková",
+      "values": [
+        "rakouského",
+        "švédského",
+        "českého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Valentin Gluško",
+      "values": [
+        "švýcarského",
+        "britského",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Čáda",
+      "values": [
+        "chorvatského",
+        "rakouského",
+        "sovětského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

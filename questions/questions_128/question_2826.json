@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Bratislava",
+      "values": [
+        "Váha",
+        "Lužická Nisa",
+        "Dunaj",
+        "Tis"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čelákovice",
+      "values": [
+        "Labe",
+        "Lužická Nisa",
+        "Úhlava",
+        "Dněpr"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Braník",
+      "values": [
+        "Dyje",
+        "Vltava",
+        "Visla",
+        "Bečva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hamr na Jezeře",
+      "values": [
+        "Lužnice",
+        "Emže",
+        "Seina",
+        "Ploučnice"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Velký Šenov",
+      "values": [
+        "Sebnice",
+        "Váha",
+        "Seina",
+        "Volha"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Horní Police",
+      "values": [
+        "Seina",
+        "Emže",
+        "Ploučnice",
+        "Sázava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oppidum České Lhotice",
+      "values": [
+        "Sebnice",
+        "Chrudimka",
+        "Vltava",
+        "Bečva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Prosečnice",
+      "values": [
+        "Sázava",
+        "Rýn",
+        "Ploučnice",
+        "Něva"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Neustadt in Sachsen",
+      "values": [
+        "Polenz",
+        "Úslava",
+        "Metuje",
+        "Labe"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Branov",
+      "values": [
+        "Lužická Nisa",
+        "Ohře",
+        "Metuje",
+        "Berounka"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

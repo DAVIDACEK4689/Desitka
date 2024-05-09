@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "Josef Abrhám",
+      "values": [
+        "švýcarského",
+        "francouzského",
+        "českého",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vlastimil Válek",
+      "values": [
+        "portugalského",
+        "českého",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ernst Gideon von Laudon",
+      "values": [
+        "kanadského",
+        "německého",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bohuslav Reynek",
+      "values": [
+        "portugalského",
+        "českého",
+        "maďarského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zdeněk Hraba",
+      "values": [
+        "českého",
+        "amerického",
+        "německého",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Komorous",
+      "values": [
+        "italského",
+        "českého",
+        "německého",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paolo Veronese",
+      "values": [
+        "litevského",
+        "německého",
+        "kanadského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jánoš Korvín",
+      "values": [
+        "maďarského",
+        "portugalského",
+        "kanadského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Božena Česká",
+      "values": [
+        "litevského",
+        "amerického",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Louis Ducruet",
+      "values": [
+        "německého",
+        "českého",
+        "monackého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

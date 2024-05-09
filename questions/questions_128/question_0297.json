@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle prezidenta",
+  "questions": [
+    {
+      "key": "Tomáš Garrigue Masaryk",
+      "values": [
+        "Libanon",
+        "Malta",
+        "Dominikánská republika",
+        "Československo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Idi Amin",
+      "values": [
+        "Libanon",
+        "Libérie",
+        "Uganda",
+        "Paraguay"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Klaus Iohannis",
+      "values": [
+        "Somálsko",
+        "Rakousko",
+        "Angola",
+        "Rumunsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mohamed Farrah Aidid",
+      "values": [
+        "Somálsko",
+        "Abcházie",
+        "Portugalsko",
+        "Gambie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paul Kagame",
+      "values": [
+        "Ázerbájdžán",
+        "Rwanda",
+        "Rakousko",
+        "Rovníková Guinea"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dina Boluarteová",
+      "values": [
+        "Estonsko",
+        "Indie",
+        "Nikaragua",
+        "Pero"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Traian Băsescu",
+      "values": [
+        "Mongolsko",
+        "Rumunsko",
+        "Nigérie",
+        "Finsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hage Geingob",
+      "values": [
+        "Libérie",
+        "Pero",
+        "Namibie",
+        "Ekvádor"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stanisław Wojciechowski",
+      "values": [
+        "Moldavsko",
+        "Mexiko",
+        "Polsko",
+        "Indonésie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Antanas Smetona",
+      "values": [
+        "Izrael",
+        "Litva",
+        "Irsko",
+        "Kazachstán"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

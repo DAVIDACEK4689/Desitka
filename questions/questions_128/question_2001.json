@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Fjodor Michajlovič Dostojevskij",
+      "values": [
+        "belgického",
+        "litevského",
+        "albánského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Edmund Hillary",
+      "values": [
+        "novozélandského",
+        "polského",
+        "jihoafrického",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Thomas King",
+      "values": [
+        "martinického",
+        "kanadského",
+        "uruguayského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Nejedlý",
+      "values": [
+        "českého",
+        "běloruského",
+        "izraelského",
+        "indického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Opluštil",
+      "values": [
+        "českého",
+        "malajsijského",
+        "finského",
+        "uruguayského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Milan Kozelka",
+      "values": [
+        "českého",
+        "martinického",
+        "estonského",
+        "islandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ladislav Quis",
+      "values": [
+        "ruského",
+        "českého",
+        "novozélandského",
+        "běloruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Bilbo Reidinger",
+      "values": [
+        "indického",
+        "českého",
+        "maďarského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nikolaj Michajlovič Karamzin",
+      "values": [
+        "britského",
+        "belgického",
+        "irského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Francisco de Quevedo",
+      "values": [
+        "španělského",
+        "maďarského",
+        "estonského",
+        "islandského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte autora podle stavby",
+  "questions": [
+    {
+      "key": "Müllerova vila",
+      "values": [
+        "Adolf Loos",
+        "Josef Zítek",
+        "Hanuš Zápal",
+        "Josef Schulz"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pivovar Velké Popovice",
+      "values": [
+        "Oscar Niemeyer",
+        "Adolf Loos",
+        "Jiří Stibral",
+        "Richard Klenka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Wenkeův obchodní dům",
+      "values": [
+        "Frank Gehry",
+        "Josef Gočár",
+        "Josef Fanta",
+        "Josef Danda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Schönbornský palác",
+      "values": [
+        "Rudolf Stockar",
+        "Jindřich Freiwald",
+        "Giovanni Battista Alliprandi",
+        "Max Spielmann"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Palác Lažanských",
+      "values": [
+        "Karel Prager",
+        "Emil Králíček",
+        "Vojtěch Ignác Ullmann",
+        "Alois Dryák"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kostel Neposkvrněného početí Panny Marie a svatého Ignáce",
+      "values": [
+        "Karel Prager",
+        "Josef Fanta",
+        "Carlo Lurago",
+        "Pavel Janák"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kafkova vila",
+      "values": [
+        "Frank Gehry",
+        "Jiří Stibral",
+        "Hanuš Zápal",
+        "Pavel Janák"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Leopoldsruhe",
+      "values": [
+        "Josef Gočár",
+        "Ludvík Kysela",
+        "Stanislav Hubička",
+        "František Antonín Grimm"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gymnázium Luďka Pika",
+      "values": [
+        "Hanuš Zápal",
+        "Carlo Lurago",
+        "Stanislav Franc",
+        "Václav Aulický"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dům Tristana Tzary",
+      "values": [
+        "Alois Dryák",
+        "Karel Filsak",
+        "Adolf Loos",
+        "Giovanni Battista Alliprandi"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

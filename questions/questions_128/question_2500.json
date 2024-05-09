@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] novináře?",
+  "questions": [
+    {
+      "key": "Ján Kuciak",
+      "values": [
+        "japonského",
+        "chorvatského",
+        "slovenského",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaroslav Durych",
+      "values": [
+        "českého",
+        "bulharského",
+        "mexického",
+        "finského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Václav Dolejší",
+      "values": [
+        "finského",
+        "českého",
+        "arménského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Světlana Alexijevičová",
+      "values": [
+        "íránského",
+        "amerického",
+        "německého",
+        "sovětského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Robert Čásenský",
+      "values": [
+        "finského",
+        "britského",
+        "českého",
+        "chorvatského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Prokop Chocholoušek",
+      "values": [
+        "chorvatského",
+        "kolumbijského",
+        "českého",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Patrik Blažek",
+      "values": [
+        "kolumbijského",
+        "polského",
+        "slovinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Štefan Rais",
+      "values": [
+        "československého",
+        "rakouského",
+        "slovenského",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Miljukov",
+      "values": [
+        "rakouského",
+        "ruského",
+        "kanadského",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexandr Něvzorov",
+      "values": [
+        "ruského",
+        "íránského",
+        "dánského",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

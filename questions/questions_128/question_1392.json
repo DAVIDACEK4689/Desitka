@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte kontinent podle fauny",
+  "questions": [
+    {
+      "key": "Sršeň asijská",
+      "values": [
+        "Antarktida",
+        "Jižní Amerika",
+        "Afrika",
+        "Evropa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Piraňa obecná",
+      "values": [
+        "Jižní Amerika",
+        "Evropa",
+        "Asie",
+        "Antarktida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nosorožec tuponosý severní",
+      "values": [
+        "Evropa",
+        "Střední Amerika",
+        "Jižní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Žirafa síťovaná",
+      "values": [
+        "Afrika",
+        "Antarktida",
+        "Asie",
+        "Evropa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fauna Česka",
+      "values": [
+        "Jižní Amerika",
+        "Antarktida",
+        "Evropa",
+        "Asie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zmije levantská",
+      "values": [
+        "Střední Amerika",
+        "Asie",
+        "Jižní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Srnčík čínský",
+      "values": [
+        "Evropa",
+        "Asie",
+        "Antarktida",
+        "Afrika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Otylka krátkohlavá",
+      "values": [
+        "Evropa",
+        "Jižní Amerika",
+        "Severní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Liška kana",
+      "values": [
+        "Evropa",
+        "Severní Amerika",
+        "Asie",
+        "Střední Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pralesnička barvířská",
+      "values": [
+        "Afrika",
+        "Jižní Amerika",
+        "Severní Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

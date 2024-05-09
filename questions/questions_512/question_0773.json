@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Benátky",
+      "values": [
+        "Německo",
+        "Itálie",
+        "Irsko",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hamburk",
+      "values": [
+        "Slovensko",
+        "Portugalsko",
+        "Maďarsko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bologna",
+      "values": [
+        "Spojené království",
+        "Irsko",
+        "Itálie",
+        "Rakousko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Katánie",
+      "values": [
+        "Česko",
+        "Portugalsko",
+        "Itálie",
+        "Spojené království"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mohuč",
+      "values": [
+        "Itálie",
+        "Rakousko",
+        "Německo",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Augsburg",
+      "values": [
+        "Rakousko",
+        "Dánsko",
+        "Slovensko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zvolen",
+      "values": [
+        "Irsko",
+        "Belgie",
+        "Slovensko",
+        "Polsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karlsruhe",
+      "values": [
+        "Nizozemsko",
+        "Česko",
+        "Polsko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Münster",
+      "values": [
+        "Itálie",
+        "Portugalsko",
+        "Německo",
+        "Slovensko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lecce",
+      "values": [
+        "Rakousko",
+        "Maďarsko",
+        "Itálie",
+        "Polsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

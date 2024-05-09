@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte moře podle přístavního města",
+  "questions": [
+    {
+      "key": "Londýn",
+      "values": [
+        "Baltské moře",
+        "Irské moře",
+        "Severní moře",
+        "Rudé moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marsá Alam",
+      "values": [
+        "Bílé moře",
+        "Severní moře",
+        "Marmarské moře",
+        "Rudé moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Belfast",
+      "values": [
+        "Marmarské moře",
+        "Azovské moře",
+        "Irské moře",
+        "Bílé moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Akaba",
+      "values": [
+        "Bílé moře",
+        "Azovské moře",
+        "Rudé moře",
+        "Černé moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vyborg",
+      "values": [
+        "Marmarské moře",
+        "Bílé moře",
+        "Baltské moře",
+        "Rudé moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jūrmala",
+      "values": [
+        "Černé moře",
+        "Baltské moře",
+        "Rudé moře",
+        "Bílé moře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Greifswald",
+      "values": [
+        "Azovské moře",
+        "Baltské moře",
+        "Bílé moře",
+        "Marmarské moře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Warnemünde",
+      "values": [
+        "Rudé moře",
+        "Černé moře",
+        "Marmarské moře",
+        "Baltské moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dordrecht",
+      "values": [
+        "Irské moře",
+        "Severní moře",
+        "Marmarské moře",
+        "Azovské moře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Puerto Plata",
+      "values": [
+        "Severní moře",
+        "Karibské moře",
+        "Baltské moře",
+        "Marmarské moře"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

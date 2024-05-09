@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] evropskou kulturu?",
+  "questions": [
+    {
+      "key": "Řečtina",
+      "values": [
+        "italskou",
+        "běloruskou",
+        "tureckou",
+        "řeckou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bludný Holanďan",
+      "values": [
+        "nizozemskou",
+        "ruskou",
+        "řeckou",
+        "maďarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Imbolc",
+      "values": [
+        "britskou",
+        "běloruskou",
+        "irskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čardáš",
+      "values": [
+        "maďarskou",
+        "tureckou",
+        "francouzskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Shamrock",
+      "values": [
+        "irskou",
+        "britskou",
+        "německou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Barbizonská škola",
+      "values": [
+        "francouzskou",
+        "irskou",
+        "švýcarskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Père Noël",
+      "values": [
+        "britskou",
+        "španělskou",
+        "maďarskou",
+        "francouzskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Schlaraffia",
+      "values": [
+        "rakouskou",
+        "irskou",
+        "ruskou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nahá Maja",
+      "values": [
+        "maďarskou",
+        "běloruskou",
+        "španělskou",
+        "tureckou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Velcí Řekové",
+      "values": [
+        "řeckou",
+        "španělskou",
+        "švýcarskou",
+        "běloruskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

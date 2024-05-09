@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Adam Mišík",
+      "values": [
+        "italského",
+        "českého",
+        "slovenského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Roman Ondráček",
+      "values": [
+        "moldavského",
+        "skotského",
+        "českého",
+        "jihokorejského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eros Ramazzotti",
+      "values": [
+        "italského",
+        "mexického",
+        "irského",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Spálený",
+      "values": [
+        "brazilského",
+        "českého",
+        "alžírského",
+        "novozélandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Billy Joel",
+      "values": [
+        "irského",
+        "amerického",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aidan Gallagher",
+      "values": [
+        "moldavského",
+        "švýcarského",
+        "jihokorejského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Robert Palmer",
+      "values": [
+        "britského",
+        "českého",
+        "brazilského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Arnošt Kavka",
+      "values": [
+        "amerického",
+        "srbského",
+        "kanadského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ondřej Konrád",
+      "values": [
+        "moldavského",
+        "portorického",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Måns Zelmerlöw",
+      "values": [
+        "dánského",
+        "amerického",
+        "jihoafrického",
+        "švédského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

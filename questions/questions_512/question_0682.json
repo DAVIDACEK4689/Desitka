@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] cyklistu?",
+  "questions": [
+    {
+      "key": "Tadej Pogačar",
+      "values": [
+        "slovenského",
+        "českého",
+        "slovinského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jonas Vingegaard",
+      "values": [
+        "belgického",
+        "dánského",
+        "amerického",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Primož Roglič",
+      "values": [
+        "slovinského",
+        "dánského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mathieu van der Poel",
+      "values": [
+        "švýcarského",
+        "dánského",
+        "amerického",
+        "nizozemského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chris Froome",
+      "values": [
+        "britského",
+        "slovinského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mark Cavendish",
+      "values": [
+        "španělského",
+        "amerického",
+        "britského",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Remco Evenepoel",
+      "values": [
+        "belgického",
+        "českého",
+        "slovenského",
+        "československého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nino Schurter",
+      "values": [
+        "španělského",
+        "britského",
+        "amerického",
+        "švýcarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gino Mäder",
+      "values": [
+        "dánského",
+        "švýcarského",
+        "nizozemského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bekim Aziri",
+      "values": [
+        "švýcarského",
+        "slovenského",
+        "britského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

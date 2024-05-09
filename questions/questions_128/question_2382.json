@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Berlín",
+      "values": [
+        "Palau",
+        "Srbsko",
+        "Německo",
+        "Zambie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kluž",
+      "values": [
+        "Pero",
+        "Rumunsko",
+        "Rakousko",
+        "Vanuatu"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eindhoven",
+      "values": [
+        "Nizozemsko",
+        "Irák",
+        "Malta",
+        "Tuvalu"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Adana",
+      "values": [
+        "Turecko",
+        "Indonésie",
+        "Severní Makedonie",
+        "Vanuatu"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kesong",
+      "values": [
+        "Severní Korea",
+        "Itálie",
+        "Súdán",
+        "Benin"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Satu Mare",
+      "values": [
+        "Moldavsko",
+        "Ukrajina",
+        "Rumunsko",
+        "Indie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Edam",
+      "values": [
+        "Paraguay",
+        "Kiribati",
+        "Nizozemsko",
+        "Marshallovy ostrovy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lalibela",
+      "values": [
+        "Nový Zéland",
+        "Etiopie",
+        "Madagaskar",
+        "Kambodža"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Teruel",
+      "values": [
+        "Paraguay",
+        "Španělsko",
+        "Gabon",
+        "Irsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hilversum",
+      "values": [
+        "Nizozemsko",
+        "Turkmenistán",
+        "Rumunsko",
+        "Súdán"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

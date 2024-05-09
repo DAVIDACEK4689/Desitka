@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Popenec obecný",
+      "values": [
+        "Mexiko",
+        "Nový Zéland",
+        "Mongolsko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bolehlav plamatý",
+      "values": [
+        "Mexiko",
+        "Brazílie",
+        "Česko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pažitka pobřežní",
+      "values": [
+        "Madagaskar",
+        "Mongolsko",
+        "Nový Zéland",
+        "Brazílie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Brusnice brusinka",
+      "values": [
+        "Mongolsko",
+        "Brazílie",
+        "Austrálie",
+        "Mexiko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stévie sladká",
+      "values": [
+        "Austrálie",
+        "Brazílie",
+        "Madagaskar",
+        "Mongolsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mochna husí",
+      "values": [
+        "Austrálie",
+        "Brazílie",
+        "Mongolsko",
+        "Mexiko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fenykl",
+      "values": [
+        "Madagaskar",
+        "Mexiko",
+        "Česko",
+        "Austrálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lilie zlatohlavá",
+      "values": [
+        "Austrálie",
+        "Madagaskar",
+        "Mexiko",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Krásenka zpeřená",
+      "values": [
+        "Mexiko",
+        "Mongolsko",
+        "Austrálie",
+        "Brazílie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kaučukovník",
+      "values": [
+        "Brazílie",
+        "Česko",
+        "Mongolsko",
+        "Austrálie"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

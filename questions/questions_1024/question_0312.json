@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] malíře?",
+  "questions": [
+    {
+      "key": "Alfons Mucha",
+      "values": [
+        "amerického",
+        "českého",
+        "ukrajinského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "John Wayne Gacy",
+      "values": [
+        "norského",
+        "mexického",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Caravaggio",
+      "values": [
+        "rakouského",
+        "německého",
+        "italského",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Paul Gauguin",
+      "values": [
+        "ruského",
+        "mexického",
+        "francouzského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Paul Stanley",
+      "values": [
+        "amerického",
+        "rakouského",
+        "řeckého",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Henrik Ibsen",
+      "values": [
+        "italského",
+        "francouzského",
+        "norského",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Henri Rousseau",
+      "values": [
+        "ruského",
+        "italského",
+        "francouzského",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Taras Ševčenko",
+      "values": [
+        "řeckého",
+        "ukrajinského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "El Greco",
+      "values": [
+        "norského",
+        "řeckého",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Diego Rivera",
+      "values": [
+        "ruského",
+        "řeckého",
+        "mexického",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

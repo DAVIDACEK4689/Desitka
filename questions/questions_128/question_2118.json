@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotografa?",
+  "questions": [
+    {
+      "key": "Ondřej Neff",
+      "values": [
+        "amerického",
+        "anglického",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Auguste a Louis Lumièrové",
+      "values": [
+        "francouzského",
+        "maďarského",
+        "italského",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "August Strindberg",
+      "values": [
+        "italského",
+        "anglického",
+        "švédského",
+        "vietnamského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vilém Heckel",
+      "values": [
+        "českého",
+        "amerického",
+        "polského",
+        "vietnamského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eadweard Muybridge",
+      "values": [
+        "ruského",
+        "kanadského",
+        "anglického",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaromír Funke",
+      "values": [
+        "mexického",
+        "českého",
+        "italského",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Wim Wenders",
+      "values": [
+        "německého",
+        "rumunského",
+        "mexického",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mathew Brady",
+      "values": [
+        "francouzského",
+        "amerického",
+        "brazilského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sebastião Salgado",
+      "values": [
+        "anglického",
+        "švédského",
+        "brazilského",
+        "vietnamského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Zachariáš Quast",
+      "values": [
+        "jihoafrického",
+        "českého",
+        "mexického",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

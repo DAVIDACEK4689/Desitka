@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] román?",
+  "questions": [
+    {
+      "key": "Robinson Crusoe",
+      "values": [
+        "americký",
+        "anglický",
+        "britský",
+        "německý"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hraničářův učeň",
+      "values": [
+        "německý",
+        "francouzský",
+        "polský",
+        "australský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petrolejové lampy",
+      "values": [
+        "italský",
+        "ruský",
+        "český",
+        "rakouský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zbabělci",
+      "values": [
+        "český",
+        "irský",
+        "čínský",
+        "francouzský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jako zabít ptáčka",
+      "values": [
+        "americký",
+        "ruský",
+        "polský",
+        "italský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tulák po hvězdách",
+      "values": [
+        "americký",
+        "francouzský",
+        "český",
+        "irský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nadějné vyhlídky",
+      "values": [
+        "španělský",
+        "polský",
+        "anglický",
+        "francouzský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stepní vlk",
+      "values": [
+        "francouzský",
+        "český",
+        "italský",
+        "německý"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dobrá znamení",
+      "values": [
+        "anglický",
+        "japonský",
+        "italský",
+        "rakouský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Old Surehand",
+      "values": [
+        "francouzský",
+        "čínský",
+        "německý",
+        "americký"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte sport podle ruského sportovce",
+  "questions": [
+    {
+      "key": "Daniil Medveděv",
+      "values": [
+        "šachista",
+        "fotbalista",
+        "lední hokejista",
+        "tenista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pavel Bure",
+      "values": [
+        "šachista",
+        "tenista",
+        "fotbalista",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Valentin Afonin",
+      "values": [
+        "šachista",
+        "fotbalista",
+        "lední hokejista",
+        "tenista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Boris Spasskij",
+      "values": [
+        "lední hokejista",
+        "šachista",
+        "tenista",
+        "fotbalista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karen Chačanov",
+      "values": [
+        "lední hokejista",
+        "fotbalista",
+        "šachista",
+        "tenista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sergej Fjodorov",
+      "values": [
+        "fotbalista",
+        "lední hokejista",
+        "šachista",
+        "tenista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavel Dacjuk",
+      "values": [
+        "šachista",
+        "lední hokejista",
+        "tenista",
+        "fotbalista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michail Botvinnik",
+      "values": [
+        "lední hokejista",
+        "tenista",
+        "šachista",
+        "fotbalista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marat Safin",
+      "values": [
+        "lední hokejista",
+        "tenista",
+        "šachista",
+        "fotbalista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Valerij Bure",
+      "values": [
+        "lední hokejista",
+        "šachista",
+        "tenista",
+        "fotbalista"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

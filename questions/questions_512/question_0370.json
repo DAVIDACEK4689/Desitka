@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte autora podle stavby",
+  "questions": [
+    {
+      "key": "Klementinum",
+      "values": [
+        "Stanislav Hubička",
+        "Carlo Lurago",
+        "Vladimír Karfík",
+        "Adolf Loos"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fakultní Thomayerova nemocnice",
+      "values": [
+        "Bohumír Kozák",
+        "Josef Danda",
+        "Stanislav Hubička",
+        "Giovanni Battista Alliprandi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pardubické krematorium",
+      "values": [
+        "Pavel Janák",
+        "Adolf Loos",
+        "Karel Filsak",
+        "Bohumír Kozák"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Müllerova vila",
+      "values": [
+        "Adolf Loos",
+        "Jan Kaplický",
+        "Friedrich Ohmann",
+        "Bohumír Kozák"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pardubice hlavní nádraží",
+      "values": [
+        "Bohumír Kozák",
+        "Josef Danda",
+        "Giovanni Battista Alliprandi",
+        "Kamil Roškot"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Most Legií",
+      "values": [
+        "Antonín Balšánek",
+        "Bohumír Kozák",
+        "Stanislav Franc",
+        "Josef Schulz"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zámecký park Průhonice",
+      "values": [
+        "Vladimír Karfík",
+        "Jiří Stibral",
+        "Norman Foster",
+        "Karel Filsak"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Národní knihovna na Letné",
+      "values": [
+        "Kamil Roškot",
+        "Adolf Loos",
+        "Karel Filsak",
+        "Jan Kaplický"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Guggenheimovo muzeum",
+      "values": [
+        "Friedrich Ohmann",
+        "Norman Foster",
+        "Frank Lloyd Wright",
+        "Giovanni Battista Alliprandi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hlávkův most",
+      "values": [
+        "Pavel Janák",
+        "Otakar Novotný",
+        "Frank Lloyd Wright",
+        "Jan Kaplický"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

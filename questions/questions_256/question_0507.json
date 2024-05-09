@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Karel Poláček",
+      "values": [
+        "kyrgyzského",
+        "nizozemského",
+        "norského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Giacomo Casanova",
+      "values": [
+        "běloruského",
+        "italského",
+        "srbského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Erik Erikson",
+      "values": [
+        "jihoafrického",
+        "maďarského",
+        "belgického",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Rokycana",
+      "values": [
+        "filipínského",
+        "japonského",
+        "českého",
+        "jihoafrického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Antonín Jaroslav Puchmajer",
+      "values": [
+        "českého",
+        "peruánského",
+        "litevského",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chuck Palahniuk",
+      "values": [
+        "amerického",
+        "britského",
+        "novozélandského",
+        "chilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladimír Preclík",
+      "values": [
+        "argentinského",
+        "českého",
+        "novozélandského",
+        "belgického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaroslav Skála",
+      "values": [
+        "českého",
+        "španělského",
+        "německého",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michalina Olszańska",
+      "values": [
+        "italského",
+        "ázerbájdžánského",
+        "norského",
+        "polského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Antonín Pitínský",
+      "values": [
+        "švýcarského",
+        "ruského",
+        "peruánského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Česká Lípa",
+      "values": [
+        "Ploučnice",
+        "Mandava",
+        "Chrudimka",
+        "Emže"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kazaň",
+      "values": [
+        "Visla",
+        "Volha",
+        "Úhlava",
+        "Těrek"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Perugia",
+      "values": [
+        "Inn",
+        "Berounka",
+        "Tibera",
+        "Eufrat"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiříkov",
+      "values": [
+        "Spréva",
+        "Ohře",
+        "Inn",
+        "Jizera"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rachov",
+      "values": [
+        "Tibera",
+        "Temže",
+        "Tis",
+        "Seina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tušť",
+      "values": [
+        "Svratka",
+        "Lužnice",
+        "Metuje",
+        "Chrudimka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Brodce",
+      "values": [
+        "Temže",
+        "Lužnice",
+        "Berounka",
+        "Jizera"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lštění",
+      "values": [
+        "Sázava",
+        "Lužnice",
+        "Tibera",
+        "Emže"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vidin",
+      "values": [
+        "Sázava",
+        "Eufrat",
+        "Dunaj",
+        "Bečva"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Koštice",
+      "values": [
+        "Hron",
+        "Ohře",
+        "Radbuza",
+        "Labe"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] šlechtický rod?",
+  "questions": [
+    {
+      "key": "Kinští",
+      "values": [
+        "italský",
+        "skotský",
+        "německý",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Černínové z Chudenic",
+      "values": [
+        "český",
+        "francouzský",
+        "italský",
+        "německý"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stuartovci",
+      "values": [
+        "skotský",
+        "turecký",
+        "italský",
+        "franský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kolovratové",
+      "values": [
+        "český",
+        "rakouský",
+        "anglický",
+        "turecký"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vršovci",
+      "values": [
+        "litevský",
+        "anglický",
+        "uherský",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hannoverská dynastie",
+      "values": [
+        "německý",
+        "moravský",
+        "skotský",
+        "litevský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karlovci",
+      "values": [
+        "francouzský",
+        "anglický",
+        "franský",
+        "český"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vartenberkové",
+      "values": [
+        "anglický",
+        "španělský",
+        "litevský",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bubnové z Litic",
+      "values": [
+        "francouzský",
+        "český",
+        "anglický",
+        "moravský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hildprandtové z Ottenhausenu",
+      "values": [
+        "německý",
+        "francouzský",
+        "český",
+        "rakouský"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

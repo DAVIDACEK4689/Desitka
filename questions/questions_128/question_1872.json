@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] leteckou společnost?",
+  "questions": [
+    {
+      "key": "Wizz Air",
+      "values": [
+        "maďarskou",
+        "kolumbijskou",
+        "nizozemskou",
+        "českou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eurowings",
+      "values": [
+        "polskou",
+        "americkou",
+        "německou",
+        "belgickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Iberia",
+      "values": [
+        "polskou",
+        "irskou",
+        "německou",
+        "španělskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Air Serbia",
+      "values": [
+        "srbskou",
+        "chorvatskou",
+        "černohorskou",
+        "izraelskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Scandinavian Airlines",
+      "values": [
+        "lotyšskou",
+        "britskou",
+        "čínskou",
+        "norskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Air China",
+      "values": [
+        "čínskou",
+        "jihokorejskou",
+        "chorvatskou",
+        "srbskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Germanwings",
+      "values": [
+        "německou",
+        "černohorskou",
+        "mexickou",
+        "kanadskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alaska Airlines",
+      "values": [
+        "mexickou",
+        "rakouskou",
+        "čínskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "US Airways",
+      "values": [
+        "rumunskou",
+        "americkou",
+        "norskou",
+        "islandskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Montenegro Airlines",
+      "values": [
+        "mexickou",
+        "polskou",
+        "norskou",
+        "černohorskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

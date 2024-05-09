@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Alice Bendová",
+      "values": [
+        "českou",
+        "slovenskou",
+        "dánskou",
+        "jihoafrickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Markéta Hrubešová",
+      "values": [
+        "českou",
+        "irskou",
+        "argentinskou",
+        "australskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kim Basinger",
+      "values": [
+        "nizozemskou",
+        "britskou",
+        "švýcarskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karolína Kurková",
+      "values": [
+        "českou",
+        "slovenskou",
+        "nizozemskou",
+        "maďarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nina Agdalová",
+      "values": [
+        "dánskou",
+        "kanadskou",
+        "francouzskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petra Minářová",
+      "values": [
+        "argentinskou",
+        "českou",
+        "kanadskou",
+        "irskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bridget Moynahan",
+      "values": [
+        "maďarskou",
+        "americkou",
+        "německou",
+        "japonskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nikola Kokyová",
+      "values": [
+        "japonskou",
+        "českou",
+        "italskou",
+        "slovenskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Šárka Cojocarová",
+      "values": [
+        "venezuelskou",
+        "jihoafrickou",
+        "francouzskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Adéla Vartová",
+      "values": [
+        "českou",
+        "ruskou",
+        "dánskou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte sport podle olympijského vítěze",
+  "questions": [
+    {
+      "key": "Pep Guardiola",
+      "values": [
+        "tenis",
+        "fotbal",
+        "golf",
+        "cyklistika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vladimir Kličko",
+      "values": [
+        "biatlon",
+        "zápas",
+        "akrobatické lyžování",
+        "box"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oleksandr Usyk",
+      "values": [
+        "biatlon",
+        "sportovní gymnastika",
+        "lední hokej",
+        "box"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ondrej Nepela",
+      "values": [
+        "lední hokej",
+        "krasobruslení",
+        "judo",
+        "akrobatické lyžování"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaroslav Kulhavý",
+      "values": [
+        "judo",
+        "cyklistika",
+        "alpské lyžování",
+        "krasobruslení"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nino Schurter",
+      "values": [
+        "golf",
+        "lední hokej",
+        "fotbal",
+        "cyklistika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alois Hudec",
+      "values": [
+        "sportovní střelba",
+        "sportovní gymnastika",
+        "alpské lyžování",
+        "biatlon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miguel Indurain",
+      "values": [
+        "krasobruslení",
+        "sportovní střelba",
+        "cyklistika",
+        "box"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bedřich Šupčík",
+      "values": [
+        "sportovní gymnastika",
+        "lední hokej",
+        "golf",
+        "alpské lyžování"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David Kostelecký",
+      "values": [
+        "sportovní střelba",
+        "alpské lyžování",
+        "lední hokej",
+        "krasobruslení"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

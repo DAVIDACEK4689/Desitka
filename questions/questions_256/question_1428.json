@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte kontinent podle fauny",
+  "questions": [
+    {
+      "key": "Tygr",
+      "values": [
+        "Severní Amerika",
+        "Evropa",
+        "Afrika",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fenek",
+      "values": [
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Evropa",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rypouš sloní",
+      "values": [
+        "Antarktida",
+        "Asie",
+        "Jižní Amerika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nosál červený",
+      "values": [
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Afrika",
+        "Asie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pralesnička azurová",
+      "values": [
+        "Jižní Amerika",
+        "Střední Amerika",
+        "Afrika",
+        "Antarktida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Velemlok čínský",
+      "values": [
+        "Severní Amerika",
+        "Evropa",
+        "Střední Amerika",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Strašilka ďábelská",
+      "values": [
+        "Asie",
+        "Střední Amerika",
+        "Evropa",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Guanako",
+      "values": [
+        "Jižní Amerika",
+        "Severní Amerika",
+        "Asie",
+        "Evropa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oviječ skvrnitý",
+      "values": [
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Střední Amerika",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Skokan krátkonohý",
+      "values": [
+        "Střední Amerika",
+        "Evropa",
+        "Asie",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

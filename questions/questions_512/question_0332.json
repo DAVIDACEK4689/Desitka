@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte jazyk podle opery",
+  "questions": [
+    {
+      "key": "Prodaná nevěsta",
+      "values": [
+        "italština",
+        "němčina",
+        "čeština",
+        "francouzština"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nabucco",
+      "values": [
+        "francouzština",
+        "italština",
+        "čeština",
+        "němčina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Don Giovanni",
+      "values": [
+        "italština",
+        "francouzština",
+        "angličtina",
+        "němčina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Figarova svatba",
+      "values": [
+        "francouzština",
+        "čeština",
+        "italština",
+        "angličtina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Turandot",
+      "values": [
+        "italština",
+        "němčina",
+        "angličtina",
+        "francouzština"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Prsten Nibelungův",
+      "values": [
+        "angličtina",
+        "italština",
+        "němčina",
+        "čeština"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Braniboři v Čechách",
+      "values": [
+        "francouzština",
+        "italština",
+        "čeština",
+        "němčina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Così fan tutte",
+      "values": [
+        "čeština",
+        "němčina",
+        "angličtina",
+        "italština"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lohengrin",
+      "values": [
+        "čeština",
+        "němčina",
+        "angličtina",
+        "italština"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Žebrácká opera",
+      "values": [
+        "angličtina",
+        "němčina",
+        "italština",
+        "čeština"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

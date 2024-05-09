@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] boxera?",
+  "questions": [
+    {
+      "key": "Emerich Rath",
+      "values": [
+        "českého",
+        "ugandského",
+        "maďarského",
+        "novozélandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladimir Kličko",
+      "values": [
+        "ukrajinského",
+        "německého",
+        "filipínského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rocky Marciano",
+      "values": [
+        "panamského",
+        "novozélandského",
+        "amerického",
+        "československého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lennox Lewis",
+      "values": [
+        "německého",
+        "českého",
+        "ruského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sugar Ray Robinson",
+      "values": [
+        "ruského",
+        "amerického",
+        "ugandského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Frank Bruno",
+      "values": [
+        "novozélandského",
+        "ukrajinského",
+        "ruského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Laila Ali",
+      "values": [
+        "amerického",
+        "německého",
+        "ruského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Johann Trollmann",
+      "values": [
+        "francouzského",
+        "československého",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Haye",
+      "values": [
+        "ukrajinského",
+        "britského",
+        "polského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Nekolný",
+      "values": [
+        "ugandského",
+        "československého",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

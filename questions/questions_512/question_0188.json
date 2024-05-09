@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle českého sportovce",
+  "questions": [
+    {
+      "key": "David Krejčí",
+      "values": [
+        "fotbalista",
+        "lední hokejista",
+        "kajakář",
+        "horolezec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Korda",
+      "values": [
+        "šachista",
+        "tenista",
+        "kanoista",
+        "rybář"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ondřej Sekora",
+      "values": [
+        "rychlostní kanoista",
+        "horolezec",
+        "ragbista",
+        "kanoista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Bém",
+      "values": [
+        "horolezec",
+        "šachista",
+        "bojový umělec",
+        "kajakář"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Pliska",
+      "values": [
+        "ragbista",
+        "basketbalista",
+        "boxer",
+        "horolezec"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ondřej Kacetl",
+      "values": [
+        "zápasník",
+        "cyklista",
+        "lední hokejista",
+        "kanoista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Filip Trojovský",
+      "values": [
+        "rybář",
+        "kickboxeři",
+        "cyklista",
+        "horolezec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Kaut",
+      "values": [
+        "lední hokejista",
+        "basketbalista",
+        "kanoista",
+        "cyklista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Csaplár",
+      "values": [
+        "bojový umělec",
+        "kanoista",
+        "fotbalista",
+        "zápasník"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Welsch",
+      "values": [
+        "basketbalista",
+        "akrobatický letec",
+        "ragbista",
+        "tenista"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Boris Kollár",
+      "values": [
+        "švédského",
+        "rakouského",
+        "mexického",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Julija Tymošenková",
+      "values": [
+        "slovenského",
+        "ukrajinského",
+        "švýcarského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Carroll Shelby",
+      "values": [
+        "amerického",
+        "slovenského",
+        "kanadského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Heinrich Mattoni",
+      "values": [
+        "jihoafrického",
+        "polského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andrej Hryc",
+      "values": [
+        "indického",
+        "slovenského",
+        "nizozemského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bob Lazar",
+      "values": [
+        "libanonského",
+        "amerického",
+        "kanadského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Filip Hausknecht",
+      "values": [
+        "řeckého",
+        "českého",
+        "belgického",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "John McAfee",
+      "values": [
+        "polského",
+        "španělského",
+        "amerického",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miroslav Černošek",
+      "values": [
+        "polského",
+        "jihoafrického",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Friedrich Wilhelm Raiffeisen",
+      "values": [
+        "mexického",
+        "španělského",
+        "německého",
+        "indického"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

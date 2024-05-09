@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] automobilku?",
+  "questions": [
+    {
+      "key": "BMW",
+      "values": [
+        "australskou",
+        "americkou",
+        "německou",
+        "vietnamskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "McLaren",
+      "values": [
+        "britskou",
+        "indickou",
+        "australskou",
+        "japonskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Peugeot",
+      "values": [
+        "francouzskou",
+        "jihokorejskou",
+        "švýcarskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jeep",
+      "values": [
+        "australskou",
+        "americkou",
+        "ruskou",
+        "maďarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Maybach",
+      "values": [
+        "britskou",
+        "indickou",
+        "německou",
+        "polskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mitsubishi Motors",
+      "values": [
+        "italskou",
+        "americkou",
+        "japonskou",
+        "čínskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Holden",
+      "values": [
+        "ruskou",
+        "sovětskou",
+        "rakouskou",
+        "australskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Agrostroj Pelhřimov",
+      "values": [
+        "belgickou",
+        "ruskou",
+        "českou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kirovův závod",
+      "values": [
+        "indickou",
+        "polskou",
+        "sovětskou",
+        "slovenskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hans Glas",
+      "values": [
+        "belgickou",
+        "ruskou",
+        "indickou",
+        "německou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

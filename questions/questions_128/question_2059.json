@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistku?",
+  "questions": [
+    {
+      "key": "Serena Williamsová",
+      "values": [
+        "americkou",
+        "tuniskou",
+        "nizozemskou",
+        "belgickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martina Hingisová",
+      "values": [
+        "japonskou",
+        "švýcarskou",
+        "řeckou",
+        "rumunskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Naomi Ósakaová",
+      "values": [
+        "japonskou",
+        "českou",
+        "estonskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Caroline Garciaová",
+      "values": [
+        "japonskou",
+        "českou",
+        "francouzskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alizé Cornetová",
+      "values": [
+        "rakouskou",
+        "francouzskou",
+        "egyptskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Anhelina Kalininová",
+      "values": [
+        "ukrajinskou",
+        "rakouskou",
+        "egyptskou",
+        "argentinskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Erika Andrejevová",
+      "values": [
+        "kolumbijskou",
+        "lotyšskou",
+        "argentinskou",
+        "ruskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Anna Kalinská",
+      "values": [
+        "nizozemskou",
+        "ruskou",
+        "ukrajinskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sara Sorribesová Tormová",
+      "values": [
+        "řeckou",
+        "španělskou",
+        "brazilskou",
+        "belgickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexandra Panovová",
+      "values": [
+        "rumunskou",
+        "slovenskou",
+        "belgickou",
+        "ruskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

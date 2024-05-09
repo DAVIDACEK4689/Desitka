@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] mediální firmu?",
+  "questions": [
+    {
+      "key": "Marvel Studios",
+      "values": [
+        "britskou",
+        "americkou",
+        "českou",
+        "japonskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "BBC",
+      "values": [
+        "japonskou",
+        "britskou",
+        "českou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Forbes",
+      "values": [
+        "japonskou",
+        "britskou",
+        "americkou",
+        "českou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "FTV Prima",
+      "values": [
+        "britskou",
+        "českou",
+        "americkou",
+        "japonskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Westinghouse",
+      "values": [
+        "britskou",
+        "českou",
+        "americkou",
+        "japonskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Blue Sky Studios",
+      "values": [
+        "britskou",
+        "českou",
+        "japonskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bontonfilm",
+      "values": [
+        "americkou",
+        "britskou",
+        "českou",
+        "japonskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mediální skupina A 11",
+      "values": [
+        "americkou",
+        "japonskou",
+        "českou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Columbia Pictures",
+      "values": [
+        "britskou",
+        "českou",
+        "japonskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "ITV",
+      "values": [
+        "japonskou",
+        "britskou",
+        "americkou",
+        "českou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

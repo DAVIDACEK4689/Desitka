@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] firmu?",
+  "questions": [
+    {
+      "key": "The Lego Group",
+      "values": [
+        "nizozemskou",
+        "izraelskou",
+        "dánskou",
+        "japonskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Primark",
+      "values": [
+        "českou",
+        "ruskou",
+        "irskou",
+        "indickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Enron",
+      "values": [
+        "italskou",
+        "vietnamskou",
+        "švýcarskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "The North Face",
+      "values": [
+        "americkou",
+        "ruskou",
+        "maltskou",
+        "maďarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Matchbox",
+      "values": [
+        "britskou",
+        "italskou",
+        "čínskou",
+        "irskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Raytheon Technologies",
+      "values": [
+        "polskou",
+        "jihokorejskou",
+        "americkou",
+        "maltskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Společnost Hudsonova zálivu",
+      "values": [
+        "izraelskou",
+        "dánskou",
+        "finskou",
+        "kanadskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Komatsu",
+      "values": [
+        "saúdskoarabskou",
+        "slovinskou",
+        "irskou",
+        "japonskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Billabong",
+      "values": [
+        "polskou",
+        "italskou",
+        "jihokorejskou",
+        "australskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "ELL Austria",
+      "values": [
+        "českou",
+        "švédskou",
+        "rakouskou",
+        "irskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

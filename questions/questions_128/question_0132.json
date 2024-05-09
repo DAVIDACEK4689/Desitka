@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle vlády",
+  "questions": [
+    {
+      "key": "Vláda Bohuslava Sobotky",
+      "values": [
+        "Spojené království",
+        "Itálie",
+        "Československo",
+        "Česká republika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vláda Eduarda Hegera",
+      "values": [
+        "Československo",
+        "Itálie",
+        "Polsko",
+        "Slovenská republika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Třetí vláda Roberta Fica",
+      "values": [
+        "Ukrajina",
+        "Československo",
+        "Česká republika",
+        "Slovenská republika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vláda Ivety Radičové",
+      "values": [
+        "Ukrajina",
+        "Polsko",
+        "Česká republika",
+        "Slovenská republika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "První vláda Jana Syrového",
+      "values": [
+        "Česká republika",
+        "Československo",
+        "Ukrajina",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vláda Jana Stráského",
+      "values": [
+        "Československo",
+        "Itálie",
+        "Česká republika",
+        "Slovenská republika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pátá vláda Lubomíra Štrougala",
+      "values": [
+        "Československo",
+        "Německo",
+        "Itálie",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "První vláda Jana Černého",
+      "values": [
+        "Československo",
+        "Itálie",
+        "Česká republika",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "První vláda Františka Udržala",
+      "values": [
+        "Slovenská republika",
+        "Československo",
+        "Česká republika",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Druhá vláda Oldřicha Černíka",
+      "values": [
+        "Polsko",
+        "Slovenská republika",
+        "Německo",
+        "Československo"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

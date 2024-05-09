@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] miliardáře?",
+  "questions": [
+    {
+      "key": "Donald Trump",
+      "values": [
+        "slovenského",
+        "amerického",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Howard Hughes",
+      "values": [
+        "britského",
+        "slovenského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Henry Ford",
+      "values": [
+        "amerického",
+        "ruského",
+        "ukrajinského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Šmejc",
+      "values": [
+        "českého",
+        "ruského",
+        "rakouského",
+        "tureckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bernie Ecclestone",
+      "values": [
+        "rakouského",
+        "britského",
+        "ukrajinského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Pudil",
+      "values": [
+        "slovenského",
+        "českého",
+        "ukrajinského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ronald Lauder",
+      "values": [
+        "rakouského",
+        "tureckého",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Edsel Ford",
+      "values": [
+        "amerického",
+        "ruského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Richard Háva",
+      "values": [
+        "rakouského",
+        "ruského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Otava",
+      "values": [
+        "ruského",
+        "britského",
+        "českého",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

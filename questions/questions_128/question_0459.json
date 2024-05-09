@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Lucie Bílá",
+      "values": [
+        "českou",
+        "dánskou",
+        "bermudskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kristýna Badinková Nováková",
+      "values": [
+        "bermudskou",
+        "americkou",
+        "jihoafrickou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lisa Kudrow",
+      "values": [
+        "jihoafrickou",
+        "americkou",
+        "francouzskou",
+        "finskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gisele Bündchenová",
+      "values": [
+        "britskou",
+        "švédskou",
+        "brazilskou",
+        "íránskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Antonie Nedošinská",
+      "values": [
+        "novozélandskou",
+        "uzbeckou",
+        "českou",
+        "australskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Melanie Lynskey",
+      "values": [
+        "slovenskou",
+        "novozélandskou",
+        "řeckou",
+        "chorvatskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bridgit Mendler",
+      "values": [
+        "bulharskou",
+        "americkou",
+        "finskou",
+        "srbskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Valerie Chmelová",
+      "values": [
+        "francouzskou",
+        "argentinskou",
+        "belgickou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dina Meyerová",
+      "values": [
+        "ruskou",
+        "americkou",
+        "britskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Valentina Zenere",
+      "values": [
+        "českou",
+        "irskou",
+        "argentinskou",
+        "ruskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

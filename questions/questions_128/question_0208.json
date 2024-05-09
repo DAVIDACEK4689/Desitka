@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle secesní stavby",
+  "questions": [
+    {
+      "key": "Casa Milà",
+      "values": [
+        "Belgie",
+        "Španělsko",
+        "Česko",
+        "Německo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Casa Batlló",
+      "values": [
+        "Španělsko",
+        "Německo",
+        "Česko",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Psychiatrická nemocnice v Kroměříži",
+      "values": [
+        "Česko",
+        "Španělsko",
+        "Německo",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Památník Bitvy národů",
+      "values": [
+        "Španělsko",
+        "Belgie",
+        "Německo",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Krematorium v Liberci",
+      "values": [
+        "Německo",
+        "Česko",
+        "Španělsko",
+        "Belgie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Galerie moderního umění v Hradci Králové",
+      "values": [
+        "Česko",
+        "Německo",
+        "Belgie",
+        "Španělsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zdymadlo Štvanice",
+      "values": [
+        "Belgie",
+        "Slovensko",
+        "Španělsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kasárna Most",
+      "values": [
+        "Španělsko",
+        "Česko",
+        "Slovensko",
+        "Rakousko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mikulášovická hvězdárna",
+      "values": [
+        "Belgie",
+        "Rakousko",
+        "Německo",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sochorova hrobka",
+      "values": [
+        "Španělsko",
+        "Česko",
+        "Německo",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

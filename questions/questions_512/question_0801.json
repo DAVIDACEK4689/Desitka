@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Vídeň",
+      "values": [
+        "Pákistán",
+        "Gruzie",
+        "Rakousko",
+        "Malta"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Curych",
+      "values": [
+        "Madagaskar",
+        "Maroko",
+        "Myanmar",
+        "Švýcarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nesebar",
+      "values": [
+        "Nepál",
+        "Súdán",
+        "Černá Hora",
+        "Bulharsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rijeka",
+      "values": [
+        "Ázerbájdžán",
+        "Chorvatsko",
+        "Omán",
+        "Švýcarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Veľký Meder",
+      "values": [
+        "Somálsko",
+        "Myanmar",
+        "Irák",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Uppsala",
+      "values": [
+        "Švédsko",
+        "Keňa",
+        "Portugalsko",
+        "Kypr"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marathón",
+      "values": [
+        "Řecko",
+        "Finsko",
+        "Severní Korea",
+        "Estonsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pécs",
+      "values": [
+        "Portugalsko",
+        "Moldavsko",
+        "Belgie",
+        "Maďarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vukovar",
+      "values": [
+        "Chorvatsko",
+        "Švýcarsko",
+        "Švédsko",
+        "Indie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Umag",
+      "values": [
+        "Maďarsko",
+        "Turkmenistán",
+        "Chorvatsko",
+        "Kyrgyzstán"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

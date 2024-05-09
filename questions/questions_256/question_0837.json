@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Vídeň",
+      "values": [
+        "Labe",
+        "Inn",
+        "Dunaj",
+        "Don"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Louny",
+      "values": [
+        "Eufrat",
+        "Ohře",
+        "Rýn",
+        "Loira"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Přibyslav",
+      "values": [
+        "Cidlina",
+        "Tibera",
+        "Sázava",
+        "Váha"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rajhrad",
+      "values": [
+        "Hornád",
+        "Svratka",
+        "Berounka",
+        "Labe"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nýrsko",
+      "values": [
+        "Volha",
+        "Dněpr",
+        "Úhlava",
+        "Don"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kamjanske",
+      "values": [
+        "Temže",
+        "Dunaj",
+        "Dněpr",
+        "Lužická Nisa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Křižánky",
+      "values": [
+        "Dněpr",
+        "Svratka",
+        "Volha",
+        "Visla"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Saratov",
+      "values": [
+        "Sázava",
+        "Bečva",
+        "Hron",
+        "Volha"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Předklášteří",
+      "values": [
+        "Svratka",
+        "Sebnice",
+        "Inn",
+        "Tis"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kestřany",
+      "values": [
+        "Vltava",
+        "Dyje",
+        "Otava",
+        "Rýn"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

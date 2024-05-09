@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] atentátníka?",
+  "questions": [
+    {
+      "key": "Jozef Gabčík",
+      "values": [
+        "slovenského",
+        "polského",
+        "amerického",
+        "anglického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Kubiš",
+      "values": [
+        "slovenského",
+        "českého",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Claus Schenk von Stauffenberg",
+      "values": [
+        "italského",
+        "slovenského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Józef Piłsudski",
+      "values": [
+        "polského",
+        "srbského",
+        "německého",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Valčík",
+      "values": [
+        "slovenského",
+        "ruského",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Guy Fawkes",
+      "values": [
+        "českého",
+        "srbského",
+        "anglického",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luigi Lucheni",
+      "values": [
+        "českého",
+        "anglického",
+        "německého",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fanny Kaplanová",
+      "values": [
+        "francouzského",
+        "ruského",
+        "italského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Charles Harrelson",
+      "values": [
+        "ruského",
+        "českého",
+        "polského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Erwin von Witzleben",
+      "values": [
+        "srbského",
+        "slovenského",
+        "německého",
+        "polského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

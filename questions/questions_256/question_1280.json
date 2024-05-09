@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] firmu?",
+  "questions": [
+    {
+      "key": "Tesco",
+      "values": [
+        "izraelskou",
+        "britskou",
+        "japonskou",
+        "švédskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ahold Delhaize",
+      "values": [
+        "belgickou",
+        "izraelskou",
+        "saúdskoarabskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "PRIM",
+      "values": [
+        "ruskou",
+        "britskou",
+        "kanadskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Patreon",
+      "values": [
+        "finskou",
+        "rakouskou",
+        "chorvatskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "3M",
+      "values": [
+        "saúdskoarabskou",
+        "belgickou",
+        "americkou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bel Ami",
+      "values": [
+        "americkou",
+        "italskou",
+        "slovenskou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Costa Coffee",
+      "values": [
+        "britskou",
+        "jihokorejskou",
+        "saúdskoarabskou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Strabag",
+      "values": [
+        "rakouskou",
+        "slovinskou",
+        "saúdskoarabskou",
+        "švédskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "CEFC China Energy Company Limited",
+      "values": [
+        "čínskou",
+        "chorvatskou",
+        "francouzskou",
+        "dánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rotax",
+      "values": [
+        "chorvatskou",
+        "rakouskou",
+        "španělskou",
+        "čínskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

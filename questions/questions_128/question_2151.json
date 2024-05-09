@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Záhřeb",
+      "values": [
+        "Řecko",
+        "Chorvatsko",
+        "Súdán",
+        "Švýcarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tenochtitlán",
+      "values": [
+        "Japonsko",
+        "Belgie",
+        "Mexiko",
+        "Černá Hora"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Neom",
+      "values": [
+        "Izrael",
+        "Nizozemsko",
+        "Saúdská Arábie",
+        "Ghana"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Puné",
+      "values": [
+        "Írán",
+        "Indie",
+        "Abcházie",
+        "Indonésie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sidón",
+      "values": [
+        "Libanon",
+        "Maďarsko",
+        "Spojené království",
+        "Vanuatu"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Badajoz",
+      "values": [
+        "Ghana",
+        "Ekvádor",
+        "Slovinsko",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karlstad",
+      "values": [
+        "Švédsko",
+        "Bahrajn",
+        "Nikaragua",
+        "Laos"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Korçë",
+      "values": [
+        "Německo",
+        "Albánie",
+        "Madagaskar",
+        "Pero"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Heimaey",
+      "values": [
+        "Island",
+        "Nigérie",
+        "Srbsko",
+        "Bangladéš"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sremski Karlovci",
+      "values": [
+        "Srbsko",
+        "Kolumbie",
+        "Gambie",
+        "Jordánsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

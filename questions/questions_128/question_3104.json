@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] právníka?",
+  "questions": [
+    {
+      "key": "Robert Kaliňák",
+      "values": [
+        "slovenského",
+        "dánského",
+        "lotyšského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Baxa",
+      "values": [
+        "německého",
+        "litevského",
+        "argentinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michael Kohajda",
+      "values": [
+        "lotyšského",
+        "chorvatského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Christine Lagardeová",
+      "values": [
+        "amerického",
+        "portugalského",
+        "slovinského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jean Bodin",
+      "values": [
+        "francouzského",
+        "polského",
+        "litevského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marek Čejka",
+      "values": [
+        "peruánského",
+        "českého",
+        "argentinského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Keir Starmer",
+      "values": [
+        "britského",
+        "slovinského",
+        "ruského",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gustav von Kahr",
+      "values": [
+        "německého",
+        "britského",
+        "peruánského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "László Kövér",
+      "values": [
+        "brazilského",
+        "litevského",
+        "maďarského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivan Pietor",
+      "values": [
+        "slovenského",
+        "rakouského",
+        "chorvatského",
+        "peruánského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Věra Špinarová",
+      "values": [
+        "novozélandskou",
+        "japonskou",
+        "českou",
+        "německou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Loreen",
+      "values": [
+        "švédskou",
+        "francouzskou",
+        "švýcarskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Charlotte Gainsbourgová",
+      "values": [
+        "francouzskou",
+        "portugalskou",
+        "irskou",
+        "srbskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nicol Lenertová",
+      "values": [
+        "českou",
+        "britskou",
+        "polskou",
+        "finskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jessie J",
+      "values": [
+        "českou",
+        "kolumbijskou",
+        "polskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Suzuka Nakamotová",
+      "values": [
+        "australskou",
+        "srbskou",
+        "peruánskou",
+        "japonskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cristin Miliotiová",
+      "values": [
+        "kolumbijskou",
+        "španělskou",
+        "americkou",
+        "slovenskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Faith Evans",
+      "values": [
+        "českou",
+        "brazilskou",
+        "americkou",
+        "slovenskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ema Brabcová",
+      "values": [
+        "islandskou",
+        "brazilskou",
+        "portugalskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eva Cassidy",
+      "values": [
+        "brazilskou",
+        "portugalskou",
+        "americkou",
+        "novozélandskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

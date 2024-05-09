@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] sportovce?",
+  "questions": [
+    {
+      "key": "Arnold Schwarzenegger",
+      "values": [
+        "rakouského",
+        "irského",
+        "súdánského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ip Man",
+      "values": [
+        "amerického",
+        "čínského",
+        "rakouského",
+        "syrského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaroslav Poříz",
+      "values": [
+        "rakouského",
+        "českého",
+        "čínského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Yusra Mardini",
+      "values": [
+        "amerického",
+        "slovenského",
+        "syrského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Don Johnson",
+      "values": [
+        "amerického",
+        "syrského",
+        "thajského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Felix Baumgartner",
+      "values": [
+        "německého",
+        "rakouského",
+        "amerického",
+        "čínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Craig Breen",
+      "values": [
+        "českého",
+        "slovenského",
+        "irského",
+        "súdánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Toreador",
+      "values": [
+        "kanadského",
+        "thajského",
+        "maďarského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Brad Marchand",
+      "values": [
+        "irského",
+        "kanadského",
+        "španělského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Júki Cunoda",
+      "values": [
+        "španělského",
+        "thajského",
+        "syrského",
+        "japonského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

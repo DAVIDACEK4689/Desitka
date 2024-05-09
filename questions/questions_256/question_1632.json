@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Martin Fenin",
+      "values": [
+        "českého",
+        "španělského",
+        "kanadského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Roberto Baggio",
+      "values": [
+        "albánského",
+        "italského",
+        "chilského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bořek Dočkal",
+      "values": [
+        "slovenského",
+        "kanadského",
+        "českého",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Enzo Fernández",
+      "values": [
+        "mexického",
+        "slovenského",
+        "brazilského",
+        "argentinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kamil Čontofalský",
+      "values": [
+        "polského",
+        "slovenského",
+        "kostarického",
+        "argentinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Álvaro Morata",
+      "values": [
+        "uruguayského",
+        "srbského",
+        "amerického",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Raphaël Varane",
+      "values": [
+        "belgického",
+        "francouzského",
+        "argentinského",
+        "nigerijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lukáš Hejda",
+      "values": [
+        "českého",
+        "sovětského",
+        "ruského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rui Costa",
+      "values": [
+        "maďarského",
+        "slovinského",
+        "francouzského",
+        "portugalského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Juan Manuel Mata",
+      "values": [
+        "španělského",
+        "amerického",
+        "anglického",
+        "argentinského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

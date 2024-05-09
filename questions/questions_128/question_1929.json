@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistu?",
+  "questions": [
+    {
+      "key": "Novak Djoković",
+      "values": [
+        "švýcarského",
+        "srbského",
+        "jihoafrického",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stan Wawrinka",
+      "values": [
+        "amerického",
+        "argentinského",
+        "portugalského",
+        "švýcarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Pála",
+      "values": [
+        "českého",
+        "finského",
+        "polského",
+        "bulharského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexandr Bublik",
+      "values": [
+        "kanadského",
+        "maďarského",
+        "ruského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marat Safin",
+      "values": [
+        "německého",
+        "ruského",
+        "íránského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Yannick Noah",
+      "values": [
+        "norského",
+        "francouzského",
+        "maďarského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Diego Schwartzman",
+      "values": [
+        "brazilského",
+        "argentinského",
+        "belgického",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Torben Ulrich",
+      "values": [
+        "jihoafrického",
+        "rakouského",
+        "dánského",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dominik Hrbatý",
+      "values": [
+        "slovenského",
+        "švédského",
+        "německého",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladimír Zedník",
+      "values": [
+        "belgického",
+        "dánského",
+        "československého",
+        "norského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

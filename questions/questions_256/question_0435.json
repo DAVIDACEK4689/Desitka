@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva na Moravském poli",
+      "values": [
+        "1757",
+        "1631",
+        "1942",
+        "1278"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva o Narvik",
+      "values": [
+        "1968",
+        "937",
+        "1940",
+        "1805"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva o Monte Cassino",
+      "values": [
+        "1944",
+        "1380",
+        "1914",
+        "1420"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kapitulace u Világoše",
+      "values": [
+        "1040",
+        "1942",
+        "1298",
+        "1849"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ofenzíva Tet",
+      "values": [
+        "1968",
+        "1469",
+        "1995",
+        "1071"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Útok na Bělgorodskou oblast",
+      "values": [
+        "1526",
+        "1800",
+        "1565",
+        "2023"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Lovosic",
+      "values": [
+        "2024",
+        "1423",
+        "1756",
+        "1800"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Druhá bitva na Marně",
+      "values": [
+        "1918",
+        "1453",
+        "1410",
+        "1424"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva na Berezině",
+      "values": [
+        "1158",
+        "1995",
+        "1800",
+        "1812"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Štefánikova kasárna",
+      "values": [
+        "1632",
+        "1800",
+        "1916",
+        "1945"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

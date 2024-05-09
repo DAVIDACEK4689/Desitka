@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] právníka?",
+  "questions": [
+    {
+      "key": "Joe Biden",
+      "values": [
+        "ruského",
+        "ukrajinského",
+        "italského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zdeněk Mlynář",
+      "values": [
+        "maďarského",
+        "amerického",
+        "mexického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Netolický",
+      "values": [
+        "amerického",
+        "estonského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oldřich Tristan Florian",
+      "values": [
+        "maďarského",
+        "českého",
+        "francouzského",
+        "izraelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tomáš Král",
+      "values": [
+        "českého",
+        "švýcarského",
+        "izraelského",
+        "peruánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Irena Bihariová",
+      "values": [
+        "srbského",
+        "řeckého",
+        "maďarského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ladislav Faktor",
+      "values": [
+        "finského",
+        "chorvatského",
+        "českého",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Malenovský",
+      "values": [
+        "českého",
+        "amerického",
+        "rakouského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "František Berdych starší",
+      "values": [
+        "dánského",
+        "německého",
+        "estonského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rasmus Paludan",
+      "values": [
+        "finského",
+        "dánského",
+        "litevského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Pražské povstání",
+      "values": [
+        "1066",
+        "1176",
+        "1410",
+        "1945"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Gettysburgu",
+      "values": [
+        "1863",
+        "1800",
+        "1396",
+        "1775"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Dien Bien Phu",
+      "values": [
+        "1427",
+        "1240",
+        "1759",
+        "1954"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Druhá bitva u El Alameinu",
+      "values": [
+        "1942",
+        "1421",
+        "1014",
+        "849"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva o Širojamu",
+      "values": [
+        "495",
+        "1877",
+        "1968",
+        "1396"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Záblatí",
+      "values": [
+        "1426",
+        "1302",
+        "1742",
+        "1619"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva o Khe Sanh",
+      "values": [
+        "1863",
+        "1666",
+        "1663",
+        "1968"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chemický útok v Halabdže",
+      "values": [
+        "1988",
+        "1651",
+        "1547",
+        "1626"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Appomattoxu",
+      "values": [
+        "1861",
+        "1905",
+        "1973",
+        "1865"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Vitorie",
+      "values": [
+        "1813",
+        "1254",
+        "1741",
+        "1916"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

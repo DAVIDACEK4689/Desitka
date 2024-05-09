@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Coco Chanel",
+      "values": [
+        "brazilského",
+        "francouzského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marian Kočner",
+      "values": [
+        "belgického",
+        "indického",
+        "slovenského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomáš Chrenek",
+      "values": [
+        "indického",
+        "francouzského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Grete Tugendhat",
+      "values": [
+        "polského",
+        "švýcarského",
+        "německého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zora Kolínska",
+      "values": [
+        "libanonského",
+        "německého",
+        "slovenského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Boris Berezovskij",
+      "values": [
+        "německého",
+        "ruského",
+        "polského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Larry Ellison",
+      "values": [
+        "ruského",
+        "amerického",
+        "švýcarského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andrej Lugovoj",
+      "values": [
+        "ruského",
+        "mexického",
+        "ukrajinského",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Johann Liebieg",
+      "values": [
+        "rakouského",
+        "indického",
+        "libanonského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oszkár Világi",
+      "values": [
+        "nizozemského",
+        "slovenského",
+        "řeckého",
+        "belgického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle nepokoje",
+  "questions": [
+    {
+      "key": "Euromajdan",
+      "values": [
+        "Československo",
+        "Ukrajina",
+        "Francie",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oranžová revoluce",
+      "values": [
+        "Ukrajina",
+        "Francie",
+        "Československo",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Palachův týden",
+      "values": [
+        "Česko",
+        "Francie",
+        "Československo",
+        "Ukrajina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Antiglobalizační protesty v Praze",
+      "values": [
+        "Francie",
+        "Česko",
+        "Československo",
+        "Ukrajina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hnutí žlutých vest",
+      "values": [
+        "Česko",
+        "Československo",
+        "Francie",
+        "Ukrajina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Protiokupační demonstrace v roce 1969",
+      "values": [
+        "Československo",
+        "Ukrajina",
+        "Česko",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hokejová rvačka v Piešťanech 1987",
+      "values": [
+        "Československo",
+        "Ukrajina",
+        "Francie",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Antimajdan",
+      "values": [
+        "Francie",
+        "Česko",
+        "Československo",
+        "Ukrajina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chuchelská bitka",
+      "values": [
+        "Ukrajina",
+        "Česko",
+        "Francie",
+        "Československo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nepokoje na Šluknovsku 2011",
+      "values": [
+        "Francie",
+        "Československo",
+        "Ukrajina",
+        "Česko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

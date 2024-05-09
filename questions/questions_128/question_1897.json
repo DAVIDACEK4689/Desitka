@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle letectví",
+  "questions": [
+    {
+      "key": "Royal Air Force",
+      "values": [
+        "Nový Zéland",
+        "Česko",
+        "Spojené království",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luftstreitkräfte",
+      "values": [
+        "Jihoafrická republika",
+        "Sýrie",
+        "Německo",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bombardování Tokia",
+      "values": [
+        "Jihoafrická republika",
+        "Thajsko",
+        "Japonsko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aeronautica Militare",
+      "values": [
+        "Sýrie",
+        "Sovětský svaz",
+        "Itálie",
+        "Čínská republika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Úřad pro civilní letectví",
+      "values": [
+        "Česko",
+        "Nový Zéland",
+        "Slovensko",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Letecká fakulta Technické univerzity v Košicích",
+      "values": [
+        "Francie",
+        "Jihoafrická republika",
+        "Sýrie",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Výzkumný a zkušební letecký ústav",
+      "values": [
+        "Čínská republika",
+        "Japonsko",
+        "Německo",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Regia Aeronautica",
+      "values": [
+        "Francie",
+        "Spojené království",
+        "Slovensko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Letecká základna Aviano",
+      "values": [
+        "Japonsko",
+        "Itálie",
+        "Československo",
+        "Sovětský svaz"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Royal New Zealand Air Force",
+      "values": [
+        "Francie",
+        "Nový Zéland",
+        "Československo",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

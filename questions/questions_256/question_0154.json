@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle ozbrojené síly",
+  "questions": [
+    {
+      "key": "Wehrmacht",
+      "values": [
+        "Československo",
+        "Rusko",
+        "Ukrajina",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rudá armáda",
+      "values": [
+        "Izrael",
+        "Sovětský svaz",
+        "Česká republika",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Krav maga",
+      "values": [
+        "Francie",
+        "Rusko",
+        "Ukrajina",
+        "Izrael"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karabiniéři",
+      "values": [
+        "Rusko",
+        "Francie",
+        "Itálie",
+        "Izrael"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luftstreitkräfte",
+      "values": [
+        "Polsko",
+        "Německo",
+        "Ukrajina",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stráž obrany státu",
+      "values": [
+        "Německo",
+        "Československo",
+        "Francie",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Střední skupina vojsk",
+      "values": [
+        "Ukrajina",
+        "Německo",
+        "Sovětský svaz",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lajtnant",
+      "values": [
+        "Česká republika",
+        "Izrael",
+        "Polsko",
+        "Sovětský svaz"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Italské ozbrojené síly",
+      "values": [
+        "Francie",
+        "Itálie",
+        "Ukrajina",
+        "Česká republika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "GROM",
+      "values": [
+        "Polsko",
+        "Ukrajina",
+        "Francie",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

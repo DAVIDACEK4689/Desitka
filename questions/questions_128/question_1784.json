@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Astrid Lindgrenová",
+      "values": [
+        "švédského",
+        "švýcarského",
+        "kubánského",
+        "chorvatského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Joy Adamsonová",
+      "values": [
+        "íránského",
+        "srbského",
+        "britského",
+        "argentinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ernst Theodor Wilhelm Hoffmann",
+      "values": [
+        "černohorského",
+        "albánského",
+        "tanzanského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jack Unterweger",
+      "values": [
+        "uruguayského",
+        "nigerijského",
+        "rakouského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Johannes Mario Simmel",
+      "values": [
+        "vietnamského",
+        "egyptského",
+        "běloruského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaroslav Petrbok",
+      "values": [
+        "tureckého",
+        "albánského",
+        "polského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Otto Weininger",
+      "values": [
+        "rakouského",
+        "estonského",
+        "řeckého",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Octave Mirbeau",
+      "values": [
+        "egyptského",
+        "finského",
+        "ruského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Alois Sudiprav Rettig",
+      "values": [
+        "českého",
+        "indického",
+        "gruzínského",
+        "černohorského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hector Hugh Munro",
+      "values": [
+        "ruského",
+        "rakouského",
+        "britského",
+        "brazilského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

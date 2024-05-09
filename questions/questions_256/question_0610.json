@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vynálezce?",
+  "questions": [
+    {
+      "key": "Leonardo da Vinci",
+      "values": [
+        "řeckého",
+        "francouzského",
+        "švýcarského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Evangelista Purkyně",
+      "values": [
+        "švédského",
+        "francouzského",
+        "polského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Johannes Gutenberg",
+      "values": [
+        "belgického",
+        "řeckého",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bratři Wrightové",
+      "values": [
+        "amerického",
+        "kanadského",
+        "belgického",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Auguste a Louis Lumièrové",
+      "values": [
+        "kanadského",
+        "sovětského",
+        "švédského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Trofim Lysenko",
+      "values": [
+        "sovětského",
+        "maďarského",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Evangelista Torricelli",
+      "values": [
+        "maďarského",
+        "rakouského",
+        "sovětského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Denis Papin",
+      "values": [
+        "maďarského",
+        "francouzského",
+        "belgického",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nicéphore Niépce",
+      "values": [
+        "švýcarského",
+        "italského",
+        "francouzského",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gordon Moore",
+      "values": [
+        "italského",
+        "amerického",
+        "sovětského",
+        "irského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

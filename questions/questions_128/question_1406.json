@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte kontinent podle fauny",
+  "questions": [
+    {
+      "key": "Lama alpaka",
+      "values": [
+        "Afrika",
+        "Evropa",
+        "Střední Amerika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pralesnička strašná",
+      "values": [
+        "Jižní Amerika",
+        "Evropa",
+        "Afrika",
+        "Asie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Velryba jižní",
+      "values": [
+        "Asie",
+        "Antarktida",
+        "Střední Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nosorožec sumaterský",
+      "values": [
+        "Evropa",
+        "Severní Amerika",
+        "Asie",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zmije řetízková",
+      "values": [
+        "Jižní Amerika",
+        "Afrika",
+        "Evropa",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Skokan krátkonohý",
+      "values": [
+        "Střední Amerika",
+        "Evropa",
+        "Asie",
+        "Severní Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tygr indočínský",
+      "values": [
+        "Jižní Amerika",
+        "Asie",
+        "Severní Amerika",
+        "Střední Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vřešťan rezavý",
+      "values": [
+        "Severní Amerika",
+        "Antarktida",
+        "Jižní Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Myš bodlinatá",
+      "values": [
+        "Afrika",
+        "Střední Amerika",
+        "Evropa",
+        "Severní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Levhart čínský",
+      "values": [
+        "Afrika",
+        "Střední Amerika",
+        "Antarktida",
+        "Asie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete bojiště podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva o Narvik",
+      "values": [
+        "Polsko",
+        "Norsko",
+        "Mongolsko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Kressenbrunnu",
+      "values": [
+        "Rakousko",
+        "Tunisko",
+        "Indonésie",
+        "Německo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Wagramu",
+      "values": [
+        "Rakousko",
+        "Itálie",
+        "Izrael",
+        "Bělorusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva o Soledar",
+      "values": [
+        "Slovinsko",
+        "Bulharsko",
+        "Ukrajina",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Arabské povstání",
+      "values": [
+        "Sýrie",
+        "Estonsko",
+        "Senegal",
+        "Indie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Gráníku",
+      "values": [
+        "Indie",
+        "Slovinsko",
+        "Turecko",
+        "Tunisko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva o kótu 3234",
+      "values": [
+        "Bělorusko",
+        "Egypt",
+        "Afghánistán",
+        "Tunisko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Nagyharsány",
+      "values": [
+        "Singapur",
+        "Maďarsko",
+        "Estonsko",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Vitorie",
+      "values": [
+        "Belgie",
+        "Papua Nová Guinea",
+        "Španělsko",
+        "Spojené království"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Schöngrabernu",
+      "values": [
+        "Slovensko",
+        "Sasko",
+        "Bavorsko",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

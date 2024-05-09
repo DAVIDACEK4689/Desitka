@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Arnold Schwarzenegger",
+      "values": [
+        "rakouského",
+        "australského",
+        "čínského",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladimír Čech",
+      "values": [
+        "kanadského",
+        "českého",
+        "venezuelského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Václav Knop",
+      "values": [
+        "polského",
+        "argentinského",
+        "jamajského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ethan Hawke",
+      "values": [
+        "mexického",
+        "amerického",
+        "indonéského",
+        "chilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Hanus",
+      "values": [
+        "marockého",
+        "českého",
+        "chilského",
+        "gruzínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Barry Pepper",
+      "values": [
+        "ruského",
+        "bulharského",
+        "švédského",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Errol Flynn",
+      "values": [
+        "gruzínského",
+        "švýcarského",
+        "australského",
+        "čínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rainer Strecker",
+      "values": [
+        "francouzského",
+        "německého",
+        "portorického",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rainer Werner Fassbinder",
+      "values": [
+        "jihoafrického",
+        "švýcarského",
+        "dánského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eddi Arent",
+      "values": [
+        "srbského",
+        "německého",
+        "jihokorejského",
+        "japonského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

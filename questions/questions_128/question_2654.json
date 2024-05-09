@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Bangkok",
+      "values": [
+        "Nikaragua",
+        "Tunisko",
+        "Thajsko",
+        "Bělorusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cancún",
+      "values": [
+        "Mexiko",
+        "Malajsie",
+        "Gruzie",
+        "Japonsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Buchara",
+      "values": [
+        "Jihoafrická republika",
+        "Abcházie",
+        "Uzbekistán",
+        "Afghánistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Senj",
+      "values": [
+        "Tádžikistán",
+        "Chorvatsko",
+        "Rumunsko",
+        "Gabon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Poysdorf",
+      "values": [
+        "Rakousko",
+        "Senegal",
+        "Izrael",
+        "Bangladéš"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Harran",
+      "values": [
+        "Kapverdy",
+        "Argentina",
+        "Turecko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sombor",
+      "values": [
+        "Venezuela",
+        "Srbsko",
+        "Turecko",
+        "Palau"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Judenburg",
+      "values": [
+        "Niger",
+        "Rakousko",
+        "Abcházie",
+        "Ukrajina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tetuán",
+      "values": [
+        "Nepál",
+        "Benin",
+        "Srí Lanka",
+        "Maroko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tolmin",
+      "values": [
+        "Libye",
+        "Srbsko",
+        "Nizozemsko",
+        "Slovinsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

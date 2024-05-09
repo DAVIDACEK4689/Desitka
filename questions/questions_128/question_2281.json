@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Ondřej Havelka",
+      "values": [
+        "italského",
+        "českého",
+        "japonského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Richard Harris",
+      "values": [
+        "britského",
+        "rakouského",
+        "irského",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Juraj Nvota",
+      "values": [
+        "slovenského",
+        "finského",
+        "švýcarského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Peter Jackson",
+      "values": [
+        "slovenského",
+        "ukrajinského",
+        "chorvatského",
+        "novozélandského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Krištof Veselý",
+      "values": [
+        "dánského",
+        "slovenského",
+        "maďarského",
+        "hongkongského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Matthias Schweighöfer",
+      "values": [
+        "britského",
+        "sovětského",
+        "německého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zdeněk Suchý",
+      "values": [
+        "belgického",
+        "českého",
+        "chorvatského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "John Huston",
+      "values": [
+        "ukrajinského",
+        "amerického",
+        "novozélandského",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Svatopluk Innemann",
+      "values": [
+        "finského",
+        "německého",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ugo Tognazzi",
+      "values": [
+        "irského",
+        "italského",
+        "indického",
+        "norského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

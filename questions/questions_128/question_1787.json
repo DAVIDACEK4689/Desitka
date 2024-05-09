@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] televizní pořad?",
+  "questions": [
+    {
+      "key": "Kdo přežije",
+      "values": [
+        "belgický",
+        "francouzský",
+        "americký",
+        "britský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jirka vysvětluje věci",
+      "values": [
+        "francouzský",
+        "slovenský",
+        "český",
+        "americký"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sama doma",
+      "values": [
+        "německý",
+        "americký",
+        "český",
+        "kanadský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ein Kessel Buntes",
+      "values": [
+        "belgický",
+        "německý",
+        "britský",
+        "kanadský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Klíče od pevnosti Boyard",
+      "values": [
+        "britský",
+        "francouzský",
+        "slovenský",
+        "americký"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Naked Attraction",
+      "values": [
+        "německý",
+        "britský",
+        "americký",
+        "francouzský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tvoja tvár znie povedome",
+      "values": [
+        "český",
+        "belgický",
+        "britský",
+        "slovenský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Po stopách duchů",
+      "values": [
+        "kanadský",
+        "americký",
+        "slovenský",
+        "český"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stopa Xapatanu",
+      "values": [
+        "francouzský",
+        "kanadský",
+        "český",
+        "americký"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pečený sněhulák",
+      "values": [
+        "belgický",
+        "český",
+        "německý",
+        "britský"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

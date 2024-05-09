@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle etnické skupiny",
+  "questions": [
+    {
+      "key": "Češi",
+      "values": [
+        "Indie",
+        "Srbsko",
+        "Slovinsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Němci",
+      "values": [
+        "Maďarsko",
+        "Rusko",
+        "Etiopie",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Samaritáni",
+      "values": [
+        "Spojené království",
+        "Izrael",
+        "Ukrajina",
+        "Etiopie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Drúzové",
+      "values": [
+        "Etiopie",
+        "Jihoafrická republika",
+        "Izrael",
+        "Egypt"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Albánci",
+      "values": [
+        "Rusko",
+        "Srbsko",
+        "Egypt",
+        "Ukrajina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Srbové",
+      "values": [
+        "Nepál",
+        "Írán",
+        "Ukrajina",
+        "Slovinsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Šerpové",
+      "values": [
+        "Nepál",
+        "Indie",
+        "Česko",
+        "Izrael"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rumuni",
+      "values": [
+        "Etiopie",
+        "Slovinsko",
+        "Srbsko",
+        "Spojené království"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chodové",
+      "values": [
+        "Rusko",
+        "Česko",
+        "Nepál",
+        "Srbsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Moravští Chorvati",
+      "values": [
+        "Ukrajina",
+        "Slovinsko",
+        "Česko",
+        "Indie"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

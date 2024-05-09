@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle etnické skupiny",
+  "questions": [
+    {
+      "key": "Volyňští Češi",
+      "values": [
+        "Brazílie",
+        "Kambodža",
+        "Ukrajina",
+        "Spojené království"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Prajzové",
+      "values": [
+        "Mongolsko",
+        "Srbsko",
+        "Česko",
+        "Spojené království"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čečenci",
+      "values": [
+        "Ghana",
+        "Afghánistán",
+        "Súdán",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pársové",
+      "values": [
+        "Indie",
+        "Pákistán",
+        "Ukrajina",
+        "Nigérie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Moldavané",
+      "values": [
+        "Rusko",
+        "Írán",
+        "Estonsko",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Skotové",
+      "values": [
+        "Španělsko",
+        "Brazílie",
+        "Mongolsko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Povolžští Němci",
+      "values": [
+        "Rusko",
+        "Singapur",
+        "Etiopie",
+        "Keňa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nuerové",
+      "values": [
+        "Etiopie",
+        "Irák",
+        "Singapur",
+        "Švýcarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kalašové",
+      "values": [
+        "Turecko",
+        "Izrael",
+        "Pákistán",
+        "Indie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nivchové",
+      "values": [
+        "Rusko",
+        "Česko",
+        "Brazílie",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

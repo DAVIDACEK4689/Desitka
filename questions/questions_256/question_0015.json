@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle válku",
+  "questions": [
+    {
+      "key": "Války růží",
+      "values": [
+        "Uganda",
+        "Súdán",
+        "Anglie",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Napoleonovo ruské tažení",
+      "values": [
+        "Francie",
+        "Súdán",
+        "Izrael",
+        "starověký Řím"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Konflikt v Severním Irsku",
+      "values": [
+        "Spojené království",
+        "Česko",
+        "Řecko",
+        "Súdán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Opiové války",
+      "values": [
+        "Izrael",
+        "Ruské impérium",
+        "Nizozemsko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Povstání Bar Kochby",
+      "values": [
+        "starověký Řím",
+        "Jihoafrická republika",
+        "Rusko",
+        "Izrael"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Konflikt v Dárfúru",
+      "values": [
+        "Česko",
+        "Chorvatsko",
+        "Súdán",
+        "Japonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Expanze Osmanské říše na Balkán",
+      "values": [
+        "Austrálie",
+        "Srbsko",
+        "Pákistán",
+        "Sovětský svaz"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zápisky o válce galské",
+      "values": [
+        "Anglie",
+        "Irsko",
+        "Rusko",
+        "starověký Řím"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Postsovětské války",
+      "values": [
+        "Spojené království",
+        "Rusko",
+        "Byzantská říše",
+        "Portugalsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "První válka v Kongu",
+      "values": [
+        "Uganda",
+        "Japonsko",
+        "Česko",
+        "Ruské impérium"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

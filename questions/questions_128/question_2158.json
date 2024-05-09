@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebníka?",
+  "questions": [
+    {
+      "key": "Jordan Haj",
+      "values": [
+        "českého",
+        "britského",
+        "rumunského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "River Phoenix",
+      "values": [
+        "amerického",
+        "jugoslávského",
+        "izraelského",
+        "portorického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Filip Karlík",
+      "values": [
+        "nizozemského",
+        "českého",
+        "rumunského",
+        "islandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hozier",
+      "values": [
+        "slovenského",
+        "irského",
+        "italského",
+        "jihoafrického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cory Monteith",
+      "values": [
+        "švédského",
+        "venezuelského",
+        "kanadského",
+        "arménského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alessandro Venturella",
+      "values": [
+        "rakouského",
+        "českého",
+        "britského",
+        "jugoslávského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Wayne Static",
+      "values": [
+        "arménského",
+        "amerického",
+        "jihokorejského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tim Steinfort",
+      "values": [
+        "nizozemského",
+        "francouzského",
+        "ruského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Daði Freyr",
+      "values": [
+        "belgického",
+        "islandského",
+        "jamajského",
+        "gruzínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Dudešek",
+      "values": [
+        "řeckého",
+        "irského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

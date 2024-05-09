@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "Jan Kraus",
+      "values": [
+        "amerického",
+        "kanadského",
+        "českého",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jana Vohralíková",
+      "values": [
+        "portugalského",
+        "francouzského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eva Holubová",
+      "values": [
+        "českého",
+        "švýcarského",
+        "francouzského",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sophia Lorenová",
+      "values": [
+        "italského",
+        "portugalského",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Charles Baudelaire",
+      "values": [
+        "amerického",
+        "českého",
+        "maďarského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Giacomo Casanova",
+      "values": [
+        "britského",
+        "amerického",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Konrad Adenauer",
+      "values": [
+        "českého",
+        "švýcarského",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kateřina Medicejská",
+      "values": [
+        "francouzského",
+        "portugalského",
+        "maďarského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Melania Trumpová",
+      "values": [
+        "švýcarského",
+        "amerického",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Justin Trudeau",
+      "values": [
+        "kanadského",
+        "francouzského",
+        "švýcarského",
+        "britského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

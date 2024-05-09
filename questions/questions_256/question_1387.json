@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Přelet nad kukaččím hnízdem",
+      "values": [
+        "Vojtěch Jasný",
+        "Oldřich Lipský",
+        "Ladislav Smoljak",
+        "Miloš Forman"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jak básníci přicházejí o iluze",
+      "values": [
+        "Miloš Forman",
+        "Jan Hřebejk",
+        "Dušan Klein",
+        "Václav Krška"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gympl",
+      "values": [
+        "Bořivoj Zeman",
+        "Jindřich Polák",
+        "Tomáš Vorel",
+        "Jan Prušinovský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Smrt stopařek",
+      "values": [
+        "Petr Zelenka",
+        "Jiří Strach",
+        "Martin Frič",
+        "Jindřich Polák"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Valerie a týden divů",
+      "values": [
+        "Jaromil Jireš",
+        "Petr Jákl",
+        "Ondřej Trojan",
+        "Bořivoj Zeman"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Román pro muže",
+      "values": [
+        "Jiří Vejdělek",
+        "Jan Hřebejk",
+        "Tomáš Bařina",
+        "Bohdan Sláma"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mladé víno",
+      "values": [
+        "Svatopluk Innemann",
+        "Robert Sedláček",
+        "Václav Vorlíček",
+        "Antonín Moskalyk"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Goyovy přízraky",
+      "values": [
+        "Věra Chytilová",
+        "Jan Němec",
+        "Karel Zeman",
+        "Miloš Forman"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cesta do lesa",
+      "values": [
+        "Bohdan Sláma",
+        "Jiří Krejčík",
+        "Tomáš Vorel",
+        "Oldřich Lipský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pěnička a Paraplíčko",
+      "values": [
+        "Ondřej Trojan",
+        "Jaromil Jireš",
+        "Karel Smyczek",
+        "Jiří Sequens"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

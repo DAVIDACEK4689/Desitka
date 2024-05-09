@@ -1,0 +1,105 @@
+{
+  "text": "Určete etnický původ podle Čecha",
+  "questions": [
+    {
+      "key": "Mirai Navrátil",
+      "values": [
+        "židovský původ",
+        "italský původ",
+        "afghánský původ",
+        "japonský původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hana Hegerová",
+      "values": [
+        "etiopský původ",
+        "ruský původ",
+        "židovský původ",
+        "slovenský původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel Vaš",
+      "values": [
+        "kanadský původ",
+        "slovenský původ",
+        "srbský původ",
+        "maďarský původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Adriana Krnáčová",
+      "values": [
+        "evropský původ",
+        "italský původ",
+        "slovenský původ",
+        "srbský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ida Kelarová",
+      "values": [
+        "běloruský původ",
+        "francouzský původ",
+        "vietnamský původ",
+        "maďarský původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Naděžda Kramářová",
+      "values": [
+        "italský původ",
+        "britský původ",
+        "ruský původ",
+        "etiopský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Leon Jakimič",
+      "values": [
+        "židovský původ",
+        "řecký původ",
+        "ruský původ",
+        "ukrajinský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petra Cetkovská",
+      "values": [
+        "makedonský původ",
+        "běloruský původ",
+        "arménský původ",
+        "afghánský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Do Thu Trang",
+      "values": [
+        "chorvatský původ",
+        "vietnamský původ",
+        "etiopský původ",
+        "italský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tadeáš Kraus",
+      "values": [
+        "vietnamský původ",
+        "řecký původ",
+        "polský původ",
+        "estonský původ"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

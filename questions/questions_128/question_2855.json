@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Sokolov",
+      "values": [
+        "Tis",
+        "Ohře",
+        "Volha",
+        "Labe"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Segedín",
+      "values": [
+        "Polenz",
+        "Malše",
+        "Volha",
+        "Tis"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Koblenz",
+      "values": [
+        "Rýn",
+        "Loira",
+        "Hron",
+        "Labe"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rejštejn",
+      "values": [
+        "Hron",
+        "Otava",
+        "Don",
+        "Malše"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nespeky",
+      "values": [
+        "Sázava",
+        "Svratka",
+        "Polenz",
+        "Dněpr"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Smidary",
+      "values": [
+        "Sázava",
+        "Cidlina",
+        "Inn",
+        "Jizera"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zvíkovec",
+      "values": [
+        "Radbuza",
+        "Berounka",
+        "Cidlina",
+        "Lužnice"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dražice",
+      "values": [
+        "Rýn",
+        "Lužnice",
+        "Berounka",
+        "Metuje"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Libotenice",
+      "values": [
+        "Polenz",
+        "Hron",
+        "Labe",
+        "Váha"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kochánky",
+      "values": [
+        "Tis",
+        "Jizera",
+        "Mandava",
+        "Sebnice"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

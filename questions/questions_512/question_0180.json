@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle českého sportovce",
+  "questions": [
+    {
+      "key": "Petr Čech",
+      "values": [
+        "judista",
+        "golfista",
+        "lední hokejista",
+        "fotbalista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roman Šebrle",
+      "values": [
+        "golfista",
+        "akrobatický letec",
+        "bojový umělec",
+        "judista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michal Neuvirth",
+      "values": [
+        "automobilový závodník",
+        "lední hokejista",
+        "ragbista",
+        "tenista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Cipro",
+      "values": [
+        "judista",
+        "fotbalista",
+        "boxer",
+        "automobilový závodník"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Václav Nedomanský",
+      "values": [
+        "cyklista",
+        "rychlostní kanoista",
+        "boxer",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zdeněk Hrubý",
+      "values": [
+        "zápasník",
+        "kickboxeři",
+        "horolezec",
+        "kajakář"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Štěpánka Hilgertová",
+      "values": [
+        "kajakář",
+        "fotbalista",
+        "jezdec",
+        "horolezec"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ondřej Čelůstka",
+      "values": [
+        "automobilový závodník",
+        "jezdec",
+        "fotbalista",
+        "golfista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "František Musil",
+      "values": [
+        "tenista",
+        "lední hokejista",
+        "bojový umělec",
+        "zápasník"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Artur Omarov",
+      "values": [
+        "horolezec",
+        "jezdec",
+        "zápasník",
+        "kajakář"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

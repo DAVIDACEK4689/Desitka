@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte režisérku podle filmu",
+  "questions": [
+    {
+      "key": "Jak vytrhnout velrybě stoličku",
+      "values": [
+        "Catherine Hardwicke",
+        "Chloé Zhaová",
+        "Martha Coolidge",
+        "Marie Poledňáková"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Wonder Woman 1984",
+      "values": [
+        "Agnieszka Hollandová",
+        "Martha Coolidge",
+        "Nancy Meyers",
+        "Patty Jenkinsová"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sedmikrásky",
+      "values": [
+        "Agnieszka Hollandová",
+        "Věra Chytilová",
+        "Leni Riefenstahlová",
+        "Marie Poledňáková"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "30 minut po půlnoci",
+      "values": [
+        "Věra Chytilová",
+        "Nancy Meyers",
+        "Leni Riefenstahlová",
+        "Kathryn Bigelowová"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ztraceno v překladu",
+      "values": [
+        "Martha Coolidge",
+        "Nancy Meyers",
+        "Mary Harronová",
+        "Sofia Coppola"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Líbáš jako ďábel",
+      "values": [
+        "Marie Poledňáková",
+        "Alice Nellis",
+        "Věra Chytilová",
+        "Nora Ephronová"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vlčí bouda",
+      "values": [
+        "Nancy Meyers",
+        "Marie Poledňáková",
+        "Leni Riefenstahlová",
+        "Věra Chytilová"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tajnosti",
+      "values": [
+        "Martha Coolidge",
+        "Alice Nellis",
+        "Mary Harronová",
+        "Leni Riefenstahlová"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Samotář v Seattlu",
+      "values": [
+        "Leni Riefenstahlová",
+        "Agnieszka Hollandová",
+        "Nora Ephronová",
+        "Catherine Hardwicke"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Láska přes internet",
+      "values": [
+        "Sofia Coppola",
+        "Patty Jenkinsová",
+        "Nora Ephronová",
+        "Catherine Hardwicke"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

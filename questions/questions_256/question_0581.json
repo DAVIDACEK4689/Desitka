@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle pohoří",
+  "questions": [
+    {
+      "key": "Orlické hory",
+      "values": [
+        "Austrálie",
+        "Černá Hora",
+        "Česko",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Slavkovský les",
+      "values": [
+        "Černá Hora",
+        "Česko",
+        "Německo",
+        "Řecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Schwarzwald",
+      "values": [
+        "Maroko",
+        "Německo",
+        "Rumunsko",
+        "Bulharsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Velká Fatra",
+      "values": [
+        "Alžírsko",
+        "Slovensko",
+        "Polsko",
+        "Rumunsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Soví hory",
+      "values": [
+        "Řecko",
+        "Německo",
+        "Polsko",
+        "Rumunsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Parnas",
+      "values": [
+        "Řecko",
+        "Indie",
+        "Rakousko",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Totes Gebirge",
+      "values": [
+        "Polsko",
+        "Rakousko",
+        "Itálie",
+        "Alžírsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Modré hory",
+      "values": [
+        "Bulharsko",
+        "Austrálie",
+        "Rakousko",
+        "Španělsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pirin",
+      "values": [
+        "Bulharsko",
+        "Maďarsko",
+        "Česko",
+        "Španělsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eifel",
+      "values": [
+        "Černá Hora",
+        "Maroko",
+        "Německo",
+        "Polsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

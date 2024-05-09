@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] evropského podnikatele?",
+  "questions": [
+    {
+      "key": "Jevgenij Prigožin",
+      "values": [
+        "španělského",
+        "ukrajinského",
+        "ruského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Janeček",
+      "values": [
+        "německého",
+        "švýcarského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Slávek Boura",
+      "values": [
+        "nizozemského",
+        "českého",
+        "britského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tomáš Březina",
+      "values": [
+        "švýcarského",
+        "českého",
+        "britského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Denys Šmyhal",
+      "values": [
+        "ruského",
+        "ukrajinského",
+        "španělského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Václav Klement",
+      "values": [
+        "řeckého",
+        "německého",
+        "ukrajinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jozef Tkáč",
+      "values": [
+        "španělského",
+        "švédského",
+        "německého",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Bartončík",
+      "values": [
+        "francouzského",
+        "švédského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivan Chrenko",
+      "values": [
+        "belgického",
+        "slovenského",
+        "řeckého",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Robert Bosch",
+      "values": [
+        "španělského",
+        "německého",
+        "polského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

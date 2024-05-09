@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] lékaře?",
+  "questions": [
+    {
+      "key": "Marek Hilšer",
+      "values": [
+        "jihoafrického",
+        "českého",
+        "polského",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Albert Schweitzer",
+      "values": [
+        "australského",
+        "německého",
+        "ruského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Šimon Žďárský",
+      "values": [
+        "nizozemského",
+        "slovenského",
+        "jihoafrického",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ron Paul",
+      "values": [
+        "ruského",
+        "izraelského",
+        "japonského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Anthony Fauci",
+      "values": [
+        "slovenského",
+        "amerického",
+        "britského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Chvostek starší",
+      "values": [
+        "japonského",
+        "slovenského",
+        "rakouského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Antonín Steidl",
+      "values": [
+        "rakouského",
+        "polského",
+        "britského",
+        "izraelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vojtěch Jílek",
+      "values": [
+        "albánského",
+        "českého",
+        "čínského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Otto Gross",
+      "values": [
+        "amerického",
+        "jihoafrického",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Claude Bernard",
+      "values": [
+        "českého",
+        "afghánského",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

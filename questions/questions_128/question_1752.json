@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle úmrtí",
+  "questions": [
+    {
+      "key": "Leonardo da Vinci",
+      "values": [
+        "Švédsko",
+        "Honduras",
+        "Francie",
+        "Kapverdy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tizian",
+      "values": [
+        "Pero",
+        "Uruguay",
+        "Itálie",
+        "Island"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Manuel Noriega",
+      "values": [
+        "Namibie",
+        "Panama",
+        "Kolumbie",
+        "Dominikánská republika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Václav Norbert Kinský",
+      "values": [
+        "Irák",
+        "Pero",
+        "Itálie",
+        "Venezuela"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Imrich Tököly",
+      "values": [
+        "Turecko",
+        "Indie",
+        "Řecko",
+        "Panama"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hergé",
+      "values": [
+        "Libye",
+        "Belgie",
+        "Svatá Lucie",
+        "Rakousko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gustav Krupp von Bohlen und Halbach",
+      "values": [
+        "Ukrajina",
+        "Kajmanské ostrovy",
+        "Panama",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Bělský",
+      "values": [
+        "Gabon",
+        "Zambie",
+        "Řecko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Valli Kafková",
+      "values": [
+        "Polsko",
+        "Francie",
+        "Ukrajina",
+        "Sýrie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eric Knight",
+      "values": [
+        "Gibraltar",
+        "Afghánistán",
+        "Surinam",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

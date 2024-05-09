@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte téma podle filmu",
+  "questions": [
+    {
+      "key": "Tenkrát v Hollywoodu",
+      "values": [
+        "herec",
+        "zvíře",
+        "sport",
+        "dvojče"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Smrtonosná past",
+      "values": [
+        "zvíře",
+        "židovská tematika",
+        "loupež",
+        "sériový vrah"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Past na rodiče",
+      "values": [
+        "móda",
+        "novinář",
+        "cirkus",
+        "dvojče"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zítřek nikdy neumírá",
+      "values": [
+        "loupež",
+        "novinář",
+        "imigrace",
+        "upír"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cesta ven",
+      "values": [
+        "sebevražda",
+        "sport",
+        "romská tematika",
+        "hasič"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Donšajni",
+      "values": [
+        "politik",
+        "automobil",
+        "herec",
+        "životní prostředí"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Drtivý dopad",
+      "values": [
+        "policie",
+        "kometa",
+        "politik",
+        "vlkodlak"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Samotář v Seattlu",
+      "values": [
+        "policie",
+        "životní prostředí",
+        "novinář",
+        "kometa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Poslední akční hrdina",
+      "values": [
+        "skaut",
+        "herec",
+        "učitel",
+        "politik"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hranice práce",
+      "values": [
+        "kanibalismus",
+        "novinář",
+        "sexualita",
+        "spisovatel"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

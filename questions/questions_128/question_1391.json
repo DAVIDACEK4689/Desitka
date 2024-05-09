@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte kontinent podle fauny",
+  "questions": [
+    {
+      "key": "Kapybara",
+      "values": [
+        "Asie",
+        "Evropa",
+        "Jižní Amerika",
+        "Antarktida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Slon indický",
+      "values": [
+        "Antarktida",
+        "Asie",
+        "Jižní Amerika",
+        "Střední Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nosál červený",
+      "values": [
+        "Jižní Amerika",
+        "Asie",
+        "Severní Amerika",
+        "Střední Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Medvěd ušatý",
+      "values": [
+        "Evropa",
+        "Asie",
+        "Jižní Amerika",
+        "Střední Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kostlín obrovský",
+      "values": [
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Evropa",
+        "Afrika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Levhart Diardův",
+      "values": [
+        "Asie",
+        "Jižní Amerika",
+        "Afrika",
+        "Střední Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Šakal čabrakový",
+      "values": [
+        "Střední Amerika",
+        "Afrika",
+        "Severní Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Maikong",
+      "values": [
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Střední Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Levhart cejlonský",
+      "values": [
+        "Jižní Amerika",
+        "Asie",
+        "Afrika",
+        "Antarktida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lýkožrout severský",
+      "values": [
+        "Asie",
+        "Evropa",
+        "Severní Amerika",
+        "Střední Amerika"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

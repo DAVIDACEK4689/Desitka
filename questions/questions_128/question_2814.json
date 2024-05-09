@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Richard Wagner",
+      "values": [
+        "běloruského",
+        "rakouského",
+        "německého",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rudolf Schuster",
+      "values": [
+        "francouzského",
+        "slovenského",
+        "norského",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Schulz",
+      "values": [
+        "maďarského",
+        "českého",
+        "srbského",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Camilla Läckberg",
+      "values": [
+        "švédského",
+        "brazilského",
+        "běloruského",
+        "jihoafrického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gerhart Hauptmann",
+      "values": [
+        "slovenského",
+        "srbského",
+        "kyrgyzského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Guzel Šamilevna Jachinová",
+      "values": [
+        "kolumbijského",
+        "egyptského",
+        "ruského",
+        "novozélandského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jonas Basanavičius",
+      "values": [
+        "jihoafrického",
+        "uruguayského",
+        "litevského",
+        "čínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Steven Erikson",
+      "values": [
+        "kanadského",
+        "ukrajinského",
+        "tanzanského",
+        "nigerijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Wilhelm Hauff",
+      "values": [
+        "německého",
+        "estonského",
+        "afghánského",
+        "argentinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Giuseppe Tomasi di Lampedusa",
+      "values": [
+        "italského",
+        "rumunského",
+        "srbského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle úmrtí",
+  "questions": [
+    {
+      "key": "Barbora z Nikomédie",
+      "values": [
+        "Venezuela",
+        "Svatá Lucie",
+        "Turecko",
+        "Japonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lata Brandisová",
+      "values": [
+        "Madagaskar",
+        "Tádžikistán",
+        "Saúdská Arábie",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Julianus",
+      "values": [
+        "Saúdská Arábie",
+        "Irák",
+        "Sýrie",
+        "Litva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ahmad Šáh Masúd",
+      "values": [
+        "Afghánistán",
+        "Gabon",
+        "Honduras",
+        "Uruguay"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Leo Rudolf Raubal",
+      "values": [
+        "Litva",
+        "Jihoafrická republika",
+        "Španělsko",
+        "Pero"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gottfried Lindauer",
+      "values": [
+        "Gabon",
+        "Saúdská Arábie",
+        "Litva",
+        "Nový Zéland"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Maria Kaczyńska",
+      "values": [
+        "Panama",
+        "Albánie",
+        "Rusko",
+        "Bolívie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Adolf Essler",
+      "values": [
+        "Panama",
+        "Surinam",
+        "Rakousko",
+        "Turecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jindřich Fridrich Falcký",
+      "values": [
+        "Panama",
+        "Litva",
+        "Jamajka",
+        "Nizozemsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miroslav Liškutín",
+      "values": [
+        "Egypt",
+        "Spojené království",
+        "Alžírsko",
+        "Venezuela"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

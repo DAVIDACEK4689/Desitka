@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle českého sportovce",
+  "questions": [
+    {
+      "key": "Lukáš Langmajer",
+      "values": [
+        "stolní tenista",
+        "automobilový závodník",
+        "lední hokejista",
+        "horolezec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jakub Menšík",
+      "values": [
+        "judista",
+        "jezdec",
+        "kickboxeři",
+        "tenista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ondřej Kacetl",
+      "values": [
+        "plavec",
+        "lední hokejista",
+        "akrobatický letec",
+        "horolezec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Antonín Charouz",
+      "values": [
+        "automobilový závodník",
+        "kanoista",
+        "fotbalista",
+        "rybář"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Leopold Sulovský",
+      "values": [
+        "kajakář",
+        "šipkaři",
+        "horolezec",
+        "basketbalista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Králík",
+      "values": [
+        "lední hokejista",
+        "gymnasta",
+        "veslař",
+        "šipkaři"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Košťálek",
+      "values": [
+        "rybář",
+        "stolní tenista",
+        "zápasník",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miroslav Jansta",
+      "values": [
+        "bojový umělec",
+        "basketbalista",
+        "rybář",
+        "plavec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivan Hodáč",
+      "values": [
+        "zápasník",
+        "jezdec",
+        "gymnasta",
+        "ragbista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ferdinand Bonaventura Kinský",
+      "values": [
+        "šipkaři",
+        "jezdec",
+        "tenista",
+        "rybář"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

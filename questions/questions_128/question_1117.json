@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Edgar Allan Poe",
+      "values": [
+        "amerického",
+        "ruského",
+        "čínského",
+        "íránského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Kainar",
+      "values": [
+        "francouzského",
+        "britského",
+        "českého",
+        "tureckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Dědeček",
+      "values": [
+        "českého",
+        "portugalského",
+        "chilského",
+        "islandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Emanuel Frynta",
+      "values": [
+        "finského",
+        "českého",
+        "maďarského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavel Eisner",
+      "values": [
+        "českého",
+        "španělského",
+        "japonského",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Kostohryz",
+      "values": [
+        "českého",
+        "slovenského",
+        "australského",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jozef Urban",
+      "values": [
+        "ukrajinského",
+        "íránského",
+        "slovenského",
+        "chilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alfons Breska",
+      "values": [
+        "italského",
+        "španělského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roman Hašek",
+      "values": [
+        "českého",
+        "albánského",
+        "belgického",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michal Černík",
+      "values": [
+        "gruzínského",
+        "ukrajinského",
+        "srbského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

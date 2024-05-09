@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Chili con carne",
+      "values": [
+        "americkou",
+        "arabskou",
+        "thajskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Langoš",
+      "values": [
+        "maďarskou",
+        "čínskou",
+        "kanadskou",
+        "švédskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nachos",
+      "values": [
+        "ukrajinskou",
+        "mexickou",
+        "indickou",
+        "chorvatskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eintopf",
+      "values": [
+        "maďarskou",
+        "čínskou",
+        "německou",
+        "kanadskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bruschetta",
+      "values": [
+        "italskou",
+        "tibetskou",
+        "tureckou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Toast",
+      "values": [
+        "židovskou",
+        "japonskou",
+        "laoskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kuchyně Bosny a Hercegoviny",
+      "values": [
+        "ruskou",
+        "tureckou",
+        "australskou",
+        "balkánskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Penne",
+      "values": [
+        "arménskou",
+        "židovskou",
+        "italskou",
+        "bhútánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Košer víno",
+      "values": [
+        "židovskou",
+        "švýcarskou",
+        "anglickou",
+        "indonéskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lampredotto",
+      "values": [
+        "arabskou",
+        "italskou",
+        "gruzínskou",
+        "vietnamskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

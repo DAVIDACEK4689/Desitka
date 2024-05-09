@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle hradu",
+  "questions": [
+    {
+      "key": "Rimini",
+      "values": [
+        "Itálie",
+        "Maďarsko",
+        "Německo",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bojnický zámek",
+      "values": [
+        "Finsko",
+        "Maďarsko",
+        "Slovensko",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kerak",
+      "values": [
+        "Rakousko",
+        "Jordánsko",
+        "Sýrie",
+        "Maďarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Castel del Monte",
+      "values": [
+        "Itálie",
+        "Rusko",
+        "Sýrie",
+        "Německo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alamút",
+      "values": [
+        "Švýcarsko",
+        "Írán",
+        "Německo",
+        "Japonsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kreuzenstein",
+      "values": [
+        "Francie",
+        "Slovensko",
+        "Rakousko",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Smolenický zámek",
+      "values": [
+        "Slovensko",
+        "Irsko",
+        "Izrael",
+        "Řecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hochosterwitz",
+      "values": [
+        "Rakousko",
+        "Rusko",
+        "Izrael",
+        "Jordánsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zvolenský hrad",
+      "values": [
+        "Turecko",
+        "Španělsko",
+        "Jordánsko",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ósacký hrad",
+      "values": [
+        "Jordánsko",
+        "Japonsko",
+        "Írán",
+        "Irsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

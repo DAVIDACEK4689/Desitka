@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] generála?",
+  "questions": [
+    {
+      "key": "Karel Řehka",
+      "values": [
+        "českého",
+        "československého",
+        "australského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Šnejdárek",
+      "values": [
+        "československého",
+        "bulharského",
+        "ukrajinského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Šejna",
+      "values": [
+        "finského",
+        "ukrajinského",
+        "kanadského",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lavr Georgijevič Kornilov",
+      "values": [
+        "ukrajinského",
+        "kanadského",
+        "chorvatského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Otto Smik",
+      "values": [
+        "finského",
+        "bulharského",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "José de San Martín",
+      "values": [
+        "argentinského",
+        "australského",
+        "chorvatského",
+        "búrského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paul von Rennenkampf",
+      "values": [
+        "řeckého",
+        "britského",
+        "slovenského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel Voženílek",
+      "values": [
+        "řeckého",
+        "československého",
+        "izraelského",
+        "argentinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zdeněk Škarvada",
+      "values": [
+        "německého",
+        "mexického",
+        "finského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimír Kajdoš",
+      "values": [
+        "myanmarského",
+        "sovětského",
+        "československého",
+        "argentinského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

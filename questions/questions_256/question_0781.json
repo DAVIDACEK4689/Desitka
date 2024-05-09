@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistu?",
+  "questions": [
+    {
+      "key": "Novak Djoković",
+      "values": [
+        "československého",
+        "íránského",
+        "srbského",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Radek Štěpánek",
+      "values": [
+        "polského",
+        "amerického",
+        "českého",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stan Wawrinka",
+      "values": [
+        "íránského",
+        "švýcarského",
+        "španělského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gaël Monfils",
+      "values": [
+        "českého",
+        "nizozemského",
+        "francouzského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Pála",
+      "values": [
+        "kanadského",
+        "francouzského",
+        "českého",
+        "srbského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Matteo Berrettini",
+      "values": [
+        "španělského",
+        "italského",
+        "českého",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexandr Bublik",
+      "values": [
+        "ruského",
+        "slovenského",
+        "řeckého",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lleyton Hewitt",
+      "values": [
+        "slovenského",
+        "francouzského",
+        "nizozemského",
+        "australského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marat Safin",
+      "values": [
+        "amerického",
+        "ruského",
+        "íránského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bill Tilden",
+      "values": [
+        "sovětského",
+        "dánského",
+        "amerického",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

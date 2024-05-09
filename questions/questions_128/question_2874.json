@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Pelé",
+      "values": [
+        "chilského",
+        "argentinského",
+        "českého",
+        "brazilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Milan Škriniar",
+      "values": [
+        "brazilského",
+        "slovenského",
+        "francouzského",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Kouba",
+      "values": [
+        "slovinského",
+        "kanadského",
+        "českého",
+        "velšského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lumír Mistr",
+      "values": [
+        "švédského",
+        "českého",
+        "chorvatského",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marco Asensio",
+      "values": [
+        "tureckého",
+        "španělského",
+        "argentinského",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Benjamin Pavard",
+      "values": [
+        "francouzského",
+        "velšského",
+        "českého",
+        "marockého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Obajdin",
+      "values": [
+        "skotského",
+        "švédského",
+        "českého",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kacha Kaladze",
+      "values": [
+        "gruzínského",
+        "uruguayského",
+        "kolumbijského",
+        "nigerijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Luka Jović",
+      "values": [
+        "srbského",
+        "peruánského",
+        "ukrajinského",
+        "finského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Danilo Luiz da Silva",
+      "values": [
+        "kolumbijského",
+        "brazilského",
+        "senegalského",
+        "irského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

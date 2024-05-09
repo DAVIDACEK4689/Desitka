@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] atentátníka?",
+  "questions": [
+    {
+      "key": "Jozef Gabčík",
+      "values": [
+        "amerického",
+        "slovenského",
+        "srbského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gavrilo Princip",
+      "values": [
+        "francouzského",
+        "polského",
+        "italského",
+        "srbského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Józef Piłsudski",
+      "values": [
+        "německého",
+        "českého",
+        "polského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jacob Rubinstein",
+      "values": [
+        "italského",
+        "anglického",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luigi Lucheni",
+      "values": [
+        "francouzského",
+        "ruského",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Charlotta Cordayová",
+      "values": [
+        "českého",
+        "amerického",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Erwin von Witzleben",
+      "values": [
+        "amerického",
+        "německého",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Leon Czolgosz",
+      "values": [
+        "českého",
+        "amerického",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nedeljko Čabrinović",
+      "values": [
+        "italského",
+        "srbského",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jevno Azef",
+      "values": [
+        "německého",
+        "ruského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

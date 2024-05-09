@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle geografie",
+  "questions": [
+    {
+      "key": "Jižní Čechy",
+      "values": [
+        "Alžírsko",
+        "Írán",
+        "Česko",
+        "Abcházie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Izraelská bezpečnostní bariéra",
+      "values": [
+        "Polsko",
+        "Džibutsko",
+        "Gabon",
+        "Palestina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Apoštolský palác",
+      "values": [
+        "Samoa",
+        "Gabon",
+        "Džibutsko",
+        "Vatikán"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bantustan",
+      "values": [
+        "Jihoafrická republika",
+        "Bulharsko",
+        "Andorra",
+        "Slovinsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lukánie",
+      "values": [
+        "Španělsko",
+        "Chorvatsko",
+        "Lotyšsko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Paracelské ostrovy",
+      "values": [
+        "Vietnam",
+        "Palestina",
+        "Afghánistán",
+        "Mauritánie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Velká Syrta",
+      "values": [
+        "Rakousko",
+        "Mauritánie",
+        "Svatý Kryštof a Nevis",
+        "Libye"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Madha",
+      "values": [
+        "Moldavsko",
+        "Omán",
+        "Španělsko",
+        "Belgie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Patagonské Andy",
+      "values": [
+        "Afghánistán",
+        "Senegal",
+        "Argentina",
+        "Singapur"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kód ONS",
+      "values": [
+        "Svatá Lucie",
+        "Spojené království",
+        "Argentina",
+        "Island"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

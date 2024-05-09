@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Jiřina Jirásková",
+      "values": [
+        "mexickou",
+        "uruguayskou",
+        "českou",
+        "srbskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavlína Němcová",
+      "values": [
+        "čínskou",
+        "českou",
+        "britskou",
+        "jihoafrickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Katie Holmes",
+      "values": [
+        "českou",
+        "švédskou",
+        "jihokorejskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Brie Larson",
+      "values": [
+        "maďarskou",
+        "britskou",
+        "americkou",
+        "jihoafrickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marina Vladyová",
+      "values": [
+        "indickou",
+        "srbskou",
+        "argentinskou",
+        "francouzskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Laetitia Casta",
+      "values": [
+        "jihokorejskou",
+        "dánskou",
+        "francouzskou",
+        "belgickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cécile de France",
+      "values": [
+        "kubánskou",
+        "německou",
+        "slovenskou",
+        "belgickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jennifer Ehle",
+      "values": [
+        "dánskou",
+        "britskou",
+        "chorvatskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Amy Acker",
+      "values": [
+        "mexickou",
+        "americkou",
+        "kubánskou",
+        "čínskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jana Kovaříková",
+      "values": [
+        "španělskou",
+        "českou",
+        "švédskou",
+        "uruguayskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

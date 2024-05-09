@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Guanciale",
+      "values": [
+        "arabskou",
+        "slovenskou",
+        "italskou",
+        "perskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kontušovka",
+      "values": [
+        "francouzskou",
+        "australskou",
+        "středomořskou",
+        "polskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Holandská omáčka",
+      "values": [
+        "francouzskou",
+        "mexickou",
+        "maďarskou",
+        "skotskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fettuccine",
+      "values": [
+        "litevskou",
+        "rakouskou",
+        "italskou",
+        "gruzínskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hrachová kaše",
+      "values": [
+        "americkou",
+        "českou",
+        "balkánskou",
+        "norskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tortellini",
+      "values": [
+        "tureckou",
+        "vietnamskou",
+        "středomořskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Valašská kyselica",
+      "values": [
+        "francouzskou",
+        "středomořskou",
+        "australskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Horká čokoláda",
+      "values": [
+        "mexickou",
+        "chorvatskou",
+        "britskou",
+        "polskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Wagaši",
+      "values": [
+        "britskou",
+        "arménskou",
+        "japonskou",
+        "perskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Duxelles",
+      "values": [
+        "japonskou",
+        "švýcarskou",
+        "mexickou",
+        "francouzskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

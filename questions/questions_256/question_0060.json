@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle prezidenta",
+  "questions": [
+    {
+      "key": "Vladimir Putin",
+      "values": [
+        "Turkmenistán",
+        "Uganda",
+        "Rusko",
+        "Indonésie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Katalin Nováková",
+      "values": [
+        "Rwanda",
+        "Kazachstán",
+        "Maďarsko",
+        "Salvador"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sajjid Alí Chameneí",
+      "values": [
+        "Írán",
+        "Itálie",
+        "Vietnam",
+        "Gruzie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oleksandr Turčynov",
+      "values": [
+        "Finsko",
+        "Kolumbie",
+        "Ukrajina",
+        "Albánie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sauli Niinistö",
+      "values": [
+        "Kazachstán",
+        "Řecko",
+        "Finsko",
+        "Polsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Franjo Tuđman",
+      "values": [
+        "Island",
+        "Moldavsko",
+        "Chorvatsko",
+        "Turkmenistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vahagn Chačaturjan",
+      "values": [
+        "Etiopie",
+        "Maďarsko",
+        "Venezuela",
+        "Arménie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Edgars Rinkēvičs",
+      "values": [
+        "Lotyšsko",
+        "Portugalsko",
+        "Slovinsko",
+        "Nikaragua"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Babrak Karmal",
+      "values": [
+        "Somálsko",
+        "Zair",
+        "Afghánistán",
+        "Indie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hámid Karzaj",
+      "values": [
+        "Nikaragua",
+        "Kazachstán",
+        "Ukrajina",
+        "Afghánistán"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

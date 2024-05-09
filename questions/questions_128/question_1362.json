@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle narození",
+  "questions": [
+    {
+      "key": "Michel Galabru",
+      "values": [
+        "Bhútán",
+        "Kolumbie",
+        "Maroko",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Yasmin Finney",
+      "values": [
+        "Kuvajt",
+        "Kypr",
+        "Spojené království",
+        "Arménie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Plótínos",
+      "values": [
+        "Pero",
+        "Mongolsko",
+        "Egypt",
+        "Panama"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rafael Trujillo",
+      "values": [
+        "Moldavsko",
+        "Dominikánská republika",
+        "Rusko",
+        "Kyrgyzstán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zenobie",
+      "values": [
+        "Kyrgyzstán",
+        "Sýrie",
+        "Dominikánská republika",
+        "Uruguay"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Doris Lessingová",
+      "values": [
+        "Kolumbie",
+        "Írán",
+        "Kapverdy",
+        "Afghánistán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Capital Bra",
+      "values": [
+        "Rusko",
+        "Moldavsko",
+        "Rumunsko",
+        "Kyrgyzstán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Goodluck Jonathan",
+      "values": [
+        "Bangladéš",
+        "Nový Zéland",
+        "Nigérie",
+        "Madagaskar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Handré Pollard",
+      "values": [
+        "Albánie",
+        "Jihoafrická republika",
+        "Arménie",
+        "Čad"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Giulio Broggio",
+      "values": [
+        "Bangladéš",
+        "Somálsko",
+        "Bhútán",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

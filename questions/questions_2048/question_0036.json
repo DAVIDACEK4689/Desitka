@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] literaturu?",
+  "questions": [
+    {
+      "key": "Ztracená generace",
+      "values": [
+        "americkou",
+        "francouzskou",
+        "českou",
+        "japonskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Prokletí básníci",
+      "values": [
+        "francouzskou",
+        "japonskou",
+        "americkou",
+        "indickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Čtyři dohody",
+      "values": [
+        "americkou",
+        "indickou",
+        "japonskou",
+        "mexickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Svaz moderní kultury Devětsil",
+      "values": [
+        "mexickou",
+        "indickou",
+        "americkou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Anarchističtí buřiči",
+      "values": [
+        "japonskou",
+        "americkou",
+        "českou",
+        "indickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Májovci",
+      "values": [
+        "francouzskou",
+        "japonskou",
+        "americkou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Beat generation",
+      "values": [
+        "mexickou",
+        "americkou",
+        "japonskou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lumírovci",
+      "values": [
+        "mexickou",
+        "francouzskou",
+        "indickou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Manga",
+      "values": [
+        "mexickou",
+        "americkou",
+        "francouzskou",
+        "japonskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sanskrt",
+      "values": [
+        "českou",
+        "americkou",
+        "indickou",
+        "japonskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

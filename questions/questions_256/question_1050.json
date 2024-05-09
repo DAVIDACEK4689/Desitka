@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte obor podle průkopníka",
+  "questions": [
+    {
+      "key": "František Křižík",
+      "values": [
+        "kinematografie",
+        "počítač",
+        "železnice",
+        "internet"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miroslav Tyrš",
+      "values": [
+        "internet",
+        "počítač",
+        "sport",
+        "automobilismus"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bratři Wrightové",
+      "values": [
+        "internet",
+        "automobilismus",
+        "letectví",
+        "počítač"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Perner",
+      "values": [
+        "železnice",
+        "letectví",
+        "počítač",
+        "automobilismus"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Charles Lindbergh",
+      "values": [
+        "letectví",
+        "železnice",
+        "internet",
+        "automobilismus"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Al Gore",
+      "values": [
+        "letectví",
+        "počítač",
+        "internet",
+        "kinematografie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivan Sutherland",
+      "values": [
+        "letectví",
+        "internet",
+        "automobilismus",
+        "počítač"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Igor Sikorskij",
+      "values": [
+        "počítač",
+        "internet",
+        "automobilismus",
+        "letectví"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Isambard Kingdom Brunel",
+      "values": [
+        "internet",
+        "automobilismus",
+        "kinematografie",
+        "železnice"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ettore Bugatti",
+      "values": [
+        "sport",
+        "internet",
+        "kinematografie",
+        "automobilismus"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

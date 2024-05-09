@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Diego Maradona",
+      "values": [
+        "argentinského",
+        "dánského",
+        "československého",
+        "egyptského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Carlo Ancelotti",
+      "values": [
+        "australského",
+        "italského",
+        "ukrajinského",
+        "argentinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "David Lafata",
+      "values": [
+        "italského",
+        "českého",
+        "kostarického",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sadio Mané",
+      "values": [
+        "egyptského",
+        "senegalského",
+        "švédského",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Edwin van der Sar",
+      "values": [
+        "rumunského",
+        "chorvatského",
+        "německého",
+        "nizozemského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Edinson Cavani",
+      "values": [
+        "uruguayského",
+        "českého",
+        "kolumbijského",
+        "kamerunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Šimák",
+      "values": [
+        "českého",
+        "nigerijského",
+        "anglického",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Libor Kozák",
+      "values": [
+        "německého",
+        "srbského",
+        "českého",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andrea Pirlo",
+      "values": [
+        "slovenského",
+        "nizozemského",
+        "anglického",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Pekhart",
+      "values": [
+        "českého",
+        "ukrajinského",
+        "francouzského",
+        "polského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

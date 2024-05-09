@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] literární dílo?",
+  "questions": [
+    {
+      "key": "Stařec a moře",
+      "values": [
+        "rakouské",
+        "české",
+        "italské",
+        "americké"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rukopis zelenohorský",
+      "values": [
+        "anglické",
+        "španělské",
+        "české",
+        "japonské"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Němá barikáda",
+      "values": [
+        "české",
+        "německé",
+        "ruské",
+        "francouzské"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mabinogi",
+      "values": [
+        "rakouské",
+        "velšské",
+        "ruské",
+        "německé"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kniha pěti kruhů",
+      "values": [
+        "slovenské",
+        "anglické",
+        "čínské",
+        "japonské"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pouť krkonošská",
+      "values": [
+        "české",
+        "polské",
+        "německé",
+        "čínské"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Otevřená společnost a její nepřátelé",
+      "values": [
+        "velšské",
+        "francouzské",
+        "japonské",
+        "rakouské"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nová rada",
+      "values": [
+        "nizozemské",
+        "finské",
+        "italské",
+        "české"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Závišova píseň",
+      "values": [
+        "české",
+        "japonské",
+        "nizozemské",
+        "čínské"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Snad ti nedělají starosti cizí názory",
+      "values": [
+        "americké",
+        "italské",
+        "polské",
+        "pruské"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

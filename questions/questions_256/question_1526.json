@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Thomas Alva Edison",
+      "values": [
+        "ruského",
+        "jihoafrického",
+        "švédského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jeff Bezos",
+      "values": [
+        "německého",
+        "britského",
+        "italského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vít Bárta",
+      "values": [
+        "belgického",
+        "indického",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Donatella Versace",
+      "values": [
+        "italského",
+        "kanadského",
+        "slovenského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stanislav Bernard",
+      "values": [
+        "českého",
+        "indického",
+        "italského",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sergey Brin",
+      "values": [
+        "amerického",
+        "italského",
+        "britského",
+        "indického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Theobald Czernin",
+      "values": [
+        "španělského",
+        "francouzského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ronald Lauder",
+      "values": [
+        "řeckého",
+        "německého",
+        "amerického",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Drobil",
+      "values": [
+        "rakouského",
+        "italského",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Bělica",
+      "values": [
+        "indického",
+        "českého",
+        "amerického",
+        "belgického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

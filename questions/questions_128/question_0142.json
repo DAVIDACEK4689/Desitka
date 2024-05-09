@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle zoologické zahrady",
+  "questions": [
+    {
+      "key": "Zoologická zahrada Schönbrunn",
+      "values": [
+        "Německo",
+        "Španělsko",
+        "Rakousko",
+        "Švédsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zoo Lipsko",
+      "values": [
+        "Německo",
+        "Spojené království",
+        "Slovensko",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zoologická zahrada ve Vratislavi",
+      "values": [
+        "Česko",
+        "Polsko",
+        "Slovensko",
+        "Rakousko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bojnická zoologická zahrada",
+      "values": [
+        "Španělsko",
+        "Slovensko",
+        "Polsko",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zoo Berlín",
+      "values": [
+        "Rakousko",
+        "Německo",
+        "Spojené království",
+        "Španělsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Loro Parque",
+      "values": [
+        "Španělsko",
+        "Spojené království",
+        "Slovensko",
+        "Švédsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "ZOO Kontakt Liptovský Mikuláš",
+      "values": [
+        "Slovensko",
+        "Francie",
+        "Polsko",
+        "Rakousko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Heinrich Lumpe",
+      "values": [
+        "Španělsko",
+        "Polsko",
+        "Česko",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Skansen",
+      "values": [
+        "Španělsko",
+        "Švédsko",
+        "Česko",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Londýnská zoologická zahrada",
+      "values": [
+        "Spojené království",
+        "Rakousko",
+        "Německo",
+        "Španělsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

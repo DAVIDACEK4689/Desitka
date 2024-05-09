@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] literaturu?",
+  "questions": [
+    {
+      "key": "Lumírovci",
+      "values": [
+        "švýcarskou",
+        "sovětskou",
+        "italskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pinocchio",
+      "values": [
+        "italskou",
+        "ruskou",
+        "americkou",
+        "kosovskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mrtvé duše",
+      "values": [
+        "maďarskou",
+        "kolumbijskou",
+        "ruskou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sága",
+      "values": [
+        "portugalskou",
+        "chorvatskou",
+        "islandskou",
+        "mexickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Parzival",
+      "values": [
+        "italskou",
+        "ruskou",
+        "německou",
+        "irskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kronika ohlášené smrti",
+      "values": [
+        "španělskou",
+        "sovětskou",
+        "kolumbijskou",
+        "českou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ibrahim Rugova",
+      "values": [
+        "českou",
+        "řeckou",
+        "kosovskou",
+        "španělskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vátsjájana",
+      "values": [
+        "slovenskou",
+        "řeckou",
+        "indickou",
+        "chorvatskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lusovci",
+      "values": [
+        "belgickou",
+        "německou",
+        "kosovskou",
+        "portugalskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zákon Jante",
+      "values": [
+        "řeckou",
+        "portugalskou",
+        "norskou",
+        "afghánskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

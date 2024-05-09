@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Limonádový Joe aneb Koňská opera",
+      "values": [
+        "Oldřich Lipský",
+        "Bořivoj Zeman",
+        "Karel Zeman",
+        "Antonín Moskalyk"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Princezna ze mlejna 2",
+      "values": [
+        "Tomáš Vorel",
+        "Ladislav Smoljak",
+        "Zdeněk Troška",
+        "Karel Steklý"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ženy v běhu",
+      "values": [
+        "Zdeněk Zelenka",
+        "Martin Horský",
+        "Jindřich Honzl",
+        "Juraj Herz"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Poslušně hlásím",
+      "values": [
+        "Roman Vávra",
+        "Jiří Vejdělek",
+        "Karel Steklý",
+        "Václav Krška"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sedmikrásky",
+      "values": [
+        "Zbyněk Brynych",
+        "Věra Chytilová",
+        "Martin Horský",
+        "Zdeněk Tyc"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cesta do lesa",
+      "values": [
+        "Jan Prušinovský",
+        "Robert Sedláček",
+        "Tomáš Vorel",
+        "Václav Vorlíček"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Svatba jako řemen",
+      "values": [
+        "Dušan Klein",
+        "Jiří Krejčík",
+        "Jan Prušinovský",
+        "Jiří Vejdělek"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Temné slunce",
+      "values": [
+        "Miroslav Sobota",
+        "Otakar Vávra",
+        "Tomáš Bařina",
+        "Jiří Strach"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vůně vanilky",
+      "values": [
+        "Otakar Vávra",
+        "Jiří Strach",
+        "Karel Lamač",
+        "Zbyněk Brynych"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tři chlapi na cestách",
+      "values": [
+        "Oldřich Lipský",
+        "Filip Renč",
+        "Jan Prušinovský",
+        "Václav Wasserman"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

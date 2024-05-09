@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Lewis Strauss",
+      "values": [
+        "amerického",
+        "kyperského",
+        "bosenského",
+        "dominikánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Theresa Mayová",
+      "values": [
+        "britského",
+        "pruského",
+        "finského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ludvík Frejka",
+      "values": [
+        "běloruského",
+        "československého",
+        "ukrajinského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Edgars Rinkēvičs",
+      "values": [
+        "lotyšského",
+        "venezuelského",
+        "bosenského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oleg Blochin",
+      "values": [
+        "singapurského",
+        "marockého",
+        "jemenského",
+        "ukrajinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ahmad Chomejní",
+      "values": [
+        "brazilského",
+        "švýcarského",
+        "íránského",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Frederick Douglass",
+      "values": [
+        "kubánského",
+        "srbského",
+        "amerického",
+        "moldavského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Milan Krajniak",
+      "values": [
+        "estonského",
+        "pruského",
+        "bolivijského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rasmus Paludan",
+      "values": [
+        "dánského",
+        "švýcarského",
+        "singapurského",
+        "egyptského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Winfield Scott",
+      "values": [
+        "peruánského",
+        "turkmenského",
+        "amerického",
+        "arménského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

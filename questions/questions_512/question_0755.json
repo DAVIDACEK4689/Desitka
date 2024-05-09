@@ -1,0 +1,105 @@
+{
+  "text": "Určete město podle kultury",
+  "questions": [
+    {
+      "key": "Live Aid",
+      "values": [
+        "Jeruzalém",
+        "Dublin",
+        "Peking",
+        "Londýn"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Atomium",
+      "values": [
+        "Londýn",
+        "Brusel",
+        "Jeruzalém",
+        "Paříž"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zakázané město",
+      "values": [
+        "Paříž",
+        "Peking",
+        "Amsterdam",
+        "Dublin"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Entropa",
+      "values": [
+        "Londýn",
+        "Amsterdam",
+        "Paříž",
+        "Brusel"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Národní knihovna Izraele",
+      "values": [
+        "Londýn",
+        "Brusel",
+        "Paříž",
+        "Jeruzalém"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "The Freddie Mercury Tribute Concert",
+      "values": [
+        "Paříž",
+        "Dublin",
+        "Londýn",
+        "Amsterdam"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Světová výstava 1958",
+      "values": [
+        "Amsterdam",
+        "Jeruzalém",
+        "Dublin",
+        "Brusel"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Centre Georges Pompidou",
+      "values": [
+        "Amsterdam",
+        "Peking",
+        "Paříž",
+        "Dublin"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "The Guardian",
+      "values": [
+        "Amsterdam",
+        "Paříž",
+        "Peking",
+        "Londýn"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dům Anne Frankové",
+      "values": [
+        "Jeruzalém",
+        "Paříž",
+        "Amsterdam",
+        "Brusel"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

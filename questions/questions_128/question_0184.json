@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle regionu",
+  "questions": [
+    {
+      "key": "Korsika",
+      "values": [
+        "Francie",
+        "Turecko",
+        "Slovensko",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Normandie",
+      "values": [
+        "Belgie",
+        "Francie",
+        "Etiopie",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Apulie",
+      "values": [
+        "Dánsko",
+        "Portugalsko",
+        "Francie",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Addis Abeba",
+      "values": [
+        "Etiopie",
+        "Slovensko",
+        "Itálie",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bruselský region",
+      "values": [
+        "Turecko",
+        "Itálie",
+        "Slovensko",
+        "Belgie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Abruzzo",
+      "values": [
+        "Argentina",
+        "Turecko",
+        "Itálie",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Okcitánie",
+      "values": [
+        "Slovensko",
+        "Argentina",
+        "Itálie",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Madeira",
+      "values": [
+        "Belgie",
+        "Portugalsko",
+        "Francie",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pays de la Loire",
+      "values": [
+        "Argentina",
+        "Slovensko",
+        "Francie",
+        "Portugalsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Egejský region",
+      "values": [
+        "Turecko",
+        "Francie",
+        "Belgie",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

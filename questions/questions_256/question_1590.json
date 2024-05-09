@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Eminem",
+      "values": [
+        "maďarského",
+        "jamajského",
+        "švédského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel Černoch",
+      "values": [
+        "českého",
+        "rumunského",
+        "belgického",
+        "jihokorejského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Björn Ulvaeus",
+      "values": [
+        "kanadského",
+        "francouzského",
+        "švýcarského",
+        "švédského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Paddy Kelly",
+      "values": [
+        "sovětského",
+        "dánského",
+        "irského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Kalandra",
+      "values": [
+        "finského",
+        "italského",
+        "českého",
+        "kolumbijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bob Frídl",
+      "values": [
+        "britského",
+        "jamajského",
+        "portorického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michael Kiske",
+      "values": [
+        "maďarského",
+        "španělského",
+        "sovětského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimír Kokolia",
+      "values": [
+        "maďarského",
+        "francouzského",
+        "sovětského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Brian Connolly",
+      "values": [
+        "nizozemského",
+        "českého",
+        "skotského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "GG Allin",
+      "values": [
+        "dánského",
+        "francouzského",
+        "brazilského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

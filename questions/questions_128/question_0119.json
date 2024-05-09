@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle vysoké školy",
+  "questions": [
+    {
+      "key": "Univerzita Karlova",
+      "values": [
+        "Švýcarsko",
+        "Irsko",
+        "Československo",
+        "Dánsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oxfordská univerzita",
+      "values": [
+        "Spojené království",
+        "Česko",
+        "Švýcarsko",
+        "Finsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jagellonská univerzita",
+      "values": [
+        "Španělsko",
+        "Polsko",
+        "Nizozemsko",
+        "Izrael"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hebrejská univerzita v Jeruzalémě",
+      "values": [
+        "Rusko",
+        "Izrael",
+        "Ukrajina",
+        "Portugalsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "École normale supérieure",
+      "values": [
+        "Německo",
+        "Československo",
+        "Švýcarsko",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Univerzita v Leidenu",
+      "values": [
+        "Nizozemsko",
+        "Izrael",
+        "Austrálie",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vojenská katedra",
+      "values": [
+        "Itálie",
+        "Španělsko",
+        "Česko",
+        "Československo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Univerzita v Basileji",
+      "values": [
+        "Austrálie",
+        "Irsko",
+        "Slovinsko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vysoká škola politická a sociální",
+      "values": [
+        "Švýcarsko",
+        "Finsko",
+        "Československo",
+        "Španělsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Černovická univerzita",
+      "values": [
+        "Francie",
+        "Ukrajina",
+        "Izrael",
+        "Finsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

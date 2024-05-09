@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] psychologa?",
+  "questions": [
+    {
+      "key": "Jaroslav Flegr",
+      "values": [
+        "rakouského",
+        "amerického",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Burrhus Frederic Skinner",
+      "values": [
+        "francouzského",
+        "polského",
+        "rakouského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Timothy Leary",
+      "values": [
+        "amerického",
+        "německého",
+        "izraelského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karen Horneyová",
+      "values": [
+        "britského",
+        "polského",
+        "amerického",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Olga Sozanská",
+      "values": [
+        "britského",
+        "německého",
+        "izraelského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaro Křivohlavý",
+      "values": [
+        "amerického",
+        "britského",
+        "polského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marie Bonapartová",
+      "values": [
+        "německého",
+        "rakouského",
+        "francouzského",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eduard Spranger",
+      "values": [
+        "německého",
+        "rakouského",
+        "francouzského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Peter Tavel",
+      "values": [
+        "švýcarského",
+        "českého",
+        "britského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andrej Gjurič",
+      "values": [
+        "britského",
+        "českého",
+        "ruského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

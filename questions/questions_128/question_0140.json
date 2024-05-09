@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle poloostrova",
+  "questions": [
+    {
+      "key": "Patagonie",
+      "values": [
+        "Nizozemsko",
+        "Rusko",
+        "Polsko",
+        "Argentina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Peloponés",
+      "values": [
+        "Finsko",
+        "Mexiko",
+        "Řecko",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Helská kosa",
+      "values": [
+        "Ukrajina",
+        "Polsko",
+        "Finsko",
+        "Indie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Attika",
+      "values": [
+        "Řecko",
+        "Nizozemsko",
+        "Itálie",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jamal",
+      "values": [
+        "Řecko",
+        "Rusko",
+        "Chorvatsko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zlatni rat",
+      "values": [
+        "Ukrajina",
+        "Chorvatsko",
+        "Polsko",
+        "Francie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bretaňský poloostrov",
+      "values": [
+        "Rusko",
+        "Indie",
+        "Polsko",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Adamův most",
+      "values": [
+        "Turecko",
+        "Chorvatsko",
+        "Indie",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Arnhemská země",
+      "values": [
+        "Argentina",
+        "Turecko",
+        "Austrálie",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kamenjak",
+      "values": [
+        "Polsko",
+        "Argentina",
+        "Chorvatsko",
+        "Francie"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

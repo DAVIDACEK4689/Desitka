@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle politické strany",
+  "questions": [
+    {
+      "key": "ANO 2011",
+      "values": [
+        "Německo",
+        "Nizozemsko",
+        "Španělsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Svobodní",
+      "values": [
+        "Slovinsko",
+        "Česko",
+        "Libanon",
+        "Španělsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jabloko",
+      "values": [
+        "Česko",
+        "Rusko",
+        "Pero",
+        "Izrael"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Whigové",
+      "values": [
+        "Libanon",
+        "Polsko",
+        "Slovinsko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "List Jaromíra Soukupa",
+      "values": [
+        "Rakousko",
+        "Francie",
+        "Finsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hradecký demokratický klub",
+      "values": [
+        "Finsko",
+        "Španělsko",
+        "Rakousko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nová demokracie",
+      "values": [
+        "Řecko",
+        "Libanon",
+        "Izrael",
+        "Egypt"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Svaz demokratické levice",
+      "values": [
+        "Itálie",
+        "Nizozemsko",
+        "Polsko",
+        "Finsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Agrární demokratická strana",
+      "values": [
+        "Argentina",
+        "Česko",
+        "Libanon",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kadima",
+      "values": [
+        "Československo",
+        "Švédsko",
+        "Egypt",
+        "Izrael"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

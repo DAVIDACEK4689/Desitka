@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] evolučního biologa?",
+  "questions": [
+    {
+      "key": "Charles Darwin",
+      "values": [
+        "německého",
+        "ruského",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marek Vácha",
+      "values": [
+        "amerického",
+        "britského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaroslav Flegr",
+      "values": [
+        "českého",
+        "amerického",
+        "německého",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Richard Dawkins",
+      "values": [
+        "německého",
+        "českého",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ernst Haeckel",
+      "values": [
+        "ruského",
+        "českého",
+        "britského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alfred Russel Wallace",
+      "values": [
+        "britského",
+        "ruského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexandr Ivanovič Oparin",
+      "values": [
+        "amerického",
+        "ruského",
+        "německého",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Barbara McClintocková",
+      "values": [
+        "ruského",
+        "amerického",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jared Diamond",
+      "values": [
+        "ruského",
+        "českého",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stephen Jay Gould",
+      "values": [
+        "německého",
+        "českého",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

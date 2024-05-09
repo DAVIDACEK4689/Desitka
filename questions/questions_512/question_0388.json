@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] firmu?",
+  "questions": [
+    {
+      "key": "IKEA",
+      "values": [
+        "švédskou",
+        "československou",
+        "dánskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Samsung",
+      "values": [
+        "jihokorejskou",
+        "španělskou",
+        "českou",
+        "dánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tchibo",
+      "values": [
+        "německou",
+        "norskou",
+        "polskou",
+        "dánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sony",
+      "values": [
+        "japonskou",
+        "švédskou",
+        "nizozemskou",
+        "slovinskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Unilever",
+      "values": [
+        "slovenskou",
+        "francouzskou",
+        "britskou",
+        "ruskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mattel",
+      "values": [
+        "japonskou",
+        "švýcarskou",
+        "britskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Red Bull GmbH",
+      "values": [
+        "slovenskou",
+        "jihokorejskou",
+        "rakouskou",
+        "švédskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dermacol",
+      "values": [
+        "dánskou",
+        "finskou",
+        "českou",
+        "slovenskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Realme",
+      "values": [
+        "čínskou",
+        "španělskou",
+        "finskou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Maersk",
+      "values": [
+        "československou",
+        "dánskou",
+        "nizozemskou",
+        "slovinskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

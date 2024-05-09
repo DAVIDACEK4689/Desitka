@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte sport podle československého sportovce",
+  "questions": [
+    {
+      "key": "Karel Brückner",
+      "values": [
+        "fotbalista",
+        "horolezec",
+        "plavec",
+        "atlet"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ján Svorada",
+      "values": [
+        "tenista",
+        "veslař",
+        "cyklista",
+        "horolezec"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Kejval",
+      "values": [
+        "sportovní střelec",
+        "jezdec",
+        "veslař",
+        "horolezec"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luděk Pachman",
+      "values": [
+        "sportovní střelec",
+        "fotbalista",
+        "automobilový závodník",
+        "šachista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Igor Liba",
+      "values": [
+        "lední hokejista",
+        "veslař",
+        "šachista",
+        "judista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavel Složil",
+      "values": [
+        "akrobatický letec",
+        "tenista",
+        "fotbalista",
+        "cyklista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivan Fiala",
+      "values": [
+        "atlet",
+        "šachista",
+        "horolezec",
+        "akrobatický letec"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Němec",
+      "values": [
+        "basketbalista",
+        "zápasník",
+        "tenista",
+        "boxer"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimír Nosek",
+      "values": [
+        "jezdec",
+        "kanoista",
+        "stolní tenista",
+        "horolezec"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Václav Pantůček",
+      "values": [
+        "stolní tenista",
+        "volejbalista",
+        "vodní lyžař",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

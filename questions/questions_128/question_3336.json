@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Bud Spencer",
+      "values": [
+        "italského",
+        "belgického",
+        "marockého",
+        "izraelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Budař",
+      "values": [
+        "čínského",
+        "jamajského",
+        "českého",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Willem Dafoe",
+      "values": [
+        "islandského",
+        "dánského",
+        "indického",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ladislav Boháč",
+      "values": [
+        "českého",
+        "indického",
+        "gruzínského",
+        "portorického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jason Priestley",
+      "values": [
+        "kanadského",
+        "francouzského",
+        "venezuelského",
+        "tureckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paul Mescal",
+      "values": [
+        "tureckého",
+        "jihokorejského",
+        "českého",
+        "irského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Christian Oliver",
+      "values": [
+        "německého",
+        "guatemalského",
+        "bulharského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sergej Bondarčuk",
+      "values": [
+        "gruzínského",
+        "ukrajinského",
+        "ruského",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Louis Garrel",
+      "values": [
+        "francouzského",
+        "portorického",
+        "řeckého",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eddie Albert",
+      "values": [
+        "jihoafrického",
+        "švýcarského",
+        "thajského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

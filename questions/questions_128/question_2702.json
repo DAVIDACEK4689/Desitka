@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle bronzové sochy",
+  "questions": [
+    {
+      "key": "Rhodský kolos",
+      "values": [
+        "Slovensko",
+        "Senegal",
+        "Řecko",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čurající chlapeček",
+      "values": [
+        "Belgie",
+        "Senegal",
+        "Řecko",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Diskobolos",
+      "values": [
+        "Řecko",
+        "Slovensko",
+        "Belgie",
+        "Senegal"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Myslitel",
+      "values": [
+        "Řecko",
+        "Francie",
+        "Senegal",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kapitolská vlčice",
+      "values": [
+        "Slovensko",
+        "Itálie",
+        "Belgie",
+        "Senegal"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jezdecká socha Marka Aurelia",
+      "values": [
+        "Belgie",
+        "Senegal",
+        "Itálie",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Socha Svatopluka na Bratislavském hradě",
+      "values": [
+        "Belgie",
+        "Senegal",
+        "Řecko",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaenneke Pis",
+      "values": [
+        "Slovensko",
+        "Francie",
+        "Řecko",
+        "Belgie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Čumil",
+      "values": [
+        "Belgie",
+        "Řecko",
+        "Francie",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zinneke Pis",
+      "values": [
+        "Belgie",
+        "Řecko",
+        "Slovensko",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

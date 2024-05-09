@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle prezidenta",
+  "questions": [
+    {
+      "key": "Petr Pavel",
+      "values": [
+        "Rusko",
+        "Česká republika",
+        "Irák",
+        "Rakousko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Edvard Beneš",
+      "values": [
+        "Polsko",
+        "Rumunsko",
+        "Francie",
+        "Československo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Volodymyr Zelenskyj",
+      "values": [
+        "Maďarsko",
+        "Portugalsko",
+        "Bělorusko",
+        "Ukrajina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ramzan Kadyrov",
+      "values": [
+        "Rumunsko",
+        "Čečenci",
+        "Francie",
+        "Finsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Katalin Nováková",
+      "values": [
+        "Rumunsko",
+        "Německo",
+        "Portugalsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Paul von Hindenburg",
+      "values": [
+        "Rakousko",
+        "Irák",
+        "Bělorusko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karl Dönitz",
+      "values": [
+        "Izrael",
+        "Slovensko",
+        "Německo",
+        "Česká republika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lech Wałęsa",
+      "values": [
+        "Jugoslávie",
+        "Rumunsko",
+        "Polsko",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Viktor Juščenko",
+      "values": [
+        "Rusko",
+        "Polsko",
+        "Ukrajina",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexander Van der Bellen",
+      "values": [
+        "Finsko",
+        "Rakousko",
+        "Slovensko",
+        "Srbsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Lewis Capaldi",
+      "values": [
+        "irského",
+        "skotského",
+        "moldavského",
+        "izraelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ondřej Soukup",
+      "values": [
+        "izraelského",
+        "španělského",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ján Baláž",
+      "values": [
+        "slovenského",
+        "novozélandského",
+        "ruského",
+        "islandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Šimon Ornest",
+      "values": [
+        "amerického",
+        "brazilského",
+        "českého",
+        "jamajského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stanislav Hranický",
+      "values": [
+        "mexického",
+        "švýcarského",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Maître Gims",
+      "values": [
+        "francouzského",
+        "nizozemského",
+        "rumunského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lukáš Adamec",
+      "values": [
+        "německého",
+        "slovenského",
+        "amerického",
+        "islandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michael Poulsen",
+      "values": [
+        "rakouského",
+        "skotského",
+        "dánského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gusttavo Lima",
+      "values": [
+        "brazilského",
+        "finského",
+        "sovětského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavel Bohatý",
+      "values": [
+        "jamajského",
+        "novozélandského",
+        "chorvatského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

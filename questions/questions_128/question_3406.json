@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Aleš Brichta",
+      "values": [
+        "švédského",
+        "maďarského",
+        "irského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Serge Gainsbourg",
+      "values": [
+        "japonského",
+        "francouzského",
+        "slovenského",
+        "jihoafrického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavel Lohonka",
+      "values": [
+        "belgického",
+        "izraelského",
+        "rumunského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Max Cavalera",
+      "values": [
+        "norského",
+        "britského",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miroslav Paleček",
+      "values": [
+        "japonského",
+        "finského",
+        "českého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Beck",
+      "values": [
+        "amerického",
+        "švédského",
+        "chorvatského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bill Haley",
+      "values": [
+        "švédského",
+        "amerického",
+        "jamajského",
+        "moldavského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lauri Ylönen",
+      "values": [
+        "rumunského",
+        "jihokorejského",
+        "finského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Joacim Cans",
+      "values": [
+        "dánského",
+        "polského",
+        "švédského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "João Gilberto",
+      "values": [
+        "slovenského",
+        "argentinského",
+        "maďarského",
+        "brazilského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

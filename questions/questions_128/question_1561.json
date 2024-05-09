@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle jazyka",
+  "questions": [
+    {
+      "key": "Jidiš",
+      "values": [
+        "Japonsko",
+        "Kambodža",
+        "Madagaskar",
+        "Izrael"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Velština",
+      "values": [
+        "Bhútán",
+        "Surinam",
+        "Wales",
+        "Irsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Suržyk",
+      "values": [
+        "Severní Irsko",
+        "Madagaskar",
+        "Ukrajina",
+        "Antarktida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fríské jazyky",
+      "values": [
+        "Izrael",
+        "Německo",
+        "Gruzie",
+        "Botswana"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Furlanština",
+      "values": [
+        "Gruzie",
+        "Norsko",
+        "Vatikán",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vlámština",
+      "values": [
+        "Pákistán",
+        "Japonsko",
+        "Kosovo",
+        "Nizozemsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Javánština",
+      "values": [
+        "Jižní Afrika",
+        "Indonésie",
+        "Mongolsko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Latgalština",
+      "values": [
+        "Guatemala",
+        "Nizozemsko",
+        "Česko",
+        "Lotyšsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sentinelština",
+      "values": [
+        "Indie",
+        "Jordánsko",
+        "Nizozemsko",
+        "Švédsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kašmírština",
+      "values": [
+        "Severní Irsko",
+        "Nizozemsko",
+        "Indonésie",
+        "Indie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

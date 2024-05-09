@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle souostroví",
+  "questions": [
+    {
+      "key": "Kanárské ostrovy",
+      "values": [
+        "Nový Zéland",
+        "Portugalsko",
+        "Argentina",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Galapágy",
+      "values": [
+        "Finsko",
+        "Ekvádor",
+        "Austrálie",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Baleáry",
+      "values": [
+        "Španělsko",
+        "Francie",
+        "Rusko",
+        "Portugalsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alandy",
+      "values": [
+        "Finsko",
+        "Indonésie",
+        "Argentina",
+        "Řecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bermudy",
+      "values": [
+        "Nový Zéland",
+        "Rusko",
+        "Finsko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cookovy ostrovy",
+      "values": [
+        "Finsko",
+        "Rusko",
+        "Nový Zéland",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Liparské ostrovy",
+      "values": [
+        "Indonésie",
+        "Nový Zéland",
+        "Itálie",
+        "Norsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Britské Panenské ostrovy",
+      "values": [
+        "Španělsko",
+        "Nový Zéland",
+        "Austrálie",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kyklady",
+      "values": [
+        "Indonésie",
+        "Finsko",
+        "Ekvádor",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Anguilla",
+      "values": [
+        "Francie",
+        "Argentina",
+        "Španělsko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

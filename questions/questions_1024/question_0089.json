@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Vesničko má středisková",
+      "values": [
+        "Jiří Menzel",
+        "Jiří Vejdělek",
+        "Tomáš Vorel",
+        "Jiří Strach"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Šíleně smutná princezna",
+      "values": [
+        "Karel Smyczek",
+        "Bořivoj Zeman",
+        "Juraj Herz",
+        "Jan Svěrák"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "S tebou mě baví svět",
+      "values": [
+        "Oldřich Lipský",
+        "Miloslav Šmídmajer",
+        "Václav Vorlíček",
+        "Marie Poledňáková"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rebelové",
+      "values": [
+        "Robert Sedláček",
+        "Jiří Strach",
+        "Filip Renč",
+        "Miloslav Šmídmajer"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Limonádový Joe aneb Koňská opera",
+      "values": [
+        "Jan Hřebejk",
+        "Ladislav Rychman",
+        "Jiří Strach",
+        "Oldřich Lipský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Třetí princ",
+      "values": [
+        "Robert Sedláček",
+        "Hynek Bočan",
+        "Antonín Moskalyk",
+        "Marie Poledňáková"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cesta do pravěku",
+      "values": [
+        "Juraj Herz",
+        "Karel Zeman",
+        "Bořivoj Zeman",
+        "Jan Hřebejk"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Všichni dobří rodáci",
+      "values": [
+        "Jiří Menzel",
+        "Vojtěch Jasný",
+        "Oldřich Lipský",
+        "Jan Hřebejk"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jak se krotí krokodýli",
+      "values": [
+        "Jiří Vejdělek",
+        "Václav Vorlíček",
+        "Miloslav Šmídmajer",
+        "Marie Poledňáková"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jak básníkům chutná život",
+      "values": [
+        "Jiří Vejdělek",
+        "Dušan Klein",
+        "Jan Hřebejk",
+        "Filip Renč"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

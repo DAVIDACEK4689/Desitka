@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Michal David",
+      "values": [
+        "estonského",
+        "irského",
+        "švýcarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Giuseppe Verdi",
+      "values": [
+        "italského",
+        "rumunského",
+        "českého",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Franz Schubert",
+      "values": [
+        "řeckého",
+        "rakouského",
+        "maďarského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andrew Lloyd Webber",
+      "values": [
+        "kanadského",
+        "japonského",
+        "britského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ilja Hurník",
+      "values": [
+        "českého",
+        "amerického",
+        "britského",
+        "australského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Modest Petrovič Musorgskij",
+      "values": [
+        "amerického",
+        "irského",
+        "ruského",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chuck Schuldiner",
+      "values": [
+        "norského",
+        "amerického",
+        "rakouského",
+        "arménského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Udo Jürgens",
+      "values": [
+        "japonského",
+        "rakouského",
+        "polského",
+        "estonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Charlie Parker",
+      "values": [
+        "brazilského",
+        "japonského",
+        "švédského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Howard Shore",
+      "values": [
+        "kanadského",
+        "estonského",
+        "finského",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

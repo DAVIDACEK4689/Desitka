@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Sake",
+      "values": [
+        "německou",
+        "japonskou",
+        "dánskou",
+        "belgickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Minestrone",
+      "values": [
+        "rakouskou",
+        "thajskou",
+        "arabskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sacherův dort",
+      "values": [
+        "islandskou",
+        "indickou",
+        "rakouskou",
+        "kanadskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Focaccia",
+      "values": [
+        "dominikánskou",
+        "slovenskou",
+        "belgickou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pišingr",
+      "values": [
+        "rakouskou",
+        "kanadskou",
+        "řeckou",
+        "polskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Arancini",
+      "values": [
+        "arabskou",
+        "americkou",
+        "italskou",
+        "vietnamskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anglická snídaně",
+      "values": [
+        "islandskou",
+        "tureckou",
+        "britskou",
+        "polskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tokáň",
+      "values": [
+        "ruskou",
+        "českou",
+        "maďarskou",
+        "indickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chlupaté knedlíky",
+      "values": [
+        "českou",
+        "chorvatskou",
+        "ruskou",
+        "korejskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Koskenkorva",
+      "values": [
+        "maďarskou",
+        "ruskou",
+        "islandskou",
+        "finskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

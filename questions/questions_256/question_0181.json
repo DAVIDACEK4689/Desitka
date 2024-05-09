@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Karel Dobrý",
+      "values": [
+        "irského",
+        "českého",
+        "chilského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adam Kraus",
+      "values": [
+        "německého",
+        "jamajského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Maštalír",
+      "values": [
+        "slovenského",
+        "německého",
+        "norského",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladislav Müller",
+      "values": [
+        "slovenského",
+        "novozélandského",
+        "jihokorejského",
+        "indického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jaroslav Čejka",
+      "values": [
+        "dánského",
+        "chilského",
+        "českého",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ralf Wolter",
+      "values": [
+        "německého",
+        "čínského",
+        "norského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Larry Hagman",
+      "values": [
+        "španělského",
+        "polského",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Matt Czuchry",
+      "values": [
+        "malajsijského",
+        "amerického",
+        "nizozemského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jean Dujardin",
+      "values": [
+        "španělského",
+        "francouzského",
+        "švédského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bogusław Linda",
+      "values": [
+        "kanadského",
+        "polského",
+        "guatemalského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

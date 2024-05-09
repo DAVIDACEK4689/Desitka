@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Vylodění v Normandii",
+      "values": [
+        "1620",
+        "1014",
+        "1944",
+        "1709"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Domažlic",
+      "values": [
+        "1631",
+        "1859",
+        "1431",
+        "1917"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Cušimy",
+      "values": [
+        "1187",
+        "1905",
+        "1420",
+        "1288"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Židenický puč",
+      "values": [
+        "1995",
+        "1933",
+        "1634",
+        "1809"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Velké obležení Malty",
+      "values": [
+        "1565",
+        "1645",
+        "1993",
+        "805"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u pyramid",
+      "values": [
+        "1798",
+        "1776",
+        "1687",
+        "1322"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva o Caen",
+      "values": [
+        "1944",
+        "1298",
+        "1525",
+        "1187"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Arsufu",
+      "values": [
+        "1254",
+        "1796",
+        "1876",
+        "1191"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Dolních Věstonic",
+      "values": [
+        "1683",
+        "1619",
+        "878",
+        "2001"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Lomnice",
+      "values": [
+        "1618",
+        "907",
+        "1651",
+        "1410"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

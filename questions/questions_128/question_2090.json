@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Jens Stoltenberg",
+      "values": [
+        "jihoafrického",
+        "rakouského",
+        "estonského",
+        "norského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vít Jedlička",
+      "values": [
+        "madagaskarského",
+        "jemenského",
+        "českého",
+        "lotyšského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Helmut Schmidt",
+      "values": [
+        "etiopského",
+        "izraelského",
+        "německého",
+        "islandského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Abdullah Gül",
+      "values": [
+        "tureckého",
+        "maďarského",
+        "chilského",
+        "anglického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jorge Rafael Videla",
+      "values": [
+        "sovětského",
+        "iráckého",
+        "argentinského",
+        "litevského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Grigorij Kulik",
+      "values": [
+        "sovětského",
+        "gruzínského",
+        "brazilského",
+        "grenadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Boris Savinkov",
+      "values": [
+        "malajsijského",
+        "ruského",
+        "britského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "John Bolton",
+      "values": [
+        "singapurského",
+        "černohorského",
+        "běloruského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Magdalena Anderssonová",
+      "values": [
+        "anglického",
+        "švédského",
+        "nepálského",
+        "bolivijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ólafur Ragnar Grímsson",
+      "values": [
+        "francouzského",
+        "islandského",
+        "československého",
+        "čínského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle narození",
+  "questions": [
+    {
+      "key": "Rihanna",
+      "values": [
+        "Barbados",
+        "Senegal",
+        "Bělorusko",
+        "Rumunsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tadej Pogačar",
+      "values": [
+        "Slovinsko",
+        "Senegal",
+        "Kazachstán",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Idi Amin",
+      "values": [
+        "Turecko",
+        "Argentina",
+        "Uganda",
+        "Slovinsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mohamed Salah",
+      "values": [
+        "Slovinsko",
+        "Lotyšsko",
+        "Pero",
+        "Egypt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pepe",
+      "values": [
+        "Lotyšsko",
+        "Uganda",
+        "Jamajka",
+        "Brazílie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miguel Rodríguez Orejuela",
+      "values": [
+        "Kolumbie",
+        "Vietnam",
+        "Arménie",
+        "Bělorusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert Merle",
+      "values": [
+        "Turecko",
+        "Venezuela",
+        "Alžírsko",
+        "Kazachstán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kösem Sultan",
+      "values": [
+        "Kyrgyzstán",
+        "Alžírsko",
+        "Řecko",
+        "Španělsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "João Cancelo",
+      "values": [
+        "Francie",
+        "Portugalsko",
+        "Rumunsko",
+        "Kamerun"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jude Thaddeus Okolo",
+      "values": [
+        "Nigérie",
+        "Bělorusko",
+        "Brunej",
+        "Dánsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

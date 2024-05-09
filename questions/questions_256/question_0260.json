@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] kanibala?",
+  "questions": [
+    {
+      "key": "Andrej Čikatilo",
+      "values": [
+        "ruského",
+        "ukrajinského",
+        "slovenského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Edmund Kemper",
+      "values": [
+        "německého",
+        "ukrajinského",
+        "amerického",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Albert Fish",
+      "values": [
+        "amerického",
+        "českého",
+        "slovenského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Matej Čurko",
+      "values": [
+        "amerického",
+        "slovenského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Armin Meiwes",
+      "values": [
+        "italského",
+        "ruského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ottis Toole",
+      "values": [
+        "japonského",
+        "českého",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karl Denke",
+      "values": [
+        "amerického",
+        "italského",
+        "ukrajinského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alexandr Spěsivcev",
+      "values": [
+        "ukrajinského",
+        "ruského",
+        "japonského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Peter Stumpp",
+      "values": [
+        "amerického",
+        "německého",
+        "ruského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joachim Kroll",
+      "values": [
+        "ruského",
+        "českého",
+        "ukrajinského",
+        "německého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

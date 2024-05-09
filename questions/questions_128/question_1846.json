@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle letecké nehody",
+  "questions": [
+    {
+      "key": "Let Helios Airways 522",
+      "values": [
+        "Sýrie",
+        "Řecko",
+        "Itálie",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Let Germanwings 9525",
+      "values": [
+        "Francie",
+        "Slovensko",
+        "Řecko",
+        "Československo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Let ČSA 540",
+      "values": [
+        "Írán",
+        "Pero",
+        "Sovětský svaz",
+        "Sýrie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Smrt Jurije Gagarina",
+      "values": [
+        "Slovensko",
+        "Sovětský svaz",
+        "Česko",
+        "Egypt"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Let Ethiopian Airlines 302",
+      "values": [
+        "Sýrie",
+        "Pero",
+        "Česko",
+        "Etiopie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Airlander 10",
+      "values": [
+        "Indonésie",
+        "Československo",
+        "Spojené království",
+        "Sýrie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Let Itavia 870",
+      "values": [
+        "Rusko",
+        "Sýrie",
+        "Itálie",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Let LANSA 508",
+      "values": [
+        "Nepál",
+        "Pero",
+        "Francie",
+        "Ukrajina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Let Spanair 5022",
+      "values": [
+        "Slovensko",
+        "Etiopie",
+        "Rusko",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ústav pro odborné zjišťování příčin leteckých nehod",
+      "values": [
+        "Sýrie",
+        "Francie",
+        "Portugalsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

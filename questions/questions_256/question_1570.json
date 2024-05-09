@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "John Lennon",
+      "values": [
+        "sovětského",
+        "nizozemského",
+        "belgického",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Milan Chladil",
+      "values": [
+        "portorického",
+        "kolumbijského",
+        "českého",
+        "srbského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oto Klempíř",
+      "values": [
+        "francouzského",
+        "českého",
+        "španělského",
+        "argentinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Radek Pastrňák",
+      "values": [
+        "norského",
+        "australského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Smigmator",
+      "values": [
+        "belgického",
+        "irského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zdeněk Podhůrský",
+      "values": [
+        "sovětského",
+        "českého",
+        "švédského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexander Rybak",
+      "values": [
+        "rakouského",
+        "norského",
+        "rumunského",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zbyněk Bobr Horák",
+      "values": [
+        "českého",
+        "nizozemského",
+        "srbského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tony Ducháček",
+      "values": [
+        "českého",
+        "italského",
+        "ruského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kyle Gass",
+      "values": [
+        "amerického",
+        "ruského",
+        "moldavského",
+        "českého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

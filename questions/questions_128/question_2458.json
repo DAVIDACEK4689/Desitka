@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Mark Zuckerberg",
+      "values": [
+        "mexického",
+        "kanadského",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Východoevropský oligarcha",
+      "values": [
+        "íránského",
+        "monackého",
+        "ruského",
+        "libanonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robert Maxwell",
+      "values": [
+        "ukrajinského",
+        "britského",
+        "japonského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Steve Ballmer",
+      "values": [
+        "italského",
+        "litevského",
+        "amerického",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roman Hassmann",
+      "values": [
+        "českého",
+        "italského",
+        "pákistánského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marcel Gecov",
+      "values": [
+        "českého",
+        "jihoafrického",
+        "kanadského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ladislav Faktor",
+      "values": [
+        "amerického",
+        "nizozemského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jindřich Maštálka",
+      "values": [
+        "amerického",
+        "rakouského",
+        "slovinského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vladimir Potanin",
+      "values": [
+        "monackého",
+        "ruského",
+        "mexického",
+        "běloruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eduard Bartelmus",
+      "values": [
+        "monackého",
+        "českého",
+        "švýcarského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

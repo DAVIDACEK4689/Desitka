@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte obor podle průkopníka",
+  "questions": [
+    {
+      "key": "Thomas Alva Edison",
+      "values": [
+        "kinematografie",
+        "letectví",
+        "internet",
+        "počítač"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "František Křižík",
+      "values": [
+        "letectví",
+        "automobilismus",
+        "železnice",
+        "sport"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Blaise Pascal",
+      "values": [
+        "sport",
+        "železnice",
+        "počítač",
+        "internet"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pierre de Coubertin",
+      "values": [
+        "sport",
+        "železnice",
+        "internet",
+        "kinematografie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gustav Frištenský",
+      "values": [
+        "sport",
+        "kinematografie",
+        "letectví",
+        "automobilismus"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ada Lovelace",
+      "values": [
+        "kinematografie",
+        "železnice",
+        "letectví",
+        "počítač"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Perner",
+      "values": [
+        "kinematografie",
+        "internet",
+        "sport",
+        "železnice"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jindřich Fügner",
+      "values": [
+        "kinematografie",
+        "letectví",
+        "sport",
+        "internet"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Charles Babbage",
+      "values": [
+        "kinematografie",
+        "sport",
+        "počítač",
+        "automobilismus"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Steve Chen",
+      "values": [
+        "internet",
+        "kinematografie",
+        "sport",
+        "počítač"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] cestovatele?",
+  "questions": [
+    {
+      "key": "Karel Hynek Mácha",
+      "values": [
+        "britského",
+        "norského",
+        "českého",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fernão de Magalhães",
+      "values": [
+        "italského",
+        "australského",
+        "portugalského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roald Amundsen",
+      "values": [
+        "českého",
+        "portugalského",
+        "australského",
+        "norského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vasco da Gama",
+      "values": [
+        "norského",
+        "slovenského",
+        "amerického",
+        "portugalského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Amerigo Vespucci",
+      "values": [
+        "britského",
+        "portugalského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dominika Gawliczková",
+      "values": [
+        "německého",
+        "ruského",
+        "norského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Horký",
+      "values": [
+        "italského",
+        "španělského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alberto Vojtěch Frič",
+      "values": [
+        "českého",
+        "amerického",
+        "ruského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miloslav Nevrlý",
+      "values": [
+        "českého",
+        "australského",
+        "norského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Otakar Batlička",
+      "values": [
+        "slovenského",
+        "italského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

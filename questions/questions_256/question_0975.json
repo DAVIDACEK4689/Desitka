@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "Libuše Šafránková",
+      "values": [
+        "českého",
+        "portugalského",
+        "amerického",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mirek Topolánek",
+      "values": [
+        "českého",
+        "amerického",
+        "švýcarského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Charles Baudelaire",
+      "values": [
+        "švýcarského",
+        "maďarského",
+        "francouzského",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Daniela Drtinová",
+      "values": [
+        "českého",
+        "portugalského",
+        "německého",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Caroline Kennedyová",
+      "values": [
+        "německého",
+        "českého",
+        "italského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Joseph Kennedy",
+      "values": [
+        "amerického",
+        "českého",
+        "německého",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Čep",
+      "values": [
+        "portugalského",
+        "švýcarského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michal Semín",
+      "values": [
+        "švýcarského",
+        "portugalského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "František Bublan",
+      "values": [
+        "amerického",
+        "francouzského",
+        "českého",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rudolph Valentino",
+      "values": [
+        "švýcarského",
+        "německého",
+        "francouzského",
+        "italského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

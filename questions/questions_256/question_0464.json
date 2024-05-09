@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vědce?",
+  "questions": [
+    {
+      "key": "Theodore Kaczynski",
+      "values": [
+        "českého",
+        "ruského",
+        "amerického",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomáš Mikolov",
+      "values": [
+        "českého",
+        "sovětského",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gerty Coriová",
+      "values": [
+        "českého",
+        "sovětského",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alphonse Bertillon",
+      "values": [
+        "sovětského",
+        "švédského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Marcus Marci",
+      "values": [
+        "slovenského",
+        "francouzského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Matej Bel",
+      "values": [
+        "českého",
+        "švédského",
+        "ruského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sergej Nikitič Chruščov",
+      "values": [
+        "švédského",
+        "ruského",
+        "sovětského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Emanuel Swedenborg",
+      "values": [
+        "německého",
+        "švédského",
+        "amerického",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Tolar",
+      "values": [
+        "německého",
+        "amerického",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vladimir Bukovskij",
+      "values": [
+        "francouzského",
+        "švédského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

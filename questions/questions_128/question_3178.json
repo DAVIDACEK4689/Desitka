@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Eden Hazard",
+      "values": [
+        "slovenského",
+        "belgického",
+        "velšského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Jiránek",
+      "values": [
+        "českého",
+        "slovinského",
+        "ruského",
+        "senegalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marcus Rashford",
+      "values": [
+        "anglického",
+        "sovětského",
+        "českého",
+        "argentinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Raphaël Varane",
+      "values": [
+        "francouzského",
+        "švýcarského",
+        "ruského",
+        "bulharského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexis Mac Allister",
+      "values": [
+        "ghanského",
+        "švýcarského",
+        "rakouského",
+        "argentinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fabrizio Ravanelli",
+      "values": [
+        "velšského",
+        "italského",
+        "švédského",
+        "kamerunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jakub Jugas",
+      "values": [
+        "českého",
+        "albánského",
+        "brazilského",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Jeslínek",
+      "values": [
+        "srbského",
+        "rumunského",
+        "českého",
+        "ekvádorského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Odilon Polleunis",
+      "values": [
+        "mexického",
+        "slovinského",
+        "belgického",
+        "československého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fernando Redondo",
+      "values": [
+        "brazilského",
+        "francouzského",
+        "rakouského",
+        "argentinského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

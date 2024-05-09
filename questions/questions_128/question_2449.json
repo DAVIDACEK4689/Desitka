@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte město podle hudby",
+  "questions": [
+    {
+      "key": "Carnegie Hall",
+      "values": [
+        "Vídeň",
+        "New York",
+        "Paříž",
+        "Kyjev"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Metropolitní opera",
+      "values": [
+        "Londýn",
+        "New York",
+        "Vídeň",
+        "Kyjev"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Labská filharmonie",
+      "values": [
+        "Paříž",
+        "Hamburk",
+        "Bratislava",
+        "Kyjev"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rozhlas a televize Slovenska",
+      "values": [
+        "New York",
+        "Vídeň",
+        "Londýn",
+        "Bratislava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "EMI",
+      "values": [
+        "Paříž",
+        "Londýn",
+        "Kyjev",
+        "Bratislava"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Abbey Road Studios",
+      "values": [
+        "New York",
+        "Vídeň",
+        "Kyjev",
+        "Londýn"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Opéra national de Paris",
+      "values": [
+        "Paříž",
+        "Hamburk",
+        "Londýn",
+        "New York"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eurovision Song Contest 2015",
+      "values": [
+        "Paříž",
+        "Londýn",
+        "Vídeň",
+        "Bratislava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Slovenský rozhlas",
+      "values": [
+        "Paříž",
+        "Bratislava",
+        "New York",
+        "Londýn"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Musikverein",
+      "values": [
+        "New York",
+        "Bratislava",
+        "Vídeň",
+        "Hamburk"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

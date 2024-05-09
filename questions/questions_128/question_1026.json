@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Hradec Králové",
+      "values": [
+        "Nizozemsko",
+        "Irsko",
+        "Maďarsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kodaň",
+      "values": [
+        "Dánsko",
+        "Polsko",
+        "Spojené království",
+        "Německo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Haag",
+      "values": [
+        "Dánsko",
+        "Rakousko",
+        "Maďarsko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bonn",
+      "values": [
+        "Německo",
+        "Maďarsko",
+        "Irsko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dortmund",
+      "values": [
+        "Německo",
+        "Spojené království",
+        "Nizozemsko",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kiel",
+      "values": [
+        "Německo",
+        "Itálie",
+        "Portugalsko",
+        "Rakousko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Salerno",
+      "values": [
+        "Polsko",
+        "Itálie",
+        "Nizozemsko",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Worms",
+      "values": [
+        "Nizozemsko",
+        "Maďarsko",
+        "Slovensko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bochum",
+      "values": [
+        "Nizozemsko",
+        "Německo",
+        "Spojené království",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Swansea",
+      "values": [
+        "Česko",
+        "Polsko",
+        "Irsko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

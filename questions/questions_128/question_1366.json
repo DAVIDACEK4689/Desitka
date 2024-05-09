@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle narození",
+  "questions": [
+    {
+      "key": "Rihanna",
+      "values": [
+        "Libérie",
+        "Barbados",
+        "Venezuela",
+        "Kyrgyzstán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eliud Kipchoge",
+      "values": [
+        "Nizozemsko",
+        "Egypt",
+        "Polsko",
+        "Keňa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Liz Mitchell",
+      "values": [
+        "Nikaragua",
+        "Jamajka",
+        "Turkmenistán",
+        "Argentina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kostas Samaras",
+      "values": [
+        "Finsko",
+        "Řecko",
+        "Kazachstán",
+        "Mongolsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gallienus",
+      "values": [
+        "Brunej",
+        "Itálie",
+        "Kapverdy",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rex Harrison",
+      "values": [
+        "Spojené království",
+        "Libye",
+        "Ekvádor",
+        "Vietnam"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Handan Sultan",
+      "values": [
+        "Finsko",
+        "Turecko",
+        "Namibie",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vítězslav Sedlák",
+      "values": [
+        "Bulharsko",
+        "Guatemala",
+        "Jihoafrická republika",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Louis Ducruet",
+      "values": [
+        "Pero",
+        "Maďarsko",
+        "Monako",
+        "Afghánistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sylvie Vartanová",
+      "values": [
+        "Madagaskar",
+        "Bulharsko",
+        "Nikaragua",
+        "Nepál"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

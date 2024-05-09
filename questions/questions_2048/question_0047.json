@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Pampelišky smetánky",
+      "values": [
+        "Mongolsko",
+        "Brazílie",
+        "Česko",
+        "Austrálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Podzemnice olejná",
+      "values": [
+        "Brazílie",
+        "Mongolsko",
+        "Česko",
+        "Austrálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jitrocel kopinatý",
+      "values": [
+        "Česko",
+        "Mexiko",
+        "Austrálie",
+        "Brazílie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Řebříček obecný",
+      "values": [
+        "Mongolsko",
+        "Česko",
+        "Brazílie",
+        "Austrálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Baobab",
+      "values": [
+        "Mexiko",
+        "Austrálie",
+        "Mongolsko",
+        "Brazílie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Morušovník",
+      "values": [
+        "Brazílie",
+        "Česko",
+        "Mexiko",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dub letní",
+      "values": [
+        "Česko",
+        "Austrálie",
+        "Mongolsko",
+        "Mexiko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Růže",
+      "values": [
+        "Česko",
+        "Austrálie",
+        "Mongolsko",
+        "Brazílie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lékořice lysá",
+      "values": [
+        "Brazílie",
+        "Austrálie",
+        "Mongolsko",
+        "Mexiko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jmelí bílé",
+      "values": [
+        "Mongolsko",
+        "Mexiko",
+        "Brazílie",
+        "Česko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

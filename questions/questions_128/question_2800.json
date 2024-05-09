@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Thomas Alva Edison",
+      "values": [
+        "dánského",
+        "slovenského",
+        "amerického",
+        "běloruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eduard Heger",
+      "values": [
+        "švýcarského",
+        "francouzského",
+        "japonského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Heinrich Mattoni",
+      "values": [
+        "rakouského",
+        "pákistánského",
+        "slovinského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sergey Brin",
+      "values": [
+        "švédského",
+        "brazilského",
+        "amerického",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Durov",
+      "values": [
+        "mexického",
+        "řeckého",
+        "dánského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miroslav Černošek",
+      "values": [
+        "českého",
+        "japonského",
+        "francouzského",
+        "íránského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert Golob",
+      "values": [
+        "litevského",
+        "kanadského",
+        "amerického",
+        "slovinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sjarhej Cichanouski",
+      "values": [
+        "švýcarského",
+        "ruského",
+        "běloruského",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Helán",
+      "values": [
+        "ukrajinského",
+        "českého",
+        "belgického",
+        "bangladéšského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alfred Krupp",
+      "values": [
+        "italského",
+        "německého",
+        "pákistánského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

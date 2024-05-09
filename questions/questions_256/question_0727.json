@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Miloš Kopecký",
+      "values": [
+        "francouzského",
+        "sovětského",
+        "islandského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Richard Hes",
+      "values": [
+        "německého",
+        "argentinského",
+        "irského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alan Alda",
+      "values": [
+        "amerického",
+        "francouzského",
+        "nizozemského",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paul Hogan",
+      "values": [
+        "venezuelského",
+        "australského",
+        "ruského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sam Neill",
+      "values": [
+        "belgického",
+        "guatemalského",
+        "nizozemského",
+        "novozélandského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Juraj Loj",
+      "values": [
+        "slovenského",
+        "argentinského",
+        "rakouského",
+        "marockého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Braňo Polák",
+      "values": [
+        "nizozemského",
+        "ukrajinského",
+        "španělského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Apolenář",
+      "values": [
+        "čínského",
+        "argentinského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Peter Alexander",
+      "values": [
+        "rakouského",
+        "chilského",
+        "malajsijského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alain Chabat",
+      "values": [
+        "jamajského",
+        "chilského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

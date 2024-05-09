@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Brno",
+      "values": [
+        "Hornád",
+        "Svratka",
+        "Úslava",
+        "Ploučnice"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Varšava",
+      "values": [
+        "Visla",
+        "Eufrat",
+        "Loira",
+        "Chrudimka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Linec",
+      "values": [
+        "Malše",
+        "Svratka",
+        "Dunaj",
+        "Vltava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dnipro",
+      "values": [
+        "Metuje",
+        "Dněpr",
+        "Cidlina",
+        "Seina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Přelouč",
+      "values": [
+        "Cidlina",
+        "Mandava",
+        "Bečva",
+        "Labe"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hostinné",
+      "values": [
+        "Rýn",
+        "Jizera",
+        "Otava",
+        "Labe"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nižbor",
+      "values": [
+        "Hron",
+        "Chrudimka",
+        "Berounka",
+        "Labe"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mannheim",
+      "values": [
+        "Sázava",
+        "Don",
+        "Jizera",
+        "Rýn"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Blovice",
+      "values": [
+        "Dunaj",
+        "Úslava",
+        "Hornád",
+        "Malše"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vukovar",
+      "values": [
+        "Váha",
+        "Dunaj",
+        "Spréva",
+        "Něva"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

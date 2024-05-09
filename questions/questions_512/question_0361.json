@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] šlechtice?",
+  "questions": [
+    {
+      "key": "Alžběta Báthoryová",
+      "values": [
+        "slovenského",
+        "nizozemského",
+        "uherského",
+        "slezského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tycho Brahe",
+      "values": [
+        "ruského",
+        "španělského",
+        "dánského",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomáš Czernin",
+      "values": [
+        "nizozemského",
+        "slovenského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Konstantin von Neurath",
+      "values": [
+        "německého",
+        "francouzského",
+        "britského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "John Major",
+      "values": [
+        "francouzského",
+        "dánského",
+        "britského",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel starší ze Žerotína",
+      "values": [
+        "španělského",
+        "ruského",
+        "francouzského",
+        "moravského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hans Axel von Fersen",
+      "values": [
+        "českého",
+        "moravského",
+        "uherského",
+        "švédského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Clement Attlee",
+      "values": [
+        "slovenského",
+        "španělského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Richard Attenborough",
+      "values": [
+        "italského",
+        "uherského",
+        "moravského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "János Hunyadi",
+      "values": [
+        "uherského",
+        "moravského",
+        "ruského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

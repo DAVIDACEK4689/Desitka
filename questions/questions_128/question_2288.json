@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Jackie Chan",
+      "values": [
+        "kanadského",
+        "slovinského",
+        "hongkongského",
+        "chorvatského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sean Penn",
+      "values": [
+        "kanadského",
+        "finského",
+        "švédského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Laurin",
+      "values": [
+        "chorvatského",
+        "českého",
+        "maďarského",
+        "hongkongského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Robert Duvall",
+      "values": [
+        "ruského",
+        "kanadského",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaroslav Hanuš",
+      "values": [
+        "irského",
+        "českého",
+        "finského",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vlastimil Venclík",
+      "values": [
+        "britského",
+        "španělského",
+        "polského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimír Slavínský",
+      "values": [
+        "dánského",
+        "ruského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sidney Lumet",
+      "values": [
+        "nizozemského",
+        "amerického",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lennart Meri",
+      "values": [
+        "sovětského",
+        "rakouského",
+        "estonského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "John Lasseter",
+      "values": [
+        "francouzského",
+        "italského",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

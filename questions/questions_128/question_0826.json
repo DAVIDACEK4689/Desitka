@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Vyšehrad",
+      "values": [
+        "Ploučnice",
+        "Otava",
+        "Vltava",
+        "Lužnice"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karlín",
+      "values": [
+        "Lužická Nisa",
+        "Vltava",
+        "Emže",
+        "Visla"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Visegrád",
+      "values": [
+        "Dunaj",
+        "Seina",
+        "Úslava",
+        "Malše"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zlatá Koruna",
+      "values": [
+        "Cidlina",
+        "Jizera",
+        "Vltava",
+        "Otava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Saratov",
+      "values": [
+        "Hron",
+        "Don",
+        "Volha",
+        "Eufrat"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zbečno",
+      "values": [
+        "Metuje",
+        "Berounka",
+        "Emže",
+        "Loira"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Liblín",
+      "values": [
+        "Berounka",
+        "Don",
+        "Chrudimka",
+        "Emže"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Plav",
+      "values": [
+        "Eufrat",
+        "Malše",
+        "Sázava",
+        "Hornád"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dolní Zálezly",
+      "values": [
+        "Dněpr",
+        "Hornád",
+        "Labe",
+        "Volha"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čilá",
+      "values": [
+        "Úslava",
+        "Berounka",
+        "Otava",
+        "Váha"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

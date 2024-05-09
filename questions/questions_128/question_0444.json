@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] jezuitu?",
+  "questions": [
+    {
+      "key": "Ignác z Loyoly",
+      "values": [
+        "španělského",
+        "anglického",
+        "nizozemského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Špidlík",
+      "values": [
+        "českého",
+        "německého",
+        "nizozemského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pierre Teilhard de Chardin",
+      "values": [
+        "nizozemského",
+        "polského",
+        "kanadského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alois Gonzaga",
+      "values": [
+        "francouzského",
+        "italského",
+        "slovenského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Borgia",
+      "values": [
+        "španělského",
+        "slovenského",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Athanasius Kircher",
+      "values": [
+        "polského",
+        "anglického",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Andrea Pozzo",
+      "values": [
+        "českého",
+        "italského",
+        "švýcarského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Georg Joseph Kamel",
+      "values": [
+        "českého",
+        "švýcarského",
+        "španělského",
+        "anglického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michael Czerny",
+      "values": [
+        "francouzského",
+        "českého",
+        "kanadského",
+        "anglického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robert Bellarmino",
+      "values": [
+        "švýcarského",
+        "italského",
+        "anglického",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Vyšehrad",
+      "values": [
+        "Vltava",
+        "Rýn",
+        "Mandava",
+        "Jizera"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Valašské Meziříčí",
+      "values": [
+        "Spréva",
+        "Bečva",
+        "Visla",
+        "Cidlina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bechyně",
+      "values": [
+        "Tis",
+        "Lužnice",
+        "Volha",
+        "Mandava"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tišnov",
+      "values": [
+        "Svratka",
+        "Lužnice",
+        "Don",
+        "Úhlava"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sezimovo Ústí",
+      "values": [
+        "Cidlina",
+        "Ploučnice",
+        "Úslava",
+        "Lužnice"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jimramov",
+      "values": [
+        "Ploučnice",
+        "Tibera",
+        "Svratka",
+        "Sázava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Braník",
+      "values": [
+        "Lužická Nisa",
+        "Váha",
+        "Temže",
+        "Vltava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Perugia",
+      "values": [
+        "Tibera",
+        "Jizera",
+        "Tis",
+        "Loira"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Laa an der Thaya",
+      "values": [
+        "Radbuza",
+        "Dyje",
+        "Hron",
+        "Rýn"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Duisburg",
+      "values": [
+        "Rýn",
+        "Chrudimka",
+        "Spréva",
+        "Sázava"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

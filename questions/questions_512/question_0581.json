@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] ateistu?",
+  "questions": [
+    {
+      "key": "Angelina Jolie",
+      "values": [
+        "finského",
+        "amerického",
+        "německého",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josip Broz Tito",
+      "values": [
+        "skotského",
+        "chorvatského",
+        "českého",
+        "židovského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Juraj Herz",
+      "values": [
+        "bulharského",
+        "chorvatského",
+        "nizozemského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lance Armstrong",
+      "values": [
+        "slovinského",
+        "albánského",
+        "amerického",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Julianne Moore",
+      "values": [
+        "polského",
+        "amerického",
+        "albánského",
+        "gruzínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Émile Durkheim",
+      "values": [
+        "skotského",
+        "amerického",
+        "britského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Konstantin Černěnko",
+      "values": [
+        "norského",
+        "maďarského",
+        "ruského",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zdeněk Mahler",
+      "values": [
+        "norského",
+        "židovského",
+        "kanadského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Antonio Gramsci",
+      "values": [
+        "německého",
+        "indického",
+        "italského",
+        "albánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anastáz Ivanovič Mikojan",
+      "values": [
+        "arménského",
+        "gruzínského",
+        "slovinského",
+        "bulharského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

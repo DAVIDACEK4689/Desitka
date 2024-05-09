@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Linda Finková",
+      "values": [
+        "brazilskou",
+        "portugalskou",
+        "kanadskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nikola Muchová",
+      "values": [
+        "australskou",
+        "švýcarskou",
+        "českou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lenka Kořínková",
+      "values": [
+        "kanadskou",
+        "mexickou",
+        "izraelskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Anna Kendrick",
+      "values": [
+        "americkou",
+        "ruskou",
+        "moldavskou",
+        "brazilskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jana Kocianová",
+      "values": [
+        "australskou",
+        "slovenskou",
+        "brazilskou",
+        "finskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zuzana Šuláková",
+      "values": [
+        "peruánskou",
+        "kanadskou",
+        "českou",
+        "rumunskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nicole Richie",
+      "values": [
+        "irskou",
+        "francouzskou",
+        "americkou",
+        "slovenskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Traci Lords",
+      "values": [
+        "novozélandskou",
+        "americkou",
+        "portugalskou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sandie Shaw",
+      "values": [
+        "kanadskou",
+        "britskou",
+        "moldavskou",
+        "italskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Raffaella Carrà",
+      "values": [
+        "norskou",
+        "srbskou",
+        "italskou",
+        "moldavskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

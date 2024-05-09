@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle lázně",
+  "questions": [
+    {
+      "key": "Cáchy",
+      "values": [
+        "Spojené království",
+        "Německo",
+        "Belgie",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kolobřeh",
+      "values": [
+        "Německo",
+        "Polsko",
+        "Španělsko",
+        "Řecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Soči",
+      "values": [
+        "Rakousko",
+        "Španělsko",
+        "Rusko",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mosonmagyaróvár",
+      "values": [
+        "Řecko",
+        "Slovinsko",
+        "Itálie",
+        "Maďarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bad Schandau",
+      "values": [
+        "Řecko",
+        "Slovinsko",
+        "Rakousko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hlucholazy",
+      "values": [
+        "Německo",
+        "Rusko",
+        "Polsko",
+        "Ukrajina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bournemouth",
+      "values": [
+        "Slovensko",
+        "Německo",
+        "Spojené království",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vichy",
+      "values": [
+        "Řecko",
+        "Francie",
+        "Maďarsko",
+        "Ukrajina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Berďansk",
+      "values": [
+        "Belgie",
+        "Ukrajina",
+        "Itálie",
+        "Německo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jūrmala",
+      "values": [
+        "Německo",
+        "Lotyšsko",
+        "Polsko",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

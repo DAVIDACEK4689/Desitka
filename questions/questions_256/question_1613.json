@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Vlasta Burian",
+      "values": [
+        "švýcarského",
+        "českého",
+        "kolumbijského",
+        "skotského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bohuš Matuš",
+      "values": [
+        "skotského",
+        "českého",
+        "švýcarského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Robin Gibb",
+      "values": [
+        "belgického",
+        "italského",
+        "brazilského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Kopečný",
+      "values": [
+        "kolumbijského",
+        "španělského",
+        "českého",
+        "portorického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vladimír Merta",
+      "values": [
+        "ruského",
+        "jihokorejského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Paul Rodgers",
+      "values": [
+        "britského",
+        "portorického",
+        "jihokorejského",
+        "finského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cody Simpson",
+      "values": [
+        "australského",
+        "norského",
+        "španělského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Akon",
+      "values": [
+        "portorického",
+        "argentinského",
+        "amerického",
+        "islandského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aidan Gallagher",
+      "values": [
+        "belgického",
+        "slovenského",
+        "amerického",
+        "portorického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Attila Dorn",
+      "values": [
+        "moldavského",
+        "islandského",
+        "rakouského",
+        "rumunského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

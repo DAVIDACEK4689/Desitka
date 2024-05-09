@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] muslima?",
+  "questions": [
+    {
+      "key": "Muhammad Ali",
+      "values": [
+        "pákistánského",
+        "amerického",
+        "kazašského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Idi Amin",
+      "values": [
+        "ugandského",
+        "íránského",
+        "albánského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mohamed Salah",
+      "values": [
+        "francouzského",
+        "pákistánského",
+        "egyptského",
+        "tureckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Omar Sharif",
+      "values": [
+        "amerického",
+        "kazašského",
+        "německého",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tamím bin Hamad Ál Thání",
+      "values": [
+        "katarského",
+        "ukrajinského",
+        "francouzského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "DJ Khaled",
+      "values": [
+        "amerického",
+        "čínského",
+        "íránského",
+        "pákistánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Muhammad Mursí",
+      "values": [
+        "egyptského",
+        "kazašského",
+        "českého",
+        "pákistánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ayşe Hafsa Sultan",
+      "values": [
+        "ukrajinského",
+        "německého",
+        "íránského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hajbatulláh Achúndzáda",
+      "values": [
+        "ukrajinského",
+        "řeckého",
+        "afghánského",
+        "kazašského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marat Safin",
+      "values": [
+        "ugandského",
+        "ruského",
+        "čínského",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

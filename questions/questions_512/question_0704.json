@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte kontinent podle fauny",
+  "questions": [
+    {
+      "key": "Hroch obojživelný",
+      "values": [
+        "Afrika",
+        "Antarktida",
+        "Střední Amerika",
+        "Asie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lama alpaka",
+      "values": [
+        "Střední Amerika",
+        "Asie",
+        "Evropa",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hyena skvrnitá",
+      "values": [
+        "Asie",
+        "Jižní Amerika",
+        "Střední Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kojot prérijní",
+      "values": [
+        "Asie",
+        "Antarktida",
+        "Severní Amerika",
+        "Střední Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nosorožec dvourohý",
+      "values": [
+        "Asie",
+        "Afrika",
+        "Střední Amerika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kril",
+      "values": [
+        "Antarktida",
+        "Evropa",
+        "Střední Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pralesnička azurová",
+      "values": [
+        "Severní Amerika",
+        "Střední Amerika",
+        "Jižní Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Medvěd ušatý",
+      "values": [
+        "Střední Amerika",
+        "Asie",
+        "Afrika",
+        "Antarktida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mara stepní",
+      "values": [
+        "Jižní Amerika",
+        "Asie",
+        "Evropa",
+        "Severní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kočka rybářská",
+      "values": [
+        "Evropa",
+        "Afrika",
+        "Asie",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

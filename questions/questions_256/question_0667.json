@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistku?",
+  "questions": [
+    {
+      "key": "Barbora Krejčíková",
+      "values": [
+        "australskou",
+        "českou",
+        "ruskou",
+        "belgickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marie Bouzková",
+      "values": [
+        "polskou",
+        "japonskou",
+        "českou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tereza Martincová",
+      "values": [
+        "americkou",
+        "australskou",
+        "britskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Viktoria Azarenková",
+      "values": [
+        "běloruskou",
+        "tuniskou",
+        "ruskou",
+        "argentinskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chris Evertová",
+      "values": [
+        "rumunskou",
+        "americkou",
+        "srbskou",
+        "německou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jekatěrina Alexandrovová",
+      "values": [
+        "ruskou",
+        "japonskou",
+        "českou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Elise Mertensová",
+      "values": [
+        "belgickou",
+        "československou",
+        "ukrajinskou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Daniela Hantuchová",
+      "values": [
+        "kanadskou",
+        "ruskou",
+        "slovenskou",
+        "československou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Magda Linetteová",
+      "values": [
+        "britskou",
+        "rakouskou",
+        "rumunskou",
+        "polskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jasmine Paoliniová",
+      "values": [
+        "italskou",
+        "belgickou",
+        "československou",
+        "řeckou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

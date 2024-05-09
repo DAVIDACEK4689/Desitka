@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle provincie",
+  "questions": [
+    {
+      "key": "Phuket",
+      "values": [
+        "Argentina",
+        "Thajsko",
+        "Prusko",
+        "Indonésie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jakarta",
+      "values": [
+        "Prusko",
+        "Pákistán",
+        "Indonésie",
+        "Afghánistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kantábrie",
+      "values": [
+        "Jihoafrická republika",
+        "Španělsko",
+        "Jižní Korea",
+        "Irsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zeeland",
+      "values": [
+        "Československo",
+        "Nizozemsko",
+        "Dominikánská republika",
+        "Indonésie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jižní Holandsko",
+      "values": [
+        "Argentina",
+        "Arménie",
+        "Nizozemsko",
+        "Irsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hrabství Artois",
+      "values": [
+        "Afghánistán",
+        "Indonésie",
+        "Nizozemsko",
+        "Jižní Korea"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hamadán",
+      "values": [
+        "Indonésie",
+        "Afghánistán",
+        "Írán",
+        "Argentina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Flevoland",
+      "values": [
+        "Thajsko",
+        "Indonésie",
+        "Afghánistán",
+        "Nizozemsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Puerto Plata",
+      "values": [
+        "Nizozemsko",
+        "Jihoafrická republika",
+        "Československo",
+        "Dominikánská republika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Poznaňsko",
+      "values": [
+        "Nizozemsko",
+        "Prusko",
+        "Československo",
+        "Írán"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

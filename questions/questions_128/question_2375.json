@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle premiéra",
+  "questions": [
+    {
+      "key": "Jiří Rusnok",
+      "values": [
+        "Lotyšsko",
+        "Libanon",
+        "Česko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "David Cameron",
+      "values": [
+        "Spojené království",
+        "Ukrajina",
+        "Moldavsko",
+        "Grónsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Georgi Dimitrov",
+      "values": [
+        "Bulharsko",
+        "Slovinsko",
+        "Arménie",
+        "Kamerun"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Camillo Benso Cavour",
+      "values": [
+        "Arménie",
+        "Itálie",
+        "Island",
+        "Ukrajina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Charles Grey",
+      "values": [
+        "Portugalsko",
+        "Dánsko",
+        "Spojené království",
+        "Španělsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Georgij Lvov",
+      "values": [
+        "Litva",
+        "Rusko",
+        "Grónsko",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vojislav Koštunica",
+      "values": [
+        "Portugalsko",
+        "Malta",
+        "Srbsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pál Teleki",
+      "values": [
+        "Maďarsko",
+        "Česko",
+        "Chorvatsko",
+        "Kamerun"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "József Antall",
+      "values": [
+        "Maďarsko",
+        "Bulharsko",
+        "Dánsko",
+        "Lotyšsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Béla Miklós",
+      "values": [
+        "Moldavsko",
+        "Maďarsko",
+        "Ázerbájdžán",
+        "Slovinsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

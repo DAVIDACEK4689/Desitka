@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Barbora Munzarová",
+      "values": [
+        "českou",
+        "jihokorejskou",
+        "uruguayskou",
+        "indickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paris Hilton",
+      "values": [
+        "bulharskou",
+        "americkou",
+        "ruskou",
+        "kolumbijskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jarmila Kurandová",
+      "values": [
+        "slovenskou",
+        "českou",
+        "britskou",
+        "irskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andrea Mohylová",
+      "values": [
+        "australskou",
+        "českou",
+        "švédskou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Shirley MacLaine",
+      "values": [
+        "americkou",
+        "maďarskou",
+        "čínskou",
+        "řeckou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Claire Foy",
+      "values": [
+        "bermudskou",
+        "britskou",
+        "kanadskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Svatava Hubeňáková",
+      "values": [
+        "maďarskou",
+        "českou",
+        "indickou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kristin Kreuková",
+      "values": [
+        "jihoafrickou",
+        "novozélandskou",
+        "kanadskou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Blanka Lormanová",
+      "values": [
+        "českou",
+        "ruskou",
+        "norskou",
+        "indickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Daliah Laviová",
+      "values": [
+        "argentinskou",
+        "ruskou",
+        "bermudskou",
+        "izraelskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

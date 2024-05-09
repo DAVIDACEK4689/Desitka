@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Tři oříšky pro Popelku",
+      "values": [
+        "Václav Vorlíček",
+        "Otakar Vávra",
+        "Filip Renč",
+        "Pavel Juráček"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rebelové",
+      "values": [
+        "Jan Němec",
+        "Miloslav Šmídmajer",
+        "Otakar Vávra",
+        "Filip Renč"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Promlčeno",
+      "values": [
+        "Petr Jákl",
+        "Robert Sedláček",
+        "Marie Poledňáková",
+        "Bořivoj Zeman"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Samotáři",
+      "values": [
+        "David Ondříček",
+        "Juraj Herz",
+        "František Vláčil",
+        "Tomáš Bařina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Škola základ života",
+      "values": [
+        "Petr Zelenka",
+        "Věra Chytilová",
+        "Jan Svěrák",
+        "Martin Frič"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lásky mezi kapkami deště",
+      "values": [
+        "Antonín Moskalyk",
+        "Karel Lamač",
+        "Jiří Vejdělek",
+        "Karel Kachyňa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pražská pětka",
+      "values": [
+        "Tomáš Vorel",
+        "Roman Vávra",
+        "Saša Gedeon",
+        "Vojtěch Jasný"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nestyda",
+      "values": [
+        "Marie Poledňáková",
+        "Jan Hřebejk",
+        "Ladislav Smoljak",
+        "Filip Renč"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Král sokolů",
+      "values": [
+        "Jiří Krejčík",
+        "Zdeněk Tyc",
+        "Miloš Forman",
+        "Václav Vorlíček"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Farářův konec",
+      "values": [
+        "Zdeněk Tyc",
+        "Evald Schorm",
+        "Jiří Vejdělek",
+        "Bohdan Sláma"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

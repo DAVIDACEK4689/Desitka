@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "David Gránský",
+      "values": [
+        "českého",
+        "jihoafrického",
+        "australského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ondřej Ruml",
+      "values": [
+        "dánského",
+        "slovenského",
+        "českého",
+        "moldavského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Smigmator",
+      "values": [
+        "islandského",
+        "australského",
+        "norského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Troye Sivan",
+      "values": [
+        "ruského",
+        "australského",
+        "maďarského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Klásek",
+      "values": [
+        "finského",
+        "českého",
+        "dánského",
+        "argentinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Conan Gray",
+      "values": [
+        "sovětského",
+        "kanadského",
+        "švýcarského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Kabeš",
+      "values": [
+        "českého",
+        "islandského",
+        "mexického",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nick Drake",
+      "values": [
+        "francouzského",
+        "mexického",
+        "britského",
+        "jamajského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Juanes",
+      "values": [
+        "slovenského",
+        "kolumbijského",
+        "brazilského",
+        "argentinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Sovič",
+      "values": [
+        "mexického",
+        "norského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] miliardáře?",
+  "questions": [
+    {
+      "key": "Pavel Tykač",
+      "values": [
+        "britského",
+        "českého",
+        "ruského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petro Porošenko",
+      "values": [
+        "ukrajinského",
+        "tureckého",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dalibor Dědek",
+      "values": [
+        "amerického",
+        "rakouského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oprah Winfreyová",
+      "values": [
+        "rakouského",
+        "amerického",
+        "britského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jitka Cechlová Komárková",
+      "values": [
+        "tureckého",
+        "ruského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Beran",
+      "values": [
+        "českého",
+        "tureckého",
+        "rakouského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Aleš Graf",
+      "values": [
+        "českého",
+        "ruského",
+        "rakouského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sean Parker",
+      "values": [
+        "ruského",
+        "britského",
+        "amerického",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexandr Seidl",
+      "values": [
+        "českého",
+        "rakouského",
+        "ruského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladimir Potanin",
+      "values": [
+        "ruského",
+        "ukrajinského",
+        "amerického",
+        "tureckého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

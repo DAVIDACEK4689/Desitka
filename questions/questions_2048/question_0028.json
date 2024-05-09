@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Praha",
+      "values": [
+        "Temže",
+        "Ploučnice",
+        "Úhlava",
+        "Vltava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karlovy Vary",
+      "values": [
+        "Sázava",
+        "Cidlina",
+        "Ohře",
+        "Bečva"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Budapešť",
+      "values": [
+        "Dunaj",
+        "Váha",
+        "Dyje",
+        "Dněpr"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Znojmo",
+      "values": [
+        "Něva",
+        "Visla",
+        "Dyje",
+        "Ploučnice"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kolín",
+      "values": [
+        "Eufrat",
+        "Labe",
+        "Seina",
+        "Dněpr"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Havlíčkův Brod",
+      "values": [
+        "Cidlina",
+        "Lužnice",
+        "Svratka",
+        "Sázava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Klatovy",
+      "values": [
+        "Eufrat",
+        "Úhlava",
+        "Dněpr",
+        "Lužická Nisa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nymburk",
+      "values": [
+        "Metuje",
+        "Labe",
+        "Temže",
+        "Otava"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Strakonice",
+      "values": [
+        "Lužická Nisa",
+        "Jizera",
+        "Otava",
+        "Váha"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jičín",
+      "values": [
+        "Úhlava",
+        "Jizera",
+        "Spréva",
+        "Cidlina"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle premiéra",
+  "questions": [
+    {
+      "key": "Vladimir Putin",
+      "values": [
+        "Spojené království",
+        "Maďarsko",
+        "Irák",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimir Iljič Lenin",
+      "values": [
+        "Česko",
+        "Izrael",
+        "Rusko",
+        "Španělsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mirek Topolánek",
+      "values": [
+        "Česko",
+        "Rusko",
+        "Jugoslávie",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Peter Pellegrini",
+      "values": [
+        "Maďarsko",
+        "Slovensko",
+        "Španělsko",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Francisco Franco",
+      "values": [
+        "Itálie",
+        "Francie",
+        "Slovensko",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Igor Matovič",
+      "values": [
+        "Polsko",
+        "Slovensko",
+        "Ukrajina",
+        "Izrael"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Benjamin Netanjahu",
+      "values": [
+        "Turecko",
+        "Izrael",
+        "Itálie",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Fischer",
+      "values": [
+        "Itálie",
+        "Česko",
+        "Jugoslávie",
+        "Izrael"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vladimír Mečiar",
+      "values": [
+        "Irák",
+        "Polsko",
+        "Slovensko",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Julija Tymošenková",
+      "values": [
+        "Ukrajina",
+        "Irák",
+        "Izrael",
+        "Maďarsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

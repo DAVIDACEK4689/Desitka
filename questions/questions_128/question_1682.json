@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Zlatan Ibrahimović",
+      "values": [
+        "nigerijského",
+        "švédského",
+        "zimbabwského",
+        "marockého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ondřej Čelůstka",
+      "values": [
+        "českého",
+        "mongolského",
+        "černohorského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robin van Persie",
+      "values": [
+        "nizozemského",
+        "gruzínského",
+        "ghanského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bert Trautmann",
+      "values": [
+        "německého",
+        "irského",
+        "maďarského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kryštof Daněk",
+      "values": [
+        "kolumbijského",
+        "ruského",
+        "českého",
+        "venezuelského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Klub ligových brankářů",
+      "values": [
+        "kosovského",
+        "severoirského",
+        "polského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nacho Fernández",
+      "values": [
+        "venezuelského",
+        "španělského",
+        "kanadského",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ramires",
+      "values": [
+        "tureckého",
+        "gruzínského",
+        "norského",
+        "brazilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Berkovec",
+      "values": [
+        "českého",
+        "zimbabwského",
+        "švédského",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Wesley Fofana",
+      "values": [
+        "italského",
+        "francouzského",
+        "islandského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

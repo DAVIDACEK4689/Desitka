@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte město podle české kultury",
+  "questions": [
+    {
+      "key": "Lunetic",
+      "values": [
+        "Litvínov",
+        "Chrudim",
+        "Hradec Králové",
+        "Beroun"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Muzeum východních Čech",
+      "values": [
+        "Jablonné v Podještědí",
+        "Hradec Králové",
+        "Vizovice",
+        "Písek"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pivovar Rychtář",
+      "values": [
+        "Přibyslav",
+        "Hlinsko",
+        "Hradec Králové",
+        "Pacov"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Země živitelka",
+      "values": [
+        "Benešov",
+        "Rumburk",
+        "České Budějovice",
+        "Písek"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Muzeum Českého ráje",
+      "values": [
+        "Krásná Lípa",
+        "Turnov",
+        "Břeclav",
+        "Třebechovice pod Orebem"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Městské muzeum Antonína Sovy",
+      "values": [
+        "Roudnice nad Labem",
+        "Břeclav",
+        "Krnov",
+        "Pacov"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Naučná stezka Pohansko",
+      "values": [
+        "České Budějovice",
+        "Kadaň",
+        "Pacov",
+        "Břeclav"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Muzeum a Pojizerská galerie",
+      "values": [
+        "Semily",
+        "Liberec",
+        "Jablonné v Podještědí",
+        "Hradec Králové"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Každý má právo na vzdělání",
+      "values": [
+        "Hejnice",
+        "Unhošť",
+        "Teplice",
+        "Břeclav"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Naučná stezka Hradní okruh",
+      "values": [
+        "Příbram",
+        "Boskovice",
+        "Broumov",
+        "Chrastava"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

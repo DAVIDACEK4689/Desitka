@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle provincie",
+  "questions": [
+    {
+      "key": "Bali",
+      "values": [
+        "Vietnam",
+        "Španělsko",
+        "Indonésie",
+        "Finsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Phuket",
+      "values": [
+        "Španělsko",
+        "Argentina",
+        "Thajsko",
+        "Arménie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Baleáry",
+      "values": [
+        "Finsko",
+        "Arménie",
+        "Španělsko",
+        "Vietnam"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Buenos Aires",
+      "values": [
+        "Arménie",
+        "Finsko",
+        "Argentina",
+        "Nizozemsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ararat",
+      "values": [
+        "Finsko",
+        "Argentina",
+        "Arménie",
+        "Vietnam"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hanoj",
+      "values": [
+        "Argentina",
+        "Nizozemsko",
+        "Arménie",
+        "Vietnam"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jakarta",
+      "values": [
+        "Vietnam",
+        "Indonésie",
+        "Argentina",
+        "Španělsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alandy",
+      "values": [
+        "Nizozemsko",
+        "Argentina",
+        "Finsko",
+        "Arménie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Asturie",
+      "values": [
+        "Španělsko",
+        "Vietnam",
+        "Finsko",
+        "Indonésie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Frísko",
+      "values": [
+        "Finsko",
+        "Indonésie",
+        "Arménie",
+        "Nizozemsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

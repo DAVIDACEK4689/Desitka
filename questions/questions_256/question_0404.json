@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Pablo Escobar",
+      "values": [
+        "katarského",
+        "rumunského",
+        "kolumbijského",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eva Perónová",
+      "values": [
+        "madagaskarského",
+        "tureckého",
+        "argentinského",
+        "ghanského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Malcolm X",
+      "values": [
+        "ghanského",
+        "keňského",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Denys Šmyhal",
+      "values": [
+        "filipínského",
+        "panamského",
+        "ukrajinského",
+        "eritrejského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Antonio Gramsci",
+      "values": [
+        "kolumbijského",
+        "italského",
+        "madagaskarského",
+        "tureckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alberto Fernández",
+      "values": [
+        "eritrejského",
+        "řeckého",
+        "argentinského",
+        "běloruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Emil Maurice",
+      "values": [
+        "panamského",
+        "maďarského",
+        "německého",
+        "nigerského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Galeazzo Ciano",
+      "values": [
+        "italského",
+        "izraelského",
+        "nizozemského",
+        "bulharského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rodrigo Lara",
+      "values": [
+        "mexického",
+        "kolumbijského",
+        "libanonského",
+        "maltského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alija Izetbegović",
+      "values": [
+        "ruského",
+        "panamského",
+        "bosenského",
+        "pruského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

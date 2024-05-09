@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] miliardáře?",
+  "questions": [
+    {
+      "key": "Madonna",
+      "values": [
+        "amerického",
+        "britského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ivo Lukačovič",
+      "values": [
+        "českého",
+        "ukrajinského",
+        "rakouského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Steven Spielberg",
+      "values": [
+        "ruského",
+        "slovenského",
+        "amerického",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Igor Fait",
+      "values": [
+        "slovenského",
+        "rakouského",
+        "ukrajinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Richard Branson",
+      "values": [
+        "slovenského",
+        "českého",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sergey Brin",
+      "values": [
+        "ruského",
+        "rakouského",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tim Cook",
+      "values": [
+        "českého",
+        "slovenského",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Antonín Koláček",
+      "values": [
+        "slovenského",
+        "českého",
+        "ukrajinského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Phil Knight",
+      "values": [
+        "amerického",
+        "rakouského",
+        "britského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Ulčák",
+      "values": [
+        "amerického",
+        "českého",
+        "ukrajinského",
+        "britského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

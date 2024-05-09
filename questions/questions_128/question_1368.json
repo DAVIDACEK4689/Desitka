@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle národního parku",
+  "questions": [
+    {
+      "key": "Krkonošský národní park",
+      "values": [
+        "Austrálie",
+        "Česko",
+        "Rakousko",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Krugerův národní park",
+      "values": [
+        "Island",
+        "Jihoafrická republika",
+        "Austrálie",
+        "Lotyšsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Prokletije",
+      "values": [
+        "Ukrajina",
+        "Lotyšsko",
+        "Černá Hora",
+        "Namibie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Caesarea Maritima",
+      "values": [
+        "Izrael",
+        "Norsko",
+        "Ukrajina",
+        "Tanzanie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Národní park Stolové hory",
+      "values": [
+        "Dánsko",
+        "Polsko",
+        "Černá Hora",
+        "Kostarika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tulum",
+      "values": [
+        "Německo",
+        "Jihoafrická republika",
+        "Slovensko",
+        "Mexiko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Národní park Durmitor",
+      "values": [
+        "Černá Hora",
+        "Dánsko",
+        "Jihoafrická republika",
+        "Švédsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Judské hory",
+      "values": [
+        "Slovinsko",
+        "Austrálie",
+        "Izrael",
+        "Švédsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Národní park Muráňská planina",
+      "values": [
+        "Česko",
+        "Nepál",
+        "Slovensko",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Národní park Iguazú",
+      "values": [
+        "Keňa",
+        "Argentina",
+        "Norsko",
+        "Španělsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

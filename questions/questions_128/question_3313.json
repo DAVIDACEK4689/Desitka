@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "David Kraus",
+      "values": [
+        "polského",
+        "nizozemského",
+        "jamajského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Antonín Duchoslav",
+      "values": [
+        "bosenského",
+        "českého",
+        "marockého",
+        "bulharského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Brian Austin Green",
+      "values": [
+        "argentinského",
+        "švýcarského",
+        "jihokorejského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Filip Jančík",
+      "values": [
+        "jihokorejského",
+        "českého",
+        "chorvatského",
+        "bulharského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zdeněk Kampf",
+      "values": [
+        "namibijského",
+        "českého",
+        "chorvatského",
+        "bulharského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kevin Peter Hall",
+      "values": [
+        "jamajského",
+        "thajského",
+        "bosenského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aidan Gillen",
+      "values": [
+        "sovětského",
+        "irského",
+        "guatemalského",
+        "tureckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rudolf Kubík",
+      "values": [
+        "českého",
+        "sovětského",
+        "amerického",
+        "malajsijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert Geisler",
+      "values": [
+        "českého",
+        "španělského",
+        "nizozemského",
+        "indického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kamil Mikulčík",
+      "values": [
+        "chorvatského",
+        "ruského",
+        "slovenského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle českého sportovce",
+  "questions": [
+    {
+      "key": "Anna Kellnerová",
+      "values": [
+        "jezdec",
+        "basketbalista",
+        "golfista",
+        "horolezec"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lukáš Langmajer",
+      "values": [
+        "zápasník",
+        "horolezec",
+        "bojový umělec",
+        "automobilový závodník"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Jákl starší",
+      "values": [
+        "judista",
+        "kanoista",
+        "fotbalista",
+        "basketbalista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Roman Prymula",
+      "values": [
+        "basketbalista",
+        "šachista",
+        "akrobatický letec",
+        "automobilový závodník"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rostislav Olesz",
+      "values": [
+        "ragbista",
+        "jezdec",
+        "kajakář",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roman Kreuziger",
+      "values": [
+        "kickboxeři",
+        "cyklista",
+        "zápasník",
+        "ragbista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zdeněk Štybar",
+      "values": [
+        "rychlostní kanoista",
+        "kanoista",
+        "zápasník",
+        "cyklista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ondřej Kaše",
+      "values": [
+        "cyklista",
+        "lední hokejista",
+        "fotbalista",
+        "kanoista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Doktor",
+      "values": [
+        "kanoista",
+        "lední hokejista",
+        "rychlostní kanoista",
+        "golfista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Zídek",
+      "values": [
+        "rybář",
+        "kajakář",
+        "basketbalista",
+        "boxer"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

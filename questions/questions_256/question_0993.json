@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] automobilku?",
+  "questions": [
+    {
+      "key": "Škoda Auto",
+      "values": [
+        "indickou",
+        "nizozemskou",
+        "italskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stellantis",
+      "values": [
+        "indickou",
+        "nizozemskou",
+        "českou",
+        "maďarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "McLaren",
+      "values": [
+        "britskou",
+        "čínskou",
+        "německou",
+        "švédskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Iveco",
+      "values": [
+        "francouzskou",
+        "italskou",
+        "jihokorejskou",
+        "belgickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nissan",
+      "values": [
+        "slovenskou",
+        "japonskou",
+        "španělskou",
+        "švédskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bentley",
+      "values": [
+        "britskou",
+        "rakouskou",
+        "jihokorejskou",
+        "belgickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Suzuki",
+      "values": [
+        "francouzskou",
+        "českou",
+        "maďarskou",
+        "japonskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Iveco Czech Republic",
+      "values": [
+        "českou",
+        "slovenskou",
+        "čínskou",
+        "rakouskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miele",
+      "values": [
+        "německou",
+        "japonskou",
+        "australskou",
+        "čínskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Abarth",
+      "values": [
+        "japonskou",
+        "italskou",
+        "nizozemskou",
+        "švédskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

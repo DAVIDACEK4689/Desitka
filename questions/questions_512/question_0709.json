@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] román?",
+  "questions": [
+    {
+      "key": "Důmyslný rytíř Don Quijote de la Mancha",
+      "values": [
+        "italský",
+        "španělský",
+        "britský",
+        "australský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oliver Twist",
+      "values": [
+        "anglický",
+        "italský",
+        "český",
+        "japonský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jméno růže",
+      "values": [
+        "australský",
+        "německý",
+        "španělský",
+        "italský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pes baskervillský",
+      "values": [
+        "ruský",
+        "francouzský",
+        "rakouský",
+        "anglický"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nekonečný příběh",
+      "values": [
+        "australský",
+        "francouzský",
+        "anglický",
+        "německý"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dobrodružství Toma Sawyera",
+      "values": [
+        "americký",
+        "ruský",
+        "rakouský",
+        "italský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Šifra mistra Leonarda",
+      "values": [
+        "anglický",
+        "francouzský",
+        "irský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dobrodružství Huckleberryho Finna",
+      "values": [
+        "americký",
+        "anglický",
+        "francouzský",
+        "australský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Percy Jackson a Olympané",
+      "values": [
+        "italský",
+        "americký",
+        "německý",
+        "irský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Příliš hlučná samota",
+      "values": [
+        "slovenský",
+        "německý",
+        "český",
+        "rakouský"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

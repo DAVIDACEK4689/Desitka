@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle narození",
+  "questions": [
+    {
+      "key": "Svatý Augustin",
+      "values": [
+        "Brazílie",
+        "Indie",
+        "Francie",
+        "Alžírsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Luiz Inácio Lula da Silva",
+      "values": [
+        "Brazílie",
+        "Gabon",
+        "Libye",
+        "Turecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dimaš Kudajbergen",
+      "values": [
+        "Afghánistán",
+        "Kazachstán",
+        "Nizozemsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sauli Niinistö",
+      "values": [
+        "Gambie",
+        "Egypt",
+        "Finsko",
+        "Dominikánská republika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Akira Kurosawa",
+      "values": [
+        "Japonsko",
+        "Brazílie",
+        "Argentina",
+        "Venezuela"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Egan Bernal",
+      "values": [
+        "Kolumbie",
+        "Barbados",
+        "Uzbekistán",
+        "Řecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kostas Samaras",
+      "values": [
+        "Barbados",
+        "Řecko",
+        "Jamajka",
+        "Lucembursko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Awer Mabil",
+      "values": [
+        "Bhútán",
+        "Španělsko",
+        "Keňa",
+        "Singapur"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rafael Trujillo",
+      "values": [
+        "Argentina",
+        "Gambie",
+        "Írán",
+        "Dominikánská republika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Muhammad Siad Barre",
+      "values": [
+        "Kosovo",
+        "Etiopie",
+        "Lucembursko",
+        "Afghánistán"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

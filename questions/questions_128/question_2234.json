@@ -1,0 +1,105 @@
+{
+  "text": "Určete sport podle české sportovkyně",
+  "questions": [
+    {
+      "key": "Dana Morávková",
+      "values": [
+        "basketbalistka",
+        "rychlobruslařka",
+        "sportovní střelkyně",
+        "krasobruslařka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Helena Suková",
+      "values": [
+        "golfistky",
+        "krasobruslařka",
+        "rychlobruslařka",
+        "tenistka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sára Bejlek",
+      "values": [
+        "tenistka",
+        "volejbalistka",
+        "basketbalistka",
+        "lukostřelkyně"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Markéta Jeřábková",
+      "values": [
+        "házenkářka",
+        "lední hokejistky",
+        "rychlobruslařka",
+        "volejbalistka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Helena Havelková",
+      "values": [
+        "tenistka",
+        "plavkyně",
+        "volejbalistka",
+        "rychlobruslařka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Renata Chlumská",
+      "values": [
+        "volejbalistka",
+        "krasobruslařka",
+        "golfistky",
+        "horolezci"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vlasta Štáflová",
+      "values": [
+        "basketbalistka",
+        "horolezci",
+        "lední hokejistky",
+        "veslařka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martina Růžičková",
+      "values": [
+        "orientační běžkyně",
+        "cyklistka",
+        "stolní tenistka",
+        "golfistky"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Denisa Kosová",
+      "values": [
+        "krasobruslařka",
+        "orientační běžkyně",
+        "golfistky",
+        "fotbalistka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sára Kousková",
+      "values": [
+        "plavkyně",
+        "stolní tenistka",
+        "golfistky",
+        "šachistky"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

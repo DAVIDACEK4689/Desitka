@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Karel Poláček",
+      "values": [
+        "britského",
+        "polského",
+        "ukrajinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Taras Ševčenko",
+      "values": [
+        "chorvatského",
+        "kolumbijského",
+        "španělského",
+        "ukrajinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pavol Országh Hviezdoslav",
+      "values": [
+        "vietnamského",
+        "slovenského",
+        "německého",
+        "kubánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Thomas Bernhard",
+      "values": [
+        "rakouského",
+        "nigerijského",
+        "novozélandského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josif Brodskij",
+      "values": [
+        "ruského",
+        "indického",
+        "ázerbájdžánského",
+        "egyptského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Adam Jerzy Czartoryski",
+      "values": [
+        "polského",
+        "britského",
+        "paraguayského",
+        "vietnamského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Thomas Keneally",
+      "values": [
+        "australského",
+        "nizozemského",
+        "norského",
+        "estonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nâzım Hikmet",
+      "values": [
+        "švédského",
+        "tureckého",
+        "ruského",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oldřich Prefát z Vlkanova",
+      "values": [
+        "českého",
+        "bulharského",
+        "peruánského",
+        "afghánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Johannes Trithemius",
+      "values": [
+        "libanonského",
+        "slovenského",
+        "německého",
+        "izraelského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

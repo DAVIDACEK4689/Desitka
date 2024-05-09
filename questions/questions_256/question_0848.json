@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Ryan Gosling",
+      "values": [
+        "belgického",
+        "australského",
+        "francouzského",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Václav Lohniský",
+      "values": [
+        "srbského",
+        "belgického",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zdeněk Miler",
+      "values": [
+        "českého",
+        "polského",
+        "japonského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eman Fiala",
+      "values": [
+        "českého",
+        "hongkongského",
+        "dánského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert Sedláček",
+      "values": [
+        "rakouského",
+        "českého",
+        "švédského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pedro Almodóvar",
+      "values": [
+        "španělského",
+        "rakouského",
+        "italského",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jacques Prévert",
+      "values": [
+        "australského",
+        "francouzského",
+        "britského",
+        "belgického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Guillaume Canet",
+      "values": [
+        "irského",
+        "německého",
+        "francouzského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Václav",
+      "values": [
+        "novozélandského",
+        "polského",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Romain Gary",
+      "values": [
+        "českého",
+        "francouzského",
+        "srbského",
+        "japonského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

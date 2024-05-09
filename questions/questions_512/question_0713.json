@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle bitvy",
+  "questions": [
+    {
+      "key": "Vylodění v Normandii",
+      "values": [
+        "Itálie",
+        "Norsko",
+        "Nizozemsko",
+        "Španělsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Stalingradu",
+      "values": [
+        "Chorvatsko",
+        "Indie",
+        "Byzanc",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva o Francii",
+      "values": [
+        "Nizozemsko",
+        "Norsko",
+        "Anglie",
+        "Španělsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Obležení Leningradu",
+      "values": [
+        "Švédsko",
+        "Španělsko",
+        "Itálie",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva o Narvik",
+      "values": [
+        "Česko",
+        "Itálie",
+        "Španělsko",
+        "Norsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Operace Market Garden",
+      "values": [
+        "Nizozemsko",
+        "Itálie",
+        "Norsko",
+        "Španělsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva o Alamo",
+      "values": [
+        "Česko",
+        "Byzanc",
+        "Mexiko",
+        "Indie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Domažlic",
+      "values": [
+        "Indie",
+        "Spojené království",
+        "Nizozemsko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Švédské obléhání Prahy",
+      "values": [
+        "Česko",
+        "Indie",
+        "Spojené království",
+        "Švédsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Čtvrtá křížová výprava",
+      "values": [
+        "Indie",
+        "Anglie",
+        "Mexiko",
+        "Byzanc"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

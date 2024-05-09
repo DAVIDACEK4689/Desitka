@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistu?",
+  "questions": [
+    {
+      "key": "Carlos Alcaraz",
+      "values": [
+        "italského",
+        "australského",
+        "španělského",
+        "íránského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sebastian Korda",
+      "values": [
+        "ruského",
+        "amerického",
+        "německého",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adam Pavlásek",
+      "values": [
+        "českého",
+        "amerického",
+        "rakouského",
+        "íránského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "John McEnroe",
+      "values": [
+        "amerického",
+        "sovětského",
+        "nizozemského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mats Wilander",
+      "values": [
+        "polského",
+        "australského",
+        "švédského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stefan Edberg",
+      "values": [
+        "španělského",
+        "švédského",
+        "rumunského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "David Kotyza",
+      "values": [
+        "rumunského",
+        "amerického",
+        "sovětského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Juan Carlos Ferrero",
+      "values": [
+        "nizozemského",
+        "bulharského",
+        "íránského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Ferrer",
+      "values": [
+        "švýcarského",
+        "srbského",
+        "bulharského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zdeněk Kolář",
+      "values": [
+        "argentinského",
+        "rakouského",
+        "nizozemského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

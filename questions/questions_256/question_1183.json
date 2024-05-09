@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] automobilku?",
+  "questions": [
+    {
+      "key": "Volkswagen",
+      "values": [
+        "německou",
+        "španělskou",
+        "čínskou",
+        "polskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Audi",
+      "values": [
+        "německou",
+        "australskou",
+        "slovenskou",
+        "rumunskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "General Motors",
+      "values": [
+        "rumunskou",
+        "švédskou",
+        "americkou",
+        "čínskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "SOR Libchavy",
+      "values": [
+        "maďarskou",
+        "jihokorejskou",
+        "japonskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Groupe PSA",
+      "values": [
+        "maďarskou",
+        "francouzskou",
+        "švýcarskou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lotus",
+      "values": [
+        "německou",
+        "polskou",
+        "britskou",
+        "ruskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dodge",
+      "values": [
+        "francouzskou",
+        "rumunskou",
+        "americkou",
+        "německou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "BYD Auto",
+      "values": [
+        "čínskou",
+        "francouzskou",
+        "německou",
+        "rakouskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Setra",
+      "values": [
+        "australskou",
+        "španělskou",
+        "německou",
+        "maďarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Holden",
+      "values": [
+        "rumunskou",
+        "australskou",
+        "čínskou",
+        "maďarskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

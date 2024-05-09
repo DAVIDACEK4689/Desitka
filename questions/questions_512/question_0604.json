@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle premiéra",
+  "questions": [
+    {
+      "key": "Miloš Zeman",
+      "values": [
+        "Jugoslávie",
+        "Chorvatsko",
+        "Egypt",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mirek Topolánek",
+      "values": [
+        "Indie",
+        "Česko",
+        "Ukrajina",
+        "Irák"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Charles de Gaulle",
+      "values": [
+        "Bulharsko",
+        "Slovensko",
+        "Spojené království",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Fischer",
+      "values": [
+        "Izrael",
+        "Indie",
+        "Španělsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ladislav Adamec",
+      "values": [
+        "Portugalsko",
+        "Turecko",
+        "Bulharsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Józef Piłsudski",
+      "values": [
+        "Španělsko",
+        "Polsko",
+        "Indie",
+        "Portugalsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "David Cameron",
+      "values": [
+        "Indie",
+        "Itálie",
+        "Spojené království",
+        "Chorvatsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Imre Nagy",
+      "values": [
+        "Spojené království",
+        "Ukrajina",
+        "Ázerbájdžán",
+        "Maďarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Édouard Daladier",
+      "values": [
+        "Moldavsko",
+        "Francie",
+        "Finsko",
+        "Portugalsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Šinzó Abe",
+      "values": [
+        "Indie",
+        "Srbsko",
+        "Turecko",
+        "Japonsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

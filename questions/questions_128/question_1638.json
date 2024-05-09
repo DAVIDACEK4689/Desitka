@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte kontinent podle závislého území",
+  "questions": [
+    {
+      "key": "Grónsko",
+      "values": [
+        "Severní Amerika",
+        "Asie",
+        "Evropa",
+        "Afrika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Portoriko",
+      "values": [
+        "Afrika",
+        "Asie",
+        "Jižní Amerika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Falklandy",
+      "values": [
+        "Jižní Amerika",
+        "Asie",
+        "Afrika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Aruba",
+      "values": [
+        "Jižní Amerika",
+        "Afrika",
+        "Evropa",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bermudy",
+      "values": [
+        "Afrika",
+        "Jižní Amerika",
+        "Asie",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Guernsey",
+      "values": [
+        "Jižní Amerika",
+        "Afrika",
+        "Severní Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Britské Panenské ostrovy",
+      "values": [
+        "Asie",
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bonaire",
+      "values": [
+        "Afrika",
+        "Severní Amerika",
+        "Evropa",
+        "Asie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Britské indickooceánské území",
+      "values": [
+        "Severní Amerika",
+        "Afrika",
+        "Jižní Amerika",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Navassa",
+      "values": [
+        "Afrika",
+        "Jižní Amerika",
+        "Severní Amerika",
+        "Asie"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

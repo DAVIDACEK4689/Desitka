@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Rabat",
+      "values": [
+        "Abcházie",
+        "Maroko",
+        "Ázerbájdžán",
+        "Gabon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Omiš",
+      "values": [
+        "Chorvatsko",
+        "Izrael",
+        "Západní Sahara",
+        "Ekvádor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Akureyri",
+      "values": [
+        "Nigérie",
+        "Finsko",
+        "Island",
+        "Konžská republika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Péšávar",
+      "values": [
+        "Kapverdy",
+        "Honduras",
+        "Pákistán",
+        "Slovinsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jelgava",
+      "values": [
+        "Madagaskar",
+        "Srbsko",
+        "Finsko",
+        "Lotyšsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Iraklio",
+      "values": [
+        "Gabon",
+        "Honduras",
+        "Řecko",
+        "Srbsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jižní Tarawa",
+      "values": [
+        "Austrálie",
+        "Uzbekistán",
+        "Kiribati",
+        "Palau"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sinaia",
+      "values": [
+        "Švédsko",
+        "Rumunsko",
+        "Somálsko",
+        "Paraguay"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Imotski",
+      "values": [
+        "Chorvatsko",
+        "Island",
+        "Tunisko",
+        "Honduras"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dobrič",
+      "values": [
+        "Slovensko",
+        "Irsko",
+        "Severní Makedonie",
+        "Bulharsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

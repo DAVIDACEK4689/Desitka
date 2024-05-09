@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle jaderné elektrárny",
+  "questions": [
+    {
+      "key": "Jaderná elektrárna Temelín",
+      "values": [
+        "Česko",
+        "Maďarsko",
+        "Slovensko",
+        "Turecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Záporožská jaderná elektrárna",
+      "values": [
+        "Arménie",
+        "Bělorusko",
+        "Ukrajina",
+        "Turecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaderná elektrárna Zwentendorf",
+      "values": [
+        "Ukrajina",
+        "Japonsko",
+        "Slovensko",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaderná elektrárna Kecerovce",
+      "values": [
+        "Česko",
+        "Slovensko",
+        "Polsko",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chmelnycká jaderná elektrárna",
+      "values": [
+        "Česko",
+        "Ukrajina",
+        "Litva",
+        "Slovinsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Akademik Lomonosov",
+      "values": [
+        "Rusko",
+        "Spojené království",
+        "Litva",
+        "Německo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kurská jaderná elektrárna",
+      "values": [
+        "Německo",
+        "Rusko",
+        "Slovinsko",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rostovská jaderná elektrárna",
+      "values": [
+        "Rusko",
+        "Bulharsko",
+        "Japonsko",
+        "Spojené království"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Smolenská jaderná elektrárna",
+      "values": [
+        "Rusko",
+        "Ukrajina",
+        "Bělorusko",
+        "Spojené království"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jaderná elektrárna Astravec",
+      "values": [
+        "Finsko",
+        "Německo",
+        "Litva",
+        "Bělorusko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

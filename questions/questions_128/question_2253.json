@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Donald Trump",
+      "values": [
+        "chorvatského",
+        "francouzského",
+        "tanzanského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Schmid",
+      "values": [
+        "indického",
+        "maďarského",
+        "českého",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Pavel",
+      "values": [
+        "ukrajinského",
+        "českého",
+        "srbského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "José Rizal",
+      "values": [
+        "uruguayského",
+        "nigerijského",
+        "malajsijského",
+        "filipínského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ivan Renč",
+      "values": [
+        "estonského",
+        "českého",
+        "filipínského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Julio Cortázar",
+      "values": [
+        "argentinského",
+        "ruského",
+        "egyptského",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Václav Juda Novotný",
+      "values": [
+        "britského",
+        "guatemalského",
+        "brazilského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pavol Dobšinský",
+      "values": [
+        "běloruského",
+        "afghánského",
+        "gruzínského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chimamanda Ngozi Adichieová",
+      "values": [
+        "italského",
+        "nigerijského",
+        "gruzínského",
+        "izraelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miroslav Mráz",
+      "values": [
+        "řeckého",
+        "ukrajinského",
+        "českého",
+        "egyptského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

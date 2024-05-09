@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpravodajskou službu?",
+  "questions": [
+    {
+      "key": "Mosad",
+      "values": [
+        "britskou",
+        "íránskou",
+        "německou",
+        "izraelskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Šin bet",
+      "values": [
+        "izraelskou",
+        "íránskou",
+        "britskou",
+        "československou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vojenská kontrarozvědka",
+      "values": [
+        "německou",
+        "britskou",
+        "izraelskou",
+        "československou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zpravodajská správa Generálního štábu",
+      "values": [
+        "německou",
+        "československou",
+        "íránskou",
+        "izraelskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "MI5",
+      "values": [
+        "německou",
+        "britskou",
+        "íránskou",
+        "československou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Federální bezpečnostní informační služba",
+      "values": [
+        "britskou",
+        "československou",
+        "izraelskou",
+        "německou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Druhé oddělení Hlavního štábu",
+      "values": [
+        "československou",
+        "izraelskou",
+        "íránskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Spolková zpravodajská služba",
+      "values": [
+        "íránskou",
+        "československou",
+        "izraelskou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Šaj",
+      "values": [
+        "izraelskou",
+        "íránskou",
+        "německou",
+        "československou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Government Communications Headquarters",
+      "values": [
+        "německou",
+        "íránskou",
+        "izraelskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

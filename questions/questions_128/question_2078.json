@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Alexandr Lukašenko",
+      "values": [
+        "jugoslávského",
+        "ukrajinského",
+        "běloruského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Udaj Husajn",
+      "values": [
+        "pruského",
+        "španělského",
+        "indického",
+        "iráckého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mark Rutte",
+      "values": [
+        "nizozemského",
+        "jihoafrického",
+        "egyptského",
+        "iráckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gustav Stresemann",
+      "values": [
+        "pákistánského",
+        "myanmarského",
+        "německého",
+        "egyptského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Adolphe Thiers",
+      "values": [
+        "amerického",
+        "gruzínského",
+        "peruánského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Georgios Papadopulos",
+      "values": [
+        "řeckého",
+        "marockého",
+        "německého",
+        "albánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eduard Limonov",
+      "values": [
+        "salvadorského",
+        "ruského",
+        "islandského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ján Mlynárik",
+      "values": [
+        "slovenského",
+        "turkmenského",
+        "řeckého",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Kalvoda",
+      "values": [
+        "amerického",
+        "albánského",
+        "irského",
+        "salvadorského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fahri Korutürk",
+      "values": [
+        "tureckého",
+        "sovětského",
+        "nauruského",
+        "českého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

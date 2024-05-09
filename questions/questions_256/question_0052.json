@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Vídeň",
+      "values": [
+        "Německo",
+        "Rakousko",
+        "Dánsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Salcburk",
+      "values": [
+        "Rakousko",
+        "Maďarsko",
+        "Česko",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Žilina",
+      "values": [
+        "Maďarsko",
+        "Dánsko",
+        "Slovensko",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Prešov",
+      "values": [
+        "Nizozemsko",
+        "Portugalsko",
+        "Česko",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Segedín",
+      "values": [
+        "Rakousko",
+        "Česko",
+        "Maďarsko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Modena",
+      "values": [
+        "Itálie",
+        "Dánsko",
+        "Nizozemsko",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Svobodné hanzovní město Brémy",
+      "values": [
+        "Německo",
+        "Portugalsko",
+        "Rakousko",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lecce",
+      "values": [
+        "Belgie",
+        "Česko",
+        "Dánsko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kielce",
+      "values": [
+        "Maďarsko",
+        "Polsko",
+        "Česko",
+        "Dánsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Namur",
+      "values": [
+        "Portugalsko",
+        "Polsko",
+        "Dánsko",
+        "Belgie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

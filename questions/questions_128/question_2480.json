@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] novináře?",
+  "questions": [
+    {
+      "key": "Jan Drda",
+      "values": [
+        "chorvatského",
+        "německého",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jefim Fištejn",
+      "values": [
+        "českého",
+        "maďarského",
+        "ukrajinského",
+        "izraelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Daniel Anýž",
+      "values": [
+        "polského",
+        "rakouského",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Otto Strasser",
+      "values": [
+        "českého",
+        "ukrajinského",
+        "německého",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jana Ciglerová",
+      "values": [
+        "japonského",
+        "bulharského",
+        "slovenského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Fischer",
+      "values": [
+        "rakouského",
+        "kubánského",
+        "českého",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ilona Borská",
+      "values": [
+        "českého",
+        "španělského",
+        "sovětského",
+        "íránského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paul Deschanel",
+      "values": [
+        "rakouského",
+        "belgického",
+        "kubánského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zdeněk Adla",
+      "values": [
+        "japonského",
+        "finského",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Louise Brealey",
+      "values": [
+        "slovenského",
+        "polského",
+        "britského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Baobab",
+      "values": [
+        "Mexiko",
+        "Austrálie",
+        "Česko",
+        "Brazílie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kukuřice setá",
+      "values": [
+        "Madagaskar",
+        "Mexiko",
+        "Česko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mochyně",
+      "values": [
+        "Mexiko",
+        "Madagaskar",
+        "Mongolsko",
+        "Brazílie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Juvie ztepilá",
+      "values": [
+        "Brazílie",
+        "Mongolsko",
+        "Česko",
+        "Madagaskar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mochna",
+      "values": [
+        "Madagaskar",
+        "Nový Zéland",
+        "Mexiko",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fazol obecný",
+      "values": [
+        "Brazílie",
+        "Mexiko",
+        "Nový Zéland",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hrachor jarní",
+      "values": [
+        "Nový Zéland",
+        "Austrálie",
+        "Česko",
+        "Mongolsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dužnatka",
+      "values": [
+        "Brazílie",
+        "Mexiko",
+        "Madagaskar",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Plicník",
+      "values": [
+        "Nový Zéland",
+        "Mongolsko",
+        "Mexiko",
+        "Brazílie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Blahovičník kulatoplodý",
+      "values": [
+        "Madagaskar",
+        "Česko",
+        "Nový Zéland",
+        "Austrálie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

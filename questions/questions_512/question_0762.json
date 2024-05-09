@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Zlín",
+      "values": [
+        "Polsko",
+        "Německo",
+        "Česko",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lisabon",
+      "values": [
+        "Slovensko",
+        "Portugalsko",
+        "Dánsko",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Liverpool",
+      "values": [
+        "Spojené království",
+        "Nizozemsko",
+        "Belgie",
+        "Irsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Győr",
+      "values": [
+        "Dánsko",
+        "Česko",
+        "Nizozemsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Birmingham",
+      "values": [
+        "Slovensko",
+        "Spojené království",
+        "Portugalsko",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Segedín",
+      "values": [
+        "Belgie",
+        "Německo",
+        "Maďarsko",
+        "Spojené království"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Parma",
+      "values": [
+        "Polsko",
+        "Spojené království",
+        "Itálie",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jena",
+      "values": [
+        "Německo",
+        "Slovensko",
+        "Maďarsko",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Winchester",
+      "values": [
+        "Maďarsko",
+        "Nizozemsko",
+        "Irsko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Braga",
+      "values": [
+        "Rakousko",
+        "Dánsko",
+        "Portugalsko",
+        "Spojené království"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

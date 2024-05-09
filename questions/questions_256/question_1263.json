@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte jazyk podle písně",
+  "questions": [
+    {
+      "key": "Gaudeamus igitur",
+      "values": [
+        "ruština",
+        "němčina",
+        "latina",
+        "rumunština"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dragostea Din Tei",
+      "values": [
+        "ruština",
+        "rumunština",
+        "španělština",
+        "latina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adeste fideles",
+      "values": [
+        "angličtina",
+        "hebrejština",
+        "latina",
+        "čeština"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Amazing Grace",
+      "values": [
+        "rumunština",
+        "ruština",
+        "němčina",
+        "angličtina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dobrý král Václav",
+      "values": [
+        "angličtina",
+        "němčina",
+        "rumunština",
+        "hebrejština"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mackie Messer",
+      "values": [
+        "hebrejština",
+        "čeština",
+        "angličtina",
+        "němčina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Faded",
+      "values": [
+        "čeština",
+        "němčina",
+        "angličtina",
+        "latina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Billie Jean",
+      "values": [
+        "latina",
+        "rumunština",
+        "hebrejština",
+        "angličtina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hey Jude",
+      "values": [
+        "hebrejština",
+        "angličtina",
+        "němčina",
+        "latina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Du hast",
+      "values": [
+        "latina",
+        "čeština",
+        "němčina",
+        "hebrejština"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

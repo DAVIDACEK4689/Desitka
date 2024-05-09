@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte autora podle stavby",
+  "questions": [
+    {
+      "key": "Klášter Plasy",
+      "values": [
+        "Kilián Ignác Dientzenhofer",
+        "Pavel Janák",
+        "Zacharias Hoffmann",
+        "Hanuš Zápal"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Humprecht",
+      "values": [
+        "Carlo Lurago",
+        "Josef Fanta",
+        "Gustave Eiffel",
+        "Le Corbusier"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Budova Spolku výtvarných umělců Mánes",
+      "values": [
+        "František Antonín Grimm",
+        "Emil Králíček",
+        "Otakar Novotný",
+        "Věra Machoninová"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kostel svatého Jana Nepomuckého na Skalce",
+      "values": [
+        "Zaha Hadid",
+        "Kilián Ignác Dientzenhofer",
+        "Jože Plečnik",
+        "Bohumír Kozák"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gymnázium Kladno",
+      "values": [
+        "Josef Zasche",
+        "Alois Dryák",
+        "Zacharias Hoffmann",
+        "Antonín Balšánek"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Budova Teplotechny",
+      "values": [
+        "Věra Machoninová",
+        "Frank Lloyd Wright",
+        "Zacharias Hoffmann",
+        "Adolf Loos"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dům U České orlice",
+      "values": [
+        "Josef Zasche",
+        "Friedrich Ohmann",
+        "Stanislav Franc",
+        "Adolf Foehr"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Radnice v Chebu",
+      "values": [
+        "Václav Aulický",
+        "Richard Klenka",
+        "Giovanni Battista Alliprandi",
+        "Stanislav Hubička"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vila Friedricha Petschka",
+      "values": [
+        "Emil Králíček",
+        "Vladimír Dedeček",
+        "Alois Dryák",
+        "Max Spielmann"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Budova evidence Ústřední sociální pojišťovny",
+      "values": [
+        "Antonín Balšánek",
+        "Zacharias Hoffmann",
+        "Adolf Benš",
+        "František Albert Libra"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "David Lafata",
+      "values": [
+        "českého",
+        "německého",
+        "slovinského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Roman Bednář",
+      "values": [
+        "kolumbijského",
+        "českého",
+        "sovětského",
+        "peruánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miroslav Kadlec",
+      "values": [
+        "českého",
+        "marockého",
+        "ruského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Kopic",
+      "values": [
+        "českého",
+        "velšského",
+        "kanadského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Federico Valverde",
+      "values": [
+        "norského",
+        "alžírského",
+        "mexického",
+        "uruguayského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Serge Gnabry",
+      "values": [
+        "německého",
+        "slovenského",
+        "mexického",
+        "československého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Aurélien Tchouaméni",
+      "values": [
+        "francouzského",
+        "ukrajinského",
+        "australského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Francisco Gento",
+      "values": [
+        "ekvádorského",
+        "španělského",
+        "slovinského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ferland Mendy",
+      "values": [
+        "uruguayského",
+        "černohorského",
+        "sovětského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Éric Abidal",
+      "values": [
+        "nigerijského",
+        "francouzského",
+        "švýcarského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

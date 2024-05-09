@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Jiří Krampol",
+      "values": [
+        "hongkongského",
+        "novozélandského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Hanych",
+      "values": [
+        "českého",
+        "kanadského",
+        "ukrajinského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "George Clooney",
+      "values": [
+        "amerického",
+        "hongkongského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert Hossein",
+      "values": [
+        "norského",
+        "novozélandského",
+        "japonského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Craig Sheffer",
+      "values": [
+        "kanadského",
+        "amerického",
+        "českého",
+        "novozélandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Václav Chaloupek",
+      "values": [
+        "novozélandského",
+        "španělského",
+        "českého",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "David Hasselhoff",
+      "values": [
+        "irského",
+        "dánského",
+        "kanadského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Francis Ford Coppola",
+      "values": [
+        "srbského",
+        "amerického",
+        "ruského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Peter Jackson",
+      "values": [
+        "dánského",
+        "novozélandského",
+        "francouzského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tate Donovan",
+      "values": [
+        "hongkongského",
+        "amerického",
+        "srbského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

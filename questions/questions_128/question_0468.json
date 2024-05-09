@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Tereza Brodská",
+      "values": [
+        "švédskou",
+        "českou",
+        "francouzskou",
+        "italskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jana Janěková",
+      "values": [
+        "slovenskou",
+        "českou",
+        "bermudskou",
+        "kanadskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aťka Janoušková",
+      "values": [
+        "srbskou",
+        "tureckou",
+        "českou",
+        "nizozemskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Shera Daneseová",
+      "values": [
+        "americkou",
+        "slovenskou",
+        "izraelskou",
+        "kolumbijskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Laura Antonelli",
+      "values": [
+        "srbskou",
+        "brazilskou",
+        "bermudskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Shannon Elizabeth",
+      "values": [
+        "americkou",
+        "mexickou",
+        "brazilskou",
+        "australskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nina Jiránková",
+      "values": [
+        "norskou",
+        "finskou",
+        "českou",
+        "uruguayskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kelsey Chow",
+      "values": [
+        "srbskou",
+        "uruguayskou",
+        "brazilskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Odette Annable",
+      "values": [
+        "americkou",
+        "slovenskou",
+        "kubánskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Taryn Manning",
+      "values": [
+        "americkou",
+        "bermudskou",
+        "italskou",
+        "novozélandskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

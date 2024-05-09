@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [typ] organizaci?",
+  "questions": [
+    {
+      "key": "Komunistická strana Československa",
+      "values": [
+        "politickou",
+        "fiktivní",
+        "zločineckou",
+        "jazykovou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Český klub skeptiků Sisyfos",
+      "values": [
+        "vědeckou",
+        "jazykovou",
+        "náboženskou",
+        "hospodářskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Antifa",
+      "values": [
+        "ekologickou",
+        "fiktivní",
+        "politickou",
+        "hospodářskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Palestinský islámský džihád",
+      "values": [
+        "hospodářskou",
+        "politickou",
+        "mezinárodní",
+        "partyzánskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Strana kurdských pracujících",
+      "values": [
+        "vědeckou",
+        "vzdělávací",
+        "partyzánskou",
+        "hospodářskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Centers for Disease Control and Prevention",
+      "values": [
+        "zdravotnickou",
+        "vědeckou",
+        "mezinárodní",
+        "fiktivní"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "National Center for Biotechnology Information",
+      "values": [
+        "mezinárodní",
+        "zaniklou",
+        "vědeckou",
+        "politickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Feniáni",
+      "values": [
+        "hospodářskou",
+        "šlechtickou",
+        "partyzánskou",
+        "jazykovou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Evropská léková agentura",
+      "values": [
+        "zdravotnickou",
+        "fiktivní",
+        "zločineckou",
+        "ekologickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Centre national de la recherche scientifique",
+      "values": [
+        "ekologickou",
+        "vědeckou",
+        "vzdělávací",
+        "náboženskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

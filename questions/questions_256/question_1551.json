@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] evropského podnikatele?",
+  "questions": [
+    {
+      "key": "Oskar Schindler",
+      "values": [
+        "německého",
+        "rakouského",
+        "ukrajinského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michal Horáček",
+      "values": [
+        "britského",
+        "španělského",
+        "nizozemského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alois Hadamczik",
+      "values": [
+        "polského",
+        "belgického",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Katarina Wittová",
+      "values": [
+        "německého",
+        "španělského",
+        "italského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rudolf Jelínek",
+      "values": [
+        "českého",
+        "španělského",
+        "polského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Viktor But",
+      "values": [
+        "ruského",
+        "italského",
+        "francouzského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Filip Hausknecht",
+      "values": [
+        "českého",
+        "slovenského",
+        "nizozemského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Kejval",
+      "values": [
+        "belgického",
+        "švýcarského",
+        "řeckého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Johann Liebieg",
+      "values": [
+        "českého",
+        "švýcarského",
+        "ruského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bethel Henry Strousberg",
+      "values": [
+        "ruského",
+        "francouzského",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kytaristu?",
+  "questions": [
+    {
+      "key": "Janek Ledecký",
+      "values": [
+        "českého",
+        "finského",
+        "italského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michal Ambrož",
+      "values": [
+        "norského",
+        "českého",
+        "argentinského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lindsey Buckingham",
+      "values": [
+        "amerického",
+        "španělského",
+        "kanadského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Görgel",
+      "values": [
+        "českého",
+        "irského",
+        "britského",
+        "argentinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kerry King",
+      "values": [
+        "slovenského",
+        "kanadského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Norbi Kovács",
+      "values": [
+        "německého",
+        "slovenského",
+        "dánského",
+        "jihoafrického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Duba",
+      "values": [
+        "maďarského",
+        "italského",
+        "českého",
+        "mexického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Harry Nilsson",
+      "values": [
+        "nizozemského",
+        "amerického",
+        "italského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mark Matejka",
+      "values": [
+        "amerického",
+        "francouzského",
+        "britského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zdeněk Bína",
+      "values": [
+        "amerického",
+        "nizozemského",
+        "českého",
+        "mexického"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

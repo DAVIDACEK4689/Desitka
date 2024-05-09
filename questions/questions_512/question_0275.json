@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte oblast podle ptáka",
+  "questions": [
+    {
+      "key": "Poštolka obecná",
+      "values": [
+        "Jižní oceán",
+        "celosvětové rozšíření",
+        "Orientální oblast",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bažant obecný",
+      "values": [
+        "Orientální oblast",
+        "Jižní Amerika",
+        "Severní Amerika",
+        "Antarktida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sýček obecný",
+      "values": [
+        "Jižní oceán",
+        "Afrika",
+        "Antarktida",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Čáp černý",
+      "values": [
+        "Jižní Amerika",
+        "celosvětové rozšíření",
+        "Jižní oceán",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kachna domácí",
+      "values": [
+        "Jižní oceán",
+        "Jižní Amerika",
+        "Afrika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nandu pampový",
+      "values": [
+        "Severní Amerika",
+        "Jižní oceán",
+        "Jižní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Husice nilská",
+      "values": [
+        "celosvětové rozšíření",
+        "Afrika",
+        "Severní Amerika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chocholouš obecný",
+      "values": [
+        "Severní Amerika",
+        "Afrika",
+        "Antarktida",
+        "Orientální oblast"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Konipas horský",
+      "values": [
+        "celosvětové rozšíření",
+        "Jižní oceán",
+        "Orientální oblast",
+        "Severní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mandelík hajní",
+      "values": [
+        "Jižní Amerika",
+        "Antarktida",
+        "celosvětové rozšíření",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

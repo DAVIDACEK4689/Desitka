@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] evropského podnikatele?",
+  "questions": [
+    {
+      "key": "Radoslav Brzobohatý",
+      "values": [
+        "německého",
+        "českého",
+        "ukrajinského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Simona Kijonková",
+      "values": [
+        "českého",
+        "řeckého",
+        "rakouského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Grete Tugendhat",
+      "values": [
+        "ukrajinského",
+        "německého",
+        "řeckého",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dietrich Mateschitz",
+      "values": [
+        "švédského",
+        "španělského",
+        "německého",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Bartončík",
+      "values": [
+        "monackého",
+        "českého",
+        "italského",
+        "litevského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Hausenblas",
+      "values": [
+        "švédského",
+        "českého",
+        "litevského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Carl Zeiss",
+      "values": [
+        "německého",
+        "slovinského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Diviš Czernin",
+      "values": [
+        "britského",
+        "belgického",
+        "českého",
+        "běloruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivo Hala",
+      "values": [
+        "belgického",
+        "ukrajinského",
+        "slovinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Beate Uhse",
+      "values": [
+        "britského",
+        "německého",
+        "švédského",
+        "italského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

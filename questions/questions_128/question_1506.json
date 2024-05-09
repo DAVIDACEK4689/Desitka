@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte sport podle československého sportovce",
+  "questions": [
+    {
+      "key": "Vladimír Růžička",
+      "values": [
+        "basketbalista",
+        "šachista",
+        "tenista",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Milan Orlowski",
+      "values": [
+        "stolní tenista",
+        "boxer",
+        "lední hokejista",
+        "plavec"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Rosol",
+      "values": [
+        "lední hokejista",
+        "biatlonista",
+        "plavec",
+        "atlet"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Milan Šrejber",
+      "values": [
+        "cyklista",
+        "zápasník",
+        "tenista",
+        "fotbalista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Nálepa",
+      "values": [
+        "boxer",
+        "stolní tenista",
+        "vodní lyžař",
+        "fotbalista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jozef Regec",
+      "values": [
+        "cyklista",
+        "zápasník",
+        "pozemní hokejista",
+        "plavec"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alfred Nikodém",
+      "values": [
+        "plavec",
+        "zápasník",
+        "šachista",
+        "tenista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Radovan Biegl",
+      "values": [
+        "veslař",
+        "lední hokejista",
+        "stolní tenista",
+        "šachista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bohumil Váňa",
+      "values": [
+        "biatlonista",
+        "stolní tenista",
+        "jezdec",
+        "kajakář"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Javorský",
+      "values": [
+        "cyklista",
+        "judista",
+        "šachista",
+        "tenista"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

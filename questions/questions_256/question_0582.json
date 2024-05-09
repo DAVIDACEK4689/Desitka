@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] biatlonistku?",
+  "questions": [
+    {
+      "key": "Gabriela Soukalová",
+      "values": [
+        "českou",
+        "slovenskou",
+        "švédskou",
+        "norskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tereza Voborníková",
+      "values": [
+        "francouzskou",
+        "norskou",
+        "českou",
+        "německou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lucie Charvátová",
+      "values": [
+        "italskou",
+        "běloruskou",
+        "slovenskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eva Puskarčíková",
+      "values": [
+        "norskou",
+        "českou",
+        "francouzskou",
+        "italskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jessica Jislová",
+      "values": [
+        "finskou",
+        "norskou",
+        "švédskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tiril Eckhoffová",
+      "values": [
+        "italskou",
+        "norskou",
+        "českou",
+        "švédskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marte Olsbuová Røiselandová",
+      "values": [
+        "francouzskou",
+        "českou",
+        "běloruskou",
+        "norskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tereza Vinklárková",
+      "values": [
+        "českou",
+        "norskou",
+        "švédskou",
+        "běloruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Magdalena Neunerová",
+      "values": [
+        "německou",
+        "slovenskou",
+        "běloruskou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Julia Simonová",
+      "values": [
+        "francouzskou",
+        "českou",
+        "norskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

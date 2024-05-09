@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] sériového vraha?",
+  "questions": [
+    {
+      "key": "Jeffrey Dahmer",
+      "values": [
+        "amerického",
+        "českého",
+        "britského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ivan Roubal",
+      "values": [
+        "českého",
+        "britského",
+        "amerického",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ted Bundy",
+      "values": [
+        "amerického",
+        "kanadského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ladislav Hojer",
+      "values": [
+        "českého",
+        "amerického",
+        "britského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jack Rozparovač",
+      "values": [
+        "českého",
+        "britského",
+        "amerického",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Christopher Scarver",
+      "values": [
+        "kanadského",
+        "amerického",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Edmund Kemper",
+      "values": [
+        "britského",
+        "kanadského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ed Gein",
+      "values": [
+        "amerického",
+        "britského",
+        "kanadského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Richard Ramirez",
+      "values": [
+        "britského",
+        "kanadského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Kott a Michael Kutílek",
+      "values": [
+        "kanadského",
+        "amerického",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

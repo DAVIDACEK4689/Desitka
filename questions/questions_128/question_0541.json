@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Kari koření",
+      "values": [
+        "tureckou",
+        "indickou",
+        "španělskou",
+        "indonéskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gazpacho",
+      "values": [
+        "středoamerickou",
+        "italskou",
+        "španělskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Buchtičky s krémem",
+      "values": [
+        "českou",
+        "rakouskou",
+        "australskou",
+        "maďarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vegemite",
+      "values": [
+        "středoamerickou",
+        "židovskou",
+        "australskou",
+        "maďarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Maces",
+      "values": [
+        "tureckou",
+        "řeckou",
+        "australskou",
+        "židovskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lavaš",
+      "values": [
+        "italskou",
+        "britskou",
+        "českou",
+        "arménskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Okonomijaki",
+      "values": [
+        "rakouskou",
+        "japonskou",
+        "českou",
+        "islandskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Limburský sýr",
+      "values": [
+        "belgickou",
+        "mexickou",
+        "norskou",
+        "islandskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ovomaltina",
+      "values": [
+        "norskou",
+        "dominikánskou",
+        "švýcarskou",
+        "islandskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Banánový split",
+      "values": [
+        "americkou",
+        "slovenskou",
+        "gruzínskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

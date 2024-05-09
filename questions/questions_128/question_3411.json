@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Štěpán Kozub",
+      "values": [
+        "českého",
+        "rakouského",
+        "rumunského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Falco",
+      "values": [
+        "australského",
+        "rumunského",
+        "skotského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Šimon Bilina",
+      "values": [
+        "českého",
+        "irského",
+        "britského",
+        "skotského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Hannig",
+      "values": [
+        "skotského",
+        "mexického",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tom DeLonge",
+      "values": [
+        "amerického",
+        "norského",
+        "belgického",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Richard Kubernát",
+      "values": [
+        "moldavského",
+        "českého",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andi Deris",
+      "values": [
+        "slovenského",
+        "švýcarského",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "John Corabi",
+      "values": [
+        "amerického",
+        "rumunského",
+        "norského",
+        "izraelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "John Kay",
+      "values": [
+        "britského",
+        "sovětského",
+        "brazilského",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kimbra",
+      "values": [
+        "chorvatského",
+        "novozélandského",
+        "dánského",
+        "italského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

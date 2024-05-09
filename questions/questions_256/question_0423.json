@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vegetariána?",
+  "questions": [
+    {
+      "key": "Jaroslav Dušek",
+      "values": [
+        "slovenského",
+        "indického",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lev Nikolajevič Tolstoj",
+      "values": [
+        "kanadského",
+        "slovenského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel Höger",
+      "values": [
+        "indického",
+        "finského",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Iva Pazderková",
+      "values": [
+        "německého",
+        "francouzského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Líza Simpsonová",
+      "values": [
+        "amerického",
+        "ruského",
+        "francouzského",
+        "australského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Šrí Činmoj",
+      "values": [
+        "slovenského",
+        "izraelského",
+        "indického",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Martin Freeman",
+      "values": [
+        "indického",
+        "nizozemského",
+        "finského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petra Špindlerová",
+      "values": [
+        "francouzského",
+        "indického",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kesha",
+      "values": [
+        "španělského",
+        "kanadského",
+        "rakouského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Christine Lagardeová",
+      "values": [
+        "amerického",
+        "indického",
+        "francouzského",
+        "australského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

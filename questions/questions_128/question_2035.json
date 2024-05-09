@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Erling Haaland",
+      "values": [
+        "brazilského",
+        "švédského",
+        "norského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Srniček",
+      "values": [
+        "japonského",
+        "českého",
+        "marockého",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Clarence Seedorf",
+      "values": [
+        "nizozemského",
+        "ghanského",
+        "kamerunského",
+        "kolumbijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Gabriel",
+      "values": [
+        "českého",
+        "nizozemského",
+        "mexického",
+        "nigerijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Roberto Mancini",
+      "values": [
+        "mexického",
+        "švýcarského",
+        "kostarického",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Édouard Mendy",
+      "values": [
+        "amerického",
+        "senegalského",
+        "polského",
+        "nigerijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tomáš Došek",
+      "values": [
+        "arménského",
+        "polského",
+        "českého",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Adrien Rabiot",
+      "values": [
+        "německého",
+        "ekvádorského",
+        "francouzského",
+        "paraguayského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marcus Thuram",
+      "values": [
+        "ekvádorského",
+        "srbského",
+        "dánského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomas Brolin",
+      "values": [
+        "bulharského",
+        "švédského",
+        "italského",
+        "albánského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] architekta?",
+  "questions": [
+    {
+      "key": "Michelangelo Buonarroti",
+      "values": [
+        "italského",
+        "brazilského",
+        "slovenského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jože Plečnik",
+      "values": [
+        "slovinského",
+        "italského",
+        "řeckého",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Friedensreich Hundertwasser",
+      "values": [
+        "českého",
+        "norského",
+        "francouzského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Frank Lloyd Wright",
+      "values": [
+        "brazilského",
+        "finského",
+        "švýcarského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Giorgio Vasari",
+      "values": [
+        "italského",
+        "polského",
+        "německého",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oscar Niemeyer",
+      "values": [
+        "slovinského",
+        "slovenského",
+        "brazilského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaromír Krejcar",
+      "values": [
+        "amerického",
+        "finského",
+        "českého",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Santiago Calatrava",
+      "values": [
+        "slovenského",
+        "italského",
+        "španělského",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Guarino Guarini",
+      "values": [
+        "italského",
+        "slovinského",
+        "španělského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Fuchs",
+      "values": [
+        "švýcarského",
+        "amerického",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

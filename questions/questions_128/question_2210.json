@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle českého sportovce",
+  "questions": [
+    {
+      "key": "David Suchařípa",
+      "values": [
+        "akrobatický letec",
+        "automobilový závodník",
+        "zápasník",
+        "golfista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ján Svorada",
+      "values": [
+        "skeletonisté",
+        "cyklista",
+        "šermíř",
+        "golfista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jakub Jeřábek",
+      "values": [
+        "lední hokejista",
+        "jezdec",
+        "šermíř",
+        "pozemní hokejista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Matěj Peňáz",
+      "values": [
+        "squashisté",
+        "kajakář",
+        "kickboxeři",
+        "sportovní střelec"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aleš Čermák",
+      "values": [
+        "šipkaři",
+        "akrobatický letec",
+        "fotbalista",
+        "skeletonisté"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jakub Čutta",
+      "values": [
+        "veslař",
+        "lední hokejista",
+        "šachista",
+        "golfista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Daniel Polman",
+      "values": [
+        "cyklista",
+        "sportovní střelec",
+        "bojový umělec",
+        "plavec"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Berkovec",
+      "values": [
+        "taekwondisté",
+        "fotbalista",
+        "stolní tenista",
+        "kickboxeři"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michal Tabara",
+      "values": [
+        "šermíř",
+        "tenista",
+        "pozemní hokejista",
+        "squashisté"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Ventura",
+      "values": [
+        "bojový umělec",
+        "šermíř",
+        "automobilový závodník",
+        "jezdec"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

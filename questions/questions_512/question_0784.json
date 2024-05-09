@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] vězně?",
+  "questions": [
+    {
+      "key": "Dominik Feri",
+      "values": [
+        "norského",
+        "íránského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Schmitzer",
+      "values": [
+        "izraelského",
+        "českého",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaroslav a Dana Stodolovi",
+      "values": [
+        "izraelského",
+        "francouzského",
+        "českého",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jeffrey Epstein",
+      "values": [
+        "norského",
+        "německého",
+        "italského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Frank Abagnale",
+      "values": [
+        "ruského",
+        "amerického",
+        "českého",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miroslav Štěpán",
+      "values": [
+        "amerického",
+        "francouzského",
+        "norského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bohumil Kulínský",
+      "values": [
+        "izraelského",
+        "norského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "George Jung",
+      "values": [
+        "íránského",
+        "izraelského",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vidkun Quisling",
+      "values": [
+        "izraelského",
+        "amerického",
+        "německého",
+        "norského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jacob Rubinstein",
+      "values": [
+        "íránského",
+        "ruského",
+        "izraelského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

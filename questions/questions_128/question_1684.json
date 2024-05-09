@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Lamine Yamal",
+      "values": [
+        "španělského",
+        "skotského",
+        "kanadského",
+        "mongolského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pedri",
+      "values": [
+        "dánského",
+        "španělského",
+        "tureckého",
+        "kolumbijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexis Sánchez",
+      "values": [
+        "chilského",
+        "peruánského",
+        "japonského",
+        "venezuelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marco Asensio",
+      "values": [
+        "rakouského",
+        "španělského",
+        "kanadského",
+        "kostarického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kyle Walker",
+      "values": [
+        "československého",
+        "portugalského",
+        "anglického",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cesare Maldini",
+      "values": [
+        "italského",
+        "albánského",
+        "ukrajinského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Steve McManaman",
+      "values": [
+        "řeckého",
+        "anglického",
+        "slovenského",
+        "černohorského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Matej Hradecký",
+      "values": [
+        "ukrajinského",
+        "finského",
+        "rumunského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zdeněk Bečka",
+      "values": [
+        "dánského",
+        "francouzského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nicolò Zaniolo",
+      "values": [
+        "panamského",
+        "islandského",
+        "italského",
+        "marockého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

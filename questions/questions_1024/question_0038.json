@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Benátky",
+      "values": [
+        "Jihoafrická republika",
+        "Itálie",
+        "Finsko",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kodaň",
+      "values": [
+        "Dánsko",
+        "Japonsko",
+        "Belgie",
+        "Norsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Terst",
+      "values": [
+        "Bulharsko",
+        "Itálie",
+        "Nigérie",
+        "Řecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rio de Janeiro",
+      "values": [
+        "Finsko",
+        "Itálie",
+        "Jihoafrická republika",
+        "Brazílie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Antverpy",
+      "values": [
+        "Portugalsko",
+        "Ázerbájdžán",
+        "Belgie",
+        "Norsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tallinn",
+      "values": [
+        "Nizozemsko",
+        "Estonsko",
+        "Izrael",
+        "Norsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Basilej",
+      "values": [
+        "Albánie",
+        "Brazílie",
+        "Izrael",
+        "Švýcarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Casablanca",
+      "values": [
+        "Jihoafrická republika",
+        "Irsko",
+        "Maroko",
+        "Egypt"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nagasaki",
+      "values": [
+        "Švédsko",
+        "Japonsko",
+        "Portugalsko",
+        "Nigérie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Valletta",
+      "values": [
+        "Ázerbájdžán",
+        "Švýcarsko",
+        "Malta",
+        "Maroko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

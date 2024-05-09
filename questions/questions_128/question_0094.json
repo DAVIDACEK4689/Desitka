@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [typ] stavbu?",
+  "questions": [
+    {
+      "key": "Mrakodrap",
+      "values": [
+        "dopravní",
+        "obytnou",
+        "zahradní",
+        "podzemní"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Silo",
+      "values": [
+        "obytnou",
+        "zemědělskou",
+        "udržitelnou",
+        "vojenskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Grotta",
+      "values": [
+        "zemědělskou",
+        "zahradní",
+        "průmyslovou",
+        "dopravní"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sklep",
+      "values": [
+        "udržitelnou",
+        "vojenskou",
+        "podzemní",
+        "zahradní"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Třída zatížení poklopů",
+      "values": [
+        "dopravní",
+        "zahradní",
+        "udržitelnou",
+        "podzemní"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fort",
+      "values": [
+        "průmyslovou",
+        "vojenskou",
+        "podzemní",
+        "dopravní"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zelená střecha",
+      "values": [
+        "vojenskou",
+        "podzemní",
+        "udržitelnou",
+        "zemědělskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Holubník",
+      "values": [
+        "udržitelnou",
+        "průmyslovou",
+        "podzemní",
+        "zemědělskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kompostovací toaleta",
+      "values": [
+        "udržitelnou",
+        "dopravní",
+        "průmyslovou",
+        "zemědělskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vinný sklep",
+      "values": [
+        "podzemní",
+        "udržitelnou",
+        "obytnou",
+        "průmyslovou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

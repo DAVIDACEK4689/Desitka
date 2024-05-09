@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebníka?",
+  "questions": [
+    {
+      "key": "Jordan Haj",
+      "values": [
+        "španělského",
+        "českého",
+        "amerického",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Richard Wagner",
+      "values": [
+        "norského",
+        "německého",
+        "brazilského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Will Smith",
+      "values": [
+        "francouzského",
+        "irského",
+        "amerického",
+        "arménského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "River Phoenix",
+      "values": [
+        "řeckého",
+        "rakouského",
+        "španělského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Chodúr",
+      "values": [
+        "rakouského",
+        "švédského",
+        "českého",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stjepan Hauser",
+      "values": [
+        "španělského",
+        "chorvatského",
+        "norského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Filip Karlík",
+      "values": [
+        "španělského",
+        "českého",
+        "jamajského",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ladislav Jakl",
+      "values": [
+        "švédského",
+        "francouzského",
+        "českého",
+        "jamajského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexander Pleska",
+      "values": [
+        "amerického",
+        "německého",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hozier",
+      "values": [
+        "australského",
+        "irského",
+        "jamajského",
+        "německého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

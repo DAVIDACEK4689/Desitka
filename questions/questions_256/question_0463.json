@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vědce?",
+  "questions": [
+    {
+      "key": "Jan Amos Komenský",
+      "values": [
+        "slovenského",
+        "českého",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gottfried Wilhelm Leibniz",
+      "values": [
+        "francouzského",
+        "německého",
+        "sovětského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sergej Koroljov",
+      "values": [
+        "amerického",
+        "ruského",
+        "sovětského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaroslav Turánek",
+      "values": [
+        "švédského",
+        "ruského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Konstantin Eduardovič Ciolkovskij",
+      "values": [
+        "francouzského",
+        "německého",
+        "švédského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Jan Juračka",
+      "values": [
+        "německého",
+        "českého",
+        "ruského",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eva Syková",
+      "values": [
+        "švédského",
+        "německého",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Erich Hudec",
+      "values": [
+        "českého",
+        "sovětského",
+        "švédského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rudolf Virchow",
+      "values": [
+        "českého",
+        "ruského",
+        "německého",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Armin Delong",
+      "values": [
+        "českého",
+        "francouzského",
+        "švédského",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

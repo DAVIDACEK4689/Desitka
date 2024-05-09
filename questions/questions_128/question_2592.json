@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] rytce?",
+  "questions": [
+    {
+      "key": "Rembrandt",
+      "values": [
+        "českého",
+        "nizozemského",
+        "italského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Albrecht Dürer",
+      "values": [
+        "italského",
+        "francouzského",
+        "německého",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Francisco Goya",
+      "values": [
+        "českého",
+        "španělského",
+        "švýcarského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Václav Hollar",
+      "values": [
+        "francouzského",
+        "českého",
+        "belgického",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Váchal",
+      "values": [
+        "českého",
+        "italského",
+        "španělského",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oldřich Kulhánek",
+      "values": [
+        "švýcarského",
+        "belgického",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gustave Doré",
+      "values": [
+        "francouzského",
+        "nizozemského",
+        "italského",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Aegidius Sadeler",
+      "values": [
+        "francouzského",
+        "nizozemského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Annibale Carracci",
+      "values": [
+        "italského",
+        "švýcarského",
+        "španělského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Claude Lorrain",
+      "values": [
+        "italského",
+        "francouzského",
+        "nizozemského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

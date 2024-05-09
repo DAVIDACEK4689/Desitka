@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filozofa?",
+  "questions": [
+    {
+      "key": "Friedrich Nietzsche",
+      "values": [
+        "německého",
+        "španělského",
+        "indického",
+        "finského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Slavoj Žižek",
+      "values": [
+        "dánského",
+        "rakouského",
+        "španělského",
+        "slovinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Plútarchos",
+      "values": [
+        "řeckého",
+        "byzantského",
+        "čínského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jaroslav Šabata",
+      "values": [
+        "brazilského",
+        "italského",
+        "českého",
+        "indického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Simone Weilová",
+      "values": [
+        "maďarského",
+        "byzantského",
+        "australského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Giovanni Sartori",
+      "values": [
+        "švýcarského",
+        "italského",
+        "ruského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Justin Mučedník",
+      "values": [
+        "řeckého",
+        "irského",
+        "švýcarského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zdeněk Kratochvíl",
+      "values": [
+        "indického",
+        "čínského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimír Borecký",
+      "values": [
+        "španělského",
+        "čínského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Joseph de Maistre",
+      "values": [
+        "českého",
+        "dánského",
+        "francouzského",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

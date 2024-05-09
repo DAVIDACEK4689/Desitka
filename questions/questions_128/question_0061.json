@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle přehradní nádrže",
+  "questions": [
+    {
+      "key": "Kachovská přehrada",
+      "values": [
+        "Polsko",
+        "Ukrajina",
+        "Tádžikistán",
+        "Rumunsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Liptovská Mara",
+      "values": [
+        "Švýcarsko",
+        "Polsko",
+        "Ukrajina",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kremenčucká přehrada",
+      "values": [
+        "Česko",
+        "Slovensko",
+        "Gruzie",
+        "Ukrajina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Niská přehradní nádrž",
+      "values": [
+        "Itálie",
+        "Slovensko",
+        "Polsko",
+        "Ukrajina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Veľká Domaša",
+      "values": [
+        "Slovensko",
+        "Polsko",
+        "Švýcarsko",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Goczałkowická přehradní nádrž",
+      "values": [
+        "Egypt",
+        "Polsko",
+        "Spojené království",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ijselské moře",
+      "values": [
+        "Polsko",
+        "Nizozemsko",
+        "Spojené království",
+        "Rumunsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Yusufelijská přehradní nádrž",
+      "values": [
+        "Tádžikistán",
+        "Gruzie",
+        "Turecko",
+        "Egypt"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lake Vyrnwy",
+      "values": [
+        "Egypt",
+        "Slovensko",
+        "Spojené království",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ingurská přehradní nádrž",
+      "values": [
+        "Tádžikistán",
+        "Itálie",
+        "Švýcarsko",
+        "Gruzie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

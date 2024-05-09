@@ -1,0 +1,105 @@
+{
+  "text": "Určete francouzského režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Asterix a Obelix",
+      "values": [
+        "Robert Enrico",
+        "Claude Lelouch",
+        "François Ozon",
+        "Claude Zidi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Křidýlko nebo stehýnko",
+      "values": [
+        "Claude Zidi",
+        "François Ozon",
+        "Luc Besson",
+        "Roman Polanski"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Neuvěřitelný Hulk",
+      "values": [
+        "Claude Berri",
+        "Michel Gondry",
+        "Robert Enrico",
+        "Louis Leterrier"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Magická hlubina",
+      "values": [
+        "Yves Robert",
+        "Claude Pinoteau",
+        "Georges Lautner",
+        "Luc Besson"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Muž ve stínu",
+      "values": [
+        "Robert Enrico",
+        "Roman Polanski",
+        "Claude Lelouch",
+        "Philippe de Broca"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Četník a mimozemšťané",
+      "values": [
+        "Louis Leterrier",
+        "François Ozon",
+        "Yves Robert",
+        "Jean Girault"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dobrodruzi",
+      "values": [
+        "Michel Gondry",
+        "François Truffaut",
+        "Robert Enrico",
+        "Claude Lelouch"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jak vykrást banku",
+      "values": [
+        "François Ozon",
+        "Jean Girault",
+        "Yves Robert",
+        "Philippe de Broca"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Četník v New Yorku",
+      "values": [
+        "Robert Enrico",
+        "Luc Besson",
+        "Georges Lautner",
+        "Jean Girault"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hořčice mi stoupá do nosu",
+      "values": [
+        "Claude Zidi",
+        "Henri Verneuil",
+        "Robert Enrico",
+        "Yves Robert"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

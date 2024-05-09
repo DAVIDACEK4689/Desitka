@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Vojtěch Dyk",
+      "values": [
+        "belgického",
+        "dánského",
+        "českého",
+        "brazilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vlasta Redl",
+      "values": [
+        "švýcarského",
+        "kolumbijského",
+        "norského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sámer Issa",
+      "values": [
+        "islandského",
+        "českého",
+        "španělského",
+        "jamajského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaroslav Hutka",
+      "values": [
+        "českého",
+        "amerického",
+        "argentinského",
+        "moldavského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Glen Hansard",
+      "values": [
+        "skotského",
+        "finského",
+        "českého",
+        "irského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michael Hutchence",
+      "values": [
+        "australského",
+        "norského",
+        "argentinského",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hozier",
+      "values": [
+        "irského",
+        "českého",
+        "rakouského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Glenn Hughes",
+      "values": [
+        "španělského",
+        "německého",
+        "britského",
+        "skotského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hjon Pin",
+      "values": [
+        "brazilského",
+        "jihokorejského",
+        "dánského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Wagner Moura",
+      "values": [
+        "brazilského",
+        "islandského",
+        "českého",
+        "skotského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

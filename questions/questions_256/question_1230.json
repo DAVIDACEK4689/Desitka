@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Znojmo",
+      "values": [
+        "Jizera",
+        "Chrudimka",
+        "Volha",
+        "Dyje"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Trenčín",
+      "values": [
+        "Úhlava",
+        "Váha",
+        "Radbuza",
+        "Hornád"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Soběslav",
+      "values": [
+        "Ploučnice",
+        "Lužnice",
+        "Vltava",
+        "Něva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zvolen",
+      "values": [
+        "Úhlava",
+        "Lužnice",
+        "Loira",
+        "Hron"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mojžíř",
+      "values": [
+        "Berounka",
+        "Labe",
+        "Eufrat",
+        "Otava"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Velešín",
+      "values": [
+        "Cidlina",
+        "Malše",
+        "Rýn",
+        "Eufrat"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Trhová Kamenice",
+      "values": [
+        "Cidlina",
+        "Otava",
+        "Sázava",
+        "Chrudimka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Žandov",
+      "values": [
+        "Ploučnice",
+        "Dunaj",
+        "Dyje",
+        "Otava"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Komárom",
+      "values": [
+        "Ploučnice",
+        "Hornád",
+        "Eufrat",
+        "Dunaj"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rybitví",
+      "values": [
+        "Úhlava",
+        "Radbuza",
+        "Labe",
+        "Ohře"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

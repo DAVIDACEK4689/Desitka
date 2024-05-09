@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zaměstnavatele podle člověka",
+  "questions": [
+    {
+      "key": "Profesor",
+      "values": [
+        "Atari",
+        "Microsoft",
+        "Svobodná Evropa",
+        "vysoká škola"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ferdinand Peroutka",
+      "values": [
+        "Atari",
+        "Microsoft",
+        "vysoká škola",
+        "Svobodná Evropa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lída Rakušanová",
+      "values": [
+        "vysoká škola",
+        "Svobodná Evropa",
+        "Atari",
+        "IBM"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Steve Wozniak",
+      "values": [
+        "vysoká škola",
+        "Atari",
+        "IBM",
+        "Microsoft"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivan Binar",
+      "values": [
+        "Atari",
+        "Microsoft",
+        "vysoká škola",
+        "Svobodná Evropa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Odborný asistent",
+      "values": [
+        "vysoká škola",
+        "Svobodná Evropa",
+        "Microsoft",
+        "Atari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gabe Newell",
+      "values": [
+        "Microsoft",
+        "vysoká škola",
+        "Atari",
+        "IBM"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ivan Diviš",
+      "values": [
+        "vysoká škola",
+        "Svobodná Evropa",
+        "IBM",
+        "Microsoft"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Proděkan",
+      "values": [
+        "IBM",
+        "Microsoft",
+        "Atari",
+        "vysoká škola"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marc Andreessen",
+      "values": [
+        "Microsoft",
+        "Svobodná Evropa",
+        "vysoká škola",
+        "IBM"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

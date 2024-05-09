@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle kraje",
+  "questions": [
+    {
+      "key": "Kamčatský kraj",
+      "values": [
+        "Norsko",
+        "Slovensko",
+        "Rusko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Epirus",
+      "values": [
+        "Slovensko",
+        "Švédsko",
+        "Řecko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Thesálie",
+      "values": [
+        "Švédsko",
+        "Rusko",
+        "Slovensko",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Košický kraj",
+      "values": [
+        "Norsko",
+        "Slovensko",
+        "Švédsko",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Přímořský kraj",
+      "values": [
+        "Švédsko",
+        "Česko",
+        "Norsko",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stavropolský kraj",
+      "values": [
+        "Slovensko",
+        "Řecko",
+        "Norsko",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Telemark",
+      "values": [
+        "Norsko",
+        "Česko",
+        "Rusko",
+        "Švédsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Finnmark",
+      "values": [
+        "Norsko",
+        "Rusko",
+        "Česko",
+        "Švédsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dalarna",
+      "values": [
+        "Švédsko",
+        "Rusko",
+        "Česko",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Obecně závazná vyhláška kraje",
+      "values": [
+        "Česko",
+        "Slovensko",
+        "Řecko",
+        "Norsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

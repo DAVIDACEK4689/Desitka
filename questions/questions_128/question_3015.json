@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] architekta?",
+  "questions": [
+    {
+      "key": "Bohuslav Fuchs",
+      "values": [
+        "chorvatského",
+        "slovinského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Otto Kohn",
+      "values": [
+        "českého",
+        "finského",
+        "řeckého",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Frédéric Auguste Bartholdi",
+      "values": [
+        "slovenského",
+        "chorvatského",
+        "brazilského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "César Manrique",
+      "values": [
+        "ruského",
+        "českého",
+        "norského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Suger",
+      "values": [
+        "švýcarského",
+        "japonského",
+        "maďarského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Carlo Maderno",
+      "values": [
+        "českého",
+        "finského",
+        "italského",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Artur Payr",
+      "values": [
+        "maďarského",
+        "rakouského",
+        "dánského",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "August Exter",
+      "values": [
+        "britského",
+        "německého",
+        "nizozemského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Konstantin Melnikov",
+      "values": [
+        "ruského",
+        "slovinského",
+        "britského",
+        "tureckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tadao Andó",
+      "values": [
+        "britského",
+        "norského",
+        "ruského",
+        "japonského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] miliardáře?",
+  "questions": [
+    {
+      "key": "Karel Schwarzenberg",
+      "values": [
+        "českého",
+        "britského",
+        "ukrajinského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavel Tykač",
+      "values": [
+        "ukrajinského",
+        "českého",
+        "ruského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jeffrey Epstein",
+      "values": [
+        "ruského",
+        "rakouského",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petro Porošenko",
+      "values": [
+        "ukrajinského",
+        "rakouského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Radovan Vítek",
+      "values": [
+        "českého",
+        "ruského",
+        "amerického",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dalibor Dědek",
+      "values": [
+        "rakouského",
+        "britského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivo Valenta",
+      "values": [
+        "českého",
+        "ruského",
+        "rakouského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oprah Winfreyová",
+      "values": [
+        "rakouského",
+        "ukrajinského",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Andrew Carnegie",
+      "values": [
+        "britského",
+        "amerického",
+        "ruského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jitka Cechlová Komárková",
+      "values": [
+        "britského",
+        "rakouského",
+        "ukrajinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Sergio Ramos",
+      "values": [
+        "nigerijského",
+        "rumunského",
+        "španělského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roberto Baggio",
+      "values": [
+        "německého",
+        "nizozemského",
+        "zimbabwského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marco Reus",
+      "values": [
+        "bulharského",
+        "německého",
+        "ghanského",
+        "belgického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Keylor Navas",
+      "values": [
+        "mongolského",
+        "kolumbijského",
+        "finského",
+        "kostarického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Robin van Persie",
+      "values": [
+        "německého",
+        "nizozemského",
+        "kostarického",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nicolas Anelka",
+      "values": [
+        "francouzského",
+        "maďarského",
+        "polského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Leroy Sané",
+      "values": [
+        "francouzského",
+        "švédského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ciro Immobile",
+      "values": [
+        "italského",
+        "kanadského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Federico Valverde",
+      "values": [
+        "kosovského",
+        "uruguayského",
+        "maďarského",
+        "kostarického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bobby Moore",
+      "values": [
+        "baskického",
+        "dánského",
+        "anglického",
+        "norského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

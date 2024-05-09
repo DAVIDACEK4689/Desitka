@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [národnost] komunistu?",
+  "questions": [
+    {
+      "key": "Frida Kahlo",
+      "values": [
+        "mexického",
+        "ruského",
+        "španělského",
+        "kambodžského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pol Pot",
+      "values": [
+        "slovenského",
+        "kambodžského",
+        "bulharského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ratko Mladić",
+      "values": [
+        "vietnamského",
+        "italského",
+        "jugoslávského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Julius a Ethel Rosenbergovi",
+      "values": [
+        "polského",
+        "ázerbájdžánského",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Walter Ulbricht",
+      "values": [
+        "československého",
+        "německého",
+        "chilského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Todor Živkov",
+      "values": [
+        "italského",
+        "jugoslávského",
+        "bulharského",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Walter Benjamin",
+      "values": [
+        "italského",
+        "německého",
+        "českého",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "László Rajk",
+      "values": [
+        "maďarského",
+        "amerického",
+        "mexického",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nicu Ceaușescu",
+      "values": [
+        "vietnamského",
+        "rumunského",
+        "španělského",
+        "bulharského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bolesław Bierut",
+      "values": [
+        "polského",
+        "španělského",
+        "ruského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

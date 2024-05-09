@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Iva Hüttnerová",
+      "values": [
+        "americkou",
+        "íránskou",
+        "českou",
+        "německou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Klára Cibulková",
+      "values": [
+        "novozélandskou",
+        "českou",
+        "indickou",
+        "rakouskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Staci Keanan",
+      "values": [
+        "čínskou",
+        "mexickou",
+        "kubánskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ivana Maříková",
+      "values": [
+        "českou",
+        "uzbeckou",
+        "americkou",
+        "maďarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Inger Nilsson",
+      "values": [
+        "jihokorejskou",
+        "švýcarskou",
+        "tureckou",
+        "švédskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jana Břežková",
+      "values": [
+        "maďarskou",
+        "kolumbijskou",
+        "českou",
+        "finskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eva Matějovská",
+      "values": [
+        "českou",
+        "německou",
+        "srbskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Helena Bušová",
+      "values": [
+        "slovenskou",
+        "norskou",
+        "americkou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Astrid Ann Marie Pollmann",
+      "values": [
+        "českou",
+        "bulharskou",
+        "německou",
+        "argentinskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Katja Rupéová",
+      "values": [
+        "rakouskou",
+        "dánskou",
+        "ruskou",
+        "německou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

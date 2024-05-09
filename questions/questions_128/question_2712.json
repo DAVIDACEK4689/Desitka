@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] ledního hokejistu?",
+  "questions": [
+    {
+      "key": "Jaromír Jágr",
+      "values": [
+        "sovětského",
+        "československého",
+        "lotyšského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Kaberle",
+      "values": [
+        "českého",
+        "finského",
+        "československého",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Matěj Machovský",
+      "values": [
+        "amerického",
+        "rakouského",
+        "českého",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ondřej Kratěna",
+      "values": [
+        "švýcarského",
+        "českého",
+        "švédského",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jarome Iginla",
+      "values": [
+        "německého",
+        "kanadského",
+        "švýcarského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Guy Lafleur",
+      "values": [
+        "kanadského",
+        "lotyšského",
+        "ruského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marcel Dionne",
+      "values": [
+        "švýcarského",
+        "polského",
+        "kanadského",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Daniel Sedin",
+      "values": [
+        "polského",
+        "českého",
+        "československého",
+        "švédského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bobby Clarke",
+      "values": [
+        "sovětského",
+        "polského",
+        "českého",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Thomas Vanek",
+      "values": [
+        "britského",
+        "švédského",
+        "rakouského",
+        "německého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

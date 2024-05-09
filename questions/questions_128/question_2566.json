@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Patrik Hartl",
+      "values": [
+        "irského",
+        "českého",
+        "ukrajinského",
+        "islandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Igor Chaun",
+      "values": [
+        "českého",
+        "estonského",
+        "švýcarského",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bořivoj Zeman",
+      "values": [
+        "belgického",
+        "chorvatského",
+        "srbského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michael Crichton",
+      "values": [
+        "amerického",
+        "australského",
+        "finského",
+        "indického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ladislav Smoček",
+      "values": [
+        "španělského",
+        "českého",
+        "srbského",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivan Renč",
+      "values": [
+        "švýcarského",
+        "španělského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Pecha",
+      "values": [
+        "českého",
+        "maďarského",
+        "islandského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladimír Svitáček",
+      "values": [
+        "ruského",
+        "australského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Takeši Kitano",
+      "values": [
+        "polského",
+        "švýcarského",
+        "slovinského",
+        "japonského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Krzysztof Wielicki",
+      "values": [
+        "australského",
+        "španělského",
+        "polského",
+        "novozélandského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

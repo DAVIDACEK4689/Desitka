@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Santiago de Compostela",
+      "values": [
+        "Španělsko",
+        "Německo",
+        "Gruzie",
+        "Jemen"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bad Ischl",
+      "values": [
+        "Bolívie",
+        "Rakousko",
+        "Sýrie",
+        "Rwanda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Asuán",
+      "values": [
+        "Jordánsko",
+        "Jihoafrická republika",
+        "Indie",
+        "Egypt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mauthausen",
+      "values": [
+        "Ukrajina",
+        "Rakousko",
+        "Niger",
+        "Albánie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bandar Seri Begawan",
+      "values": [
+        "Libye",
+        "Benin",
+        "Etiopie",
+        "Brunej"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tilburg",
+      "values": [
+        "Myanmar",
+        "Kypr",
+        "Gabon",
+        "Nizozemsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vík í Mýrdal",
+      "values": [
+        "Island",
+        "Rusko",
+        "Česko",
+        "Irsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Haugesund",
+      "values": [
+        "Norsko",
+        "Gruzie",
+        "Slovinsko",
+        "Madagaskar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hoorn",
+      "values": [
+        "Ukrajina",
+        "Zambie",
+        "Západní Sahara",
+        "Nizozemsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ógaki",
+      "values": [
+        "Japonsko",
+        "Rwanda",
+        "Komora",
+        "Švýcarsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Spaghetti aglio e olio",
+      "values": [
+        "vietnamskou",
+        "indickou",
+        "japonskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lečo",
+      "values": [
+        "maďarskou",
+        "polskou",
+        "francouzskou",
+        "brazilskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ratatouille",
+      "values": [
+        "francouzskou",
+        "španělskou",
+        "arabskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miso",
+      "values": [
+        "gruzínskou",
+        "japonskou",
+        "dánskou",
+        "mexickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Brioška",
+      "values": [
+        "thajskou",
+        "kanadskou",
+        "francouzskou",
+        "anglickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Varenyky",
+      "values": [
+        "ukrajinskou",
+        "slovenskou",
+        "polskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dürüm",
+      "values": [
+        "indickou",
+        "finskou",
+        "německou",
+        "tureckou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Adžika",
+      "values": [
+        "balkánskou",
+        "maďarskou",
+        "portugalskou",
+        "gruzínskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pučálka",
+      "values": [
+        "vietnamskou",
+        "německou",
+        "českou",
+        "belgickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Caponata",
+      "values": [
+        "italskou",
+        "vietnamskou",
+        "českou",
+        "thajskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

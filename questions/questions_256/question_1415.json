@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [typ] organizaci?",
+  "questions": [
+    {
+      "key": "Řád templářů",
+      "values": [
+        "zaniklou",
+        "náboženskou",
+        "zločineckou",
+        "fiktivní"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Organizace pro bezpečnost a spolupráci v Evropě",
+      "values": [
+        "zdravotnickou",
+        "vědeckou",
+        "mezinárodní",
+        "ekologickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Interpol",
+      "values": [
+        "politickou",
+        "hospodářskou",
+        "mezinárodní",
+        "ekologickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nadace",
+      "values": [
+        "leteckou",
+        "vědeckou",
+        "politickou",
+        "humanitární"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Greenpeace",
+      "values": [
+        "mezinárodní",
+        "ekologickou",
+        "zdravotnickou",
+        "zaniklou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Český svaz bojovníků za svobodu",
+      "values": [
+        "fiktivní",
+        "leteckou",
+        "politickou",
+        "humanitární"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Trilaterální komise",
+      "values": [
+        "humanitární",
+        "mezinárodní",
+        "ekologickou",
+        "náboženskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Strana kurdských pracujících",
+      "values": [
+        "leteckou",
+        "politickou",
+        "partyzánskou",
+        "zdravotnickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Evropská vysílací unie",
+      "values": [
+        "humanitární",
+        "politickou",
+        "fiktivní",
+        "mezinárodní"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Africký národní kongres",
+      "values": [
+        "partyzánskou",
+        "vzdělávací",
+        "náboženskou",
+        "fiktivní"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

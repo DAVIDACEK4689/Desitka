@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte spisovatele podle literárního díla",
+  "questions": [
+    {
+      "key": "Zločin a trest",
+      "values": [
+        "Charles Dickens",
+        "Erich Kästner",
+        "Fjodor Michajlovič Dostojevskij",
+        "Alexandr Sergejevič Puškin"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "95 tezí",
+      "values": [
+        "Martin Luther",
+        "Noam Chomsky",
+        "Karel May",
+        "George Orwell"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Temná věž",
+      "values": [
+        "Stephen King",
+        "Edgar Allan Poe",
+        "William Saroyan",
+        "Ian McEwan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Koralina",
+      "values": [
+        "Neil Gaiman",
+        "Nikolaj Vasiljevič Gogol",
+        "Stephen King",
+        "Noam Chomsky"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ve stínu padišáha",
+      "values": [
+        "Jan Amos Komenský",
+        "Friedrich Nietzsche",
+        "Oscar Wilde",
+        "Karel May"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petrolejový princ",
+      "values": [
+        "Friedrich Nietzsche",
+        "Karel May",
+        "Nikolaj Vasiljevič Gogol",
+        "Jan Amos Komenský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petrohradské povídky",
+      "values": [
+        "Kurt Vonnegut",
+        "Nikolaj Vasiljevič Gogol",
+        "Jules Verne",
+        "Oscar Wilde"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Úklady a láska",
+      "values": [
+        "Friedrich Schiller",
+        "Johann Wolfgang von Goethe",
+        "Ian McEwan",
+        "Michel Foucault"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hon na ovci",
+      "values": [
+        "Haruki Murakami",
+        "Mark Twain",
+        "Hans Christian Andersen",
+        "Alexandr Sergejevič Puškin"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lidská duše za socialismu",
+      "values": [
+        "Oscar Wilde",
+        "Ian McEwan",
+        "Isaac Asimov",
+        "Haruki Murakami"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

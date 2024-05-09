@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte moře podle přístavního města",
+  "questions": [
+    {
+      "key": "Dublin",
+      "values": [
+        "Marmarské moře",
+        "Černé moře",
+        "Irské moře",
+        "Karibské moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Haag",
+      "values": [
+        "Severní moře",
+        "Irské moře",
+        "Bílé moře",
+        "Baltské moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mariupol",
+      "values": [
+        "Marmarské moře",
+        "Azovské moře",
+        "Karibské moře",
+        "Baltské moře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Soči",
+      "values": [
+        "Karibské moře",
+        "Irské moře",
+        "Baltské moře",
+        "Černé moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Caracas",
+      "values": [
+        "Černé moře",
+        "Irské moře",
+        "Karibské moře",
+        "Azovské moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aberdeen",
+      "values": [
+        "Černé moře",
+        "Bílé moře",
+        "Marmarské moře",
+        "Severní moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kronštadt",
+      "values": [
+        "Baltské moře",
+        "Karibské moře",
+        "Severní moře",
+        "Černé moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kalmar",
+      "values": [
+        "Černé moře",
+        "Karibské moře",
+        "Baltské moře",
+        "Irské moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dundee",
+      "values": [
+        "Severní moře",
+        "Irské moře",
+        "Černé moře",
+        "Baltské moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pärnu",
+      "values": [
+        "Rudé moře",
+        "Azovské moře",
+        "Karibské moře",
+        "Baltské moře"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

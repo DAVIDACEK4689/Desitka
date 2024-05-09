@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle amerického sportovce",
+  "questions": [
+    {
+      "key": "Steve McQueen",
+      "values": [
+        "taekwondisté",
+        "automobilový závodník",
+        "baseballisté",
+        "lední hokejista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Patrick Kane",
+      "values": [
+        "horolezec",
+        "lední hokejista",
+        "boxer",
+        "tenista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Taylor Fritz",
+      "values": [
+        "lední hokejista",
+        "šachista",
+        "boxer",
+        "tenista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ryan Phillippe",
+      "values": [
+        "horolezec",
+        "taekwondisté",
+        "basketbalista",
+        "automobilový závodník"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ryan Sweeting",
+      "values": [
+        "horolezec",
+        "tenista",
+        "boxer",
+        "cyklista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jon Krakauer",
+      "values": [
+        "surfař",
+        "tenista",
+        "parašutista",
+        "horolezec"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Floyd Landis",
+      "values": [
+        "bobista",
+        "tenista",
+        "taekwondisté",
+        "cyklista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rajeev Ram",
+      "values": [
+        "automobilový závodník",
+        "bobista",
+        "zápasník",
+        "tenista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chris Armas",
+      "values": [
+        "zápasník",
+        "fotbalista",
+        "šachista",
+        "horolezec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Faiq Bolkiah",
+      "values": [
+        "fotbalista",
+        "zápasník",
+        "baseballisté",
+        "tenista"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

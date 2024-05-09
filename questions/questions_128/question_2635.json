@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Billie Eilish",
+      "values": [
+        "americkou",
+        "izraelskou",
+        "španělskou",
+        "portugalskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Heidi Klumová",
+      "values": [
+        "německou",
+        "jihokorejskou",
+        "českou",
+        "uruguayskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ava Max",
+      "values": [
+        "maďarskou",
+        "japonskou",
+        "americkou",
+        "srbskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Christina Grimmie",
+      "values": [
+        "americkou",
+        "indickou",
+        "rumunskou",
+        "irskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ella Fitzgeraldová",
+      "values": [
+        "americkou",
+        "italskou",
+        "rumunskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "AquaBabes",
+      "values": [
+        "izraelskou",
+        "islandskou",
+        "českou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Maite Perroni",
+      "values": [
+        "německou",
+        "barbadoskou",
+        "mexickou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jenny Berggren",
+      "values": [
+        "švédskou",
+        "britskou",
+        "peruánskou",
+        "řeckou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gloria Gaynor",
+      "values": [
+        "americkou",
+        "řeckou",
+        "peruánskou",
+        "kolumbijskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lena Horne",
+      "values": [
+        "novozélandskou",
+        "americkou",
+        "izraelskou",
+        "kanadskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

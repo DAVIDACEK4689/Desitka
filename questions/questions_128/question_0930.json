@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] malíře?",
+  "questions": [
+    {
+      "key": "Caravaggio",
+      "values": [
+        "francouzského",
+        "ukrajinského",
+        "italského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Diego Rivera",
+      "values": [
+        "mexického",
+        "kolumbijského",
+        "kanadského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lucas Cranach starší",
+      "values": [
+        "německého",
+        "slovenského",
+        "českého",
+        "litevského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Giorgione",
+      "values": [
+        "řeckého",
+        "mexického",
+        "italského",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Filippo Lippi",
+      "values": [
+        "slovenského",
+        "italského",
+        "norského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jasper Johns",
+      "values": [
+        "švýcarského",
+        "novozélandského",
+        "litevského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Louis Comfort Tiffany",
+      "values": [
+        "polského",
+        "kolumbijského",
+        "amerického",
+        "chorvatského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Steen",
+      "values": [
+        "polského",
+        "nizozemského",
+        "kanadského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joaquín Sorolla",
+      "values": [
+        "švýcarského",
+        "španělského",
+        "kolumbijského",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Raoul Dufy",
+      "values": [
+        "ukrajinského",
+        "francouzského",
+        "švýcarského",
+        "norského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

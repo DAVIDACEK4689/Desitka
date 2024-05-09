@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Zdeněk Bakala",
+      "values": [
+        "pákistánského",
+        "amerického",
+        "českého",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roman Janoušek",
+      "values": [
+        "dánského",
+        "mexického",
+        "českého",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Benedict Arnold",
+      "values": [
+        "litevského",
+        "amerického",
+        "španělského",
+        "bangladéšského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jozef Tkáč",
+      "values": [
+        "ruského",
+        "indického",
+        "britského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vince McMahon",
+      "values": [
+        "amerického",
+        "kanadského",
+        "britského",
+        "íránského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David Baszucki",
+      "values": [
+        "francouzského",
+        "německého",
+        "ukrajinského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Arkadij Rotenberg",
+      "values": [
+        "amerického",
+        "českého",
+        "slovenského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Árif Alví",
+      "values": [
+        "pákistánského",
+        "českého",
+        "brazilského",
+        "bangladéšského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eduard Hamburger",
+      "values": [
+        "indického",
+        "polského",
+        "kanadského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "August Oetker",
+      "values": [
+        "německého",
+        "švýcarského",
+        "belgického",
+        "indického"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

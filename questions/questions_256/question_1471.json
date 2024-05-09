@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte autora podle stavby",
+  "questions": [
+    {
+      "key": "Socha Svobody",
+      "values": [
+        "Gustave Eiffel",
+        "Adolf Benš",
+        "Frank Gehry",
+        "Richard Klenka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dům U Černé Matky Boží",
+      "values": [
+        "Adolf Loos",
+        "Josef Gočár",
+        "František Lýdie Gahura",
+        "Antonín Balšánek"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vodní nádrž Pastviny",
+      "values": [
+        "Václav Aulický",
+        "Otakar Novotný",
+        "Kamil Roškot",
+        "František Lýdie Gahura"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Španělská synagoga",
+      "values": [
+        "Antonín Wiehl",
+        "Josef Zítek",
+        "Vojtěch Ignác Ullmann",
+        "Bohumír Kozák"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Budova Spolku výtvarných umělců Mánes",
+      "values": [
+        "Osvald Polívka",
+        "Antonín Balšánek",
+        "Norman Foster",
+        "Otakar Novotný"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Café Louvre",
+      "values": [
+        "Max Spielmann",
+        "Frank Gehry",
+        "Richard Klenka",
+        "Kamil Roškot"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Schönbornský palác",
+      "values": [
+        "Alois Dryák",
+        "Ludvík Kysela",
+        "Karel Filsak",
+        "Giovanni Battista Alliprandi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Baťova vila",
+      "values": [
+        "Adolf Foehr",
+        "Jože Plečnik",
+        "Adolf Loos",
+        "Vladimír Karfík"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Palác Hrzánů z Harasova",
+      "values": [
+        "Giovanni Battista Alliprandi",
+        "Jan Kaplický",
+        "Pavel Janák",
+        "Kilián Ignác Dientzenhofer"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rozhledna Máminka",
+      "values": [
+        "Martin Rajniš",
+        "Antonín Wiehl",
+        "Věra Machoninová",
+        "Zaha Hadid"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

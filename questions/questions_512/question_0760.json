@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Praha",
+      "values": [
+        "Slovensko",
+        "Rakousko",
+        "Spojené království",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ústí nad Labem",
+      "values": [
+        "Irsko",
+        "Spojené království",
+        "Rakousko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Štýrský Hradec",
+      "values": [
+        "Rakousko",
+        "Polsko",
+        "Irsko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bari",
+      "values": [
+        "Dánsko",
+        "Itálie",
+        "Portugalsko",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Turín",
+      "values": [
+        "Portugalsko",
+        "Slovensko",
+        "Dánsko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Čenstochová",
+      "values": [
+        "Irsko",
+        "Polsko",
+        "Portugalsko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dortmund",
+      "values": [
+        "Dánsko",
+        "Portugalsko",
+        "Itálie",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Erfurt",
+      "values": [
+        "Německo",
+        "Polsko",
+        "Dánsko",
+        "Rakousko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bayreuth",
+      "values": [
+        "Německo",
+        "Irsko",
+        "Polsko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lovaň",
+      "values": [
+        "Dánsko",
+        "Německo",
+        "Belgie",
+        "Slovensko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

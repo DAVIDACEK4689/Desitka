@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "David Beckham",
+      "values": [
+        "anglického",
+        "ukrajinského",
+        "československého",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mick van Buren",
+      "values": [
+        "anglického",
+        "portugalského",
+        "albánského",
+        "nizozemského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Peter Schmeichel",
+      "values": [
+        "dánského",
+        "chilského",
+        "islandského",
+        "albánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kingsley Coman",
+      "values": [
+        "kolumbijského",
+        "francouzského",
+        "ukrajinského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alphonso Davies",
+      "values": [
+        "mexického",
+        "norského",
+        "kanadského",
+        "bulharského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jari Litmanen",
+      "values": [
+        "kamerunského",
+        "chilského",
+        "finského",
+        "severoirského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tito Vilanova",
+      "values": [
+        "španělského",
+        "rumunského",
+        "dánského",
+        "islandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexander Isak",
+      "values": [
+        "norského",
+        "mongolského",
+        "švédského",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Bucha",
+      "values": [
+        "kolumbijského",
+        "českého",
+        "mongolského",
+        "kostarického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Raymond Braine",
+      "values": [
+        "belgického",
+        "slovenského",
+        "venezuelského",
+        "chilského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

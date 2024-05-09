@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistu?",
+  "questions": [
+    {
+      "key": "Roger Federer",
+      "values": [
+        "belgického",
+        "polského",
+        "českého",
+        "švýcarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Björn Borg",
+      "values": [
+        "íránského",
+        "švédského",
+        "amerického",
+        "bulharského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alejandro Davidovich Fokina",
+      "values": [
+        "švýcarského",
+        "sovětského",
+        "španělského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andy Roddick",
+      "values": [
+        "španělského",
+        "portugalského",
+        "amerického",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "João Sousa",
+      "values": [
+        "rumunského",
+        "švédského",
+        "slovenského",
+        "portugalského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fabio Fognini",
+      "values": [
+        "rumunského",
+        "kanadského",
+        "italského",
+        "srbského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vít Kopřiva",
+      "values": [
+        "belgického",
+        "sovětského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Adrian Mannarino",
+      "values": [
+        "rumunského",
+        "francouzského",
+        "portugalského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jordan Thompson",
+      "values": [
+        "chilského",
+        "španělského",
+        "československého",
+        "australského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Thiago Seyboth Wild",
+      "values": [
+        "brazilského",
+        "argentinského",
+        "španělského",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

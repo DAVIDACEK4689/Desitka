@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte sport podle švýcarského sportovce",
+  "questions": [
+    {
+      "key": "Roger Federer",
+      "values": [
+        "pilot",
+        "horolezec",
+        "tenista",
+        "lední hokejista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stan Wawrinka",
+      "values": [
+        "fotbalista",
+        "lední hokejista",
+        "pilot",
+        "tenista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Andres Ambühl",
+      "values": [
+        "lední hokejista",
+        "cyklista",
+        "fotbalista",
+        "pilot"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gino Mäder",
+      "values": [
+        "cyklista",
+        "lední hokejista",
+        "tenista",
+        "fotbalista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dani Arnold",
+      "values": [
+        "lední hokejista",
+        "horolezec",
+        "tenista",
+        "pilot"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "René Fasel",
+      "values": [
+        "cyklista",
+        "horolezec",
+        "fotbalista",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dominic Stricker",
+      "values": [
+        "fotbalista",
+        "pilot",
+        "tenista",
+        "cyklista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nico Hischier",
+      "values": [
+        "horolezec",
+        "lední hokejista",
+        "cyklista",
+        "fotbalista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sébastien Buemi",
+      "values": [
+        "horolezec",
+        "pilot",
+        "fotbalista",
+        "lední hokejista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marc Hirschi",
+      "values": [
+        "horolezec",
+        "fotbalista",
+        "lední hokejista",
+        "cyklista"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

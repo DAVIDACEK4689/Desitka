@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] firmu?",
+  "questions": [
+    {
+      "key": "Spotify",
+      "values": [
+        "švédskou",
+        "rakouskou",
+        "finskou",
+        "izraelskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tencent",
+      "values": [
+        "švýcarskou",
+        "ukrajinskou",
+        "malajsijskou",
+        "čínskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Podnik zahraničního obchodu",
+      "values": [
+        "britskou",
+        "československou",
+        "švýcarskou",
+        "norskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Xixoio",
+      "values": [
+        "rumunskou",
+        "finskou",
+        "rakouskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mary Kay",
+      "values": [
+        "slovinskou",
+        "americkou",
+        "izraelskou",
+        "vietnamskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bellovy laboratoře",
+      "values": [
+        "malajsijskou",
+        "americkou",
+        "sovětskou",
+        "slovinskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "TDK",
+      "values": [
+        "japonskou",
+        "francouzskou",
+        "jihokorejskou",
+        "malajsijskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "IRobot",
+      "values": [
+        "španělskou",
+        "německou",
+        "ruskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ander a syn Olomouc",
+      "values": [
+        "jihokorejskou",
+        "československou",
+        "izraelskou",
+        "indickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Trelleborg AB",
+      "values": [
+        "belgickou",
+        "španělskou",
+        "italskou",
+        "švédskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

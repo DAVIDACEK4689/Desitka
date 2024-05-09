@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Petr Muk",
+      "values": [
+        "českého",
+        "kanadského",
+        "brazilského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Benny Andersson",
+      "values": [
+        "kanadského",
+        "švédského",
+        "japonského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Wabi Ryvola",
+      "values": [
+        "brazilského",
+        "maďarského",
+        "českého",
+        "novozélandského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavol Horváth",
+      "values": [
+        "belgického",
+        "slovenského",
+        "polského",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miro Jaroš",
+      "values": [
+        "slovenského",
+        "španělského",
+        "polského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Guy Marchand",
+      "values": [
+        "irského",
+        "francouzského",
+        "norského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jason Donovan",
+      "values": [
+        "brazilského",
+        "australského",
+        "kanadského",
+        "uruguayského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nuno Bettencourt",
+      "values": [
+        "italského",
+        "mexického",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "DJ Ötzi",
+      "values": [
+        "kolumbijského",
+        "jamajského",
+        "rakouského",
+        "chorvatského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "David Cassidy",
+      "values": [
+        "amerického",
+        "japonského",
+        "jihoafrického",
+        "italského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] píseň?",
+  "questions": [
+    {
+      "key": "Bella Ciao",
+      "values": [
+        "anglickou",
+        "ukrajinskou",
+        "americkou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tichá noc",
+      "values": [
+        "americkou",
+        "anglickou",
+        "německou",
+        "ruskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Preußens Gloria",
+      "values": [
+        "německou",
+        "americkou",
+        "ukrajinskou",
+        "českou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kaťuša",
+      "values": [
+        "ruskou",
+        "americkou",
+        "ukrajinskou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "We Are the World",
+      "values": [
+        "ukrajinskou",
+        "anglickou",
+        "americkou",
+        "ruskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Holky z naší školky",
+      "values": [
+        "českou",
+        "ruskou",
+        "americkou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Amazing Grace",
+      "values": [
+        "anglickou",
+        "německou",
+        "americkou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dobrý král Václav",
+      "values": [
+        "anglickou",
+        "českou",
+        "italskou",
+        "americkou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Narodil se Kristus Pán",
+      "values": [
+        "americkou",
+        "českou",
+        "italskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Feliz Navidad",
+      "values": [
+        "italskou",
+        "ruskou",
+        "českou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

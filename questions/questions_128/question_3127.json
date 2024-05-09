@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Robert Kaliňák",
+      "values": [
+        "peruánského",
+        "kubánského",
+        "kyperského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "John Stuart Mill",
+      "values": [
+        "britského",
+        "izraelského",
+        "íránského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mátyás Rákosi",
+      "values": [
+        "maďarského",
+        "bolivijského",
+        "jihoafrického",
+        "mongolského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michail Frunze",
+      "values": [
+        "sovětského",
+        "libyjského",
+        "nizozemského",
+        "jugoslávského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ilja Jašin",
+      "values": [
+        "bulharského",
+        "arménského",
+        "ruského",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dmitrij Timofejevič Jazov",
+      "values": [
+        "kolumbijského",
+        "ruského",
+        "panamského",
+        "černohorského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Boris Tadić",
+      "values": [
+        "iráckého",
+        "čínského",
+        "francouzského",
+        "srbského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Christian Lindner",
+      "values": [
+        "jemenského",
+        "německého",
+        "chilského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Maciej Rataj",
+      "values": [
+        "indického",
+        "kyperského",
+        "polského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gordon Bajnai",
+      "values": [
+        "německého",
+        "grenadského",
+        "vietnamského",
+        "maďarského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

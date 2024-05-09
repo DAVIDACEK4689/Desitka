@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Richard Krajčo",
+      "values": [
+        "českého",
+        "rakouského",
+        "ukrajinského",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Kanyza",
+      "values": [
+        "španělského",
+        "maďarského",
+        "dánského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Václav Kotek",
+      "values": [
+        "izraelského",
+        "českého",
+        "srbského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Hlinomaz",
+      "values": [
+        "českého",
+        "norského",
+        "australského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Javier Bardem",
+      "values": [
+        "španělského",
+        "francouzského",
+        "slovenského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Asa Butterfield",
+      "values": [
+        "britského",
+        "marockého",
+        "švédského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lino Ventura",
+      "values": [
+        "rakouského",
+        "italského",
+        "izraelského",
+        "malajsijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eric Cantona",
+      "values": [
+        "australského",
+        "dánského",
+        "slovenského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Matthew Broderick",
+      "values": [
+        "britského",
+        "amerického",
+        "nizozemského",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Patrick Dempsey",
+      "values": [
+        "amerického",
+        "francouzského",
+        "tureckého",
+        "norského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

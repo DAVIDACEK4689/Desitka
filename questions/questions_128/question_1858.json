@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Vinícius Júnior",
+      "values": [
+        "lucemburského",
+        "brazilského",
+        "uruguayského",
+        "ghanského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Isco",
+      "values": [
+        "lucemburského",
+        "kosovského",
+        "francouzského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Micah Richards",
+      "values": [
+        "anglického",
+        "venezuelského",
+        "mexického",
+        "bulharského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ricardo Quaresma",
+      "values": [
+        "portugalského",
+        "kamerunského",
+        "paraguayského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fernando Morientes",
+      "values": [
+        "severoirského",
+        "španělského",
+        "portugalského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Juan Sebastián Verón",
+      "values": [
+        "chilského",
+        "argentinského",
+        "anglického",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sébastien Haller",
+      "values": [
+        "francouzského",
+        "brazilského",
+        "zimbabwského",
+        "finského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michal Beran",
+      "values": [
+        "kamerunského",
+        "českého",
+        "marockého",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oliver Bierhoff",
+      "values": [
+        "kanadského",
+        "nizozemského",
+        "belgického",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Asmir Begović",
+      "values": [
+        "zimbabwského",
+        "uruguayského",
+        "severoirského",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

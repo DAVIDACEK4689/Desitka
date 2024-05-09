@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Sharon Tate",
+      "values": [
+        "britskou",
+        "polskou",
+        "americkou",
+        "namibijskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Monica Bellucciová",
+      "values": [
+        "irskou",
+        "polskou",
+        "italskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kelly Prestonová",
+      "values": [
+        "ruskou",
+        "izraelskou",
+        "americkou",
+        "namibijskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jana Doleželová",
+      "values": [
+        "švýcarskou",
+        "venezuelskou",
+        "českou",
+        "nizozemskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Denise Richardsová",
+      "values": [
+        "francouzskou",
+        "americkou",
+        "namibijskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Erika Eleniaková",
+      "values": [
+        "českou",
+        "americkou",
+        "australskou",
+        "namibijskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bettie Page",
+      "values": [
+        "polskou",
+        "americkou",
+        "českou",
+        "slovenskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kaia Gerberová",
+      "values": [
+        "americkou",
+        "kanadskou",
+        "švýcarskou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tereza Srbová",
+      "values": [
+        "českou",
+        "švýcarskou",
+        "maďarskou",
+        "argentinskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Odeya Rush",
+      "values": [
+        "švédskou",
+        "venezuelskou",
+        "izraelskou",
+        "japonskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

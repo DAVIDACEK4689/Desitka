@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte město podle muzea",
+  "questions": [
+    {
+      "key": "Galleria degli Uffizi",
+      "values": [
+        "Milán",
+        "Florencie",
+        "New York",
+        "Moskva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Albertina",
+      "values": [
+        "Vídeň",
+        "Jeruzalém",
+        "Ciudad de México",
+        "Stockholm"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Metropolitní muzeum umění",
+      "values": [
+        "Berlín",
+        "Florencie",
+        "Jeruzalém",
+        "New York"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Muzeum Vasa",
+      "values": [
+        "Paříž",
+        "Budapešť",
+        "Petrohrad",
+        "Stockholm"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stará pinakotéka",
+      "values": [
+        "New York",
+        "Mnichov",
+        "Barcelona",
+        "Řím"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nové muzeum",
+      "values": [
+        "Bratislava",
+        "Florencie",
+        "Budapešť",
+        "Berlín"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Katalánské národní umělecké muzeum",
+      "values": [
+        "Barcelona",
+        "Mnichov",
+        "Berlín",
+        "Vídeň"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Muzeum Fridy Kahlo",
+      "values": [
+        "Florencie",
+        "Budapešť",
+        "Ciudad de México",
+        "Bratislava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Maďarská národní galerie",
+      "values": [
+        "Mnichov",
+        "Budapešť",
+        "Barcelona",
+        "Vídeň"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Puškinovo muzeum",
+      "values": [
+        "Jeruzalém",
+        "Petrohrad",
+        "Moskva",
+        "New York"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

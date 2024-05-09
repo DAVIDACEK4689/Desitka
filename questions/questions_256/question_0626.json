@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle souostroví",
+  "questions": [
+    {
+      "key": "Špicberky",
+      "values": [
+        "Argentina",
+        "Řecko",
+        "Norsko",
+        "Indonésie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pitcairnovy ostrovy",
+      "values": [
+        "Argentina",
+        "Portugalsko",
+        "Spojené království",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bermudy",
+      "values": [
+        "Japonsko",
+        "Portugalsko",
+        "Argentina",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Země Františka Josefa",
+      "values": [
+        "Řecko",
+        "Portugalsko",
+        "Rusko",
+        "Spojené království"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jižní Georgie a Jižní Sandwichovy ostrovy",
+      "values": [
+        "Spojené království",
+        "Rusko",
+        "Itálie",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Anguilla",
+      "values": [
+        "Nový Zéland",
+        "Norsko",
+        "Ekvádor",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tokelau",
+      "values": [
+        "Chorvatsko",
+        "Nový Zéland",
+        "Finsko",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Heardův ostrov a McDonaldovy ostrovy",
+      "values": [
+        "Austrálie",
+        "Řecko",
+        "Chorvatsko",
+        "Indie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rjúkjú",
+      "values": [
+        "Indie",
+        "Austrálie",
+        "Japonsko",
+        "Norsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Brijuni",
+      "values": [
+        "Španělsko",
+        "Rusko",
+        "Chorvatsko",
+        "Indonésie"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

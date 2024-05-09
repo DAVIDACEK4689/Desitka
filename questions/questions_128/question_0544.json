@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Pizza",
+      "values": [
+        "italskou",
+        "islandskou",
+        "bhútánskou",
+        "arménskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hamburger",
+      "values": [
+        "španělskou",
+        "řeckou",
+        "islandskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zubrovka",
+      "values": [
+        "finskou",
+        "polskou",
+        "balkánskou",
+        "středomořskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lívanec",
+      "values": [
+        "indickou",
+        "bhútánskou",
+        "britskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Raclette",
+      "values": [
+        "řeckou",
+        "polskou",
+        "švýcarskou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pesto",
+      "values": [
+        "skotskou",
+        "italskou",
+        "portugalskou",
+        "středoamerickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ensaïmada",
+      "values": [
+        "dánskou",
+        "polskou",
+        "českou",
+        "španělskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kimbap",
+      "values": [
+        "korejskou",
+        "kanadskou",
+        "dánskou",
+        "australskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rumové koule",
+      "values": [
+        "rakouskou",
+        "arabskou",
+        "maďarskou",
+        "dánskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Louisianská kreolská kuchyně",
+      "values": [
+        "středoamerickou",
+        "belgickou",
+        "americkou",
+        "polskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

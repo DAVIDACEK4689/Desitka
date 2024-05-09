@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle etnické skupiny",
+  "questions": [
+    {
+      "key": "Sámové",
+      "values": [
+        "Slovinsko",
+        "Singapur",
+        "Rusko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Prajzové",
+      "values": [
+        "Írán",
+        "Česko",
+        "Rusko",
+        "Srbsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chorvati",
+      "values": [
+        "Srbsko",
+        "Myanmar",
+        "Polsko",
+        "Madagaskar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Italové",
+      "values": [
+        "Slovinsko",
+        "Írán",
+        "Rusko",
+        "Kambodža"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Asyřané",
+      "values": [
+        "Irák",
+        "Etiopie",
+        "Indie",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Afrikánci",
+      "values": [
+        "Rwanda",
+        "Etiopie",
+        "Nepál",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Moldavané",
+      "values": [
+        "Madagaskar",
+        "Nepál",
+        "Nigérie",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Moravci",
+      "values": [
+        "Madagaskar",
+        "Česko",
+        "Singapur",
+        "Izrael"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Králováci",
+      "values": [
+        "Nigérie",
+        "Nepál",
+        "Česko",
+        "Singapur"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gaelové",
+      "values": [
+        "Rusko",
+        "Spojené království",
+        "Španělsko",
+        "Irák"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

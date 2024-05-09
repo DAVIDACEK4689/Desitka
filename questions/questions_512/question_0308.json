@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] automobilového závodníka?",
+  "questions": [
+    {
+      "key": "Ken Block",
+      "values": [
+        "italského",
+        "německého",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Charles Leclerc",
+      "values": [
+        "monackého",
+        "švýcarského",
+        "italského",
+        "australského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lukáš Langmajer",
+      "values": [
+        "německého",
+        "českého",
+        "monackého",
+        "československého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eliška Junková",
+      "values": [
+        "československého",
+        "španělského",
+        "monackého",
+        "australského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Enzo Ferrari",
+      "values": [
+        "amerického",
+        "československého",
+        "německého",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roman Staněk",
+      "values": [
+        "českého",
+        "španělského",
+        "československého",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mick Schumacher",
+      "values": [
+        "španělského",
+        "ruského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oscar Piastri",
+      "values": [
+        "španělského",
+        "českého",
+        "australského",
+        "monackého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Filip Sajler",
+      "values": [
+        "ruského",
+        "monackého",
+        "českého",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Antonín Charouz",
+      "values": [
+        "italského",
+        "českého",
+        "monackého",
+        "německého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

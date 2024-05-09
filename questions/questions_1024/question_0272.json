@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filozofa?",
+  "questions": [
+    {
+      "key": "Aristotelés",
+      "values": [
+        "slovenského",
+        "ruského",
+        "řeckého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lev Nikolajevič Tolstoj",
+      "values": [
+        "nizozemského",
+        "českého",
+        "ruského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Albert Camus",
+      "values": [
+        "indického",
+        "ruského",
+        "slovinského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Akvinský",
+      "values": [
+        "rakouského",
+        "slovinského",
+        "dánského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Giordano Bruno",
+      "values": [
+        "amerického",
+        "italského",
+        "indického",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bohuslav Balbín",
+      "values": [
+        "italského",
+        "českého",
+        "slovinského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jean Piaget",
+      "values": [
+        "českého",
+        "řeckého",
+        "indického",
+        "švýcarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Daniel Kroupa",
+      "values": [
+        "českého",
+        "slovinského",
+        "nizozemského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gottfried Wilhelm Leibniz",
+      "values": [
+        "francouzského",
+        "německého",
+        "perského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bernard Bolzano",
+      "values": [
+        "českého",
+        "amerického",
+        "nizozemského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

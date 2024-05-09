@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Sabina Laurinová",
+      "values": [
+        "španělskou",
+        "indickou",
+        "ruskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miluše Bittnerová",
+      "values": [
+        "českou",
+        "irskou",
+        "brazilskou",
+        "kolumbijskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Věra Křesadlová",
+      "values": [
+        "českou",
+        "jihokorejskou",
+        "jihoafrickou",
+        "bulharskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Helen Hunt",
+      "values": [
+        "norskou",
+        "americkou",
+        "jihokorejskou",
+        "jihoafrickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gina Carano",
+      "values": [
+        "americkou",
+        "kanadskou",
+        "španělskou",
+        "novozélandskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kristin Scott Thomas",
+      "values": [
+        "norskou",
+        "francouzskou",
+        "rakouskou",
+        "kolumbijskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sandra Oh",
+      "values": [
+        "německou",
+        "kanadskou",
+        "uzbeckou",
+        "řeckou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Melissa Roxburgh",
+      "values": [
+        "irskou",
+        "kanadskou",
+        "kubánskou",
+        "českou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lesley Gore",
+      "values": [
+        "nizozemskou",
+        "rakouskou",
+        "kubánskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Billie Piper",
+      "values": [
+        "jihoafrickou",
+        "britskou",
+        "slovenskou",
+        "australskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete etnický původ podle Čecha",
+  "questions": [
+    {
+      "key": "Andrej Babiš",
+      "values": [
+        "slovenský původ",
+        "evropský původ",
+        "britský původ",
+        "estonský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladimír Mišík",
+      "values": [
+        "polský původ",
+        "vietnamský původ",
+        "slovenský původ",
+        "ruský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Štěpán Benoni",
+      "values": [
+        "italský původ",
+        "asijský původ",
+        "slovenský původ",
+        "srbský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexander Choupenitch",
+      "values": [
+        "běloruský původ",
+        "polský původ",
+        "chorvatský původ",
+        "slovenský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Timofej Kožuchov",
+      "values": [
+        "syrský původ",
+        "ukrajinský původ",
+        "řecký původ",
+        "ruský původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rajko Doleček",
+      "values": [
+        "arménský původ",
+        "srbský původ",
+        "židovský původ",
+        "francouzský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Maniak",
+      "values": [
+        "japonský původ",
+        "polský původ",
+        "ruský původ",
+        "kanadský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Salim Issa",
+      "values": [
+        "maďarský původ",
+        "vietnamský původ",
+        "syrský původ",
+        "slovenský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Francesco Caratti",
+      "values": [
+        "italský původ",
+        "kanadský původ",
+        "britský původ",
+        "syrský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vojtěch Šafařík",
+      "values": [
+        "řecký původ",
+        "židovský původ",
+        "slovenský původ",
+        "afghánský původ"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

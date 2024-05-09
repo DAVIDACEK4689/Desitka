@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Hana Holišová",
+      "values": [
+        "japonskou",
+        "českou",
+        "izraelskou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paris Hilton",
+      "values": [
+        "portugalskou",
+        "americkou",
+        "islandskou",
+        "australskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Whoopi Goldbergová",
+      "values": [
+        "norskou",
+        "indickou",
+        "nizozemskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Joan Baez",
+      "values": [
+        "barbadoskou",
+        "peruánskou",
+        "americkou",
+        "indickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lucy Lawlessová",
+      "values": [
+        "brazilskou",
+        "srbskou",
+        "švédskou",
+        "novozélandskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Debby Ryanová",
+      "values": [
+        "jihokorejskou",
+        "švédskou",
+        "polskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Markéta Martiníková",
+      "values": [
+        "novozélandskou",
+        "finskou",
+        "českou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nayeon",
+      "values": [
+        "novozélandskou",
+        "srbskou",
+        "irskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alannah Myles",
+      "values": [
+        "švédskou",
+        "kanadskou",
+        "izraelskou",
+        "řeckou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Molly Ringwald",
+      "values": [
+        "francouzskou",
+        "americkou",
+        "brazilskou",
+        "finskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

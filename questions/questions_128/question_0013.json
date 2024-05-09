@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte autora podle stavby",
+  "questions": [
+    {
+      "key": "Kramářova vila",
+      "values": [
+        "Friedrich Ohmann",
+        "Josef Zasche",
+        "Josef Zítek",
+        "František Antonín Grimm"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vodní nádrž Pastviny",
+      "values": [
+        "Zacharias Hoffmann",
+        "Richard Klenka",
+        "Kamil Roškot",
+        "Ladislav Machoň"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hotel Hilton Praha",
+      "values": [
+        "Giovanni Battista Alliprandi",
+        "Stanislav Franc",
+        "Hanuš Zápal",
+        "Karel Prager"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fallingwater",
+      "values": [
+        "Jan Chládek",
+        "Vojtěch Ignác Ullmann",
+        "Frank Lloyd Wright",
+        "Josef Danda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kubistická lampa",
+      "values": [
+        "Kamil Roškot",
+        "Josef Danda",
+        "Emil Králíček",
+        "Ludvík Kysela"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Staroměstská vodárenská věž",
+      "values": [
+        "Pavel Janák",
+        "Richard Klenka",
+        "Josef Danda",
+        "Antonín Wiehl"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Schönbornská zahrada",
+      "values": [
+        "Giovanni Battista Alliprandi",
+        "Stanislav Hubička",
+        "Vojtěch Ignác Ullmann",
+        "Max Spielmann"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Steinského palác",
+      "values": [
+        "Martin Rajniš",
+        "Carlo Lurago",
+        "Otakar Novotný",
+        "Zaha Hadid"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavilon G",
+      "values": [
+        "Bohumír Čermák",
+        "Martin Rajniš",
+        "František Lýdie Gahura",
+        "Vladimír Dedeček"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Radnice v Polici nad Metují",
+      "values": [
+        "Osvald Polívka",
+        "Kamil Roškot",
+        "Matěj Blecha",
+        "Kilián Ignác Dientzenhofer"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

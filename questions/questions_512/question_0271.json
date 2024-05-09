@@ -1,0 +1,105 @@
+{
+  "text": "Určete etnický původ podle Čecha",
+  "questions": [
+    {
+      "key": "Jan Amos Komenský",
+      "values": [
+        "italský původ",
+        "afghánský původ",
+        "arménský původ",
+        "maďarský původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tünde Bartha",
+      "values": [
+        "maďarský původ",
+        "afghánský původ",
+        "syrský původ",
+        "ruský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gabriela Soukalová",
+      "values": [
+        "etiopský původ",
+        "slovenský původ",
+        "srbský původ",
+        "afghánský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Cina",
+      "values": [
+        "židovský původ",
+        "asijský původ",
+        "evropský původ",
+        "etiopský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sámer Issa",
+      "values": [
+        "afghánský původ",
+        "syrský původ",
+        "běloruský původ",
+        "francouzský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hayato Okamura",
+      "values": [
+        "kanadský původ",
+        "chorvatský původ",
+        "běloruský původ",
+        "japonský původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "MikeJePan",
+      "values": [
+        "chorvatský původ",
+        "italský původ",
+        "britský původ",
+        "arménský původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Heinrich Mattoni",
+      "values": [
+        "chorvatský původ",
+        "asijský původ",
+        "italský původ",
+        "arménský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jozef Chovanec",
+      "values": [
+        "etiopský původ",
+        "slovenský původ",
+        "evropský původ",
+        "italský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Ginz",
+      "values": [
+        "asijský původ",
+        "židovský původ",
+        "evropský původ",
+        "britský původ"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

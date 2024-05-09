@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] ledního hokejistu?",
+  "questions": [
+    {
+      "key": "Pavol Demitra",
+      "values": [
+        "slovenského",
+        "kanadského",
+        "německého",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Patrick Roy",
+      "values": [
+        "finského",
+        "kanadského",
+        "slovenského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Robert Mayer",
+      "values": [
+        "sovětského",
+        "švýcarského",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Libor Kašík",
+      "values": [
+        "finského",
+        "českého",
+        "kanadského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lukáš Klok",
+      "values": [
+        "lotyšského",
+        "českého",
+        "slovenského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tomáš Mojžíš",
+      "values": [
+        "slovinského",
+        "českého",
+        "československého",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pekka Rinne",
+      "values": [
+        "rakouského",
+        "finského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jevgenij Nabokov",
+      "values": [
+        "českého",
+        "švédského",
+        "ruského",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Michálek",
+      "values": [
+        "českého",
+        "amerického",
+        "kanadského",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jere Lehtinen",
+      "values": [
+        "kanadského",
+        "finského",
+        "polského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

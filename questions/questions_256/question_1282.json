@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] firmu?",
+  "questions": [
+    {
+      "key": "Billa",
+      "values": [
+        "rakouskou",
+        "českou",
+        "německou",
+        "norskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Walmart",
+      "values": [
+        "rakouskou",
+        "americkou",
+        "finskou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Supraphon",
+      "values": [
+        "čínskou",
+        "kanadskou",
+        "izraelskou",
+        "československou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "ExxonMobil",
+      "values": [
+        "švýcarskou",
+        "americkou",
+        "finskou",
+        "saúdskoarabskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Veolia",
+      "values": [
+        "francouzskou",
+        "švýcarskou",
+        "britskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Visa",
+      "values": [
+        "slovenskou",
+        "americkou",
+        "československou",
+        "nizozemskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Narex",
+      "values": [
+        "jihokorejskou",
+        "československou",
+        "japonskou",
+        "izraelskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rossmann",
+      "values": [
+        "španělskou",
+        "německou",
+        "francouzskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "United Artists",
+      "values": [
+        "americkou",
+        "nizozemskou",
+        "francouzskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Raytheon",
+      "values": [
+        "americkou",
+        "francouzskou",
+        "norskou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

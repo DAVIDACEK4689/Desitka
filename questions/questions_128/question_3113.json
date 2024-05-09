@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] právníka?",
+  "questions": [
+    {
+      "key": "Barack Obama",
+      "values": [
+        "amerického",
+        "lotyšského",
+        "polského",
+        "izraelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert Kerndl",
+      "values": [
+        "italského",
+        "českého",
+        "izraelského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bohuslav Ečer",
+      "values": [
+        "litevského",
+        "českého",
+        "rumunského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Štefan Osuský",
+      "values": [
+        "portugalského",
+        "lotyšského",
+        "peruánského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Viktor Knapp",
+      "values": [
+        "řeckého",
+        "českého",
+        "maďarského",
+        "litevského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Albert Pike",
+      "values": [
+        "amerického",
+        "argentinského",
+        "slovinského",
+        "chorvatského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vlastislav Chalupa",
+      "values": [
+        "českého",
+        "švýcarského",
+        "polského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cesare Beccaria",
+      "values": [
+        "slovenského",
+        "italského",
+        "finského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Beran",
+      "values": [
+        "českého",
+        "mexického",
+        "britského",
+        "lotyšského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Johanna Kammerlanderová",
+      "values": [
+        "litevského",
+        "rakouského",
+        "britského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

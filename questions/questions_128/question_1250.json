@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] aktivistu?",
+  "questions": [
+    {
+      "key": "Daniel Landa",
+      "values": [
+        "českého",
+        "slovenského",
+        "francouzského",
+        "jihoafrického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexej Navalnyj",
+      "values": [
+        "ruského",
+        "italského",
+        "českého",
+        "palestinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Malcolm X",
+      "values": [
+        "francouzského",
+        "íránského",
+        "amerického",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Terry Fox",
+      "values": [
+        "indického",
+        "kanadského",
+        "britského",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Timothy Leary",
+      "values": [
+        "palestinského",
+        "amerického",
+        "polského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ronan Farrow",
+      "values": [
+        "indického",
+        "amerického",
+        "jihoafrického",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michael Moore",
+      "values": [
+        "jihoafrického",
+        "palestinského",
+        "amerického",
+        "indického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sacheen Littlefeather",
+      "values": [
+        "amerického",
+        "italského",
+        "jihoafrického",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Smedley Butler",
+      "values": [
+        "amerického",
+        "britského",
+        "íránského",
+        "běloruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Phan Thi Kim Phuc",
+      "values": [
+        "ruského",
+        "italského",
+        "kanadského",
+        "palestinského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Athény",
+      "values": [
+        "Slovensko",
+        "Řecko",
+        "Súdán",
+        "Vietnam"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Maribor",
+      "values": [
+        "Bělorusko",
+        "Slovinsko",
+        "Maroko",
+        "Brazílie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lindos",
+      "values": [
+        "Nikaragua",
+        "Litva",
+        "Řecko",
+        "Alžírsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Trondheim",
+      "values": [
+        "Norsko",
+        "Indonésie",
+        "Severní Makedonie",
+        "Somálsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kerak",
+      "values": [
+        "Tanzanie",
+        "Nikaragua",
+        "Bangladéš",
+        "Jordánsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Síwa",
+      "values": [
+        "Egypt",
+        "Středoafrická republika",
+        "Alžírsko",
+        "Uzbekistán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rakka",
+      "values": [
+        "Rusko",
+        "Kapverdy",
+        "Česko",
+        "Sýrie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Espoo",
+      "values": [
+        "Slovensko",
+        "Maroko",
+        "Francie",
+        "Finsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kesong",
+      "values": [
+        "Severní Korea",
+        "Černá Hora",
+        "Albánie",
+        "Nikaragua"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kahramanmaraş",
+      "values": [
+        "Bulharsko",
+        "Turecko",
+        "Uganda",
+        "Mexiko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

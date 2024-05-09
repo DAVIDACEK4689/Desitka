@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle ostrova",
+  "questions": [
+    {
+      "key": "Džerba",
+      "values": [
+        "Tunisko",
+        "Česko",
+        "Rakousko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hispaniola",
+      "values": [
+        "Vietnam",
+        "Kubo",
+        "Nizozemsko",
+        "Dominikánská republika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Phu Quoc",
+      "values": [
+        "Černá Hora",
+        "Papua Nová Guinea",
+        "Vietnam",
+        "Severní Mariany"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kjúšú",
+      "values": [
+        "Nový Zéland",
+        "Austrálie",
+        "Vietnam",
+        "Japonsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Šikoku",
+      "values": [
+        "Česko",
+        "Papua Nová Guinea",
+        "Rovníková Guinea",
+        "Japonsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rodrigues",
+      "values": [
+        "Ukrajina",
+        "Mauricius",
+        "Tunisko",
+        "Vietnam"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Comino",
+      "values": [
+        "Kapverdy",
+        "Nový Zéland",
+        "Malta",
+        "Japonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Donauinsel",
+      "values": [
+        "Rakousko",
+        "Norsko",
+        "Papua Nová Guinea",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fogo",
+      "values": [
+        "Japonsko",
+        "Kapverdy",
+        "Venezuela",
+        "Turecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hitra",
+      "values": [
+        "Černá Hora",
+        "Madagaskar",
+        "Norsko",
+        "Austrálie"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

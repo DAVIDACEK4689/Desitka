@@ -1,0 +1,105 @@
+{
+  "text": "Určete sport podle české sportovkyně",
+  "questions": [
+    {
+      "key": "Jana Novotná",
+      "values": [
+        "tenistka",
+        "krasobruslařka",
+        "sportovní střelkyně",
+        "horolezci"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vanessa Rebecca Keprtová",
+      "values": [
+        "horolezci",
+        "orientační běžkyně",
+        "lukostřelkyně",
+        "florbalistky"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zuzana Hejnová",
+      "values": [
+        "golfistky",
+        "atletka",
+        "šachistky",
+        "horolezci"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jana Knedlíková",
+      "values": [
+        "veslařka",
+        "házenkářka",
+        "plavkyně",
+        "lední hokejistky"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gabriela Knutsonová",
+      "values": [
+        "tenistka",
+        "atletka",
+        "stolní tenistka",
+        "veslařka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hana Horáková",
+      "values": [
+        "orientační běžkyně",
+        "šachistky",
+        "tenistka",
+        "basketbalistka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petra Černošková",
+      "values": [
+        "basketbalistka",
+        "atletka",
+        "tenistka",
+        "krasobruslařka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Veronika Malá",
+      "values": [
+        "cyklistka",
+        "golfistky",
+        "lukostřelkyně",
+        "házenkářka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Adriana Gerši",
+      "values": [
+        "tenistka",
+        "krasobruslařka",
+        "golfistky",
+        "fotbalistka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Regina Maršíková",
+      "values": [
+        "tenistka",
+        "golfistky",
+        "stolní tenistka",
+        "atletka"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle premiéra",
+  "questions": [
+    {
+      "key": "Winston Churchill",
+      "values": [
+        "Spojené království",
+        "Estonsko",
+        "Japonsko",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Pithart",
+      "values": [
+        "Česko",
+        "Polsko",
+        "Slovensko",
+        "Ukrajina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ľudovít Ódor",
+      "values": [
+        "Španělsko",
+        "Slovensko",
+        "Švédsko",
+        "Turecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Viktor Janukovyč",
+      "values": [
+        "Rusko",
+        "Egypt",
+        "Ukrajina",
+        "Portugalsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mikuláš Dzurinda",
+      "values": [
+        "Izrael",
+        "Švédsko",
+        "Spojené království",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Šimon Peres",
+      "values": [
+        "Japonsko",
+        "Indie",
+        "Jugoslávie",
+        "Izrael"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jacques Chirac",
+      "values": [
+        "Ukrajina",
+        "Portugalsko",
+        "Česko",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Leonid Kučma",
+      "values": [
+        "Ukrajina",
+        "Česko",
+        "Ázerbájdžán",
+        "Indie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jules Mazarin",
+      "values": [
+        "Egypt",
+        "Francie",
+        "Japonsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ilham Alijev",
+      "values": [
+        "Ázerbájdžán",
+        "Maďarsko",
+        "Portugalsko",
+        "Španělsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

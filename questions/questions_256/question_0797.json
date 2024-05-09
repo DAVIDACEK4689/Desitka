@@ -1,0 +1,105 @@
+{
+  "text": "Určete etnický původ podle Čecha",
+  "questions": [
+    {
+      "key": "Josef Abrhám",
+      "values": [
+        "slovenský původ",
+        "makedonský původ",
+        "polský původ",
+        "asijský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Václav Noid Bárta",
+      "values": [
+        "běloruský původ",
+        "slovenský původ",
+        "kanadský původ",
+        "japonský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hana Hegerová",
+      "values": [
+        "estonský původ",
+        "slovenský původ",
+        "chorvatský původ",
+        "srbský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sámer Issa",
+      "values": [
+        "slovenský původ",
+        "běloruský původ",
+        "syrský původ",
+        "ukrajinský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Moris Issa",
+      "values": [
+        "polský původ",
+        "italský původ",
+        "estonský původ",
+        "syrský původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Timofej Kožuchov",
+      "values": [
+        "evropský původ",
+        "židovský původ",
+        "ruský původ",
+        "makedonský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gabriela Beňačková",
+      "values": [
+        "asijský původ",
+        "polský původ",
+        "britský původ",
+        "slovenský původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marek Epstein",
+      "values": [
+        "ukrajinský původ",
+        "asijský původ",
+        "židovský původ",
+        "polský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Patrizio Stronati",
+      "values": [
+        "etiopský původ",
+        "japonský původ",
+        "ruský původ",
+        "italský původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Micuko Aojama",
+      "values": [
+        "kanadský původ",
+        "evropský původ",
+        "japonský původ",
+        "asijský původ"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

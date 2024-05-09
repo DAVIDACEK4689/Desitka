@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Ženeva",
+      "values": [
+        "Srbsko",
+        "Alžírsko",
+        "Švýcarsko",
+        "Pákistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Johannesburg",
+      "values": [
+        "Senegal",
+        "Thajsko",
+        "Indonésie",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Maskat",
+      "values": [
+        "Malajsie",
+        "Omán",
+        "Grónsko",
+        "Rumunsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rovaniemi",
+      "values": [
+        "Finsko",
+        "Grónsko",
+        "Ghana",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bloemfontein",
+      "values": [
+        "Austrálie",
+        "Bangladéš",
+        "Jihoafrická republika",
+        "Mongolsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Denpasar",
+      "values": [
+        "Nigérie",
+        "Mongolsko",
+        "Severní Korea",
+        "Indonésie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alkmaar",
+      "values": [
+        "Kolumbie",
+        "Izrael",
+        "Nizozemsko",
+        "Litva"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fukušima",
+      "values": [
+        "Kapverdy",
+        "Východní Timor",
+        "Japonsko",
+        "Nepál"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ušguli",
+      "values": [
+        "Kolumbie",
+        "Indie",
+        "Thajsko",
+        "Gruzie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fallúdža",
+      "values": [
+        "Srbsko",
+        "Švýcarsko",
+        "Irák",
+        "Mongolsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle prezidenta",
+  "questions": [
+    {
+      "key": "Volodymyr Zelenskyj",
+      "values": [
+        "Ukrajina",
+        "Írán",
+        "Ázerbájdžán",
+        "Řecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petro Porošenko",
+      "values": [
+        "Slovensko",
+        "Itálie",
+        "Lotyšsko",
+        "Ukrajina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Juan Perón",
+      "values": [
+        "Egypt",
+        "Argentina",
+        "Mosambik",
+        "Island"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nicolás Maduro",
+      "values": [
+        "Kolumbie",
+        "Portugalsko",
+        "Venezuela",
+        "Argentina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Georges Pompidou",
+      "values": [
+        "Slovensko",
+        "Írán",
+        "Turkmenistán",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Filipe Nyusi",
+      "values": [
+        "Kosovo",
+        "Uganda",
+        "Mosambik",
+        "Kolumbie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chajim Weizmann",
+      "values": [
+        "Španělsko",
+        "Uzbekistán",
+        "Lotyšsko",
+        "Izrael"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Serdar Berdimuhamedow",
+      "values": [
+        "Salvador",
+        "Turkmenistán",
+        "Rakousko",
+        "Litva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gustavo Petro",
+      "values": [
+        "Francie",
+        "Kolumbie",
+        "Irák",
+        "Litva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Árpád Göncz",
+      "values": [
+        "Libérie",
+        "Česká republika",
+        "Turkmenistán",
+        "Maďarsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

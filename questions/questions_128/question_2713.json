@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] ledního hokejistu?",
+  "questions": [
+    {
+      "key": "Vladimír Růžička",
+      "values": [
+        "českého",
+        "československého",
+        "švédského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bobby Hull",
+      "values": [
+        "sovětského",
+        "německého",
+        "kanadského",
+        "lotyšského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Filip Kuba",
+      "values": [
+        "českého",
+        "ruského",
+        "amerického",
+        "československého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lukáš Pech",
+      "values": [
+        "lotyšského",
+        "finského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Valerij Bure",
+      "values": [
+        "slovenského",
+        "ruského",
+        "polského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mike Bossy",
+      "values": [
+        "rumunského",
+        "německého",
+        "švédského",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rudolf Tajcnár",
+      "values": [
+        "amerického",
+        "slovenského",
+        "kanadského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Luc Robitaille",
+      "values": [
+        "rakouského",
+        "kanadského",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jason Spezza",
+      "values": [
+        "amerického",
+        "švédského",
+        "kanadského",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Branislav Konrád",
+      "values": [
+        "slovenského",
+        "švýcarského",
+        "polského",
+        "československého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

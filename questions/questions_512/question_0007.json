@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] hudební skupinu?",
+  "questions": [
+    {
+      "key": "Bee Gees",
+      "values": [
+        "britskou",
+        "slovenskou",
+        "francouzskou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "The Prodigy",
+      "values": [
+        "slovenskou",
+        "chorvatskou",
+        "kanadskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Milli Vanilli",
+      "values": [
+        "francouzskou",
+        "ruskou",
+        "slovinskou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ready Kirken",
+      "values": [
+        "italskou",
+        "americkou",
+        "českou",
+        "kanadskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gorillaz",
+      "values": [
+        "kanadskou",
+        "britskou",
+        "německou",
+        "jihoafrickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kollárovci",
+      "values": [
+        "italskou",
+        "německou",
+        "slovenskou",
+        "irskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "East 17",
+      "values": [
+        "švédskou",
+        "norskou",
+        "americkou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "The Tap Tap",
+      "values": [
+        "jihokorejskou",
+        "švédskou",
+        "kanadskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Two Steps from Hell",
+      "values": [
+        "nizozemskou",
+        "americkou",
+        "francouzskou",
+        "irskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Billy Talent",
+      "values": [
+        "kanadskou",
+        "švédskou",
+        "italskou",
+        "irskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Karel Höger",
+      "values": [
+        "bulharského",
+        "ukrajinského",
+        "malajsijského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Komínek",
+      "values": [
+        "venezuelského",
+        "australského",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexander Skarsgård",
+      "values": [
+        "švédského",
+        "mexického",
+        "chilského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ivan Jandl",
+      "values": [
+        "jamajského",
+        "řeckého",
+        "argentinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bing Crosby",
+      "values": [
+        "amerického",
+        "marockého",
+        "jihoafrického",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cuba Gooding mladší",
+      "values": [
+        "amerického",
+        "ruského",
+        "portorického",
+        "guatemalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Baekhyun",
+      "values": [
+        "jihokorejského",
+        "čínského",
+        "českého",
+        "portorického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Olaf Lubaszenko",
+      "values": [
+        "polského",
+        "thajského",
+        "čínského",
+        "namibijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Artur Smoljaninov",
+      "values": [
+        "thajského",
+        "indického",
+        "bosenského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bruce Campbell",
+      "values": [
+        "srbského",
+        "amerického",
+        "namibijského",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Mario Balotelli",
+      "values": [
+        "italského",
+        "amerického",
+        "kolumbijského",
+        "černohorského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Keylor Navas",
+      "values": [
+        "finského",
+        "ukrajinského",
+        "kostarického",
+        "skotského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Oblak",
+      "values": [
+        "slovinského",
+        "nizozemského",
+        "kamerunského",
+        "finského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jérémy Doku",
+      "values": [
+        "gruzínského",
+        "polského",
+        "belgického",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Václav Drchal",
+      "values": [
+        "českého",
+        "nizozemského",
+        "panamského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Thorgan Hazard",
+      "values": [
+        "paraguayského",
+        "belgického",
+        "kostarického",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joel Antônio Martins",
+      "values": [
+        "gruzínského",
+        "norského",
+        "islandského",
+        "brazilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Blaise Matuidi",
+      "values": [
+        "francouzského",
+        "československého",
+        "českého",
+        "baskického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Wale Musa Alli",
+      "values": [
+        "bulharského",
+        "nigerijského",
+        "černohorského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vincenzo Montella",
+      "values": [
+        "francouzského",
+        "italského",
+        "gruzínského",
+        "německého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

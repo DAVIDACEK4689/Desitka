@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] novináře?",
+  "questions": [
+    {
+      "key": "Jaroslav Hašek",
+      "values": [
+        "českého",
+        "britského",
+        "izraelského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Luboš Dobrovský",
+      "values": [
+        "kubánského",
+        "australského",
+        "českého",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Hvížďala",
+      "values": [
+        "chorvatského",
+        "amerického",
+        "izraelského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Henri Barbusse",
+      "values": [
+        "francouzského",
+        "mexického",
+        "japonského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michael Connelly",
+      "values": [
+        "australského",
+        "maďarského",
+        "sovětského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ernst Jünger",
+      "values": [
+        "německého",
+        "ruského",
+        "slovenského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fabrizio Romano",
+      "values": [
+        "rakouského",
+        "kanadského",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Paul de Senneville",
+      "values": [
+        "běloruského",
+        "saúdskoarabského",
+        "britského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jevno Azef",
+      "values": [
+        "ruského",
+        "slovinského",
+        "irského",
+        "běloruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Christo Grozev",
+      "values": [
+        "španělského",
+        "bulharského",
+        "sovětského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

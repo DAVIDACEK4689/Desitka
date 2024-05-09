@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] automobilku?",
+  "questions": [
+    {
+      "key": "Škoda Auto",
+      "values": [
+        "indickou",
+        "českou",
+        "belgickou",
+        "švýcarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Praga",
+      "values": [
+        "polskou",
+        "francouzskou",
+        "českou",
+        "čínskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Scania",
+      "values": [
+        "švédskou",
+        "australskou",
+        "francouzskou",
+        "rakouskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oltcit",
+      "values": [
+        "vietnamskou",
+        "maďarskou",
+        "belgickou",
+        "rumunskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chevrolet",
+      "values": [
+        "čínskou",
+        "slovenskou",
+        "švédskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "BYD Auto",
+      "values": [
+        "maďarskou",
+        "rakouskou",
+        "čínskou",
+        "vietnamskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "McLaren Automotive",
+      "values": [
+        "vietnamskou",
+        "australskou",
+        "britskou",
+        "japonskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fabryka Samochodów Osobowych",
+      "values": [
+        "polskou",
+        "australskou",
+        "rumunskou",
+        "indickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "VinFast",
+      "values": [
+        "švédskou",
+        "jihokorejskou",
+        "švýcarskou",
+        "vietnamskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "IMV",
+      "values": [
+        "švédskou",
+        "jugoslávskou",
+        "francouzskou",
+        "sovětskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

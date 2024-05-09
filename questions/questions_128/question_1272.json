@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Benátky",
+      "values": [
+        "Itálie",
+        "Irsko",
+        "Německo",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Frankfurt nad Mohanem",
+      "values": [
+        "Maďarsko",
+        "Německo",
+        "Polsko",
+        "Portugalsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Trenčín",
+      "values": [
+        "Slovensko",
+        "Česko",
+        "Irsko",
+        "Spojené království"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Postupim",
+      "values": [
+        "Německo",
+        "Slovensko",
+        "Česko",
+        "Belgie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Klagenfurt am Wörthersee",
+      "values": [
+        "Irsko",
+        "Spojené království",
+        "Slovensko",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miskolc",
+      "values": [
+        "Německo",
+        "Rakousko",
+        "Maďarsko",
+        "Irsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ancona",
+      "values": [
+        "Česko",
+        "Polsko",
+        "Dánsko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vídeňské Nové Město",
+      "values": [
+        "Rakousko",
+        "Belgie",
+        "Německo",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Olštýn",
+      "values": [
+        "Itálie",
+        "Spojené království",
+        "Irsko",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Leoben",
+      "values": [
+        "Rakousko",
+        "Portugalsko",
+        "Dánsko",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

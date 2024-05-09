@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte kontinent podle souostroví",
+  "questions": [
+    {
+      "key": "Kanárské ostrovy",
+      "values": [
+        "Afrika",
+        "Jižní Amerika",
+        "Antarktida",
+        "Evropa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Seychely",
+      "values": [
+        "Afrika",
+        "Evropa",
+        "Jižní Amerika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Baleáry",
+      "values": [
+        "Evropa",
+        "Antarktida",
+        "Asie",
+        "Severní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kurilské ostrovy",
+      "values": [
+        "Antarktida",
+        "Severní Amerika",
+        "Evropa",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kajmanské ostrovy",
+      "values": [
+        "Evropa",
+        "Asie",
+        "Severní Amerika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Země Františka Josefa",
+      "values": [
+        "Jižní Amerika",
+        "Antarktida",
+        "Evropa",
+        "Severní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kokosové ostrovy",
+      "values": [
+        "Afrika",
+        "Antarktida",
+        "Evropa",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Moluky",
+      "values": [
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Afrika",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Anguilla",
+      "values": [
+        "Evropa",
+        "Jižní Amerika",
+        "Antarktida",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Malé Sundy",
+      "values": [
+        "Antarktida",
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Asie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

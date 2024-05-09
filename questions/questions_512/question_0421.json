@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [téma] televizní stanici?",
+  "questions": [
+    {
+      "key": "CNN Prima News",
+      "values": [
+        "zpravodajskou",
+        "dětskou",
+        "hudební",
+        "křesťanskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "HBO",
+      "values": [
+        "zpravodajskou",
+        "filmovou",
+        "dětskou",
+        "hudební"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "ČT24",
+      "values": [
+        "filmovou",
+        "dětskou",
+        "hudební",
+        "zpravodajskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jetix",
+      "values": [
+        "filmovou",
+        "dětskou",
+        "hudební",
+        "zpravodajskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Šlágr TV",
+      "values": [
+        "filmovou",
+        "hudební",
+        "dětskou",
+        "křesťanskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "TV Noe",
+      "values": [
+        "hudební",
+        "zpravodajskou",
+        "křesťanskou",
+        "dětskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "CNN",
+      "values": [
+        "hudební",
+        "zpravodajskou",
+        "filmovou",
+        "křesťanskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fox News",
+      "values": [
+        "hudební",
+        "dětskou",
+        "křesťanskou",
+        "zpravodajskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "MTV",
+      "values": [
+        "zpravodajskou",
+        "křesťanskou",
+        "dětskou",
+        "hudební"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hlas Ameriky",
+      "values": [
+        "filmovou",
+        "hudební",
+        "zpravodajskou",
+        "křesťanskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

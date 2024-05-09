@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] ekonoma?",
+  "questions": [
+    {
+      "key": "Javier Milei",
+      "values": [
+        "argentinského",
+        "bulharského",
+        "ruského",
+        "kolumbijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Prouza",
+      "values": [
+        "indického",
+        "moldavského",
+        "bangladéšského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Friedrich August von Hayek",
+      "values": [
+        "rakouského",
+        "bulharského",
+        "argentinského",
+        "chilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ivan Kočárník",
+      "values": [
+        "českého",
+        "polského",
+        "švédského",
+        "chilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Thomas Robert Malthus",
+      "values": [
+        "italského",
+        "norského",
+        "chilského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Walter Funk",
+      "values": [
+        "francouzského",
+        "německého",
+        "skotského",
+        "litevského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaroslav Zámečník",
+      "values": [
+        "norského",
+        "českého",
+        "litevského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Carl Menger",
+      "values": [
+        "řeckého",
+        "indického",
+        "rakouského",
+        "brazilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miroslav Plevný",
+      "values": [
+        "českého",
+        "italského",
+        "amerického",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sergej Karaganov",
+      "values": [
+        "ukrajinského",
+        "ruského",
+        "italského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

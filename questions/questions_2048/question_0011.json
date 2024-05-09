@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] křesťana?",
+  "questions": [
+    {
+      "key": "Stanislav Gross",
+      "values": [
+        "čínského",
+        "amerického",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jimmy Carter",
+      "values": [
+        "amerického",
+        "indického",
+        "švýcarského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Roger Federer",
+      "values": [
+        "skotského",
+        "českého",
+        "švýcarského",
+        "indického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Honoré de Balzac",
+      "values": [
+        "anglického",
+        "indického",
+        "italského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tycho Brahe",
+      "values": [
+        "dánského",
+        "rakouského",
+        "švýcarského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Brittany Murphyová",
+      "values": [
+        "norského",
+        "dánského",
+        "amerického",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Theodore Roosevelt",
+      "values": [
+        "německého",
+        "norského",
+        "italského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eva Mendes",
+      "values": [
+        "skotského",
+        "anglického",
+        "amerického",
+        "indického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Paul Verlaine",
+      "values": [
+        "francouzského",
+        "německého",
+        "anglického",
+        "skotského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Giordano Bruno",
+      "values": [
+        "švýcarského",
+        "francouzského",
+        "italského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

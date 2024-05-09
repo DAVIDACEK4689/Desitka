@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [žánr] videohru?",
+  "questions": [
+    {
+      "key": "Need for Speed",
+      "values": [
+        "bojovou",
+        "logickou",
+        "akční",
+        "závodní"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Divoké kmeny",
+      "values": [
+        "logickou",
+        "strategickou",
+        "bojovou",
+        "závodní"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Doom",
+      "values": [
+        "strategickou",
+        "akční",
+        "bojovou",
+        "závodní"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cyberpunk 2077",
+      "values": [
+        "závodní",
+        "strategickou",
+        "akční",
+        "bojovou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mortal Kombat",
+      "values": [
+        "strategickou",
+        "akční",
+        "logickou",
+        "bojovou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Among Us",
+      "values": [
+        "akční",
+        "logickou",
+        "strategickou",
+        "bojovou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "World of Tanks",
+      "values": [
+        "závodní",
+        "strategickou",
+        "bojovou",
+        "akční"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Grand Theft Auto IV",
+      "values": [
+        "akční",
+        "logickou",
+        "strategickou",
+        "bojovou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Battlefield",
+      "values": [
+        "závodní",
+        "bojovou",
+        "logickou",
+        "akční"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hledání min",
+      "values": [
+        "logickou",
+        "strategickou",
+        "akční",
+        "závodní"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

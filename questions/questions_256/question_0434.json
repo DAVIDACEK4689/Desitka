@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva na Bílé hoře",
+      "values": [
+        "1954",
+        "1620",
+        "1815",
+        "1298"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Obležení Waco",
+      "values": [
+        "1993",
+        "1942",
+        "1915",
+        "1526"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Domažlic",
+      "values": [
+        "1396",
+        "1431",
+        "1620",
+        "1242"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Hattínu",
+      "values": [
+        "1600",
+        "1423",
+        "1187",
+        "1278"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Ústí nad Labem",
+      "values": [
+        "1426",
+        "1812",
+        "1415",
+        "1632"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Operace Gothic Serpent",
+      "values": [
+        "1158",
+        "1995",
+        "1434",
+        "1993"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Druhá bitva u El Alameinu",
+      "values": [
+        "1942",
+        "1066",
+        "1632",
+        "1789"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Canburg",
+      "values": [
+        "1485",
+        "805",
+        "1940",
+        "1917"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva ve Filipínském moři",
+      "values": [
+        "1214",
+        "1938",
+        "1420",
+        "1944"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva o Habartov",
+      "values": [
+        "1942",
+        "1938",
+        "1953",
+        "1645"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

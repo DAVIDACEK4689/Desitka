@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filozofa?",
+  "questions": [
+    {
+      "key": "Blaise Pascal",
+      "values": [
+        "francouzského",
+        "ukrajinského",
+        "perského",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Václav Černý",
+      "values": [
+        "sovětského",
+        "českého",
+        "irského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Parmenidés",
+      "values": [
+        "maďarského",
+        "švýcarského",
+        "sovětského",
+        "řeckého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Thomas Samuel Kuhn",
+      "values": [
+        "amerického",
+        "slovinského",
+        "slovenského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ladislav Menzel",
+      "values": [
+        "řeckého",
+        "českého",
+        "polského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Wilhelm von Humboldt",
+      "values": [
+        "irského",
+        "španělského",
+        "německého",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aristarchos ze Samu",
+      "values": [
+        "sovětského",
+        "rakouského",
+        "řeckého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tu Fu",
+      "values": [
+        "čínského",
+        "amerického",
+        "rakouského",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Inocenc Arnošt Bláha",
+      "values": [
+        "byzantského",
+        "dánského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eugen Fink",
+      "values": [
+        "německého",
+        "ruského",
+        "egyptského",
+        "polského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

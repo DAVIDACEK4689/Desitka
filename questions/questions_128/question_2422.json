@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebníka?",
+  "questions": [
+    {
+      "key": "Vladimír Tesařík",
+      "values": [
+        "španělského",
+        "izraelského",
+        "australského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Joe Jonas",
+      "values": [
+        "belgického",
+        "portorického",
+        "islandského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jonáš Ledecký",
+      "values": [
+        "rumunského",
+        "irského",
+        "českého",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "The Kid Laroi",
+      "values": [
+        "indického",
+        "jugoslávského",
+        "australského",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luis Fonsi",
+      "values": [
+        "argentinského",
+        "jamajského",
+        "ukrajinského",
+        "portorického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ravi Šankar",
+      "values": [
+        "indického",
+        "britského",
+        "jihokorejského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Adam Darski",
+      "values": [
+        "indického",
+        "japonského",
+        "izraelského",
+        "polského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "DJ Loutka",
+      "values": [
+        "australského",
+        "nizozemského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ahmet Zappa",
+      "values": [
+        "španělského",
+        "bulharského",
+        "argentinského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bill Monroe",
+      "values": [
+        "kanadského",
+        "řeckého",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

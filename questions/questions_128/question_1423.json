@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalového trenéra?",
+  "questions": [
+    {
+      "key": "Miroslav Koubek",
+      "values": [
+        "uruguayského",
+        "irského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luděk Mikloško",
+      "values": [
+        "rumunského",
+        "nizozemského",
+        "českého",
+        "velšského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Patrick Vieira",
+      "values": [
+        "polského",
+        "španělského",
+        "srbského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ľubomír Luhový",
+      "values": [
+        "norského",
+        "velšského",
+        "německého",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Walter Mazzarri",
+      "values": [
+        "španělského",
+        "italského",
+        "českého",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Claude Makélélé",
+      "values": [
+        "anglického",
+        "českého",
+        "italského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jupp Heynckes",
+      "values": [
+        "argentinského",
+        "německého",
+        "tureckého",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Daniel Zítka",
+      "values": [
+        "srbského",
+        "českého",
+        "chorvatského",
+        "skotského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Jarůšek",
+      "values": [
+        "švédského",
+        "českého",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ján Kocian",
+      "values": [
+        "ukrajinského",
+        "skotského",
+        "slovenského",
+        "velšského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

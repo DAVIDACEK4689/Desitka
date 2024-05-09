@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte malíře podle obrazu",
+  "questions": [
+    {
+      "key": "Mona Lisa",
+      "values": [
+        "Hieronymus Bosch",
+        "Leonardo da Vinci",
+        "Édouard Manet",
+        "Raffael Santi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dáma s hranostajem",
+      "values": [
+        "Francisco Goya",
+        "Leonardo da Vinci",
+        "Petr Brandl",
+        "Diego Velázquez"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vitruviánský muž",
+      "values": [
+        "Pablo Picasso",
+        "Raffael Santi",
+        "Caravaggio",
+        "Leonardo da Vinci"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Primavera",
+      "values": [
+        "Sandro Botticelli",
+        "Salvador Dalí",
+        "Pablo Picasso",
+        "Édouard Manet"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Růžencová slavnost",
+      "values": [
+        "Salvador Dalí",
+        "Gustav Klimt",
+        "Albrecht Dürer",
+        "Francisco Goya"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lekníny",
+      "values": [
+        "Albrecht Dürer",
+        "Claude Monet",
+        "Eugène Delacroix",
+        "Caravaggio"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dvorní dámy",
+      "values": [
+        "Eugène Delacroix",
+        "Leonardo da Vinci",
+        "Diego Velázquez",
+        "Albrecht Dürer"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fůra sena",
+      "values": [
+        "Hieronymus Bosch",
+        "Petr Brandl",
+        "Diego Velázquez",
+        "Auguste Renoir"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Návrat ztraceného syna",
+      "values": [
+        "Karel Škréta",
+        "Gustav Klimt",
+        "Petr Brandl",
+        "Salvador Dalí"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Venuše a Mars",
+      "values": [
+        "Claude Monet",
+        "Alfons Mucha",
+        "Sandro Botticelli",
+        "Pablo Picasso"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

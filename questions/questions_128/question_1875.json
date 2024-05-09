@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Selena Gomezová",
+      "values": [
+        "americkou",
+        "italskou",
+        "portugalskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Anne Hathawayová",
+      "values": [
+        "britskou",
+        "mexickou",
+        "ruskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vanessa Hudgens",
+      "values": [
+        "ukrajinskou",
+        "kanadskou",
+        "americkou",
+        "norskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kim Petras",
+      "values": [
+        "kanadskou",
+        "švýcarskou",
+        "německou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Amy Lee",
+      "values": [
+        "americkou",
+        "švédskou",
+        "rumunskou",
+        "novozélandskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mandy Mooreová",
+      "values": [
+        "americkou",
+        "chorvatskou",
+        "italskou",
+        "finskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tracy Chapman",
+      "values": [
+        "jihokorejskou",
+        "brazilskou",
+        "kubánskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Astrid S",
+      "values": [
+        "srbskou",
+        "norskou",
+        "americkou",
+        "brazilskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tina Karol",
+      "values": [
+        "českou",
+        "ukrajinskou",
+        "chorvatskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chloe Bennet",
+      "values": [
+        "srbskou",
+        "kolumbijskou",
+        "maďarskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

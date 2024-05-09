@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [národnost] komunistu?",
+  "questions": [
+    {
+      "key": "Leonid Iljič Brežněv",
+      "values": [
+        "rumunského",
+        "německého",
+        "sovětského",
+        "bulharského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Frida Kahlo",
+      "values": [
+        "německého",
+        "vietnamského",
+        "sovětského",
+        "mexického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ivan Olbracht",
+      "values": [
+        "amerického",
+        "českého",
+        "jugoslávského",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pablo Neruda",
+      "values": [
+        "chilského",
+        "španělského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lee Harvey Oswald",
+      "values": [
+        "maďarského",
+        "amerického",
+        "československého",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Egon Erwin Kisch",
+      "values": [
+        "italského",
+        "československého",
+        "kambodžského",
+        "chilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Julius a Ethel Rosenbergovi",
+      "values": [
+        "rumunského",
+        "jugoslávského",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rosa Luxemburgová",
+      "values": [
+        "jugoslávského",
+        "německého",
+        "slovenského",
+        "bulharského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Elena Ceaușescuová",
+      "values": [
+        "vietnamského",
+        "španělského",
+        "italského",
+        "rumunského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Antonio Gramsci",
+      "values": [
+        "československého",
+        "italského",
+        "maďarského",
+        "bulharského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

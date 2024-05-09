@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Jitka Molavcová",
+      "values": [
+        "indickou",
+        "nizozemskou",
+        "českou",
+        "finskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bára Basiková",
+      "values": [
+        "islandskou",
+        "českou",
+        "australskou",
+        "japonskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martina Kociánová",
+      "values": [
+        "peruánskou",
+        "českou",
+        "mexickou",
+        "kolumbijskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Björk",
+      "values": [
+        "islandskou",
+        "kanadskou",
+        "francouzskou",
+        "maďarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Samantha Fox",
+      "values": [
+        "italskou",
+        "polskou",
+        "britskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marka Míková",
+      "values": [
+        "českou",
+        "kolumbijskou",
+        "britskou",
+        "uruguayskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cissy Houston",
+      "values": [
+        "britskou",
+        "brazilskou",
+        "americkou",
+        "novozélandskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michaela Klimková",
+      "values": [
+        "slovenskou",
+        "kanadskou",
+        "českou",
+        "islandskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hana Horká",
+      "values": [
+        "finskou",
+        "ukrajinskou",
+        "uruguayskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michalina Olszańska",
+      "values": [
+        "japonskou",
+        "jihokorejskou",
+        "polskou",
+        "novozélandskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

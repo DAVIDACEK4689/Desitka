@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] miliardáře?",
+  "questions": [
+    {
+      "key": "Karel Schwarzenberg",
+      "values": [
+        "ruského",
+        "rakouského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jeffrey Epstein",
+      "values": [
+        "ruského",
+        "britského",
+        "rakouského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Radovan Vítek",
+      "values": [
+        "amerického",
+        "rakouského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ivo Valenta",
+      "values": [
+        "rakouského",
+        "tureckého",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andrew Carnegie",
+      "values": [
+        "amerického",
+        "slovenského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paul Allen",
+      "values": [
+        "českého",
+        "amerického",
+        "ukrajinského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eduard Kučera",
+      "values": [
+        "ukrajinského",
+        "tureckého",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gordon Moore",
+      "values": [
+        "britského",
+        "amerického",
+        "slovenského",
+        "tureckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Peter Thiel",
+      "values": [
+        "tureckého",
+        "britského",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sheryl Sandbergová",
+      "values": [
+        "českého",
+        "amerického",
+        "slovenského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

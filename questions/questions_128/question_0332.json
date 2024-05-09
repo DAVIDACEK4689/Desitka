@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle prezidenta",
+  "questions": [
+    {
+      "key": "Antonín Novotný",
+      "values": [
+        "Mexiko",
+        "Chorvatsko",
+        "Československo",
+        "Kosovo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexander Van der Bellen",
+      "values": [
+        "Pero",
+        "Rakousko",
+        "Ázerbájdžán",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Georges Pompidou",
+      "values": [
+        "Arménie",
+        "Afghánistán",
+        "Francie",
+        "Čečenci"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hashim Thaçi",
+      "values": [
+        "Kosovo",
+        "Uruguay",
+        "Bolívie",
+        "Salvador"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mengistu Haile Mariam",
+      "values": [
+        "Ekvádor",
+        "Alžírsko",
+        "Etiopie",
+        "Gambie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alfredo Stroessner",
+      "values": [
+        "Jugoslávie",
+        "Irák",
+        "Rusko",
+        "Paraguay"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nguyễn Xuân Phúc",
+      "values": [
+        "Vietnam",
+        "Nigérie",
+        "Litva",
+        "Bolívie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paul Doumer",
+      "values": [
+        "Gruzie",
+        "Indie",
+        "Uruguay",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alí Abdalláh Sálih",
+      "values": [
+        "Jemen",
+        "Irák",
+        "Kosovo",
+        "Zair"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Franz Jonas",
+      "values": [
+        "Madagaskar",
+        "Rwanda",
+        "Rakousko",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

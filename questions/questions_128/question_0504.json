@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Princezna ze mlejna",
+      "values": [
+        "Zdeněk Troška",
+        "Petr Jákl",
+        "Tomáš Bařina",
+        "David Ondříček"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Třetí princ",
+      "values": [
+        "Svatopluk Innemann",
+        "Zdeněk Tyc",
+        "Antonín Moskalyk",
+        "Miloslav Šmídmajer"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Samotáři",
+      "values": [
+        "Otakar Vávra",
+        "Svatopluk Innemann",
+        "David Ondříček",
+        "Karel Smyczek"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dovolená s Andělem",
+      "values": [
+        "Bořivoj Zeman",
+        "Robert Sedláček",
+        "Jan Hřebejk",
+        "Svatopluk Innemann"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cesta z města",
+      "values": [
+        "Jan Schmidt",
+        "Ivan Passer",
+        "Tomáš Vorel",
+        "Bořivoj Zeman"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pytlákova schovanka",
+      "values": [
+        "Karel Lamač",
+        "Martin Frič",
+        "Pavel Juráček",
+        "Jan Němec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Divoké včely",
+      "values": [
+        "Bohdan Sláma",
+        "Alice Nellis",
+        "Jiří Sequens",
+        "Oldřich Lipský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kdyby byly ryby",
+      "values": [
+        "Jan Prušinovský",
+        "Zdeněk Zelenka",
+        "Jiří Krejčík",
+        "Roman Vávra"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ztraceni v Mnichově",
+      "values": [
+        "Antonín Moskalyk",
+        "Bohdan Sláma",
+        "Jindřich Polák",
+        "Petr Zelenka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lelíček ve službách Sherlocka Holmese",
+      "values": [
+        "Karel Lamač",
+        "Oldřich Lipský",
+        "Bohdan Sláma",
+        "Alice Nellis"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

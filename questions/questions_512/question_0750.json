@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Milan Baroš",
+      "values": [
+        "maďarského",
+        "německého",
+        "českého",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gianluigi Buffon",
+      "values": [
+        "nigerijského",
+        "španělského",
+        "německého",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Wayne Rooney",
+      "values": [
+        "nigerijského",
+        "anglického",
+        "polského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mesut Özil",
+      "values": [
+        "chorvatského",
+        "skotského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fernando Torres",
+      "values": [
+        "belgického",
+        "polského",
+        "španělského",
+        "kostarického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eusébio",
+      "values": [
+        "španělského",
+        "belgického",
+        "portugalského",
+        "argentinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andrés Escobar Saldarriaga",
+      "values": [
+        "skotského",
+        "kolumbijského",
+        "chorvatského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Clarence Seedorf",
+      "values": [
+        "brazilského",
+        "nizozemského",
+        "skotského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andrea Pirlo",
+      "values": [
+        "českého",
+        "řeckého",
+        "italského",
+        "marockého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Edgar Davids",
+      "values": [
+        "nizozemského",
+        "italského",
+        "argentinského",
+        "německého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

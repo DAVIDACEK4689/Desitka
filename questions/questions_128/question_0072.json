@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [typ] organizaci?",
+  "questions": [
+    {
+      "key": "Organizace pro bezpečnost a spolupráci v Evropě",
+      "values": [
+        "mezinárodní",
+        "humanitární",
+        "zdravotnickou",
+        "jazykovou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Soudní dvůr Evropské unie",
+      "values": [
+        "jazykovou",
+        "náboženskou",
+        "mezinárodní",
+        "ekologickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Drogový kartel",
+      "values": [
+        "leteckou",
+        "fiktivní",
+        "zaniklou",
+        "zločineckou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zemská armáda",
+      "values": [
+        "zdravotnickou",
+        "partyzánskou",
+        "ekologickou",
+        "náboženskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Revoluční ozbrojené síly Kolumbie",
+      "values": [
+        "humanitární",
+        "zdravotnickou",
+        "partyzánskou",
+        "vzdělávací"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Environmentální hnutí",
+      "values": [
+        "ekologickou",
+        "náboženskou",
+        "zdravotnickou",
+        "vědeckou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Boží armáda odporu",
+      "values": [
+        "vědeckou",
+        "partyzánskou",
+        "fiktivní",
+        "politickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fronta Polisario",
+      "values": [
+        "šlechtickou",
+        "mezinárodní",
+        "partyzánskou",
+        "vědeckou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "G4",
+      "values": [
+        "humanitární",
+        "vědeckou",
+        "fotografickou",
+        "mezinárodní"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Slovenský hydrometeorologický ústav",
+      "values": [
+        "šlechtickou",
+        "jazykovou",
+        "vědeckou",
+        "partyzánskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

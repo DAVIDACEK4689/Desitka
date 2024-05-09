@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle archeologické lokality",
+  "questions": [
+    {
+      "key": "Údolí králů",
+      "values": [
+        "Egypt",
+        "Afghánistán",
+        "Tanzanie",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Delfy",
+      "values": [
+        "Rakousko",
+        "Pákistán",
+        "Řecko",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tarragona",
+      "values": [
+        "Španělsko",
+        "Německo",
+        "Federativní státy Mikronésie",
+        "Švýcarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Milét",
+      "values": [
+        "Turecko",
+        "Sýrie",
+        "Jihoafrická republika",
+        "Litva"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Megido",
+      "values": [
+        "Srí Lanka",
+        "Irák",
+        "Izrael",
+        "Malta"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sardy",
+      "values": [
+        "Írán",
+        "Chorvatsko",
+        "Turecko",
+        "Kambodža"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nippur",
+      "values": [
+        "Irák",
+        "Kambodža",
+        "Polsko",
+        "Tunisko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Krapina",
+      "values": [
+        "Srí Lanka",
+        "Pero",
+        "Chorvatsko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Liptovský hrad",
+      "values": [
+        "Slovensko",
+        "Turecko",
+        "Česko",
+        "Izrael"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Perge",
+      "values": [
+        "Polsko",
+        "Turecko",
+        "Malta",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}
