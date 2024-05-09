@@ -23,6 +23,7 @@ public class Round {
     private final Game game;
     private final Question question;
     private final List<Player> roundPlayers = new ArrayList<>();
+    private int totalAnswers = 0;
 
     /**
      * Constructs a new round with a specified round number, list of players, question, and game.
@@ -72,7 +73,7 @@ public class Round {
      * @return true if the round has finished, false otherwise
      */
     public boolean roundFinished() {
-        return roundPlayers.isEmpty();
+        return roundPlayers.isEmpty() || totalAnswers == 10;
     }
 
     /**
@@ -129,6 +130,7 @@ public class Round {
     private Answer parseAnswer(MyAnswer myAnswer, Player player) {
         int answerID = myAnswer.getAnswerID();
         if (!playerNoAnswer(answerID)) {
+            totalAnswers++;
             int playerAnswerIndex = myAnswer.getPlayerAnswerIndex();
             int correctAnswerIndex = question.getSubQuestions()[answerID].getCorrectIndex();
             evaluateAnswer(playerAnswerIndex, correctAnswerIndex, player);
