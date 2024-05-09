@@ -119,4 +119,11 @@ public class Settings extends Fragment implements StartingStates {
             activity.replaceFragment(StartingState.WelcomePage);
         });
     }
+
+    /**
+     * Update player name in first app start.
+     */
+    public void updatePlayerName() {
+        playerName.setText(Preferences.getPlayerName(requireContext()));
+    }
 }

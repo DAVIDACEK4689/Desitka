@@ -17,6 +17,7 @@ import androidx.fragment.app.FragmentTransaction;
 import java.util.Objects;
 
 import cz.cuni.mff.desitka.R;
+import cz.cuni.mff.desitka.client.fragments.starting.Settings;
 import cz.cuni.mff.desitka.client.fragments.starting.StartingStates;
 import cz.cuni.mff.desitka.client.sharedPreferences.Preferences;
 
@@ -209,5 +210,13 @@ public class StartingActivity extends AppCompatActivity implements StartingState
         if (callback != null) {
             callback.remove();
         }
+    }
+
+    /**
+     * Updates the player name in the settings fragment.
+     */
+    public void updatePlayerName() {
+        Fragment fragment = getSupportFragmentManager().findFragmentByTag(StartingState.Settings.name());
+        ((Settings) fragment).updatePlayerName();
     }
 }

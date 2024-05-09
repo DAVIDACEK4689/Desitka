@@ -69,6 +69,7 @@ public class SetName extends Fragment implements StartingStates {
 
             Preferences.setPlayerName(requireContext(), name);
             StartingActivity activity = (StartingActivity) requireActivity();
+            activity.updatePlayerName();
             activity.replaceFragment(StartingState.WelcomePage);
         });
     }
