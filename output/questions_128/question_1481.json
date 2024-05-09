@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] svatého?",
+  "questions": [
+    {
+      "key": "Svatá Ludmila",
+      "values": [
+        "srbského",
+        "ukrajinského",
+        "českého",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jeroným Pražský",
+      "values": [
+        "egyptského",
+        "řeckého",
+        "peruánského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marek Evangelista",
+      "values": [
+        "egyptského",
+        "polského",
+        "alžírského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Svatá Rozálie",
+      "values": [
+        "italského",
+        "slovenského",
+        "egyptského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Klement Maria Hofbauer",
+      "values": [
+        "peruánského",
+        "českého",
+        "ugandského",
+        "anglického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Kapistrán",
+      "values": [
+        "italského",
+        "německého",
+        "portugalského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stanislav Kostka",
+      "values": [
+        "ugandského",
+        "polského",
+        "českého",
+        "anglického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Brigita Irská",
+      "values": [
+        "irského",
+        "ruského",
+        "libanonského",
+        "peruánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr z Alkantary",
+      "values": [
+        "španělského",
+        "velšského",
+        "polského",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexis Toth",
+      "values": [
+        "srbského",
+        "slovenského",
+        "alžírského",
+        "súdánského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

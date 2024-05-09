@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] cyklistu?",
+  "questions": [
+    {
+      "key": "Tadej Pogačar",
+      "values": [
+        "slovinského",
+        "britského",
+        "amerického",
+        "československého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mark Cavendish",
+      "values": [
+        "portugalského",
+        "britského",
+        "švýcarského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jasper Philipsen",
+      "values": [
+        "belgického",
+        "československého",
+        "španělského",
+        "uzbeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nairo Quintana",
+      "values": [
+        "německého",
+        "portugalského",
+        "rakouského",
+        "kolumbijského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bernard Hinault",
+      "values": [
+        "belgického",
+        "ekvádorského",
+        "československého",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Federico Bahamontes",
+      "values": [
+        "portugalského",
+        "kolumbijského",
+        "španělského",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dylan Groenewegen",
+      "values": [
+        "nizozemského",
+        "portugalského",
+        "uzbeckého",
+        "lucemburského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "František Raboň",
+      "values": [
+        "německého",
+        "belgického",
+        "australského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Romain Bardet",
+      "values": [
+        "švýcarského",
+        "německého",
+        "francouzského",
+        "uzbeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Neilson Powless",
+      "values": [
+        "českého",
+        "švýcarského",
+        "australského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

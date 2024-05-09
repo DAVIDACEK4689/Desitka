@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Maximilien Robespierre",
+      "values": [
+        "bulharského",
+        "singapurského",
+        "francouzského",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bernd Posselt",
+      "values": [
+        "argentinského",
+        "albánského",
+        "německého",
+        "salvadorského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alberto Fernández",
+      "values": [
+        "egyptského",
+        "argentinského",
+        "nepálského",
+        "běloruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Richard von Weizsäcker",
+      "values": [
+        "kolumbijského",
+        "německého",
+        "venezuelského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andrej Plenković",
+      "values": [
+        "turkmenského",
+        "chorvatského",
+        "litevského",
+        "etiopského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eleftherios Venizelos",
+      "values": [
+        "gruzínského",
+        "bulharského",
+        "řeckého",
+        "jemenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Karađorđević",
+      "values": [
+        "katarského",
+        "keňského",
+        "jugoslávského",
+        "pákistánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Javier Pérez de Cuéllar",
+      "values": [
+        "panamského",
+        "kyrgyzského",
+        "peruánského",
+        "jihoafrického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Miljukov",
+      "values": [
+        "albánského",
+        "filipínského",
+        "ruského",
+        "etiopského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Koos de la Rey",
+      "values": [
+        "srbského",
+        "jihoafrického",
+        "českého",
+        "kolumbijského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

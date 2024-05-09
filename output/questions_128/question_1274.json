@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Mnichov",
+      "values": [
+        "Maďarsko",
+        "Itálie",
+        "Německo",
+        "Rakousko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Edinburgh",
+      "values": [
+        "Německo",
+        "Slovensko",
+        "Spojené království",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Štětín",
+      "values": [
+        "Německo",
+        "Polsko",
+        "Rakousko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gent",
+      "values": [
+        "Dánsko",
+        "Česko",
+        "Belgie",
+        "Spojené království"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Newcastle upon Tyne",
+      "values": [
+        "Rakousko",
+        "Spojené království",
+        "Polsko",
+        "Irsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pécs",
+      "values": [
+        "Spojené království",
+        "Dánsko",
+        "Česko",
+        "Maďarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Braga",
+      "values": [
+        "Polsko",
+        "Portugalsko",
+        "Irsko",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fulda",
+      "values": [
+        "Dánsko",
+        "Itálie",
+        "Německo",
+        "Rakousko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aalborg",
+      "values": [
+        "Německo",
+        "Slovensko",
+        "Irsko",
+        "Dánsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Siegen",
+      "values": [
+        "Německo",
+        "Belgie",
+        "Polsko",
+        "Portugalsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

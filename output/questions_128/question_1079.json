@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Istanbul",
+      "values": [
+        "Jamajka",
+        "Brazílie",
+        "Togo",
+        "Turecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rimini",
+      "values": [
+        "Izrael",
+        "Venezuela",
+        "Itálie",
+        "Sýrie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Svinoústí",
+      "values": [
+        "Polsko",
+        "Surinam",
+        "Norsko",
+        "Kolumbie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Machačkala",
+      "values": [
+        "Brazílie",
+        "Ekvádor",
+        "Malta",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cork",
+      "values": [
+        "Namibie",
+        "Irsko",
+        "Itálie",
+        "Francie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Súsa",
+      "values": [
+        "Gabon",
+        "Ekvádor",
+        "Tunisko",
+        "Lotyšsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Herceg Novi",
+      "values": [
+        "Černá Hora",
+        "Nigérie",
+        "Švýcarsko",
+        "Gabon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mariehamn",
+      "values": [
+        "Finsko",
+        "Jordánsko",
+        "Barbados",
+        "Libérie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Waterford",
+      "values": [
+        "Saúdská Arábie",
+        "Nigérie",
+        "Portugalsko",
+        "Irsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Akita",
+      "values": [
+        "Japonsko",
+        "Kypr",
+        "Egypt",
+        "Švýcarsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

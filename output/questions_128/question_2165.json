@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebníka?",
+  "questions": [
+    {
+      "key": "Vít Rotter",
+      "values": [
+        "českého",
+        "gruzínského",
+        "portorického",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Břínek",
+      "values": [
+        "slovenského",
+        "italského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michal Zelenka",
+      "values": [
+        "španělského",
+        "českého",
+        "italského",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Svatá Cecilie",
+      "values": [
+        "venezuelského",
+        "ruského",
+        "nizozemského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Vostrčil",
+      "values": [
+        "izraelského",
+        "nizozemského",
+        "českého",
+        "arménského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dermot Kennedy",
+      "values": [
+        "venezuelského",
+        "švédského",
+        "irského",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomáš Konůpka",
+      "values": [
+        "rakouského",
+        "portorického",
+        "islandského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lepa Brena",
+      "values": [
+        "jugoslávského",
+        "portorického",
+        "nizozemského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Scott Patterson",
+      "values": [
+        "amerického",
+        "islandského",
+        "bulharského",
+        "jugoslávského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bernhard Lloyd",
+      "values": [
+        "německého",
+        "španělského",
+        "australského",
+        "italského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

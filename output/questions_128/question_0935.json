@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] malíře?",
+  "questions": [
+    {
+      "key": "Francisco Goya",
+      "values": [
+        "polského",
+        "mexického",
+        "izraelského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Adalbert Stifter",
+      "values": [
+        "španělského",
+        "mexického",
+        "rakouského",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andrej Rublev",
+      "values": [
+        "ruského",
+        "norského",
+        "amerického",
+        "finského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Antoine Watteau",
+      "values": [
+        "japonského",
+        "litevského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Otto Dix",
+      "values": [
+        "běloruského",
+        "ruského",
+        "německého",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vilém Balarin",
+      "values": [
+        "izraelského",
+        "slovenského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Antoni Tàpies",
+      "values": [
+        "finského",
+        "španělského",
+        "dánského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Henry van de Velde",
+      "values": [
+        "slovenského",
+        "belgického",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mikalojus Konstantinas Čiurlionis",
+      "values": [
+        "nizozemského",
+        "slovenského",
+        "litevského",
+        "chilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pierre Puvis de Chavannes",
+      "values": [
+        "španělského",
+        "litevského",
+        "britského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

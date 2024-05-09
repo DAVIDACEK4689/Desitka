@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] aktivistu?",
+  "questions": [
+    {
+      "key": "Zuzana Čaputová",
+      "values": [
+        "slovenského",
+        "italského",
+        "ukrajinského",
+        "běloruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stephen King",
+      "values": [
+        "ukrajinského",
+        "amerického",
+        "indického",
+        "běloruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sebastian Vettel",
+      "values": [
+        "australského",
+        "kanadského",
+        "německého",
+        "jihoafrického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Edward Snowden",
+      "values": [
+        "amerického",
+        "slovenského",
+        "běloruského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Sheen",
+      "values": [
+        "britského",
+        "italského",
+        "íránského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Joe Rogan",
+      "values": [
+        "amerického",
+        "ukrajinského",
+        "francouzského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Krist Novoselic",
+      "values": [
+        "amerického",
+        "slovenského",
+        "českého",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kamila Bendová",
+      "values": [
+        "australského",
+        "slovenského",
+        "českého",
+        "íránského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Angela Davisová",
+      "values": [
+        "slovenského",
+        "českého",
+        "amerického",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tippi Hedren",
+      "values": [
+        "britského",
+        "českého",
+        "amerického",
+        "íránského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle českého sportovce",
+  "questions": [
+    {
+      "key": "Tomáš Berdych",
+      "values": [
+        "tenista",
+        "kickboxeři",
+        "golfista",
+        "šipkaři"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ondřej Palát",
+      "values": [
+        "lední hokejista",
+        "sportovní střelec",
+        "kanoista",
+        "cyklista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Roman Kreuziger",
+      "values": [
+        "boxer",
+        "golfista",
+        "cyklista",
+        "veslař"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Pála",
+      "values": [
+        "šipkaři",
+        "tenista",
+        "lyžař",
+        "rybář"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Welsch",
+      "values": [
+        "tenista",
+        "kajakář",
+        "basketbalista",
+        "kickboxeři"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Adam Gawlas",
+      "values": [
+        "kickboxeři",
+        "plavec",
+        "golfista",
+        "šipkaři"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Radek Bejbl",
+      "values": [
+        "fotbalista",
+        "rybář",
+        "sportovní střelec",
+        "bojový umělec"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jakub Nakládal",
+      "values": [
+        "rybář",
+        "lední hokejista",
+        "boxer",
+        "basketbalista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lukáš Musil",
+      "values": [
+        "automobilový závodník",
+        "horolezec",
+        "kickboxeři",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Robert Cvek",
+      "values": [
+        "bojový umělec",
+        "gymnasta",
+        "šachista",
+        "rybář"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete povolání podle fiktivní postavy",
+  "questions": [
+    {
+      "key": "James Bond",
+      "values": [
+        "archeolog",
+        "detektiv",
+        "špión",
+        "mág"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Indiana Jones",
+      "values": [
+        "podnikatel",
+        "zločinec",
+        "mág",
+        "archeolog"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Batman",
+      "values": [
+        "archeolog",
+        "letec",
+        "zločinec",
+        "podnikatel"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lord Voldemort",
+      "values": [
+        "podnikatel",
+        "detektiv",
+        "špión",
+        "mág"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sherlock Holmes",
+      "values": [
+        "špión",
+        "detektiv",
+        "mág",
+        "archeolog"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vinnetou",
+      "values": [
+        "vladař",
+        "detektiv",
+        "mág",
+        "válečník"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Král Artuš",
+      "values": [
+        "mág",
+        "válečník",
+        "zločinec",
+        "detektiv"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rumcajs",
+      "values": [
+        "válečník",
+        "podnikatel",
+        "zločinec",
+        "vladař"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Darth Vader",
+      "values": [
+        "archeolog",
+        "zločinec",
+        "válečník",
+        "letec"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gandalf",
+      "values": [
+        "letec",
+        "mág",
+        "detektiv",
+        "podnikatel"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

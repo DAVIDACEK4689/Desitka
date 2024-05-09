@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistu?",
+  "questions": [
+    {
+      "key": "Novak Djoković",
+      "values": [
+        "švýcarského",
+        "srbského",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Carlos Alcaraz",
+      "values": [
+        "norského",
+        "španělského",
+        "italského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Lehečka",
+      "values": [
+        "českého",
+        "řeckého",
+        "španělského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rafael Nadal",
+      "values": [
+        "československého",
+        "řeckého",
+        "italského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roger Federer",
+      "values": [
+        "ruského",
+        "českého",
+        "italského",
+        "švýcarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Berdych",
+      "values": [
+        "českého",
+        "srbského",
+        "řeckého",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Korda",
+      "values": [
+        "československého",
+        "řeckého",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Kodeš",
+      "values": [
+        "italského",
+        "norského",
+        "srbského",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Radek Štěpánek",
+      "values": [
+        "amerického",
+        "československého",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sebastian Korda",
+      "values": [
+        "amerického",
+        "českého",
+        "ruského",
+        "československého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

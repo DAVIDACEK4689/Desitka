@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Soluň",
+      "values": [
+        "Řecko",
+        "Malta",
+        "Kazachstán",
+        "Dánsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Baku",
+      "values": [
+        "Ázerbájdžán",
+        "Gabon",
+        "Uruguay",
+        "Japonsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Murmansk",
+      "values": [
+        "Albánie",
+        "Alžírsko",
+        "Rusko",
+        "Belgie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Livorno",
+      "values": [
+        "Nigérie",
+        "Itálie",
+        "Bulharsko",
+        "Norsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Turku",
+      "values": [
+        "Malta",
+        "Izrael",
+        "Albánie",
+        "Finsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Patra",
+      "values": [
+        "Nigérie",
+        "Řecko",
+        "Slovinsko",
+        "Kamerun"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Helsingborg",
+      "values": [
+        "Švédsko",
+        "Egypt",
+        "Portugalsko",
+        "Benin"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Konakry",
+      "values": [
+        "Libanon",
+        "Švýcarsko",
+        "Guinea",
+        "Indonésie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dachla",
+      "values": [
+        "Západní Sahara",
+        "Gruzie",
+        "Kolumbie",
+        "Chorvatsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cobh",
+      "values": [
+        "Dánsko",
+        "Ukrajina",
+        "Rusko",
+        "Irsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

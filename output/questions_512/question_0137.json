@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Josef Kemr",
+      "values": [
+        "českého",
+        "rakouského",
+        "kanadského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vin Diesel",
+      "values": [
+        "španělského",
+        "amerického",
+        "norského",
+        "venezuelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pierre Brice",
+      "values": [
+        "kanadského",
+        "indického",
+        "francouzského",
+        "malajsijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Krytinář",
+      "values": [
+        "tureckého",
+        "nizozemského",
+        "českého",
+        "novozélandského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mads Mikkelsen",
+      "values": [
+        "tureckého",
+        "slovenského",
+        "dánského",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaroslav Kepka",
+      "values": [
+        "marockého",
+        "irského",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Til Schweiger",
+      "values": [
+        "kanadského",
+        "izraelského",
+        "jihoafrického",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sam Worthington",
+      "values": [
+        "nizozemského",
+        "venezuelského",
+        "australského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mike Farrell",
+      "values": [
+        "amerického",
+        "francouzského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "John Cusack",
+      "values": [
+        "venezuelského",
+        "kanadského",
+        "amerického",
+        "čínského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte kontinent podle fauny",
+  "questions": [
+    {
+      "key": "Hroch obojživelný",
+      "values": [
+        "Antarktida",
+        "Afrika",
+        "Severní Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Medvěd baribal",
+      "values": [
+        "Severní Amerika",
+        "Asie",
+        "Antarktida",
+        "Střední Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Levhart obláčkový",
+      "values": [
+        "Antarktida",
+        "Asie",
+        "Střední Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nosorožec indický",
+      "values": [
+        "Evropa",
+        "Asie",
+        "Severní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Medvěd brýlatý",
+      "values": [
+        "Afrika",
+        "Asie",
+        "Jižní Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Makak červenolící",
+      "values": [
+        "Asie",
+        "Afrika",
+        "Jižní Amerika",
+        "Antarktida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vlk rudohnědý",
+      "values": [
+        "Asie",
+        "Severní Amerika",
+        "Antarktida",
+        "Afrika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Velbloud divoký",
+      "values": [
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Evropa",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kajman yakaré",
+      "values": [
+        "Antarktida",
+        "Asie",
+        "Jižní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Liška ostrovní",
+      "values": [
+        "Severní Amerika",
+        "Střední Amerika",
+        "Jižní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

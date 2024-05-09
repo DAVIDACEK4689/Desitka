@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Cristiano Ronaldo",
+      "values": [
+        "portugalského",
+        "argentinského",
+        "španělského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pelé",
+      "values": [
+        "chorvatského",
+        "argentinského",
+        "francouzského",
+        "brazilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Erling Haaland",
+      "values": [
+        "anglického",
+        "argentinského",
+        "portugalského",
+        "norského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Čech",
+      "values": [
+        "rakouského",
+        "československého",
+        "brazilského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Robert Lewandowski",
+      "values": [
+        "francouzského",
+        "španělského",
+        "brazilského",
+        "polského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Diego Maradona",
+      "values": [
+        "švédského",
+        "portugalského",
+        "argentinského",
+        "chorvatského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Milan Baroš",
+      "values": [
+        "českého",
+        "norského",
+        "rakouského",
+        "československého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Řepka",
+      "values": [
+        "polského",
+        "brazilského",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ronaldinho",
+      "values": [
+        "norského",
+        "francouzského",
+        "brazilského",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Patrik Schick",
+      "values": [
+        "českého",
+        "španělského",
+        "chorvatského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

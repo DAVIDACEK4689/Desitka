@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] kulturu?",
+  "questions": [
+    {
+      "key": "Santa Claus",
+      "values": [
+        "mexickou",
+        "indickou",
+        "americkou",
+        "mongolskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Namasté",
+      "values": [
+        "americkou",
+        "čínskou",
+        "indickou",
+        "maďarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Džíny",
+      "values": [
+        "indickou",
+        "irskou",
+        "americkou",
+        "mexickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ouija",
+      "values": [
+        "italskou",
+        "japonskou",
+        "finskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Velká vlna u pobřeží Kanagawy",
+      "values": [
+        "japonskou",
+        "českou",
+        "íránskou",
+        "mongolskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dvanáct bobulí révy",
+      "values": [
+        "irskou",
+        "švýcarskou",
+        "španělskou",
+        "polskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Šiacu",
+      "values": [
+        "řeckou",
+        "mongolskou",
+        "japonskou",
+        "brazilskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "La Befana",
+      "values": [
+        "čínskou",
+        "ruskou",
+        "italskou",
+        "španělskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "De Stijl",
+      "values": [
+        "mexickou",
+        "italskou",
+        "nizozemskou",
+        "indickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "František Skorina",
+      "values": [
+        "polskou",
+        "francouzskou",
+        "ukrajinskou",
+        "běloruskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

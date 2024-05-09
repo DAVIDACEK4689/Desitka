@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Narvik",
+      "values": [
+        "Norsko",
+        "Libérie",
+        "Indonésie",
+        "Bolívie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miskolc",
+      "values": [
+        "Maďarsko",
+        "Izrael",
+        "Finsko",
+        "Tunisko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nin",
+      "values": [
+        "Chorvatsko",
+        "Turecko",
+        "Nizozemsko",
+        "Gabon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Konya",
+      "values": [
+        "Turecko",
+        "Nizozemsko",
+        "Srí Lanka",
+        "Albánie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Monrovia",
+      "values": [
+        "Libérie",
+        "Abcházie",
+        "Kazachstán",
+        "Slovinsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dunedin",
+      "values": [
+        "Lotyšsko",
+        "Jihoafrická republika",
+        "Mexiko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Húsavík",
+      "values": [
+        "Island",
+        "Severní Makedonie",
+        "Palau",
+        "Německo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Huesca",
+      "values": [
+        "Nepál",
+        "Uzbekistán",
+        "Španělsko",
+        "Botswana"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tojota",
+      "values": [
+        "Libye",
+        "Litva",
+        "Saúdská Arábie",
+        "Japonsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Toluca",
+      "values": [
+        "Island",
+        "Švýcarsko",
+        "Mexiko",
+        "Kambodža"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

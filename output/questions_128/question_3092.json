@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Quentin Tarantino",
+      "values": [
+        "španělského",
+        "amerického",
+        "japonského",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vít Olmer",
+      "values": [
+        "islandského",
+        "polského",
+        "australského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alexander Skarsgård",
+      "values": [
+        "íránského",
+        "sovětského",
+        "irského",
+        "švédského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Zuska",
+      "values": [
+        "českého",
+        "švýcarského",
+        "německého",
+        "íránského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Steve Lichtag",
+      "values": [
+        "ruského",
+        "českého",
+        "polského",
+        "novozélandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Errol Flynn",
+      "values": [
+        "australského",
+        "mexického",
+        "kanadského",
+        "islandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Václav Špidla",
+      "values": [
+        "českého",
+        "švédského",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paul Verhoeven",
+      "values": [
+        "amerického",
+        "nizozemského",
+        "australského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michael Haneke",
+      "values": [
+        "rakouského",
+        "amerického",
+        "švédského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Horský",
+      "values": [
+        "českého",
+        "hongkongského",
+        "ruského",
+        "německého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

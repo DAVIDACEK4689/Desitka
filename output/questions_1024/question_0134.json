@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Vídeň",
+      "values": [
+        "Polsko",
+        "Rakousko",
+        "Nizozemsko",
+        "Belgie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mnichov",
+      "values": [
+        "Dánsko",
+        "Portugalsko",
+        "Česko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lisabon",
+      "values": [
+        "Portugalsko",
+        "Dánsko",
+        "Irsko",
+        "Rakousko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Terst",
+      "values": [
+        "Itálie",
+        "Německo",
+        "Portugalsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Antverpy",
+      "values": [
+        "Dánsko",
+        "Maďarsko",
+        "Belgie",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Saská Kamenice",
+      "values": [
+        "Slovensko",
+        "Německo",
+        "Itálie",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Trnava",
+      "values": [
+        "Dánsko",
+        "Rakousko",
+        "Maďarsko",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Brighton",
+      "values": [
+        "Polsko",
+        "Nizozemsko",
+        "Spojené království",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Heidelberg",
+      "values": [
+        "Německo",
+        "Irsko",
+        "Česko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "York",
+      "values": [
+        "Spojené království",
+        "Itálie",
+        "Belgie",
+        "Portugalsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte kontinent podle závislého území",
+  "questions": [
+    {
+      "key": "Faerské ostrovy",
+      "values": [
+        "Evropa",
+        "Jižní Amerika",
+        "Severní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kanárské ostrovy",
+      "values": [
+        "Afrika",
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Grónsko",
+      "values": [
+        "Afrika",
+        "Evropa",
+        "Jižní Amerika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Azory",
+      "values": [
+        "Afrika",
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gibraltar",
+      "values": [
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Evropa",
+        "Afrika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Portoriko",
+      "values": [
+        "Afrika",
+        "Severní Amerika",
+        "Evropa",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Francouzská Guyana",
+      "values": [
+        "Evropa",
+        "Jižní Amerika",
+        "Severní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Réunion",
+      "values": [
+        "Severní Amerika",
+        "Evropa",
+        "Jižní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Falklandy",
+      "values": [
+        "Severní Amerika",
+        "Evropa",
+        "Jižní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Curaçao",
+      "values": [
+        "Afrika",
+        "Evropa",
+        "Severní Amerika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

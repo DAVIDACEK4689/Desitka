@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] automobil?",
+  "questions": [
+    {
+      "key": "Trabant",
+      "values": [
+        "německý",
+        "český",
+        "sovětský",
+        "jugoslávský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fiat 126",
+      "values": [
+        "jugoslávský",
+        "polský",
+        "sovětský",
+        "britský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "CUPRA Formentor",
+      "values": [
+        "jugoslávský",
+        "francouzský",
+        "španělský",
+        "sovětský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "FSC Żuk",
+      "values": [
+        "španělský",
+        "český",
+        "německý",
+        "polský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Záporožec",
+      "values": [
+        "sovětský",
+        "americký",
+        "polský",
+        "slovenský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Peel P50",
+      "values": [
+        "sovětský",
+        "německý",
+        "britský",
+        "český"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Autobusy Karosa",
+      "values": [
+        "německý",
+        "český",
+        "španělský",
+        "jugoslávský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Škoda 760",
+      "values": [
+        "český",
+        "polský",
+        "britský",
+        "německý"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Yugo",
+      "values": [
+        "francouzský",
+        "španělský",
+        "polský",
+        "jugoslávský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "HN R200",
+      "values": [
+        "český",
+        "německý",
+        "americký",
+        "španělský"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

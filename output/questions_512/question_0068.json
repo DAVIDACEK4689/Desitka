@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Sylvester Stallone",
+      "values": [
+        "slovenského",
+        "amerického",
+        "srbského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ryan Gosling",
+      "values": [
+        "irského",
+        "italského",
+        "amerického",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Milan Lasica",
+      "values": [
+        "rakouského",
+        "srbského",
+        "italského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pierre Richard",
+      "values": [
+        "francouzského",
+        "hongkongského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lila Schwarzenbergová",
+      "values": [
+        "japonského",
+        "rakouského",
+        "ruského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tomáš Mašín",
+      "values": [
+        "francouzského",
+        "českého",
+        "italského",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alfred Hitchcock",
+      "values": [
+        "kanadského",
+        "amerického",
+        "rakouského",
+        "hongkongského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ben Stiller",
+      "values": [
+        "srbského",
+        "novozélandského",
+        "amerického",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Orson Welles",
+      "values": [
+        "amerického",
+        "ruského",
+        "dánského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dežo Ursiny",
+      "values": [
+        "německého",
+        "norského",
+        "britského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

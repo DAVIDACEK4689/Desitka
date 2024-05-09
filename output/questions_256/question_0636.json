@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte město podle sportovní události",
+  "questions": [
+    {
+      "key": "Mistrovství světa ve fotbale žen 2023",
+      "values": [
+        "Santiago de Chile",
+        "Sydney",
+        "Záhřeb",
+        "Londýn"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mistrovství světa v ledním hokeji 2000",
+      "values": [
+        "Záhřeb",
+        "Peking",
+        "Barcelona",
+        "Buenos Aires"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mistrovství Evropy ve fotbale 1976",
+      "values": [
+        "Montréal",
+        "Záhřeb",
+        "Minsk",
+        "Brusel"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mistrovství Evropy ve fotbale 2000",
+      "values": [
+        "Barcelona",
+        "Brusel",
+        "Tel Aviv",
+        "Minsk"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Letní olympijské hry 1992",
+      "values": [
+        "Peking",
+        "Baku",
+        "Barcelona",
+        "Brusel"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství světa v ragby 2015",
+      "values": [
+        "Peking",
+        "Santiago de Chile",
+        "Buenos Aires",
+        "Londýn"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zimní olympijské hry 2010",
+      "values": [
+        "Buenos Aires",
+        "Montréal",
+        "Vancouver",
+        "Londýn"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kanadský pohár 1976",
+      "values": [
+        "Montréal",
+        "Tel Aviv",
+        "Minsk",
+        "Vancouver"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mistrovství světa juniorů v ledním hokeji 2019",
+      "values": [
+        "Buenos Aires",
+        "Vancouver",
+        "Baku",
+        "Santiago de Chile"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mistrovství světa juniorů v ledním hokeji 2002",
+      "values": [
+        "Záhřeb",
+        "Montréal",
+        "Barcelona",
+        "Vancouver"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte autora podle stavby",
+  "questions": [
+    {
+      "key": "Klášter Plasy",
+      "values": [
+        "Kilián Ignác Dientzenhofer",
+        "Adolf Benš",
+        "Norman Foster",
+        "František Lýdie Gahura"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nová budova Národního muzea",
+      "values": [
+        "Adolf Benš",
+        "Max Spielmann",
+        "Jože Plečnik",
+        "Karel Prager"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pivovar Velké Popovice",
+      "values": [
+        "Le Corbusier",
+        "Jiří Stibral",
+        "Carlo Lurago",
+        "Antonín Balšánek"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Uměleckoprůmyslové museum v Praze",
+      "values": [
+        "Pavel Janák",
+        "Josef Schulz",
+        "Václav Aulický",
+        "Antonín Wiehl"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dům bytové kultury",
+      "values": [
+        "Karel Filsak",
+        "Friedrich Ohmann",
+        "Frank Lloyd Wright",
+        "Věra Machoninová"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Česká poštovna na Sněžce",
+      "values": [
+        "Josef Zítek",
+        "Jaroslav Fragner",
+        "Martin Rajniš",
+        "Bohumír Kozák"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Městská telefonní ústředna",
+      "values": [
+        "Norman Foster",
+        "Friedrich Ohmann",
+        "Václav Aulický",
+        "Bohumír Kozák"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Radiopalác",
+      "values": [
+        "Stanislav Franc",
+        "Frank Lloyd Wright",
+        "Alois Dryák",
+        "Věra Machoninová"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Žižkova mohyla",
+      "values": [
+        "Josef Schulz",
+        "Jiří Stibral",
+        "Antonín Wiehl",
+        "Ladislav Machoň"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Majáková a vodárenská věž Kbely",
+      "values": [
+        "Pavel Janák",
+        "Otakar Novotný",
+        "Emil Králíček",
+        "Kamil Roškot"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

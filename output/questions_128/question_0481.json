@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] miliardáře?",
+  "questions": [
+    {
+      "key": "Kim Kardashianová",
+      "values": [
+        "britského",
+        "amerického",
+        "ukrajinského",
+        "tureckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jeff Bezos",
+      "values": [
+        "amerického",
+        "britského",
+        "tureckého",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Roman Janoušek",
+      "values": [
+        "českého",
+        "ukrajinského",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vlastislav Bříza",
+      "values": [
+        "amerického",
+        "ukrajinského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pavel Baudiš",
+      "values": [
+        "britského",
+        "českého",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rinat Achmetov",
+      "values": [
+        "slovenského",
+        "českého",
+        "ukrajinského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fred Trump",
+      "values": [
+        "amerického",
+        "tureckého",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Laurene Powell Jobs",
+      "values": [
+        "ukrajinského",
+        "amerického",
+        "rakouského",
+        "tureckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Evžen Korec",
+      "values": [
+        "rakouského",
+        "českého",
+        "ruského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michael Dell",
+      "values": [
+        "tureckého",
+        "slovenského",
+        "amerického",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

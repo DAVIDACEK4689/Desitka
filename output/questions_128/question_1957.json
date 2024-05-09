@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] lékaře?",
+  "questions": [
+    {
+      "key": "Therese Schwarzenbergová",
+      "values": [
+        "afghánského",
+        "rakouského",
+        "japonského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ludvík Souček",
+      "values": [
+        "brazilského",
+        "slovenského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Slavoj Amerling",
+      "values": [
+        "českého",
+        "brazilského",
+        "čínského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Bořivoj Presl",
+      "values": [
+        "irského",
+        "japonského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hans Asperger",
+      "values": [
+        "polského",
+        "albánského",
+        "slovenského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Milan Adam",
+      "values": [
+        "českého",
+        "japonského",
+        "švédského",
+        "albánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Hradil",
+      "values": [
+        "českého",
+        "italského",
+        "slovenského",
+        "jihoafrického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David Becher",
+      "values": [
+        "italského",
+        "českého",
+        "jihoafrického",
+        "čínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Heinrich Cornelius Agrippa von Nettesheim",
+      "values": [
+        "čínského",
+        "chilského",
+        "irského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Ramba",
+      "values": [
+        "afghánského",
+        "izraelského",
+        "polského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

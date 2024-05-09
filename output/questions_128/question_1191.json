@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Blahovičník",
+      "values": [
+        "Japonsko",
+        "Madagaskar",
+        "Mexiko",
+        "Austrálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaterník podléška",
+      "values": [
+        "Austrálie",
+        "Nový Zéland",
+        "Japonsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Netýkavka",
+      "values": [
+        "Česko",
+        "Mongolsko",
+        "Mexiko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bez chebdí",
+      "values": [
+        "Austrálie",
+        "Mexiko",
+        "Česko",
+        "Brazílie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rozchodníkovec nachový",
+      "values": [
+        "Madagaskar",
+        "Mexiko",
+        "Česko",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hluchavka objímavá",
+      "values": [
+        "Česko",
+        "Brazílie",
+        "Austrálie",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ořechokřídlec",
+      "values": [
+        "Mexiko",
+        "Japonsko",
+        "Nový Zéland",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karbinec evropský",
+      "values": [
+        "Česko",
+        "Madagaskar",
+        "Austrálie",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Borovice montereyská",
+      "values": [
+        "Mongolsko",
+        "Česko",
+        "Nový Zéland",
+        "Mexiko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chundelka metlice",
+      "values": [
+        "Mexiko",
+        "Austrálie",
+        "Česko",
+        "Japonsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

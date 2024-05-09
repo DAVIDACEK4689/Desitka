@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Petra Nesvačilová",
+      "values": [
+        "německou",
+        "nizozemskou",
+        "italskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Yvetta Blanarovičová",
+      "values": [
+        "českou",
+        "britskou",
+        "srbskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hana Vítová",
+      "values": [
+        "slovenskou",
+        "švédskou",
+        "českou",
+        "mexickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nena",
+      "values": [
+        "kanadskou",
+        "britskou",
+        "německou",
+        "jamajskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Irena Budweiserová",
+      "values": [
+        "peruánskou",
+        "českou",
+        "barbadoskou",
+        "izraelskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kat Graham",
+      "values": [
+        "americkou",
+        "italskou",
+        "finskou",
+        "moldavskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavla Břínková",
+      "values": [
+        "irskou",
+        "českou",
+        "indickou",
+        "italskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nikola Ďuricová",
+      "values": [
+        "slovenskou",
+        "peruánskou",
+        "britskou",
+        "novozélandskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marie Puttnerová",
+      "values": [
+        "českou",
+        "islandskou",
+        "řeckou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martina Vlčková",
+      "values": [
+        "českou",
+        "australskou",
+        "peruánskou",
+        "polskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

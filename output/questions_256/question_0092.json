@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] ateistu?",
+  "questions": [
+    {
+      "key": "Leonid Iljič Brežněv",
+      "values": [
+        "norského",
+        "ukrajinského",
+        "skotského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fernando Alonso",
+      "values": [
+        "španělského",
+        "amerického",
+        "nizozemského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Frank Zappa",
+      "values": [
+        "gruzínského",
+        "běloruského",
+        "irského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Javier Bardem",
+      "values": [
+        "španělského",
+        "skotského",
+        "židovského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Émile Durkheim",
+      "values": [
+        "francouzského",
+        "českého",
+        "černohorského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bertrand Russell",
+      "values": [
+        "kanadského",
+        "britského",
+        "ukrajinského",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Christopher Paolini",
+      "values": [
+        "amerického",
+        "italského",
+        "židovského",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eddie Vedder",
+      "values": [
+        "amerického",
+        "indického",
+        "islandského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Kropotkin",
+      "values": [
+        "norského",
+        "švédského",
+        "ruského",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Isaak Babel",
+      "values": [
+        "běloruského",
+        "ruského",
+        "chorvatského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

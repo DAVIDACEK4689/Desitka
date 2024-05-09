@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Brno",
+      "values": [
+        "Metuje",
+        "Svratka",
+        "Eufrat",
+        "Malše"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Železná Ruda",
+      "values": [
+        "Svratka",
+        "Polenz",
+        "Úhlava",
+        "Radbuza"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Levý Hradec",
+      "values": [
+        "Vltava",
+        "Cidlina",
+        "Dunaj",
+        "Bečva"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Smolensk",
+      "values": [
+        "Temže",
+        "Loira",
+        "Dněpr",
+        "Rýn"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ustroň",
+      "values": [
+        "Visla",
+        "Volha",
+        "Chrudimka",
+        "Eufrat"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nosislav",
+      "values": [
+        "Svratka",
+        "Lužnice",
+        "Dyje",
+        "Vltava"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vraňany",
+      "values": [
+        "Lužnice",
+        "Hron",
+        "Sebnice",
+        "Vltava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chotyně",
+      "values": [
+        "Cidlina",
+        "Radbuza",
+        "Lužická Nisa",
+        "Eufrat"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Holasice",
+      "values": [
+        "Svratka",
+        "Eufrat",
+        "Temže",
+        "Úhlava"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hohenberg an der Eger",
+      "values": [
+        "Ohře",
+        "Emže",
+        "Loira",
+        "Hornád"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

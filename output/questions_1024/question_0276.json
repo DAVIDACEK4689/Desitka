@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filozofa?",
+  "questions": [
+    {
+      "key": "František Palacký",
+      "values": [
+        "ruského",
+        "českého",
+        "dánského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Friedrich Nietzsche",
+      "values": [
+        "indického",
+        "německého",
+        "dánského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Patočka",
+      "values": [
+        "řeckého",
+        "českého",
+        "italského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Egon Bondy",
+      "values": [
+        "indického",
+        "perského",
+        "českého",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Umberto Eco",
+      "values": [
+        "ruského",
+        "italského",
+        "rakouského",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Niels Bohr",
+      "values": [
+        "dánského",
+        "nizozemského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Díogenés ze Sinópé",
+      "values": [
+        "řeckého",
+        "slovinského",
+        "dánského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Avicenna",
+      "values": [
+        "švýcarského",
+        "indického",
+        "německého",
+        "perského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Auguste Comte",
+      "values": [
+        "řeckého",
+        "německého",
+        "francouzského",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Søren Kierkegaard",
+      "values": [
+        "německého",
+        "českého",
+        "francouzského",
+        "dánského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

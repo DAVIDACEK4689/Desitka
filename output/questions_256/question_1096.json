@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Stephen King",
+      "values": [
+        "francouzského",
+        "švédského",
+        "amerického",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pierre Richard",
+      "values": [
+        "novozélandského",
+        "srbského",
+        "rakouského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kenneth Branagh",
+      "values": [
+        "hongkongského",
+        "španělského",
+        "britského",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stanley Tucci",
+      "values": [
+        "německého",
+        "novozélandského",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Orson Welles",
+      "values": [
+        "hongkongského",
+        "švýcarského",
+        "amerického",
+        "srbského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Václav Koubek",
+      "values": [
+        "českého",
+        "britského",
+        "irského",
+        "australského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Mixa",
+      "values": [
+        "českého",
+        "australského",
+        "irského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Elia Kazan",
+      "values": [
+        "německého",
+        "norského",
+        "belgického",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gene Deitch",
+      "values": [
+        "rakouského",
+        "slovenského",
+        "mexického",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vittorio De Sica",
+      "values": [
+        "norského",
+        "italského",
+        "novozélandského",
+        "českého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

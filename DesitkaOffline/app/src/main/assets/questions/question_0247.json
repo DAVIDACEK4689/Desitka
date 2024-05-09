@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle úmrtí",
+  "questions": [
+    {
+      "key": "Leonardo da Vinci",
+      "values": [
+        "Vietnam",
+        "Alžírsko",
+        "Francie",
+        "Irsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Che Guevara",
+      "values": [
+        "Švédsko",
+        "Německo",
+        "Vietnam",
+        "Bolívie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Muammar Kaddáfí",
+      "values": [
+        "Francie",
+        "Vietnam",
+        "Německo",
+        "Libye"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Antonín Baťa",
+      "values": [
+        "Libye",
+        "Brazílie",
+        "Itálie",
+        "Bolívie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Svatý Augustin",
+      "values": [
+        "Itálie",
+        "Německo",
+        "Libye",
+        "Alžírsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Louis Mountbatten",
+      "values": [
+        "Irsko",
+        "Švédsko",
+        "Libye",
+        "Zambie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lech Kaczyński",
+      "values": [
+        "Francie",
+        "Dominikánská republika",
+        "Turecko",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tizian",
+      "values": [
+        "Německo",
+        "Vietnam",
+        "Francie",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Šural",
+      "values": [
+        "Vietnam",
+        "Bolívie",
+        "Turecko",
+        "Zambie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Boris Leonidovič Pasternak",
+      "values": [
+        "Libye",
+        "Turecko",
+        "Dominikánská republika",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

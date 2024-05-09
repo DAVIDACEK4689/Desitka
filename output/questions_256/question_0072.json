@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] palnou zbraň?",
+  "questions": [
+    {
+      "key": "Colt 1911",
+      "values": [
+        "izraelskou",
+        "švýcarskou",
+        "britskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Desert Eagle",
+      "values": [
+        "izraelskou",
+        "belgickou",
+        "americkou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "MP 40",
+      "values": [
+        "japonskou",
+        "německou",
+        "italskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Uzi",
+      "values": [
+        "britskou",
+        "rakouskou",
+        "japonskou",
+        "izraelskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "FN SCAR",
+      "values": [
+        "americkou",
+        "japonskou",
+        "italskou",
+        "izraelskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "FN MINIMI",
+      "values": [
+        "americkou",
+        "britskou",
+        "belgickou",
+        "rakouskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Browning HP",
+      "values": [
+        "německou",
+        "americkou",
+        "belgickou",
+        "rakouskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "MP 18",
+      "values": [
+        "italskou",
+        "německou",
+        "japonskou",
+        "rakouskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "FN MAG",
+      "values": [
+        "švýcarskou",
+        "italskou",
+        "americkou",
+        "belgickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Henryho opakovačka",
+      "values": [
+        "belgickou",
+        "britskou",
+        "americkou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Erling Haaland",
+      "values": [
+        "českého",
+        "nizozemského",
+        "československého",
+        "norského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jakub Jankto",
+      "values": [
+        "dánského",
+        "anglického",
+        "československého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Patrik Schick",
+      "values": [
+        "českého",
+        "polského",
+        "německého",
+        "československého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sergio Ramos",
+      "values": [
+        "rakouského",
+        "německého",
+        "španělského",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Martin Fenin",
+      "values": [
+        "dánského",
+        "skotského",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomáš Petrášek",
+      "values": [
+        "španělského",
+        "argentinského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Patrik Berger",
+      "values": [
+        "norského",
+        "českého",
+        "brazilského",
+        "argentinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Johan Cruijff",
+      "values": [
+        "nizozemského",
+        "belgického",
+        "českého",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mohamed Salah",
+      "values": [
+        "nizozemského",
+        "velšského",
+        "egyptského",
+        "argentinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Antonín Barák",
+      "values": [
+        "českého",
+        "uruguayského",
+        "dánského",
+        "velšského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

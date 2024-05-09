@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Ota Pavel",
+      "values": [
+        "norského",
+        "českého",
+        "italského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fjodor Michajlovič Dostojevskij",
+      "values": [
+        "kanadského",
+        "švýcarského",
+        "ruského",
+        "kolumbijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bratři Grimmové",
+      "values": [
+        "německého",
+        "chilského",
+        "japonského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Milan Lasica",
+      "values": [
+        "brazilského",
+        "německého",
+        "švédského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel May",
+      "values": [
+        "ruského",
+        "vietnamského",
+        "německého",
+        "chilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ľudovít Štúr",
+      "values": [
+        "nizozemského",
+        "slovenského",
+        "polského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lars Kepler",
+      "values": [
+        "českého",
+        "irského",
+        "ruského",
+        "švédského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oskar Kokoschka",
+      "values": [
+        "irského",
+        "kanadského",
+        "rakouského",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Erich von Däniken",
+      "values": [
+        "dánského",
+        "britského",
+        "německého",
+        "švýcarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Edmund Hillary",
+      "values": [
+        "ukrajinského",
+        "norského",
+        "novozélandského",
+        "polského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

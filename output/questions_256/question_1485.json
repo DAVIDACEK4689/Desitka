@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fyzika?",
+  "questions": [
+    {
+      "key": "Werner Heisenberg",
+      "values": [
+        "britského",
+        "českého",
+        "irského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Richard Feynman",
+      "values": [
+        "rumunského",
+        "německého",
+        "amerického",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mikuláš Peksa",
+      "values": [
+        "švýcarského",
+        "českého",
+        "srbského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mileva Marićová",
+      "values": [
+        "španělského",
+        "srbského",
+        "kanadského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Christian Doppler",
+      "values": [
+        "rakouského",
+        "irského",
+        "maďarského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef František Smetana",
+      "values": [
+        "španělského",
+        "dánského",
+        "českého",
+        "íránského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "František Janouch",
+      "values": [
+        "českého",
+        "srbského",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Payne",
+      "values": [
+        "kanadského",
+        "německého",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hans Bethe",
+      "values": [
+        "dánského",
+        "německého",
+        "kanadského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Louis Slotin",
+      "values": [
+        "kanadského",
+        "švýcarského",
+        "britského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

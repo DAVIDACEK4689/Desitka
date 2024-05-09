@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filozofa?",
+  "questions": [
+    {
+      "key": "Aristotelés",
+      "values": [
+        "švýcarského",
+        "britského",
+        "řeckého",
+        "indického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "René Descartes",
+      "values": [
+        "dánského",
+        "indického",
+        "slovenského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Umberto Eco",
+      "values": [
+        "německého",
+        "řeckého",
+        "italského",
+        "perského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Sabina",
+      "values": [
+        "českého",
+        "švýcarského",
+        "italského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Slavoj Žižek",
+      "values": [
+        "švýcarského",
+        "ruského",
+        "slovinského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eduard Tomáš",
+      "values": [
+        "amerického",
+        "rakouského",
+        "řeckého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Simone de Beauvoir",
+      "values": [
+        "britského",
+        "indického",
+        "rakouského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Václav Bělohradský",
+      "values": [
+        "řeckého",
+        "ruského",
+        "perského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pierre Abélard",
+      "values": [
+        "indického",
+        "ruského",
+        "italského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michail Alexandrovič Bakunin",
+      "values": [
+        "řeckého",
+        "rakouského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

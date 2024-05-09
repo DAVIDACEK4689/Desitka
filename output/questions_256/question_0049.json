@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Benátky",
+      "values": [
+        "Nizozemsko",
+        "Spojené království",
+        "Itálie",
+        "Rakousko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Brusel",
+      "values": [
+        "Belgie",
+        "Německo",
+        "Slovensko",
+        "Spojené království"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pasov",
+      "values": [
+        "Spojené království",
+        "Belgie",
+        "Irsko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Siena",
+      "values": [
+        "Spojené království",
+        "Nizozemsko",
+        "Německo",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dortmund",
+      "values": [
+        "Spojené království",
+        "Německo",
+        "Belgie",
+        "Nizozemsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Debrecín",
+      "values": [
+        "Belgie",
+        "Spojené království",
+        "Itálie",
+        "Maďarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ferrara",
+      "values": [
+        "Rakousko",
+        "Maďarsko",
+        "Itálie",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aberdeen",
+      "values": [
+        "Dánsko",
+        "Spojené království",
+        "Portugalsko",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fulda",
+      "values": [
+        "Slovensko",
+        "Dánsko",
+        "Německo",
+        "Nizozemsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tübingen",
+      "values": [
+        "Německo",
+        "Belgie",
+        "Česko",
+        "Portugalsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

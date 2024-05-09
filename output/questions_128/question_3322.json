@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Tomáš Klus",
+      "values": [
+        "portugalského",
+        "britského",
+        "indického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel Augusta",
+      "values": [
+        "sovětského",
+        "portugalského",
+        "českého",
+        "portorického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Klaus Kinski",
+      "values": [
+        "čínského",
+        "německého",
+        "argentinského",
+        "chilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eduard Haken",
+      "values": [
+        "argentinského",
+        "českého",
+        "německého",
+        "jamajského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Otto Lackovič",
+      "values": [
+        "belgického",
+        "jihokorejského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Jiří Kolár",
+      "values": [
+        "českého",
+        "japonského",
+        "venezuelského",
+        "gruzínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chaim Topol",
+      "values": [
+        "izraelského",
+        "čínského",
+        "jihokorejského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Joshua Bassett",
+      "values": [
+        "amerického",
+        "namibijského",
+        "italského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pablo Schreiber",
+      "values": [
+        "kanadského",
+        "argentinského",
+        "amerického",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dušan Blaškovič",
+      "values": [
+        "portorického",
+        "slovenského",
+        "ruského",
+        "izraelského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

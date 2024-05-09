@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] videohru?",
+  "questions": [
+    {
+      "key": "Doom",
+      "values": [
+        "americkou",
+        "jihokorejskou",
+        "čínskou",
+        "australskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hogwarts Legacy",
+      "values": [
+        "polskou",
+        "britskou",
+        "americkou",
+        "ruskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pokémon Go",
+      "values": [
+        "ukrajinskou",
+        "čínskou",
+        "australskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Crysis",
+      "values": [
+        "americkou",
+        "francouzskou",
+        "německou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Heroes of Might and Magic V",
+      "values": [
+        "čínskou",
+        "ruskou",
+        "francouzskou",
+        "německou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stardew Valley",
+      "values": [
+        "finskou",
+        "běloruskou",
+        "americkou",
+        "dánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Quake",
+      "values": [
+        "ukrajinskou",
+        "americkou",
+        "japonskou",
+        "slovenskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Grand Theft Auto 2",
+      "values": [
+        "britskou",
+        "slovenskou",
+        "finskou",
+        "čínskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Crusader Kings III",
+      "values": [
+        "rakouskou",
+        "japonskou",
+        "švédskou",
+        "běloruskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Spellcross",
+      "values": [
+        "slovenskou",
+        "ukrajinskou",
+        "japonskou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

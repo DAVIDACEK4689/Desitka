@@ -1,0 +1,105 @@
+{
+  "text": "Určete bojiště podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva u Zborova",
+      "values": [
+        "Mexiko",
+        "Maďarsko",
+        "Ukrajina",
+        "Srbsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Cullodenu",
+      "values": [
+        "Uganda",
+        "Japonsko",
+        "Spojené království",
+        "Austrálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Cušimy",
+      "values": [
+        "Austrálie",
+        "Itálie",
+        "Singapur",
+        "Japonsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Mantzikertu",
+      "values": [
+        "Mexiko",
+        "Polsko",
+        "Turecko",
+        "Irák"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Brodů",
+      "values": [
+        "Egypt",
+        "Pákistán",
+        "Rakousko",
+        "Ukrajina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Drážďan",
+      "values": [
+        "Sasko",
+        "Indonésie",
+        "Estonsko",
+        "Finsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva v Hürtgenském lese",
+      "values": [
+        "Itálie",
+        "Bavorsko",
+        "Německo",
+        "Etiopie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Malojaroslavce",
+      "values": [
+        "Bavorsko",
+        "Rusko",
+        "Pákistán",
+        "Slovinsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Auerstedtu",
+      "values": [
+        "Uganda",
+        "Papua Nová Guinea",
+        "Německo",
+        "Izrael"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Útok na leteckou základnu Millerovo",
+      "values": [
+        "Rusko",
+        "Sýrie",
+        "Uganda",
+        "Singapur"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

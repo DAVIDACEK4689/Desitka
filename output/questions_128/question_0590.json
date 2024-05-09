@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle památky",
+  "questions": [
+    {
+      "key": "Památník Walhalla",
+      "values": [
+        "Španělsko",
+        "Nizozemsko",
+        "Laos",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Václav Jansa",
+      "values": [
+        "Česko",
+        "Nizozemsko",
+        "Spojené království",
+        "Laos"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Caesarův chrám",
+      "values": [
+        "Arménie",
+        "Lotyšsko",
+        "Česko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Údolí padlých",
+      "values": [
+        "Ukrajina",
+        "Španělsko",
+        "Německo",
+        "Lotyšsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Olivovník ve Vouves",
+      "values": [
+        "Lotyšsko",
+        "Řecko",
+        "Německo",
+        "Ukrajina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gotická architektura v Anglii",
+      "values": [
+        "Španělsko",
+        "Laos",
+        "Švédsko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hotel Sacher",
+      "values": [
+        "Arménie",
+        "Lotyšsko",
+        "Irák",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rundāle",
+      "values": [
+        "Lotyšsko",
+        "Česko",
+        "Rakousko",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chor Virap",
+      "values": [
+        "Arménie",
+        "Ukrajina",
+        "Irák",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gorki Leninskije",
+      "values": [
+        "Laos",
+        "Švédsko",
+        "Rusko",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

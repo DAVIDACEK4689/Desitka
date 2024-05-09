@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Pizza",
+      "values": [
+        "švýcarskou",
+        "italskou",
+        "arabskou",
+        "středomořskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Italská kuchyně",
+      "values": [
+        "brazilskou",
+        "středomořskou",
+        "rakouskou",
+        "indickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Maggi",
+      "values": [
+        "rakouskou",
+        "švýcarskou",
+        "balkánskou",
+        "vietnamskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tatratea",
+      "values": [
+        "řeckou",
+        "rakouskou",
+        "švédskou",
+        "slovenskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Metaxa",
+      "values": [
+        "polskou",
+        "vietnamskou",
+        "řeckou",
+        "českou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Saturejka",
+      "values": [
+        "rakouskou",
+        "anglickou",
+        "řeckou",
+        "balkánskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mozartovy koule",
+      "values": [
+        "brazilskou",
+        "vietnamskou",
+        "rakouskou",
+        "balkánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Koprová omáčka",
+      "values": [
+        "indickou",
+        "českou",
+        "japonskou",
+        "arabskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pastrami",
+      "values": [
+        "židovskou",
+        "indickou",
+        "arménskou",
+        "maďarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vídeňská káva",
+      "values": [
+        "ruskou",
+        "islandskou",
+        "rakouskou",
+        "řeckou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

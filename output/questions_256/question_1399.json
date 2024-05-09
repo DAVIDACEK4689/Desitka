@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte oblast podle ptáka",
+  "questions": [
+    {
+      "key": "Vrabec domácí",
+      "values": [
+        "Antarktida",
+        "Jižní Amerika",
+        "celosvětové rozšíření",
+        "Jižní oceán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jeřáb popelavý",
+      "values": [
+        "Střední Amerika",
+        "Tichý oceán",
+        "Atlantský oceán",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Albatros stěhovavý",
+      "values": [
+        "Atlantský oceán",
+        "Orientální oblast",
+        "Antarktida",
+        "Jižní oceán"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Žluna šedá",
+      "values": [
+        "celosvětové rozšíření",
+        "Afrika",
+        "Střední Amerika",
+        "Orientální oblast"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sýc rousný",
+      "values": [
+        "Severní Amerika",
+        "celosvětové rozšíření",
+        "Tichý oceán",
+        "Jižní oceán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Amazoňan modročelý",
+      "values": [
+        "Jižní oceán",
+        "Střední Amerika",
+        "Atlantský oceán",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kajka mořská",
+      "values": [
+        "Severní Amerika",
+        "Střední Amerika",
+        "Jižní oceán",
+        "Atlantský oceán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ibis posvátný",
+      "values": [
+        "Tichý oceán",
+        "Jižní Amerika",
+        "Střední Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Papoušík růžohrdlý",
+      "values": [
+        "celosvětové rozšíření",
+        "Severní Amerika",
+        "Střední Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lžičák pestrý",
+      "values": [
+        "Střední Amerika",
+        "Afrika",
+        "Severní Amerika",
+        "Atlantský oceán"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

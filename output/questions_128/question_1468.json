@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Bobby Charlton",
+      "values": [
+        "anglického",
+        "francouzského",
+        "slovinského",
+        "lucemburského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gerd Müller",
+      "values": [
+        "gruzínského",
+        "zimbabwského",
+        "dánského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Theo Hernández",
+      "values": [
+        "albánského",
+        "francouzského",
+        "zimbabwského",
+        "chilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Graham Potter",
+      "values": [
+        "nizozemského",
+        "kosovského",
+        "anglického",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Franco Baresi",
+      "values": [
+        "lucemburského",
+        "rumunského",
+        "islandského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Došek",
+      "values": [
+        "ruského",
+        "nizozemského",
+        "kamerunského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vincent Aboubakar",
+      "values": [
+        "skotského",
+        "kamerunského",
+        "ruského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Salvatore Schillaci",
+      "values": [
+        "portugalského",
+        "italského",
+        "slovinského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dušan Galis",
+      "values": [
+        "venezuelského",
+        "slovenského",
+        "islandského",
+        "mongolského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Éric Abidal",
+      "values": [
+        "slovinského",
+        "českého",
+        "francouzského",
+        "baskického"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

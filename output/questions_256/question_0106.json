@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle bitvy",
+  "questions": [
+    {
+      "key": "Vylodění v Normandii",
+      "values": [
+        "Rakousko",
+        "Nový Zéland",
+        "Norsko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva o Narvik",
+      "values": [
+        "Itálie",
+        "habsburská monarchie",
+        "starověký Řím",
+        "Norsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Švédské obléhání Prahy",
+      "values": [
+        "Česko",
+        "starověký Řek",
+        "Rakouské císařství",
+        "Japonsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Jankova",
+      "values": [
+        "Mexiko",
+        "Švédsko",
+        "Norsko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Tachova",
+      "values": [
+        "Rusko",
+        "Nizozemsko",
+        "Anglie",
+        "Španělsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva o Řecko",
+      "values": [
+        "starověký Řím",
+        "Irák",
+        "Rakousko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva na řece Kalce",
+      "values": [
+        "starověký Řím",
+        "Byzanc",
+        "Rusko",
+        "Indie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Milvijského mostu",
+      "values": [
+        "Rusko",
+        "Itálie",
+        "Nový Zéland",
+        "starověký Řím"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Farsálu",
+      "values": [
+        "Skotsko",
+        "Nizozemsko",
+        "Spojené království",
+        "starověký Řím"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Filipp",
+      "values": [
+        "starověký Řím",
+        "Itálie",
+        "Rakouské císařství",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

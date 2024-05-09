@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Marilyn Monroe",
+      "values": [
+        "maďarskou",
+        "moldavskou",
+        "portugalskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miluše Voborníková",
+      "values": [
+        "českou",
+        "rumunskou",
+        "izraelskou",
+        "mexickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Courtney Love",
+      "values": [
+        "uruguayskou",
+        "americkou",
+        "švýcarskou",
+        "japonskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vlasta Parkanová",
+      "values": [
+        "ruskou",
+        "chorvatskou",
+        "českou",
+        "portugalskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Věra Vlková",
+      "values": [
+        "českou",
+        "slovenskou",
+        "finskou",
+        "irskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kesha",
+      "values": [
+        "českou",
+        "americkou",
+        "izraelskou",
+        "polskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bette Midler",
+      "values": [
+        "nizozemskou",
+        "japonskou",
+        "švédskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Becky Hill",
+      "values": [
+        "britskou",
+        "kanadskou",
+        "mexickou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavla Forest",
+      "values": [
+        "kolumbijskou",
+        "nizozemskou",
+        "českou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anna Jantar",
+      "values": [
+        "finskou",
+        "srbskou",
+        "polskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

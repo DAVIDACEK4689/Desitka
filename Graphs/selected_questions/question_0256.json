@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Ondřej Gregor Brzobohatý",
+      "values": [
+        "českého",
+        "amerického",
+        "kanadského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miroslav Žbirka",
+      "values": [
+        "rakouského",
+        "švédského",
+        "italského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Richard Wagner",
+      "values": [
+        "maďarského",
+        "francouzského",
+        "německého",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hans Zimmer",
+      "values": [
+        "německého",
+        "maďarského",
+        "rakouského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Loreen",
+      "values": [
+        "českého",
+        "německého",
+        "švédského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Björn Ulvaeus",
+      "values": [
+        "italského",
+        "maďarského",
+        "polského",
+        "švédského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nick Jonas",
+      "values": [
+        "rakouského",
+        "francouzského",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Enya",
+      "values": [
+        "italského",
+        "irského",
+        "maďarského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Antonio Salieri",
+      "values": [
+        "slovenského",
+        "amerického",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Niccolò Paganini",
+      "values": [
+        "italského",
+        "maďarského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

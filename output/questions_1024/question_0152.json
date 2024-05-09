@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Sparta",
+      "values": [
+        "Brazílie",
+        "Řecko",
+        "Jihoafrická republika",
+        "Senegal"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Santiago de Compostela",
+      "values": [
+        "Kazachstán",
+        "Španělsko",
+        "Irák",
+        "Finsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bangkok",
+      "values": [
+        "Španělsko",
+        "Maroko",
+        "Thajsko",
+        "Litva"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vilnius",
+      "values": [
+        "Indonésie",
+        "Litva",
+        "Nový Zéland",
+        "Nigérie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nesebar",
+      "values": [
+        "Indonésie",
+        "Grónsko",
+        "Bulharsko",
+        "Sýrie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Narvik",
+      "values": [
+        "Slovensko",
+        "Kypr",
+        "Chorvatsko",
+        "Norsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dillí",
+      "values": [
+        "Indie",
+        "Japonsko",
+        "Nigérie",
+        "Irák"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Trogir",
+      "values": [
+        "Chorvatsko",
+        "Nigérie",
+        "Gruzie",
+        "Belgie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pretorie",
+      "values": [
+        "Jihoafrická republika",
+        "Řecko",
+        "Írán",
+        "Albánie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dakar",
+      "values": [
+        "Jihoafrická republika",
+        "Malta",
+        "Senegal",
+        "Portugalsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

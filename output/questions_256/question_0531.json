@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] lékaře?",
+  "questions": [
+    {
+      "key": "Jan Evangelista Purkyně",
+      "values": [
+        "českého",
+        "ruského",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vinzenz Priessnitz",
+      "values": [
+        "českého",
+        "britského",
+        "kanadského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vavro Šrobár",
+      "values": [
+        "francouzského",
+        "italského",
+        "ruského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Hnízdil",
+      "values": [
+        "německého",
+        "slovenského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Harold Shipman",
+      "values": [
+        "ruského",
+        "italského",
+        "britského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eduard Bloch",
+      "values": [
+        "českého",
+        "slovenského",
+        "rakouského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Christiaan Barnard",
+      "values": [
+        "izraelského",
+        "jihoafrického",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Helcelet",
+      "values": [
+        "českého",
+        "brazilského",
+        "rakouského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Milan Brázdil",
+      "values": [
+        "německého",
+        "jihoafrického",
+        "českého",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Raymond Moody",
+      "values": [
+        "polského",
+        "ruského",
+        "amerického",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

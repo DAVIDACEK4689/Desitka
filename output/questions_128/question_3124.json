@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Francisco Franco",
+      "values": [
+        "turkmenského",
+        "španělského",
+        "českého",
+        "tureckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Hannig",
+      "values": [
+        "britského",
+        "bosenského",
+        "eritrejského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rezá Šáh Pahlaví",
+      "values": [
+        "estonského",
+        "belgického",
+        "maďarského",
+        "íránského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Norodom Sihanuk",
+      "values": [
+        "argentinského",
+        "kambodžského",
+        "italského",
+        "venezuelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Peter Colotka",
+      "values": [
+        "madagaskarského",
+        "britského",
+        "slovenského",
+        "eritrejského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ralph Nader",
+      "values": [
+        "panamského",
+        "rakouského",
+        "amerického",
+        "islandského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ayaan Hirsi Aliová",
+      "values": [
+        "libanonského",
+        "palestinského",
+        "salvadorského",
+        "nizozemského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "James Parkinson",
+      "values": [
+        "litevského",
+        "albánského",
+        "haitského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Valentina Matvijenková",
+      "values": [
+        "turkmenského",
+        "singapurského",
+        "egyptského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vitalij Konstantinovič Kalojev",
+      "values": [
+        "ruského",
+        "švýcarského",
+        "dominikánského",
+        "pákistánského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

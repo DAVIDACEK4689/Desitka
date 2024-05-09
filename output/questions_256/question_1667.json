@@ -1,0 +1,105 @@
+{
+  "text": "Určete město podle kultury",
+  "questions": [
+    {
+      "key": "Live Aid",
+      "values": [
+        "Tel Aviv",
+        "Brusel",
+        "Lisabon",
+        "Londýn"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zakázané město",
+      "values": [
+        "Peking",
+        "Jeruzalém",
+        "Londýn",
+        "Tel Aviv"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Národní knihovna Izraele",
+      "values": [
+        "Amsterdam",
+        "Dublin",
+        "Ósaka",
+        "Jeruzalém"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Světová výstava 1958",
+      "values": [
+        "Stockholm",
+        "Dublin",
+        "Peking",
+        "Brusel"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "The Guardian",
+      "values": [
+        "Jeruzalém",
+        "Ósaka",
+        "Londýn",
+        "Lisabon"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Thin Lizzy",
+      "values": [
+        "Peking",
+        "Lisabon",
+        "Paříž",
+        "Dublin"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "The Times",
+      "values": [
+        "Londýn",
+        "Kodaň",
+        "Tel Aviv",
+        "Brusel"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eurovision Song Contest 2018",
+      "values": [
+        "Tel Aviv",
+        "Ósaka",
+        "Tokio",
+        "Lisabon"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zábavní park Tivoli",
+      "values": [
+        "Ósaka",
+        "Londýn",
+        "Peking",
+        "Kodaň"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Avicii Arena",
+      "values": [
+        "Stockholm",
+        "Dublin",
+        "Londýn",
+        "Peking"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

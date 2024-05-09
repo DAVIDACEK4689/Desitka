@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotografa?",
+  "questions": [
+    {
+      "key": "Ivo Lukačovič",
+      "values": [
+        "českého",
+        "německého",
+        "italského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Heinrich Harrer",
+      "values": [
+        "rakouského",
+        "jihoafrického",
+        "vietnamského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tono Stano",
+      "values": [
+        "slovenského",
+        "amerického",
+        "rakouského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Yves Klein",
+      "values": [
+        "kanadského",
+        "brazilského",
+        "vietnamského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nadar",
+      "values": [
+        "francouzského",
+        "amerického",
+        "rumunského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mojmír Preclík",
+      "values": [
+        "českého",
+        "maďarského",
+        "švédského",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Artur Kraus",
+      "values": [
+        "českého",
+        "kanadského",
+        "německého",
+        "lucemburského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michal Pěchouček",
+      "values": [
+        "dánského",
+        "lucemburského",
+        "českého",
+        "jihoafrického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Romek Hanzlík",
+      "values": [
+        "českého",
+        "nizozemského",
+        "brazilského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Inge Morathová",
+      "values": [
+        "rakouského",
+        "kanadského",
+        "maďarského",
+        "kubánského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

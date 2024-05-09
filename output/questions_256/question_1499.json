@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle ekonomiky",
+  "questions": [
+    {
+      "key": "Sapa",
+      "values": [
+        "Rusko",
+        "Polsko",
+        "Slovensko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Asijští tygři",
+      "values": [
+        "Polsko",
+        "Kazachstán",
+        "Slovensko",
+        "Jižní Korea"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Východoevropský oligarcha",
+      "values": [
+        "Kazachstán",
+        "Česko",
+        "Rusko",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Evropská energetická burza",
+      "values": [
+        "Rakousko",
+        "Polsko",
+        "Německo",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Burza cenných papírů Praha",
+      "values": [
+        "Česko",
+        "Kazachstán",
+        "Polsko",
+        "Finsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tulipánová horečka",
+      "values": [
+        "Německo",
+        "Rusko",
+        "Nizozemsko",
+        "Jižní Korea"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "DAX",
+      "values": [
+        "Německo",
+        "Finsko",
+        "Spojené království",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Boxing Day",
+      "values": [
+        "Jižní Korea",
+        "Spojené království",
+        "Kazachstán",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tenge",
+      "values": [
+        "Kazachstán",
+        "Česko",
+        "Rusko",
+        "Finsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Čebol",
+      "values": [
+        "Finsko",
+        "Kazachstán",
+        "Jižní Korea",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

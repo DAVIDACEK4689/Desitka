@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Volodymyr Zelenskyj",
+      "values": [
+        "íránského",
+        "francouzského",
+        "ukrajinského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Martin Růžek",
+      "values": [
+        "českého",
+        "ukrajinského",
+        "australského",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Plachý starší",
+      "values": [
+        "českého",
+        "íránského",
+        "italského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David Vondráček",
+      "values": [
+        "švýcarského",
+        "českého",
+        "slovenského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dan Svátek",
+      "values": [
+        "rakouského",
+        "maďarského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dennis Hopper",
+      "values": [
+        "ruského",
+        "německého",
+        "amerického",
+        "hongkongského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Radúz Činčera",
+      "values": [
+        "australského",
+        "českého",
+        "britského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "LeVar Burton",
+      "values": [
+        "hongkongského",
+        "maďarského",
+        "amerického",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alejandro González Iñárritu",
+      "values": [
+        "finského",
+        "japonského",
+        "mexického",
+        "chorvatského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Philippe Garrel",
+      "values": [
+        "českého",
+        "sovětského",
+        "francouzského",
+        "hongkongského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

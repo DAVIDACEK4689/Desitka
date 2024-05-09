@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] videohru?",
+  "questions": [
+    {
+      "key": "League of Legends",
+      "values": [
+        "britskou",
+        "jihokorejskou",
+        "americkou",
+        "čínskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Red Dead Redemption",
+      "values": [
+        "německou",
+        "běloruskou",
+        "americkou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Final Fantasy",
+      "values": [
+        "americkou",
+        "švédskou",
+        "finskou",
+        "japonskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Atomic Heart",
+      "values": [
+        "německou",
+        "ruskou",
+        "běloruskou",
+        "dánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "The Elder Scrolls",
+      "values": [
+        "ruskou",
+        "čínskou",
+        "jihokorejskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Horizon Zero Dawn",
+      "values": [
+        "kanadskou",
+        "německou",
+        "nizozemskou",
+        "švédskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Elektronika IM",
+      "values": [
+        "rakouskou",
+        "dánskou",
+        "polskou",
+        "ruskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Crysis",
+      "values": [
+        "čínskou",
+        "německou",
+        "americkou",
+        "nizozemskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Smite",
+      "values": [
+        "německou",
+        "ruskou",
+        "americkou",
+        "běloruskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Forza Horizon 5",
+      "values": [
+        "britskou",
+        "slovenskou",
+        "ruskou",
+        "kanadskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

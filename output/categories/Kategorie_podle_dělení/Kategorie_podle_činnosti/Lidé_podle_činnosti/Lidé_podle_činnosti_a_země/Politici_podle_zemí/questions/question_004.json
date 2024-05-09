@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Reinhard Heydrich",
+      "values": [
+        "polského",
+        "německého",
+        "běloruského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joseph Goebbels",
+      "values": [
+        "německého",
+        "slovenského",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ramzan Kadyrov",
+      "values": [
+        "rumunského",
+        "sovětského",
+        "ukrajinského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nicolae Ceaușescu",
+      "values": [
+        "rumunského",
+        "chilského",
+        "tureckého",
+        "indického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ursula von der Leyenová",
+      "values": [
+        "polského",
+        "slovenského",
+        "německého",
+        "indického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Boris Kollár",
+      "values": [
+        "slovenského",
+        "španělského",
+        "libyjského",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "John Wayne Gacy",
+      "values": [
+        "amerického",
+        "italského",
+        "ruského",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rudí Khmerové",
+      "values": [
+        "tureckého",
+        "kambodžského",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Niccolò Machiavelli",
+      "values": [
+        "italského",
+        "slovenského",
+        "sovětského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Maximilien Robespierre",
+      "values": [
+        "kambodžského",
+        "francouzského",
+        "indického",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

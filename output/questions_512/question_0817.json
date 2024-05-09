@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte spisovatele podle literárního díla",
+  "questions": [
+    {
+      "key": "Farma zvířat",
+      "values": [
+        "Alexandr Sergejevič Puškin",
+        "Victor Hugo",
+        "Roald Dahl",
+        "George Orwell"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bídníci",
+      "values": [
+        "Alexandr Sergejevič Puškin",
+        "Martin Luther",
+        "Hans Christian Andersen",
+        "Victor Hugo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oliver Twist",
+      "values": [
+        "George Gordon Byron",
+        "Charles Dickens",
+        "Friedrich Schiller",
+        "Alexandr Sergejevič Puškin"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karlík a továrna na čokoládu",
+      "values": [
+        "George Gordon Byron",
+        "Roald Dahl",
+        "Oscar Wilde",
+        "Friedrich Schiller"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Taras Bulba",
+      "values": [
+        "Nikolaj Vasiljevič Gogol",
+        "Dante Alighieri",
+        "Fjodor Michajlovič Dostojevskij",
+        "Friedrich Schiller"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Orbis pictus",
+      "values": [
+        "George Orwell",
+        "George Gordon Byron",
+        "Jan Amos Komenský",
+        "Stephen King"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "95 tezí",
+      "values": [
+        "George Orwell",
+        "Friedrich Nietzsche",
+        "Martin Luther",
+        "Stephen King"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dobrodružství Huckleberryho Finna",
+      "values": [
+        "Hans Christian Andersen",
+        "Nikolaj Vasiljevič Gogol",
+        "Mark Twain",
+        "Johann Wolfgang von Goethe"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mrtvé duše",
+      "values": [
+        "Charles Dickens",
+        "Roald Dahl",
+        "Mark Twain",
+        "Nikolaj Vasiljevič Gogol"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Didactica magna",
+      "values": [
+        "Roald Dahl",
+        "Victor Hugo",
+        "Jan Amos Komenský",
+        "George Orwell"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] hudebního producenta?",
+  "questions": [
+    {
+      "key": "Michael Jackson",
+      "values": [
+        "kanadského",
+        "italského",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tupac Shakur",
+      "values": [
+        "italského",
+        "švédského",
+        "řeckého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Snoop Dogg",
+      "values": [
+        "řeckého",
+        "britského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Travis Scott",
+      "values": [
+        "britského",
+        "německého",
+        "řeckého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roman Holý",
+      "values": [
+        "slovenského",
+        "českého",
+        "švédského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivan Král",
+      "values": [
+        "amerického",
+        "německého",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stevie Wonder",
+      "values": [
+        "německého",
+        "italského",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marshmello",
+      "values": [
+        "řeckého",
+        "francouzského",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vangelis",
+      "values": [
+        "italského",
+        "britského",
+        "slovenského",
+        "řeckého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michael Stipe",
+      "values": [
+        "švédského",
+        "amerického",
+        "německého",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

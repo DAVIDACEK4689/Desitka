@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] evropského podnikatele?",
+  "questions": [
+    {
+      "key": "Bernard Arnault",
+      "values": [
+        "španělského",
+        "českého",
+        "nizozemského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alois Hadamczik",
+      "values": [
+        "běloruského",
+        "litevského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Richard Branson",
+      "values": [
+        "nizozemského",
+        "litevského",
+        "britského",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Baudiš",
+      "values": [
+        "dánského",
+        "polského",
+        "českého",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zdeněk Jandejsek",
+      "values": [
+        "rakouského",
+        "švýcarského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Bělica",
+      "values": [
+        "polského",
+        "řeckého",
+        "českého",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Friedrich Wannieck",
+      "values": [
+        "německého",
+        "ruského",
+        "rakouského",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Víťazoslav Moric",
+      "values": [
+        "monackého",
+        "slovenského",
+        "ruského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adam Opel",
+      "values": [
+        "českého",
+        "slovinského",
+        "německého",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Serge Borenstein",
+      "values": [
+        "českého",
+        "belgického",
+        "italského",
+        "britského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

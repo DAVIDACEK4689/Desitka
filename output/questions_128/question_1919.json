@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] letce?",
+  "questions": [
+    {
+      "key": "Carroll Shelby",
+      "values": [
+        "amerického",
+        "sovětského",
+        "německého",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jim Lovell",
+      "values": [
+        "italského",
+        "československého",
+        "amerického",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ezer Weizman",
+      "values": [
+        "německého",
+        "izraelského",
+        "britského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Balík",
+      "values": [
+        "československého",
+        "sovětského",
+        "izraelského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Thomas Mattingly",
+      "values": [
+        "československého",
+        "amerického",
+        "izraelského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Otto Lilienthal",
+      "values": [
+        "rakouského",
+        "britského",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Apollo Soucek",
+      "values": [
+        "izraelského",
+        "amerického",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Roman Mikulec",
+      "values": [
+        "slovenského",
+        "francouzského",
+        "amerického",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Richard Halsey Best",
+      "values": [
+        "rakouského",
+        "italského",
+        "amerického",
+        "československého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roger Bruce Chaffee",
+      "values": [
+        "izraelského",
+        "amerického",
+        "sovětského",
+        "britského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

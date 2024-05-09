@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle českého sportovce",
+  "questions": [
+    {
+      "key": "David Pastrňák",
+      "values": [
+        "horolezec",
+        "šachista",
+        "jezdec",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Plekanec",
+      "values": [
+        "basketbalista",
+        "šachista",
+        "lední hokejista",
+        "golfista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jakub Vágner",
+      "values": [
+        "ragbista",
+        "horolezec",
+        "basketbalista",
+        "rybář"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ivan Lendl",
+      "values": [
+        "jezdec",
+        "tenista",
+        "lední hokejista",
+        "golfista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lukáš Krpálek",
+      "values": [
+        "judista",
+        "akrobatický letec",
+        "bojový umělec",
+        "fotbalista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ondřej Pavelec",
+      "values": [
+        "zápasník",
+        "tenista",
+        "akrobatický letec",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Nečas",
+      "values": [
+        "bojový umělec",
+        "lední hokejista",
+        "zápasník",
+        "fotbalista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ondřej Palát",
+      "values": [
+        "akrobatický letec",
+        "lední hokejista",
+        "rybář",
+        "judista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Roman Staněk",
+      "values": [
+        "boxer",
+        "automobilový závodník",
+        "šachista",
+        "judista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adam Pavlásek",
+      "values": [
+        "zápasník",
+        "rybář",
+        "basketbalista",
+        "tenista"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

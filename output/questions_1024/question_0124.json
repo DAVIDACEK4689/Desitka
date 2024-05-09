@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] hudební skupinu?",
+  "questions": [
+    {
+      "key": "The Kelly Family",
+      "values": [
+        "německou",
+        "britskou",
+        "jihokorejskou",
+        "jihoafrickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Scorpions",
+      "values": [
+        "irskou",
+        "českou",
+        "švédskou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "The Prodigy",
+      "values": [
+        "britskou",
+        "irskou",
+        "německou",
+        "jihoafrickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stray Kids",
+      "values": [
+        "českou",
+        "irskou",
+        "jihokorejskou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "The Cranberries",
+      "values": [
+        "americkou",
+        "německou",
+        "švédskou",
+        "irskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ricchi e Poveri",
+      "values": [
+        "americkou",
+        "švédskou",
+        "jihokorejskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Little Big",
+      "values": [
+        "irskou",
+        "švédskou",
+        "ruskou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ready Kirken",
+      "values": [
+        "ruskou",
+        "jihoafrickou",
+        "britskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Die Antwoord",
+      "values": [
+        "italskou",
+        "jihoafrickou",
+        "švédskou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alphaville",
+      "values": [
+        "italskou",
+        "britskou",
+        "německou",
+        "irskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

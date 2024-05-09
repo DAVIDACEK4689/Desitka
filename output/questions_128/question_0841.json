@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Neapol",
+      "values": [
+        "Kamerun",
+        "Indonésie",
+        "Barbados",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladivostok",
+      "values": [
+        "Togo",
+        "Rusko",
+        "Ukrajina",
+        "Libanon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Larnaka",
+      "values": [
+        "Gabon",
+        "Dánsko",
+        "Kypr",
+        "Nizozemsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tanger",
+      "values": [
+        "Kamerun",
+        "Maroko",
+        "Sýrie",
+        "Lotyšsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Budva",
+      "values": [
+        "Guinea",
+        "Rumunsko",
+        "Barbados",
+        "Černá Hora"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Safaga",
+      "values": [
+        "Irsko",
+        "Egypt",
+        "Libérie",
+        "Tunisko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Maracaibo",
+      "values": [
+        "Estonsko",
+        "Venezuela",
+        "Polsko",
+        "Malta"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sassnitz",
+      "values": [
+        "Maroko",
+        "Sýrie",
+        "Západní Sahara",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Reni",
+      "values": [
+        "Libye",
+        "Ukrajina",
+        "Černá Hora",
+        "Ekvádor"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kagošima",
+      "values": [
+        "Norsko",
+        "Uruguay",
+        "Kypr",
+        "Japonsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

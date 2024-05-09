@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Bud Spencer",
+      "values": [
+        "portorického",
+        "italského",
+        "irského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hugo Haas",
+      "values": [
+        "německého",
+        "australského",
+        "českého",
+        "mexického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miloš Hlavica",
+      "values": [
+        "malajsijského",
+        "venezuelského",
+        "jihoafrického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Otomar Krejča",
+      "values": [
+        "italského",
+        "českého",
+        "švédského",
+        "guatemalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "John Candy",
+      "values": [
+        "kanadského",
+        "portorického",
+        "jihoafrického",
+        "australského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Hálek",
+      "values": [
+        "indického",
+        "izraelského",
+        "švýcarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nikita Michalkov",
+      "values": [
+        "malajsijského",
+        "ruského",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jon Favreau",
+      "values": [
+        "čínského",
+        "belgického",
+        "mexického",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Franciszek Pieczka",
+      "values": [
+        "malajsijského",
+        "španělského",
+        "brazilského",
+        "polského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jozef Vajda",
+      "values": [
+        "mexického",
+        "slovenského",
+        "švédského",
+        "tureckého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle státního symbolu",
+  "questions": [
+    {
+      "key": "Varan komodský",
+      "values": [
+        "Indonésie",
+        "Rusko",
+        "Maďarsko",
+        "Izrael"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Páv korunkatý",
+      "values": [
+        "Indie",
+        "Severní Kypr",
+        "Rusko",
+        "Pákistán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Řád čestné legie",
+      "values": [
+        "Švýcarsko",
+        "Francie",
+        "Indie",
+        "Vatikán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Britské korunovační klenoty",
+      "values": [
+        "Izrael",
+        "Spojené království",
+        "Bělorusko",
+        "Jižní Korea"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hymna Spojeného království",
+      "values": [
+        "Myanmar",
+        "Nový Zéland",
+        "Severní Kypr",
+        "Francie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Říšská orlice",
+      "values": [
+        "Česká republika",
+        "Německo",
+        "Rusko",
+        "Japonsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Turul",
+      "values": [
+        "Pákistán",
+        "Maďarsko",
+        "Izrael",
+        "Německo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kanaánský pes",
+      "values": [
+        "Izrael",
+        "Nový Zéland",
+        "Spojené království",
+        "Japonsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "José de San Martín",
+      "values": [
+        "Pákistán",
+        "Indie",
+        "Argentina",
+        "Maďarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chryzantémový trůn",
+      "values": [
+        "Japonsko",
+        "Německo",
+        "Vatikán",
+        "Švýcarsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

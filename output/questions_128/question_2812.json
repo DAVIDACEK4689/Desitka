@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Vilém Mrštík",
+      "values": [
+        "albánského",
+        "českého",
+        "jihoafrického",
+        "čínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Rokycana",
+      "values": [
+        "novozélandského",
+        "českého",
+        "egyptského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vladimir Sorokin",
+      "values": [
+        "egyptského",
+        "českého",
+        "novozélandského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "John Boyne",
+      "values": [
+        "irského",
+        "estonského",
+        "kolumbijského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lawrence Durrell",
+      "values": [
+        "finského",
+        "britského",
+        "rumunského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bernhard Schlink",
+      "values": [
+        "polského",
+        "maďarského",
+        "černohorského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chinua Achebe",
+      "values": [
+        "tureckého",
+        "německého",
+        "nigerijského",
+        "litevského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michael Haneke",
+      "values": [
+        "norského",
+        "amerického",
+        "rakouského",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Péter Esterházy",
+      "values": [
+        "maďarského",
+        "amerického",
+        "libanonského",
+        "jihoafrického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Roman Michelko",
+      "values": [
+        "rumunského",
+        "slovenského",
+        "nizozemského",
+        "chilského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

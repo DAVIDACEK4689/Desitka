@@ -1,0 +1,105 @@
+{
+  "text": "Určete rok podle konfliktu",
+  "questions": [
+    {
+      "key": "Anexe Krymu Ruskou federací",
+      "values": [
+        "2014",
+        "1999",
+        "2010",
+        "1990"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Druhá válka o Náhorní Karabach",
+      "values": [
+        "2005",
+        "2012",
+        "2020",
+        "1992"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oranžová revoluce",
+      "values": [
+        "2017",
+        "2020",
+        "2004",
+        "1992"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vojenská intervence v Libyi",
+      "values": [
+        "2010",
+        "2011",
+        "2020",
+        "2006"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rumunská revoluce",
+      "values": [
+        "2001",
+        "1992",
+        "1989",
+        "2006"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Blokáda Pásma Gazy",
+      "values": [
+        "1989",
+        "1990",
+        "2007",
+        "1995"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva o Ilovajsk",
+      "values": [
+        "2012",
+        "2014",
+        "2011",
+        "1999"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Operace Pilíř obrany",
+      "values": [
+        "1990",
+        "2001",
+        "1995",
+        "2012"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Operace Štít a šíp",
+      "values": [
+        "2023",
+        "2006",
+        "1992",
+        "1991"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Izraelský zásah proti konvoji do Pásma Gazy",
+      "values": [
+        "1992",
+        "2006",
+        "2014",
+        "2010"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

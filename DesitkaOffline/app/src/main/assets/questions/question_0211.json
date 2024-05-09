@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fyzika?",
+  "questions": [
+    {
+      "key": "Stephen Hawking",
+      "values": [
+        "francouzského",
+        "českého",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Galileo Galilei",
+      "values": [
+        "dánského",
+        "rakouského",
+        "britského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Werner Heisenberg",
+      "values": [
+        "italského",
+        "německého",
+        "amerického",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "René Descartes",
+      "values": [
+        "dánského",
+        "amerického",
+        "francouzského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Prokop Diviš",
+      "values": [
+        "italského",
+        "českého",
+        "rakouského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Benjamin Franklin",
+      "values": [
+        "amerického",
+        "rakouského",
+        "francouzského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Blaise Pascal",
+      "values": [
+        "britského",
+        "francouzského",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Frank Oppenheimer",
+      "values": [
+        "britského",
+        "českého",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pierre Curie",
+      "values": [
+        "německého",
+        "amerického",
+        "francouzského",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Richard Feynman",
+      "values": [
+        "německého",
+        "dánského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle regionu",
+  "questions": [
+    {
+      "key": "Azory",
+      "values": [
+        "Dánsko",
+        "Turecko",
+        "Portugalsko",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Toskánsko",
+      "values": [
+        "Belgie",
+        "Etiopie",
+        "Itálie",
+        "Turecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Normandie",
+      "values": [
+        "Etiopie",
+        "Francie",
+        "Dánsko",
+        "Turecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lombardie",
+      "values": [
+        "Etiopie",
+        "Argentina",
+        "Itálie",
+        "Belgie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kampánie",
+      "values": [
+        "Dánsko",
+        "Francie",
+        "Portugalsko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Benátsko",
+      "values": [
+        "Argentina",
+        "Francie",
+        "Itálie",
+        "Belgie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bruselský region",
+      "values": [
+        "Turecko",
+        "Argentina",
+        "Belgie",
+        "Dánsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Valonsko",
+      "values": [
+        "Belgie",
+        "Itálie",
+        "Portugalsko",
+        "Dánsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Umbrie",
+      "values": [
+        "Turecko",
+        "Itálie",
+        "Argentina",
+        "Francie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gran Chaco",
+      "values": [
+        "Dánsko",
+        "Portugalsko",
+        "Turecko",
+        "Argentina"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

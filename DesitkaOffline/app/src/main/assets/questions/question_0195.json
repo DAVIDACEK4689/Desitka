@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte kontinent podle fauny",
+  "questions": [
+    {
+      "key": "Kapybara",
+      "values": [
+        "Afrika",
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Antarktida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sršeň asijská",
+      "values": [
+        "Evropa",
+        "Antarktida",
+        "Jižní Amerika",
+        "Asie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Varan komodský",
+      "values": [
+        "Afrika",
+        "Asie",
+        "Jižní Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Anakonda velká",
+      "values": [
+        "Antarktida",
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Asie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fenek",
+      "values": [
+        "Asie",
+        "Afrika",
+        "Jižní Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Medvěd kodiak",
+      "values": [
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Evropa",
+        "Asie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Krokodýl mořský",
+      "values": [
+        "Jižní Amerika",
+        "Evropa",
+        "Asie",
+        "Severní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Medvěd baribal",
+      "values": [
+        "Antarktida",
+        "Afrika",
+        "Jižní Amerika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nosorožec tuponosý",
+      "values": [
+        "Afrika",
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pralesnička strašná",
+      "values": [
+        "Jižní Amerika",
+        "Severní Amerika",
+        "Evropa",
+        "Antarktida"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

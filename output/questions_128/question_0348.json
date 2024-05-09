@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva u Sudoměře",
+      "values": [
+        "1938",
+        "2024",
+        "1697",
+        "1420"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Malešova",
+      "values": [
+        "1663",
+        "1435",
+        "1853",
+        "1424"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Wagramu",
+      "values": [
+        "1302",
+        "1212",
+        "1191",
+        "1809"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva o Mykolajiv",
+      "values": [
+        "1605",
+        "2022",
+        "1426",
+        "1437"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Operace Uran",
+      "values": [
+        "1789",
+        "1704",
+        "1618",
+        "1942"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Stirlingského mostu",
+      "values": [
+        "1853",
+        "1187",
+        "1297",
+        "1176"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva o Pointe du Hoc",
+      "values": [
+        "1806",
+        "1709",
+        "1944",
+        "1620"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Berestečka",
+      "values": [
+        "1651",
+        "1461",
+        "849",
+        "1632"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Bratislavy",
+      "values": [
+        "1525",
+        "1242",
+        "1420",
+        "907"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Quiberonu",
+      "values": [
+        "1742",
+        "2001",
+        "1647",
+        "1759"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

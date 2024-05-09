@@ -1,0 +1,105 @@
+{
+  "text": "Určete etnický původ podle Čecha",
+  "questions": [
+    {
+      "key": "Josef Abrhám",
+      "values": [
+        "asijský původ",
+        "slovenský původ",
+        "polský původ",
+        "srbský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tünde Bartha",
+      "values": [
+        "maďarský původ",
+        "syrský původ",
+        "vietnamský původ",
+        "italský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Aiko",
+      "values": [
+        "makedonský původ",
+        "francouzský původ",
+        "kanadský původ",
+        "ruský původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tary",
+      "values": [
+        "syrský původ",
+        "srbský původ",
+        "ruský původ",
+        "ukrajinský původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Cina",
+      "values": [
+        "ruský původ",
+        "asijský původ",
+        "kanadský původ",
+        "syrský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Herbert Masaryk",
+      "values": [
+        "vietnamský původ",
+        "ruský původ",
+        "francouzský původ",
+        "řecký původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bohumil Klepl",
+      "values": [
+        "arménský původ",
+        "asijský původ",
+        "syrský původ",
+        "vietnamský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hayato Okamura",
+      "values": [
+        "japonský původ",
+        "asijský původ",
+        "britský původ",
+        "vietnamský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Osamu Okamura",
+      "values": [
+        "francouzský původ",
+        "polský původ",
+        "japonský původ",
+        "vietnamský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Joachim Barrande",
+      "values": [
+        "vietnamský původ",
+        "italský původ",
+        "srbský původ",
+        "francouzský původ"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

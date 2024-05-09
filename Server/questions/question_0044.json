@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Istanbul",
+      "values": [
+        "Belgie",
+        "Německo",
+        "Turecko",
+        "Nigérie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Málaga",
+      "values": [
+        "Nigérie",
+        "Španělsko",
+        "Jihoafrická republika",
+        "Finsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oslo",
+      "values": [
+        "Chorvatsko",
+        "Izrael",
+        "Albánie",
+        "Norsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Syrakusy",
+      "values": [
+        "Itálie",
+        "Francie",
+        "Polsko",
+        "Dánsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Antalya",
+      "values": [
+        "Lotyšsko",
+        "Turecko",
+        "Finsko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vladivostok",
+      "values": [
+        "Maroko",
+        "Bulharsko",
+        "Norsko",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Palma de Mallorca",
+      "values": [
+        "Německo",
+        "Argentina",
+        "Španělsko",
+        "Indonésie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mariupol",
+      "values": [
+        "Švýcarsko",
+        "Nigérie",
+        "Japonsko",
+        "Ukrajina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Malmö",
+      "values": [
+        "Chorvatsko",
+        "Švédsko",
+        "Norsko",
+        "Bulharsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gent",
+      "values": [
+        "Finsko",
+        "Irsko",
+        "Ázerbájdžán",
+        "Belgie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

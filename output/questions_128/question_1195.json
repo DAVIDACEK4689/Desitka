@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Cizrna",
+      "values": [
+        "Madagaskar",
+        "Austrálie",
+        "Mongolsko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bledule",
+      "values": [
+        "Japonsko",
+        "Mongolsko",
+        "Nový Zéland",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hlaváček jarní",
+      "values": [
+        "Mexiko",
+        "Česko",
+        "Madagaskar",
+        "Mongolsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Čekanka",
+      "values": [
+        "Austrálie",
+        "Česko",
+        "Nový Zéland",
+        "Mongolsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Řemdihák plstnatý",
+      "values": [
+        "Mongolsko",
+        "Austrálie",
+        "Brazílie",
+        "Japonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pivoňka čínská",
+      "values": [
+        "Česko",
+        "Mongolsko",
+        "Japonsko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paprika křídlatá",
+      "values": [
+        "Madagaskar",
+        "Česko",
+        "Brazílie",
+        "Nový Zéland"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hvězdnice chlumní",
+      "values": [
+        "Česko",
+        "Madagaskar",
+        "Nový Zéland",
+        "Austrálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Agáve sisalová",
+      "values": [
+        "Mexiko",
+        "Mongolsko",
+        "Japonsko",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mokrýš",
+      "values": [
+        "Mongolsko",
+        "Mexiko",
+        "Nový Zéland",
+        "Austrálie"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

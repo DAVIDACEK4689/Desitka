@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] generála?",
+  "questions": [
+    {
+      "key": "Ramzan Kadyrov",
+      "values": [
+        "československého",
+        "amerického",
+        "francouzského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Charles de Gaulle",
+      "values": [
+        "francouzského",
+        "britského",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Radola Gajda",
+      "values": [
+        "sovětského",
+        "francouzského",
+        "československého",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Isaac Brock",
+      "values": [
+        "ukrajinského",
+        "britského",
+        "československého",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Valerij Gerasimov",
+      "values": [
+        "ruského",
+        "amerického",
+        "polského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Václav Morávek",
+      "values": [
+        "amerického",
+        "československého",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Valerij Zalužnyj",
+      "values": [
+        "izraelského",
+        "slovenského",
+        "ukrajinského",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bedřich Reicin",
+      "values": [
+        "československého",
+        "polského",
+        "španělského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Philippe Pétain",
+      "values": [
+        "ukrajinského",
+        "francouzského",
+        "slovenského",
+        "československého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ariel Šaron",
+      "values": [
+        "amerického",
+        "německého",
+        "izraelského",
+        "britského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

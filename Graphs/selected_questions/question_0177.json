@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "Josef Abrhám",
+      "values": [
+        "francouzského",
+        "českého",
+        "italského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Benito Mussolini",
+      "values": [
+        "amerického",
+        "italského",
+        "kanadského",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Nečas",
+      "values": [
+        "českého",
+        "kanadského",
+        "britského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vlastimil Válek",
+      "values": [
+        "amerického",
+        "italského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Francesco Petrarca",
+      "values": [
+        "portugalského",
+        "kanadského",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zdeněk Nekula",
+      "values": [
+        "českého",
+        "francouzského",
+        "italského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ernst Gideon von Laudon",
+      "values": [
+        "amerického",
+        "švýcarského",
+        "maďarského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Helena Langšádlová",
+      "values": [
+        "českého",
+        "německého",
+        "švýcarského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jana Pidrmanová",
+      "values": [
+        "maďarského",
+        "francouzského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bohuslav Reynek",
+      "values": [
+        "kanadského",
+        "švýcarského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

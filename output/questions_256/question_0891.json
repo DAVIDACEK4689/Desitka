@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] malíře?",
+  "questions": [
+    {
+      "key": "Rembrandt",
+      "values": [
+        "italského",
+        "japonského",
+        "rakouského",
+        "nizozemského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Henrik Ibsen",
+      "values": [
+        "norského",
+        "českého",
+        "slovenského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michail Jurjevič Lermontov",
+      "values": [
+        "ruského",
+        "řeckého",
+        "amerického",
+        "chorvatského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eugène Delacroix",
+      "values": [
+        "českého",
+        "švýcarského",
+        "francouzského",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Georges Seurat",
+      "values": [
+        "japonského",
+        "slovenského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Klösel",
+      "values": [
+        "polského",
+        "českého",
+        "řeckého",
+        "mexického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Baptista Mathey",
+      "values": [
+        "kolumbijského",
+        "francouzského",
+        "polského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gustave Doré",
+      "values": [
+        "francouzského",
+        "norského",
+        "nizozemského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Louis Daguerre",
+      "values": [
+        "švýcarského",
+        "slovenského",
+        "francouzského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lance Henriksen",
+      "values": [
+        "amerického",
+        "ukrajinského",
+        "mexického",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

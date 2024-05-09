@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] malíře?",
+  "questions": [
+    {
+      "key": "Alfons Mucha",
+      "values": [
+        "nizozemského",
+        "kanadského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Taras Ševčenko",
+      "values": [
+        "francouzského",
+        "izraelského",
+        "ukrajinského",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Helene Schjerfbecková",
+      "values": [
+        "ruského",
+        "slovenského",
+        "finského",
+        "kolumbijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Théodore Géricault",
+      "values": [
+        "francouzského",
+        "řeckého",
+        "dánského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vlaho Bukovac",
+      "values": [
+        "švýcarského",
+        "chilského",
+        "chorvatského",
+        "mexického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pierre Bonnard",
+      "values": [
+        "belgického",
+        "amerického",
+        "dánského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Natalia Gončarovová",
+      "values": [
+        "běloruského",
+        "izraelského",
+        "švýcarského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bernardo Bellotto",
+      "values": [
+        "novozélandského",
+        "francouzského",
+        "italského",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cy Twombly",
+      "values": [
+        "kolumbijského",
+        "izraelského",
+        "norského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Franz Sedlacek",
+      "values": [
+        "japonského",
+        "rakouského",
+        "polského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Ben Cristovao",
+      "values": [
+        "německého",
+        "českého",
+        "maďarského",
+        "jamajského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Nedvěd",
+      "values": [
+        "českého",
+        "brazilského",
+        "australského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lemmy",
+      "values": [
+        "portorického",
+        "českého",
+        "islandského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michal Mareda",
+      "values": [
+        "francouzského",
+        "moldavského",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Charles Aznavour",
+      "values": [
+        "španělského",
+        "islandského",
+        "dánského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Václav Lebeda",
+      "values": [
+        "moldavského",
+        "českého",
+        "kolumbijského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "John Denver",
+      "values": [
+        "amerického",
+        "belgického",
+        "sovětského",
+        "islandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "János Kóbor",
+      "values": [
+        "jihoafrického",
+        "islandského",
+        "jihokorejského",
+        "maďarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alexi Laiho",
+      "values": [
+        "skotského",
+        "finského",
+        "kolumbijského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Denny Doherty",
+      "values": [
+        "kanadského",
+        "dánského",
+        "maďarského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

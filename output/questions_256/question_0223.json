@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Heath Ledger",
+      "values": [
+        "tureckého",
+        "dánského",
+        "australského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vin Diesel",
+      "values": [
+        "brazilského",
+        "amerického",
+        "polského",
+        "malajsijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Císler",
+      "values": [
+        "českého",
+        "francouzského",
+        "islandského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Asa Butterfield",
+      "values": [
+        "norského",
+        "jihokorejského",
+        "britského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Leslie Nielsen",
+      "values": [
+        "amerického",
+        "srbského",
+        "ukrajinského",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Štefan Kvietik",
+      "values": [
+        "novozélandského",
+        "slovenského",
+        "jamajského",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "John Wilkes Booth",
+      "values": [
+        "jihoafrického",
+        "amerického",
+        "tureckého",
+        "chilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michael Shanks",
+      "values": [
+        "venezuelského",
+        "irského",
+        "kanadského",
+        "malajsijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Halit Ergenç",
+      "values": [
+        "tureckého",
+        "španělského",
+        "japonského",
+        "indického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Augustín Kubán",
+      "values": [
+        "polského",
+        "guatemalského",
+        "slovenského",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

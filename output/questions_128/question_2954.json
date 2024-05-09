@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] softwarovou firmu?",
+  "questions": [
+    {
+      "key": "Microsoft",
+      "values": [
+        "německou",
+        "slovenskou",
+        "francouzskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Adobe Systems",
+      "values": [
+        "německou",
+        "slovenskou",
+        "francouzskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "ESET",
+      "values": [
+        "francouzskou",
+        "americkou",
+        "slovenskou",
+        "německou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Red Hat",
+      "values": [
+        "slovenskou",
+        "německou",
+        "francouzskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "AVG Technologies",
+      "values": [
+        "německou",
+        "slovenskou",
+        "českou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Software602",
+      "values": [
+        "českou",
+        "francouzskou",
+        "slovenskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Id Software",
+      "values": [
+        "českou",
+        "slovenskou",
+        "americkou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Forsage",
+      "values": [
+        "francouzskou",
+        "slovenskou",
+        "českou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rossum",
+      "values": [
+        "německou",
+        "americkou",
+        "slovenskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Silicon Graphics",
+      "values": [
+        "českou",
+        "americkou",
+        "německou",
+        "slovenskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

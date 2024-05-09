@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] elektronického hudebníka?",
+  "questions": [
+    {
+      "key": "Ventolin",
+      "values": [
+        "francouzského",
+        "německého",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Scatman John",
+      "values": [
+        "amerického",
+        "italského",
+        "finského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Käärijä",
+      "values": [
+        "finského",
+        "německého",
+        "řeckého",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert Miles",
+      "values": [
+        "finského",
+        "italského",
+        "amerického",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Róisín Murphy",
+      "values": [
+        "irského",
+        "britského",
+        "finského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karlheinz Stockhausen",
+      "values": [
+        "francouzského",
+        "německého",
+        "řeckého",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lost Frequencies",
+      "values": [
+        "belgického",
+        "britského",
+        "italského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Clean Bandit",
+      "values": [
+        "francouzského",
+        "finského",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "AronChupa",
+      "values": [
+        "francouzského",
+        "německého",
+        "italského",
+        "švédského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Klaus Schulze",
+      "values": [
+        "českého",
+        "finského",
+        "německého",
+        "italského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

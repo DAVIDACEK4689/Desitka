@@ -1,0 +1,12 @@
+<resources>
+    <!-- Common theme -->
+    <style name="BaseAppTheme" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorOnPrimary">@color/primaryColor</item>
+        <item name="android:textColor">@color/primaryColor</item>
+        <item name="android:editTextColor">@color/primaryColor</item>
+        <item name="colorPrimary">@color/background</item>
+        <item name="android:statusBarColor">@color/card_background</item>
+        <item name="android:navigationBarColor">@color/card_background</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+</resources>

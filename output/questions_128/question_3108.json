@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] právníka?",
+  "questions": [
+    {
+      "key": "Karel Kramář",
+      "values": [
+        "českého",
+        "britského",
+        "švýcarského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Roman",
+      "values": [
+        "švýcarského",
+        "českého",
+        "litevského",
+        "lotyšského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michal Hašek",
+      "values": [
+        "izraelského",
+        "českého",
+        "francouzského",
+        "argentinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Pixa",
+      "values": [
+        "francouzského",
+        "rakouského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Ostrouchov",
+      "values": [
+        "českého",
+        "dánského",
+        "řeckého",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Helmuth James von Moltke",
+      "values": [
+        "francouzského",
+        "švýcarského",
+        "německého",
+        "mexického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Friedrich Merz",
+      "values": [
+        "slovenského",
+        "dánského",
+        "německého",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vítězslav Houdek",
+      "values": [
+        "dánského",
+        "českého",
+        "rumunského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stjepan Mesić",
+      "values": [
+        "litevského",
+        "polského",
+        "chorvatského",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Georges Couthon",
+      "values": [
+        "dánského",
+        "francouzského",
+        "slovenského",
+        "finského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

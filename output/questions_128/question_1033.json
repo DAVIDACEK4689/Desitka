@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Liberec",
+      "values": [
+        "Maďarsko",
+        "Itálie",
+        "Česko",
+        "Portugalsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Salcburk",
+      "values": [
+        "Dánsko",
+        "Portugalsko",
+        "Rakousko",
+        "Maďarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Palermo",
+      "values": [
+        "Nizozemsko",
+        "Itálie",
+        "Slovensko",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mohuč",
+      "values": [
+        "Polsko",
+        "Maďarsko",
+        "Dánsko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "York",
+      "values": [
+        "Spojené království",
+        "Rakousko",
+        "Slovensko",
+        "Maďarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Würzburg",
+      "values": [
+        "Maďarsko",
+        "Nizozemsko",
+        "Dánsko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lovaň",
+      "values": [
+        "Itálie",
+        "Německo",
+        "Maďarsko",
+        "Belgie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Portsmouth",
+      "values": [
+        "Polsko",
+        "Spojené království",
+        "Dánsko",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Urbino",
+      "values": [
+        "Rakousko",
+        "Itálie",
+        "Česko",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Viterbo",
+      "values": [
+        "Spojené království",
+        "Dánsko",
+        "Portugalsko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

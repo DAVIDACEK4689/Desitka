@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle barokní stavby",
+  "questions": [
+    {
+      "key": "Bratislavský hrad",
+      "values": [
+        "Rusko",
+        "Slovensko",
+        "Ukrajina",
+        "Německo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Piazza Navona",
+      "values": [
+        "Itálie",
+        "Španělsko",
+        "Rusko",
+        "Německo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fontána čtyř řek",
+      "values": [
+        "Německo",
+        "Španělsko",
+        "Itálie",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Velký Trianon",
+      "values": [
+        "Ukrajina",
+        "Francie",
+        "Rakousko",
+        "Anglie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Santa Maria della Vittoria",
+      "values": [
+        "Itálie",
+        "Rusko",
+        "Německo",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Královská rezidence Mnichov",
+      "values": [
+        "Německo",
+        "Francie",
+        "Rusko",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kaštel v Holíči",
+      "values": [
+        "Nizozemsko",
+        "Slovensko",
+        "Německo",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Klášter Zwettl",
+      "values": [
+        "Rakousko",
+        "Rusko",
+        "Nizozemsko",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Klášter Corvey",
+      "values": [
+        "Rusko",
+        "Nizozemsko",
+        "Německo",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Huis ten Bosch",
+      "values": [
+        "Ukrajina",
+        "Anglie",
+        "Nizozemsko",
+        "Německo"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

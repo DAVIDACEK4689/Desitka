@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] román?",
+  "questions": [
+    {
+      "key": "Osudy dobrého vojáka Švejka za světové války",
+      "values": [
+        "německý",
+        "americký",
+        "italský",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Důmyslný rytíř Don Quijote de la Mancha",
+      "values": [
+        "americký",
+        "španělský",
+        "český",
+        "francouzský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Anna Kareninová",
+      "values": [
+        "italský",
+        "americký",
+        "německý",
+        "ruský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zločin a trest",
+      "values": [
+        "irský",
+        "ruský",
+        "francouzský",
+        "australský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hlava XXII",
+      "values": [
+        "irský",
+        "německý",
+        "americký",
+        "anglický"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vojna a mír",
+      "values": [
+        "australský",
+        "český",
+        "americký",
+        "ruský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kdo chytá v žitě",
+      "values": [
+        "anglický",
+        "německý",
+        "ruský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Válka světů",
+      "values": [
+        "anglický",
+        "český",
+        "irský",
+        "francouzský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Komu zvoní hrana",
+      "values": [
+        "český",
+        "americký",
+        "španělský",
+        "irský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Krakatit",
+      "values": [
+        "francouzský",
+        "italský",
+        "český",
+        "americký"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

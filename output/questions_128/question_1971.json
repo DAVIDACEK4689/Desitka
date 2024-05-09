@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] panovníka?",
+  "questions": [
+    {
+      "key": "Lucemburkové",
+      "values": [
+        "uherského",
+        "egyptského",
+        "franského",
+        "izraelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gilgameš",
+      "values": [
+        "makedonského",
+        "saského",
+        "sumerského",
+        "albánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Arpádovci",
+      "values": [
+        "uherského",
+        "rumunského",
+        "etiopského",
+        "indického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pchúmipchon Adunjadét",
+      "values": [
+        "ruského",
+        "egyptského",
+        "litevského",
+        "thajského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sásánovci",
+      "values": [
+        "rumunského",
+        "perského",
+        "egyptského",
+        "albánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Seleukovci",
+      "values": [
+        "izraelského",
+        "perského",
+        "ruského",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Odo Pařížský",
+      "values": [
+        "thajského",
+        "egyptského",
+        "franského",
+        "saského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Amha Selassie",
+      "values": [
+        "etiopského",
+        "monackého",
+        "perského",
+        "makedonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pipin Italský",
+      "values": [
+        "afghánského",
+        "thajského",
+        "rumunského",
+        "franského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fateh Alí Tipú",
+      "values": [
+        "uherského",
+        "indického",
+        "makedonského",
+        "etiopského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

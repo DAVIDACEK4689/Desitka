@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle barokní stavby",
+  "questions": [
+    {
+      "key": "Fontána di Trevi",
+      "values": [
+        "Rakousko",
+        "Itálie",
+        "Česko",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hofburg",
+      "values": [
+        "Česko",
+        "Slovensko",
+        "Německo",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bratislavský hrad",
+      "values": [
+        "Slovensko",
+        "Francie",
+        "Itálie",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Španělské schody",
+      "values": [
+        "Itálie",
+        "Anglie",
+        "Česko",
+        "Rakousko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Katedrála svatého Pavla",
+      "values": [
+        "Francie",
+        "Itálie",
+        "Anglie",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Piazza Navona",
+      "values": [
+        "Česko",
+        "Francie",
+        "Itálie",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Klášter Melk",
+      "values": [
+        "Rakousko",
+        "Slovensko",
+        "Anglie",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zimní palác",
+      "values": [
+        "Francie",
+        "Rusko",
+        "Slovensko",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fontána čtyř řek",
+      "values": [
+        "Itálie",
+        "Anglie",
+        "Německo",
+        "Rakousko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zámek Charlottenburg",
+      "values": [
+        "Itálie",
+        "Německo",
+        "Česko",
+        "Francie"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

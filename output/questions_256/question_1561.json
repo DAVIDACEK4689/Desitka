@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte moře podle přístavního města",
+  "questions": [
+    {
+      "key": "Petrohrad",
+      "values": [
+        "Baltské moře",
+        "Černé moře",
+        "Azovské moře",
+        "Marmarské moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Liverpool",
+      "values": [
+        "Irské moře",
+        "Karibské moře",
+        "Severní moře",
+        "Bílé moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sevastopol",
+      "values": [
+        "Bílé moře",
+        "Marmarské moře",
+        "Černé moře",
+        "Irské moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Belfast",
+      "values": [
+        "Baltské moře",
+        "Marmarské moře",
+        "Rudé moře",
+        "Irské moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Newcastle upon Tyne",
+      "values": [
+        "Baltské moře",
+        "Severní moře",
+        "Rudé moře",
+        "Karibské moře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mykolajiv",
+      "values": [
+        "Rudé moře",
+        "Azovské moře",
+        "Karibské moře",
+        "Černé moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oulu",
+      "values": [
+        "Azovské moře",
+        "Baltské moře",
+        "Bílé moře",
+        "Černé moře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Izmajil",
+      "values": [
+        "Severní moře",
+        "Marmarské moře",
+        "Černé moře",
+        "Karibské moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jūrmala",
+      "values": [
+        "Baltské moře",
+        "Rudé moře",
+        "Azovské moře",
+        "Irské moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Üsküdar",
+      "values": [
+        "Irské moře",
+        "Azovské moře",
+        "Marmarské moře",
+        "Bílé moře"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

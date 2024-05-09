@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] ateistu?",
+  "questions": [
+    {
+      "key": "Pablo Picasso",
+      "values": [
+        "amerického",
+        "finského",
+        "gruzínského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roman Polański",
+      "values": [
+        "maďarského",
+        "srbského",
+        "židovského",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pierre Curie",
+      "values": [
+        "francouzského",
+        "norského",
+        "německého",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Zahradil",
+      "values": [
+        "italského",
+        "českého",
+        "španělského",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vojtěch Filip",
+      "values": [
+        "černohorského",
+        "norského",
+        "českého",
+        "bulharského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Richard Branson",
+      "values": [
+        "britského",
+        "bulharského",
+        "brazilského",
+        "albánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paolo Villaggio",
+      "values": [
+        "slovinského",
+        "italského",
+        "chorvatského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Džaváharlál Néhrú",
+      "values": [
+        "švédského",
+        "italského",
+        "kanadského",
+        "indického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Georges Clemenceau",
+      "values": [
+        "arménského",
+        "francouzského",
+        "českého",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Irvine Welsh",
+      "values": [
+        "arménského",
+        "srbského",
+        "německého",
+        "skotského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

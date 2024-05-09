@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Havlíčkův Brod",
+      "values": [
+        "Hron",
+        "Úhlava",
+        "Sázava",
+        "Úslava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vyšší Brod",
+      "values": [
+        "Vltava",
+        "Váha",
+        "Metuje",
+        "Cidlina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bogatynia",
+      "values": [
+        "Spréva",
+        "Hornád",
+        "Lužická Nisa",
+        "Loira"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Troubky",
+      "values": [
+        "Metuje",
+        "Dněpr",
+        "Bečva",
+        "Cidlina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tokaj",
+      "values": [
+        "Ploučnice",
+        "Hornád",
+        "Sázava",
+        "Tis"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nezvěstice",
+      "values": [
+        "Ploučnice",
+        "Dněpr",
+        "Hornád",
+        "Úslava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Čeboksary",
+      "values": [
+        "Labe",
+        "Polenz",
+        "Lužnice",
+        "Volha"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Špičky",
+      "values": [
+        "Sázava",
+        "Váha",
+        "Spréva",
+        "Bečva"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roudná",
+      "values": [
+        "Lužnice",
+        "Malše",
+        "Sebnice",
+        "Lužická Nisa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Holešovičky",
+      "values": [
+        "Chrudimka",
+        "Vltava",
+        "Cidlina",
+        "Úslava"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

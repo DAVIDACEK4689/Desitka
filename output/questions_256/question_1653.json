@@ -1,0 +1,105 @@
+{
+  "text": "Určete sport podle české sportovkyně",
+  "questions": [
+    {
+      "key": "Barbora Krejčíková",
+      "values": [
+        "basketbalistka",
+        "plavkyně",
+        "lukostřelkyně",
+        "tenistka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Linda Nosková",
+      "values": [
+        "lukostřelkyně",
+        "horolezci",
+        "tenistka",
+        "atletka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Helena Suková",
+      "values": [
+        "tenistka",
+        "florbalistky",
+        "krasobruslařka",
+        "atletka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marcela Skuherská",
+      "values": [
+        "cyklistka",
+        "tenistka",
+        "lukostřelkyně",
+        "házenkářka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nicole Vaidišová",
+      "values": [
+        "tenistka",
+        "fotbalistka",
+        "stolní tenistka",
+        "krasobruslařka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dina Štěrbová",
+      "values": [
+        "krasobruslařka",
+        "plavkyně",
+        "horolezci",
+        "lukostřelkyně"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marie Hrachová",
+      "values": [
+        "golfistky",
+        "házenkářka",
+        "stolní tenistka",
+        "cyklistka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Klára Koukalová",
+      "values": [
+        "tenistka",
+        "házenkářka",
+        "horolezci",
+        "florbalistky"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Iveta Benešová",
+      "values": [
+        "házenkářka",
+        "tenistka",
+        "plavkyně",
+        "horolezci"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hana Horáková",
+      "values": [
+        "basketbalistka",
+        "házenkářka",
+        "horolezci",
+        "florbalistky"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle politické strany",
+  "questions": [
+    {
+      "key": "Svoboda a přímá demokracie",
+      "values": [
+        "Slovensko",
+        "Česko",
+        "Spojené království",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Právo Respekt Odbornost",
+      "values": [
+        "Itálie",
+        "Angola",
+        "Spojené království",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Národní obec fašistická",
+      "values": [
+        "Ukrajina",
+        "Turecko",
+        "Spojené království",
+        "Československo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Občanská platforma",
+      "values": [
+        "Polsko",
+        "Itálie",
+        "Izrael",
+        "Spojené království"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Klub angažovaných nestraníků",
+      "values": [
+        "Turecko",
+        "Libanon",
+        "Česko",
+        "Palestina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Die Linke",
+      "values": [
+        "Izrael",
+        "Angola",
+        "Německo",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Křesťanskodemokratická strana",
+      "values": [
+        "Egypt",
+        "Spojené království",
+        "Československo",
+        "Palestina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "List Jaromíra Soukupa",
+      "values": [
+        "Německo",
+        "Česko",
+        "Ukrajina",
+        "Libanon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Britská unie fašistů",
+      "values": [
+        "Palestina",
+        "Rusko",
+        "Spojené království",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aliance národních sil",
+      "values": [
+        "Spojené království",
+        "Slovensko",
+        "Česko",
+        "Palestina"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle zákona",
+  "questions": [
+    {
+      "key": "Code civil",
+      "values": [
+        "Česká republika",
+        "Rakousko",
+        "Slovensko",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Říjnový diplom",
+      "values": [
+        "Rakouské císařství",
+        "Slovensko",
+        "Česká republika",
+        "Československo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zákon o ochraně přírody a krajiny",
+      "values": [
+        "Česká republika",
+        "Francie",
+        "Slovensko",
+        "Rakousko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Silvestrovské patenty",
+      "values": [
+        "Rakouské císařství",
+        "Rakousko",
+        "Francie",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Živnostenský zákon",
+      "values": [
+        "Československo",
+        "Rakousko",
+        "Rakouské císařství",
+        "Česká republika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Výnos o zřízení Protektorátu Čechy a Morava",
+      "values": [
+        "Rakousko",
+        "Francie",
+        "Slovensko",
+        "Československo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zákonné opatření Senátu",
+      "values": [
+        "Slovensko",
+        "Československo",
+        "Česká republika",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Habsburský zákon",
+      "values": [
+        "Rakousko",
+        "Slovensko",
+        "Rakouské císařství",
+        "Československo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ohňový patent",
+      "values": [
+        "Rakouské císařství",
+        "Francie",
+        "Rakousko",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Prozatímní zákon obecní",
+      "values": [
+        "Československo",
+        "Francie",
+        "Rakousko",
+        "Rakouské císařství"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistku?",
+  "questions": [
+    {
+      "key": "Petra Kvitová",
+      "values": [
+        "tuniskou",
+        "českou",
+        "americkou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Barbora Krejčíková",
+      "values": [
+        "běloruskou",
+        "kanadskou",
+        "českou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karolína Plíšková",
+      "values": [
+        "běloruskou",
+        "českou",
+        "kanadskou",
+        "tuniskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lucie Šafářová",
+      "values": [
+        "švýcarskou",
+        "českou",
+        "ukrajinskou",
+        "tuniskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Linda Nosková",
+      "values": [
+        "českou",
+        "dánskou",
+        "běloruskou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Elina Svitolinová",
+      "values": [
+        "dánskou",
+        "americkou",
+        "běloruskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Venus Williamsová",
+      "values": [
+        "americkou",
+        "dánskou",
+        "německou",
+        "běloruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Billie Jean Kingová",
+      "values": [
+        "kanadskou",
+        "polskou",
+        "českou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jessica Pegulaová",
+      "values": [
+        "běloruskou",
+        "americkou",
+        "českou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martina Hingisová",
+      "values": [
+        "ukrajinskou",
+        "švýcarskou",
+        "ruskou",
+        "polskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

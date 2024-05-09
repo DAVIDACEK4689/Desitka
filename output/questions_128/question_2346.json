@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] ekonoma?",
+  "questions": [
+    {
+      "key": "Petro Porošenko",
+      "values": [
+        "bangladéšského",
+        "ukrajinského",
+        "chilského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adam Smith",
+      "values": [
+        "norského",
+        "estonského",
+        "francouzského",
+        "skotského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Luděk Niedermayer",
+      "values": [
+        "maďarského",
+        "českého",
+        "řeckého",
+        "kolumbijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Elvira Nabiullinová",
+      "values": [
+        "norského",
+        "belgického",
+        "ukrajinského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zuzana Baudyšová",
+      "values": [
+        "českého",
+        "norského",
+        "maďarského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Anders Fogh Rasmussen",
+      "values": [
+        "bangladéšského",
+        "dánského",
+        "bulharského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Thorstein Veblen",
+      "values": [
+        "amerického",
+        "ruského",
+        "argentinského",
+        "litevského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert Solow",
+      "values": [
+        "amerického",
+        "ukrajinského",
+        "norského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lubomír Mlčoch",
+      "values": [
+        "českého",
+        "ukrajinského",
+        "britského",
+        "kolumbijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Silvio Gesell",
+      "values": [
+        "amerického",
+        "řeckého",
+        "moldavského",
+        "německého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

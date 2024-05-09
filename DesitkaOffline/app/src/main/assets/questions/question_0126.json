@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Hradec Králové",
+      "values": [
+        "Belgie",
+        "Česko",
+        "Spojené království",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Budapešť",
+      "values": [
+        "Maďarsko",
+        "Polsko",
+        "Portugalsko",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Neapol",
+      "values": [
+        "Nizozemsko",
+        "Belgie",
+        "Itálie",
+        "Polsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Košice",
+      "values": [
+        "Rakousko",
+        "Nizozemsko",
+        "Polsko",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bologna",
+      "values": [
+        "Itálie",
+        "Česko",
+        "Polsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pasov",
+      "values": [
+        "Nizozemsko",
+        "Itálie",
+        "Německo",
+        "Polsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Turín",
+      "values": [
+        "Itálie",
+        "Česko",
+        "Německo",
+        "Portugalsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Brémy",
+      "values": [
+        "Irsko",
+        "Nizozemsko",
+        "Spojené království",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Trento",
+      "values": [
+        "Slovensko",
+        "Rakousko",
+        "Itálie",
+        "Dánsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kremže",
+      "values": [
+        "Česko",
+        "Itálie",
+        "Maďarsko",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

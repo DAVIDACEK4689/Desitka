@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vynálezce?",
+  "questions": [
+    {
+      "key": "Benjamin Franklin",
+      "values": [
+        "amerického",
+        "sovětského",
+        "německého",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Guglielmo Marconi",
+      "values": [
+        "švédského",
+        "italského",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Heinrich Hertz",
+      "values": [
+        "německého",
+        "francouzského",
+        "italského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alois Senefelder",
+      "values": [
+        "kanadského",
+        "německého",
+        "ruského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Casimir Lefaucheux",
+      "values": [
+        "britského",
+        "ukrajinského",
+        "irského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel Klíč",
+      "values": [
+        "kanadského",
+        "ukrajinského",
+        "sovětského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Joseph Marie Jacquard",
+      "values": [
+        "francouzského",
+        "amerického",
+        "polského",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ambroise Paré",
+      "values": [
+        "francouzského",
+        "slovenského",
+        "sovětského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fjodor Vasiljevič Tokarev",
+      "values": [
+        "švýcarského",
+        "německého",
+        "ruského",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Carl von Linde",
+      "values": [
+        "irského",
+        "polského",
+        "řeckého",
+        "německého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

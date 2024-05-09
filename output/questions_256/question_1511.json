@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Silvio Berlusconi",
+      "values": [
+        "španělského",
+        "italského",
+        "ukrajinského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aristoteles Onassis",
+      "values": [
+        "brazilského",
+        "mexického",
+        "polského",
+        "řeckého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Hlávka",
+      "values": [
+        "českého",
+        "mexického",
+        "kanadského",
+        "indického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chad Hurley",
+      "values": [
+        "brazilského",
+        "libanonského",
+        "amerického",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vivek Ramaswamy",
+      "values": [
+        "slovenského",
+        "amerického",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kleinové",
+      "values": [
+        "ruského",
+        "slovenského",
+        "českého",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rinat Achmetov",
+      "values": [
+        "francouzského",
+        "švédského",
+        "ukrajinského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marek Antoš",
+      "values": [
+        "polského",
+        "italského",
+        "českého",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Martin Hausenblas",
+      "values": [
+        "slovenského",
+        "řeckého",
+        "českého",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ferdinand Piëch",
+      "values": [
+        "rakouského",
+        "mexického",
+        "brazilského",
+        "jihoafrického"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

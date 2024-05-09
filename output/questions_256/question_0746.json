@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Honoré de Balzac",
+      "values": [
+        "italského",
+        "francouzského",
+        "slovenského",
+        "běloruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dominik Dán",
+      "values": [
+        "portugalského",
+        "španělského",
+        "slovenského",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gabor Maté",
+      "values": [
+        "belgického",
+        "maďarského",
+        "izraelského",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rabíndranáth Thákur",
+      "values": [
+        "běloruského",
+        "indického",
+        "rumunského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Schulz",
+      "values": [
+        "českého",
+        "chilského",
+        "mexického",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kamil Peteraj",
+      "values": [
+        "japonského",
+        "slovenského",
+        "argentinského",
+        "belgického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Thomas Bernhard",
+      "values": [
+        "ruského",
+        "portugalského",
+        "rakouského",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vladimir Solovjov",
+      "values": [
+        "kyrgyzského",
+        "ruského",
+        "dánského",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Louise Pennyová",
+      "values": [
+        "norského",
+        "australského",
+        "libanonského",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lawrence Durrell",
+      "values": [
+        "britského",
+        "švýcarského",
+        "maďarského",
+        "italského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Plzeň",
+      "values": [
+        "Rakousko",
+        "Irsko",
+        "Česko",
+        "Maďarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mnichov",
+      "values": [
+        "Česko",
+        "Dánsko",
+        "Německo",
+        "Maďarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Frankfurt nad Mohanem",
+      "values": [
+        "Rakousko",
+        "Irsko",
+        "Německo",
+        "Dánsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Žilina",
+      "values": [
+        "Rakousko",
+        "Nizozemsko",
+        "Slovensko",
+        "Maďarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lodž",
+      "values": [
+        "Portugalsko",
+        "Irsko",
+        "Nizozemsko",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Belfast",
+      "values": [
+        "Irsko",
+        "Spojené království",
+        "Slovensko",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "York",
+      "values": [
+        "Rakousko",
+        "Polsko",
+        "Belgie",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cardiff",
+      "values": [
+        "Polsko",
+        "Spojené království",
+        "Portugalsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bydhošť",
+      "values": [
+        "Polsko",
+        "Maďarsko",
+        "Německo",
+        "Spojené království"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eindhoven",
+      "values": [
+        "Slovensko",
+        "Spojené království",
+        "Nizozemsko",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

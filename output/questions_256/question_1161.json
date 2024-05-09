@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Milan Baroš",
+      "values": [
+        "českého",
+        "brazilského",
+        "kostarického",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David de Gea",
+      "values": [
+        "italského",
+        "španělského",
+        "polského",
+        "baskického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Edinson Cavani",
+      "values": [
+        "uruguayského",
+        "dánského",
+        "norského",
+        "kamerunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Clarence Seedorf",
+      "values": [
+        "argentinského",
+        "bulharského",
+        "italského",
+        "nizozemského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nicolae Stanciu",
+      "values": [
+        "španělského",
+        "mongolského",
+        "kosovského",
+        "rumunského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Álvaro Morata",
+      "values": [
+        "slovenského",
+        "španělského",
+        "nizozemského",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fabien Barthez",
+      "values": [
+        "německého",
+        "francouzského",
+        "dánského",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "David Moyes",
+      "values": [
+        "argentinského",
+        "skotského",
+        "slovinského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rui Costa",
+      "values": [
+        "uruguayského",
+        "portugalského",
+        "finského",
+        "kolumbijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joselu",
+      "values": [
+        "ruského",
+        "švédského",
+        "španělského",
+        "belgického"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

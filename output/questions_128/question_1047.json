@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle náboženství",
+  "questions": [
+    {
+      "key": "Šintoismus",
+      "values": [
+        "Uganda",
+        "Tibet",
+        "Japonsko",
+        "Belgie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Věštírna v Delfách",
+      "values": [
+        "Řecko",
+        "Omán",
+        "Švýcarsko",
+        "Malta"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Církev sjednocení",
+      "values": [
+        "Austrálie",
+        "Indie",
+        "Řecko",
+        "Jižní Korea"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Santa Muerte",
+      "values": [
+        "Byzantská říše",
+        "Československo",
+        "Jižní Korea",
+        "Mexiko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Přebohaté hodinky vévody z Berry",
+      "values": [
+        "Francie",
+        "Austrálie",
+        "Jižní Korea",
+        "Vatikán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kaodaismus",
+      "values": [
+        "Bulharsko",
+        "Vietnam",
+        "Československo",
+        "Benin"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zjevení Panny Marie v Litmanové",
+      "values": [
+        "Vatikán",
+        "Slovensko",
+        "Mongolsko",
+        "Francie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bekináž",
+      "values": [
+        "Jamajka",
+        "Brazílie",
+        "Belgie",
+        "Irák"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marmaggiho aféra",
+      "values": [
+        "Benin",
+        "Vietnam",
+        "Československo",
+        "Mexiko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Papežská univerzita Gregoriana",
+      "values": [
+        "Byzantská říše",
+        "Bulharsko",
+        "Austrálie",
+        "Vatikán"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

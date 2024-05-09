@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte oblast podle ptáka",
+  "questions": [
+    {
+      "key": "Kos černý",
+      "values": [
+        "Afrika",
+        "Antarktida",
+        "Severní Amerika",
+        "Orientální oblast"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rehek domácí",
+      "values": [
+        "Afrika",
+        "Antarktida",
+        "celosvětové rozšíření",
+        "Orientální oblast"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Čáp bílý",
+      "values": [
+        "Afrika",
+        "Antarktida",
+        "celosvětové rozšíření",
+        "Severní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vlaštovka obecná",
+      "values": [
+        "Afrika",
+        "Orientální oblast",
+        "celosvětové rozšíření",
+        "Antarktida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Poštolka obecná",
+      "values": [
+        "Afrika",
+        "celosvětové rozšíření",
+        "Severní Amerika",
+        "Orientální oblast"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sojka obecná",
+      "values": [
+        "Severní Amerika",
+        "Afrika",
+        "Orientální oblast",
+        "Antarktida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ledňáček říční",
+      "values": [
+        "Severní Amerika",
+        "celosvětové rozšíření",
+        "Antarktida",
+        "Orientální oblast"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vrabec domácí",
+      "values": [
+        "Orientální oblast",
+        "Severní Amerika",
+        "celosvětové rozšíření",
+        "Afrika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kachna divoká",
+      "values": [
+        "Afrika",
+        "Severní Amerika",
+        "celosvětové rozšíření",
+        "Antarktida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hrdlička zahradní",
+      "values": [
+        "Severní Amerika",
+        "Orientální oblast",
+        "celosvětové rozšíření",
+        "Afrika"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

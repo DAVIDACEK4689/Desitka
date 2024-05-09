@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle geografie",
+  "questions": [
+    {
+      "key": "Judea",
+      "values": [
+        "Palestina",
+        "Izrael",
+        "Srbsko",
+        "Argentina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Velké Tokio",
+      "values": [
+        "Finsko",
+        "Rakousko",
+        "Bulharsko",
+        "Japonsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Přírodní jaderný reaktor",
+      "values": [
+        "Gabon",
+        "Mauritánie",
+        "Americká Samoa",
+        "Ukrajina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Aksai Čin",
+      "values": [
+        "Súdán",
+        "Samoa",
+        "Singapur",
+        "Indie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Severní mořská cesta",
+      "values": [
+        "Rusko",
+        "Srí Lanka",
+        "Řecko",
+        "Eritrea"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Velká artéská pánev",
+      "values": [
+        "Indie",
+        "Faerské ostrovy",
+        "Austrálie",
+        "Turkmenistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Castries",
+      "values": [
+        "Svatá Lucie",
+        "Srbsko",
+        "Irsko",
+        "Vatikán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hornothrácká nížina",
+      "values": [
+        "Pero",
+        "Komora",
+        "Bulharsko",
+        "Belgie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Danakilská proláklina",
+      "values": [
+        "Jordánsko",
+        "Mongolsko",
+        "Eritrea",
+        "Srí Lanka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gracht",
+      "values": [
+        "Austrálie",
+        "Nizozemsko",
+        "Senegal",
+        "Americká Samoa"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

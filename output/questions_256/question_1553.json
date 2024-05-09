@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] evropského podnikatele?",
+  "questions": [
+    {
+      "key": "Ivan Jonák",
+      "values": [
+        "švýcarského",
+        "německého",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexej Navalnyj",
+      "values": [
+        "ruského",
+        "španělského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Maurizio Gucci",
+      "values": [
+        "britského",
+        "slovenského",
+        "ruského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Emanuele Ridi",
+      "values": [
+        "italského",
+        "ruského",
+        "ukrajinského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stanislav Bernard",
+      "values": [
+        "německého",
+        "českého",
+        "italského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dietrich Mateschitz",
+      "values": [
+        "rakouského",
+        "českého",
+        "švédského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ingvar Kamprad",
+      "values": [
+        "britského",
+        "belgického",
+        "švédského",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karl Wittgenstein",
+      "values": [
+        "ruského",
+        "švýcarského",
+        "rakouského",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Amancio Ortega",
+      "values": [
+        "španělského",
+        "českého",
+        "belgického",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Horáček",
+      "values": [
+        "českého",
+        "španělského",
+        "nizozemského",
+        "polského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

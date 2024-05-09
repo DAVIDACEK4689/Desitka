@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle etnické skupiny",
+  "questions": [
+    {
+      "key": "Kumáni",
+      "values": [
+        "Srbsko",
+        "Maďarsko",
+        "Ukrajina",
+        "Nepál"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sefardští Židé",
+      "values": [
+        "Spojené království",
+        "Myanmar",
+        "Polsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Peršané",
+      "values": [
+        "Egypt",
+        "Etiopie",
+        "Španělsko",
+        "Írán"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rumuni",
+      "values": [
+        "Írán",
+        "Kambodža",
+        "Srbsko",
+        "Ukrajina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bulhaři",
+      "values": [
+        "Srbsko",
+        "Ukrajina",
+        "Afghánistán",
+        "Spojené království"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Číňané",
+      "values": [
+        "Singapur",
+        "Polsko",
+        "Rwanda",
+        "Irák"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vepsové",
+      "values": [
+        "Maďarsko",
+        "Singapur",
+        "Rusko",
+        "Írán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Angličané",
+      "values": [
+        "Spojené království",
+        "Austrálie",
+        "Rwanda",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rohingové",
+      "values": [
+        "Egypt",
+        "Afghánistán",
+        "Myanmar",
+        "Izrael"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Polynésané",
+      "values": [
+        "Srbsko",
+        "Austrálie",
+        "Egypt",
+        "Izrael"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

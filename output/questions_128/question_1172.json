@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte oblast podle ptáka",
+  "questions": [
+    {
+      "key": "Bažant obecný",
+      "values": [
+        "Orientální oblast",
+        "Střední Amerika",
+        "Jižní oceán",
+        "celosvětové rozšíření"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ořešník kropenatý",
+      "values": [
+        "Indický oceán",
+        "Afrika",
+        "Tichý oceán",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Papoušík Fischerův",
+      "values": [
+        "Afrika",
+        "celosvětové rozšíření",
+        "Střední Amerika",
+        "Antarktida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rybák obecný",
+      "values": [
+        "Severní Amerika",
+        "Orientální oblast",
+        "Jižní Amerika",
+        "Indický oceán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Aratinga sluneční",
+      "values": [
+        "celosvětové rozšíření",
+        "Tichý oceán",
+        "Atlantský oceán",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zoborožec kaferský",
+      "values": [
+        "Antarktida",
+        "Indický oceán",
+        "Střední Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Buřníček žlutonohý",
+      "values": [
+        "Atlantský oceán",
+        "Jižní oceán",
+        "Jižní Amerika",
+        "Střední Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sovice krahujová",
+      "values": [
+        "Indický oceán",
+        "Antarktida",
+        "Severní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lyska mauricijská",
+      "values": [
+        "Jižní oceán",
+        "Indický oceán",
+        "Antarktida",
+        "Střední Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gvačaro jeskynní",
+      "values": [
+        "Atlantský oceán",
+        "Indický oceán",
+        "Jižní Amerika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

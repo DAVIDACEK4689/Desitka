@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte autora podle stavby",
+  "questions": [
+    {
+      "key": "Pardubické krematorium",
+      "values": [
+        "Pavel Janák",
+        "Max Spielmann",
+        "Ludvík Kysela",
+        "Emil Králíček"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Průmyslový palác",
+      "values": [
+        "Friedrich Ohmann",
+        "Frank Gehry",
+        "Stanislav Franc",
+        "Karel Prager"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zrcadlové bludiště na Petříně",
+      "values": [
+        "Karel Filsak",
+        "František Lýdie Gahura",
+        "František Albert Libra",
+        "Antonín Wiehl"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Budova CUBE",
+      "values": [
+        "Frank Lloyd Wright",
+        "František Albert Libra",
+        "Stanislav Franc",
+        "František Antonín Grimm"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Portheimka",
+      "values": [
+        "Max Spielmann",
+        "František Albert Libra",
+        "Kilián Ignác Dientzenhofer",
+        "Josef Fanta"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Žižkova mohyla",
+      "values": [
+        "Adolf Benš",
+        "Zacharias Hoffmann",
+        "František Albert Libra",
+        "Antonín Wiehl"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Palác Generali",
+      "values": [
+        "Bohumír Kozák",
+        "Friedrich Ohmann",
+        "Adolf Foehr",
+        "Kilián Ignác Dientzenhofer"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Malá scéna Zlín",
+      "values": [
+        "Vojtěch Ignác Ullmann",
+        "Giovanni Battista Alliprandi",
+        "Vladimír Karfík",
+        "Václav Aulický"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Švehlova kolej",
+      "values": [
+        "Jan Chládek",
+        "Josef Fanta",
+        "Josef Gočár",
+        "Stanislav Hubička"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kulturní dům Slávie",
+      "values": [
+        "Josef Danda",
+        "Karel Filsak",
+        "Josef Fanta",
+        "Vojtěch Ignác Ullmann"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

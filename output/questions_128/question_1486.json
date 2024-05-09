@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Jana Kratochvílová",
+      "values": [
+        "moldavskou",
+        "ukrajinskou",
+        "barbadoskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Janis Joplin",
+      "values": [
+        "americkou",
+        "moldavskou",
+        "barbadoskou",
+        "japonskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Annie Girardotová",
+      "values": [
+        "portugalskou",
+        "německou",
+        "francouzskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fergie",
+      "values": [
+        "japonskou",
+        "peruánskou",
+        "americkou",
+        "švédskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jana Petrů",
+      "values": [
+        "italskou",
+        "japonskou",
+        "švédskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ráchel Skleničková",
+      "values": [
+        "českou",
+        "mexickou",
+        "nizozemskou",
+        "australskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Simone Simons",
+      "values": [
+        "řeckou",
+        "ruskou",
+        "polskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Indiana Evans",
+      "values": [
+        "polskou",
+        "australskou",
+        "kubánskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alice Merton",
+      "values": [
+        "japonskou",
+        "řeckou",
+        "německou",
+        "chorvatskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Soraya Arnelas",
+      "values": [
+        "švédskou",
+        "řeckou",
+        "uruguayskou",
+        "španělskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

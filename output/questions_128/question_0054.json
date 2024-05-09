@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] hudební skupinu?",
+  "questions": [
+    {
+      "key": "Gorillaz",
+      "values": [
+        "jihokorejskou",
+        "britskou",
+        "finskou",
+        "australskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "2Cellos",
+      "values": [
+        "ruskou",
+        "německou",
+        "jihoafrickou",
+        "chorvatskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Las Ketchup",
+      "values": [
+        "irskou",
+        "estonskou",
+        "španělskou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Westlife",
+      "values": [
+        "švédskou",
+        "norskou",
+        "irskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Baccara",
+      "values": [
+        "italskou",
+        "španělskou",
+        "jihokorejskou",
+        "jihoafrickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "The Cardigans",
+      "values": [
+        "dánskou",
+        "švédskou",
+        "portugalskou",
+        "jihoafrickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Milky Chance",
+      "values": [
+        "německou",
+        "kubánskou",
+        "francouzskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "The Hives",
+      "values": [
+        "maďarskou",
+        "španělskou",
+        "švýcarskou",
+        "švédskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "TVXQ",
+      "values": [
+        "italskou",
+        "jihokorejskou",
+        "bosenskou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Major Lazer",
+      "values": [
+        "americkou",
+        "australskou",
+        "ukrajinskou",
+        "belgickou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

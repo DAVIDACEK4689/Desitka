@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] letce?",
+  "questions": [
+    {
+      "key": "Buzz Aldrin",
+      "values": [
+        "rakouského",
+        "ukrajinského",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roland Garros",
+      "values": [
+        "českého",
+        "švýcarského",
+        "ukrajinského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alan Shepard",
+      "values": [
+        "českého",
+        "amerického",
+        "rakouského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Viktor Ivanovič Bělenko",
+      "values": [
+        "rakouského",
+        "sovětského",
+        "ukrajinského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hanna Reitsch",
+      "values": [
+        "britského",
+        "českého",
+        "německého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chuck Yeager",
+      "values": [
+        "českého",
+        "ukrajinského",
+        "amerického",
+        "izraelského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Edward Higgins White",
+      "values": [
+        "izraelského",
+        "amerického",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Charles Conrad",
+      "values": [
+        "slovenského",
+        "amerického",
+        "britského",
+        "československého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Leonard Revilliod",
+      "values": [
+        "britského",
+        "švýcarského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Edgar Mitchell",
+      "values": [
+        "izraelského",
+        "amerického",
+        "sovětského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

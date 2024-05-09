@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte téma podle filmu",
+  "questions": [
+    {
+      "key": "Van Helsing",
+      "values": [
+        "sebevražda",
+        "imigrace",
+        "upír",
+        "učitel"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Děti Nagana",
+      "values": [
+        "loupež",
+        "skinheads",
+        "životní prostředí",
+        "sport"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Butch Cassidy a Sundance Kid",
+      "values": [
+        "loupež",
+        "učitel",
+        "upír",
+        "sexualita"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Temné stíny",
+      "values": [
+        "automobil",
+        "cirkus",
+        "skinheads",
+        "upír"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Na dotek",
+      "values": [
+        "spisovatel",
+        "kometa",
+        "nemoc",
+        "dvojče"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Leaving Las Vegas",
+      "values": [
+        "anděl",
+        "sebevražda",
+        "kanibalismus",
+        "spisovatel"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Moneyball",
+      "values": [
+        "loupež",
+        "vlkodlak",
+        "sport",
+        "spisovatel"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nezničitelná láska",
+      "values": [
+        "herec",
+        "učitel",
+        "sexualita",
+        "spisovatel"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rampage Ničitelé",
+      "values": [
+        "zvíře",
+        "křesťanská tematika",
+        "životní prostředí",
+        "novinář"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "30 dní dlouhá noc",
+      "values": [
+        "automobil",
+        "upír",
+        "policie",
+        "židovská tematika"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

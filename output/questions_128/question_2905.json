@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Karel Gott",
+      "values": [
+        "australského",
+        "českého",
+        "islandského",
+        "novozélandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ryan Reynolds",
+      "values": [
+        "nizozemského",
+        "kanadského",
+        "italského",
+        "malajsijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Norbert Lichý",
+      "values": [
+        "japonského",
+        "venezuelského",
+        "marockého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Christopher Lambert",
+      "values": [
+        "thajského",
+        "chilského",
+        "francouzského",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marcel Marceau",
+      "values": [
+        "švédského",
+        "jihokorejského",
+        "francouzského",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Max von Sydow",
+      "values": [
+        "řeckého",
+        "jihokorejského",
+        "švédského",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zach Braff",
+      "values": [
+        "amerického",
+        "japonského",
+        "argentinského",
+        "guatemalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Richard Dreyfuss",
+      "values": [
+        "amerického",
+        "izraelského",
+        "novozélandského",
+        "čínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tchéky Karyo",
+      "values": [
+        "marockého",
+        "novozélandského",
+        "řeckého",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Červinka",
+      "values": [
+        "českého",
+        "namibijského",
+        "irského",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

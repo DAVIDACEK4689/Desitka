@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Jurský svět",
+      "values": [
+        "David Frankel",
+        "bratři Coenové",
+        "John Singleton",
+        "Colin Trevorrow"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Agent bez minulosti",
+      "values": [
+        "Doug Liman",
+        "Dennis Hopper",
+        "Jason Friedberg a Aaron Seltzer",
+        "Tim Burton"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fabelmanovi",
+      "values": [
+        "Steven Spielberg",
+        "Robert Iscove",
+        "Mark Waters",
+        "Sofia Coppola"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hon na ponorku",
+      "values": [
+        "Andrew Stanton",
+        "Martha Coolidge",
+        "Terry Gilliam",
+        "John McTiernan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tenká červená linie",
+      "values": [
+        "Terrence Malick",
+        "Peter Segal",
+        "Peter Hyams",
+        "Rod Lurie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Případ Pelikán",
+      "values": [
+        "Alan Pakula",
+        "Nancy Meyers",
+        "Alfred Hitchcock",
+        "Kelly Asbury"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rudá Sonja",
+      "values": [
+        "Richard Fleischer",
+        "Jay Roach",
+        "James Mangold",
+        "David Fincher"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Machete",
+      "values": [
+        "bratři Farrellyové",
+        "Joel Zwick",
+        "Robert Rodriguez",
+        "William Wyler"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Království lesních strážců",
+      "values": [
+        "Chris Wedge",
+        "Peyton Reed",
+        "Ang Lee",
+        "Andy Fickman"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Clouseau na stopě",
+      "values": [
+        "Woody Allen",
+        "John Huston",
+        "Blake Edwards",
+        "Roger Kumble"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

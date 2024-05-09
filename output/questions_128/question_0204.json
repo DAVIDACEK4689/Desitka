@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle olympijské hry",
+  "questions": [
+    {
+      "key": "Zimní olympijské hry 2026",
+      "values": [
+        "Mexiko",
+        "Belgie",
+        "Francie",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zimní olympijské hry 2018",
+      "values": [
+        "Spojené království",
+        "Rakousko",
+        "Jižní Korea",
+        "Norsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zimní olympijské hry 2014",
+      "values": [
+        "Francie",
+        "Austrálie",
+        "Jugoslávie",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Letní olympijské hry 1992",
+      "values": [
+        "Německo",
+        "Španělsko",
+        "Finsko",
+        "Rakousko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Letní olympijské hry 2004",
+      "values": [
+        "Řecko",
+        "Spojené království",
+        "Švédsko",
+        "Jugoslávie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Letní olympijské hry 1960",
+      "values": [
+        "Švédsko",
+        "Itálie",
+        "Austrálie",
+        "Španělsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zimní olympijské hry 1968",
+      "values": [
+        "Finsko",
+        "Řecko",
+        "Francie",
+        "Japonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Letní olympijské hry 1912",
+      "values": [
+        "Švédsko",
+        "Řecko",
+        "Rakousko",
+        "Jižní Korea"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zimní olympijské hry 1976",
+      "values": [
+        "Rakousko",
+        "Norsko",
+        "Německo",
+        "Švédsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zimní olympijské hry 1936",
+      "values": [
+        "Německo",
+        "Nizozemsko",
+        "Itálie",
+        "Brazílie"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

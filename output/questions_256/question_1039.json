@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filozofa?",
+  "questions": [
+    {
+      "key": "Tomáš Halík",
+      "values": [
+        "českého",
+        "nizozemského",
+        "španělského",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Díogenés ze Sinópé",
+      "values": [
+        "britského",
+        "švýcarského",
+        "perského",
+        "řeckého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eduard Tomáš",
+      "values": [
+        "amerického",
+        "švédského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rabíndranáth Thákur",
+      "values": [
+        "perského",
+        "dánského",
+        "rakouského",
+        "indického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Terezie Benedikta od Kříže",
+      "values": [
+        "německého",
+        "českého",
+        "dánského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michal Ajvaz",
+      "values": [
+        "dánského",
+        "českého",
+        "nizozemského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Ludvík Fischer",
+      "values": [
+        "ruského",
+        "indického",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stanislav Komárek",
+      "values": [
+        "slovenského",
+        "francouzského",
+        "českého",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chrýsippos ze Soloi",
+      "values": [
+        "řeckého",
+        "ruského",
+        "indického",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Georgij Ivanovič Gurdžijev",
+      "values": [
+        "ruského",
+        "indického",
+        "amerického",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

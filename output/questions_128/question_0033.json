@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] hudební skupinu?",
+  "questions": [
+    {
+      "key": "Take That",
+      "values": [
+        "italskou",
+        "belgickou",
+        "britskou",
+        "českou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Twice",
+      "values": [
+        "irskou",
+        "španělskou",
+        "jihokorejskou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "LuŠtěLa",
+      "values": [
+        "ruskou",
+        "belgickou",
+        "finskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Patrola Šlapeto",
+      "values": [
+        "českou",
+        "italskou",
+        "jihokorejskou",
+        "irskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "New Element",
+      "values": [
+        "italskou",
+        "finskou",
+        "českou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Culture Club",
+      "values": [
+        "britskou",
+        "americkou",
+        "švýcarskou",
+        "dánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Florence and the Machine",
+      "values": [
+        "estonskou",
+        "britskou",
+        "jihoafrickou",
+        "německou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Level 42",
+      "values": [
+        "australskou",
+        "kubánskou",
+        "britskou",
+        "německou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Go A",
+      "values": [
+        "australskou",
+        "českou",
+        "finskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "The Veronicas",
+      "values": [
+        "australskou",
+        "švýcarskou",
+        "britskou",
+        "rakouskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

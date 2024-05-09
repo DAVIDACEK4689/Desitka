@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Vin Diesel",
+      "values": [
+        "polského",
+        "amerického",
+        "japonského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zdeněk Miler",
+      "values": [
+        "dánského",
+        "českého",
+        "belgického",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "John Malkovich",
+      "values": [
+        "slovinského",
+        "irského",
+        "španělského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Václav Koubek",
+      "values": [
+        "švýcarského",
+        "českého",
+        "belgického",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sidney Poitier",
+      "values": [
+        "ruského",
+        "maďarského",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel Plicka",
+      "values": [
+        "českého",
+        "ukrajinského",
+        "slovenského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Andrzej Żuławski",
+      "values": [
+        "chorvatského",
+        "polského",
+        "ukrajinského",
+        "islandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kenny Ortega",
+      "values": [
+        "finského",
+        "belgického",
+        "srbského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Claude Zidi",
+      "values": [
+        "francouzského",
+        "britského",
+        "islandského",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Dolenský",
+      "values": [
+        "hongkongského",
+        "kanadského",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] román?",
+  "questions": [
+    {
+      "key": "Tři mušketýři",
+      "values": [
+        "španělský",
+        "český",
+        "italský",
+        "francouzský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bídníci",
+      "values": [
+        "irský",
+        "anglický",
+        "francouzský",
+        "australský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Na Větrné hůrce",
+      "values": [
+        "český",
+        "italský",
+        "anglický",
+        "irský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hraničářův učeň",
+      "values": [
+        "český",
+        "italský",
+        "australský",
+        "irský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "451 stupňů Fahrenheita",
+      "values": [
+        "španělský",
+        "český",
+        "ruský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nikola Šuhaj loupežník",
+      "values": [
+        "anglický",
+        "irský",
+        "český",
+        "italský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pes baskervillský",
+      "values": [
+        "ruský",
+        "americký",
+        "anglický",
+        "španělský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Báječná léta pod psa",
+      "values": [
+        "americký",
+        "český",
+        "německý",
+        "španělský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivanhoe",
+      "values": [
+        "irský",
+        "ruský",
+        "český",
+        "anglický"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bratři Karamazovi",
+      "values": [
+        "americký",
+        "italský",
+        "ruský",
+        "španělský"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

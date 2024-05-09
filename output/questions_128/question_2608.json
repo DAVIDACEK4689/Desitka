@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Statečné srdce",
+      "values": [
+        "Mel Gibson",
+        "Godfrey Reggio",
+        "Andy Fickman",
+        "John Badham"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Transformers 3",
+      "values": [
+        "Mark Neveldine",
+        "Gregory Hoblit",
+        "David Zucker",
+        "Michael Bay"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gauneři",
+      "values": [
+        "Quentin Tarantino",
+        "Doug Liman",
+        "John Carpenter",
+        "Terry Gilliam"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Protivný sprostý holky",
+      "values": [
+        "Mark Waters",
+        "Billy Wilder",
+        "Roger Corman",
+        "James Mangold"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Muži v černém 2",
+      "values": [
+        "Barry Sonnenfeld",
+        "George Nolfi",
+        "Danny DeVito",
+        "Terrence Malick"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nic než pravda",
+      "values": [
+        "Blake Edwards",
+        "Martha Coolidge",
+        "Dean Parisot",
+        "Rod Lurie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Spojenec",
+      "values": [
+        "Howard Hughes",
+        "Sydney Pollack",
+        "Spike Lee",
+        "David Zucker"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hairspray",
+      "values": [
+        "Adam Shankman",
+        "Patty Jenkinsová",
+        "Justin Lin",
+        "Fritz Lang"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Aféra Thomase Crowna",
+      "values": [
+        "John McTiernan",
+        "Jon Favreau",
+        "Alfred Hitchcock",
+        "Sylvester Stallone"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zběsilost v srdci",
+      "values": [
+        "Matt Reeves",
+        "John Schlesinger",
+        "Terry Gilliam",
+        "David Lynch"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

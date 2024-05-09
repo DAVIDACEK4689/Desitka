@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle archeologické lokality",
+  "questions": [
+    {
+      "key": "Trója",
+      "values": [
+        "Chorvatsko",
+        "Afghánistán",
+        "Turecko",
+        "Rakousko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rimini",
+      "values": [
+        "Jihoafrická republika",
+        "Sýrie",
+        "Itálie",
+        "Federativní státy Mikronésie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Obrazce na planině Nazca",
+      "values": [
+        "Malta",
+        "Jihoafrická republika",
+        "Pero",
+        "Pákistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ninive",
+      "values": [
+        "Afghánistán",
+        "Německo",
+        "Irák",
+        "Írán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tarragona",
+      "values": [
+        "Albánie",
+        "Řecko",
+        "Španělsko",
+        "Egypt"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hadriánova vila",
+      "values": [
+        "Francie",
+        "Itálie",
+        "Malta",
+        "Afghánistán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Súsa",
+      "values": [
+        "Maďarsko",
+        "Jordánsko",
+        "Tunisko",
+        "Ukrajina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pella",
+      "values": [
+        "Srí Lanka",
+        "Indonésie",
+        "Řecko",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bila Cerkva",
+      "values": [
+        "Ukrajina",
+        "Turecko",
+        "Sýrie",
+        "Řecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mari",
+      "values": [
+        "Sýrie",
+        "Pero",
+        "Chorvatsko",
+        "Malta"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

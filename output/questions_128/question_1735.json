@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Nikósie",
+      "values": [
+        "Kypr",
+        "Tunisko",
+        "Tádžikistán",
+        "Spojené království"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mogadišo",
+      "values": [
+        "Omán",
+        "Kapverdy",
+        "Somálsko",
+        "Alžírsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Crikvenica",
+      "values": [
+        "Chorvatsko",
+        "Srbsko",
+        "Senegal",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kars",
+      "values": [
+        "Gruzie",
+        "Lotyšsko",
+        "Grónsko",
+        "Turecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mccheta",
+      "values": [
+        "Senegal",
+        "Palau",
+        "Gruzie",
+        "Indonésie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ploješť",
+      "values": [
+        "Mosambik",
+        "Botswana",
+        "Rumunsko",
+        "Burkina Faso"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lukla",
+      "values": [
+        "Nepál",
+        "Izrael",
+        "Gambie",
+        "Kyrgyzstán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Santiago de Querétaro",
+      "values": [
+        "Česko",
+        "Mexiko",
+        "Lotyšsko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Achalciche",
+      "values": [
+        "Tádžikistán",
+        "Japonsko",
+        "Libanon",
+        "Gruzie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Veľký Šariš",
+      "values": [
+        "Slovensko",
+        "Tanzanie",
+        "Nový Zéland",
+        "Myanmar"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

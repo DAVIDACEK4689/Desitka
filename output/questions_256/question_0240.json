@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Jennifer Lopez",
+      "values": [
+        "ukrajinskou",
+        "americkou",
+        "novozélandskou",
+        "brazilskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sophia Lorenová",
+      "values": [
+        "mexickou",
+        "britskou",
+        "novozélandskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Paris Hilton",
+      "values": [
+        "americkou",
+        "novozélandskou",
+        "norskou",
+        "polskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Judita Čeřovská",
+      "values": [
+        "australskou",
+        "britskou",
+        "francouzskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Helene Fischer",
+      "values": [
+        "jihokorejskou",
+        "německou",
+        "brazilskou",
+        "indickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lena Katinová",
+      "values": [
+        "brazilskou",
+        "maďarskou",
+        "norskou",
+        "ruskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Inger Nilsson",
+      "values": [
+        "švédskou",
+        "polskou",
+        "nizozemskou",
+        "barbadoskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Laura Linneyová",
+      "values": [
+        "polskou",
+        "švýcarskou",
+        "francouzskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Edita Štaubertová",
+      "values": [
+        "českou",
+        "italskou",
+        "norskou",
+        "indickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mary Nótár",
+      "values": [
+        "švédskou",
+        "maďarskou",
+        "japonskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

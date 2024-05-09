@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Jasmina Alagič",
+      "values": [
+        "americkou",
+        "slovenskou",
+        "švédskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexandra Daddario",
+      "values": [
+        "italskou",
+        "americkou",
+        "francouzskou",
+        "rakouskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Emily Ratajkowski",
+      "values": [
+        "irskou",
+        "ruskou",
+        "americkou",
+        "švédskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Helena Christensenová",
+      "values": [
+        "dánskou",
+        "brazilskou",
+        "namibijskou",
+        "izraelskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kate Bosworthová",
+      "values": [
+        "rakouskou",
+        "americkou",
+        "švédskou",
+        "dánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joan Crawfordová",
+      "values": [
+        "švýcarskou",
+        "izraelskou",
+        "rakouskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tanya Robertsová",
+      "values": [
+        "italskou",
+        "rakouskou",
+        "americkou",
+        "polskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mackenzie Foy",
+      "values": [
+        "kanadskou",
+        "americkou",
+        "venezuelskou",
+        "australskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Talisa Soto",
+      "values": [
+        "dánskou",
+        "kanadskou",
+        "švédskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Yaya DaCosta",
+      "values": [
+        "švédskou",
+        "izraelskou",
+        "americkou",
+        "německou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

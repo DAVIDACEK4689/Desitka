@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle narození",
+  "questions": [
+    {
+      "key": "Charles Sobhraj",
+      "values": [
+        "Uruguay",
+        "Guatemala",
+        "Vietnam",
+        "Nikaragua"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jude Thaddeus Okolo",
+      "values": [
+        "Jihoafrická republika",
+        "Nigérie",
+        "Bulharsko",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Luis Garavito",
+      "values": [
+        "Kolumbie",
+        "Jihoafrická republika",
+        "Bolívie",
+        "Namibie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ehud Olmert",
+      "values": [
+        "Nizozemsko",
+        "Izrael",
+        "Černá Hora",
+        "Japonsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chálid Šajch Muhammad",
+      "values": [
+        "Kyrgyzstán",
+        "Namibie",
+        "Kuvajt",
+        "Bělorusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pastor Maldonado",
+      "values": [
+        "Polsko",
+        "Venezuela",
+        "Jordánsko",
+        "Portoriko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Abd Rabú Mansúr Hádí",
+      "values": [
+        "Polsko",
+        "Kuvajt",
+        "Jemen",
+        "Somálsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chris Amon",
+      "values": [
+        "Nový Zéland",
+        "Panama",
+        "Kostarika",
+        "Venezuela"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "António Agostinho Neto",
+      "values": [
+        "Indie",
+        "Afghánistán",
+        "Angola",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Meles Zenawi",
+      "values": [
+        "Venezuela",
+        "Jihoafrická republika",
+        "Etiopie",
+        "Indie"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

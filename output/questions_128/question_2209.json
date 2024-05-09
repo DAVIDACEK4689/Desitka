@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle českého sportovce",
+  "questions": [
+    {
+      "key": "David Krejčí",
+      "values": [
+        "lední hokejista",
+        "gymnasta",
+        "ragbista",
+        "zápasník"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michal Jordán",
+      "values": [
+        "golfista",
+        "lední hokejista",
+        "rychlostní kanoista",
+        "sportovní střelec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaroslav Jiřík",
+      "values": [
+        "tenista",
+        "stolní tenista",
+        "lední hokejista",
+        "skeletonisté"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Trávníček",
+      "values": [
+        "lední hokejista",
+        "golfista",
+        "cyklista",
+        "horolezec"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "René Bolf",
+      "values": [
+        "šachista",
+        "taekwondisté",
+        "fotbalista",
+        "pozemní hokejista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kamil Brabenec",
+      "values": [
+        "skeletonisté",
+        "lední hokejista",
+        "zápasník",
+        "boxer"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Tikal",
+      "values": [
+        "baseballisté",
+        "volejbalista",
+        "skeletonisté",
+        "pozemní hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gabriela Satková",
+      "values": [
+        "kanoista",
+        "horolezec",
+        "lední hokejista",
+        "taekwondisté"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marek Černošek",
+      "values": [
+        "lední hokejista",
+        "veslař",
+        "rychlostní kanoista",
+        "zápasník"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miloš Beznoska",
+      "values": [
+        "boxer",
+        "basketbalista",
+        "automobilový závodník",
+        "fotbalista"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

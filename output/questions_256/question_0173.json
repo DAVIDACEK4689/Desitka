@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Vylodění v Normandii",
+      "values": [
+        "1876",
+        "1942",
+        "1944",
+        "1298"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Boj v kostele svatých Cyrila a Metoděje",
+      "values": [
+        "1619",
+        "1836",
+        "1942",
+        "1941"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva o Okinawu",
+      "values": [
+        "1836",
+        "1453",
+        "1945",
+        "1916"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Invaze na Sicílii",
+      "values": [
+        "1943",
+        "805",
+        "1995",
+        "1758"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Dien Bien Phu",
+      "values": [
+        "1943",
+        "1916",
+        "1876",
+        "1954"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva v Korálovém moři",
+      "values": [
+        "1619",
+        "1437",
+        "1942",
+        "1898"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva pod Vyšehradem",
+      "values": [
+        "1420",
+        "1427",
+        "1815",
+        "1648"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Německá invaze do Dánska",
+      "values": [
+        "1849",
+        "1940",
+        "937",
+        "1158"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva na Čudském jezeře",
+      "values": [
+        "1187",
+        "1427",
+        "1242",
+        "1758"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Letecký souboj nad Merklínem",
+      "values": [
+        "1953",
+        "1757",
+        "1954",
+        "1814"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

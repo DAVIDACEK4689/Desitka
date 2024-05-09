@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle archeologické lokality",
+  "questions": [
+    {
+      "key": "Kartágo",
+      "values": [
+        "Rusko",
+        "Tunisko",
+        "Řecko",
+        "Egypt"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Herculaneum",
+      "values": [
+        "Pákistán",
+        "Egypt",
+        "Jordánsko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vádí Rum",
+      "values": [
+        "Sýrie",
+        "Jordánsko",
+        "Jihoafrická republika",
+        "Pákistán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aquincum",
+      "values": [
+        "Maďarsko",
+        "Malta",
+        "Írán",
+        "Rakousko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ugarit",
+      "values": [
+        "Egypt",
+        "Jordánsko",
+        "Německo",
+        "Sýrie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hierapolis",
+      "values": [
+        "Indonésie",
+        "Turecko",
+        "Rakousko",
+        "Tanzanie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ġgantija",
+      "values": [
+        "Malta",
+        "Albánie",
+        "Česko",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nimrud",
+      "values": [
+        "Řecko",
+        "Švýcarsko",
+        "Afghánistán",
+        "Irák"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Utica",
+      "values": [
+        "Pero",
+        "Kambodža",
+        "Tunisko",
+        "Afghánistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Římské fórum v Zadaru",
+      "values": [
+        "Tanzanie",
+        "Německo",
+        "Chorvatsko",
+        "Tunisko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

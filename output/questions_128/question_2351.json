@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] ekonoma?",
+  "questions": [
+    {
+      "key": "Jiří Rusnok",
+      "values": [
+        "estonského",
+        "českého",
+        "moldavského",
+        "bulharského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michal Kováč",
+      "values": [
+        "polského",
+        "slovenského",
+        "ukrajinského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Vlasák",
+      "values": [
+        "českého",
+        "peruánského",
+        "polského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Helmut Schmidt",
+      "values": [
+        "moldavského",
+        "slovenského",
+        "německého",
+        "chilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dagmar Škodová Parmová",
+      "values": [
+        "českého",
+        "bulharského",
+        "švédského",
+        "moldavského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Horst Köhler",
+      "values": [
+        "německého",
+        "slovenského",
+        "francouzského",
+        "litevského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ivana Mádlová",
+      "values": [
+        "belgického",
+        "českého",
+        "maďarského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ladislav Janíček",
+      "values": [
+        "švýcarského",
+        "amerického",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zuzana Havránková",
+      "values": [
+        "českého",
+        "ruského",
+        "švédského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Magdalena Anderssonová",
+      "values": [
+        "švédského",
+        "italského",
+        "dánského",
+        "litevského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

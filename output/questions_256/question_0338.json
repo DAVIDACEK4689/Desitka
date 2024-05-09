@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle politické strany",
+  "questions": [
+    {
+      "key": "Hamás",
+      "values": [
+        "Palestina",
+        "Česko",
+        "Německo",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fatah",
+      "values": [
+        "Polsko",
+        "Angola",
+        "Palestina",
+        "Ukrajina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Svobodní",
+      "values": [
+        "Česko",
+        "Slovensko",
+        "Egypt",
+        "Palestina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sme rodina",
+      "values": [
+        "Turecko",
+        "Izrael",
+        "Slovensko",
+        "Angola"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Křesťanskodemokratická unie",
+      "values": [
+        "Německo",
+        "Spojené království",
+        "Ukrajina",
+        "Izrael"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Verejnosť proti násiliu",
+      "values": [
+        "Izrael",
+        "Libanon",
+        "Československo",
+        "Spojené království"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Realisté",
+      "values": [
+        "Itálie",
+        "Česko",
+        "Izrael",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Starostové pro Liberecký kraj",
+      "values": [
+        "Turecko",
+        "Nizozemsko",
+        "Česko",
+        "Československo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "SEN 21",
+      "values": [
+        "Jihoafrická republika",
+        "Rusko",
+        "Česko",
+        "Polsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kresťanská únia",
+      "values": [
+        "Nizozemsko",
+        "Slovensko",
+        "Spojené království",
+        "Libanon"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

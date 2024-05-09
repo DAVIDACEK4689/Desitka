@@ -1,0 +1,105 @@
+{
+  "text": "Určete povolání podle fiktivní postavy",
+  "questions": [
+    {
+      "key": "Rumcajs",
+      "values": [
+        "špión",
+        "zločinec",
+        "sportovec",
+        "pedagog"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Yoda",
+      "values": [
+        "válečník",
+        "psychiatr",
+        "vědec",
+        "spisovatel"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Captain America",
+      "values": [
+        "politik",
+        "válečník",
+        "student",
+        "chůva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Velkoadmirál Thrawn",
+      "values": [
+        "válečník",
+        "zpěvák",
+        "špión",
+        "sportovec"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Harry Hole",
+      "values": [
+        "vědec",
+        "špión",
+        "detektiv",
+        "student"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mrakoplaš",
+      "values": [
+        "archeolog",
+        "podnikatel",
+        "mafián",
+        "mág"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "John Rambo",
+      "values": [
+        "chůva",
+        "policista",
+        "válečník",
+        "vynálezce"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mackie Messer",
+      "values": [
+        "zločinec",
+        "student",
+        "policista",
+        "vynálezce"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mordred",
+      "values": [
+        "letec",
+        "student",
+        "mág",
+        "válečník"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tristan",
+      "values": [
+        "válečník",
+        "podnikatel",
+        "detektiv",
+        "vynálezce"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] lékaře?",
+  "questions": [
+    {
+      "key": "Marek Hilšer",
+      "values": [
+        "českého",
+        "kanadského",
+        "rakouského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Therese Schwarzenbergová",
+      "values": [
+        "švýcarského",
+        "rakouského",
+        "německého",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Evangelista Purkyně",
+      "values": [
+        "kanadského",
+        "slovenského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Cimický",
+      "values": [
+        "německého",
+        "slovenského",
+        "českého",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zdeněk Hřib",
+      "values": [
+        "slovenského",
+        "českého",
+        "kanadského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Robert Koch",
+      "values": [
+        "slovenského",
+        "německého",
+        "francouzského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kamal Farhan",
+      "values": [
+        "českého",
+        "rakouského",
+        "kanadského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alfred Adler",
+      "values": [
+        "francouzského",
+        "rakouského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rudolf Vrba",
+      "values": [
+        "rakouského",
+        "slovenského",
+        "kanadského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vavro Šrobár",
+      "values": [
+        "slovenského",
+        "českého",
+        "rakouského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

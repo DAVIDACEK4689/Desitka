@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle prezidenta",
+  "questions": [
+    {
+      "key": "Vladimir Putin",
+      "values": [
+        "Argentina",
+        "Jihoafrická republika",
+        "Rusko",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Antonín Novotný",
+      "values": [
+        "Polsko",
+        "Libérie",
+        "Ázerbájdžán",
+        "Československo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Charles de Gaulle",
+      "values": [
+        "Írán",
+        "Francie",
+        "Turkmenistán",
+        "Portugalsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karl Dönitz",
+      "values": [
+        "Francie",
+        "Německo",
+        "Libérie",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Józef Piłsudski",
+      "values": [
+        "Rakousko",
+        "Bělorusko",
+        "Polsko",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Carl Gustaf Emil Mannerheim",
+      "values": [
+        "Finsko",
+        "Uganda",
+        "Moldavsko",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gamál Násir",
+      "values": [
+        "Egypt",
+        "Finsko",
+        "Venezuela",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bronisław Komorowski",
+      "values": [
+        "Rumunsko",
+        "Bělorusko",
+        "Polsko",
+        "Niger"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mobutu Sese Seko",
+      "values": [
+        "Rakousko",
+        "Kazachstán",
+        "Zair",
+        "Egypt"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nursultan Nazarbajev",
+      "values": [
+        "Niger",
+        "Polsko",
+        "Kazachstán",
+        "Izrael"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

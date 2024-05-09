@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Lucie Bílá",
+      "values": [
+        "německou",
+        "jihokorejskou",
+        "českou",
+        "řeckou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anna Slováčková",
+      "values": [
+        "švýcarskou",
+        "indickou",
+        "ruskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alizée",
+      "values": [
+        "barbadoskou",
+        "francouzskou",
+        "novozélandskou",
+        "mexickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hayden Panettiere",
+      "values": [
+        "britskou",
+        "nizozemskou",
+        "americkou",
+        "rumunskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michelle Phillips",
+      "values": [
+        "srbskou",
+        "americkou",
+        "brazilskou",
+        "kubánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Juliette Lewis",
+      "values": [
+        "americkou",
+        "švýcarskou",
+        "maďarskou",
+        "kubánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jitka Vrbová",
+      "values": [
+        "českou",
+        "izraelskou",
+        "australskou",
+        "japonskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jana Infeldová",
+      "values": [
+        "australskou",
+        "kanadskou",
+        "českou",
+        "kubánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anna Magdalena Bachová",
+      "values": [
+        "německou",
+        "českou",
+        "kolumbijskou",
+        "barbadoskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Brandy Norwood",
+      "values": [
+        "americkou",
+        "slovenskou",
+        "finskou",
+        "českou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

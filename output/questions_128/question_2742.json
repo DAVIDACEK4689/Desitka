@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kytaristu?",
+  "questions": [
+    {
+      "key": "Karel Hašler",
+      "values": [
+        "španělského",
+        "českého",
+        "maďarského",
+        "izraelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Vyčítal",
+      "values": [
+        "amerického",
+        "německého",
+        "českého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miki Ryvola",
+      "values": [
+        "českého",
+        "irského",
+        "norského",
+        "jamajského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dežo Ursiny",
+      "values": [
+        "finského",
+        "španělského",
+        "slovenského",
+        "argentinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Brad Delson",
+      "values": [
+        "amerického",
+        "norského",
+        "britského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jason Becker",
+      "values": [
+        "českého",
+        "slovenského",
+        "amerického",
+        "mexického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "John Corabi",
+      "values": [
+        "amerického",
+        "australského",
+        "švédského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josh Homme",
+      "values": [
+        "nizozemského",
+        "kanadského",
+        "australského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Griglák",
+      "values": [
+        "slovenského",
+        "jihoafrického",
+        "norského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Al Jourgensen",
+      "values": [
+        "německého",
+        "českého",
+        "brazilského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle ledovcového jezera",
+  "questions": [
+    {
+      "key": "Gardské jezero",
+      "values": [
+        "Polsko",
+        "Německo",
+        "Slovinsko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Neziderské jezero",
+      "values": [
+        "Itálie",
+        "Česko",
+        "Německo",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Čertovo jezero",
+      "values": [
+        "Česko",
+        "Německo",
+        "Polsko",
+        "Rakousko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Plešné jezero",
+      "values": [
+        "Polsko",
+        "Itálie",
+        "Česko",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Atterské jezero",
+      "values": [
+        "Itálie",
+        "Německo",
+        "Polsko",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Prášilské jezero",
+      "values": [
+        "Slovinsko",
+        "Slovensko",
+        "Rakousko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chiemské jezero",
+      "values": [
+        "Polsko",
+        "Česko",
+        "Německo",
+        "Rakousko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lago di Braies",
+      "values": [
+        "Itálie",
+        "Česko",
+        "Slovensko",
+        "Rakousko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Skalnaté pleso",
+      "values": [
+        "Slovinsko",
+        "Slovensko",
+        "Rakousko",
+        "Německo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eibsee",
+      "values": [
+        "Slovinsko",
+        "Německo",
+        "Itálie",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

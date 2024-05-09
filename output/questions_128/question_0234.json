@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte rok podle politiky",
+  "questions": [
+    {
+      "key": "Deklarace nezávislosti Spojených států amerických",
+      "values": [
+        "2006",
+        "1848",
+        "2002",
+        "1776"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Washingtonská deklarace",
+      "values": [
+        "1918",
+        "1783",
+        "1689",
+        "1923"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Berlínský kongres",
+      "values": [
+        "1878",
+        "1776",
+        "1714",
+        "1996"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Daytonská dohoda",
+      "values": [
+        "1995",
+        "1860",
+        "1911",
+        "1955"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Srdečná dohoda",
+      "values": [
+        "1848",
+        "1904",
+        "1918",
+        "1940"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lánský puč",
+      "values": [
+        "1863",
+        "1774",
+        "1905",
+        "2013"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Azavad",
+      "values": [
+        "2012",
+        "1997",
+        "1905",
+        "1891"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zásah Tomáše Čermáka proti Kateřině Jacques",
+      "values": [
+        "2006",
+        "1990",
+        "1952",
+        "1907"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Třetí vláda Donalda Tuska",
+      "values": [
+        "2023",
+        "1951",
+        "1776",
+        "1863"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Smlouva z Küçük Kaynarca",
+      "values": [
+        "1774",
+        "1815",
+        "1907",
+        "2020"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

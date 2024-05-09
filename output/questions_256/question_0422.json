@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vegetariána?",
+  "questions": [
+    {
+      "key": "Iva Kubelková",
+      "values": [
+        "kanadského",
+        "francouzského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aneta Langerová",
+      "values": [
+        "izraelského",
+        "španělského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jana Paulová",
+      "values": [
+        "českého",
+        "belgického",
+        "slovenského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Millie Bobby Brownová",
+      "values": [
+        "irského",
+        "britského",
+        "rakouského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rainer Maria Rilke",
+      "values": [
+        "amerického",
+        "irského",
+        "slovenského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Peter Dinklage",
+      "values": [
+        "amerického",
+        "rakouského",
+        "nizozemského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Juval Noach Harari",
+      "values": [
+        "indického",
+        "rakouského",
+        "izraelského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nina Hagen",
+      "values": [
+        "francouzského",
+        "amerického",
+        "indického",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Andy Kaufman",
+      "values": [
+        "belgického",
+        "amerického",
+        "českého",
+        "izraelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Forest Whitaker",
+      "values": [
+        "španělského",
+        "slovenského",
+        "amerického",
+        "irského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle tisícovky",
+  "questions": [
+    {
+      "key": "Klínovec",
+      "values": [
+        "Německo",
+        "Česko",
+        "Portugalsko",
+        "Francie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kleť",
+      "values": [
+        "Česko",
+        "Island",
+        "Maďarsko",
+        "Irsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Šerák",
+      "values": [
+        "Německo",
+        "Martinik",
+        "Česko",
+        "Spojené království"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Boubín",
+      "values": [
+        "Spojené království",
+        "Izrael",
+        "Česko",
+        "Maďarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hahnenkamm",
+      "values": [
+        "Island",
+        "Bulharsko",
+        "Irsko",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Velký Kriváň",
+      "values": [
+        "Slovensko",
+        "Bulharsko",
+        "Portugalsko",
+        "Izrael"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Růžová hora",
+      "values": [
+        "Francie",
+        "Bulharsko",
+        "Rakousko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Veľký Choč",
+      "values": [
+        "Slovensko",
+        "Bulharsko",
+        "Izrael",
+        "Rakousko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Snowdon",
+      "values": [
+        "Rakousko",
+        "Irsko",
+        "Martinik",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Blatenský vrch",
+      "values": [
+        "Rakousko",
+        "Německo",
+        "Itálie",
+        "Česko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

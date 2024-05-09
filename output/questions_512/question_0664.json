@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "David Beckham",
+      "values": [
+        "egyptského",
+        "anglického",
+        "chorvatského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Luka Modrić",
+      "values": [
+        "ekvádorského",
+        "portugalského",
+        "chorvatského",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eden Hazard",
+      "values": [
+        "slovenského",
+        "belgického",
+        "srbského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "David Limberský",
+      "values": [
+        "dánského",
+        "brazilského",
+        "kamerunského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Suchopárek",
+      "values": [
+        "kamerunského",
+        "českého",
+        "švýcarského",
+        "ekvádorského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Milan Škoda",
+      "values": [
+        "českého",
+        "brazilského",
+        "ekvádorského",
+        "senegalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marek Heinz",
+      "values": [
+        "severoirského",
+        "českého",
+        "australského",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "João Félix",
+      "values": [
+        "italského",
+        "chorvatského",
+        "kolumbijského",
+        "portugalského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Frýdek",
+      "values": [
+        "velšského",
+        "italského",
+        "polského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Kalas",
+      "values": [
+        "nigerijského",
+        "rakouského",
+        "československého",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

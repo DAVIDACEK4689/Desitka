@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Tereza Pergnerová",
+      "values": [
+        "jamajskou",
+        "ruskou",
+        "českou",
+        "novozélandskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavla Gajdošíková",
+      "values": [
+        "španělskou",
+        "peruánskou",
+        "českou",
+        "ruskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Amanda Seyfriedová",
+      "values": [
+        "japonskou",
+        "španělskou",
+        "americkou",
+        "mexickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eva Šenková",
+      "values": [
+        "nizozemskou",
+        "peruánskou",
+        "kanadskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Natalie Imbruglia",
+      "values": [
+        "kubánskou",
+        "australskou",
+        "americkou",
+        "italskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paula Abdulová",
+      "values": [
+        "japonskou",
+        "srbskou",
+        "českou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lujza Garajová Schrameková",
+      "values": [
+        "irskou",
+        "portugalskou",
+        "slovenskou",
+        "mexickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kim Carnes",
+      "values": [
+        "americkou",
+        "kolumbijskou",
+        "mexickou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ariana DeBose",
+      "values": [
+        "islandskou",
+        "americkou",
+        "švédskou",
+        "polskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Melanie Safka",
+      "values": [
+        "barbadoskou",
+        "jamajskou",
+        "americkou",
+        "irskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

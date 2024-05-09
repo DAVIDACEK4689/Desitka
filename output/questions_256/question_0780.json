@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle úmrtí",
+  "questions": [
+    {
+      "key": "Che Guevara",
+      "values": [
+        "Turecko",
+        "Indie",
+        "Bolívie",
+        "Kolumbie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Barbora z Nikomédie",
+      "values": [
+        "Grónsko",
+        "Turecko",
+        "Spojené království",
+        "Kajmanské ostrovy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Šural",
+      "values": [
+        "Spojené království",
+        "Česko",
+        "Panama",
+        "Turecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lata Brandisová",
+      "values": [
+        "Brazílie",
+        "Česko",
+        "Rakousko",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Móric Beňovský",
+      "values": [
+        "Madagaskar",
+        "Švédsko",
+        "Gibraltar",
+        "Panama"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Julianus",
+      "values": [
+        "Španělsko",
+        "Dominikánská republika",
+        "Turecko",
+        "Irák"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zikmund Korybutovič",
+      "values": [
+        "Island",
+        "Francie",
+        "Litva",
+        "Dominikánská republika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ahmad Šáh Masúd",
+      "values": [
+        "Egypt",
+        "Madagaskar",
+        "Brazílie",
+        "Afghánistán"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Muhammad Umar",
+      "values": [
+        "Bulharsko",
+        "Afghánistán",
+        "Egypt",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Leo Rudolf Raubal",
+      "values": [
+        "Panama",
+        "Belgie",
+        "Španělsko",
+        "Indie"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

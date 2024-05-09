@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [typ] stavbu?",
+  "questions": [
+    {
+      "key": "Bazilika",
+      "values": [
+        "obytnou",
+        "historickou",
+        "zahradní",
+        "vojenskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rotunda",
+      "values": [
+        "průmyslovou",
+        "historickou",
+        "vojenskou",
+        "udržitelnou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Schodiště",
+      "values": [
+        "zahradní",
+        "udržitelnou",
+        "dopravní",
+        "historickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Katakomby",
+      "values": [
+        "historickou",
+        "podzemní",
+        "dopravní",
+        "zahradní"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Komenda",
+      "values": [
+        "obytnou",
+        "historickou",
+        "vojenskou",
+        "udržitelnou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hraniční přechod",
+      "values": [
+        "zahradní",
+        "dopravní",
+        "zemědělskou",
+        "udržitelnou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Křižovatka",
+      "values": [
+        "průmyslovou",
+        "zahradní",
+        "dopravní",
+        "historickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pergola",
+      "values": [
+        "historickou",
+        "udržitelnou",
+        "zahradní",
+        "průmyslovou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Brána",
+      "values": [
+        "průmyslovou",
+        "vojenskou",
+        "zahradní",
+        "udržitelnou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Reduta",
+      "values": [
+        "zemědělskou",
+        "podzemní",
+        "historickou",
+        "dopravní"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

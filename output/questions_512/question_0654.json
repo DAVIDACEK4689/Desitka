@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] ledního hokejistu?",
+  "questions": [
+    {
+      "key": "David Pastrňák",
+      "values": [
+        "slovinského",
+        "českého",
+        "československého",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bohumil Modrý",
+      "values": [
+        "německého",
+        "kanadského",
+        "rakouského",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sidney Crosby",
+      "values": [
+        "kanadského",
+        "ruského",
+        "německého",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rostislav Olesz",
+      "values": [
+        "slovinského",
+        "rakouského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marian Jelínek",
+      "values": [
+        "československého",
+        "amerického",
+        "sovětského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Boris Valábik",
+      "values": [
+        "finského",
+        "německého",
+        "švýcarského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Radek Martínek",
+      "values": [
+        "švýcarského",
+        "amerického",
+        "slovinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaromír Jágr starší",
+      "values": [
+        "amerického",
+        "sovětského",
+        "československého",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "David Kaše",
+      "values": [
+        "slovenského",
+        "rakouského",
+        "českého",
+        "československého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marián Gáborík",
+      "values": [
+        "finského",
+        "slovenského",
+        "švýcarského",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

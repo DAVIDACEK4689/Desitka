@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Edwin van der Sar",
+      "values": [
+        "nizozemského",
+        "chorvatského",
+        "japonského",
+        "chilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Ødegaard",
+      "values": [
+        "lucemburského",
+        "finského",
+        "nizozemského",
+        "norského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michael Ballack",
+      "values": [
+        "československého",
+        "rumunského",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Wesley Sneijder",
+      "values": [
+        "panamského",
+        "argentinského",
+        "nizozemského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "David Bičík",
+      "values": [
+        "lucemburského",
+        "českého",
+        "mexického",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Koželuh",
+      "values": [
+        "rakouského",
+        "španělského",
+        "norského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gábor Király",
+      "values": [
+        "chilského",
+        "lucemburského",
+        "španělského",
+        "maďarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Uli Hoeneß",
+      "values": [
+        "italského",
+        "kanadského",
+        "finského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Douglas Costa",
+      "values": [
+        "brazilského",
+        "belgického",
+        "japonského",
+        "uruguayského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dejan Lovren",
+      "values": [
+        "amerického",
+        "dánského",
+        "chorvatského",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

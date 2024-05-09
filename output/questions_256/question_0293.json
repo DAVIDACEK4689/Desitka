@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Istanbul",
+      "values": [
+        "Severní Makedonie",
+        "Malajsie",
+        "Turecko",
+        "Pero"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ankara",
+      "values": [
+        "Honduras",
+        "Maďarsko",
+        "Turecko",
+        "Japonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bojnice",
+      "values": [
+        "Pákistán",
+        "Slovensko",
+        "Švýcarsko",
+        "Japonsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ochrid",
+      "values": [
+        "Namibie",
+        "Paraguay",
+        "Kolumbie",
+        "Severní Makedonie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tarragona",
+      "values": [
+        "Honduras",
+        "Spojené království",
+        "Finsko",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Annecy",
+      "values": [
+        "Francie",
+        "Ázerbájdžán",
+        "Nový Zéland",
+        "Libérie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ulcinj",
+      "values": [
+        "Japonsko",
+        "Írán",
+        "Černá Hora",
+        "Španělsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sighișoara",
+      "values": [
+        "Eritrea",
+        "Rumunsko",
+        "Česko",
+        "Finsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Skellefteå",
+      "values": [
+        "Pero",
+        "Švédsko",
+        "Ghana",
+        "Mexiko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cchinvali",
+      "values": [
+        "Řecko",
+        "Uzbekistán",
+        "Turkmenistán",
+        "Gruzie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

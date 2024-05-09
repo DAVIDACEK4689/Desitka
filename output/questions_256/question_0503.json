@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Oscar Wilde",
+      "values": [
+        "srbského",
+        "litevského",
+        "irského",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Thomas Mann",
+      "values": [
+        "litevského",
+        "německého",
+        "kolumbijského",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alois Mrštík",
+      "values": [
+        "peruánského",
+        "českého",
+        "izraelského",
+        "chilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bertrand Russell",
+      "values": [
+        "ukrajinského",
+        "peruánského",
+        "britského",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Móric Beňovský",
+      "values": [
+        "slovenského",
+        "rakouského",
+        "peruánského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Viktorija Amelinová",
+      "values": [
+        "srbského",
+        "indického",
+        "ukrajinského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Selma Lagerlöfová",
+      "values": [
+        "švédského",
+        "švýcarského",
+        "ázerbájdžánského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marina Cvětajevová",
+      "values": [
+        "ruského",
+        "rakouského",
+        "belgického",
+        "ázerbájdžánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Prouza",
+      "values": [
+        "kanadského",
+        "ruského",
+        "litevského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ales Bjaljacki",
+      "values": [
+        "novozélandského",
+        "nizozemského",
+        "běloruského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

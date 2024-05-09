@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Johan Cruijff",
+      "values": [
+        "nizozemského",
+        "tureckého",
+        "uruguayského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michael Krmenčík",
+      "values": [
+        "belgického",
+        "sovětského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Robin van Persie",
+      "values": [
+        "švýcarského",
+        "alžírského",
+        "velšského",
+        "nizozemského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Christian Pulišić",
+      "values": [
+        "italského",
+        "finského",
+        "amerického",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Václav Procházka",
+      "values": [
+        "československého",
+        "amerického",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jari Litmanen",
+      "values": [
+        "japonského",
+        "finského",
+        "skotského",
+        "jamajského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rudolf Vytlačil",
+      "values": [
+        "československého",
+        "arménského",
+        "severoirského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "John Stones",
+      "values": [
+        "finského",
+        "anglického",
+        "rumunského",
+        "marockého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Claudio Bravo",
+      "values": [
+        "argentinského",
+        "chilského",
+        "českého",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vincenzo Montella",
+      "values": [
+        "italského",
+        "československého",
+        "černohorského",
+        "belgického"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

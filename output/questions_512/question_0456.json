@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Nikita Sergejevič Chruščov",
+      "values": [
+        "slovenského",
+        "španělského",
+        "kubánského",
+        "sovětského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimír Mečiar",
+      "values": [
+        "libanonského",
+        "švýcarského",
+        "vietnamského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vjačeslav Michajlovič Molotov",
+      "values": [
+        "švýcarského",
+        "španělského",
+        "íránského",
+        "sovětského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Boris Johnson",
+      "values": [
+        "britského",
+        "běloruského",
+        "portugalského",
+        "íránského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sergej Bubka",
+      "values": [
+        "ukrajinského",
+        "albánského",
+        "srbského",
+        "chilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Guglielmo Marconi",
+      "values": [
+        "italského",
+        "kubánského",
+        "kolumbijského",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexandr Fjodorovič Kerenskij",
+      "values": [
+        "běloruského",
+        "ruského",
+        "kambodžského",
+        "albánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Konvička",
+      "values": [
+        "českého",
+        "ruského",
+        "československého",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kurt von Schleicher",
+      "values": [
+        "libyjského",
+        "československého",
+        "sovětského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Menševici",
+      "values": [
+        "ruského",
+        "myanmarského",
+        "sovětského",
+        "kubánského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "František Ringo Čech",
+      "values": [
+        "francouzského",
+        "ruského",
+        "českého",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Grossmann",
+      "values": [
+        "českého",
+        "čínského",
+        "rakouského",
+        "izraelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Adam Kraus",
+      "values": [
+        "českého",
+        "marockého",
+        "ukrajinského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marcello Mastroianni",
+      "values": [
+        "čínského",
+        "italského",
+        "britského",
+        "tureckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jet Li",
+      "values": [
+        "německého",
+        "švédského",
+        "čínského",
+        "guatemalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vincent Cassel",
+      "values": [
+        "slovenského",
+        "francouzského",
+        "ukrajinského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "George Lazenby",
+      "values": [
+        "britského",
+        "francouzského",
+        "australského",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Martin Freeman",
+      "values": [
+        "izraelského",
+        "britského",
+        "německého",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Clark Gable",
+      "values": [
+        "francouzského",
+        "španělského",
+        "amerického",
+        "jihoafrického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Libor Hruška",
+      "values": [
+        "marockého",
+        "italského",
+        "kanadského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

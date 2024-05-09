@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Ostrava",
+      "values": [
+        "Portugalsko",
+        "Německo",
+        "Belgie",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Drážďany",
+      "values": [
+        "Česko",
+        "Německo",
+        "Maďarsko",
+        "Irsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Košice",
+      "values": [
+        "Rakousko",
+        "Nizozemsko",
+        "Slovensko",
+        "Belgie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Haag",
+      "values": [
+        "Slovensko",
+        "Nizozemsko",
+        "Polsko",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hannover",
+      "values": [
+        "Německo",
+        "Belgie",
+        "Dánsko",
+        "Irsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bolzano",
+      "values": [
+        "Slovensko",
+        "Portugalsko",
+        "Itálie",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ulm",
+      "values": [
+        "Spojené království",
+        "Nizozemsko",
+        "Dánsko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Modena",
+      "values": [
+        "Maďarsko",
+        "Itálie",
+        "Slovensko",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kassel",
+      "values": [
+        "Německo",
+        "Irsko",
+        "Rakousko",
+        "Dánsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Faro",
+      "values": [
+        "Dánsko",
+        "Slovensko",
+        "Irsko",
+        "Portugalsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

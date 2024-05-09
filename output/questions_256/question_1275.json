@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] firmu?",
+  "questions": [
+    {
+      "key": "AliExpress",
+      "values": [
+        "chorvatskou",
+        "jihokorejskou",
+        "čínskou",
+        "československou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Action",
+      "values": [
+        "jihokorejskou",
+        "francouzskou",
+        "nizozemskou",
+        "izraelskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "BauMax",
+      "values": [
+        "rakouskou",
+        "slovenskou",
+        "kanadskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Makita",
+      "values": [
+        "saúdskoarabskou",
+        "slovenskou",
+        "japonskou",
+        "irskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Yamaha",
+      "values": [
+        "slovinskou",
+        "izraelskou",
+        "belgickou",
+        "japonskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Honeywell",
+      "values": [
+        "švýcarskou",
+        "americkou",
+        "italskou",
+        "čínskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nikon",
+      "values": [
+        "izraelskou",
+        "nizozemskou",
+        "japonskou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rakuten",
+      "values": [
+        "japonskou",
+        "švýcarskou",
+        "polskou",
+        "dánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Krátký film Praha",
+      "values": [
+        "švédskou",
+        "československou",
+        "americkou",
+        "kanadskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hankook Tire",
+      "values": [
+        "chorvatskou",
+        "finskou",
+        "nizozemskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

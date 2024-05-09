@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Donald Trump",
+      "values": [
+        "amerického",
+        "řeckého",
+        "libanonského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "George Soros",
+      "values": [
+        "amerického",
+        "švédského",
+        "libanonského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Otto Frank",
+      "values": [
+        "německého",
+        "libanonského",
+        "francouzského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alfred Nobel",
+      "values": [
+        "švédského",
+        "francouzského",
+        "britského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "MrBeast",
+      "values": [
+        "řeckého",
+        "amerického",
+        "švédského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Henry Ford",
+      "values": [
+        "ruského",
+        "ukrajinského",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomáš Čupr",
+      "values": [
+        "britského",
+        "kanadského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bernard Madoff",
+      "values": [
+        "francouzského",
+        "řeckého",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Colonel Sanders",
+      "values": [
+        "francouzského",
+        "německého",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jawed Karim",
+      "values": [
+        "amerického",
+        "ruského",
+        "německého",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

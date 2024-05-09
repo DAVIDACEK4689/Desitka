@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Thierry Henry",
+      "values": [
+        "severoirského",
+        "španělského",
+        "argentinského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "James Rodríguez",
+      "values": [
+        "albánského",
+        "kolumbijského",
+        "srbského",
+        "ghanského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Erich Brabec",
+      "values": [
+        "argentinského",
+        "českého",
+        "panamského",
+        "lucemburského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hernán Crespo",
+      "values": [
+        "argentinského",
+        "gruzínského",
+        "peruánského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Samir Nasri",
+      "values": [
+        "nizozemského",
+        "maďarského",
+        "baskického",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michael Essien",
+      "values": [
+        "ghanského",
+        "lucemburského",
+        "ukrajinského",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sergi Roberto",
+      "values": [
+        "řeckého",
+        "německého",
+        "španělského",
+        "tureckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sean Dyche",
+      "values": [
+        "kolumbijského",
+        "anglického",
+        "československého",
+        "černohorského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paul Breitner",
+      "values": [
+        "albánského",
+        "zimbabwského",
+        "německého",
+        "srbského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eddie Nketiah",
+      "values": [
+        "ruského",
+        "tureckého",
+        "anglického",
+        "českého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

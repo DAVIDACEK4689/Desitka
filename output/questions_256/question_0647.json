@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Suši",
+      "values": [
+        "gruzínskou",
+        "japonskou",
+        "americkou",
+        "maďarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Carpaccio",
+      "values": [
+        "maďarskou",
+        "italskou",
+        "anglickou",
+        "dánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vejce Benedikt",
+      "values": [
+        "americkou",
+        "irskou",
+        "polskou",
+        "dánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hovězí Wellington",
+      "values": [
+        "mexickou",
+        "anglickou",
+        "ruskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Surimi",
+      "values": [
+        "ukrajinskou",
+        "dánskou",
+        "thajskou",
+        "japonskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rillettes",
+      "values": [
+        "francouzskou",
+        "australskou",
+        "belgickou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vafle",
+      "values": [
+        "indickou",
+        "belgickou",
+        "americkou",
+        "brazilskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mamajuana",
+      "values": [
+        "australskou",
+        "řeckou",
+        "dominikánskou",
+        "finskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čurčchela",
+      "values": [
+        "gruzínskou",
+        "belgickou",
+        "americkou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kimbap",
+      "values": [
+        "portugalskou",
+        "korejskou",
+        "americkou",
+        "polskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

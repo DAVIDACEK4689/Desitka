@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Andrea Kalousová",
+      "values": [
+        "brazilskou",
+        "českou",
+        "maďarskou",
+        "jihoafrickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gal Gadotová",
+      "values": [
+        "německou",
+        "izraelskou",
+        "brazilskou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dakota Johnsonová",
+      "values": [
+        "americkou",
+        "britskou",
+        "jihoafrickou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jane Fondová",
+      "values": [
+        "americkou",
+        "českou",
+        "maďarskou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Khloé Kardashian",
+      "values": [
+        "rakouskou",
+        "americkou",
+        "britskou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tyra Banksová",
+      "values": [
+        "argentinskou",
+        "americkou",
+        "ruskou",
+        "slovenskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gabriela Kratochvílová",
+      "values": [
+        "českou",
+        "maďarskou",
+        "italskou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lucie Křížková",
+      "values": [
+        "ukrajinskou",
+        "německou",
+        "slovenskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jennifer Beals",
+      "values": [
+        "americkou",
+        "italskou",
+        "britskou",
+        "irskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nikol Moravcová",
+      "values": [
+        "dánskou",
+        "britskou",
+        "slovenskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte oblast podle ptáka",
+  "questions": [
+    {
+      "key": "Vrabec domácí",
+      "values": [
+        "celosvětové rozšíření",
+        "Antarktida",
+        "Severní Amerika",
+        "Tichý oceán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Albatros stěhovavý",
+      "values": [
+        "Tichý oceán",
+        "Antarktida",
+        "Severní Amerika",
+        "Jižní oceán"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sýc rousný",
+      "values": [
+        "Atlantský oceán",
+        "Orientální oblast",
+        "Afrika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kajka mořská",
+      "values": [
+        "Střední Amerika",
+        "Severní Amerika",
+        "Orientální oblast",
+        "Jižní oceán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Papoušík růžohrdlý",
+      "values": [
+        "Afrika",
+        "Indický oceán",
+        "Severní Amerika",
+        "celosvětové rozšíření"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Buřňák lední",
+      "values": [
+        "Jižní oceán",
+        "Střední Amerika",
+        "Afrika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sup krahujový",
+      "values": [
+        "Antarktida",
+        "Indický oceán",
+        "Jižní oceán",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Volavka černá",
+      "values": [
+        "Střední Amerika",
+        "Indický oceán",
+        "celosvětové rozšíření",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Linduška horská",
+      "values": [
+        "Indický oceán",
+        "Afrika",
+        "Jižní Amerika",
+        "Orientální oblast"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ibis hagedaš",
+      "values": [
+        "celosvětové rozšíření",
+        "Orientální oblast",
+        "Tichý oceán",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

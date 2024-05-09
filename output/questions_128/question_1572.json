@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] televizní stanici?",
+  "questions": [
+    {
+      "key": "CNN Prima News",
+      "values": [
+        "francouzskou",
+        "italskou",
+        "ruskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nova Action",
+      "values": [
+        "kanadskou",
+        "německou",
+        "chorvatskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "ZDF",
+      "values": [
+        "německou",
+        "polskou",
+        "chorvatskou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "NBC",
+      "values": [
+        "americkou",
+        "německou",
+        "britskou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Prima Max",
+      "values": [
+        "slovenskou",
+        "chorvatskou",
+        "českou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Prima Star",
+      "values": [
+        "francouzskou",
+        "českou",
+        "německou",
+        "chorvatskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Discovery Channel",
+      "values": [
+        "japonskou",
+        "americkou",
+        "finskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "TF1",
+      "values": [
+        "německou",
+        "francouzskou",
+        "britskou",
+        "norskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Óčko Star",
+      "values": [
+        "jihokorejskou",
+        "slovenskou",
+        "japonskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "TV Tokyo",
+      "values": [
+        "slovenskou",
+        "českou",
+        "chorvatskou",
+        "japonskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

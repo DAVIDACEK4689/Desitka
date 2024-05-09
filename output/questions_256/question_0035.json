@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Hradec Králové",
+      "values": [
+        "Dánsko",
+        "Portugalsko",
+        "Česko",
+        "Rakousko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gdaňsk",
+      "values": [
+        "Polsko",
+        "Nizozemsko",
+        "Itálie",
+        "Německo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Innsbruck",
+      "values": [
+        "Rakousko",
+        "Portugalsko",
+        "Nizozemsko",
+        "Irsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lodž",
+      "values": [
+        "Rakousko",
+        "Polsko",
+        "Česko",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gent",
+      "values": [
+        "Německo",
+        "Belgie",
+        "Nizozemsko",
+        "Rakousko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Parma",
+      "values": [
+        "Nizozemsko",
+        "Spojené království",
+        "Rakousko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kassel",
+      "values": [
+        "Spojené království",
+        "Belgie",
+        "Irsko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Osnabrück",
+      "values": [
+        "Spojené království",
+        "Itálie",
+        "Portugalsko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bělostok",
+      "values": [
+        "Rakousko",
+        "Dánsko",
+        "Portugalsko",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pavia",
+      "values": [
+        "Belgie",
+        "Nizozemsko",
+        "Česko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

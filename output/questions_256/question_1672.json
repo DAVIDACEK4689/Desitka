@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle muzea",
+  "questions": [
+    {
+      "key": "Koncentrační tábor Flossenbürg",
+      "values": [
+        "Německo",
+        "Vatikán",
+        "Spojené království",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Královský palác v Madridu",
+      "values": [
+        "Španělsko",
+        "Německo",
+        "Rusko",
+        "Spojené království"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dům Anne Frankové",
+      "values": [
+        "Nizozemsko",
+        "Spojené království",
+        "Vatikán",
+        "Španělsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rijksmuseum Amsterdam",
+      "values": [
+        "Spojené království",
+        "Rusko",
+        "Francie",
+        "Nizozemsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Guggenheimovo muzeum Bilbao",
+      "values": [
+        "Rusko",
+        "Německo",
+        "Francie",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Van Goghovo muzeum",
+      "values": [
+        "Španělsko",
+        "Nizozemsko",
+        "Rusko",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bletchley Park",
+      "values": [
+        "Spojené království",
+        "Německo",
+        "Francie",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petropavlovská pevnost",
+      "values": [
+        "Vatikán",
+        "Španělsko",
+        "Rusko",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Raffaelovy sály",
+      "values": [
+        "Vatikán",
+        "Rusko",
+        "Španělsko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Město umění a věd",
+      "values": [
+        "Španělsko",
+        "Německo",
+        "Rusko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

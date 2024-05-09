@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Řebříček obecný",
+      "values": [
+        "Mongolsko",
+        "Austrálie",
+        "Nový Zéland",
+        "Brazílie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Čekanka obecná",
+      "values": [
+        "Mexiko",
+        "Nový Zéland",
+        "Česko",
+        "Austrálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cizrna",
+      "values": [
+        "Mexiko",
+        "Česko",
+        "Nový Zéland",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Přeslička rolní",
+      "values": [
+        "Austrálie",
+        "Nový Zéland",
+        "Brazílie",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jahodník obecný",
+      "values": [
+        "Nový Zéland",
+        "Mongolsko",
+        "Brazílie",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Douglaska tisolistá",
+      "values": [
+        "Mongolsko",
+        "Mexiko",
+        "Česko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kalina obecná",
+      "values": [
+        "Mongolsko",
+        "Austrálie",
+        "Mexiko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Okurka",
+      "values": [
+        "Česko",
+        "Austrálie",
+        "Brazílie",
+        "Mexiko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sléz",
+      "values": [
+        "Česko",
+        "Brazílie",
+        "Austrálie",
+        "Nový Zéland"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oměj",
+      "values": [
+        "Austrálie",
+        "Česko",
+        "Mongolsko",
+        "Mexiko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

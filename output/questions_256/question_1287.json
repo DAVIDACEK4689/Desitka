@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle řeky",
+  "questions": [
+    {
+      "key": "Labe",
+      "values": [
+        "Španělsko",
+        "Itálie",
+        "Bangladéš",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ohře",
+      "values": [
+        "Česko",
+        "Portugalsko",
+        "Slovensko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Visla",
+      "values": [
+        "Španělsko",
+        "Slovensko",
+        "Moldavsko",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Indus",
+      "values": [
+        "Guyana",
+        "Chorvatsko",
+        "Pákistán",
+        "Portugalsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ebro",
+      "values": [
+        "Česko",
+        "Slovensko",
+        "Španělsko",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Radbuza",
+      "values": [
+        "Česko",
+        "Lotyšsko",
+        "Guyana",
+        "Portugalsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mosela",
+      "values": [
+        "Guyana",
+        "Lotyšsko",
+        "Polsko",
+        "Lucembursko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cetina",
+      "values": [
+        "Lotyšsko",
+        "Guyana",
+        "Chorvatsko",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Garonna",
+      "values": [
+        "Portugalsko",
+        "Pákistán",
+        "Guyana",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Irtyš",
+      "values": [
+        "Guyana",
+        "Česko",
+        "Portugalsko",
+        "Kazachstán"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

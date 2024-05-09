@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebníka?",
+  "questions": [
+    {
+      "key": "Blackpink",
+      "values": [
+        "australského",
+        "brazilského",
+        "jihokorejského",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Serge Gainsbourg",
+      "values": [
+        "chorvatského",
+        "francouzského",
+        "australského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eddie Van Halen",
+      "values": [
+        "bulharského",
+        "japonského",
+        "jihokorejského",
+        "nizozemského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sonny Bono",
+      "values": [
+        "rumunského",
+        "amerického",
+        "jugoslávského",
+        "jamajského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Parov Stelar",
+      "values": [
+        "švýcarského",
+        "jihoafrického",
+        "rakouského",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zubin Mehta",
+      "values": [
+        "německého",
+        "indického",
+        "nizozemského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Berlínští filharmonikové",
+      "values": [
+        "argentinského",
+        "německého",
+        "japonského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vachtang Kikabidze",
+      "values": [
+        "ruského",
+        "gruzínského",
+        "belgického",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miroslav Vodrážka",
+      "values": [
+        "jihoafrického",
+        "japonského",
+        "švýcarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vašek Vašák",
+      "values": [
+        "belgického",
+        "venezuelského",
+        "českého",
+        "bulharského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle státního symbolu",
+  "questions": [
+    {
+      "key": "Lípa malolistá",
+      "values": [
+        "Pákistán",
+        "Česká republika",
+        "Indie",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chryzantéma",
+      "values": [
+        "Sýrie",
+        "Nový Zéland",
+        "Japonsko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pravda vítězí",
+      "values": [
+        "Česká republika",
+        "Maďarsko",
+        "Indonésie",
+        "Izrael"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Moravská orlice",
+      "values": [
+        "Itálie",
+        "Francie",
+        "Česká republika",
+        "Argentina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ibišek syrský",
+      "values": [
+        "Jižní Korea",
+        "Česká republika",
+        "Myanmar",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Uherská koruna",
+      "values": [
+        "Maďarsko",
+        "Rusko",
+        "Německo",
+        "Myanmar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Páv zelený",
+      "values": [
+        "Německo",
+        "Jižní Korea",
+        "Česká republika",
+        "Myanmar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Úřední razítko",
+      "values": [
+        "Francie",
+        "Německo",
+        "Česká republika",
+        "Švýcarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Turecká hymna",
+      "values": [
+        "Maďarsko",
+        "Severní Kypr",
+        "Vatikán",
+        "Myanmar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pahoňa",
+      "values": [
+        "Indonésie",
+        "Keňa",
+        "Vatikán",
+        "Bělorusko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

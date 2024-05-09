@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] malíře?",
+  "questions": [
+    {
+      "key": "Marilyn Manson",
+      "values": [
+        "slovenského",
+        "amerického",
+        "ruského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Henri Matisse",
+      "values": [
+        "litevského",
+        "španělského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tintoretto",
+      "values": [
+        "francouzského",
+        "řeckého",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jurij Moravec",
+      "values": [
+        "českého",
+        "slovenského",
+        "německého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Führich",
+      "values": [
+        "finského",
+        "kolumbijského",
+        "rakouského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexandre Cabanel",
+      "values": [
+        "francouzského",
+        "švýcarského",
+        "dánského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rogier van der Weyden",
+      "values": [
+        "ukrajinského",
+        "nizozemského",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mauno Manninen",
+      "values": [
+        "kanadského",
+        "finského",
+        "litevského",
+        "novozélandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Roberto Matta",
+      "values": [
+        "německého",
+        "polského",
+        "řeckého",
+        "chilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Yves Tanguy",
+      "values": [
+        "izraelského",
+        "mexického",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Ľudovít Štúr",
+      "values": [
+        "kyrgyzského",
+        "tureckého",
+        "slovenského",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Erich Kulka",
+      "values": [
+        "tanzanského",
+        "ruského",
+        "izraelského",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Pořízka",
+      "values": [
+        "norského",
+        "běloruského",
+        "čínského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Wisława Szymborská",
+      "values": [
+        "egyptského",
+        "portugalského",
+        "švédského",
+        "polského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michael Servetus",
+      "values": [
+        "španělského",
+        "guatemalského",
+        "libanonského",
+        "uruguayského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Matija Murko",
+      "values": [
+        "ázerbájdžánského",
+        "slovinského",
+        "britského",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oskar Baum",
+      "values": [
+        "německého",
+        "švýcarského",
+        "egyptského",
+        "filipínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lennart Meri",
+      "values": [
+        "estonského",
+        "novozélandského",
+        "kanadského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Felix Salten",
+      "values": [
+        "slovinského",
+        "maďarského",
+        "portugalského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jernej Kopitar",
+      "values": [
+        "kubánského",
+        "kanadského",
+        "německého",
+        "slovinského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

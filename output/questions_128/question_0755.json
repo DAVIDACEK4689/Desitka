@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] vězně?",
+  "questions": [
+    {
+      "key": "Ivan Jonák",
+      "values": [
+        "běloruského",
+        "českého",
+        "sovětského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Frank Abagnale",
+      "values": [
+        "amerického",
+        "íránského",
+        "velšského",
+        "izraelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Roman Janoušek",
+      "values": [
+        "izraelského",
+        "českého",
+        "běloruského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Vlasák",
+      "values": [
+        "sovětského",
+        "českého",
+        "norského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vladimír Bayer",
+      "values": [
+        "sovětského",
+        "norského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Egon Krenz",
+      "values": [
+        "německého",
+        "íránského",
+        "ruského",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Raman Pratasevič",
+      "values": [
+        "francouzského",
+        "íránského",
+        "italského",
+        "běloruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sirhan Sirhan",
+      "values": [
+        "českého",
+        "italského",
+        "velšského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sjarhej Cichanouski",
+      "values": [
+        "izraelského",
+        "norského",
+        "sovětského",
+        "běloruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Einar Gerhardsen",
+      "values": [
+        "rakouského",
+        "norského",
+        "italského",
+        "běloruského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

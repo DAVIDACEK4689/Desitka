@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Lou Fanánek Hagen",
+      "values": [
+        "kanadského",
+        "českého",
+        "britského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Johnny Cash",
+      "values": [
+        "ruského",
+        "amerického",
+        "slovenského",
+        "arménského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Georg Friedrich Händel",
+      "values": [
+        "kanadského",
+        "britského",
+        "australského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miro Šmajda",
+      "values": [
+        "švédského",
+        "slovenského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Władysław Szpilman",
+      "values": [
+        "polského",
+        "řeckého",
+        "irského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Andrew Lloyd Webber",
+      "values": [
+        "irského",
+        "amerického",
+        "ruského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Toto Cutugno",
+      "values": [
+        "italského",
+        "ruského",
+        "rakouského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nick Cave",
+      "values": [
+        "francouzského",
+        "australského",
+        "polského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ludovico Einaudi",
+      "values": [
+        "švédského",
+        "italského",
+        "rakouského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "John Denver",
+      "values": [
+        "ruského",
+        "řeckého",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

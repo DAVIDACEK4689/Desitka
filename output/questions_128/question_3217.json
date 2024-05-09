@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Red 2",
+      "values": [
+        "Ruben Fleischer",
+        "Roger Corman",
+        "Dean Parisot",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dvanáct opic",
+      "values": [
+        "Miloš Forman",
+        "John McTiernan",
+        "Ivan Passer",
+        "Terry Gilliam"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Wonder Woman 1984",
+      "values": [
+        "Rob Reiner",
+        "Patty Jenkinsová",
+        "Arthur Penn",
+        "Martin Brest"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cesta do Ameriky",
+      "values": [
+        "Jonathan Demme",
+        "Patty Jenkinsová",
+        "John Landis",
+        "Billy Wilder"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kletba bratří Grimmů",
+      "values": [
+        "Howard Hughes",
+        "Brian De Palma",
+        "Terry Gilliam",
+        "Jason Reitman"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Muži v černém 3",
+      "values": [
+        "David Twohy",
+        "Christopher Nolan",
+        "Barry Sonnenfeld",
+        "Miloš Forman"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Půlnoční kovboj",
+      "values": [
+        "Tim Burton",
+        "John Schlesinger",
+        "Chloé Zhaová",
+        "Shane Black"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marley a já",
+      "values": [
+        "Frank Darabont",
+        "David Frankel",
+        "Wes Anderson",
+        "Robert Aldrich"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Černá Dahlia",
+      "values": [
+        "Sam Raimi",
+        "Michael Cimino",
+        "Garry Marshall",
+        "Brian De Palma"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Loganovi parťáci",
+      "values": [
+        "Pete Docter",
+        "Matt Reeves",
+        "Robert Wise",
+        "Steven Soderbergh"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

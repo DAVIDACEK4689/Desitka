@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Jitrocel kopinatý",
+      "values": [
+        "Brazílie",
+        "Česko",
+        "Mongolsko",
+        "Austrálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Buk lesní",
+      "values": [
+        "Austrálie",
+        "Brazílie",
+        "Mexiko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hortenzie",
+      "values": [
+        "Nový Zéland",
+        "Mexiko",
+        "Brazílie",
+        "Austrálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paprika",
+      "values": [
+        "Mexiko",
+        "Austrálie",
+        "Brazílie",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Javor mléč",
+      "values": [
+        "Česko",
+        "Mexiko",
+        "Austrálie",
+        "Mongolsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Divizna velkokvětá",
+      "values": [
+        "Česko",
+        "Austrálie",
+        "Mexiko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Brusnice borůvka",
+      "values": [
+        "Česko",
+        "Brazílie",
+        "Mongolsko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pelyněk černobýl",
+      "values": [
+        "Mongolsko",
+        "Brazílie",
+        "Nový Zéland",
+        "Austrálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bugenvilea",
+      "values": [
+        "Brazílie",
+        "Austrálie",
+        "Nový Zéland",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oves",
+      "values": [
+        "Mexiko",
+        "Česko",
+        "Brazílie",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

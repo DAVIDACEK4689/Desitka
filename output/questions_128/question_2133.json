@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Emma Smetana",
+      "values": [
+        "českou",
+        "italskou",
+        "britskou",
+        "islandskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dua Lipa",
+      "values": [
+        "kolumbijskou",
+        "polskou",
+        "britskou",
+        "novozélandskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nico",
+      "values": [
+        "brazilskou",
+        "německou",
+        "ukrajinskou",
+        "indickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Doja Cat",
+      "values": [
+        "srbskou",
+        "americkou",
+        "slovenskou",
+        "jamajskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vlasta Kahovcová",
+      "values": [
+        "islandskou",
+        "japonskou",
+        "českou",
+        "kolumbijskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eva Máziková",
+      "values": [
+        "kanadskou",
+        "slovenskou",
+        "kubánskou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Irene Cara",
+      "values": [
+        "maďarskou",
+        "finskou",
+        "portugalskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tia Carrereová",
+      "values": [
+        "rumunskou",
+        "švédskou",
+        "irskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mahalia Jackson",
+      "values": [
+        "americkou",
+        "nizozemskou",
+        "německou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Severina Vučković",
+      "values": [
+        "kolumbijskou",
+        "mexickou",
+        "francouzskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

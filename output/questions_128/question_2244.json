@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenoristu?",
+  "questions": [
+    {
+      "key": "Karel Gott",
+      "values": [
+        "italského",
+        "britského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Štefan Margita",
+      "values": [
+        "španělského",
+        "německého",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Luciano Pavarotti",
+      "values": [
+        "italského",
+        "českého",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "František Škroup",
+      "values": [
+        "českého",
+        "německého",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Enrico Caruso",
+      "values": [
+        "amerického",
+        "italského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Plácido Domingo",
+      "values": [
+        "českého",
+        "španělského",
+        "slovenského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "José Carreras",
+      "values": [
+        "španělského",
+        "německého",
+        "slovenského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Nekoranec",
+      "values": [
+        "českého",
+        "italského",
+        "slovenského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Beno Blachut",
+      "values": [
+        "italského",
+        "španělského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mario Lanza",
+      "values": [
+        "amerického",
+        "britského",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

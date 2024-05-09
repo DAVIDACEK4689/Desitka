@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fyzika?",
+  "questions": [
+    {
+      "key": "Stephen Hawking",
+      "values": [
+        "britského",
+        "dánského",
+        "nizozemského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "René Descartes",
+      "values": [
+        "amerického",
+        "švédského",
+        "srbského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Blaise Pascal",
+      "values": [
+        "francouzského",
+        "českého",
+        "srbského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Richard Feynman",
+      "values": [
+        "francouzského",
+        "amerického",
+        "italského",
+        "íránského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Wilhelm Conrad Röntgen",
+      "values": [
+        "švýcarského",
+        "amerického",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Erwin Schrödinger",
+      "values": [
+        "rakouského",
+        "ruského",
+        "britského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "František Běhounek",
+      "values": [
+        "amerického",
+        "švédského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Carl Friedrich Gauss",
+      "values": [
+        "švédského",
+        "srbského",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Max Planck",
+      "values": [
+        "amerického",
+        "švédského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Leonhard Euler",
+      "values": [
+        "irského",
+        "švédského",
+        "italského",
+        "švýcarského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

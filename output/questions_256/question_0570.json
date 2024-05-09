@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] hokejového trenéra?",
+  "questions": [
+    {
+      "key": "Kari Jalonen",
+      "values": [
+        "ruského",
+        "lotyšského",
+        "finského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vladimír Martinec",
+      "values": [
+        "lotyšského",
+        "finského",
+        "slovenského",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bobby Orr",
+      "values": [
+        "finského",
+        "ruského",
+        "německého",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimír Zábrodský",
+      "values": [
+        "ruského",
+        "finského",
+        "slovenského",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vjačeslav Fetisov",
+      "values": [
+        "ruského",
+        "kanadského",
+        "československého",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Kochta",
+      "values": [
+        "ruského",
+        "německého",
+        "lotyšského",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Pospíšil",
+      "values": [
+        "německého",
+        "československého",
+        "finského",
+        "lotyšského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Artūrs Irbe",
+      "values": [
+        "finského",
+        "československého",
+        "německého",
+        "lotyšského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Richard Farda",
+      "values": [
+        "československého",
+        "slovenského",
+        "ruského",
+        "lotyšského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Gut",
+      "values": [
+        "ruského",
+        "lotyšského",
+        "německého",
+        "československého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

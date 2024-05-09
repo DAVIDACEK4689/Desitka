@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte australského režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Aquaman a ztracené království",
+      "values": [
+        "Mel Gibson",
+        "George Miller",
+        "James Wan",
+        "Peter Weir"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Statečné srdce",
+      "values": [
+        "Peter Weir",
+        "James Wan",
+        "Mel Gibson",
+        "Bruce Beresford"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "V zajetí démonů",
+      "values": [
+        "James Wan",
+        "Bruce Beresford",
+        "Mel Gibson",
+        "Peter Weir"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rychle a zběsile 7",
+      "values": [
+        "Peter Weir",
+        "Bruce Beresford",
+        "James Wan",
+        "George Miller"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Šílený Max",
+      "values": [
+        "George Miller",
+        "Bruce Beresford",
+        "Peter Weir",
+        "James Wan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Umučení Krista",
+      "values": [
+        "James Wan",
+        "George Miller",
+        "Bruce Beresford",
+        "Mel Gibson"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Insidious",
+      "values": [
+        "Peter Weir",
+        "James Wan",
+        "George Miller",
+        "Bruce Beresford"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Společnost mrtvých básníků",
+      "values": [
+        "Peter Weir",
+        "Mel Gibson",
+        "Bruce Beresford",
+        "George Miller"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Truman Show",
+      "values": [
+        "Bruce Beresford",
+        "Mel Gibson",
+        "George Miller",
+        "Peter Weir"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Apocalypto",
+      "values": [
+        "Mel Gibson",
+        "Bruce Beresford",
+        "George Miller",
+        "Peter Weir"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filozofa?",
+  "questions": [
+    {
+      "key": "Mahátma Gándhí",
+      "values": [
+        "ruského",
+        "indického",
+        "švýcarského",
+        "byzantského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gottfried Wilhelm Leibniz",
+      "values": [
+        "italského",
+        "německého",
+        "švédského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pierre Abélard",
+      "values": [
+        "francouzského",
+        "švédského",
+        "čínského",
+        "egyptského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexis de Tocqueville",
+      "values": [
+        "maďarského",
+        "australského",
+        "francouzského",
+        "perského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vladimir Solovjov",
+      "values": [
+        "ukrajinského",
+        "italského",
+        "ruského",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Max Scheler",
+      "values": [
+        "německého",
+        "švédského",
+        "českého",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bódhidharma",
+      "values": [
+        "řeckého",
+        "italského",
+        "byzantského",
+        "indického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "William Stern",
+      "values": [
+        "britského",
+        "amerického",
+        "italského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaroslav Peregrin",
+      "values": [
+        "italského",
+        "čínského",
+        "českého",
+        "srbského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jacques Ellul",
+      "values": [
+        "švédského",
+        "francouzského",
+        "čínského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

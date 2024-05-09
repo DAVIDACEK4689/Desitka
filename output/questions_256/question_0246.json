@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Selena Gomezová",
+      "values": [
+        "americkou",
+        "norskou",
+        "českou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Adele",
+      "values": [
+        "islandskou",
+        "izraelskou",
+        "japonskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lenka Dusilová",
+      "values": [
+        "indickou",
+        "českou",
+        "švýcarskou",
+        "australskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jana Robbová",
+      "values": [
+        "českou",
+        "nizozemskou",
+        "švýcarskou",
+        "indickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Shania Twain",
+      "values": [
+        "ukrajinskou",
+        "finskou",
+        "kanadskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nela Kailová",
+      "values": [
+        "nizozemskou",
+        "uruguayskou",
+        "českou",
+        "polskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Liz Mitchell",
+      "values": [
+        "německou",
+        "francouzskou",
+        "polskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pavlína Braunová",
+      "values": [
+        "českou",
+        "německou",
+        "uruguayskou",
+        "mexickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Izabella Scorupco",
+      "values": [
+        "švýcarskou",
+        "brazilskou",
+        "polskou",
+        "izraelskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Yma Sumac",
+      "values": [
+        "peruánskou",
+        "uruguayskou",
+        "brazilskou",
+        "švédskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

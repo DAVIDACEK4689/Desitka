@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] klavíristu?",
+  "questions": [
+    {
+      "key": "Jaroslav Uhlíř",
+      "values": [
+        "italského",
+        "polského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Axl Rose",
+      "values": [
+        "rakouského",
+        "italského",
+        "amerického",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Filip Topol",
+      "values": [
+        "německého",
+        "rakouského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Malásek",
+      "values": [
+        "českého",
+        "německého",
+        "rakouského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Brabec",
+      "values": [
+        "australského",
+        "českého",
+        "rakouského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sergej Prokofjev",
+      "values": [
+        "maďarského",
+        "australského",
+        "německého",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Malásek",
+      "values": [
+        "rakouského",
+        "amerického",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ilja Hurník",
+      "values": [
+        "amerického",
+        "českého",
+        "maďarského",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Carl Maria von Weber",
+      "values": [
+        "maďarského",
+        "německého",
+        "českého",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Modest Petrovič Musorgskij",
+      "values": [
+        "německého",
+        "ruského",
+        "francouzského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

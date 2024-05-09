@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Jasmín",
+      "values": [
+        "Česko",
+        "Austrálie",
+        "Mexiko",
+        "Madagaskar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Agáve",
+      "values": [
+        "Mongolsko",
+        "Madagaskar",
+        "Mexiko",
+        "Austrálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dymnivka dutá",
+      "values": [
+        "Nový Zéland",
+        "Austrálie",
+        "Mexiko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mancinela obecná",
+      "values": [
+        "Mexiko",
+        "Mongolsko",
+        "Nový Zéland",
+        "Madagaskar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bika ladní",
+      "values": [
+        "Česko",
+        "Nový Zéland",
+        "Mongolsko",
+        "Brazílie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Blahovičník kulatoplodý",
+      "values": [
+        "Japonsko",
+        "Austrálie",
+        "Brazílie",
+        "Mongolsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Divizna brunátná",
+      "values": [
+        "Česko",
+        "Nový Zéland",
+        "Mongolsko",
+        "Japonsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kakost lesní",
+      "values": [
+        "Japonsko",
+        "Mexiko",
+        "Madagaskar",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lipnice hajní",
+      "values": [
+        "Mongolsko",
+        "Česko",
+        "Japonsko",
+        "Mexiko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eugenie jednokvětá",
+      "values": [
+        "Madagaskar",
+        "Mongolsko",
+        "Austrálie",
+        "Brazílie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

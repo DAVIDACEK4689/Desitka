@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [typ] organizaci?",
+  "questions": [
+    {
+      "key": "Hamás",
+      "values": [
+        "partyzánskou",
+        "ekologickou",
+        "fotografickou",
+        "zdravotnickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Organizace pro osvobození Palestiny",
+      "values": [
+        "partyzánskou",
+        "ekologickou",
+        "fiktivní",
+        "náboženskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Duhová vlajka",
+      "values": [
+        "šlechtickou",
+        "humanitární",
+        "ekologickou",
+        "zaniklou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Český svaz bojovníků za svobodu",
+      "values": [
+        "vědeckou",
+        "politickou",
+        "zločineckou",
+        "fotografickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mensa International",
+      "values": [
+        "humanitární",
+        "mezinárodní",
+        "leteckou",
+        "náboženskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Freedom House",
+      "values": [
+        "vzdělávací",
+        "náboženskou",
+        "fiktivní",
+        "mezinárodní"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lví doupě",
+      "values": [
+        "partyzánskou",
+        "fiktivní",
+        "zdravotnickou",
+        "šlechtickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "SWAPO",
+      "values": [
+        "partyzánskou",
+        "mezinárodní",
+        "vědeckou",
+        "zločineckou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gézové",
+      "values": [
+        "hospodářskou",
+        "partyzánskou",
+        "politickou",
+        "vědeckou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kosmická gilda",
+      "values": [
+        "jazykovou",
+        "leteckou",
+        "humanitární",
+        "fiktivní"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

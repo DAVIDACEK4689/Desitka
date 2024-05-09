@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] právníka?",
+  "questions": [
+    {
+      "key": "Karel Kramář",
+      "values": [
+        "německého",
+        "ruského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robert Kaliňák",
+      "values": [
+        "polského",
+        "českého",
+        "slovenského",
+        "lotyšského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robert Kerndl",
+      "values": [
+        "ruského",
+        "britského",
+        "českého",
+        "srbského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomáš Nielsen",
+      "values": [
+        "peruánského",
+        "švýcarského",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lajos Kossuth",
+      "values": [
+        "amerického",
+        "rakouského",
+        "maďarského",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andrej Poleščuk",
+      "values": [
+        "argentinského",
+        "českého",
+        "maďarského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ben Ferencz",
+      "values": [
+        "amerického",
+        "peruánského",
+        "ukrajinského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ronan Farrow",
+      "values": [
+        "amerického",
+        "švýcarského",
+        "argentinského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nataša Pircová Musarová",
+      "values": [
+        "estonského",
+        "slovinského",
+        "polského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Anatolij Sobčak",
+      "values": [
+        "rakouského",
+        "švýcarského",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Jevgenij Prigožin",
+      "values": [
+        "ruského",
+        "italského",
+        "ukrajinského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vlasta Burian",
+      "values": [
+        "rakouského",
+        "francouzského",
+        "českého",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Kellner",
+      "values": [
+        "švédského",
+        "francouzského",
+        "českého",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ken Block",
+      "values": [
+        "slovenského",
+        "ukrajinského",
+        "amerického",
+        "libanonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andrew Tate",
+      "values": [
+        "amerického",
+        "německého",
+        "ruského",
+        "libanonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Igor Matovič",
+      "values": [
+        "slovenského",
+        "ukrajinského",
+        "rakouského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Janeček",
+      "values": [
+        "ukrajinského",
+        "slovenského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Walt Disney",
+      "values": [
+        "amerického",
+        "českého",
+        "německého",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zdeněk Bakala",
+      "values": [
+        "rakouského",
+        "ukrajinského",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michal Horáček",
+      "values": [
+        "německého",
+        "slovenského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

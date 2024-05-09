@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle pohoří",
+  "questions": [
+    {
+      "key": "Olymp",
+      "values": [
+        "Řecko",
+        "Španělsko",
+        "Bulharsko",
+        "Indie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jeseníky",
+      "values": [
+        "Francie",
+        "Bulharsko",
+        "Austrálie",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ardeny",
+      "values": [
+        "Francie",
+        "Rakousko",
+        "Německo",
+        "Rumunsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Galilea",
+      "values": [
+        "Chorvatsko",
+        "Izrael",
+        "Maroko",
+        "Řecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vogézy",
+      "values": [
+        "Francie",
+        "Austrálie",
+        "Alžírsko",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Velebit",
+      "values": [
+        "Chorvatsko",
+        "Maďarsko",
+        "Austrálie",
+        "Španělsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Durmitor",
+      "values": [
+        "Rumunsko",
+        "Itálie",
+        "Černá Hora",
+        "Austrálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bavorský les",
+      "values": [
+        "Chorvatsko",
+        "Řecko",
+        "Černá Hora",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Belianské Tatry",
+      "values": [
+        "Německo",
+        "Rakousko",
+        "Slovensko",
+        "Maďarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tassili",
+      "values": [
+        "Alžírsko",
+        "Austrálie",
+        "Řecko",
+        "Bulharsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

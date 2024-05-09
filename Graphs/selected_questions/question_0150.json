@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Istanbul",
+      "values": [
+        "Turecko",
+        "Kyrgyzstán",
+        "Švédsko",
+        "Maroko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Soluň",
+      "values": [
+        "Kyrgyzstán",
+        "Keňa",
+        "Řecko",
+        "Malta"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bern",
+      "values": [
+        "Severní Makedonie",
+        "Pero",
+        "Indonésie",
+        "Švýcarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dubrovník",
+      "values": [
+        "Maroko",
+        "Chorvatsko",
+        "Albánie",
+        "Švýcarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hanoj",
+      "values": [
+        "Vietnam",
+        "Indie",
+        "Malta",
+        "Thajsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kišiněv",
+      "values": [
+        "Moldavsko",
+        "Egypt",
+        "Mexiko",
+        "Slovinsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Teherán",
+      "values": [
+        "Bělorusko",
+        "Írán",
+        "Jordánsko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Valletta",
+      "values": [
+        "Malta",
+        "Grónsko",
+        "Pero",
+        "Jordánsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kemer",
+      "values": [
+        "Portugalsko",
+        "Jordánsko",
+        "Německo",
+        "Turecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Poreč",
+      "values": [
+        "Turecko",
+        "Mexiko",
+        "Chorvatsko",
+        "Kolumbie"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

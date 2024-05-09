@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte britského režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Top Gun",
+      "values": [
+        "Tony Scott",
+        "Terry Gilliam",
+        "John Guillermin",
+        "Wash Westmoreland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Předčítač",
+      "values": [
+        "Kirk Jones",
+        "Charlie Chaplin",
+        "Lewis Gilbert",
+        "Stephen Daldry"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Skleněné peklo",
+      "values": [
+        "Alex Cox",
+        "Paul Greengrass",
+        "John Guillermin",
+        "Roger Spottiswoode"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vyhlídka na vraždu",
+      "values": [
+        "Danny Boyle",
+        "Guy Ritchie",
+        "Adrian Lyne",
+        "John Glen"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zítřek nikdy neumírá",
+      "values": [
+        "Danny Boyle",
+        "Roger Spottiswoode",
+        "Paul Greengrass",
+        "Jim Gillespie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kletba bratří Grimmů",
+      "values": [
+        "Terry Gilliam",
+        "Ken Annakin",
+        "Anthony Minghella",
+        "Guy Hamilton"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nejdelší den",
+      "values": [
+        "Ken Annakin",
+        "John Glen",
+        "Mike Newell",
+        "Richard Attenborough"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Půlnoční kovboj",
+      "values": [
+        "Sam Mendes",
+        "Roger Spottiswoode",
+        "Anthony Minghella",
+        "John Schlesinger"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Moderní doba",
+      "values": [
+        "Peter Howitt",
+        "Edgar Wright",
+        "Charlie Chaplin",
+        "Stephen Daldry"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Soumrak mrtvých",
+      "values": [
+        "Danny Boyle",
+        "Tony Scott",
+        "Stephen Hopkins",
+        "Edgar Wright"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

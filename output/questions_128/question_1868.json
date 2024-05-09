@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] leteckou společnost?",
+  "questions": [
+    {
+      "key": "Lufthansa",
+      "values": [
+        "německou",
+        "řeckou",
+        "českou",
+        "irskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "LOT",
+      "values": [
+        "kolumbijskou",
+        "polskou",
+        "lotyšskou",
+        "českou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "United Airlines",
+      "values": [
+        "polskou",
+        "španělskou",
+        "řeckou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Transavia",
+      "values": [
+        "nizozemskou",
+        "britskou",
+        "rumunskou",
+        "australskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Iran Air",
+      "values": [
+        "německou",
+        "íránskou",
+        "japonskou",
+        "polskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Malév",
+      "values": [
+        "maďarskou",
+        "saúdskou",
+        "rakouskou",
+        "rumunskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Volotea",
+      "values": [
+        "chorvatskou",
+        "slovenskou",
+        "španělskou",
+        "norskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Air Fischer",
+      "values": [
+        "mexickou",
+        "australskou",
+        "kanadskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Van Air Europe",
+      "values": [
+        "slovenskou",
+        "srbskou",
+        "kanadskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aeroméxico",
+      "values": [
+        "řeckou",
+        "mexickou",
+        "chorvatskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

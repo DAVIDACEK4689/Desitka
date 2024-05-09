@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle hradu",
+  "questions": [
+    {
+      "key": "Oravský hrad",
+      "values": [
+        "Slovinsko",
+        "Irsko",
+        "Turecko",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Trenčínský hrad",
+      "values": [
+        "Rusko",
+        "Maďarsko",
+        "Slovensko",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Wartburg",
+      "values": [
+        "Izrael",
+        "Irsko",
+        "Německo",
+        "Španělsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marksburg",
+      "values": [
+        "Německo",
+        "Slovinsko",
+        "Jordánsko",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kókjo",
+      "values": [
+        "Japonsko",
+        "Sýrie",
+        "Rusko",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Leap Castle",
+      "values": [
+        "Irsko",
+        "Jordánsko",
+        "Maďarsko",
+        "Španělsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Guédelon",
+      "values": [
+        "Švýcarsko",
+        "Rakousko",
+        "Francie",
+        "Jordánsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rock of Cashel",
+      "values": [
+        "Německo",
+        "Japonsko",
+        "Irsko",
+        "Finsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Katarské hrady",
+      "values": [
+        "Rakousko",
+        "Slovinsko",
+        "Francie",
+        "Španělsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vígľašský zámek",
+      "values": [
+        "Slovensko",
+        "Rakousko",
+        "Izrael",
+        "Slovinsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

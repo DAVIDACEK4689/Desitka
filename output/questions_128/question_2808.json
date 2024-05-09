@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] inženýra?",
+  "questions": [
+    {
+      "key": "Boris Jelcin",
+      "values": [
+        "ruského",
+        "amerického",
+        "švýcarského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rudolf Diesel",
+      "values": [
+        "německého",
+        "českého",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Václav Laurin",
+      "values": [
+        "švédského",
+        "amerického",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Muhammad Mursí",
+      "values": [
+        "egyptského",
+        "německého",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Schebek",
+      "values": [
+        "egyptského",
+        "amerického",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Osvald Životský",
+      "values": [
+        "amerického",
+        "českého",
+        "ruského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavla Vrabcová",
+      "values": [
+        "amerického",
+        "francouzského",
+        "českého",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rudolf Formis",
+      "values": [
+        "amerického",
+        "českého",
+        "švédského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nikolaj Slavjanov",
+      "values": [
+        "rakouského",
+        "rumunského",
+        "francouzského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Barvitius",
+      "values": [
+        "slovenského",
+        "švédského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

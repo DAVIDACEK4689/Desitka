@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebníka?",
+  "questions": [
+    {
+      "key": "Petr Vondráček",
+      "values": [
+        "českého",
+        "japonského",
+        "australského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Benny Andersson",
+      "values": [
+        "švédského",
+        "britského",
+        "jugoslávského",
+        "bulharského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Steven Tyler",
+      "values": [
+        "amerického",
+        "japonského",
+        "jihokorejského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Filip Karlík",
+      "values": [
+        "českého",
+        "francouzského",
+        "irského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michal Zelenka",
+      "values": [
+        "indického",
+        "českého",
+        "japonského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Velebný",
+      "values": [
+        "arménského",
+        "brazilského",
+        "českého",
+        "jugoslávského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Taylor Momsen",
+      "values": [
+        "rumunského",
+        "švédského",
+        "jamajského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tove Lo",
+      "values": [
+        "jamajského",
+        "italského",
+        "švédského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Shavo Odadjian",
+      "values": [
+        "bulharského",
+        "arménského",
+        "ukrajinského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lukáš Vincour",
+      "values": [
+        "francouzského",
+        "norského",
+        "českého",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

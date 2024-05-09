@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Václav Noid Bárta",
+      "values": [
+        "švédského",
+        "dánského",
+        "čínského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Čenský",
+      "values": [
+        "českého",
+        "německého",
+        "rakouského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Frič",
+      "values": [
+        "českého",
+        "německého",
+        "slovenského",
+        "australského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Antonín Duchoslav",
+      "values": [
+        "amerického",
+        "dánského",
+        "sovětského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel Effa",
+      "values": [
+        "španělského",
+        "novozélandského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ferenc Futurista",
+      "values": [
+        "indického",
+        "německého",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ethan Hawke",
+      "values": [
+        "kanadského",
+        "nizozemského",
+        "amerického",
+        "novozélandského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eduard Kohout",
+      "values": [
+        "malajsijského",
+        "marockého",
+        "českého",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "John Cazale",
+      "values": [
+        "amerického",
+        "českého",
+        "novozélandského",
+        "venezuelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bolo Yeung",
+      "values": [
+        "maďarského",
+        "čínského",
+        "tureckého",
+        "venezuelského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

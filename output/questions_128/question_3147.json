@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Lela Vémola",
+      "values": [
+        "indickou",
+        "nizozemskou",
+        "švýcarskou",
+        "slovenskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kateřina Kornová",
+      "values": [
+        "českou",
+        "maďarskou",
+        "indickou",
+        "polskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eva Herzigová",
+      "values": [
+        "českou",
+        "indickou",
+        "venezuelskou",
+        "jihoafrickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nicol Lenertová",
+      "values": [
+        "britskou",
+        "dánskou",
+        "francouzskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kateřina Dostálová",
+      "values": [
+        "českou",
+        "jihoafrickou",
+        "argentinskou",
+        "izraelskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ali MacGrawová",
+      "values": [
+        "americkou",
+        "izraelskou",
+        "britskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kateřina Kasanová",
+      "values": [
+        "českou",
+        "australskou",
+        "indickou",
+        "japonskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Denisa Dvořáková",
+      "values": [
+        "britskou",
+        "australskou",
+        "ukrajinskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zoey Deutch",
+      "values": [
+        "jihoafrickou",
+        "indickou",
+        "nizozemskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sylvia Hoeksová",
+      "values": [
+        "italskou",
+        "nizozemskou",
+        "slovenskou",
+        "irskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

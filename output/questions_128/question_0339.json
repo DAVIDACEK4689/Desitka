@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] chemika?",
+  "questions": [
+    {
+      "key": "Alfred Nobel",
+      "values": [
+        "švédského",
+        "italského",
+        "maďarského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Antonín Holý",
+      "values": [
+        "maďarského",
+        "českého",
+        "nizozemského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Georgius Agricola",
+      "values": [
+        "rakouského",
+        "amerického",
+        "britského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Svante Arrhenius",
+      "values": [
+        "britského",
+        "australského",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hana Dvořáková",
+      "values": [
+        "německého",
+        "českého",
+        "ruského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Thomas Midgley",
+      "values": [
+        "rakouského",
+        "amerického",
+        "švýcarského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Wald",
+      "values": [
+        "italského",
+        "českého",
+        "nizozemského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joseph Priestley",
+      "values": [
+        "maďarského",
+        "britského",
+        "francouzského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Melvin Calvin",
+      "values": [
+        "dánského",
+        "slovenského",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Howard Walter Florey",
+      "values": [
+        "maďarského",
+        "německého",
+        "kanadského",
+        "australského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

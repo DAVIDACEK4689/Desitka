@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Andrea Bezděková",
+      "values": [
+        "indickou",
+        "českou",
+        "italskou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lejla Abbasová",
+      "values": [
+        "slovenskou",
+        "českou",
+        "izraelskou",
+        "maďarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sharon Stoneová",
+      "values": [
+        "izraelskou",
+        "americkou",
+        "australskou",
+        "jihoafrickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Radka Rosická",
+      "values": [
+        "venezuelskou",
+        "rakouskou",
+        "italskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nikol Švantnerová",
+      "values": [
+        "rakouskou",
+        "ruskou",
+        "českou",
+        "kanadskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Veronika Machová",
+      "values": [
+        "australskou",
+        "venezuelskou",
+        "českou",
+        "ruskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Veronika Vařeková",
+      "values": [
+        "českou",
+        "namibijskou",
+        "slovenskou",
+        "švédskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nikola Buranská",
+      "values": [
+        "polskou",
+        "namibijskou",
+        "českou",
+        "venezuelskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hana Soukupová",
+      "values": [
+        "českou",
+        "britskou",
+        "německou",
+        "australskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chyler Leigh",
+      "values": [
+        "maďarskou",
+        "ruskou",
+        "americkou",
+        "rakouskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

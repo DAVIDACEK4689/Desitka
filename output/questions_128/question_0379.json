@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Pyšná princezna",
+      "values": [
+        "Jan Schmidt",
+        "Zdeněk Zelenka",
+        "Vojtěch Jasný",
+        "Bořivoj Zeman"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Peklo s princeznou",
+      "values": [
+        "Václav Vorlíček",
+        "Otakar Vávra",
+        "Miloslav Šmídmajer",
+        "Jiří Vejdělek"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Skřivánci na niti",
+      "values": [
+        "František Vláčil",
+        "Bohdan Sláma",
+        "Jiří Menzel",
+        "Bořivoj Zeman"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kouzelný měšec",
+      "values": [
+        "Zdeněk Zelenka",
+        "Jiří Sequens",
+        "Miloš Forman",
+        "Václav Vorlíček"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Horem pádem",
+      "values": [
+        "Petr Jákl",
+        "Jan Hřebejk",
+        "Vojtěch Jasný",
+        "Jan Prušinovský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dívka v modrém",
+      "values": [
+        "Bohdan Sláma",
+        "Zdeněk Podskalský",
+        "Jaroslav Papoušek",
+        "Otakar Vávra"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Farářův konec",
+      "values": [
+        "Marie Poledňáková",
+        "Evald Schorm",
+        "František Vláčil",
+        "Martin Horský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vlčí bouda",
+      "values": [
+        "David Ondříček",
+        "Jan Švankmajer",
+        "Věra Chytilová",
+        "Marie Poledňáková"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "U snědeného krámu",
+      "values": [
+        "Miroslav Sobota",
+        "Martin Frič",
+        "Jan Hřebejk",
+        "Zdeněk Podskalský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hordubalové",
+      "values": [
+        "Roman Vávra",
+        "Martin Frič",
+        "Tomáš Bařina",
+        "Zbyněk Brynych"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

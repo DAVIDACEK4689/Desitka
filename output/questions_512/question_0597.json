@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] anarchistu?",
+  "questions": [
+    {
+      "key": "Jaroslav Hašek",
+      "values": [
+        "britského",
+        "francouzského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Lada",
+      "values": [
+        "českého",
+        "francouzského",
+        "italského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Anarchističtí buřiči",
+      "values": [
+        "italského",
+        "francouzského",
+        "českého",
+        "argentinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Theodore Kaczynski",
+      "values": [
+        "francouzského",
+        "amerického",
+        "britského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Albert Camus",
+      "values": [
+        "francouzského",
+        "amerického",
+        "argentinského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "František Gellner",
+      "values": [
+        "britského",
+        "českého",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Noam Chomsky",
+      "values": [
+        "ruského",
+        "argentinského",
+        "italského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Allen Ginsberg",
+      "values": [
+        "českého",
+        "amerického",
+        "argentinského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "André Breton",
+      "values": [
+        "britského",
+        "argentinského",
+        "francouzského",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "William Blake",
+      "values": [
+        "italského",
+        "francouzského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Sofie",
+      "values": [
+        "Bulharsko",
+        "Argentina",
+        "Belgie",
+        "Libérie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Antiochie",
+      "values": [
+        "Turecko",
+        "Tuvalu",
+        "Ekvádor",
+        "Venezuela"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bloemfontein",
+      "values": [
+        "Nikaragua",
+        "Německo",
+        "Jihoafrická republika",
+        "Bhútán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sapporo",
+      "values": [
+        "Japonsko",
+        "Indonésie",
+        "Tanzanie",
+        "Západní Sahara"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Veliko Tarnovo",
+      "values": [
+        "Indie",
+        "Turecko",
+        "Nizozemsko",
+        "Bulharsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ávila",
+      "values": [
+        "Austrálie",
+        "Španělsko",
+        "Litva",
+        "Bulharsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kaposvár",
+      "values": [
+        "Maďarsko",
+        "Somálsko",
+        "Kambodža",
+        "Bělorusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Majuro",
+      "values": [
+        "Marshallovy ostrovy",
+        "Ghana",
+        "Irsko",
+        "Etiopie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Putrajaya",
+      "values": [
+        "Myanmar",
+        "Malajsie",
+        "Gabon",
+        "Brunej"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Olten",
+      "values": [
+        "Namibie",
+        "Švýcarsko",
+        "Moldavsko",
+        "Omán"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

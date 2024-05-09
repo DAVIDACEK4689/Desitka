@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filozofa?",
+  "questions": [
+    {
+      "key": "Tomáš Garrigue Masaryk",
+      "values": [
+        "slovinského",
+        "dánského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Immanuel Kant",
+      "values": [
+        "slovinského",
+        "dánského",
+        "německého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomáš Akvinský",
+      "values": [
+        "slovinského",
+        "italského",
+        "nizozemského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Denis Diderot",
+      "values": [
+        "indického",
+        "rakouského",
+        "italského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Avicenna",
+      "values": [
+        "italského",
+        "francouzského",
+        "indického",
+        "perského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michel Foucault",
+      "values": [
+        "českého",
+        "francouzského",
+        "dánského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rosa Luxemburgová",
+      "values": [
+        "německého",
+        "amerického",
+        "italského",
+        "indického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michail Lomonosov",
+      "values": [
+        "britského",
+        "indického",
+        "švýcarského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Plútarchos",
+      "values": [
+        "ruského",
+        "indického",
+        "řeckého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karl Jaspers",
+      "values": [
+        "německého",
+        "slovinského",
+        "ruského",
+        "britského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

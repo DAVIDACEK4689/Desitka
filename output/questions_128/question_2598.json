@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] leteckého výrobce?",
+  "questions": [
+    {
+      "key": "Avia",
+      "values": [
+        "francouzského",
+        "německého",
+        "čínského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cessna",
+      "values": [
+        "nizozemského",
+        "amerického",
+        "českého",
+        "izraelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aircraft Industries",
+      "values": [
+        "ruského",
+        "nizozemského",
+        "izraelského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sjednocená letecká korporace",
+      "values": [
+        "ruského",
+        "britského",
+        "čínského",
+        "izraelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fokker",
+      "values": [
+        "amerického",
+        "britského",
+        "nizozemského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dassault Aviation",
+      "values": [
+        "britského",
+        "nizozemského",
+        "francouzského",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "De Havilland Aircraft Company",
+      "values": [
+        "českého",
+        "britského",
+        "ruského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "GE Aviation Czech",
+      "values": [
+        "českého",
+        "francouzského",
+        "izraelského",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fairchild Aircraft",
+      "values": [
+        "ruského",
+        "českého",
+        "izraelského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vought",
+      "values": [
+        "sovětského",
+        "amerického",
+        "ruského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Sergio Ramos",
+      "values": [
+        "španělského",
+        "irského",
+        "severoirského",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Franz Beckenbauer",
+      "values": [
+        "německého",
+        "senegalského",
+        "tureckého",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Štěpán Vachoušek",
+      "values": [
+        "australského",
+        "československého",
+        "českého",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mateo Kovačić",
+      "values": [
+        "československého",
+        "tureckého",
+        "chorvatského",
+        "skotského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Valon Behrami",
+      "values": [
+        "kanadského",
+        "švýcarského",
+        "gruzínského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivan Schranz",
+      "values": [
+        "českého",
+        "ekvádorského",
+        "slovenského",
+        "nigerijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tibor Mičinec",
+      "values": [
+        "československého",
+        "norského",
+        "belgického",
+        "senegalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Phil Jones",
+      "values": [
+        "slovenského",
+        "anglického",
+        "alžírského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chris Armas",
+      "values": [
+        "albánského",
+        "skotského",
+        "rumunského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dominik Greif",
+      "values": [
+        "tureckého",
+        "anglického",
+        "nigerijského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

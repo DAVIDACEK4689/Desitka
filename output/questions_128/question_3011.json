@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] architekta?",
+  "questions": [
+    {
+      "key": "Michelangelo Buonarroti",
+      "values": [
+        "japonského",
+        "italského",
+        "nizozemského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Fanta",
+      "values": [
+        "německého",
+        "norského",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Wolf Rüdiger Hess",
+      "values": [
+        "ruského",
+        "belgického",
+        "německého",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Santiago Calatrava",
+      "values": [
+        "brazilského",
+        "španělského",
+        "britského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "El Lisickij",
+      "values": [
+        "ruského",
+        "švýcarského",
+        "španělského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Friedrich Ohmann",
+      "values": [
+        "rakouského",
+        "britského",
+        "španělského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Václav Mencl",
+      "values": [
+        "slovinského",
+        "norského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jindřich Freiwald",
+      "values": [
+        "slovenského",
+        "řeckého",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Evžen Linhart",
+      "values": [
+        "španělského",
+        "francouzského",
+        "belgického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimír Grégr",
+      "values": [
+        "rakouského",
+        "brazilského",
+        "českého",
+        "dánského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

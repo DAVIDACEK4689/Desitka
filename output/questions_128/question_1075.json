@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Wolfgang Amadeus Mozart",
+      "values": [
+        "rakouského",
+        "německého",
+        "britského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nick Jonas",
+      "values": [
+        "španělského",
+        "arménského",
+        "amerického",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rudolf Antonín Dvorský",
+      "values": [
+        "českého",
+        "kanadského",
+        "švýcarského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Anton Bruckner",
+      "values": [
+        "litevského",
+        "polského",
+        "rakouského",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Arvo Pärt",
+      "values": [
+        "rumunského",
+        "amerického",
+        "estonského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Al Di Meola",
+      "values": [
+        "amerického",
+        "dánského",
+        "polského",
+        "australského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "František Benda",
+      "values": [
+        "rakouského",
+        "litevského",
+        "švýcarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Peter Cetera",
+      "values": [
+        "britského",
+        "amerického",
+        "kanadského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jindřich Brabec",
+      "values": [
+        "českého",
+        "řeckého",
+        "francouzského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alan Menken",
+      "values": [
+        "amerického",
+        "ukrajinského",
+        "řeckého",
+        "japonského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

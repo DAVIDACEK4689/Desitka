@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Lukáš Hlavica",
+      "values": [
+        "českého",
+        "maďarského",
+        "guatemalského",
+        "islandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Morgan Freeman",
+      "values": [
+        "portorického",
+        "australského",
+        "amerického",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marek Holý",
+      "values": [
+        "jihoafrického",
+        "amerického",
+        "portorického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel Krautgartner",
+      "values": [
+        "rakouského",
+        "argentinského",
+        "polského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bryan Cranston",
+      "values": [
+        "bulharského",
+        "brazilského",
+        "amerického",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Štefan Skrúcaný",
+      "values": [
+        "řeckého",
+        "slovenského",
+        "venezuelského",
+        "islandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miranda Otto",
+      "values": [
+        "portorického",
+        "irského",
+        "australského",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "René Gabzdyl",
+      "values": [
+        "českého",
+        "polského",
+        "slovenského",
+        "guatemalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kris Marshall",
+      "values": [
+        "slovenského",
+        "chorvatského",
+        "britského",
+        "jihokorejského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Claude Chabrol",
+      "values": [
+        "řeckého",
+        "francouzského",
+        "mexického",
+        "tureckého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

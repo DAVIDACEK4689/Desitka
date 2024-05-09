@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle narození",
+  "questions": [
+    {
+      "key": "Rafael Nadal",
+      "values": [
+        "Španělsko",
+        "Nikaragua",
+        "Řecko",
+        "Afghánistán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sergej Rachmaninov",
+      "values": [
+        "Rusko",
+        "Namibie",
+        "Portugalsko",
+        "Kamerun"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eliud Kipchoge",
+      "values": [
+        "Spojené království",
+        "Etiopie",
+        "Argentina",
+        "Keňa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kösem Sultan",
+      "values": [
+        "Vietnam",
+        "Řecko",
+        "Egypt",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Yasmin Finney",
+      "values": [
+        "Uzbekistán",
+        "Spojené království",
+        "Ekvádor",
+        "Panama"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nirmal Purdža",
+      "values": [
+        "Albánie",
+        "Nepál",
+        "Nový Zéland",
+        "Arménie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vasilij Ignatěnko",
+      "values": [
+        "Bělorusko",
+        "Jamajka",
+        "Turecko",
+        "Finsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jurij Medveděv",
+      "values": [
+        "Rumunsko",
+        "Kazachstán",
+        "Lotyšsko",
+        "Uganda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petteri Orpo",
+      "values": [
+        "Kolumbie",
+        "Turkmenistán",
+        "Finsko",
+        "Etiopie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alois Bohdan Brixius",
+      "values": [
+        "Lucembursko",
+        "Panama",
+        "Slovinsko",
+        "Somálsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

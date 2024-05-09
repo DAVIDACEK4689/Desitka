@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] ledního hokejistu?",
+  "questions": [
+    {
+      "key": "Kevin Fiala",
+      "values": [
+        "německého",
+        "českého",
+        "švýcarského",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aribert Heim",
+      "values": [
+        "rakouského",
+        "rumunského",
+        "britského",
+        "československého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladislav Treťjak",
+      "values": [
+        "švédského",
+        "ruského",
+        "polského",
+        "sovětského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Kořenář",
+      "values": [
+        "slovinského",
+        "ruského",
+        "československého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Myšák",
+      "values": [
+        "slovenského",
+        "českého",
+        "lotyšského",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jozef Daňo",
+      "values": [
+        "rumunského",
+        "slovinského",
+        "ruského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mark Recchi",
+      "values": [
+        "československého",
+        "rumunského",
+        "kanadského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ernest Bokroš",
+      "values": [
+        "amerického",
+        "sovětského",
+        "finského",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sami Kapanen",
+      "values": [
+        "finského",
+        "amerického",
+        "československého",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Filip Novotný",
+      "values": [
+        "českého",
+        "slovenského",
+        "německého",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

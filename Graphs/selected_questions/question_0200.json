@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle jazyka",
+  "questions": [
+    {
+      "key": "Latina",
+      "values": [
+        "Vatikán",
+        "Řecko",
+        "Švédsko",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hebrejština",
+      "values": [
+        "Vatikán",
+        "Izrael",
+        "Irsko",
+        "Řecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Japonština",
+      "values": [
+        "Vatikán",
+        "Palau",
+        "Řecko",
+        "Indie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sanskrt",
+      "values": [
+        "Izrael",
+        "Indie",
+        "Palau",
+        "Švédsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Portugalština",
+      "values": [
+        "Irsko",
+        "Izrael",
+        "Řecko",
+        "Brazílie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jidiš",
+      "values": [
+        "Palau",
+        "Izrael",
+        "Indie",
+        "Švédsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rétorománština",
+      "values": [
+        "Brazílie",
+        "Švýcarsko",
+        "Indie",
+        "Palau"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Finština",
+      "values": [
+        "Švýcarsko",
+        "Brazílie",
+        "Švédsko",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Irština",
+      "values": [
+        "Irsko",
+        "Palau",
+        "Vatikán",
+        "Řecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Moravština",
+      "values": [
+        "Švédsko",
+        "Řecko",
+        "Švýcarsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

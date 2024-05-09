@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "Marek Eben",
+      "values": [
+        "českého",
+        "portugalského",
+        "švýcarského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bernard Arnault",
+      "values": [
+        "kanadského",
+        "francouzského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zdeněk Nekula",
+      "values": [
+        "českého",
+        "maďarského",
+        "portugalského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Enzo Ferrari",
+      "values": [
+        "britského",
+        "českého",
+        "švýcarského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jacques Chirac",
+      "values": [
+        "francouzského",
+        "německého",
+        "maďarského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Carlo Acutis",
+      "values": [
+        "portugalského",
+        "maďarského",
+        "německého",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sarah Bernhardt",
+      "values": [
+        "amerického",
+        "francouzského",
+        "německého",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Charlotta Cordayová",
+      "values": [
+        "německého",
+        "francouzského",
+        "italského",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paolo Veronese",
+      "values": [
+        "francouzského",
+        "italského",
+        "kanadského",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Béla Lugosi",
+      "values": [
+        "maďarského",
+        "francouzského",
+        "švýcarského",
+        "českého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

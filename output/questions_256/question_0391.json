@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Alexandr Lukašenko",
+      "values": [
+        "turkmenského",
+        "nizozemského",
+        "chilského",
+        "běloruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Enver Hodža",
+      "values": [
+        "albánského",
+        "madagaskarského",
+        "irského",
+        "venezuelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marija Zacharovová",
+      "values": [
+        "norského",
+        "nigerského",
+        "ruského",
+        "srbského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Martin Konvička",
+      "values": [
+        "keňského",
+        "kubánského",
+        "českého",
+        "panamského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vladimir Ivaško",
+      "values": [
+        "sovětského",
+        "kanadského",
+        "norského",
+        "zimbabwského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ilona Staller",
+      "values": [
+        "bosenského",
+        "afghánského",
+        "dominikánského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Javier Solana",
+      "values": [
+        "jihoafrického",
+        "španělského",
+        "ázerbájdžánského",
+        "černohorského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Serdar Berdimuhamedow",
+      "values": [
+        "pruského",
+        "turkmenského",
+        "salvadorského",
+        "ázerbájdžánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Giulio Andreotti",
+      "values": [
+        "irského",
+        "italského",
+        "afghánského",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vincent Auriol",
+      "values": [
+        "venezuelského",
+        "francouzského",
+        "albánského",
+        "belgického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

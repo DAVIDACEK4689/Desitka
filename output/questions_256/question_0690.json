@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Jurij Andropov",
+      "values": [
+        "sovětského",
+        "panamského",
+        "albánského",
+        "myanmarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sergej Lavrov",
+      "values": [
+        "belgického",
+        "iráckého",
+        "pákistánského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kateřina Vilemína Zaháňská",
+      "values": [
+        "francouzského",
+        "rakouského",
+        "myanmarského",
+        "libanonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Václav Frič",
+      "values": [
+        "maltského",
+        "finského",
+        "českého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Menševici",
+      "values": [
+        "íránského",
+        "bosenského",
+        "ruského",
+        "anglického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Franco Zeffirelli",
+      "values": [
+        "izraelského",
+        "italského",
+        "panamského",
+        "kubánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bénazír Bhuttová",
+      "values": [
+        "pákistánského",
+        "československého",
+        "pruského",
+        "libanonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zachar Prilepin",
+      "values": [
+        "ruského",
+        "chorvatského",
+        "madagaskarského",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karl Kautsky",
+      "values": [
+        "peruánského",
+        "maďarského",
+        "keňského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Viktor Lukašenko",
+      "values": [
+        "běloruského",
+        "českého",
+        "kubánského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

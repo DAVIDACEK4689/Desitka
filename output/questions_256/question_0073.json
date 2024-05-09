@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle prezidenta",
+  "questions": [
+    {
+      "key": "Ramzan Kadyrov",
+      "values": [
+        "Indie",
+        "Arménie",
+        "Niger",
+        "Čečenci"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Andrej Kiska",
+      "values": [
+        "Československo",
+        "Slovensko",
+        "Salvador",
+        "Portugalsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "António de Oliveira Salazar",
+      "values": [
+        "Portugalsko",
+        "Salvador",
+        "Somálsko",
+        "Gabon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bronisław Komorowski",
+      "values": [
+        "Uzbekistán",
+        "Ázerbájdžán",
+        "Albánie",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mohamed Bazoum",
+      "values": [
+        "Niger",
+        "Vietnam",
+        "Španělsko",
+        "Řecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mohamed Farrah Aidid",
+      "values": [
+        "Somálsko",
+        "Kosovo",
+        "Rakousko",
+        "Vietnam"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Raymond Poincaré",
+      "values": [
+        "Afghánistán",
+        "Francie",
+        "Turkmenistán",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dilma Rousseffová",
+      "values": [
+        "Brazílie",
+        "Ázerbájdžán",
+        "Kazachstán",
+        "Kolumbie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martti Ahtisaari",
+      "values": [
+        "Slovinsko",
+        "Indie",
+        "Finsko",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Walter Scheel",
+      "values": [
+        "Etiopie",
+        "Německo",
+        "Salvador",
+        "Niger"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

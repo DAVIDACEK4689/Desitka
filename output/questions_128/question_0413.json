@@ -1,0 +1,105 @@
+{
+  "text": "Určete rok podle televizního filmu",
+  "questions": [
+    {
+      "key": "Jak vytrhnout velrybě stoličku",
+      "values": [
+        "2019",
+        "2015",
+        "2012",
+        "1977"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "O léčivé vodě",
+      "values": [
+        "2020",
+        "1984",
+        "2019",
+        "1990"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zločin v Polné",
+      "values": [
+        "1980",
+        "1977",
+        "2014",
+        "2016"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Princové jsou na draka",
+      "values": [
+        "1980",
+        "2023",
+        "1986",
+        "2013"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Poslední cyklista",
+      "values": [
+        "2014",
+        "2007",
+        "2020",
+        "1977"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hlas pro římského krále",
+      "values": [
+        "1977",
+        "2019",
+        "2001",
+        "2016"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tajemství Lesní země",
+      "values": [
+        "2016",
+        "2021",
+        "2012",
+        "2006"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Osmy",
+      "values": [
+        "2010",
+        "2023",
+        "2014",
+        "2001"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Otec nebo bratr",
+      "values": [
+        "2010",
+        "2011",
+        "1995",
+        "1978"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zámek v Čechách",
+      "values": [
+        "1989",
+        "1985",
+        "1993",
+        "1978"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

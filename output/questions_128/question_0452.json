@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Denisa Nesvačilová",
+      "values": [
+        "izraelskou",
+        "srbskou",
+        "čínskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kaley Cuoco",
+      "values": [
+        "švýcarskou",
+        "uruguayskou",
+        "americkou",
+        "slovenskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Růžena Merunková",
+      "values": [
+        "tureckou",
+        "britskou",
+        "íránskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Anna Kulovaná",
+      "values": [
+        "českou",
+        "čínskou",
+        "řeckou",
+        "kanadskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nelly Gaierová",
+      "values": [
+        "indickou",
+        "irskou",
+        "českou",
+        "dánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Emma Corrin",
+      "values": [
+        "australskou",
+        "britskou",
+        "německou",
+        "kubánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jennifer Lauretová",
+      "values": [
+        "nizozemskou",
+        "francouzskou",
+        "australskou",
+        "kubánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Camilla Belle",
+      "values": [
+        "rakouskou",
+        "italskou",
+        "americkou",
+        "kubánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Katie Cassidy",
+      "values": [
+        "chorvatskou",
+        "americkou",
+        "belgickou",
+        "dánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Deepika Padukone",
+      "values": [
+        "indickou",
+        "jihokorejskou",
+        "chorvatskou",
+        "uruguayskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

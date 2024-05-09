@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] malíře?",
+  "questions": [
+    {
+      "key": "Leonardo da Vinci",
+      "values": [
+        "italského",
+        "dánského",
+        "českého",
+        "běloruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Piet Mondrian",
+      "values": [
+        "ruského",
+        "nizozemského",
+        "litevského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Arnold Schoenberg",
+      "values": [
+        "amerického",
+        "španělského",
+        "běloruského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roy Lichtenstein",
+      "values": [
+        "finského",
+        "amerického",
+        "španělského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Georges Kars",
+      "values": [
+        "chorvatského",
+        "českého",
+        "francouzského",
+        "běloruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Józef Czapski",
+      "values": [
+        "českého",
+        "chilského",
+        "polského",
+        "kolumbijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ari Behn",
+      "values": [
+        "kolumbijského",
+        "švýcarského",
+        "italského",
+        "norského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Johannes Itten",
+      "values": [
+        "švýcarského",
+        "italského",
+        "kolumbijského",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vincenzo Florio",
+      "values": [
+        "izraelského",
+        "italského",
+        "chorvatského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Friedrich von Amerling",
+      "values": [
+        "britského",
+        "rakouského",
+        "španělského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

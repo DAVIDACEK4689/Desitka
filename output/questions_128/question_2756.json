@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kytaristu?",
+  "questions": [
+    {
+      "key": "Kurt Cobain",
+      "values": [
+        "amerického",
+        "francouzského",
+        "německého",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Slash",
+      "values": [
+        "norského",
+        "kanadského",
+        "britského",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dave Mustaine",
+      "values": [
+        "britského",
+        "španělského",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Sahara Hedl",
+      "values": [
+        "českého",
+        "mexického",
+        "nizozemského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tommy Johansson",
+      "values": [
+        "německého",
+        "jamajského",
+        "švédského",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Wes Borland",
+      "values": [
+        "francouzského",
+        "brazilského",
+        "dánského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Yngwie Malmsteen",
+      "values": [
+        "irského",
+        "jihoafrického",
+        "švédského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nuno Bettencourt",
+      "values": [
+        "norského",
+        "nizozemského",
+        "mexického",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Doyle Bramhall II",
+      "values": [
+        "amerického",
+        "českého",
+        "španělského",
+        "jihoafrického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miroslav Skalický",
+      "values": [
+        "slovenského",
+        "maďarského",
+        "jamajského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

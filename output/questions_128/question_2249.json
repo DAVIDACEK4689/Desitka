@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Jevgenij Prigožin",
+      "values": [
+        "běloruského",
+        "indického",
+        "ruského",
+        "libanonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomáš Czernin",
+      "values": [
+        "japonského",
+        "českého",
+        "slovinského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Levi Strauss",
+      "values": [
+        "dánského",
+        "španělského",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pierluigi Collina",
+      "values": [
+        "řeckého",
+        "italského",
+        "japonského",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "David Beran",
+      "values": [
+        "jihoafrického",
+        "polského",
+        "českého",
+        "libanonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Louis Blériot",
+      "values": [
+        "brazilského",
+        "francouzského",
+        "kanadského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Kadeřávek",
+      "values": [
+        "indického",
+        "rakouského",
+        "českého",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gustav Adolf Jäger",
+      "values": [
+        "španělského",
+        "jihoafrického",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rafík Harírí",
+      "values": [
+        "libanonského",
+        "britského",
+        "nizozemského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Muhammad Yunus",
+      "values": [
+        "běloruského",
+        "amerického",
+        "českého",
+        "bangladéšského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

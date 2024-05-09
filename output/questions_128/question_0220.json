@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte téma podle filmu",
+  "questions": [
+    {
+      "key": "Kód Enigmy",
+      "values": [
+        "anděl",
+        "sebevražda",
+        "zvíře",
+        "židovská tematika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lepší už to nebude",
+      "values": [
+        "vlkodlak",
+        "spisovatel",
+        "pirát",
+        "letectví"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Šest medvědů s Cibulkou",
+      "values": [
+        "anděl",
+        "cirkus",
+        "kanibalismus",
+        "dvojče"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zamilovaný Shakespeare",
+      "values": [
+        "cirkus",
+        "sériový vrah",
+        "hasič",
+        "spisovatel"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nebe nad Berlínem",
+      "values": [
+        "nemoc",
+        "anděl",
+        "zvíře",
+        "novinář"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Případ Pelikán",
+      "values": [
+        "romská tematika",
+        "novinář",
+        "hasič",
+        "dvojče"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kam motýli nelétají",
+      "values": [
+        "hasič",
+        "letectví",
+        "učitel",
+        "kometa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zkažená úča",
+      "values": [
+        "imigrace",
+        "sexualita",
+        "skaut",
+        "učitel"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nadějná mladá žena",
+      "values": [
+        "sexualita",
+        "anděl",
+        "zvíře",
+        "skaut"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ene bene",
+      "values": [
+        "herec",
+        "spisovatel",
+        "učitel",
+        "kometa"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

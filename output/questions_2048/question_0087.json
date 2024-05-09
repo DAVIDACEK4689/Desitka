@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Bratislava",
+      "values": [
+        "Rakousko",
+        "Izrael",
+        "Španělsko",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Istanbul",
+      "values": [
+        "Rakousko",
+        "Egypt",
+        "Turecko",
+        "Ukrajina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Athény",
+      "values": [
+        "Řecko",
+        "Finsko",
+        "Slovensko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Štýrský Hradec",
+      "values": [
+        "Slovensko",
+        "Turecko",
+        "Rakousko",
+        "Finsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Santiago de Compostela",
+      "values": [
+        "Mexiko",
+        "Egypt",
+        "Španělsko",
+        "Thajsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Káhira",
+      "values": [
+        "Mexiko",
+        "Egypt",
+        "Litva",
+        "Španělsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Curych",
+      "values": [
+        "Švýcarsko",
+        "Izrael",
+        "Maďarsko",
+        "Japonsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Astana",
+      "values": [
+        "Thajsko",
+        "Nizozemsko",
+        "Saúdská Arábie",
+        "Kazachstán"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Helsinky",
+      "values": [
+        "Mexiko",
+        "Turecko",
+        "Chorvatsko",
+        "Finsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Split",
+      "values": [
+        "Chorvatsko",
+        "Izrael",
+        "Bulharsko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

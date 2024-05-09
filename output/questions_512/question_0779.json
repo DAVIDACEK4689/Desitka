@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Istanbul",
+      "values": [
+        "Venezuela",
+        "Indonésie",
+        "Libanon",
+        "Turecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oslo",
+      "values": [
+        "Libanon",
+        "Norsko",
+        "Rumunsko",
+        "Finsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Antalya",
+      "values": [
+        "Lotyšsko",
+        "Nigérie",
+        "Turecko",
+        "Bulharsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Palma de Mallorca",
+      "values": [
+        "Černá Hora",
+        "Španělsko",
+        "Izrael",
+        "Gruzie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Malmö",
+      "values": [
+        "Švédsko",
+        "Polsko",
+        "Bulharsko",
+        "Německo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dakar",
+      "values": [
+        "Jihoafrická republika",
+        "Ázerbájdžán",
+        "Senegal",
+        "Uruguay"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rostock",
+      "values": [
+        "Německo",
+        "Jihoafrická republika",
+        "Saúdská Arábie",
+        "Turecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Melilla",
+      "values": [
+        "Litva",
+        "Rumunsko",
+        "Izrael",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pireus",
+      "values": [
+        "Řecko",
+        "Tanzanie",
+        "Německo",
+        "Belgie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tarragona",
+      "values": [
+        "Izrael",
+        "Norsko",
+        "Polsko",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

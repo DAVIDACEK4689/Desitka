@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] román?",
+  "questions": [
+    {
+      "key": "Sophiina volba",
+      "values": [
+        "český",
+        "americký",
+        "australský",
+        "polský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mistr a Markétka",
+      "values": [
+        "ruský",
+        "rakouský",
+        "polský",
+        "francouzský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Komu zvoní hrana",
+      "values": [
+        "britský",
+        "japonský",
+        "anglický",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rozum a cit",
+      "values": [
+        "anglický",
+        "český",
+        "slovenský",
+        "francouzský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tři kamarádi",
+      "values": [
+        "italský",
+        "německý",
+        "slovenský",
+        "anglický"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Smrt si říká Engelchen",
+      "values": [
+        "francouzský",
+        "slovenský",
+        "český",
+        "americký"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zánik samoty Berhof",
+      "values": [
+        "čínský",
+        "český",
+        "anglický",
+        "polský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Smrt je mým řemeslem",
+      "values": [
+        "irský",
+        "anglický",
+        "rakouský",
+        "francouzský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stepfordské paničky",
+      "values": [
+        "německý",
+        "americký",
+        "polský",
+        "anglický"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Než jsem tě poznala",
+      "values": [
+        "anglický",
+        "český",
+        "německý",
+        "australský"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

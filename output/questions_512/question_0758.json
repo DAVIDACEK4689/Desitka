@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] sériového vraha?",
+  "questions": [
+    {
+      "key": "Orličtí vrazi",
+      "values": [
+        "slovenského",
+        "francouzského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ted Bundy",
+      "values": [
+        "ruského",
+        "amerického",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "John Wayne Gacy",
+      "values": [
+        "amerického",
+        "kanadského",
+        "německého",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Christopher Scarver",
+      "values": [
+        "slovenského",
+        "německého",
+        "kanadského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaroslava Fabiánová",
+      "values": [
+        "ruského",
+        "německého",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Richard Ramirez",
+      "values": [
+        "českého",
+        "německého",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Albert Fish",
+      "values": [
+        "francouzského",
+        "amerického",
+        "slovenského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karla Homolka",
+      "values": [
+        "britského",
+        "francouzského",
+        "kanadského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Charles Sobhraj",
+      "values": [
+        "britského",
+        "německého",
+        "ruského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dennis Nilsen",
+      "values": [
+        "ruského",
+        "českého",
+        "slovenského",
+        "britského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

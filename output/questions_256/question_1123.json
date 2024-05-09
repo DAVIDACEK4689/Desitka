@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] hudbu?",
+  "questions": [
+    {
+      "key": "Klub 27",
+      "values": [
+        "americkou",
+        "portugalskou",
+        "ruskou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hollywoodský chodník slávy",
+      "values": [
+        "bosenskou",
+        "českou",
+        "americkou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ska",
+      "values": [
+        "moldavskou",
+        "jamajskou",
+        "izraelskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexandrovův soubor písní a tanců",
+      "values": [
+        "mexickou",
+        "americkou",
+        "sovětskou",
+        "moldavskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Trampská hudba",
+      "values": [
+        "bosenskou",
+        "jihokorejskou",
+        "českou",
+        "izraelskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lambada",
+      "values": [
+        "mexickou",
+        "brazilskou",
+        "jihokorejskou",
+        "finskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Neue Deutsche Härte",
+      "values": [
+        "německou",
+        "sovětskou",
+        "francouzskou",
+        "rakouskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ievan Polkka",
+      "values": [
+        "finskou",
+        "brazilskou",
+        "moldavskou",
+        "bosenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Na krásném modrém Dunaji",
+      "values": [
+        "rakouskou",
+        "jamajskou",
+        "portugalskou",
+        "sovětskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Šofar",
+      "values": [
+        "mexickou",
+        "izraelskou",
+        "českou",
+        "sovětskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

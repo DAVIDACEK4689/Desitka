@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Harry Kane",
+      "values": [
+        "anglického",
+        "gambijského",
+        "francouzského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Milan Škoda",
+      "values": [
+        "arménského",
+        "českého",
+        "albánského",
+        "velšského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zdeněk Ondrášek",
+      "values": [
+        "dánského",
+        "velšského",
+        "belgického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Zima",
+      "values": [
+        "českého",
+        "sovětského",
+        "amerického",
+        "kostarického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Frank Rijkaard",
+      "values": [
+        "nizozemského",
+        "kamerunského",
+        "italského",
+        "finského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ronald Araújo",
+      "values": [
+        "portugalského",
+        "senegalského",
+        "kanadského",
+        "uruguayského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Daniel Šmejkal",
+      "values": [
+        "českého",
+        "sovětského",
+        "gambijského",
+        "nigerijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jakub Kiwior",
+      "values": [
+        "rumunského",
+        "polského",
+        "slovenského",
+        "velšského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ihor Belanov",
+      "values": [
+        "jamajského",
+        "bulharského",
+        "sovětského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Milan Kerbr",
+      "values": [
+        "českého",
+        "maďarského",
+        "kostarického",
+        "kolumbijského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

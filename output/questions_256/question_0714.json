@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle narození",
+  "questions": [
+    {
+      "key": "Blanka z Valois",
+      "values": [
+        "Barbados",
+        "Nizozemsko",
+        "Panama",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mohamed Salah",
+      "values": [
+        "Malta",
+        "Nepál",
+        "Egypt",
+        "Nigérie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gilberto Rodríguez Orejuela",
+      "values": [
+        "Itálie",
+        "Rumunsko",
+        "Indie",
+        "Kolumbie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "André Onana",
+      "values": [
+        "Namibie",
+        "Maďarsko",
+        "Kamerun",
+        "Somálsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hassanal Bolkiah",
+      "values": [
+        "Uzbekistán",
+        "Lotyšsko",
+        "Bhútán",
+        "Brunej"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mohamed Farrah Aidid",
+      "values": [
+        "Mosambik",
+        "Somálsko",
+        "Izrael",
+        "Maďarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Plótínos",
+      "values": [
+        "Somálsko",
+        "Egypt",
+        "Namibie",
+        "Keňa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Abebe Bikila",
+      "values": [
+        "Island",
+        "Brunej",
+        "Etiopie",
+        "Kazachstán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sifan Hassanová",
+      "values": [
+        "Venezuela",
+        "Etiopie",
+        "Turkmenistán",
+        "Gambie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Milton Obote",
+      "values": [
+        "Izrael",
+        "Rumunsko",
+        "Angola",
+        "Uganda"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

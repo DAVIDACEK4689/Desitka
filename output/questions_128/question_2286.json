@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Karel Janák",
+      "values": [
+        "amerického",
+        "maďarského",
+        "belgického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Mašín",
+      "values": [
+        "českého",
+        "australského",
+        "srbského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David Arquette",
+      "values": [
+        "italského",
+        "amerického",
+        "sovětského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zdeněk Smetana",
+      "values": [
+        "českého",
+        "nizozemského",
+        "slovenského",
+        "novozélandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Weinlich",
+      "values": [
+        "finského",
+        "britského",
+        "českého",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chuck Lorre",
+      "values": [
+        "amerického",
+        "íránského",
+        "sovětského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jean Genet",
+      "values": [
+        "norského",
+        "japonského",
+        "francouzského",
+        "islandského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Louis Garrel",
+      "values": [
+        "francouzského",
+        "slovinského",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Isao Takahata",
+      "values": [
+        "finského",
+        "japonského",
+        "švédského",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paddy Considine",
+      "values": [
+        "německého",
+        "britského",
+        "irského",
+        "finského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

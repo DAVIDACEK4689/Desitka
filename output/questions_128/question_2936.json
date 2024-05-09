@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] ekonoma?",
+  "questions": [
+    {
+      "key": "Peter Staněk",
+      "values": [
+        "francouzského",
+        "německého",
+        "portugalského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alexander Van der Bellen",
+      "values": [
+        "brazilského",
+        "amerického",
+        "rakouského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ota Šik",
+      "values": [
+        "slovenského",
+        "indického",
+        "litevského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eduard Janota",
+      "values": [
+        "českého",
+        "skotského",
+        "moldavského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Janet Yellenová",
+      "values": [
+        "ukrajinského",
+        "amerického",
+        "argentinského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jean Bodin",
+      "values": [
+        "řeckého",
+        "francouzského",
+        "norského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaroslav Chalupský",
+      "values": [
+        "českého",
+        "bangladéšského",
+        "litevského",
+        "moldavského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miloš Nový",
+      "values": [
+        "ruského",
+        "českého",
+        "amerického",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alfred Weber",
+      "values": [
+        "polského",
+        "německého",
+        "indického",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gunnar Myrdal",
+      "values": [
+        "norského",
+        "švédského",
+        "dánského",
+        "britského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

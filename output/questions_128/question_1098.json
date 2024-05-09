@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [národnost] komunistu?",
+  "questions": [
+    {
+      "key": "Josip Broz Tito",
+      "values": [
+        "československého",
+        "kambodžského",
+        "německého",
+        "jugoslávského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jim Jones",
+      "values": [
+        "amerického",
+        "polského",
+        "ukrajinského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Antonio Gramsci",
+      "values": [
+        "vietnamského",
+        "italského",
+        "československého",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "László Rajk",
+      "values": [
+        "slovenského",
+        "maďarského",
+        "ruského",
+        "chilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nguyễn Phú Trọng",
+      "values": [
+        "brazilského",
+        "jugoslávského",
+        "kambodžského",
+        "vietnamského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Inessa Armandová",
+      "values": [
+        "německého",
+        "francouzského",
+        "sovětského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Palmiro Togliatti",
+      "values": [
+        "jugoslávského",
+        "portugalského",
+        "italského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dashiell Hammett",
+      "values": [
+        "amerického",
+        "českého",
+        "španělského",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Anna Seghersová",
+      "values": [
+        "ázerbájdžánského",
+        "italského",
+        "brazilského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lej Feng",
+      "values": [
+        "rumunského",
+        "čínského",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

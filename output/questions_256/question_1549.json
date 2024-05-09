@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] evropského podnikatele?",
+  "questions": [
+    {
+      "key": "Karel Diviš",
+      "values": [
+        "slovenského",
+        "českého",
+        "polského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Antonín Baťa",
+      "values": [
+        "švýcarského",
+        "slovenského",
+        "českého",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomáš Čupr",
+      "values": [
+        "českého",
+        "belgického",
+        "švédského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marek Dospiva",
+      "values": [
+        "českého",
+        "francouzského",
+        "španělského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Hampl",
+      "values": [
+        "italského",
+        "českého",
+        "rakouského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Guccio Gucci",
+      "values": [
+        "italského",
+        "českého",
+        "švýcarského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Theobald Czernin",
+      "values": [
+        "francouzského",
+        "britského",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Čížek",
+      "values": [
+        "ukrajinského",
+        "nizozemského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roman Hassmann",
+      "values": [
+        "španělského",
+        "italského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Václav František Červený",
+      "values": [
+        "českého",
+        "britského",
+        "italského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

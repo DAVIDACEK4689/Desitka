@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Romelu Lukaku",
+      "values": [
+        "belgického",
+        "kanadského",
+        "amerického",
+        "severoirského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Theodor Gebre Selassie",
+      "values": [
+        "skotského",
+        "českého",
+        "amerického",
+        "alžírského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oliver Kahn",
+      "values": [
+        "německého",
+        "kanadského",
+        "kolumbijského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Carles Puyol",
+      "values": [
+        "španělského",
+        "argentinského",
+        "tureckého",
+        "chorvatského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lautaro Martínez",
+      "values": [
+        "sovětského",
+        "argentinského",
+        "slovenského",
+        "nigerijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tomáš Koubek",
+      "values": [
+        "švédského",
+        "kamerunského",
+        "anglického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Kopic",
+      "values": [
+        "českého",
+        "ekvádorského",
+        "velšského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dele Alli",
+      "values": [
+        "kostarického",
+        "anglického",
+        "bulharského",
+        "nigerijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Henrik Larsson",
+      "values": [
+        "nigerijského",
+        "italského",
+        "švédského",
+        "kolumbijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marek Havlík",
+      "values": [
+        "ukrajinského",
+        "mexického",
+        "českého",
+        "egyptského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

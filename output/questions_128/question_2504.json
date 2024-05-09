@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] novináře?",
+  "questions": [
+    {
+      "key": "Jiří Burýšek",
+      "values": [
+        "chorvatského",
+        "kubánského",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Renata Kalenská",
+      "values": [
+        "japonského",
+        "britského",
+        "českého",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stanislav Biler",
+      "values": [
+        "saúdskoarabského",
+        "kolumbijského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mychajlo Podoljak",
+      "values": [
+        "ukrajinského",
+        "íránského",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Beate Klarsfeld",
+      "values": [
+        "nizozemského",
+        "německého",
+        "ukrajinského",
+        "saúdskoarabského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jozef Urban",
+      "values": [
+        "italského",
+        "slovenského",
+        "japonského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Frederick Douglass",
+      "values": [
+        "australského",
+        "slovenského",
+        "japonského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Havelka",
+      "values": [
+        "irského",
+        "italského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oriana Fallaci",
+      "values": [
+        "japonského",
+        "italského",
+        "finského",
+        "kubánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivo Ducháček",
+      "values": [
+        "francouzského",
+        "českého",
+        "slovinského",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] literární dílo?",
+  "questions": [
+    {
+      "key": "Malý princ",
+      "values": [
+        "francouzské",
+        "velšské",
+        "čínské",
+        "polské"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Komunistický manifest",
+      "values": [
+        "francouzské",
+        "německé",
+        "ruské",
+        "nizozemské"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Carmina Burana",
+      "values": [
+        "pruské",
+        "nizozemské",
+        "německé",
+        "české"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Moc bezmocných",
+      "values": [
+        "české",
+        "japonské",
+        "rakouské",
+        "irské"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Siddhartha",
+      "values": [
+        "italské",
+        "nizozemské",
+        "finské",
+        "německé"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pálení knih nacisty",
+      "values": [
+        "slovenské",
+        "americké",
+        "francouzské",
+        "německé"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rozprava o metodě",
+      "values": [
+        "polské",
+        "francouzské",
+        "finské",
+        "ruské"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Škola Malého stromu",
+      "values": [
+        "americké",
+        "finské",
+        "rakouské",
+        "irské"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kinseyho zprávy",
+      "values": [
+        "rakouské",
+        "americké",
+        "slovenské",
+        "japonské"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Anarchistická kuchařka",
+      "values": [
+        "slovenské",
+        "anglické",
+        "ruské",
+        "americké"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

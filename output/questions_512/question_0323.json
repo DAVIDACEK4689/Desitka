@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle úmrtí",
+  "questions": [
+    {
+      "key": "Benito Mussolini",
+      "values": [
+        "Irsko",
+        "Itálie",
+        "Rusko",
+        "Panama"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivan Luťanský",
+      "values": [
+        "Vietnam",
+        "Madagaskar",
+        "Švýcarsko",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Barbora z Nikomédie",
+      "values": [
+        "Turecko",
+        "Dánsko",
+        "Švédsko",
+        "Zambie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Konrad Adenauer",
+      "values": [
+        "Itálie",
+        "Švédsko",
+        "Německo",
+        "Madagaskar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Svatý Kryštof",
+      "values": [
+        "Švýcarsko",
+        "Turecko",
+        "Dánsko",
+        "Dominikánská republika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zuzana Burianová",
+      "values": [
+        "Švýcarsko",
+        "Rakousko",
+        "Brazílie",
+        "Indie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Viktor Kaplan",
+      "values": [
+        "Rakousko",
+        "Dominikánská republika",
+        "Singapur",
+        "Irák"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Helene Schjerfbecková",
+      "values": [
+        "Brazílie",
+        "Švýcarsko",
+        "Irsko",
+        "Švédsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Richard Salzmann",
+      "values": [
+        "Indie",
+        "Česko",
+        "Itálie",
+        "Dánsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Julianus",
+      "values": [
+        "Švédsko",
+        "Libye",
+        "Česko",
+        "Irák"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

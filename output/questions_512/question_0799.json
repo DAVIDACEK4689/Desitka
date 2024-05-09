@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Mekka",
+      "values": [
+        "Etiopie",
+        "Česko",
+        "Saúdská Arábie",
+        "Egypt"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Damašek",
+      "values": [
+        "Japonsko",
+        "Sýrie",
+        "Slovensko",
+        "Brazílie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dillí",
+      "values": [
+        "Uzbekistán",
+        "Německo",
+        "Jordánsko",
+        "Indie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rabat",
+      "values": [
+        "Brazílie",
+        "Švýcarsko",
+        "Maroko",
+        "Turecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Maskat",
+      "values": [
+        "Omán",
+        "Mongolsko",
+        "Abcházie",
+        "Albánie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rovinj",
+      "values": [
+        "Německo",
+        "Bangladéš",
+        "Švýcarsko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Plovdiv",
+      "values": [
+        "Ukrajina",
+        "Bulharsko",
+        "Austrálie",
+        "Írán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Omiš",
+      "values": [
+        "Kyrgyzstán",
+        "Grónsko",
+        "Chorvatsko",
+        "Jordánsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Isfahán",
+      "values": [
+        "Súdán",
+        "Nigérie",
+        "Írán",
+        "Abcházie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tartu",
+      "values": [
+        "Estonsko",
+        "Francie",
+        "Saúdská Arábie",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

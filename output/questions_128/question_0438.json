@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [téma] televizní stanici?",
+  "questions": [
+    {
+      "key": "Šlágr TV",
+      "values": [
+        "hudební",
+        "filmovou",
+        "sportovní",
+        "dokumentární"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hlas Ameriky",
+      "values": [
+        "zpravodajskou",
+        "dětskou",
+        "filmovou",
+        "dokumentární"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Spektrum Home",
+      "values": [
+        "dokumentární",
+        "hudební",
+        "dětskou",
+        "filmovou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Prima Zoom",
+      "values": [
+        "hudební",
+        "zpravodajskou",
+        "dětskou",
+        "dokumentární"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "CS Mystery",
+      "values": [
+        "dokumentární",
+        "filmovou",
+        "sportovní",
+        "zpravodajskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "TV Galaxie",
+      "values": [
+        "dokumentární",
+        "zpravodajskou",
+        "filmovou",
+        "hudební"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "RTVS Šport",
+      "values": [
+        "dokumentární",
+        "křesťanskou",
+        "zpravodajskou",
+        "sportovní"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cargrad TV",
+      "values": [
+        "křesťanskou",
+        "hudební",
+        "zpravodajskou",
+        "filmovou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "O2 TV FREE",
+      "values": [
+        "zpravodajskou",
+        "hudební",
+        "dokumentární",
+        "sportovní"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "CS History",
+      "values": [
+        "dokumentární",
+        "zpravodajskou",
+        "křesťanskou",
+        "dětskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

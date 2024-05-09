@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle pevnosti",
+  "questions": [
+    {
+      "key": "Pevnost Boyard",
+      "values": [
+        "Omán",
+        "Slovinsko",
+        "Francie",
+        "Izrael"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bastila",
+      "values": [
+        "Spojené království",
+        "Itálie",
+        "Francie",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Maginotova linie",
+      "values": [
+        "Francie",
+        "Bělorusko",
+        "Německo",
+        "Finsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kronštadt",
+      "values": [
+        "Slovinsko",
+        "Rusko",
+        "Bělorusko",
+        "Španělsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Suomenlinna",
+      "values": [
+        "Omán",
+        "Německo",
+        "Indie",
+        "Finsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petropavlovská pevnost",
+      "values": [
+        "Rusko",
+        "Indie",
+        "Vietnam",
+        "Německo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pevnost Stříbrná Hora",
+      "values": [
+        "Polsko",
+        "Španělsko",
+        "Rusko",
+        "Indie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Herodium",
+      "values": [
+        "Německo",
+        "Izrael",
+        "Itálie",
+        "Bělorusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rupnikova linie",
+      "values": [
+        "Finsko",
+        "Španělsko",
+        "Rusko",
+        "Slovinsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pevnost Ágra",
+      "values": [
+        "Rumunsko",
+        "Spojené království",
+        "Indie",
+        "Německo"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

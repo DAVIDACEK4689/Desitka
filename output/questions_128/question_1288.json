@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Štrasburk",
+      "values": [
+        "Těrek",
+        "Svratka",
+        "Eufrat",
+        "Rýn"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kaplice",
+      "values": [
+        "Dyje",
+        "Malše",
+        "Temže",
+        "Sázava"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Klecany",
+      "values": [
+        "Vltava",
+        "Polenz",
+        "Seina",
+        "Visla"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gabčíkovo",
+      "values": [
+        "Temže",
+        "Sázava",
+        "Don",
+        "Dunaj"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Černá v Pošumaví",
+      "values": [
+        "Lužnice",
+        "Dyje",
+        "Vltava",
+        "Otava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lešná",
+      "values": [
+        "Rýn",
+        "Svratka",
+        "Hron",
+        "Bečva"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hnanice",
+      "values": [
+        "Ohře",
+        "Svratka",
+        "Sázava",
+        "Dyje"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pančevo",
+      "values": [
+        "Váha",
+        "Těrek",
+        "Dunaj",
+        "Dněpr"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Třebsín",
+      "values": [
+        "Spréva",
+        "Berounka",
+        "Sázava",
+        "Ploučnice"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kopys",
+      "values": [
+        "Lužická Nisa",
+        "Něva",
+        "Dunaj",
+        "Dněpr"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

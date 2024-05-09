@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] svatého?",
+  "questions": [
+    {
+      "key": "Svatá Ludmila",
+      "values": [
+        "irského",
+        "alžírského",
+        "českého",
+        "indického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kateřina Alexandrijská",
+      "values": [
+        "španělského",
+        "ruského",
+        "egyptského",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Thomas More",
+      "values": [
+        "rakouského",
+        "anglického",
+        "španělského",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Benedikt z Nursie",
+      "values": [
+        "italského",
+        "anglického",
+        "českého",
+        "velšského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Svatý Dominik",
+      "values": [
+        "alžírského",
+        "libanonského",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Terezie Benedikta od Kříže",
+      "values": [
+        "německého",
+        "řeckého",
+        "skotského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Maxmilián Kolbe",
+      "values": [
+        "českého",
+        "portugalského",
+        "polského",
+        "egyptského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Maria Faustyna Kowalska",
+      "values": [
+        "alžírského",
+        "českého",
+        "řeckého",
+        "polského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan od Kříže",
+      "values": [
+        "rakouského",
+        "anglického",
+        "francouzského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Maria Goretti",
+      "values": [
+        "italského",
+        "velšského",
+        "španělského",
+        "skotského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

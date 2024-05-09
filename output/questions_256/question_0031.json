@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] matematika?",
+  "questions": [
+    {
+      "key": "Mikuláš Koperník",
+      "values": [
+        "českého",
+        "rakouského",
+        "švýcarského",
+        "polského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Blaise Pascal",
+      "values": [
+        "polského",
+        "italského",
+        "švédského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Josef Gerstner",
+      "values": [
+        "rakouského",
+        "českého",
+        "ruského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bertrand Russell",
+      "values": [
+        "britského",
+        "švýcarského",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Christian Doppler",
+      "values": [
+        "srbského",
+        "irského",
+        "rakouského",
+        "indického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tadeáš Hájek z Hájku",
+      "values": [
+        "nizozemského",
+        "maďarského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Radim Valenčík",
+      "values": [
+        "maďarského",
+        "českého",
+        "ruského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "David Hilbert",
+      "values": [
+        "rakouského",
+        "maďarského",
+        "německého",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Guarino Guarini",
+      "values": [
+        "italského",
+        "švédského",
+        "ruského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Emmy Noetherová",
+      "values": [
+        "německého",
+        "irského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

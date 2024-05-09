@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Karel Jaromír Erben",
+      "values": [
+        "skotského",
+        "českého",
+        "italského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oscar Wilde",
+      "values": [
+        "irského",
+        "dánského",
+        "španělského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Bezruč",
+      "values": [
+        "ruského",
+        "italského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hans Christian Andersen",
+      "values": [
+        "španělského",
+        "francouzského",
+        "dánského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Cimický",
+      "values": [
+        "dánského",
+        "francouzského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bob Dylan",
+      "values": [
+        "anglického",
+        "ruského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "George Gordon Byron",
+      "values": [
+        "irského",
+        "italského",
+        "německého",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michal Horáček",
+      "values": [
+        "českého",
+        "amerického",
+        "skotského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "František Ladislav Čelakovský",
+      "values": [
+        "dánského",
+        "španělského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miguel de Cervantes y Saavedra",
+      "values": [
+        "španělského",
+        "ruského",
+        "amerického",
+        "skotského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

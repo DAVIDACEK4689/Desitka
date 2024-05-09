@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] sochaře?",
+  "questions": [
+    {
+      "key": "Pablo Picasso",
+      "values": [
+        "českého",
+        "polského",
+        "španělského",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michelangelo Buonarroti",
+      "values": [
+        "polského",
+        "italského",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Magdalena Abakanowiczová",
+      "values": [
+        "španělského",
+        "německého",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gina Lollobrigida",
+      "values": [
+        "španělského",
+        "italského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Parléř",
+      "values": [
+        "francouzského",
+        "německého",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Trnka",
+      "values": [
+        "italského",
+        "polského",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gian Lorenzo Bernini",
+      "values": [
+        "italského",
+        "německého",
+        "španělského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Emil Filla",
+      "values": [
+        "českého",
+        "polského",
+        "španělského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Donatello",
+      "values": [
+        "španělského",
+        "italského",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Auguste Rodin",
+      "values": [
+        "francouzského",
+        "německého",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

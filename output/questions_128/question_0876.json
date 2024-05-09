@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Bob Dylan",
+      "values": [
+        "amerického",
+        "japonského",
+        "portugalského",
+        "tureckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jean Cocteau",
+      "values": [
+        "finského",
+        "maďarského",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan z Jenštejna",
+      "values": [
+        "francouzského",
+        "německého",
+        "dánského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Herbert Lawrence",
+      "values": [
+        "palestinského",
+        "albánského",
+        "slovenského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Matouš Klácel",
+      "values": [
+        "českého",
+        "polského",
+        "řeckého",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tove Ditlevsenová",
+      "values": [
+        "mexického",
+        "dánského",
+        "palestinského",
+        "chilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Banjo Paterson",
+      "values": [
+        "australského",
+        "německého",
+        "ruského",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavol Dobšinský",
+      "values": [
+        "slovenského",
+        "irského",
+        "albánského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Jaroslav Kalina",
+      "values": [
+        "čínského",
+        "českého",
+        "gruzínského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Edward Powys Mathers",
+      "values": [
+        "íránského",
+        "australského",
+        "britského",
+        "indického"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

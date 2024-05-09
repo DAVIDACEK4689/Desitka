@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Útok na Pearl Harbor",
+      "values": [
+        "1620",
+        "1976",
+        "1757",
+        "1941"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pražské povstání",
+      "values": [
+        "1993",
+        "1620",
+        "1976",
+        "1945"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva v Kurském oblouku",
+      "values": [
+        "1943",
+        "1813",
+        "1789",
+        "1757"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Moháče",
+      "values": [
+        "1789",
+        "1526",
+        "1648",
+        "1941"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Obležení Waco",
+      "values": [
+        "1683",
+        "1863",
+        "1917",
+        "1993"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva na Vítkově",
+      "values": [
+        "1420",
+        "2022",
+        "1942",
+        "1944"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Grunwaldu",
+      "values": [
+        "1410",
+        "1648",
+        "1431",
+        "1945"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Borodina",
+      "values": [
+        "1757",
+        "1918",
+        "1812",
+        "1917"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Dunkerque",
+      "values": [
+        "1917",
+        "1940",
+        "1648",
+        "1453"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Gettysburgu",
+      "values": [
+        "1066",
+        "1863",
+        "1453",
+        "1876"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

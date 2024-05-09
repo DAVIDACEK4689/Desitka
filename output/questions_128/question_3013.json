@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] architekta?",
+  "questions": [
+    {
+      "key": "Jan Kotěra",
+      "values": [
+        "polského",
+        "řeckého",
+        "chorvatského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Frank Lloyd Wright",
+      "values": [
+        "chorvatského",
+        "amerického",
+        "slovinského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ladislav Machoň",
+      "values": [
+        "slovenského",
+        "polského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alois Dryák",
+      "values": [
+        "francouzského",
+        "švýcarského",
+        "českého",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jakub Bursa",
+      "values": [
+        "německého",
+        "norského",
+        "brazilského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Čeněk Musil",
+      "values": [
+        "finského",
+        "českého",
+        "britského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ludvík Hilgert",
+      "values": [
+        "finského",
+        "českého",
+        "belgického",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Theo van Doesburg",
+      "values": [
+        "nizozemského",
+        "českého",
+        "slovinského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Boudník",
+      "values": [
+        "dánského",
+        "francouzského",
+        "českého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Gillar",
+      "values": [
+        "brazilského",
+        "japonského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

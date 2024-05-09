@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle archeologické lokality",
+  "questions": [
+    {
+      "key": "Luxor",
+      "values": [
+        "Chorvatsko",
+        "Slovensko",
+        "Egypt",
+        "Pákistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kartágo",
+      "values": [
+        "Francie",
+        "Izrael",
+        "Česko",
+        "Tunisko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rimini",
+      "values": [
+        "Itálie",
+        "Izrael",
+        "Kambodža",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Starověké Kartágo",
+      "values": [
+        "Tunisko",
+        "Itálie",
+        "Egypt",
+        "Kambodža"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Efez",
+      "values": [
+        "Pákistán",
+        "Tunisko",
+        "Turecko",
+        "Pero"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Olympie",
+      "values": [
+        "Írán",
+        "Izrael",
+        "Řecko",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Persepolis",
+      "values": [
+        "Francie",
+        "Tunisko",
+        "Pákistán",
+        "Írán"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hora křížů",
+      "values": [
+        "Litva",
+        "Pákistán",
+        "Irák",
+        "Turecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Súľovské skály",
+      "values": [
+        "Řecko",
+        "Slovensko",
+        "Pákistán",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nîmes",
+      "values": [
+        "Irák",
+        "Česko",
+        "Slovensko",
+        "Francie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

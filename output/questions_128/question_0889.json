@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Barbora Bočková",
+      "values": [
+        "mexickou",
+        "britskou",
+        "českou",
+        "maďarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Štěpánka Haničincová",
+      "values": [
+        "českou",
+        "norskou",
+        "bermudskou",
+        "indickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Diane Keatonová",
+      "values": [
+        "americkou",
+        "španělskou",
+        "norskou",
+        "argentinskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jana Březinová",
+      "values": [
+        "ruskou",
+        "irskou",
+        "řeckou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sasha Grey",
+      "values": [
+        "irskou",
+        "australskou",
+        "mexickou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Carla Guginová",
+      "values": [
+        "kolumbijskou",
+        "americkou",
+        "norskou",
+        "bulharskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sophia Bushová",
+      "values": [
+        "českou",
+        "americkou",
+        "kolumbijskou",
+        "španělskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jena Malone",
+      "values": [
+        "španělskou",
+        "americkou",
+        "francouzskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eva Kubešová",
+      "values": [
+        "českou",
+        "bermudskou",
+        "americkou",
+        "maďarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Yasmina Reza",
+      "values": [
+        "novozélandskou",
+        "francouzskou",
+        "bermudskou",
+        "indickou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

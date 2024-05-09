@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Stanislav Kostka Neumann",
+      "values": [
+        "českého",
+        "izraelského",
+        "ukrajinského",
+        "ázerbájdžánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Padevět",
+      "values": [
+        "českého",
+        "norského",
+        "jihoafrického",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Henri Dunant",
+      "values": [
+        "švýcarského",
+        "mexického",
+        "tureckého",
+        "australského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nathaniel Hawthorne",
+      "values": [
+        "kolumbijského",
+        "ukrajinského",
+        "nizozemského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ales Bjaljacki",
+      "values": [
+        "běloruského",
+        "maďarského",
+        "australského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Johann Emanuel Veith",
+      "values": [
+        "litevského",
+        "kyrgyzského",
+        "rakouského",
+        "čínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ján Botto",
+      "values": [
+        "nizozemského",
+        "slovenského",
+        "irského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sven Hedin",
+      "values": [
+        "italského",
+        "estonského",
+        "litevského",
+        "švédského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Arthur Arz von Straußenburg",
+      "values": [
+        "rakouského",
+        "ruského",
+        "brazilského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miroslav Krleža",
+      "values": [
+        "kyrgyzského",
+        "rakouského",
+        "uruguayského",
+        "chorvatského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

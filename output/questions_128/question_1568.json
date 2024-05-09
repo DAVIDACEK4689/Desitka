@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] televizní stanici?",
+  "questions": [
+    {
+      "key": "TV Noe",
+      "values": [
+        "chorvatskou",
+        "českou",
+        "japonskou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nova Fun",
+      "values": [
+        "německou",
+        "japonskou",
+        "českou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "AXN",
+      "values": [
+        "českou",
+        "německou",
+        "kanadskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "ESPN",
+      "values": [
+        "slovenskou",
+        "českou",
+        "americkou",
+        "chorvatskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "TA3",
+      "values": [
+        "britskou",
+        "německou",
+        "italskou",
+        "slovenskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Canadian Broadcasting Corporation",
+      "values": [
+        "norskou",
+        "americkou",
+        "slovenskou",
+        "kanadskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "National Geographic Channel",
+      "values": [
+        "americkou",
+        "polskou",
+        "jihokorejskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Disney XD",
+      "values": [
+        "americkou",
+        "francouzskou",
+        "britskou",
+        "polskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "ABC TV",
+      "values": [
+        "chorvatskou",
+        "německou",
+        "britskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "CS History",
+      "values": [
+        "polskou",
+        "finskou",
+        "českou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

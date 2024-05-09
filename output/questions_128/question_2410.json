@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Kuala Lumpur",
+      "values": [
+        "Komora",
+        "Jižní Korea",
+        "Izrael",
+        "Malajsie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chania",
+      "values": [
+        "Kambodža",
+        "Nový Zéland",
+        "Řecko",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Denpasar",
+      "values": [
+        "Slovinsko",
+        "Venezuela",
+        "Somálsko",
+        "Indonésie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Raabs an der Thaya",
+      "values": [
+        "Rakousko",
+        "Jižní Korea",
+        "Moldavsko",
+        "Niger"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Neuchâtel",
+      "values": [
+        "Angola",
+        "Afghánistán",
+        "Švýcarsko",
+        "Argentina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Novi Vinodolski",
+      "values": [
+        "Švýcarsko",
+        "Libérie",
+        "Alžírsko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Solin",
+      "values": [
+        "Chorvatsko",
+        "Brunej",
+        "Egypt",
+        "Paraguay"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pitești",
+      "values": [
+        "Rumunsko",
+        "Nikaragua",
+        "Afghánistán",
+        "Honduras"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Strážske",
+      "values": [
+        "Slovensko",
+        "Angola",
+        "Uzbekistán",
+        "Jordánsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ilok",
+      "values": [
+        "Bhútán",
+        "Eritrea",
+        "Jihoafrická republika",
+        "Chorvatsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

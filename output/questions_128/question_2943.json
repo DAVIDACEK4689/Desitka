@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] literární dílo?",
+  "questions": [
+    {
+      "key": "My děti ze stanice ZOO",
+      "values": [
+        "francouzské",
+        "polské",
+        "ruské",
+        "německé"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Píseň ledu a ohně",
+      "values": [
+        "německé",
+        "japonské",
+        "španělské",
+        "americké"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Píseň o Cidovi",
+      "values": [
+        "polské",
+        "španělské",
+        "francouzské",
+        "české"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan ze Žatce",
+      "values": [
+        "španělské",
+        "německé",
+        "irské",
+        "čínské"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Obrazy ze života mého",
+      "values": [
+        "irské",
+        "německé",
+        "české",
+        "slovenské"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Krvavý román",
+      "values": [
+        "německé",
+        "francouzské",
+        "české",
+        "americké"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Průmyslová společnost a její budoucnost",
+      "values": [
+        "německé",
+        "japonské",
+        "italské",
+        "americké"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Řeka bohů",
+      "values": [
+        "anglické",
+        "japonské",
+        "velšské",
+        "čínské"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kunhutina modlitba",
+      "values": [
+        "anglické",
+        "velšské",
+        "japonské",
+        "české"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "O válce",
+      "values": [
+        "rakouské",
+        "anglické",
+        "čínské",
+        "pruské"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Michael Jackson",
+      "values": [
+        "amerického",
+        "slovenského",
+        "švýcarského",
+        "argentinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jakub Smolík",
+      "values": [
+        "německého",
+        "irského",
+        "jihokorejského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Laďa Kerndl",
+      "values": [
+        "argentinského",
+        "australského",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pavel Březina",
+      "values": [
+        "českého",
+        "skotského",
+        "alžírského",
+        "finského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "František Kreuzmann starší",
+      "values": [
+        "ruského",
+        "polského",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rudolf Brančovský",
+      "values": [
+        "uruguayského",
+        "australského",
+        "českého",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Wagner Moura",
+      "values": [
+        "srbského",
+        "brazilského",
+        "německého",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Melissa Barrera",
+      "values": [
+        "norského",
+        "amerického",
+        "mexického",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Richard Haan",
+      "values": [
+        "jihokorejského",
+        "jihoafrického",
+        "českého",
+        "brazilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Klaus Nomi",
+      "values": [
+        "skotského",
+        "německého",
+        "moldavského",
+        "polského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] sériového vraha?",
+  "questions": [
+    {
+      "key": "Ted Bundy",
+      "values": [
+        "amerického",
+        "italského",
+        "japonského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Edmund Kemper",
+      "values": [
+        "amerického",
+        "japonského",
+        "belgického",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dennis Rader",
+      "values": [
+        "britského",
+        "francouzského",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dennis Nilsen",
+      "values": [
+        "amerického",
+        "britského",
+        "francouzského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Irena Čubírková",
+      "values": [
+        "belgického",
+        "slovenského",
+        "španělského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Herbert Mullin",
+      "values": [
+        "britského",
+        "amerického",
+        "ukrajinského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vrahové z močálů",
+      "values": [
+        "amerického",
+        "českého",
+        "britského",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Leonarda Cianciulli",
+      "values": [
+        "kazašského",
+        "italského",
+        "ukrajinského",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Charles Starkweather",
+      "values": [
+        "kolumbijského",
+        "ukrajinského",
+        "belgického",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gordon Stewart Northcott",
+      "values": [
+        "německého",
+        "kanadského",
+        "amerického",
+        "japonského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

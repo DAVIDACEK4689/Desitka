@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Salcburk",
+      "values": [
+        "Nigérie",
+        "Severní Makedonie",
+        "Rakousko",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Narvik",
+      "values": [
+        "Libye",
+        "Mexiko",
+        "Norsko",
+        "Senegal"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zaragoza",
+      "values": [
+        "Španělsko",
+        "Nový Zéland",
+        "Grónsko",
+        "Myanmar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Brašov",
+      "values": [
+        "Severní Makedonie",
+        "Rumunsko",
+        "Brazílie",
+        "Paraguay"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Agia Napa",
+      "values": [
+        "Severní Korea",
+        "Thajsko",
+        "Kypr",
+        "Tunisko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oulu",
+      "values": [
+        "Irák",
+        "Moldavsko",
+        "Severní Korea",
+        "Finsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Serekunda",
+      "values": [
+        "Spojené království",
+        "Tanzanie",
+        "Ázerbájdžán",
+        "Gambie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Larisa",
+      "values": [
+        "Burkina Faso",
+        "Norsko",
+        "Kyrgyzstán",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Homel",
+      "values": [
+        "Mosambik",
+        "Senegal",
+        "Bělorusko",
+        "Slovensko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hammámet",
+      "values": [
+        "Ekvádor",
+        "Honduras",
+        "Irák",
+        "Tunisko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

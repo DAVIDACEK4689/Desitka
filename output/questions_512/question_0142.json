@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte město podle muzea",
+  "questions": [
+    {
+      "key": "Leninovo mauzoleum",
+      "values": [
+        "Moskva",
+        "Jeruzalém",
+        "New York",
+        "Vídeň"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ermitáž",
+      "values": [
+        "Berlín",
+        "Petrohrad",
+        "New York",
+        "Vídeň"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Galleria degli Uffizi",
+      "values": [
+        "Jeruzalém",
+        "Florencie",
+        "Moskva",
+        "New York"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pergamonské muzeum",
+      "values": [
+        "Berlín",
+        "Moskva",
+        "Jeruzalém",
+        "New York"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Guggenheimovo muzeum",
+      "values": [
+        "New York",
+        "Berlín",
+        "Florencie",
+        "Petrohrad"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ostrov muzeí",
+      "values": [
+        "Berlín",
+        "Florencie",
+        "Vídeň",
+        "Jeruzalém"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Albertina",
+      "values": [
+        "Florencie",
+        "New York",
+        "Vídeň",
+        "Berlín"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Muzeum moderního umění",
+      "values": [
+        "New York",
+        "Berlín",
+        "Florencie",
+        "Moskva"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Belvedere",
+      "values": [
+        "Berlín",
+        "New York",
+        "Florencie",
+        "Vídeň"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jad vašem",
+      "values": [
+        "Vídeň",
+        "Moskva",
+        "Jeruzalém",
+        "Petrohrad"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

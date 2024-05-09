@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Paříž",
+      "values": [
+        "Těrek",
+        "Tibera",
+        "Seina",
+        "Loira"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bonn",
+      "values": [
+        "Sázava",
+        "Rýn",
+        "Váha",
+        "Malše"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nižnij Novgorod",
+      "values": [
+        "Mandava",
+        "Otava",
+        "Volha",
+        "Don"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čeňkova pila",
+      "values": [
+        "Otava",
+        "Radbuza",
+        "Eufrat",
+        "Sebnice"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ledečko",
+      "values": [
+        "Jizera",
+        "Sebnice",
+        "Sázava",
+        "Dunaj"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dolní Beřkovice",
+      "values": [
+        "Dyje",
+        "Labe",
+        "Chrudimka",
+        "Rýn"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kly",
+      "values": [
+        "Dyje",
+        "Labe",
+        "Tis",
+        "Jizera"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Smederevo",
+      "values": [
+        "Dunaj",
+        "Temže",
+        "Berounka",
+        "Tibera"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oršava",
+      "values": [
+        "Dunaj",
+        "Mandava",
+        "Ploučnice",
+        "Spréva"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stružnice",
+      "values": [
+        "Dněpr",
+        "Ploučnice",
+        "Eufrat",
+        "Polenz"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

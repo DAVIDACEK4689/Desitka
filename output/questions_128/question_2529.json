@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Ronaldo",
+      "values": [
+        "slovenského",
+        "španělského",
+        "brazilského",
+        "československého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marek Matějovský",
+      "values": [
+        "německého",
+        "ruského",
+        "českého",
+        "paraguayského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vladimír Darida",
+      "values": [
+        "skotského",
+        "islandského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Victor Osimhen",
+      "values": [
+        "mexického",
+        "arménského",
+        "nigerijského",
+        "skotského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zdeněk Pospěch",
+      "values": [
+        "českého",
+        "alžírského",
+        "albánského",
+        "velšského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Christopher Nkunku",
+      "values": [
+        "australského",
+        "francouzského",
+        "portugalského",
+        "marockého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Juan Sebastián Verón",
+      "values": [
+        "dánského",
+        "argentinského",
+        "italského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Leandro Trossard",
+      "values": [
+        "belgického",
+        "japonského",
+        "francouzského",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nuno Gomes",
+      "values": [
+        "peruánského",
+        "portugalského",
+        "finského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kevin Trapp",
+      "values": [
+        "tureckého",
+        "uruguayského",
+        "německého",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

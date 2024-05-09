@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle provincie",
+  "questions": [
+    {
+      "key": "Bali",
+      "values": [
+        "Indonésie",
+        "Prusko",
+        "Pákistán",
+        "Afghánistán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hanoj",
+      "values": [
+        "Pákistán",
+        "Nizozemsko",
+        "Jižní Korea",
+        "Vietnam"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Navarra",
+      "values": [
+        "Španělsko",
+        "Indonésie",
+        "Jihoafrická republika",
+        "Finsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Murcijský region",
+      "values": [
+        "Jihoafrická republika",
+        "Nizozemsko",
+        "Argentina",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Madridské autonomní společenství",
+      "values": [
+        "Indonésie",
+        "Prusko",
+        "Afghánistán",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alborz",
+      "values": [
+        "Írán",
+        "Argentina",
+        "Thajsko",
+        "Dominikánská republika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gauteng",
+      "values": [
+        "Írán",
+        "Prusko",
+        "Jihoafrická republika",
+        "Finsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mpumalanga",
+      "values": [
+        "Nizozemsko",
+        "Afghánistán",
+        "Jihoafrická republika",
+        "Španělsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Drenthe",
+      "values": [
+        "Afghánistán",
+        "Thajsko",
+        "Írán",
+        "Nizozemsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kjonggi",
+      "values": [
+        "Španělsko",
+        "Arménie",
+        "Indonésie",
+        "Jižní Korea"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Steven Seagal",
+      "values": [
+        "rakouského",
+        "švédského",
+        "belgického",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marlon Brando",
+      "values": [
+        "španělského",
+        "amerického",
+        "švýcarského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stanley Kubrick",
+      "values": [
+        "norského",
+        "ruského",
+        "rakouského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Edward Norton",
+      "values": [
+        "švýcarského",
+        "ruského",
+        "amerického",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Sequens",
+      "values": [
+        "švýcarského",
+        "slovenského",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lars von Trier",
+      "values": [
+        "belgického",
+        "švédského",
+        "mexického",
+        "dánského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Břetislav Pojar",
+      "values": [
+        "českého",
+        "italského",
+        "francouzského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Forest Whitaker",
+      "values": [
+        "ukrajinského",
+        "britského",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vittorio Gassman",
+      "values": [
+        "dánského",
+        "irského",
+        "italského",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Radúz Činčera",
+      "values": [
+        "australského",
+        "německého",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

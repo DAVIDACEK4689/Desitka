@@ -1,0 +1,105 @@
+{
+  "text": "Určete etnický původ podle Čecha",
+  "questions": [
+    {
+      "key": "Dominik Feri",
+      "values": [
+        "japonský původ",
+        "ruský původ",
+        "srbský původ",
+        "etiopský původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ektor",
+      "values": [
+        "kanadský původ",
+        "makedonský původ",
+        "afghánský původ",
+        "řecký původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Julius Zeyer",
+      "values": [
+        "evropský původ",
+        "francouzský původ",
+        "arménský původ",
+        "slovenský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexandra Udženija",
+      "values": [
+        "srbský původ",
+        "běloruský původ",
+        "japonský původ",
+        "evropský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vadim Petrov",
+      "values": [
+        "srbský původ",
+        "ruský původ",
+        "italský původ",
+        "řecký původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexander Tomský",
+      "values": [
+        "polský původ",
+        "makedonský původ",
+        "běloruský původ",
+        "vietnamský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bohumil Benoni",
+      "values": [
+        "etiopský původ",
+        "italský původ",
+        "syrský původ",
+        "afghánský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jelizaveta Nikolská",
+      "values": [
+        "ruský původ",
+        "maďarský původ",
+        "arménský původ",
+        "kanadský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Czeslaw Walek",
+      "values": [
+        "polský původ",
+        "britský původ",
+        "arménský původ",
+        "ruský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Peter Drozd",
+      "values": [
+        "syrský původ",
+        "slovenský původ",
+        "maďarský původ",
+        "afghánský původ"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

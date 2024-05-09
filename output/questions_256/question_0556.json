@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle historického území",
+  "questions": [
+    {
+      "key": "Franky",
+      "values": [
+        "Rusko",
+        "Slovensko",
+        "Španělsko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chodsko",
+      "values": [
+        "Slovensko",
+        "Írán",
+        "Česko",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Thrákie",
+      "values": [
+        "Rusko",
+        "Francie",
+        "Řecko",
+        "Belgie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Champagne",
+      "values": [
+        "Francie",
+        "Německo",
+        "Jihoafrická republika",
+        "Slovinsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Moravské enklávy ve Slezsku",
+      "values": [
+        "Německo",
+        "Belgie",
+        "Lotyšsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Moravské pole",
+      "values": [
+        "Německo",
+        "Rakousko",
+        "Itálie",
+        "Chorvatsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Akvitánské vévodství",
+      "values": [
+        "Írán",
+        "Řecko",
+        "Lotyšsko",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Brabantské vévodství",
+      "values": [
+        "Rusko",
+        "Česko",
+        "Lotyšsko",
+        "Belgie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Severní Kavkaz",
+      "values": [
+        "Rakousko",
+        "Španělsko",
+        "Rusko",
+        "Rumunsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Levobřežní Ukrajina",
+      "values": [
+        "Rusko",
+        "Itálie",
+        "Lotyšsko",
+        "Francie"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

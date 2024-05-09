@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Alexandrie",
+      "values": [
+        "Brazílie",
+        "Bulharsko",
+        "Irsko",
+        "Egypt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Basilej",
+      "values": [
+        "Albánie",
+        "Ekvádor",
+        "Švýcarsko",
+        "Alžírsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Trogir",
+      "values": [
+        "Saúdská Arábie",
+        "Chorvatsko",
+        "Jordánsko",
+        "Uruguay"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rostock",
+      "values": [
+        "Finsko",
+        "Angola",
+        "Libérie",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Montevideo",
+      "values": [
+        "Norsko",
+        "Gruzie",
+        "Uruguay",
+        "Indonésie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cork",
+      "values": [
+        "Irsko",
+        "Chorvatsko",
+        "Černá Hora",
+        "Malta"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Taranto",
+      "values": [
+        "Itálie",
+        "Estonsko",
+        "Maroko",
+        "Angola"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Berďansk",
+      "values": [
+        "Indonésie",
+        "Ukrajina",
+        "Švédsko",
+        "Portugalsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fukuoka",
+      "values": [
+        "Indie",
+        "Alžírsko",
+        "Japonsko",
+        "Švédsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Huelva",
+      "values": [
+        "Angola",
+        "Gruzie",
+        "Španělsko",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

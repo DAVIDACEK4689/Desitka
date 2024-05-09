@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte kontinent podle fauny",
+  "questions": [
+    {
+      "key": "Slepýš křehký",
+      "values": [
+        "Severní Amerika",
+        "Asie",
+        "Evropa",
+        "Afrika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Želva zelenavá",
+      "values": [
+        "Jižní Amerika",
+        "Afrika",
+        "Evropa",
+        "Střední Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Orangutan",
+      "values": [
+        "Asie",
+        "Antarktida",
+        "Afrika",
+        "Střední Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Levhart",
+      "values": [
+        "Severní Amerika",
+        "Střední Amerika",
+        "Jižní Amerika",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Arapaima velká",
+      "values": [
+        "Severní Amerika",
+        "Afrika",
+        "Střední Amerika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nosorožec tuponosý severní",
+      "values": [
+        "Afrika",
+        "Asie",
+        "Antarktida",
+        "Severní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zebra stepní",
+      "values": [
+        "Antarktida",
+        "Jižní Amerika",
+        "Afrika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tuleň leopardí",
+      "values": [
+        "Severní Amerika",
+        "Střední Amerika",
+        "Afrika",
+        "Antarktida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nosorožec indický",
+      "values": [
+        "Asie",
+        "Jižní Amerika",
+        "Antarktida",
+        "Střední Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nosorožec sumaterský",
+      "values": [
+        "Jižní Amerika",
+        "Antarktida",
+        "Asie",
+        "Střední Amerika"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Tom Cruise",
+      "values": [
+        "marockého",
+        "malajsijského",
+        "francouzského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Adamíra",
+      "values": [
+        "ukrajinského",
+        "českého",
+        "chilského",
+        "izraelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michal Dočolomanský",
+      "values": [
+        "slovenského",
+        "malajsijského",
+        "srbského",
+        "jihoafrického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Slávek Boura",
+      "values": [
+        "českého",
+        "irského",
+        "rakouského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Csongor Kassai",
+      "values": [
+        "slovenského",
+        "chilského",
+        "izraelského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Kalousek",
+      "values": [
+        "českého",
+        "jihoafrického",
+        "německého",
+        "tureckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexander Skarsgård",
+      "values": [
+        "maďarského",
+        "švédského",
+        "britského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rob Knox",
+      "values": [
+        "britského",
+        "švédského",
+        "indického",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michele Placido",
+      "values": [
+        "australského",
+        "novozélandského",
+        "marockého",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Robert Bárta",
+      "values": [
+        "novozélandského",
+        "australského",
+        "jihoafrického",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

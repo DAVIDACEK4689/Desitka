@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Reinhold Messner",
+      "values": [
+        "nigerijského",
+        "ázerbájdžánského",
+        "italského",
+        "gruzínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bertrand Russell",
+      "values": [
+        "nigerijského",
+        "egyptského",
+        "britského",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "August Strindberg",
+      "values": [
+        "australského",
+        "švédského",
+        "libanonského",
+        "islandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mychajlo Hruševskyj",
+      "values": [
+        "polského",
+        "ukrajinského",
+        "českého",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ernst Jünger",
+      "values": [
+        "amerického",
+        "gruzínského",
+        "německého",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Ryska",
+      "values": [
+        "paraguayského",
+        "německého",
+        "novozélandského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Jindřich Řezníček",
+      "values": [
+        "kubánského",
+        "belgického",
+        "českého",
+        "guatemalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andrej Platonov",
+      "values": [
+        "chorvatského",
+        "ruského",
+        "íránského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Richard Slánský",
+      "values": [
+        "jihoafrického",
+        "norského",
+        "českého",
+        "uruguayského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gertrude Bellová",
+      "values": [
+        "britského",
+        "malajsijského",
+        "norského",
+        "vietnamského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

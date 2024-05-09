@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle přítoku",
+  "questions": [
+    {
+      "key": "Berounka",
+      "values": [
+        "Labe",
+        "Vltava",
+        "Dunaj",
+        "Morava"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dyje",
+      "values": [
+        "Vltava",
+        "Labe",
+        "Morava",
+        "Rýn"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Váh",
+      "values": [
+        "Dunaj",
+        "Vltava",
+        "Labe",
+        "Rýn"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sáva",
+      "values": [
+        "Labe",
+        "Morava",
+        "Dunaj",
+        "Rýn"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ploučnice",
+      "values": [
+        "Vltava",
+        "Rýn",
+        "Labe",
+        "Dunaj"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Metuje",
+      "values": [
+        "Dunaj",
+        "Labe",
+        "Morava",
+        "Vltava"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Malše",
+      "values": [
+        "Morava",
+        "Dunaj",
+        "Labe",
+        "Vltava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hron",
+      "values": [
+        "Dunaj",
+        "Morava",
+        "Rýn",
+        "Labe"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sála",
+      "values": [
+        "Dunaj",
+        "Rýn",
+        "Morava",
+        "Labe"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Havola",
+      "values": [
+        "Morava",
+        "Rýn",
+        "Labe",
+        "Vltava"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

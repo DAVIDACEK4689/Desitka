@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Pardubice",
+      "values": [
+        "Maďarsko",
+        "Rakousko",
+        "Česko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Drážďany",
+      "values": [
+        "Irsko",
+        "Slovensko",
+        "Dánsko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hamburk",
+      "values": [
+        "Německo",
+        "Česko",
+        "Irsko",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Linec",
+      "values": [
+        "Rakousko",
+        "Česko",
+        "Maďarsko",
+        "Dánsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bari",
+      "values": [
+        "Slovensko",
+        "Rakousko",
+        "Belgie",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Trenčín",
+      "values": [
+        "Slovensko",
+        "Nizozemsko",
+        "Německo",
+        "Dánsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Padova",
+      "values": [
+        "Německo",
+        "Itálie",
+        "Maďarsko",
+        "Rakousko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Düsseldorf",
+      "values": [
+        "Spojené království",
+        "Česko",
+        "Nizozemsko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gent",
+      "values": [
+        "Česko",
+        "Maďarsko",
+        "Spojené království",
+        "Belgie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ulm",
+      "values": [
+        "Maďarsko",
+        "Nizozemsko",
+        "Německo",
+        "Dánsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Petr Haničinec",
+      "values": [
+        "českého",
+        "ruského",
+        "gruzínského",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stellan Skarsgård",
+      "values": [
+        "švédského",
+        "brazilského",
+        "čínského",
+        "izraelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Leslie Nielsen",
+      "values": [
+        "norského",
+        "kanadského",
+        "švýcarského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sean Combs",
+      "values": [
+        "amerického",
+        "slovenského",
+        "španělského",
+        "chilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chris Farley",
+      "values": [
+        "řeckého",
+        "amerického",
+        "tureckého",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jakub Gottwald",
+      "values": [
+        "jihokorejského",
+        "švédského",
+        "českého",
+        "jamajského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Chvalina",
+      "values": [
+        "bulharského",
+        "českého",
+        "rakouského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Grant Gustin",
+      "values": [
+        "nizozemského",
+        "kanadského",
+        "amerického",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Patrick Bruel",
+      "values": [
+        "portugalského",
+        "francouzského",
+        "rakouského",
+        "belgického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gad Elmaleh",
+      "values": [
+        "portugalského",
+        "jihokorejského",
+        "francouzského",
+        "gruzínského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

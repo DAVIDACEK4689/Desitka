@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle archeologické lokality",
+  "questions": [
+    {
+      "key": "Kréta",
+      "values": [
+        "Jihoafrická republika",
+        "Ukrajina",
+        "Řecko",
+        "Rakousko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gízská nekropole",
+      "values": [
+        "Jihoafrická republika",
+        "Sýrie",
+        "Egypt",
+        "Ukrajina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Arles",
+      "values": [
+        "Francie",
+        "Švýcarsko",
+        "Jordánsko",
+        "Německo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nîmes",
+      "values": [
+        "Federativní státy Mikronésie",
+        "Afghánistán",
+        "Litva",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ostia Antica",
+      "values": [
+        "Irák",
+        "Rusko",
+        "Itálie",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aventin",
+      "values": [
+        "Itálie",
+        "Sýrie",
+        "Pero",
+        "Chorvatsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ktésifón",
+      "values": [
+        "Francie",
+        "Afghánistán",
+        "Egypt",
+        "Irák"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chrám v Edfu",
+      "values": [
+        "Tanzanie",
+        "Egypt",
+        "Pero",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chorsábád",
+      "values": [
+        "Slovensko",
+        "Švýcarsko",
+        "Irák",
+        "Srí Lanka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ollantaytambo",
+      "values": [
+        "Jordánsko",
+        "Jihoafrická republika",
+        "Pero",
+        "Španělsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] televizní stanici?",
+  "questions": [
+    {
+      "key": "CNN",
+      "values": [
+        "ruskou",
+        "americkou",
+        "britskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Leo TV",
+      "values": [
+        "jihokorejskou",
+        "norskou",
+        "českou",
+        "kanadskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "CBS",
+      "values": [
+        "ruskou",
+        "americkou",
+        "norskou",
+        "finskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Channel 4",
+      "values": [
+        "jihokorejskou",
+        "finskou",
+        "kanadskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dožď",
+      "values": [
+        "chorvatskou",
+        "norskou",
+        "ruskou",
+        "japonskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kino Barrandov",
+      "values": [
+        "německou",
+        "českou",
+        "japonskou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "TVP Info",
+      "values": [
+        "italskou",
+        "polskou",
+        "českou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "O2 TV Tenis",
+      "values": [
+        "slovenskou",
+        "českou",
+        "ruskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "NBC News",
+      "values": [
+        "americkou",
+        "finskou",
+        "jihokorejskou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Das Erste",
+      "values": [
+        "německou",
+        "českou",
+        "jihokorejskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

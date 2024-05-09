@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle jazyka",
+  "questions": [
+    {
+      "key": "Finština",
+      "values": [
+        "Španělsko",
+        "Švédsko",
+        "Jižní Afrika",
+        "Portugalsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kazaština",
+      "values": [
+        "Mongolsko",
+        "Itálie",
+        "Jordánsko",
+        "Kosovo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ladinština",
+      "values": [
+        "Palau",
+        "Portugalsko",
+        "Španělsko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Khmerština",
+      "values": [
+        "Singapur",
+        "Brazílie",
+        "Kambodža",
+        "Botswana"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Xhoština",
+      "values": [
+        "Botswana",
+        "Portugalsko",
+        "Jižní Afrika",
+        "Španělsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Brazilská portugalština",
+      "values": [
+        "Izrael",
+        "Jordánsko",
+        "Dánsko",
+        "Antarktida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aragonština",
+      "values": [
+        "Singapur",
+        "Španělsko",
+        "Severní Irsko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tok Pisin",
+      "values": [
+        "Gruzie",
+        "Irsko",
+        "Vanuatu",
+        "Papua Nová Guinea"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Votština",
+      "values": [
+        "Irsko",
+        "Kambodža",
+        "Bhútán",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Balúčština",
+      "values": [
+        "Švýcarsko",
+        "Pákistán",
+        "Estonsko",
+        "Nigérie"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

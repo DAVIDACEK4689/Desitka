@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Budapešť",
+      "values": [
+        "Maďarsko",
+        "Kypr",
+        "Ukrajina",
+        "Bulharsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bangkok",
+      "values": [
+        "Ekvádor",
+        "Thajsko",
+        "Slovensko",
+        "Grónsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Skopje",
+      "values": [
+        "Bulharsko",
+        "Tádžikistán",
+        "Brazílie",
+        "Severní Makedonie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nazaret",
+      "values": [
+        "Gruzie",
+        "Bolívie",
+        "Švýcarsko",
+        "Izrael"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bojnice",
+      "values": [
+        "Moldavsko",
+        "Bělorusko",
+        "Slovensko",
+        "Myanmar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cancún",
+      "values": [
+        "Irák",
+        "Mexiko",
+        "Kambodža",
+        "Izrael"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cuzco",
+      "values": [
+        "Pero",
+        "Egypt",
+        "Bělorusko",
+        "Madagaskar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sintra",
+      "values": [
+        "Portugalsko",
+        "Belgie",
+        "Ázerbájdžán",
+        "Severní Makedonie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Benidorm",
+      "values": [
+        "Nepál",
+        "Ázerbájdžán",
+        "Španělsko",
+        "Thajsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Buchara",
+      "values": [
+        "Japonsko",
+        "Egypt",
+        "Srí Lanka",
+        "Uzbekistán"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

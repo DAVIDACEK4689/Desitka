@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Berlín",
+      "values": [
+        "Portugalsko",
+        "Německo",
+        "Česko",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Štýrský Hradec",
+      "values": [
+        "Spojené království",
+        "Belgie",
+        "Maďarsko",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Palermo",
+      "values": [
+        "Dánsko",
+        "Německo",
+        "Rakousko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Brémy",
+      "values": [
+        "Rakousko",
+        "Slovensko",
+        "Německo",
+        "Spojené království"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gdyně",
+      "values": [
+        "Polsko",
+        "Česko",
+        "Rakousko",
+        "Maďarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ingolstadt",
+      "values": [
+        "Spojené království",
+        "Německo",
+        "Dánsko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Messina",
+      "values": [
+        "Polsko",
+        "Česko",
+        "Nizozemsko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Göttingen",
+      "values": [
+        "Maďarsko",
+        "Nizozemsko",
+        "Německo",
+        "Spojené království"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lutherstadt Wittenberg",
+      "values": [
+        "Německo",
+        "Irsko",
+        "Maďarsko",
+        "Rakousko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mons",
+      "values": [
+        "Nizozemsko",
+        "Portugalsko",
+        "Dánsko",
+        "Belgie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] kulturu?",
+  "questions": [
+    {
+      "key": "Zen",
+      "values": [
+        "izraelskou",
+        "japonskou",
+        "americkou",
+        "českou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hikikomori",
+      "values": [
+        "egyptskou",
+        "jihokorejskou",
+        "irskou",
+        "japonskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Velká vlna u pobřeží Kanagawy",
+      "values": [
+        "rakouskou",
+        "mongolskou",
+        "japonskou",
+        "indonéskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Père Noël",
+      "values": [
+        "novozélandskou",
+        "izraelskou",
+        "francouzskou",
+        "dánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karaoke",
+      "values": [
+        "havajskou",
+        "japonskou",
+        "jihokorejskou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jazyky Itálie",
+      "values": [
+        "mongolskou",
+        "italskou",
+        "irskou",
+        "gruzínskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vij",
+      "values": [
+        "vietnamskou",
+        "izraelskou",
+        "ukrajinskou",
+        "brazilskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Letkis",
+      "values": [
+        "finskou",
+        "běloruskou",
+        "jihokorejskou",
+        "mongolskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Van Mieu",
+      "values": [
+        "vietnamskou",
+        "maďarskou",
+        "rakouskou",
+        "kubánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dódžinši",
+      "values": [
+        "běloruskou",
+        "egyptskou",
+        "japonskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

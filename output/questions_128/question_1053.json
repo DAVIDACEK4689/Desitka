@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Londýn",
+      "values": [
+        "Lužnice",
+        "Rýn",
+        "Dunaj",
+        "Temže"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Budyšín",
+      "values": [
+        "Spréva",
+        "Don",
+        "Cidlina",
+        "Berounka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hřensko",
+      "values": [
+        "Labe",
+        "Tibera",
+        "Vltava",
+        "Dněpr"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Frymburk",
+      "values": [
+        "Polenz",
+        "Temže",
+        "Váha",
+        "Vltava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Poštorná",
+      "values": [
+        "Don",
+        "Dyje",
+        "Tis",
+        "Malše"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rajka",
+      "values": [
+        "Svratka",
+        "Dněpr",
+        "Dunaj",
+        "Polenz"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Emden",
+      "values": [
+        "Dněpr",
+        "Emže",
+        "Sázava",
+        "Ploučnice"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Semice",
+      "values": [
+        "Inn",
+        "Dyje",
+        "Labe",
+        "Úhlava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Włocławek",
+      "values": [
+        "Hron",
+        "Emže",
+        "Visla",
+        "Sázava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Újezd Svatého Kříže",
+      "values": [
+        "Něva",
+        "Visla",
+        "Cidlina",
+        "Radbuza"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Barbara Haščáková",
+      "values": [
+        "italskou",
+        "slovenskou",
+        "českou",
+        "indickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Emma Kok",
+      "values": [
+        "nizozemskou",
+        "italskou",
+        "australskou",
+        "španělskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gwyneth Paltrow",
+      "values": [
+        "americkou",
+        "jihokorejskou",
+        "uruguayskou",
+        "kolumbijskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Olga Matušková",
+      "values": [
+        "uruguayskou",
+        "indickou",
+        "českou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zuzana Burianová",
+      "values": [
+        "ruskou",
+        "českou",
+        "slovenskou",
+        "barbadoskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kim Wilde",
+      "values": [
+        "indickou",
+        "jihokorejskou",
+        "brazilskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Queen Latifah",
+      "values": [
+        "americkou",
+        "barbadoskou",
+        "norskou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lily Allen",
+      "values": [
+        "českou",
+        "britskou",
+        "jihokorejskou",
+        "mexickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rashida Jones",
+      "values": [
+        "americkou",
+        "maďarskou",
+        "jihokorejskou",
+        "novozélandskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Anita Doth",
+      "values": [
+        "nizozemskou",
+        "polskou",
+        "japonskou",
+        "španělskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

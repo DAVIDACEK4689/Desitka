@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte sport podle československého sportovce",
+  "questions": [
+    {
+      "key": "Petr Klíma",
+      "values": [
+        "lední hokejista",
+        "judista",
+        "vodní lyžař",
+        "šachista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladimír Martinec",
+      "values": [
+        "zápasník",
+        "boxer",
+        "judista",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Smítka",
+      "values": [
+        "cyklista",
+        "horolezec",
+        "šachista",
+        "sportovní střelec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Richard Farda",
+      "values": [
+        "lední hokejista",
+        "jezdec",
+        "automobilový závodník",
+        "basketbalista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mike Buckna",
+      "values": [
+        "jezdec",
+        "atlet",
+        "lední hokejista",
+        "fotbalista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zdeněk Vojtěch",
+      "values": [
+        "atlet",
+        "pozemní hokejista",
+        "fotbalista",
+        "automobilový závodník"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miloslav Brepta",
+      "values": [
+        "atlet",
+        "automobilový závodník",
+        "horolezec",
+        "sportovní střelec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaroslav Kameš",
+      "values": [
+        "lední hokejista",
+        "stolní tenista",
+        "automobilový závodník",
+        "judista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jindřich Dejmal",
+      "values": [
+        "atlet",
+        "fotbalista",
+        "tenista",
+        "kajakář"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stanislav Hajdušek",
+      "values": [
+        "akrobatický letec",
+        "volejbalista",
+        "automobilový závodník",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

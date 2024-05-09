@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] klavíristu?",
+  "questions": [
+    {
+      "key": "Jaroslav Uhlíř",
+      "values": [
+        "maďarského",
+        "norského",
+        "českého",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Filip Topol",
+      "values": [
+        "ruského",
+        "norského",
+        "českého",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Brabec",
+      "values": [
+        "britského",
+        "japonského",
+        "ukrajinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Malásek",
+      "values": [
+        "českého",
+        "britského",
+        "čínského",
+        "australského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Carl Maria von Weber",
+      "values": [
+        "italského",
+        "amerického",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivan Klánský",
+      "values": [
+        "ukrajinského",
+        "izraelského",
+        "českého",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tom Waits",
+      "values": [
+        "rakouského",
+        "finského",
+        "francouzského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Duke Ellington",
+      "values": [
+        "německého",
+        "amerického",
+        "japonského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Klára Gibišová",
+      "values": [
+        "rakouského",
+        "francouzského",
+        "polského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Scott Joplin",
+      "values": [
+        "amerického",
+        "izraelského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

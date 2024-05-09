@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle archeologické lokality",
+  "questions": [
+    {
+      "key": "Machu Picchu",
+      "values": [
+        "Rakousko",
+        "Pero",
+        "Afghánistán",
+        "Tunisko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sevilla",
+      "values": [
+        "Itálie",
+        "Francie",
+        "Sýrie",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alexandrijská knihovna",
+      "values": [
+        "Afghánistán",
+        "Irák",
+        "Malta",
+        "Egypt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marathón",
+      "values": [
+        "Malta",
+        "Egypt",
+        "Řecko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aquileia",
+      "values": [
+        "Srí Lanka",
+        "Slovensko",
+        "Itálie",
+        "Afghánistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nîmes",
+      "values": [
+        "Slovensko",
+        "Rakousko",
+        "Francie",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sakkára",
+      "values": [
+        "Španělsko",
+        "Egypt",
+        "Indonésie",
+        "Tunisko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tarsus",
+      "values": [
+        "Rakousko",
+        "Srí Lanka",
+        "Írán",
+        "Turecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tiberias",
+      "values": [
+        "Irák",
+        "Chorvatsko",
+        "Izrael",
+        "Afghánistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nan Madol",
+      "values": [
+        "Tunisko",
+        "Egypt",
+        "Irák",
+        "Federativní státy Mikronésie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

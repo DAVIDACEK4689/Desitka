@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Hans Christian Andersen",
+      "values": [
+        "francouzského",
+        "dánského",
+        "japonského",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mikuláš Dačický z Heslova",
+      "values": [
+        "polského",
+        "českého",
+        "slovinského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "William Blake",
+      "values": [
+        "slovenského",
+        "anglického",
+        "portugalského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Norman Mailer",
+      "values": [
+        "polského",
+        "portugalského",
+        "finského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Edward Lear",
+      "values": [
+        "rakouského",
+        "slovenského",
+        "anglického",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bohumír Jan Dlabač",
+      "values": [
+        "rakouského",
+        "českého",
+        "slovinského",
+        "chilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Juan Antonio Villacañas",
+      "values": [
+        "kanadského",
+        "španělského",
+        "palestinského",
+        "perského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stanisław Przybyszewski",
+      "values": [
+        "irského",
+        "francouzského",
+        "polského",
+        "islandského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Adam Borzič",
+      "values": [
+        "českého",
+        "albánského",
+        "polského",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ivo Fleischmann",
+      "values": [
+        "britského",
+        "českého",
+        "norského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

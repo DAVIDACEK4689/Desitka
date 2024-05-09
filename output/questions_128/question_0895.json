@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Halina Pawlowská",
+      "values": [
+        "francouzskou",
+        "českou",
+        "chorvatskou",
+        "jihoafrickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Scarlett Johanssonová",
+      "values": [
+        "jihokorejskou",
+        "čínskou",
+        "americkou",
+        "uruguayskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Naděžda Munzarová",
+      "values": [
+        "rakouskou",
+        "švédskou",
+        "českou",
+        "novozélandskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Diane Krugerová",
+      "values": [
+        "uruguayskou",
+        "americkou",
+        "německou",
+        "ruskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lena Headeyová",
+      "values": [
+        "bermudskou",
+        "indickou",
+        "britskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Monica Vittiová",
+      "values": [
+        "italskou",
+        "argentinskou",
+        "rakouskou",
+        "novozélandskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Anita Pallenbergová",
+      "values": [
+        "rakouskou",
+        "indickou",
+        "německou",
+        "jihoafrickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Valérie Lemercierová",
+      "values": [
+        "francouzskou",
+        "nizozemskou",
+        "novozélandskou",
+        "kubánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Charlotte Schwabová",
+      "values": [
+        "italskou",
+        "kubánskou",
+        "finskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ilona Jirotková",
+      "values": [
+        "dánskou",
+        "izraelskou",
+        "českou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

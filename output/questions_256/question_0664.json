@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] bojové vozidlo?",
+  "questions": [
+    {
+      "key": "SKOT",
+      "values": [
+        "české",
+        "rakouské",
+        "americké",
+        "československé"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jeep Willys MB",
+      "values": [
+        "české",
+        "americké",
+        "kanadské",
+        "československé"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stryker",
+      "values": [
+        "italské",
+        "kanadské",
+        "české",
+        "československé"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "HMMWV",
+      "values": [
+        "kanadské",
+        "rakouské",
+        "americké",
+        "československé"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Husitský bojový vůz",
+      "values": [
+        "kanadské",
+        "rakouské",
+        "americké",
+        "české"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "M3 Bradley",
+      "values": [
+        "americké",
+        "kanadské",
+        "československé",
+        "české"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "TOPAS",
+      "values": [
+        "italské",
+        "československé",
+        "kanadské",
+        "české"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Steyr SK 105 Kürassier",
+      "values": [
+        "americké",
+        "československé",
+        "rakouské",
+        "české"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Iveco LMV",
+      "values": [
+        "rakouské",
+        "italské",
+        "české",
+        "československé"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "International MaxxPro",
+      "values": [
+        "československé",
+        "americké",
+        "rakouské",
+        "české"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

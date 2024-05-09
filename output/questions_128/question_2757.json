@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kytaristu?",
+  "questions": [
+    {
+      "key": "Ric Ocasek",
+      "values": [
+        "amerického",
+        "australského",
+        "švédského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Willie Nelson",
+      "values": [
+        "španělského",
+        "amerického",
+        "jamajského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nikolaj Atanasov Arichtev",
+      "values": [
+        "brazilského",
+        "českého",
+        "britského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Honza Křížek",
+      "values": [
+        "českého",
+        "mexického",
+        "kanadského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pepa Lábus",
+      "values": [
+        "irského",
+        "českého",
+        "maďarského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Ostrouchov",
+      "values": [
+        "jihoafrického",
+        "českého",
+        "australského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paco de Lucía",
+      "values": [
+        "norského",
+        "kanadského",
+        "španělského",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vladimír Václavek",
+      "values": [
+        "českého",
+        "mexického",
+        "maďarského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Leon Hendrix",
+      "values": [
+        "amerického",
+        "jihoafrického",
+        "australského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chino Moreno",
+      "values": [
+        "amerického",
+        "maďarského",
+        "německého",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

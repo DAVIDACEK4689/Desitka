@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] evropského podnikatele?",
+  "questions": [
+    {
+      "key": "Marian Kočner",
+      "values": [
+        "monackého",
+        "slovenského",
+        "ruského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Roman Abramovič",
+      "values": [
+        "belgického",
+        "ruského",
+        "italského",
+        "monackého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pierluigi Collina",
+      "values": [
+        "ukrajinského",
+        "italského",
+        "monackého",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pierre Cardin",
+      "values": [
+        "španělského",
+        "dánského",
+        "polského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Amancio Ortega",
+      "values": [
+        "slovinského",
+        "španělského",
+        "monackého",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gianni Agnelli",
+      "values": [
+        "švýcarského",
+        "italského",
+        "ruského",
+        "běloruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Václav Klán",
+      "values": [
+        "monackého",
+        "rakouského",
+        "polského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jindřich Maštálka",
+      "values": [
+        "ruského",
+        "rakouského",
+        "řeckého",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Susanne Klattenová",
+      "values": [
+        "ukrajinského",
+        "řeckého",
+        "německého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Viktor Vekselberg",
+      "values": [
+        "ruského",
+        "nizozemského",
+        "belgického",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

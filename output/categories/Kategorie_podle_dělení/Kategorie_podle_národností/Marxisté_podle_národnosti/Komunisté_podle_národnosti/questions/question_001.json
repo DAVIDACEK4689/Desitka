@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [národnost] komunistu?",
+  "questions": [
+    {
+      "key": "Andrej Babiš",
+      "values": [
+        "slovenského",
+        "jugoslávského",
+        "německého",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Leonid Iljič Brežněv",
+      "values": [
+        "kambodžského",
+        "sovětského",
+        "jugoslávského",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pablo Picasso",
+      "values": [
+        "jugoslávského",
+        "mexického",
+        "slovenského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karl Marx",
+      "values": [
+        "německého",
+        "kambodžského",
+        "španělského",
+        "jugoslávského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Frida Kahlo",
+      "values": [
+        "rumunského",
+        "sovětského",
+        "španělského",
+        "mexického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nicolae Ceaușescu",
+      "values": [
+        "rumunského",
+        "sovětského",
+        "kambodžského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josip Broz Tito",
+      "values": [
+        "mexického",
+        "sovětského",
+        "jugoslávského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivan Olbracht",
+      "values": [
+        "českého",
+        "rumunského",
+        "mexického",
+        "kambodžského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jana Michailidu",
+      "values": [
+        "slovenského",
+        "španělského",
+        "kambodžského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pol Pot",
+      "values": [
+        "slovenského",
+        "kambodžského",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

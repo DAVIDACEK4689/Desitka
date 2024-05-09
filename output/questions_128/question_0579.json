@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fyzika?",
+  "questions": [
+    {
+      "key": "Galileo Galilei",
+      "values": [
+        "španělského",
+        "polského",
+        "irského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mikuláš Peksa",
+      "values": [
+        "českého",
+        "rumunského",
+        "irského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Narghís Mohammadiová",
+      "values": [
+        "íránského",
+        "izraelského",
+        "běloruského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hans Christian Ørsted",
+      "values": [
+        "dánského",
+        "švédského",
+        "polského",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Thomas Young",
+      "values": [
+        "rakouského",
+        "ukrajinského",
+        "francouzského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "John Bardeen",
+      "values": [
+        "rakouského",
+        "izraelského",
+        "amerického",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kip Thorne",
+      "values": [
+        "irského",
+        "maďarského",
+        "nizozemského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jack Kilby",
+      "values": [
+        "amerického",
+        "rumunského",
+        "britského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Carl Friedrich von Weizsäcker",
+      "values": [
+        "rumunského",
+        "německého",
+        "izraelského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vincenc Strouhal",
+      "values": [
+        "švýcarského",
+        "izraelského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

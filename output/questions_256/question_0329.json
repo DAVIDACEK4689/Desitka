@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] političku?",
+  "questions": [
+    {
+      "key": "Magda Vášáryová",
+      "values": [
+        "ruskou",
+        "slovenskou",
+        "českou",
+        "rakouskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Katalin Nováková",
+      "values": [
+        "slovenskou",
+        "českou",
+        "maďarskou",
+        "rakouskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hana Lipovská",
+      "values": [
+        "rakouskou",
+        "českou",
+        "maďarskou",
+        "slovenskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Klára Samková",
+      "values": [
+        "slovenskou",
+        "českou",
+        "rakouskou",
+        "maďarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marija Zacharovová",
+      "values": [
+        "ruskou",
+        "maďarskou",
+        "českou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nora Kabrheľová",
+      "values": [
+        "maďarskou",
+        "českou",
+        "ruskou",
+        "slovenskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Denisa Saková",
+      "values": [
+        "českou",
+        "maďarskou",
+        "ruskou",
+        "slovenskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ida Rapaičová",
+      "values": [
+        "maďarskou",
+        "ruskou",
+        "českou",
+        "slovenskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jana Turoňová",
+      "values": [
+        "českou",
+        "maďarskou",
+        "ruskou",
+        "rakouskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Šárka Zdeňková",
+      "values": [
+        "českou",
+        "slovenskou",
+        "maďarskou",
+        "rakouskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

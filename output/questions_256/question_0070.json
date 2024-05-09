@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] palnou zbraň?",
+  "questions": [
+    {
+      "key": "M16",
+      "values": [
+        "belgickou",
+        "britskou",
+        "americkou",
+        "rakouskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Barrett M82",
+      "values": [
+        "švýcarskou",
+        "rakouskou",
+        "japonskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karabiner 98k",
+      "values": [
+        "rakouskou",
+        "britskou",
+        "německou",
+        "izraelskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "FN P90",
+      "values": [
+        "americkou",
+        "japonskou",
+        "švýcarskou",
+        "belgickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mauser M 98",
+      "values": [
+        "japonskou",
+        "izraelskou",
+        "britskou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mauser C96",
+      "values": [
+        "americkou",
+        "rakouskou",
+        "německou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Steyr AUG",
+      "values": [
+        "britskou",
+        "americkou",
+        "rakouskou",
+        "japonskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "FG 42",
+      "values": [
+        "izraelskou",
+        "rakouskou",
+        "americkou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Puška 88",
+      "values": [
+        "japonskou",
+        "německou",
+        "švýcarskou",
+        "rakouskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "460mm kanón typu 94",
+      "values": [
+        "švýcarskou",
+        "německou",
+        "belgickou",
+        "japonskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

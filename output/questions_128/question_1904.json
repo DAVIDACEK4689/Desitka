@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Taškent",
+      "values": [
+        "Uzbekistán",
+        "Itálie",
+        "Brazílie",
+        "Keňa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dušanbe",
+      "values": [
+        "Severní Korea",
+        "Sýrie",
+        "Gabon",
+        "Tádžikistán"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Městská památková rezervace",
+      "values": [
+        "Mosambik",
+        "Ekvádor",
+        "Libanon",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kigali",
+      "values": [
+        "Marshallovy ostrovy",
+        "Brazílie",
+        "Honduras",
+        "Rwanda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aktobe",
+      "values": [
+        "Sýrie",
+        "Marshallovy ostrovy",
+        "Kazachstán",
+        "Afghánistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Slavonski Brod",
+      "values": [
+        "Chorvatsko",
+        "Pero",
+        "Irsko",
+        "Slovinsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Labin",
+      "values": [
+        "Brunej",
+        "Chorvatsko",
+        "Keňa",
+        "Angola"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mazatlán",
+      "values": [
+        "Mexiko",
+        "Bhútán",
+        "Myanmar",
+        "Omán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kimberley",
+      "values": [
+        "Jihoafrická republika",
+        "Tunisko",
+        "Libérie",
+        "Severní Makedonie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Preslav",
+      "values": [
+        "Bulharsko",
+        "Venezuela",
+        "Slovensko",
+        "Madagaskar"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

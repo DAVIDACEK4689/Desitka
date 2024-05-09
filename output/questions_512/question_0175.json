@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle českého sportovce",
+  "questions": [
+    {
+      "key": "Jaromír Soukup",
+      "values": [
+        "šachista",
+        "boxer",
+        "golfista",
+        "judista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Milan Baroš",
+      "values": [
+        "tenista",
+        "akrobatický letec",
+        "fotbalista",
+        "cyklista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dalibor Gondík",
+      "values": [
+        "rychlostní kanoista",
+        "tenista",
+        "zápasník",
+        "automobilový závodník"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Klub ligových kanonýrů",
+      "values": [
+        "horolezec",
+        "rychlostní kanoista",
+        "fotbalista",
+        "šachista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gustav Frištenský",
+      "values": [
+        "ragbista",
+        "judista",
+        "zápasník",
+        "jezdec"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michal Bílek",
+      "values": [
+        "jezdec",
+        "fotbalista",
+        "akrobatický letec",
+        "horolezec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lukáš Rosol",
+      "values": [
+        "bojový umělec",
+        "boxer",
+        "tenista",
+        "lední hokejista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vít Krejčí",
+      "values": [
+        "boxer",
+        "kickboxeři",
+        "tenista",
+        "basketbalista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Antonín Charouz",
+      "values": [
+        "horolezec",
+        "automobilový závodník",
+        "bojový umělec",
+        "boxer"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jakub Kovář",
+      "values": [
+        "akrobatický letec",
+        "rychlostní kanoista",
+        "ragbista",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

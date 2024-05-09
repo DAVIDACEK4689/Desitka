@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Metaxa",
+      "values": [
+        "skotskou",
+        "indonéskou",
+        "řeckou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chipotle",
+      "values": [
+        "mexickou",
+        "ruskou",
+        "anglickou",
+        "bhútánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chorvatská kuchyně",
+      "values": [
+        "středomořskou",
+        "anglickou",
+        "kanadskou",
+        "vietnamskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pizza havaj",
+      "values": [
+        "řeckou",
+        "mexickou",
+        "australskou",
+        "kanadskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Arašídové máslo",
+      "values": [
+        "belgickou",
+        "americkou",
+        "vietnamskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Croque monsieur",
+      "values": [
+        "irskou",
+        "španělskou",
+        "francouzskou",
+        "skotskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Frittata",
+      "values": [
+        "norskou",
+        "italskou",
+        "ukrajinskou",
+        "německou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Horchata de chufa",
+      "values": [
+        "tibetskou",
+        "španělskou",
+        "japonskou",
+        "portugalskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kotlet schabowy",
+      "values": [
+        "polskou",
+        "švýcarskou",
+        "bhútánskou",
+        "irskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Erős Pista",
+      "values": [
+        "středoamerickou",
+        "maďarskou",
+        "perskou",
+        "arménskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

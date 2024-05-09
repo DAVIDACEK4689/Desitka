@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Vladislav Vančura",
+      "values": [
+        "českého",
+        "italského",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Janák",
+      "values": [
+        "českého",
+        "italského",
+        "irského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lila Schwarzenbergová",
+      "values": [
+        "italského",
+        "japonského",
+        "rakouského",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Danny DeVito",
+      "values": [
+        "amerického",
+        "polského",
+        "švýcarského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ladislav Boháč",
+      "values": [
+        "australského",
+        "českého",
+        "ukrajinského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zdeněk Podskalský mladší",
+      "values": [
+        "belgického",
+        "srbského",
+        "japonského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jeanne Moreau",
+      "values": [
+        "francouzského",
+        "českého",
+        "norského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sidney Poitier",
+      "values": [
+        "norského",
+        "polského",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Špáta",
+      "values": [
+        "irského",
+        "ukrajinského",
+        "českého",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Viktor Polesný",
+      "values": [
+        "novozélandského",
+        "ruského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

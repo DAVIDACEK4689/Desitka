@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] ateistu?",
+  "questions": [
+    {
+      "key": "Brad Pitt",
+      "values": [
+        "kubánského",
+        "polského",
+        "amerického",
+        "bulharského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Albert Camus",
+      "values": [
+        "polského",
+        "maďarského",
+        "rumunského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "James Cameron",
+      "values": [
+        "kanadského",
+        "německého",
+        "švýcarského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Giuseppe Garibaldi",
+      "values": [
+        "albánského",
+        "italského",
+        "amerického",
+        "skotského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Enver Hodža",
+      "values": [
+        "švédského",
+        "maďarského",
+        "albánského",
+        "mexického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robert Louis Stevenson",
+      "values": [
+        "albánského",
+        "chorvatského",
+        "skotského",
+        "islandského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bertrand Russell",
+      "values": [
+        "židovského",
+        "britského",
+        "rumunského",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bob Geldof",
+      "values": [
+        "irského",
+        "švýcarského",
+        "mexického",
+        "židovského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Władysław Gomułka",
+      "values": [
+        "polského",
+        "francouzského",
+        "indického",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Aleksander Kwaśniewski",
+      "values": [
+        "islandského",
+        "polského",
+        "albánského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

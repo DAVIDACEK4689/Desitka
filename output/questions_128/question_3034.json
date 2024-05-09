@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] sériového vraha?",
+  "questions": [
+    {
+      "key": "Orličtí vrazi",
+      "values": [
+        "britského",
+        "slovenského",
+        "českého",
+        "kazašského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Straka",
+      "values": [
+        "českého",
+        "belgického",
+        "kanadského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gary Ridgway",
+      "values": [
+        "ruského",
+        "ukrajinského",
+        "italského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Charles Sobhraj",
+      "values": [
+        "italského",
+        "francouzského",
+        "britského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paul Bernardo",
+      "values": [
+        "britského",
+        "kanadského",
+        "španělského",
+        "belgického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Peter Sutcliffe",
+      "values": [
+        "ruského",
+        "britského",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Luis Garavito",
+      "values": [
+        "francouzského",
+        "britského",
+        "ruského",
+        "kolumbijského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Arthur Shawcross",
+      "values": [
+        "amerického",
+        "japonského",
+        "kanadského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Richard Chase",
+      "values": [
+        "amerického",
+        "britského",
+        "belgického",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Anatolij Onoprienko",
+      "values": [
+        "kazašského",
+        "španělského",
+        "britského",
+        "ukrajinského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

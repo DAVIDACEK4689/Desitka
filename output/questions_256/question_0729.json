@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Rudolf Hrušínský nejmladší",
+      "values": [
+        "izraelského",
+        "českého",
+        "španělského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Grossmann",
+      "values": [
+        "českého",
+        "slovenského",
+        "polského",
+        "chilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Elliot Page",
+      "values": [
+        "českého",
+        "švédského",
+        "guatemalského",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Adrien Brody",
+      "values": [
+        "portorického",
+        "malajsijského",
+        "amerického",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Daniel Dangl",
+      "values": [
+        "ukrajinského",
+        "švýcarského",
+        "slovenského",
+        "jihoafrického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gustáv Valach",
+      "values": [
+        "portorického",
+        "amerického",
+        "slovenského",
+        "jihokorejského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Natalia Streignard",
+      "values": [
+        "švýcarského",
+        "novozélandského",
+        "venezuelského",
+        "indického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bohuslav Čáp",
+      "values": [
+        "chilského",
+        "jamajského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jonathan Frakes",
+      "values": [
+        "jamajského",
+        "amerického",
+        "srbského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Kobr",
+      "values": [
+        "japonského",
+        "amerického",
+        "českého",
+        "srbského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

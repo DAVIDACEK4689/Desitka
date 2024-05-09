@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Jaroslava Obermaierová",
+      "values": [
+        "českou",
+        "německou",
+        "britskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karolína Kaiserová",
+      "values": [
+        "českou",
+        "americkou",
+        "irskou",
+        "tureckou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Anya Chalotra",
+      "values": [
+        "irskou",
+        "íránskou",
+        "britskou",
+        "mexickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miriam Kantorková",
+      "values": [
+        "argentinskou",
+        "novozélandskou",
+        "českou",
+        "švédskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Úrsula Corberó",
+      "values": [
+        "jihoafrickou",
+        "britskou",
+        "španělskou",
+        "rakouskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zuzana Ondrouchová",
+      "values": [
+        "českou",
+        "kolumbijskou",
+        "německou",
+        "izraelskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Malin Åkermanová",
+      "values": [
+        "italskou",
+        "kanadskou",
+        "jihoafrickou",
+        "australskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Naike Rivelli",
+      "values": [
+        "italskou",
+        "čínskou",
+        "řeckou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Senta Bergerová",
+      "values": [
+        "německou",
+        "australskou",
+        "americkou",
+        "rakouskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cassie",
+      "values": [
+        "norskou",
+        "americkou",
+        "francouzskou",
+        "izraelskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

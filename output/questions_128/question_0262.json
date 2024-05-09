@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle archeologické lokality",
+  "questions": [
+    {
+      "key": "Angkor Vat",
+      "values": [
+        "Rakousko",
+        "Izrael",
+        "Ukrajina",
+        "Kambodža"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Akko",
+      "values": [
+        "Rakousko",
+        "Polsko",
+        "Izrael",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Attika",
+      "values": [
+        "Malta",
+        "Řecko",
+        "Chorvatsko",
+        "Egypt"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sakkára",
+      "values": [
+        "Rusko",
+        "Egypt",
+        "Albánie",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kumrán",
+      "values": [
+        "Jihoafrická republika",
+        "Izrael",
+        "Itálie",
+        "Turecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dionýsovo divadlo",
+      "values": [
+        "Německo",
+        "Česko",
+        "Afghánistán",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Betsaida",
+      "values": [
+        "Sýrie",
+        "Chorvatsko",
+        "Izrael",
+        "Malta"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dura Európos",
+      "values": [
+        "Albánie",
+        "Federativní státy Mikronésie",
+        "Tanzanie",
+        "Sýrie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bassai",
+      "values": [
+        "Řecko",
+        "Francie",
+        "Afghánistán",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Villanovská kultura",
+      "values": [
+        "Itálie",
+        "Tunisko",
+        "Kambodža",
+        "Turecko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

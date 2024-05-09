@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Umami",
+      "values": [
+        "japonskou",
+        "skotskou",
+        "indickou",
+        "rakouskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jitrnice",
+      "values": [
+        "portugalskou",
+        "chorvatskou",
+        "německou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fondue",
+      "values": [
+        "vietnamskou",
+        "ruskou",
+        "americkou",
+        "švýcarskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pastrami",
+      "values": [
+        "tureckou",
+        "arabskou",
+        "portugalskou",
+        "židovskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sacherův dort",
+      "values": [
+        "belgickou",
+        "rakouskou",
+        "kanadskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nutella",
+      "values": [
+        "kanadskou",
+        "italskou",
+        "ukrajinskou",
+        "balkánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cachaça",
+      "values": [
+        "ukrajinskou",
+        "brazilskou",
+        "židovskou",
+        "skotskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ovar",
+      "values": [
+        "arabskou",
+        "českou",
+        "belgickou",
+        "arménskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Moravský vrabec",
+      "values": [
+        "britskou",
+        "japonskou",
+        "polskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bruschetta",
+      "values": [
+        "arabskou",
+        "řeckou",
+        "francouzskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

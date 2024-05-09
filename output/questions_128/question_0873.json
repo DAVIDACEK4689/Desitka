@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte město podle fotbalu",
+  "questions": [
+    {
+      "key": "Mistrovství světa ve fotbale žen 2023",
+      "values": [
+        "Sydney",
+        "Berlín",
+        "Petrohrad",
+        "Moskva"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mistrovství světa ve fotbale 2018",
+      "values": [
+        "Moskva",
+        "Milán",
+        "Bělehrad",
+        "Petrohrad"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mistrovství Evropy ve fotbale 2016",
+      "values": [
+        "Tokio",
+        "Paříž",
+        "Madrid",
+        "Bělehrad"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mistrovství Evropy ve fotbale 2012",
+      "values": [
+        "Tokio",
+        "Kyjev",
+        "Milán",
+        "Bělehrad"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "AFC Ajax",
+      "values": [
+        "Madrid",
+        "Amsterdam",
+        "Berlín",
+        "Moskva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Feyenoord",
+      "values": [
+        "Kyjev",
+        "Berlín",
+        "Rotterdam",
+        "Sydney"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hertha BSC",
+      "values": [
+        "Rotterdam",
+        "Berlín",
+        "Bělehrad",
+        "Paříž"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mistrovství Evropy ve fotbale 1960",
+      "values": [
+        "Paříž",
+        "Amsterdam",
+        "Kyjev",
+        "Bělehrad"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mistrovství světa ve fotbale žen 2019",
+      "values": [
+        "Paříž",
+        "Petrohrad",
+        "Bělehrad",
+        "Madrid"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Feijenoord Stadion",
+      "values": [
+        "Moskva",
+        "Amsterdam",
+        "Rotterdam",
+        "Milán"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

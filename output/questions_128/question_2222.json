@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle fotbalové události",
+  "questions": [
+    {
+      "key": "Mistrovství světa ve fotbale 2026",
+      "values": [
+        "Portugalsko",
+        "Mexiko",
+        "Rusko",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mistrovství světa ve fotbale 2006",
+      "values": [
+        "Polsko",
+        "Argentina",
+        "Slovensko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mistrovství světa ve fotbale 1990",
+      "values": [
+        "Švýcarsko",
+        "Itálie",
+        "Francie",
+        "Brazílie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mistrovství světa ve fotbale 1930",
+      "values": [
+        "Mexiko",
+        "Uruguay",
+        "Německo",
+        "Švédsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mistrovství světa ve fotbale 1974",
+      "values": [
+        "Argentina",
+        "Německo",
+        "Nizozemsko",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mistrovství Evropy ve fotbale 1988",
+      "values": [
+        "Nizozemsko",
+        "Belgie",
+        "Německo",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství Evropy ve fotbale 1960",
+      "values": [
+        "Mexiko",
+        "Francie",
+        "Švýcarsko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fotbal na Letních olympijských hrách 2020",
+      "values": [
+        "Itálie",
+        "Japonsko",
+        "Švédsko",
+        "Belgie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mistrovství Evropy ve fotbale 1972",
+      "values": [
+        "Mexiko",
+        "Portugalsko",
+        "Belgie",
+        "Uruguay"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství Evropy ve fotbale hráčů do 21 let 2017",
+      "values": [
+        "Švýcarsko",
+        "Německo",
+        "Polsko",
+        "Švédsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

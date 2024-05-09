@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Miroslav Horníček",
+      "values": [
+        "britského",
+        "českého",
+        "argentinského",
+        "novozélandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Čtvrtníček",
+      "values": [
+        "bosenského",
+        "brazilského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rudolf Deyl starší",
+      "values": [
+        "srbského",
+        "švédského",
+        "novozélandského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michele Placido",
+      "values": [
+        "chilského",
+        "namibijského",
+        "jamajského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vilém Besser",
+      "values": [
+        "britského",
+        "srbského",
+        "českého",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ctibor Filčík",
+      "values": [
+        "brazilského",
+        "řeckého",
+        "slovenského",
+        "bosenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ty Burrell",
+      "values": [
+        "portugalského",
+        "amerického",
+        "ukrajinského",
+        "jamajského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Roman Pomajbo",
+      "values": [
+        "bulharského",
+        "novozélandského",
+        "slovenského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ezdráš Egon Hýbl",
+      "values": [
+        "chorvatského",
+        "tureckého",
+        "jamajského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Dolenský",
+      "values": [
+        "českého",
+        "ruského",
+        "polského",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle obce",
+  "questions": [
+    {
+      "key": "Obec s rozšířenou působností",
+      "values": [
+        "Česko",
+        "Německo",
+        "Island",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vaduz",
+      "values": [
+        "Řecko",
+        "Rakousko",
+        "Německo",
+        "Lichtenštejnsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Grindavík",
+      "values": [
+        "Česko",
+        "Francie",
+        "Island",
+        "Rakousko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pella",
+      "values": [
+        "Francie",
+        "Rakousko",
+        "Německo",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Schaan",
+      "values": [
+        "Francie",
+        "Itálie",
+        "Česko",
+        "Lichtenštejnsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vestmannaeyjar",
+      "values": [
+        "Itálie",
+        "Rakousko",
+        "Island",
+        "Lichtenštejnsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Haugesund",
+      "values": [
+        "Lichtenštejnsko",
+        "Norsko",
+        "Itálie",
+        "Francie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hamar",
+      "values": [
+        "Norsko",
+        "Česko",
+        "Rakousko",
+        "Lichtenštejnsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Senja",
+      "values": [
+        "Řecko",
+        "Francie",
+        "Island",
+        "Norsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Balzers",
+      "values": [
+        "Lichtenštejnsko",
+        "Česko",
+        "Německo",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

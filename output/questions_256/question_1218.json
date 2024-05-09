@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Spalovač mrtvol",
+      "values": [
+        "Petr Zelenka",
+        "Martin Frič",
+        "Juraj Herz",
+        "Antonín Moskalyk"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Limonádový Joe aneb Koňská opera",
+      "values": [
+        "Karel Steklý",
+        "František Vláčil",
+        "Oldřich Lipský",
+        "Jindřich Polák"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Habermannův mlýn",
+      "values": [
+        "Juraj Herz",
+        "Bohdan Sláma",
+        "Miloslav Šmídmajer",
+        "Ondřej Trojan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kouzla králů",
+      "values": [
+        "Zdeněk Zelenka",
+        "Tomáš Vorel",
+        "Martin Horský",
+        "Václav Krška"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Upír z Feratu",
+      "values": [
+        "Juraj Herz",
+        "Oldřich Lipský",
+        "Martin Horský",
+        "Jiří Sequens"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zítra vstanu a opařím se čajem",
+      "values": [
+        "Filip Renč",
+        "Vojtěch Jasný",
+        "Jan Prušinovský",
+        "Jindřich Polák"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Knoflíkáři",
+      "values": [
+        "Karel Smyczek",
+        "Jan Svěrák",
+        "Oldřich Lipský",
+        "Petr Zelenka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Šeptej",
+      "values": [
+        "David Ondříček",
+        "Zdeněk Podskalský",
+        "Jiří Menzel",
+        "Filip Renč"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Osvobození Prahy",
+      "values": [
+        "Jan Svěrák",
+        "Zdeněk Zelenka",
+        "Otakar Vávra",
+        "Jan Hřebejk"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Případ pro začínajícího kata",
+      "values": [
+        "Pavel Juráček",
+        "Jan Schmidt",
+        "Zdeněk Tyc",
+        "Jindřich Polák"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

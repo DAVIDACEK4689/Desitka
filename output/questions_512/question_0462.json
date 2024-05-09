@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] cestovatele?",
+  "questions": [
+    {
+      "key": "Miloslav Stingl",
+      "values": [
+        "norského",
+        "německého",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jessica Watsonová",
+      "values": [
+        "norského",
+        "ruského",
+        "australského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Emil Holub",
+      "values": [
+        "amerického",
+        "britského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Hanzelka",
+      "values": [
+        "norského",
+        "španělského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Leif Eriksson",
+      "values": [
+        "norského",
+        "ruského",
+        "německého",
+        "australského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alois Musil",
+      "values": [
+        "britského",
+        "slovenského",
+        "norského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bartolomeu Dias",
+      "values": [
+        "portugalského",
+        "španělského",
+        "norského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexander von Humboldt",
+      "values": [
+        "portugalského",
+        "britského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Kolbaba",
+      "values": [
+        "španělského",
+        "britského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tadeáš Haenke",
+      "values": [
+        "australského",
+        "britského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalovou soutěž?",
+  "questions": [
+    {
+      "key": "FA Cup",
+      "values": [
+        "švédskou",
+        "anglickou",
+        "německou",
+        "irskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Divize A",
+      "values": [
+        "českou",
+        "československou",
+        "maďarskou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eredivisie",
+      "values": [
+        "francouzskou",
+        "nizozemskou",
+        "rumunskou",
+        "portugalskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Football League First Division",
+      "values": [
+        "dánskou",
+        "anglickou",
+        "nizozemskou",
+        "norskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Divize E",
+      "values": [
+        "nizozemskou",
+        "českou",
+        "německou",
+        "anglickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "EFL League Two",
+      "values": [
+        "polskou",
+        "irskou",
+        "norskou",
+        "anglickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Serie B",
+      "values": [
+        "lotyšskou",
+        "italskou",
+        "irskou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Segunda División",
+      "values": [
+        "belgickou",
+        "skotskou",
+        "španělskou",
+        "norskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Virslīga",
+      "values": [
+        "lotyšskou",
+        "skotskou",
+        "irskou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Serie C",
+      "values": [
+        "španělskou",
+        "polskou",
+        "italskou",
+        "skotskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

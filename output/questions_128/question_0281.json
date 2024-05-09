@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte pohoří podle přehradní nádrže",
+  "questions": [
+    {
+      "key": "Přehrada Desná",
+      "values": [
+        "Tepelská vrchovina",
+        "Jizerské hory",
+        "Vizovická vrchovina",
+        "Podbeskydská pahorkatina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Žermanická přehrada",
+      "values": [
+        "Křižanovská vrchovina",
+        "Jizerské hory",
+        "Hornosázavská pahorkatina",
+        "Podbeskydská pahorkatina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vodní nádrž Souš",
+      "values": [
+        "Drahanská vrchovina",
+        "Jizerské hory",
+        "Hornosázavská pahorkatina",
+        "Vizovická vrchovina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vodní nádrž Těrlicko",
+      "values": [
+        "Podbeskydská pahorkatina",
+        "Drahanská vrchovina",
+        "Tepelská vrchovina",
+        "Železná hora"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vodní nádrž Římov",
+      "values": [
+        "Podorlická pahorkatina",
+        "Pražská plošina",
+        "Novohradské podhůří",
+        "Táborská pahorkatina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vodní nádrž Kamýk",
+      "values": [
+        "Drahanská vrchovina",
+        "Benešovská pahorkatina",
+        "Křižanovská vrchovina",
+        "Mostecká pánev"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kacabaja",
+      "values": [
+        "Podbeskydská pahorkatina",
+        "Křižanovská vrchovina",
+        "Podorlická pahorkatina",
+        "Hornosázavská pahorkatina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vodní nádrž Žlutice",
+      "values": [
+        "Jizerské hory",
+        "Tepelská vrchovina",
+        "Podorlická pahorkatina",
+        "Vizovická vrchovina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vodní nádrž Křižanovice I",
+      "values": [
+        "Podorlická pahorkatina",
+        "Tepelská vrchovina",
+        "Železná hora",
+        "Novohradské podhůří"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vodní nádrž Břevnice",
+      "values": [
+        "Železná hora",
+        "Drahanská vrchovina",
+        "Hornosázavská pahorkatina",
+        "Podorlická pahorkatina"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

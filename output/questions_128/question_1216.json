@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] klavíristu?",
+  "questions": [
+    {
+      "key": "Sergej Rachmaninov",
+      "values": [
+        "maďarského",
+        "ruského",
+        "australského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nick Cave",
+      "values": [
+        "izraelského",
+        "českého",
+        "australského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ryan Tedder",
+      "values": [
+        "španělského",
+        "kanadského",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kygo",
+      "values": [
+        "rakouského",
+        "italského",
+        "norského",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lang Lang",
+      "values": [
+        "ruského",
+        "norského",
+        "maďarského",
+        "čínského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zdeněk Zdeněk",
+      "values": [
+        "rakouského",
+        "českého",
+        "španělského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ignacy Jan Paderewski",
+      "values": [
+        "polského",
+        "španělského",
+        "slovenského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Bažant",
+      "values": [
+        "australského",
+        "slovenského",
+        "izraelského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Valentina Kameníková",
+      "values": [
+        "českého",
+        "ukrajinského",
+        "kanadského",
+        "izraelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ladislav Simon",
+      "values": [
+        "amerického",
+        "ruského",
+        "českého",
+        "izraelského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

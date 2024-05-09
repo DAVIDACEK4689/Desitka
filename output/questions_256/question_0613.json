@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [materiál] stavbu?",
+  "questions": [
+    {
+      "key": "Socha Svobody",
+      "values": [
+        "kamennou",
+        "dřevěnou",
+        "ocelovou",
+        "betonovou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Panelový dům",
+      "values": [
+        "dřevěnou",
+        "kamennou",
+        "ocelovou",
+        "betonovou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Abú Simbel",
+      "values": [
+        "betonovou",
+        "kamennou",
+        "ocelovou",
+        "dřevěnou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kolejnice",
+      "values": [
+        "dřevěnou",
+        "ocelovou",
+        "betonovou",
+        "kamennou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Okál",
+      "values": [
+        "ocelovou",
+        "kamennou",
+        "dřevěnou",
+        "betonovou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Salaš",
+      "values": [
+        "betonovou",
+        "kamennou",
+        "dřevěnou",
+        "ocelovou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lincolnův památník",
+      "values": [
+        "kamennou",
+        "ocelovou",
+        "dřevěnou",
+        "betonovou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Einmannbunker",
+      "values": [
+        "betonovou",
+        "ocelovou",
+        "kamennou",
+        "dřevěnou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Podstávkový dům",
+      "values": [
+        "betonovou",
+        "kamennou",
+        "dřevěnou",
+        "ocelovou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Trullo",
+      "values": [
+        "betonovou",
+        "kamennou",
+        "dřevěnou",
+        "ocelovou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

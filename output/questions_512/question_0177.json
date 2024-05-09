@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Miloš Kopecký",
+      "values": [
+        "čínského",
+        "českého",
+        "norského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miroslav Horníček",
+      "values": [
+        "norského",
+        "italského",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Brukner",
+      "values": [
+        "ruského",
+        "maďarského",
+        "srbského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Woody Allen",
+      "values": [
+        "amerického",
+        "australského",
+        "švédského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Henry Fonda",
+      "values": [
+        "ukrajinského",
+        "guatemalského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Fišar",
+      "values": [
+        "ruského",
+        "novozélandského",
+        "českého",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Adolf Filip",
+      "values": [
+        "španělského",
+        "sovětského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josh Hartnett",
+      "values": [
+        "kanadského",
+        "amerického",
+        "guatemalského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tobias Moretti",
+      "values": [
+        "českého",
+        "dánského",
+        "rakouského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ed Harris",
+      "values": [
+        "amerického",
+        "nizozemského",
+        "australského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

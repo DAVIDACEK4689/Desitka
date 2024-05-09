@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] aktivistu?",
+  "questions": [
+    {
+      "key": "Zuzana Čaputová",
+      "values": [
+        "francouzského",
+        "amerického",
+        "německého",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Daniel Landa",
+      "values": [
+        "českého",
+        "německého",
+        "slovenského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Olga Havlová",
+      "values": [
+        "německého",
+        "ruského",
+        "indického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jana Zwyrtek Hamplová",
+      "values": [
+        "jihoafrického",
+        "českého",
+        "francouzského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gina Lollobrigida",
+      "values": [
+        "ruského",
+        "jihoafrického",
+        "slovenského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Theodore Kaczynski",
+      "values": [
+        "ruského",
+        "britského",
+        "indického",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Zdechovský",
+      "values": [
+        "ruského",
+        "českého",
+        "amerického",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "John Bok",
+      "values": [
+        "italského",
+        "britského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Brigitte Bardotová",
+      "values": [
+        "francouzského",
+        "slovenského",
+        "jihoafrického",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ladislav Vrabel",
+      "values": [
+        "německého",
+        "italského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

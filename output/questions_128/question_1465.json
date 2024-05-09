@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalovou soutěž?",
+  "questions": [
+    {
+      "key": "Primera División",
+      "values": [
+        "dánskou",
+        "portugalskou",
+        "španělskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "EFL Championship",
+      "values": [
+        "lotyšskou",
+        "skotskou",
+        "anglickou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Copa del Rey",
+      "values": [
+        "španělskou",
+        "nizozemskou",
+        "tureckou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Divize B",
+      "values": [
+        "švédskou",
+        "portugalskou",
+        "lotyšskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Primeira Liga",
+      "values": [
+        "tureckou",
+        "irskou",
+        "portugalskou",
+        "norskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Divize F",
+      "values": [
+        "českou",
+        "portugalskou",
+        "československou",
+        "švédskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Scottish Premiership",
+      "values": [
+        "československou",
+        "skotskou",
+        "švédskou",
+        "českou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "English Football League",
+      "values": [
+        "chorvatskou",
+        "tureckou",
+        "irskou",
+        "anglickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nemzeti bajnokság I",
+      "values": [
+        "německou",
+        "rumunskou",
+        "maďarskou",
+        "belgickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Slovenská národní fotbalová liga",
+      "values": [
+        "švédskou",
+        "československou",
+        "norskou",
+        "skotskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

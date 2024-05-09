@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Pablo Neruda",
+      "values": [
+        "řeckého",
+        "amerického",
+        "norského",
+        "chilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lope de Vega",
+      "values": [
+        "čínského",
+        "španělského",
+        "belgického",
+        "palestinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Novalis",
+      "values": [
+        "kubánského",
+        "německého",
+        "řeckého",
+        "vietnamského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavel Bojar",
+      "values": [
+        "tureckého",
+        "portugalského",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Akiane",
+      "values": [
+        "amerického",
+        "dánského",
+        "íránského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert Graves",
+      "values": [
+        "anglického",
+        "tureckého",
+        "rumunského",
+        "vietnamského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Benjamin Zephaniah",
+      "values": [
+        "amerického",
+        "sovětského",
+        "španělského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Henry Wadsworth Longfellow",
+      "values": [
+        "portugalského",
+        "amerického",
+        "mexického",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stephen Crane",
+      "values": [
+        "amerického",
+        "čínského",
+        "indického",
+        "chorvatského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Luis de Góngora y Argote",
+      "values": [
+        "albánského",
+        "španělského",
+        "srbského",
+        "anglického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

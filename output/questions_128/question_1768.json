@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle českého sportovce",
+  "questions": [
+    {
+      "key": "Lukáš Langmajer",
+      "values": [
+        "judista",
+        "cyklista",
+        "rybář",
+        "automobilový závodník"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lukáš Rosol",
+      "values": [
+        "jezdec",
+        "tenista",
+        "stolní tenista",
+        "kanoista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lukáš Konečný",
+      "values": [
+        "taekwondisté",
+        "jezdec",
+        "kanoista",
+        "boxer"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ondřej Kratěna",
+      "values": [
+        "veslař",
+        "lední hokejista",
+        "gymnasta",
+        "sportovní střelec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Robert Hamrla",
+      "values": [
+        "rybář",
+        "bojový umělec",
+        "lední hokejista",
+        "stolní tenista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zdeněk Pohl",
+      "values": [
+        "automobilový závodník",
+        "stolní tenista",
+        "tenista",
+        "rychlostní kanoista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Břetislav Enge",
+      "values": [
+        "lední hokejista",
+        "automobilový závodník",
+        "kanoista",
+        "šachista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaroslav Kameš",
+      "values": [
+        "ragbista",
+        "stolní tenista",
+        "lední hokejista",
+        "fotbalista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Nežerka",
+      "values": [
+        "horolezec",
+        "jezdec",
+        "pozemní hokejista",
+        "lyžař"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vlastimil Jansa",
+      "values": [
+        "šipkaři",
+        "šachista",
+        "rybář",
+        "skeletonisté"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

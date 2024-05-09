@@ -1,0 +1,105 @@
+{
+  "text": "Určete sport podle české sportovkyně",
+  "questions": [
+    {
+      "key": "Karolína Muchová",
+      "values": [
+        "fotbalistka",
+        "tenistka",
+        "golfistky",
+        "sportovní střelkyně"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lucie Šafářová",
+      "values": [
+        "cyklistka",
+        "tenistka",
+        "basketbalistka",
+        "plavkyně"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hana Mašková",
+      "values": [
+        "stolní tenistka",
+        "krasobruslařka",
+        "tenistka",
+        "basketbalistka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tereza Petržilková",
+      "values": [
+        "horolezci",
+        "florbalistky",
+        "házenkářka",
+        "atletka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zuzana Hejnová",
+      "values": [
+        "lukostřelkyně",
+        "tenistka",
+        "golfistky",
+        "atletka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Abhejali Bernardová",
+      "values": [
+        "stolní tenistka",
+        "atletka",
+        "cyklistka",
+        "plavkyně"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kristýna Horská",
+      "values": [
+        "cyklistka",
+        "lední hokejistky",
+        "plavkyně",
+        "sportovní střelkyně"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Markéta Sluková",
+      "values": [
+        "fotbalistka",
+        "krasobruslařka",
+        "golfistky",
+        "volejbalistka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eliška Krupnová",
+      "values": [
+        "horolezci",
+        "volejbalistka",
+        "fotbalistka",
+        "florbalistky"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Renata Chlumská",
+      "values": [
+        "horolezci",
+        "lukostřelkyně",
+        "fotbalistka",
+        "cyklistka"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

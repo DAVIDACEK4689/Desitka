@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Bršlice kozí noha",
+      "values": [
+        "Mexiko",
+        "Madagaskar",
+        "Austrálie",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Brusnice borůvka",
+      "values": [
+        "Mexiko",
+        "Mongolsko",
+        "Nový Zéland",
+        "Madagaskar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hadí mord španělský",
+      "values": [
+        "Austrálie",
+        "Brazílie",
+        "Česko",
+        "Madagaskar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bodlák obecný",
+      "values": [
+        "Madagaskar",
+        "Mexiko",
+        "Česko",
+        "Austrálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kananga vonná",
+      "values": [
+        "Japonsko",
+        "Austrálie",
+        "Mexiko",
+        "Brazílie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hvozdík kartouzek",
+      "values": [
+        "Česko",
+        "Japonsko",
+        "Madagaskar",
+        "Mexiko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pryšec obecný",
+      "values": [
+        "Mongolsko",
+        "Nový Zéland",
+        "Mexiko",
+        "Austrálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Čertkus luční",
+      "values": [
+        "Japonsko",
+        "Česko",
+        "Madagaskar",
+        "Austrálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Brachychiton",
+      "values": [
+        "Mongolsko",
+        "Austrálie",
+        "Mexiko",
+        "Japonsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Brslen bradavičnatý",
+      "values": [
+        "Madagaskar",
+        "Brazílie",
+        "Česko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

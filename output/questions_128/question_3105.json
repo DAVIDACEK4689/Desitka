@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] právníka?",
+  "questions": [
+    {
+      "key": "Franz Kafka",
+      "values": [
+        "izraelského",
+        "českého",
+        "francouzského",
+        "estonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andrej Danko",
+      "values": [
+        "německého",
+        "slovenského",
+        "amerického",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Hájek",
+      "values": [
+        "rumunského",
+        "českého",
+        "brazilského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aleksander Čeferin",
+      "values": [
+        "ukrajinského",
+        "slovinského",
+        "srbského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ronan Farrow",
+      "values": [
+        "britského",
+        "portugalského",
+        "italského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dina Boluarteová",
+      "values": [
+        "peruánského",
+        "řeckého",
+        "ukrajinského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Kněžínek",
+      "values": [
+        "estonského",
+        "italského",
+        "českého",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivo Bretaňský",
+      "values": [
+        "francouzského",
+        "brazilského",
+        "britského",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vilém Pospíšil",
+      "values": [
+        "izraelského",
+        "českého",
+        "ukrajinského",
+        "argentinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Milan Kučan",
+      "values": [
+        "finského",
+        "litevského",
+        "slovinského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

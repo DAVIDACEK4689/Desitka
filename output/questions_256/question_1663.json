@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] videohru?",
+  "questions": [
+    {
+      "key": "Indiana Jones",
+      "values": [
+        "čínskou",
+        "americkou",
+        "jihokorejskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Brawl Stars",
+      "values": [
+        "nizozemskou",
+        "finskou",
+        "polskou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Metin2",
+      "values": [
+        "jihokorejskou",
+        "běloruskou",
+        "rakouskou",
+        "dánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Diablo",
+      "values": [
+        "americkou",
+        "kanadskou",
+        "běloruskou",
+        "švédskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Star Stable Online",
+      "values": [
+        "polskou",
+        "německou",
+        "jihokorejskou",
+        "švédskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Future Factory",
+      "values": [
+        "nizozemskou",
+        "slovenskou",
+        "německou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fallout",
+      "values": [
+        "slovenskou",
+        "americkou",
+        "japonskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mortal Kombat 1",
+      "values": [
+        "americkou",
+        "běloruskou",
+        "slovenskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Subway Surfers",
+      "values": [
+        "švédskou",
+        "běloruskou",
+        "dánskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "High School DxD",
+      "values": [
+        "rakouskou",
+        "čínskou",
+        "ukrajinskou",
+        "japonskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

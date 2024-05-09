@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle administrativního dělení",
+  "questions": [
+    {
+      "key": "Zanzibar",
+      "values": [
+        "Gruzie",
+        "Tanzanie",
+        "Polsko",
+        "Řecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Podněstří",
+      "values": [
+        "Ázerbájdžán",
+        "Moldavsko",
+        "Norsko",
+        "Dánsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Špicberky",
+      "values": [
+        "Mexiko",
+        "Rumunsko",
+        "Bělorusko",
+        "Norsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Abcházie",
+      "values": [
+        "Izrael",
+        "Gruzie",
+        "Mongolsko",
+        "Rumunsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bukurešť",
+      "values": [
+        "Mexiko",
+        "Polsko",
+        "Rumunsko",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jižní Osetie",
+      "values": [
+        "Izrael",
+        "Gruzie",
+        "Rumunsko",
+        "Thajsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sevastopol",
+      "values": [
+        "Řecko",
+        "Ukrajina",
+        "Bělorusko",
+        "Mongolsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ulánbátar",
+      "values": [
+        "Tanzanie",
+        "Švédsko",
+        "Mongolsko",
+        "Polsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Athos",
+      "values": [
+        "Mongolsko",
+        "Moldavsko",
+        "Řecko",
+        "Dánsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Autonomní republika Krym",
+      "values": [
+        "Izrael",
+        "Ukrajina",
+        "Moldavsko",
+        "Thajsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

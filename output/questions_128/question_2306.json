@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle geografie",
+  "questions": [
+    {
+      "key": "Stabilní katastr",
+      "values": [
+        "Pero",
+        "Moldavsko",
+        "Ázerbájdžán",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Judsko",
+      "values": [
+        "Izrael",
+        "Chorvatsko",
+        "Svatý Kryštof a Nevis",
+        "Súdán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rýnská Falc",
+      "values": [
+        "Saúdská Arábie",
+        "Andorra",
+        "Rovníková Guinea",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Trolltunga",
+      "values": [
+        "Gabon",
+        "Brazílie",
+        "Spojené království",
+        "Norsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Libreville",
+      "values": [
+        "Gabon",
+        "Ázerbájdžán",
+        "Rusko",
+        "Losotho"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gaiziņkalns",
+      "values": [
+        "Lotyšsko",
+        "Španělsko",
+        "Pero",
+        "Bulharsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chaparral",
+      "values": [
+        "Švýcarsko",
+        "Mexiko",
+        "Rovníková Guinea",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dimmuborgir",
+      "values": [
+        "Brazílie",
+        "Džibutsko",
+        "Island",
+        "Španělsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Panonská provincie",
+      "values": [
+        "Jordánsko",
+        "Turecko",
+        "Irsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tóhoku",
+      "values": [
+        "Súdán",
+        "Japonsko",
+        "Jordánsko",
+        "Mauritánie"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

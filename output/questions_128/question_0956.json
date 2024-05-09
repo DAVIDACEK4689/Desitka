@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] muslima?",
+  "questions": [
+    {
+      "key": "Recep Tayyip Erdoğan",
+      "values": [
+        "ugandského",
+        "afghánského",
+        "kosovského",
+        "tureckého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Malcolm X",
+      "values": [
+        "německého",
+        "nigerijského",
+        "amerického",
+        "egyptského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tamím bin Hamad Ál Thání",
+      "values": [
+        "myanmarského",
+        "katarského",
+        "afghánského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mahmúd Ahmadínežád",
+      "values": [
+        "íránského",
+        "ruského",
+        "ugandského",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Halit Ergenç",
+      "values": [
+        "kosovského",
+        "ukrajinského",
+        "tureckého",
+        "ugandského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alois Bohdan Brixius",
+      "values": [
+        "německého",
+        "albánského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ivan Hrbek",
+      "values": [
+        "francouzského",
+        "kosovského",
+        "českého",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Khaled Hosseini",
+      "values": [
+        "amerického",
+        "kosovského",
+        "pákistánského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ramuš Haradinaj",
+      "values": [
+        "kazašského",
+        "amerického",
+        "kosovského",
+        "albánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cemal Gürsel",
+      "values": [
+        "tureckého",
+        "nigerijského",
+        "íránského",
+        "českého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "Heinrich Himmler",
+      "values": [
+        "českého",
+        "francouzského",
+        "německého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Silvio Berlusconi",
+      "values": [
+        "italského",
+        "amerického",
+        "francouzského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert Kennedy",
+      "values": [
+        "amerického",
+        "italského",
+        "francouzského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lucky Luciano",
+      "values": [
+        "italského",
+        "amerického",
+        "francouzského",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Václav Hořejší",
+      "values": [
+        "italského",
+        "švýcarského",
+        "českého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josephine Bakerová",
+      "values": [
+        "kanadského",
+        "francouzského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Polyxena Czerninová",
+      "values": [
+        "britského",
+        "amerického",
+        "českého",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Leonardo Fibonacci",
+      "values": [
+        "maďarského",
+        "kanadského",
+        "italského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roberto Mancini",
+      "values": [
+        "švýcarského",
+        "italského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Radomír Malý",
+      "values": [
+        "německého",
+        "českého",
+        "maďarského",
+        "italského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

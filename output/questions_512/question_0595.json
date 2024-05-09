@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte město podle české kultury",
+  "questions": [
+    {
+      "key": "Kofola",
+      "values": [
+        "Řevnice",
+        "Pardubice",
+        "Krnov",
+        "Bečov nad Teplou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čechomor",
+      "values": [
+        "Pardubice",
+        "Svitavy",
+        "Brno",
+        "Lipnice nad Sázavou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mňága a Žďorp",
+      "values": [
+        "Bečov nad Teplou",
+        "Pardubice",
+        "Valašské Meziříčí",
+        "Kostelec nad Černými lesy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rumcajs",
+      "values": [
+        "Opava",
+        "Valašské Meziříčí",
+        "Brno",
+        "Jičín"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rukopis zelenohorský",
+      "values": [
+        "Lipnice nad Sázavou",
+        "Český Brod",
+        "Svitavy",
+        "Nepomuk"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lennonova zeď",
+      "values": [
+        "Jičín",
+        "Přibyslav",
+        "Praha",
+        "Karlovy Vary"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hotel Thermal",
+      "values": [
+        "Opava",
+        "Hradec Králové",
+        "Karlovy Vary",
+        "Jičín"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "V Kohoutovicích hořel pařez",
+      "values": [
+        "Chlumec nad Cidlinou",
+        "Vizovice",
+        "Loštice",
+        "Brno"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Moser",
+      "values": [
+        "Hradec Králové",
+        "Praha",
+        "Lipnice nad Sázavou",
+        "Karlovy Vary"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Muzeum východních Čech",
+      "values": [
+        "Lipnice nad Sázavou",
+        "Hradec Králové",
+        "Semily",
+        "Chlumec nad Cidlinou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

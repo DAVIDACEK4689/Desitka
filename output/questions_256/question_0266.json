@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] ministra?",
+  "questions": [
+    {
+      "key": "Emmanuel Macron",
+      "values": [
+        "finského",
+        "lucemburského",
+        "francouzského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alois Eliáš",
+      "values": [
+        "lucemburského",
+        "albánského",
+        "československého",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomáš Sokol",
+      "values": [
+        "ruského",
+        "finského",
+        "československého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bernard Tapie",
+      "values": [
+        "rakouského",
+        "lucemburského",
+        "finského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaroslav Krejčí",
+      "values": [
+        "francouzského",
+        "albánského",
+        "československého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lazar Kaganovič",
+      "values": [
+        "finského",
+        "rakouského",
+        "ruského",
+        "sovětského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bronisław Komorowski",
+      "values": [
+        "italského",
+        "polského",
+        "albánského",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Alois Schumpeter",
+      "values": [
+        "lucemburského",
+        "italského",
+        "rakouského",
+        "albánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Radosław Sikorski",
+      "values": [
+        "československého",
+        "francouzského",
+        "albánského",
+        "polského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Matteo Salvini",
+      "values": [
+        "finského",
+        "francouzského",
+        "polského",
+        "italského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

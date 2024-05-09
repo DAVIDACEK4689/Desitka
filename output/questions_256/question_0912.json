@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Melta",
+      "values": [
+        "americkou",
+        "ukrajinskou",
+        "českou",
+        "islandskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fondue",
+      "values": [
+        "indickou",
+        "německou",
+        "švýcarskou",
+        "dánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Phở",
+      "values": [
+        "slovenskou",
+        "vietnamskou",
+        "ukrajinskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cupcake",
+      "values": [
+        "tureckou",
+        "britskou",
+        "arménskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Prdelačka",
+      "values": [
+        "gruzínskou",
+        "francouzskou",
+        "arménskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sašimi",
+      "values": [
+        "čínskou",
+        "gruzínskou",
+        "japonskou",
+        "švédskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bulharská kuchyně",
+      "values": [
+        "polskou",
+        "balkánskou",
+        "španělskou",
+        "australskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Natto",
+      "values": [
+        "britskou",
+        "japonskou",
+        "skotskou",
+        "rakouskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ensaïmada",
+      "values": [
+        "arménskou",
+        "středomořskou",
+        "gruzínskou",
+        "španělskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Umeocet",
+      "values": [
+        "francouzskou",
+        "brazilskou",
+        "japonskou",
+        "gruzínskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

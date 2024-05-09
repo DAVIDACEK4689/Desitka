@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle prezidenta",
+  "questions": [
+    {
+      "key": "Zuzana Čaputová",
+      "values": [
+        "Nikaragua",
+        "Portugalsko",
+        "Mexiko",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ramzan Kadyrov",
+      "values": [
+        "Brazílie",
+        "Čečenci",
+        "Finsko",
+        "Francie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dmitrij Medveděv",
+      "values": [
+        "Česká republika",
+        "Bělorusko",
+        "Polsko",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lech Kaczyński",
+      "values": [
+        "Itálie",
+        "Uganda",
+        "Polsko",
+        "Vietnam"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Achmat Kadyrov",
+      "values": [
+        "Maďarsko",
+        "Čečenci",
+        "Egypt",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Maia Sanduová",
+      "values": [
+        "Moldavsko",
+        "Česká republika",
+        "Československo",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Leonid Kučma",
+      "values": [
+        "Čečenci",
+        "Řecko",
+        "Ukrajina",
+        "Finsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ilham Alijev",
+      "values": [
+        "Portugalsko",
+        "Maďarsko",
+        "Libérie",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Georges Pompidou",
+      "values": [
+        "Kazachstán",
+        "Francie",
+        "Rakousko",
+        "Ukrajina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alberto Fernández",
+      "values": [
+        "Libérie",
+        "Moldavsko",
+        "Argentina",
+        "Turkmenistán"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

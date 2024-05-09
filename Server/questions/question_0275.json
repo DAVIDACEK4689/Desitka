@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filozofa?",
+  "questions": [
+    {
+      "key": "Karl Marx",
+      "values": [
+        "nizozemského",
+        "amerického",
+        "německého",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Immanuel Kant",
+      "values": [
+        "indického",
+        "německého",
+        "francouzského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tomáš Halík",
+      "values": [
+        "italského",
+        "švýcarského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pythagoras",
+      "values": [
+        "nizozemského",
+        "řeckého",
+        "německého",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ľudovít Štúr",
+      "values": [
+        "slovenského",
+        "dánského",
+        "ruského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Georg Wilhelm Friedrich Hegel",
+      "values": [
+        "francouzského",
+        "perského",
+        "německého",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hérakleitos",
+      "values": [
+        "italského",
+        "řeckého",
+        "dánského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Erasmus Rotterdamský",
+      "values": [
+        "dánského",
+        "nizozemského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Baruch Spinoza",
+      "values": [
+        "řeckého",
+        "nizozemského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eduard Tomáš",
+      "values": [
+        "italského",
+        "českého",
+        "rakouského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

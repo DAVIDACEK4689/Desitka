@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] ateistu?",
+  "questions": [
+    {
+      "key": "Vladimir Iljič Lenin",
+      "values": [
+        "chorvatského",
+        "ruského",
+        "irského",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Charles Bukowski",
+      "values": [
+        "finského",
+        "amerického",
+        "italského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Emma Thompsonová",
+      "values": [
+        "švédského",
+        "chilského",
+        "italského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Robert Louis Stevenson",
+      "values": [
+        "brazilského",
+        "bosenského",
+        "skotského",
+        "gruzínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Clement Attlee",
+      "values": [
+        "britského",
+        "kanadského",
+        "skotského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eddie Vedder",
+      "values": [
+        "mexického",
+        "českého",
+        "kanadského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ion Iliescu",
+      "values": [
+        "gruzínského",
+        "rumunského",
+        "židovského",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alfred Charles Kinsey",
+      "values": [
+        "amerického",
+        "chilského",
+        "polského",
+        "albánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ayaan Hirsi Aliová",
+      "values": [
+        "maďarského",
+        "arménského",
+        "srbského",
+        "nizozemského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jorge Amado",
+      "values": [
+        "bosenského",
+        "finského",
+        "brazilského",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] umělce?",
+  "questions": [
+    {
+      "key": "Svaz moderní kultury Devětsil",
+      "values": [
+        "filipínského",
+        "polského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Krištof Kintera",
+      "values": [
+        "polského",
+        "ruského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Černický",
+      "values": [
+        "amerického",
+        "ruského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "José Rizal",
+      "values": [
+        "slovenského",
+        "filipínského",
+        "polského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jakub Nepraš",
+      "values": [
+        "belgického",
+        "českého",
+        "ruského",
+        "filipínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Matthias Schoenaerts",
+      "values": [
+        "českého",
+        "polského",
+        "německého",
+        "belgického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Bolf",
+      "values": [
+        "českého",
+        "slovenského",
+        "německého",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dalibor Chatrný",
+      "values": [
+        "filipínského",
+        "belgického",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Leopold a Rudolf Blaschkovi",
+      "values": [
+        "německého",
+        "polského",
+        "belgického",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David Možný",
+      "values": [
+        "českého",
+        "filipínského",
+        "belgického",
+        "polského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

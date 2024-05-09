@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle geografie",
+  "questions": [
+    {
+      "key": "Gobi",
+      "values": [
+        "Afghánistán",
+        "Finsko",
+        "Mongolsko",
+        "Východní Timor"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oko Sahary",
+      "values": [
+        "Norsko",
+        "Itálie",
+        "Brazílie",
+        "Mauritánie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hindúkuš",
+      "values": [
+        "Mauritánie",
+        "Palestina",
+        "Afghánistán",
+        "Japonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Meseta",
+      "values": [
+        "Guam",
+        "Samoa",
+        "Spojené království",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Euroregion",
+      "values": [
+        "Pero",
+        "Litva",
+        "Česko",
+        "Singapur"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gorice a Gradiška",
+      "values": [
+        "Svatý Vincenc a Grenadiny",
+        "Srbsko",
+        "Slovinsko",
+        "Tanzanie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Adamův most",
+      "values": [
+        "Eritrea",
+        "Řecko",
+        "Srí Lanka",
+        "Mauritánie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Velké Helsinky",
+      "values": [
+        "Finsko",
+        "Turkmenistán",
+        "Bulharsko",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nafúd",
+      "values": [
+        "Saúdská Arábie",
+        "Singapur",
+        "Malajsie",
+        "Andorra"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pobřeží Koster",
+      "values": [
+        "Namibie",
+        "Indie",
+        "Pero",
+        "Saúdská Arábie"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

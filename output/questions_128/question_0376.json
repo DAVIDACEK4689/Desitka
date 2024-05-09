@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Nejkrásnější hádanka",
+      "values": [
+        "Zdeněk Troška",
+        "Miloslav Šmídmajer",
+        "Evald Schorm",
+        "Saša Gedeon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Promlčeno",
+      "values": [
+        "Hynek Bočan",
+        "Miloš Forman",
+        "Ivan Passer",
+        "Robert Sedláček"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Musíme si pomáhat",
+      "values": [
+        "Jiří Krejčík",
+        "Martin Horský",
+        "Jan Hřebejk",
+        "Václav Wasserman"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aristokratka ve varu",
+      "values": [
+        "Václav Krška",
+        "Martin Frič",
+        "Jiří Vejdělek",
+        "Karel Steklý"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Muži v offsidu",
+      "values": [
+        "Tomáš Bařina",
+        "Zdeněk Zelenka",
+        "Svatopluk Innemann",
+        "Jan Hřebejk"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kočár do Vídně",
+      "values": [
+        "Miroslav Sobota",
+        "Zbyněk Brynych",
+        "Martin Frič",
+        "Karel Kachyňa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Láska rohatá",
+      "values": [
+        "Jan Svěrák",
+        "Karel Zeman",
+        "Hynek Bočan",
+        "Karel Kachyňa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dým bramborové natě",
+      "values": [
+        "Jan Švankmajer",
+        "Jiří Krejčík",
+        "František Vláčil",
+        "Karel Lamač"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Šašek a královna",
+      "values": [
+        "Bohdan Sláma",
+        "Zbyněk Brynych",
+        "Robert Sedláček",
+        "Věra Chytilová"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pudr a benzín",
+      "values": [
+        "Tomáš Vorel",
+        "Jindřich Honzl",
+        "Václav Krška",
+        "Ivan Passer"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

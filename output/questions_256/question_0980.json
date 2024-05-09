@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "Pavel Fischer",
+      "values": [
+        "amerického",
+        "českého",
+        "britského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eva Holubová",
+      "values": [
+        "českého",
+        "německého",
+        "italského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Václav Benda",
+      "values": [
+        "českého",
+        "kanadského",
+        "německého",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Helena Bavorská",
+      "values": [
+        "britského",
+        "českého",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jean Cocteau",
+      "values": [
+        "českého",
+        "francouzského",
+        "portugalského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sergio Mattarella",
+      "values": [
+        "britského",
+        "amerického",
+        "portugalského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Luchino Visconti",
+      "values": [
+        "maďarského",
+        "amerického",
+        "portugalského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Theobald Czernin",
+      "values": [
+        "britského",
+        "portugalského",
+        "českého",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "János Áder",
+      "values": [
+        "britského",
+        "amerického",
+        "německého",
+        "maďarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ricardo Quaresma",
+      "values": [
+        "kanadského",
+        "českého",
+        "portugalského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

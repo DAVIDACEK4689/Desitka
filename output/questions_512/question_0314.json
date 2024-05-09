@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Interstellar",
+      "values": [
+        "Joe Johnston",
+        "Christopher Nolan",
+        "Wes Craven",
+        "Brad Bird"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Auta",
+      "values": [
+        "Frank Darabont",
+        "John Lasseter",
+        "Terry Gilliam",
+        "Clint Eastwood"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dobyvatelé ztracené archy",
+      "values": [
+        "Steven Spielberg",
+        "Mel Gibson",
+        "John McTiernan",
+        "Brad Bird"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Statečné srdce",
+      "values": [
+        "Clint Eastwood",
+        "Garry Marshall",
+        "Gus Van Sant",
+        "Mel Gibson"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "XXx",
+      "values": [
+        "Irwin Allen",
+        "Rob Cohen",
+        "Jon Turteltaub",
+        "John Sturges"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Prázdniny v Římě",
+      "values": [
+        "Robert Zemeckis",
+        "Doug Liman",
+        "William Wyler",
+        "Nick Cassavetes"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Polární expres",
+      "values": [
+        "Robert Zemeckis",
+        "Alfred Hitchcock",
+        "Doug Liman",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Poslední samuraj",
+      "values": [
+        "Nick Cassavetes",
+        "Miloš Forman",
+        "Edward Zwick",
+        "John Sturges"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kmotr II",
+      "values": [
+        "Christopher Nolan",
+        "Terry Gilliam",
+        "Francis Ford Coppola",
+        "Ron Howard"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rychlí a zběsilí",
+      "values": [
+        "Justin Lin",
+        "Stanley Kubrick",
+        "bratři Coenové",
+        "Miloš Forman"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

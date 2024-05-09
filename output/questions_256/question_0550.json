@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] hudební skupinu?",
+  "questions": [
+    {
+      "key": "Scorpions",
+      "values": [
+        "slovenskou",
+        "německou",
+        "chorvatskou",
+        "kanadskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ready Kirken",
+      "values": [
+        "slovenskou",
+        "českou",
+        "ukrajinskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Twenty One Pilots",
+      "values": [
+        "českou",
+        "americkou",
+        "irskou",
+        "německou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Twice",
+      "values": [
+        "norskou",
+        "jihokorejskou",
+        "islandskou",
+        "bosenskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eluveitie",
+      "values": [
+        "dánskou",
+        "kubánskou",
+        "švýcarskou",
+        "bosenskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "EXO",
+      "values": [
+        "kubánskou",
+        "kanadskou",
+        "jihoafrickou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "The Sisters of Mercy",
+      "values": [
+        "francouzskou",
+        "bosenskou",
+        "dánskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kaoma",
+      "values": [
+        "maďarskou",
+        "ukrajinskou",
+        "švýcarskou",
+        "francouzskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kandráčovci",
+      "values": [
+        "jihoafrickou",
+        "kubánskou",
+        "slovenskou",
+        "estonskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Keane",
+      "values": [
+        "jihoafrickou",
+        "italskou",
+        "kubánskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

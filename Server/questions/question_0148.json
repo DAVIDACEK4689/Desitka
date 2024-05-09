@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Athény",
+      "values": [
+        "Kypr",
+        "Řecko",
+        "Nigérie",
+        "Malajsie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sofie",
+      "values": [
+        "Kazachstán",
+        "Bulharsko",
+        "Island",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Innsbruck",
+      "values": [
+        "Švédsko",
+        "Portugalsko",
+        "Srbsko",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Basilej",
+      "values": [
+        "Ukrajina",
+        "Švýcarsko",
+        "Černá Hora",
+        "Nizozemsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Skopje",
+      "values": [
+        "Írán",
+        "Bolívie",
+        "Severní Makedonie",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bagdád",
+      "values": [
+        "Irák",
+        "Japonsko",
+        "Kyrgyzstán",
+        "Indonésie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rijeka",
+      "values": [
+        "Kazachstán",
+        "Egypt",
+        "Chorvatsko",
+        "Saúdská Arábie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nikósie",
+      "values": [
+        "Severní Makedonie",
+        "Saúdská Arábie",
+        "Mongolsko",
+        "Kypr"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rabat",
+      "values": [
+        "Maroko",
+        "Německo",
+        "Norsko",
+        "Litva"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Biškek",
+      "values": [
+        "Kyrgyzstán",
+        "Portugalsko",
+        "Srbsko",
+        "Uzbekistán"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

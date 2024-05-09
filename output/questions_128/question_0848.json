@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte jazyk podle opery",
+  "questions": [
+    {
+      "key": "Don Giovanni",
+      "values": [
+        "francouzština",
+        "čeština",
+        "ruština",
+        "italština"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Prsten Nibelungův",
+      "values": [
+        "angličtina",
+        "maďarština",
+        "francouzština",
+        "němčina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lohengrin",
+      "values": [
+        "francouzština",
+        "němčina",
+        "angličtina",
+        "italština"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Orfeus v podsvětí",
+      "values": [
+        "francouzština",
+        "ruština",
+        "angličtina",
+        "italština"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Únos ze serailu",
+      "values": [
+        "němčina",
+        "čeština",
+        "ruština",
+        "maďarština"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Komedianti",
+      "values": [
+        "italština",
+        "maďarština",
+        "němčina",
+        "ruština"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Čardášová princezna",
+      "values": [
+        "italština",
+        "maďarština",
+        "francouzština",
+        "němčina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Řecké pašije",
+      "values": [
+        "angličtina",
+        "italština",
+        "francouzština",
+        "čeština"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "V studni",
+      "values": [
+        "čeština",
+        "němčina",
+        "angličtina",
+        "italština"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Na Starém bělidle",
+      "values": [
+        "maďarština",
+        "čeština",
+        "angličtina",
+        "němčina"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

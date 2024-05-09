@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle českého sportovce",
+  "questions": [
+    {
+      "key": "Jaromír Soukup",
+      "values": [
+        "akrobatický letec",
+        "zápasník",
+        "boxer",
+        "basketbalista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Klíma",
+      "values": [
+        "judista",
+        "lední hokejista",
+        "šachista",
+        "golfista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Milan Baroš",
+      "values": [
+        "fotbalista",
+        "horolezec",
+        "boxer",
+        "šachista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Berdych",
+      "values": [
+        "šachista",
+        "rybář",
+        "tenista",
+        "judista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dalibor Gondík",
+      "values": [
+        "akrobatický letec",
+        "kanoista",
+        "jezdec",
+        "automobilový závodník"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Nedvěd",
+      "values": [
+        "šachista",
+        "tenista",
+        "horolezec",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Klub ligových kanonýrů",
+      "values": [
+        "fotbalista",
+        "golfista",
+        "horolezec",
+        "zápasník"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Patrik Berger",
+      "values": [
+        "fotbalista",
+        "golfista",
+        "ragbista",
+        "jezdec"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gustav Frištenský",
+      "values": [
+        "basketbalista",
+        "zápasník",
+        "bojový umělec",
+        "fotbalista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Mrázek",
+      "values": [
+        "jezdec",
+        "lední hokejista",
+        "kanoista",
+        "automobilový závodník"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

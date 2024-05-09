@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] šlechtice?",
+  "questions": [
+    {
+      "key": "Claus Schenk von Stauffenberg",
+      "values": [
+        "dánského",
+        "německého",
+        "britského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel starší ze Žerotína",
+      "values": [
+        "dánského",
+        "moravského",
+        "monackého",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pribina",
+      "values": [
+        "slovenského",
+        "nizozemského",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Theobald Czernin",
+      "values": [
+        "českého",
+        "moravského",
+        "monackého",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Walter von Brauchitsch",
+      "values": [
+        "polského",
+        "italského",
+        "slezského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Albert von Thurn und Taxis",
+      "values": [
+        "švédského",
+        "uherského",
+        "slovenského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ludvík z Battenbergu",
+      "values": [
+        "britského",
+        "švédského",
+        "dánského",
+        "slezského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Milota z Dědic",
+      "values": [
+        "českého",
+        "ruského",
+        "dánského",
+        "moravského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jöns Jacob Berzelius",
+      "values": [
+        "italského",
+        "švédského",
+        "německého",
+        "moravského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Diviš z Talmberka",
+      "values": [
+        "dánského",
+        "českého",
+        "chorvatského",
+        "uherského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

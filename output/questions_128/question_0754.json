@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] vězně?",
+  "questions": [
+    {
+      "key": "Anders Behring Breivik",
+      "values": [
+        "izraelského",
+        "norského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jeffrey Epstein",
+      "values": [
+        "italského",
+        "sovětského",
+        "norského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Křížek",
+      "values": [
+        "běloruského",
+        "amerického",
+        "českého",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eli Kohen",
+      "values": [
+        "izraelského",
+        "italského",
+        "českého",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Otto Warmbier",
+      "values": [
+        "amerického",
+        "izraelského",
+        "íránského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dandeny Muñoz Mosquera",
+      "values": [
+        "českého",
+        "amerického",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Erich Priebke",
+      "values": [
+        "italského",
+        "francouzského",
+        "běloruského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chálid Šajch Muhammad",
+      "values": [
+        "německého",
+        "amerického",
+        "sovětského",
+        "velšského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lutz Schwerin von Krosigk",
+      "values": [
+        "německého",
+        "velšského",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Wilhelm Friedrich Boger",
+      "values": [
+        "rakouského",
+        "amerického",
+        "norského",
+        "německého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

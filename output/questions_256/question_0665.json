@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle vesnice",
+  "questions": [
+    {
+      "key": "Svatý Mořic",
+      "values": [
+        "Česko",
+        "Bělorusko",
+        "Švýcarsko",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Thermopyly",
+      "values": [
+        "Bělorusko",
+        "Řecko",
+        "Švýcarsko",
+        "Francie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sakkára",
+      "values": [
+        "Egypt",
+        "Švýcarsko",
+        "Řecko",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Grindelwald",
+      "values": [
+        "Francie",
+        "Švýcarsko",
+        "Egypt",
+        "Bělorusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gerník",
+      "values": [
+        "Švýcarsko",
+        "Rumunsko",
+        "Egypt",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Délos",
+      "values": [
+        "Rusko",
+        "Řecko",
+        "Egypt",
+        "Rumunsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chatyň",
+      "values": [
+        "Egypt",
+        "Bělorusko",
+        "Řecko",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vesnice roku",
+      "values": [
+        "Česko",
+        "Bělorusko",
+        "Řecko",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Étretat",
+      "values": [
+        "Česko",
+        "Rusko",
+        "Rumunsko",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jasná Poljana",
+      "values": [
+        "Francie",
+        "Rusko",
+        "Rumunsko",
+        "Egypt"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

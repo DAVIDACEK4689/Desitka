@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Antoine Griezmann",
+      "values": [
+        "francouzského",
+        "slovenského",
+        "portugalského",
+        "senegalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hugo Lloris",
+      "values": [
+        "slovinského",
+        "francouzského",
+        "arménského",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cesc Fàbregas",
+      "values": [
+        "španělského",
+        "švédského",
+        "anglického",
+        "uruguayského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bukayo Saka",
+      "values": [
+        "tožského",
+        "anglického",
+        "slovenského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dani Carvajal",
+      "values": [
+        "španělského",
+        "dánského",
+        "kostarického",
+        "islandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Presnel Kimpembe",
+      "values": [
+        "ruského",
+        "srbského",
+        "francouzského",
+        "gambijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Steve McManaman",
+      "values": [
+        "islandského",
+        "anglického",
+        "českého",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Terry Venables",
+      "values": [
+        "československého",
+        "anglického",
+        "chilského",
+        "uruguayského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Šimon Falta",
+      "values": [
+        "brazilského",
+        "finského",
+        "norského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Igor Tudor",
+      "values": [
+        "ukrajinského",
+        "australského",
+        "sovětského",
+        "chorvatského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

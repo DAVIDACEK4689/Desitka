@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Aiko",
+      "values": [
+        "českou",
+        "ruskou",
+        "australskou",
+        "maďarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Debbie Gibsonová",
+      "values": [
+        "mexickou",
+        "italskou",
+        "slovenskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tanja Kauerová",
+      "values": [
+        "nizozemskou",
+        "českou",
+        "mexickou",
+        "brazilskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bebe Rexha",
+      "values": [
+        "kolumbijskou",
+        "indickou",
+        "americkou",
+        "maďarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alicia Keys",
+      "values": [
+        "mexickou",
+        "moldavskou",
+        "ruskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Inka Zemánková",
+      "values": [
+        "ruskou",
+        "italskou",
+        "českou",
+        "portugalskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Leona Lewis",
+      "values": [
+        "moldavskou",
+        "uruguayskou",
+        "britskou",
+        "australskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Christina Perri",
+      "values": [
+        "italskou",
+        "mexickou",
+        "americkou",
+        "portugalskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pam Rabbit",
+      "values": [
+        "americkou",
+        "rumunskou",
+        "izraelskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Renata Scottová",
+      "values": [
+        "australskou",
+        "maďarskou",
+        "italskou",
+        "irskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

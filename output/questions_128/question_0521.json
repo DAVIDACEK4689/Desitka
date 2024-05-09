@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Operace Overlord",
+      "values": [
+        "1944",
+        "1468",
+        "2001",
+        "1346"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Operace Bagration",
+      "values": [
+        "1979",
+        "1944",
+        "1177",
+        "1827"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Jutska",
+      "values": [
+        "1916",
+        "636",
+        "1853",
+        "1776"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Operace Torch",
+      "values": [
+        "1396",
+        "1942",
+        "1876",
+        "1827"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Rocroi",
+      "values": [
+        "1278",
+        "1758",
+        "1813",
+        "1643"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vídeňská operace",
+      "values": [
+        "1380",
+        "1836",
+        "1945",
+        "1605"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Habrů a dobytí Německého Brodu",
+      "values": [
+        "1422",
+        "1645",
+        "1915",
+        "1704"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Coronelu",
+      "values": [
+        "1914",
+        "1254",
+        "1565",
+        "1859"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Edingtonu",
+      "values": [
+        "1450",
+        "878",
+        "1991",
+        "1859"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Sinopu",
+      "values": [
+        "1853",
+        "533",
+        "1430",
+        "1664"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

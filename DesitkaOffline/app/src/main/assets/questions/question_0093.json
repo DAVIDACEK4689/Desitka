@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] ledního hokejistu?",
+  "questions": [
+    {
+      "key": "David Pastrňák",
+      "values": [
+        "československého",
+        "ruského",
+        "kanadského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Wayne Gretzky",
+      "values": [
+        "československého",
+        "švýcarského",
+        "českého",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Krejčí",
+      "values": [
+        "českého",
+        "švýcarského",
+        "kanadského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexandr Ovečkin",
+      "values": [
+        "ruského",
+        "slovenského",
+        "kanadského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michal Neuvirth",
+      "values": [
+        "švýcarského",
+        "ruského",
+        "českého",
+        "československého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robert Reichel",
+      "values": [
+        "československého",
+        "slovenského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Connor McDavid",
+      "values": [
+        "českého",
+        "československého",
+        "ruského",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sidney Crosby",
+      "values": [
+        "kanadského",
+        "slovenského",
+        "švýcarského",
+        "československého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ondřej Palát",
+      "values": [
+        "kanadského",
+        "ruského",
+        "českého",
+        "československého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luděk Čajka",
+      "values": [
+        "švýcarského",
+        "českého",
+        "československého",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

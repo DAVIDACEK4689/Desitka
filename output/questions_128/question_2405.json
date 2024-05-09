@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Hamburk",
+      "values": [
+        "Severní Makedonie",
+        "Srí Lanka",
+        "Německo",
+        "Burkina Faso"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zaragoza",
+      "values": [
+        "Mosambik",
+        "Španělsko",
+        "Súdán",
+        "Pákistán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Městská památková zóna",
+      "values": [
+        "Izrael",
+        "Sýrie",
+        "Konžská republika",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Brazzaville",
+      "values": [
+        "Kolumbie",
+        "Pero",
+        "Norsko",
+        "Konžská republika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bačka Topola",
+      "values": [
+        "Jemen",
+        "Srbsko",
+        "Portugalsko",
+        "Venezuela"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Trbovlje",
+      "values": [
+        "Slovinsko",
+        "Mosambik",
+        "Rwanda",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chiva",
+      "values": [
+        "Egypt",
+        "Gruzie",
+        "Uzbekistán",
+        "Bulharsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kolárovo",
+      "values": [
+        "Španělsko",
+        "Srbsko",
+        "Mexiko",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Podolínec",
+      "values": [
+        "Slovensko",
+        "Libérie",
+        "Japonsko",
+        "Zambie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Port Blair",
+      "values": [
+        "Ekvádor",
+        "Moldavsko",
+        "Srí Lanka",
+        "Indie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

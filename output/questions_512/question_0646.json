@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] lékaře?",
+  "questions": [
+    {
+      "key": "Josef Mengele",
+      "values": [
+        "slovenského",
+        "kanadského",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Therese Schwarzenbergová",
+      "values": [
+        "slovenského",
+        "německého",
+        "brazilského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Heliodor Píka",
+      "values": [
+        "amerického",
+        "chilského",
+        "kanadského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zdeněk Hřib",
+      "values": [
+        "německého",
+        "kanadského",
+        "chilského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vinzenz Priessnitz",
+      "values": [
+        "rakouského",
+        "švýcarského",
+        "německého",
+        "brazilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alfred Adler",
+      "values": [
+        "německého",
+        "švýcarského",
+        "rakouského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Rakušan",
+      "values": [
+        "českého",
+        "chilského",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Salvador Allende",
+      "values": [
+        "chilského",
+        "francouzského",
+        "brazilského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eduard Haken",
+      "values": [
+        "českého",
+        "rakouského",
+        "amerického",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Antonín Čapek",
+      "values": [
+        "britského",
+        "slovenského",
+        "švýcarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

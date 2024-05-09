@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Radoslav Brzobohatý",
+      "values": [
+        "sovětského",
+        "marockého",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vlastimil Harapes",
+      "values": [
+        "izraelského",
+        "českého",
+        "kanadského",
+        "chilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Christian Bale",
+      "values": [
+        "britského",
+        "jihoafrického",
+        "sovětského",
+        "chilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vlastimil Bedrna",
+      "values": [
+        "britského",
+        "dánského",
+        "jihoafrického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Komínek",
+      "values": [
+        "francouzského",
+        "českého",
+        "švédského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Otomar Krejča",
+      "values": [
+        "novozélandského",
+        "kanadského",
+        "českého",
+        "jihoafrického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vendelín Budil",
+      "values": [
+        "malajsijského",
+        "českého",
+        "indického",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Emil Burian",
+      "values": [
+        "českého",
+        "australského",
+        "čínského",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pier Paolo Pasolini",
+      "values": [
+        "malajsijského",
+        "novozélandského",
+        "italského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jára Kohout",
+      "values": [
+        "španělského",
+        "jihoafrického",
+        "marockého",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle historického území",
+  "questions": [
+    {
+      "key": "Sudety",
+      "values": [
+        "Česko",
+        "Rumunsko",
+        "Německo",
+        "Chorvatsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kréta",
+      "values": [
+        "Česko",
+        "Řecko",
+        "Rumunsko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Prusko",
+      "values": [
+        "Německo",
+        "Rumunsko",
+        "Španělsko",
+        "Řecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Morava",
+      "values": [
+        "Rumunsko",
+        "Německo",
+        "Řecko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Čechy",
+      "values": [
+        "Rumunsko",
+        "Německo",
+        "Řecko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Valašsko",
+      "values": [
+        "Řecko",
+        "Německo",
+        "Španělsko",
+        "Rumunsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Franky",
+      "values": [
+        "Chorvatsko",
+        "Rumunsko",
+        "Česko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Katalánsko",
+      "values": [
+        "Německo",
+        "Španělsko",
+        "Rumunsko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andalusie",
+      "values": [
+        "Chorvatsko",
+        "Španělsko",
+        "Rumunsko",
+        "Řecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dubrovník",
+      "values": [
+        "Chorvatsko",
+        "Rumunsko",
+        "Řecko",
+        "Německo"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

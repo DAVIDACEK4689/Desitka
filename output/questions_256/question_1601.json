@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Till Lindemann",
+      "values": [
+        "srbského",
+        "nizozemského",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Falco",
+      "values": [
+        "rakouského",
+        "jamajského",
+        "kolumbijského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Ďurinda",
+      "values": [
+        "rakouského",
+        "ruského",
+        "slovenského",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Václav Upír Krejčí",
+      "values": [
+        "ruského",
+        "moldavského",
+        "českého",
+        "jihoafrického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Ryšavý",
+      "values": [
+        "španělského",
+        "švýcarského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roman Horký",
+      "values": [
+        "jihoafrického",
+        "českého",
+        "italského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Nikl",
+      "values": [
+        "jamajského",
+        "belgického",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jimmy Somerville",
+      "values": [
+        "německého",
+        "francouzského",
+        "finského",
+        "skotského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Farinelli",
+      "values": [
+        "irského",
+        "nizozemského",
+        "rumunského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Don Omar",
+      "values": [
+        "nizozemského",
+        "španělského",
+        "portorického",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

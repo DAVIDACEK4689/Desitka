@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] aktivistu?",
+  "questions": [
+    {
+      "key": "Charlie Sheen",
+      "values": [
+        "běloruského",
+        "indického",
+        "australského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "John Bok",
+      "values": [
+        "českého",
+        "kanadského",
+        "australského",
+        "indického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Noam Chomsky",
+      "values": [
+        "slovenského",
+        "britského",
+        "australského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Julian Assange",
+      "values": [
+        "běloruského",
+        "australského",
+        "indického",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Svjatlana Cichanouská",
+      "values": [
+        "íránského",
+        "slovenského",
+        "běloruského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mia Farrowová",
+      "values": [
+        "íránského",
+        "australského",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mikuláš Minář",
+      "values": [
+        "českého",
+        "ukrajinského",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sheryl Crow",
+      "values": [
+        "indického",
+        "ruského",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Elie Wiesel",
+      "values": [
+        "amerického",
+        "jihoafrického",
+        "ruského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Heather Millsová",
+      "values": [
+        "britského",
+        "indického",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

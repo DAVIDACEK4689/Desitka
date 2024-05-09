@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Boloňská omáčka",
+      "values": [
+        "litevskou",
+        "americkou",
+        "italskou",
+        "skotskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anglická kuchyně",
+      "values": [
+        "norskou",
+        "britskou",
+        "indonéskou",
+        "thajskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vídeňský řízek",
+      "values": [
+        "rakouskou",
+        "belgickou",
+        "finskou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pibimbap",
+      "values": [
+        "finskou",
+        "japonskou",
+        "korejskou",
+        "perskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Suflé",
+      "values": [
+        "maďarskou",
+        "ukrajinskou",
+        "francouzskou",
+        "islandskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gumbo",
+      "values": [
+        "americkou",
+        "portugalskou",
+        "britskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mirin",
+      "values": [
+        "arabskou",
+        "maďarskou",
+        "japonskou",
+        "laoskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Brunost",
+      "values": [
+        "irskou",
+        "norskou",
+        "portugalskou",
+        "belgickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sušené maso",
+      "values": [
+        "arménskou",
+        "indickou",
+        "čínskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kala namak",
+      "values": [
+        "indickou",
+        "chorvatskou",
+        "bhútánskou",
+        "arabskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Augusto Pinochet",
+      "values": [
+        "bulharského",
+        "palestinského",
+        "lotyšského",
+        "chilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Georges Danton",
+      "values": [
+        "francouzského",
+        "grenadského",
+        "kanadského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cecil Rhodes",
+      "values": [
+        "španělského",
+        "britského",
+        "chilského",
+        "egyptského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Václav Šašek z Bířkova",
+      "values": [
+        "norského",
+        "íránského",
+        "českého",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Viktor Mládek",
+      "values": [
+        "španělského",
+        "mexického",
+        "československého",
+        "katarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hans Modrow",
+      "values": [
+        "marockého",
+        "kolumbijského",
+        "lotyšského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Corneliu Zelea Codreanu",
+      "values": [
+        "argentinského",
+        "pruského",
+        "dánského",
+        "rumunského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oscar Luigi Scalfaro",
+      "values": [
+        "bulharského",
+        "italského",
+        "dominikánského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Muhammad Baradej",
+      "values": [
+        "filipínského",
+        "palestinského",
+        "egyptského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Louis de Rohan",
+      "values": [
+        "britského",
+        "francouzského",
+        "nepálského",
+        "polského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

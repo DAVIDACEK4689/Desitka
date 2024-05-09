@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle úmrtí",
+  "questions": [
+    {
+      "key": "Lev Nikolajevič Tolstoj",
+      "values": [
+        "Rusko",
+        "Česko",
+        "Vietnam",
+        "Singapur"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Falco",
+      "values": [
+        "Dominikánská republika",
+        "Madagaskar",
+        "Spojené království",
+        "Švédsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Björn Železný bok",
+      "values": [
+        "Rusko",
+        "Singapur",
+        "Dánsko",
+        "Švédsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Maxim Gorkij",
+      "values": [
+        "Irsko",
+        "Rusko",
+        "Česko",
+        "Japonsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "David Livingstone",
+      "values": [
+        "Zambie",
+        "Francie",
+        "Irák",
+        "Brazílie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lata Brandisová",
+      "values": [
+        "Singapur",
+        "Dominikánská republika",
+        "Rakousko",
+        "Vietnam"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Butch Cassidy",
+      "values": [
+        "Bolívie",
+        "Libye",
+        "Vietnam",
+        "Alžírsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "František Schwarzenberg",
+      "values": [
+        "Vietnam",
+        "Dánsko",
+        "Rusko",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Princ Henrik",
+      "values": [
+        "Dánsko",
+        "Alžírsko",
+        "Irsko",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Britský",
+      "values": [
+        "Německo",
+        "Madagaskar",
+        "Zambie",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

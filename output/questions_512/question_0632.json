@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Simona Krainová",
+      "values": [
+        "francouzskou",
+        "českou",
+        "britskou",
+        "izraelskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Anna Nicole Smith",
+      "values": [
+        "německou",
+        "izraelskou",
+        "kanadskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Markéta Hrubešová",
+      "values": [
+        "českou",
+        "argentinskou",
+        "maďarskou",
+        "brazilskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Charlize Theronová",
+      "values": [
+        "maďarskou",
+        "rakouskou",
+        "slovenskou",
+        "jihoafrickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bella Hadid",
+      "values": [
+        "slovenskou",
+        "francouzskou",
+        "rakouskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jessica Bielová",
+      "values": [
+        "irskou",
+        "brazilskou",
+        "americkou",
+        "maďarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jitka Kocurová",
+      "values": [
+        "maďarskou",
+        "švýcarskou",
+        "českou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Caitriona Balfe",
+      "values": [
+        "irskou",
+        "francouzskou",
+        "německou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Denise Richardsová",
+      "values": [
+        "australskou",
+        "dánskou",
+        "irskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Emmanuelle Seignerová",
+      "values": [
+        "maďarskou",
+        "českou",
+        "dánskou",
+        "francouzskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

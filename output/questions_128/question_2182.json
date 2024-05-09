@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] videohru?",
+  "questions": [
+    {
+      "key": "Tetris",
+      "values": [
+        "ruskou",
+        "francouzskou",
+        "čínskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Final Fantasy",
+      "values": [
+        "dánskou",
+        "slovenskou",
+        "japonskou",
+        "srbskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Grand Theft Auto III",
+      "values": [
+        "dánskou",
+        "britskou",
+        "australskou",
+        "finskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Poppy Playtime",
+      "values": [
+        "finskou",
+        "ruskou",
+        "americkou",
+        "islandskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "High School DxD",
+      "values": [
+        "ruskou",
+        "japonskou",
+        "čínskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hearthstone",
+      "values": [
+        "americkou",
+        "běloruskou",
+        "finskou",
+        "japonskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "EVE Online",
+      "values": [
+        "rakouskou",
+        "japonskou",
+        "islandskou",
+        "slovenskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Call of Juarez",
+      "values": [
+        "polskou",
+        "ukrajinskou",
+        "srbskou",
+        "čínskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Broken Sword",
+      "values": [
+        "ruskou",
+        "japonskou",
+        "britskou",
+        "finskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Unreal Tournament",
+      "values": [
+        "nizozemskou",
+        "dánskou",
+        "kanadskou",
+        "islandskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

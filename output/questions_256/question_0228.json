@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Jakub Kohák",
+      "values": [
+        "nizozemského",
+        "českého",
+        "německého",
+        "chilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pierce Brosnan",
+      "values": [
+        "nizozemského",
+        "jamajského",
+        "německého",
+        "irského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Slávek Boura",
+      "values": [
+        "amerického",
+        "tureckého",
+        "českého",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Willem Dafoe",
+      "values": [
+        "amerického",
+        "ukrajinského",
+        "dánského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michelle Yeoh",
+      "values": [
+        "maďarského",
+        "malajsijského",
+        "tureckého",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paolo Villaggio",
+      "values": [
+        "guatemalského",
+        "argentinského",
+        "italského",
+        "marockého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Peter Kent",
+      "values": [
+        "brazilského",
+        "maďarského",
+        "kanadského",
+        "jamajského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Hromada",
+      "values": [
+        "českého",
+        "chilského",
+        "ruského",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Daniel Gillies",
+      "values": [
+        "argentinského",
+        "francouzského",
+        "ruského",
+        "novozélandského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Patricia Velásquezová",
+      "values": [
+        "českého",
+        "portorického",
+        "venezuelského",
+        "islandského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

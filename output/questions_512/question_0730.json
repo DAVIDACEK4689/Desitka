@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Gdaňsk",
+      "values": [
+        "Polsko",
+        "Švédsko",
+        "Španělsko",
+        "Lotyšsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexandrie",
+      "values": [
+        "Argentina",
+        "Uruguay",
+        "Egypt",
+        "Polsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rimini",
+      "values": [
+        "Itálie",
+        "Senegal",
+        "Belgie",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bordeaux",
+      "values": [
+        "Jihoafrická republika",
+        "Černá Hora",
+        "Ukrajina",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bergen",
+      "values": [
+        "Jordánsko",
+        "Norsko",
+        "Venezuela",
+        "Albánie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "San Sebastián",
+      "values": [
+        "Švýcarsko",
+        "Španělsko",
+        "Indonésie",
+        "Albánie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cartagena",
+      "values": [
+        "Estonsko",
+        "Černá Hora",
+        "Finsko",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Makarska",
+      "values": [
+        "Rusko",
+        "Chorvatsko",
+        "Norsko",
+        "Libye"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rethymno",
+      "values": [
+        "Černá Hora",
+        "Řecko",
+        "Slovinsko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ancona",
+      "values": [
+        "Finsko",
+        "Itálie",
+        "Tanzanie",
+        "Kypr"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

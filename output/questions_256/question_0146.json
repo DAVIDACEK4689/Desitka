@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Jan Cimický",
+      "values": [
+        "kanadského",
+        "polského",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pablo Neruda",
+      "values": [
+        "portugalského",
+        "kubánského",
+        "španělského",
+        "chilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rudyard Kipling",
+      "values": [
+        "anglického",
+        "slovenského",
+        "ukrajinského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Christian Morgenstern",
+      "values": [
+        "slovenského",
+        "vietnamského",
+        "německého",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Henry David Thoreau",
+      "values": [
+        "italského",
+        "norského",
+        "srbského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Laco Novomeský",
+      "values": [
+        "skotského",
+        "srbského",
+        "slovenského",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Hugo Hilar",
+      "values": [
+        "německého",
+        "skotského",
+        "českého",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Kukal",
+      "values": [
+        "indického",
+        "ukrajinského",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zeno Kaprál",
+      "values": [
+        "francouzského",
+        "portugalského",
+        "českého",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jozef Miloslav Hurban",
+      "values": [
+        "slovenského",
+        "dánského",
+        "italského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

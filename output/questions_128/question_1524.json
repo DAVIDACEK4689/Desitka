@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Drážďany",
+      "values": [
+        "Dánsko",
+        "Belgie",
+        "Irsko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dublin",
+      "values": [
+        "Dánsko",
+        "Irsko",
+        "Portugalsko",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Turín",
+      "values": [
+        "Rakousko",
+        "Itálie",
+        "Německo",
+        "Maďarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Toruň",
+      "values": [
+        "Nizozemsko",
+        "Polsko",
+        "Slovensko",
+        "Portugalsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lublin",
+      "values": [
+        "Spojené království",
+        "Polsko",
+        "Německo",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lutych",
+      "values": [
+        "Itálie",
+        "Polsko",
+        "Německo",
+        "Belgie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lecce",
+      "values": [
+        "Maďarsko",
+        "Itálie",
+        "Rakousko",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lutherstadt Wittenberg",
+      "values": [
+        "Spojené království",
+        "Dánsko",
+        "Polsko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Reading",
+      "values": [
+        "Spojené království",
+        "Německo",
+        "Nizozemsko",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Northampton",
+      "values": [
+        "Rakousko",
+        "Slovensko",
+        "Portugalsko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

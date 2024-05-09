@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] entomologa?",
+  "questions": [
+    {
+      "key": "Charles Darwin",
+      "values": [
+        "britského",
+        "francouzského",
+        "rakouského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Carl Linné",
+      "values": [
+        "švédského",
+        "slovenského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ondřej Sekora",
+      "values": [
+        "švédského",
+        "rakouského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vladimir Nabokov",
+      "values": [
+        "francouzského",
+        "britského",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Martin Konvička",
+      "values": [
+        "českého",
+        "švédského",
+        "amerického",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stanislav Komárek",
+      "values": [
+        "slovenského",
+        "švédského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ernst Jünger",
+      "values": [
+        "slovenského",
+        "německého",
+        "francouzského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Edmund Reitter",
+      "values": [
+        "britského",
+        "rakouského",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vladimír Šilhavý",
+      "values": [
+        "amerického",
+        "českého",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Leopold Heyrovský",
+      "values": [
+        "britského",
+        "slovenského",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

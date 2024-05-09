@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Milan Baroš",
+      "values": [
+        "severoirského",
+        "venezuelského",
+        "českého",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oliver Kahn",
+      "values": [
+        "ruského",
+        "brazilského",
+        "německého",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alan Shearer",
+      "values": [
+        "ruského",
+        "kanadského",
+        "anglického",
+        "černohorského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jürgen Klinsmann",
+      "values": [
+        "německého",
+        "rumunského",
+        "panamského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dida",
+      "values": [
+        "tureckého",
+        "španělského",
+        "československého",
+        "brazilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dondinho",
+      "values": [
+        "portugalského",
+        "ruského",
+        "brazilského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Radek Černý",
+      "values": [
+        "mongolského",
+        "českého",
+        "ukrajinského",
+        "belgického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nicolás Otamendi",
+      "values": [
+        "kostarického",
+        "ruského",
+        "tureckého",
+        "argentinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Santiago Cañizares",
+      "values": [
+        "kamerunského",
+        "československého",
+        "italského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nicolò Barella",
+      "values": [
+        "argentinského",
+        "italského",
+        "irského",
+        "marockého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

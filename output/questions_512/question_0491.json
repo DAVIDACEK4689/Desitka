@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] kanibala?",
+  "questions": [
+    {
+      "key": "Jeffrey Dahmer",
+      "values": [
+        "slovenského",
+        "českého",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Andrej Čikatilo",
+      "values": [
+        "amerického",
+        "českého",
+        "ukrajinského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ladislav Hojer",
+      "values": [
+        "německého",
+        "amerického",
+        "českého",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Edmund Kemper",
+      "values": [
+        "německého",
+        "českého",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ed Gein",
+      "values": [
+        "amerického",
+        "ukrajinského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Albert Fish",
+      "values": [
+        "slovenského",
+        "českého",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Roháč",
+      "values": [
+        "amerického",
+        "ukrajinského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Matej Čurko",
+      "values": [
+        "slovenského",
+        "českého",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Henry Lee Lucas",
+      "values": [
+        "německého",
+        "amerického",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Armin Meiwes",
+      "values": [
+        "německého",
+        "českého",
+        "amerického",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

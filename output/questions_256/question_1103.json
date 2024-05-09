@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Johnny Depp",
+      "values": [
+        "amerického",
+        "rakouského",
+        "australského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paul Newman",
+      "values": [
+        "polského",
+        "německého",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Ondříček",
+      "values": [
+        "amerického",
+        "australského",
+        "českého",
+        "srbského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hajao Mijazaki",
+      "values": [
+        "australského",
+        "polského",
+        "amerického",
+        "japonského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tommy Lee Jones",
+      "values": [
+        "amerického",
+        "španělského",
+        "australského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tim Robbins",
+      "values": [
+        "irského",
+        "německého",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jindřich Polák",
+      "values": [
+        "hongkongského",
+        "českého",
+        "amerického",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Steve Lichtag",
+      "values": [
+        "slovenského",
+        "dánského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "John Ford",
+      "values": [
+        "českého",
+        "britského",
+        "francouzského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stan Neumann",
+      "values": [
+        "francouzského",
+        "srbského",
+        "novozélandského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

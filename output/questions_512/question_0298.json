@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] videohru?",
+  "questions": [
+    {
+      "key": "Minecraft",
+      "values": [
+        "britskou",
+        "švédskou",
+        "americkou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "The Last of Us",
+      "values": [
+        "americkou",
+        "ruskou",
+        "polskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tetris",
+      "values": [
+        "americkou",
+        "ruskou",
+        "britskou",
+        "polskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Grand Theft Auto",
+      "values": [
+        "polskou",
+        "švédskou",
+        "britskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Doom",
+      "values": [
+        "americkou",
+        "švédskou",
+        "ruskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Red Dead Redemption",
+      "values": [
+        "švédskou",
+        "polskou",
+        "americkou",
+        "německou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Metin2",
+      "values": [
+        "německou",
+        "jihokorejskou",
+        "švédskou",
+        "běloruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Valorant",
+      "values": [
+        "švédskou",
+        "americkou",
+        "jihokorejskou",
+        "běloruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "War Thunder",
+      "values": [
+        "americkou",
+        "ruskou",
+        "běloruskou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Escape from Tarkov",
+      "values": [
+        "americkou",
+        "polskou",
+        "švédskou",
+        "ruskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

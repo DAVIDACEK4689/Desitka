@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Jan Antonín Baťa",
+      "values": [
+        "jihoafrického",
+        "dánského",
+        "českého",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rupert Murdoch",
+      "values": [
+        "amerického",
+        "slovenského",
+        "ruského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David Rockefeller",
+      "values": [
+        "ruského",
+        "běloruského",
+        "amerického",
+        "indického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Wayne Rogers",
+      "values": [
+        "ruského",
+        "francouzského",
+        "amerického",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "David Bohbot",
+      "values": [
+        "litevského",
+        "českého",
+        "libanonského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Robert Čásenský",
+      "values": [
+        "českého",
+        "japonského",
+        "brazilského",
+        "jihoafrického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Richard Háva",
+      "values": [
+        "litevského",
+        "libanonského",
+        "slovinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nadžíb Míkátí",
+      "values": [
+        "ruského",
+        "jihoafrického",
+        "libanonského",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gunter Sachs",
+      "values": [
+        "německého",
+        "švédského",
+        "ukrajinského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "John Rabe",
+      "values": [
+        "monackého",
+        "pákistánského",
+        "německého",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Oliver Dlouhý",
+      "values": [
+        "brazilského",
+        "italského",
+        "jihoafrického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Březina",
+      "values": [
+        "českého",
+        "monackého",
+        "řeckého",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jack Dorsey",
+      "values": [
+        "amerického",
+        "japonského",
+        "italského",
+        "íránského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Káš",
+      "values": [
+        "českého",
+        "libanonského",
+        "amerického",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Emanuel Viktor Voska",
+      "values": [
+        "německého",
+        "amerického",
+        "libanonského",
+        "běloruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sean Parker",
+      "values": [
+        "ruského",
+        "ukrajinského",
+        "rakouského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Naval Ravikant",
+      "values": [
+        "španělského",
+        "italského",
+        "běloruského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Paul de Senneville",
+      "values": [
+        "běloruského",
+        "japonského",
+        "švýcarského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tibor Batthyány",
+      "values": [
+        "belgického",
+        "italského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Giovanni Battista Meneghini",
+      "values": [
+        "italského",
+        "španělského",
+        "amerického",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

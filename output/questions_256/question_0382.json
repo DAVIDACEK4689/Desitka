@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Tomáš Garrigue Masaryk",
+      "values": [
+        "maltského",
+        "českého",
+        "běloruského",
+        "libyjského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Benjamin Franklin",
+      "values": [
+        "polského",
+        "chilského",
+        "libanonského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Juan Perón",
+      "values": [
+        "finského",
+        "ghanského",
+        "britského",
+        "argentinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bernd Posselt",
+      "values": [
+        "německého",
+        "ghanského",
+        "rakouského",
+        "palestinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oleksij Arestovyč",
+      "values": [
+        "amerického",
+        "kambodžského",
+        "finského",
+        "ukrajinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Glenda Jacksonová",
+      "values": [
+        "iráckého",
+        "švédského",
+        "britského",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kýros Rezá Pahlaví",
+      "values": [
+        "anglického",
+        "iráckého",
+        "íránského",
+        "černohorského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ladislav Zápotocký",
+      "values": [
+        "iráckého",
+        "belgického",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Walburga Habsburg Douglas",
+      "values": [
+        "švédského",
+        "vietnamského",
+        "dominikánského",
+        "venezuelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Adolphe Thiers",
+      "values": [
+        "peruánského",
+        "francouzského",
+        "srbského",
+        "vietnamského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Julia Robertsová",
+      "values": [
+        "americkou",
+        "venezuelskou",
+        "francouzskou",
+        "australskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jasmina Alagič",
+      "values": [
+        "švýcarskou",
+        "jihoafrickou",
+        "slovenskou",
+        "venezuelskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tereza Maxová",
+      "values": [
+        "českou",
+        "jihoafrickou",
+        "brazilskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Amanda Seyfriedová",
+      "values": [
+        "venezuelskou",
+        "švýcarskou",
+        "indickou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Brenda Song",
+      "values": [
+        "americkou",
+        "maďarskou",
+        "německou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tahnee Welch",
+      "values": [
+        "jihoafrickou",
+        "izraelskou",
+        "americkou",
+        "maďarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Martina Stoessel",
+      "values": [
+        "americkou",
+        "argentinskou",
+        "polskou",
+        "australskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Simona Šimková",
+      "values": [
+        "jihoafrickou",
+        "českou",
+        "kanadskou",
+        "argentinskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Saša Lussová",
+      "values": [
+        "ruskou",
+        "francouzskou",
+        "namibijskou",
+        "izraelskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jeri Ryan",
+      "values": [
+        "indickou",
+        "americkou",
+        "izraelskou",
+        "německou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

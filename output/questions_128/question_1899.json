@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Richard Müller",
+      "values": [
+        "slovenského",
+        "japonského",
+        "arménského",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert Schumann",
+      "values": [
+        "ruského",
+        "německého",
+        "maďarského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Červený",
+      "values": [
+        "českého",
+        "nizozemského",
+        "rakouského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eduard Ingriš",
+      "values": [
+        "jihoafrického",
+        "norského",
+        "českého",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Riz Ortolani",
+      "values": [
+        "finského",
+        "italského",
+        "arménského",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zoltán Kodály",
+      "values": [
+        "německého",
+        "maďarského",
+        "norského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Elmer Bernstein",
+      "values": [
+        "francouzského",
+        "britského",
+        "amerického",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Léo Delibes",
+      "values": [
+        "japonského",
+        "ruského",
+        "kanadského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Garbarek",
+      "values": [
+        "ukrajinského",
+        "norského",
+        "litevského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vítězslav Hádl",
+      "values": [
+        "českého",
+        "dánského",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

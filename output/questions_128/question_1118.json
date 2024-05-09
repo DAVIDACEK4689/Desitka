@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Jim Morrison",
+      "values": [
+        "švýcarského",
+        "portugalského",
+        "kubánského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karl Kraus",
+      "values": [
+        "slovenského",
+        "finského",
+        "slovinského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pier Paolo Pasolini",
+      "values": [
+        "německého",
+        "ruského",
+        "ukrajinského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ivan Alexejevič Bunin",
+      "values": [
+        "gruzínského",
+        "ruského",
+        "rumunského",
+        "palestinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Suzanne Renaud",
+      "values": [
+        "gruzínského",
+        "amerického",
+        "italského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Doucha",
+      "values": [
+        "českého",
+        "čínského",
+        "slovinského",
+        "perského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Macuo Bašó",
+      "values": [
+        "českého",
+        "íránského",
+        "japonského",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Elena Lacková",
+      "values": [
+        "kubánského",
+        "tureckého",
+        "slovenského",
+        "anglického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Serhij Žadan",
+      "values": [
+        "švýcarského",
+        "ukrajinského",
+        "polského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tomáš Janovic",
+      "values": [
+        "skotského",
+        "chorvatského",
+        "slovenského",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte téma podle filmu",
+  "questions": [
+    {
+      "key": "Tenkrát v Hollywoodu",
+      "values": [
+        "hasič",
+        "letectví",
+        "herec",
+        "sériový vrah"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Asterix a Olympijské hry",
+      "values": [
+        "učitel",
+        "sport",
+        "automobil",
+        "upír"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Texaský masakr motorovou pilou",
+      "values": [
+        "romská tematika",
+        "cirkus",
+        "kanibalismus",
+        "nemoc"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Upír z Feratu",
+      "values": [
+        "imigrace",
+        "automobil",
+        "letectví",
+        "učitel"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zločin v Polné",
+      "values": [
+        "židovská tematika",
+        "spisovatel",
+        "cirkus",
+        "učitel"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Teroristka",
+      "values": [
+        "herec",
+        "učitel",
+        "imigrace",
+        "hasič"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Od soumraku do úsvitu",
+      "values": [
+        "romská tematika",
+        "novinář",
+        "upír",
+        "sebevražda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zítřek nikdy neumírá",
+      "values": [
+        "imigrace",
+        "učitel",
+        "novinář",
+        "nemoc"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tanec v temnotách",
+      "values": [
+        "sexualita",
+        "skaut",
+        "imigrace",
+        "upír"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Černobílý svět",
+      "values": [
+        "dvojče",
+        "spisovatel",
+        "anděl",
+        "sériový vrah"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle premiéra",
+  "questions": [
+    {
+      "key": "Stanislav Gross",
+      "values": [
+        "Indonésie",
+        "Itálie",
+        "Česko",
+        "Japonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Boris Jelcin",
+      "values": [
+        "Srbsko",
+        "Rusko",
+        "Pákistán",
+        "Rumunsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eduard Heger",
+      "values": [
+        "Bulharsko",
+        "Turecko",
+        "Slovensko",
+        "Arménie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "John Major",
+      "values": [
+        "Itálie",
+        "Etiopie",
+        "Spojené království",
+        "Jugoslávie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Leonid Kučma",
+      "values": [
+        "Jugoslávie",
+        "Česko",
+        "Ukrajina",
+        "Irsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Viktor Černomyrdin",
+      "values": [
+        "Nizozemsko",
+        "Kosovo",
+        "Rusko",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Korčák",
+      "values": [
+        "Irák",
+        "Česko",
+        "Portugalsko",
+        "Ukrajina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Élisabeth Borneová",
+      "values": [
+        "Francie",
+        "Portugalsko",
+        "Španělsko",
+        "Etiopie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bolesław Bierut",
+      "values": [
+        "Norsko",
+        "Rusko",
+        "Polsko",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andrej Plenković",
+      "values": [
+        "Chorvatsko",
+        "Estonsko",
+        "Ukrajina",
+        "Etiopie"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

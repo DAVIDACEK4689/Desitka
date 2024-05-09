@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Rúholláh Chomejní",
+      "values": [
+        "íránského",
+        "maltského",
+        "irského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hasan Nasralláh",
+      "values": [
+        "černohorského",
+        "panamského",
+        "salvadorského",
+        "libanonského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ruslana",
+      "values": [
+        "ukrajinského",
+        "britského",
+        "litevského",
+        "zimbabwského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michal Chrabrý",
+      "values": [
+        "kyrgyzského",
+        "dominikánského",
+        "rumunského",
+        "chorvatského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "António Egas Moniz",
+      "values": [
+        "zimbabwského",
+        "bulharského",
+        "slovenského",
+        "portugalského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pierre Clostermann",
+      "values": [
+        "francouzského",
+        "egyptského",
+        "československého",
+        "ekvádorského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Damdin Süchbátar",
+      "values": [
+        "katarského",
+        "mongolského",
+        "anglického",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stanislav Šuškevič",
+      "values": [
+        "panamského",
+        "britského",
+        "běloruského",
+        "bulharského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mary McAleeseová",
+      "values": [
+        "slovenského",
+        "norského",
+        "myanmarského",
+        "irského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Paul Reynaud",
+      "values": [
+        "jihoafrického",
+        "jugoslávského",
+        "francouzského",
+        "čínského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

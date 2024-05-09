@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Dalibor Janda",
+      "values": [
+        "japonského",
+        "německého",
+        "brazilského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Giacomo Puccini",
+      "values": [
+        "švédského",
+        "italského",
+        "polského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Franz Xaver Wolfgang Mozart",
+      "values": [
+        "rakouského",
+        "finského",
+        "polského",
+        "jihoafrického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Christopher Chaplin",
+      "values": [
+        "dánského",
+        "českého",
+        "švýcarského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chuck Lorre",
+      "values": [
+        "irského",
+        "norského",
+        "amerického",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Max Martin",
+      "values": [
+        "švédského",
+        "německého",
+        "nizozemského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Samuel Barber",
+      "values": [
+        "finského",
+        "norského",
+        "amerického",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marin Marais",
+      "values": [
+        "francouzského",
+        "ruského",
+        "švédského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Arrigo Boito",
+      "values": [
+        "belgického",
+        "italského",
+        "litevského",
+        "jihoafrického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Al Jourgensen",
+      "values": [
+        "litevského",
+        "amerického",
+        "arménského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

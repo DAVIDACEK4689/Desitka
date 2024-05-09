@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] román?",
+  "questions": [
+    {
+      "key": "Pýcha a předsudek",
+      "values": [
+        "irský",
+        "anglický",
+        "německý",
+        "japonský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zločin a trest",
+      "values": [
+        "ruský",
+        "český",
+        "rakouský",
+        "irský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mistr a Markétka",
+      "values": [
+        "anglický",
+        "ruský",
+        "rakouský",
+        "český"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petrolejové lampy",
+      "values": [
+        "americký",
+        "český",
+        "italský",
+        "anglický"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivanhoe",
+      "values": [
+        "anglický",
+        "italský",
+        "český",
+        "australský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Deset malých černoušků",
+      "values": [
+        "irský",
+        "rakouský",
+        "americký",
+        "anglický"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Na cestě",
+      "values": [
+        "americký",
+        "italský",
+        "ruský",
+        "britský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ostrov pokladů",
+      "values": [
+        "francouzský",
+        "španělský",
+        "anglický",
+        "americký"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Milenec lady Chatterleyové",
+      "values": [
+        "britský",
+        "rakouský",
+        "německý",
+        "americký"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pěna dní",
+      "values": [
+        "slovenský",
+        "francouzský",
+        "rakouský",
+        "americký"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

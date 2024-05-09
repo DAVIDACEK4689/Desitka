@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Návrat do budoucnosti",
+      "values": [
+        "Stephen Sommers",
+        "Billy Wilder",
+        "Robert Zemeckis",
+        "Mel Gibson"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Shrek 2",
+      "values": [
+        "John Lasseter",
+        "Kathryn Bigelowová",
+        "Ivan Passer",
+        "Kelly Asbury"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rocky III",
+      "values": [
+        "Sidney Lumet",
+        "Sylvester Stallone",
+        "John Lasseter",
+        "Jon Favreau"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Na Hromnice o den více",
+      "values": [
+        "Harold Ramis",
+        "Jim Jarmusch",
+        "Godfrey Reggio",
+        "Dennis Hopper"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ztraceno v překladu",
+      "values": [
+        "Bryan Singer",
+        "David Lynch",
+        "Sofia Coppola",
+        "John McTiernan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jedna za všechny",
+      "values": [
+        "Mark Neveldine",
+        "Blake Edwards",
+        "Emile Ardolino",
+        "Nick Cassavetes"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ničitel Conan",
+      "values": [
+        "David Zucker",
+        "bratři Russoové",
+        "Richard Fleischer",
+        "Bryan Singer"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ghost Rider 2",
+      "values": [
+        "Keenen Ivory Wayans",
+        "Steven Spielberg",
+        "Mark Neveldine",
+        "Ron Howard"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Maratónec",
+      "values": [
+        "Christopher Nolan",
+        "Nora Ephronová",
+        "Steven Spielberg",
+        "John Schlesinger"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Na sever severozápadní linkou",
+      "values": [
+        "Alfred Hitchcock",
+        "Marc Webb",
+        "Jason Reitman",
+        "John Landis"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

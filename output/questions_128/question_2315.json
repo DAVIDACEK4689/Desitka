@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] automobilku?",
+  "questions": [
+    {
+      "key": "Zetor",
+      "values": [
+        "českou",
+        "ruskou",
+        "australskou",
+        "rakouskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Toyota",
+      "values": [
+        "britskou",
+        "rumunskou",
+        "japonskou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alfa Romeo",
+      "values": [
+        "sovětskou",
+        "italskou",
+        "čínskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bentley",
+      "values": [
+        "britskou",
+        "indickou",
+        "českou",
+        "japonskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vauxhall Motors",
+      "values": [
+        "francouzskou",
+        "českou",
+        "čínskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pininfarina",
+      "values": [
+        "polskou",
+        "japonskou",
+        "jihokorejskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Acura",
+      "values": [
+        "rumunskou",
+        "sovětskou",
+        "japonskou",
+        "čínskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kaipan",
+      "values": [
+        "českou",
+        "ruskou",
+        "americkou",
+        "rumunskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cosworth",
+      "values": [
+        "britskou",
+        "španělskou",
+        "vietnamskou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Smart",
+      "values": [
+        "rakouskou",
+        "jugoslávskou",
+        "německou",
+        "maďarskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Karel Václav Rais",
+      "values": [
+        "kyrgyzského",
+        "paraguayského",
+        "českého",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Johann Gottfried Herder",
+      "values": [
+        "ukrajinského",
+        "španělského",
+        "chilského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Knut Hamsun",
+      "values": [
+        "norského",
+        "argentinského",
+        "španělského",
+        "íránského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jacob Grimm",
+      "values": [
+        "chorvatského",
+        "jihoafrického",
+        "německého",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Pazdera Payne",
+      "values": [
+        "argentinského",
+        "rumunského",
+        "českého",
+        "novozélandského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Scheinpflug",
+      "values": [
+        "egyptského",
+        "rakouského",
+        "českého",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaroslav Novák Večerníček",
+      "values": [
+        "peruánského",
+        "českého",
+        "kanadského",
+        "litevského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Heinrich Cornelius Agrippa von Nettesheim",
+      "values": [
+        "čínského",
+        "rakouského",
+        "egyptského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kurt Diemberger",
+      "values": [
+        "jihoafrického",
+        "martinického",
+        "chilského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Imre Madách",
+      "values": [
+        "srbského",
+        "litevského",
+        "maďarského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

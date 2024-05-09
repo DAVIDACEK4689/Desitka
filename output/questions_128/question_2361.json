@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Šárka Vaňková",
+      "values": [
+        "českou",
+        "japonskou",
+        "maďarskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dáša Zázvůrková",
+      "values": [
+        "jamajskou",
+        "českou",
+        "italskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michaela Dolinová",
+      "values": [
+        "řeckou",
+        "kolumbijskou",
+        "polskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nela Kailová",
+      "values": [
+        "barbadoskou",
+        "mexickou",
+        "německou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lara Fabian",
+      "values": [
+        "kanadskou",
+        "moldavskou",
+        "chorvatskou",
+        "japonskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eva Hurychová",
+      "values": [
+        "českou",
+        "japonskou",
+        "kubánskou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Julianne Hough",
+      "values": [
+        "českou",
+        "jamajskou",
+        "americkou",
+        "kanadskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Toni Braxton",
+      "values": [
+        "francouzskou",
+        "australskou",
+        "jamajskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kelly Rowlandová",
+      "values": [
+        "českou",
+        "americkou",
+        "novozélandskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jana Vébrová",
+      "values": [
+        "izraelskou",
+        "japonskou",
+        "norskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

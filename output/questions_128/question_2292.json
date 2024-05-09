@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Zdeněk Štěpánek",
+      "values": [
+        "rakouského",
+        "britského",
+        "českého",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Christopher Nolan",
+      "values": [
+        "indického",
+        "slovinského",
+        "irského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimír Škultéty",
+      "values": [
+        "kanadského",
+        "polského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Václav Binovec",
+      "values": [
+        "amerického",
+        "českého",
+        "chorvatského",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oliver Stone",
+      "values": [
+        "novozélandského",
+        "slovenského",
+        "amerického",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "William Friedkin",
+      "values": [
+        "ukrajinského",
+        "německého",
+        "amerického",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Burgess Meredith",
+      "values": [
+        "amerického",
+        "hongkongského",
+        "kanadského",
+        "estonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miroslav Cikán",
+      "values": [
+        "ukrajinského",
+        "českého",
+        "australského",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Robert Altman",
+      "values": [
+        "amerického",
+        "maďarského",
+        "španělského",
+        "novozélandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mark Kirkland",
+      "values": [
+        "amerického",
+        "slovinského",
+        "novozélandského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "José Mourinho",
+      "values": [
+        "portugalského",
+        "nizozemského",
+        "anglického",
+        "baskického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miklós Fehér",
+      "values": [
+        "portugalského",
+        "polského",
+        "maďarského",
+        "nigerijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kaká",
+      "values": [
+        "portugalského",
+        "slovenského",
+        "brazilského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marcelo Vieira",
+      "values": [
+        "chorvatského",
+        "brazilského",
+        "polského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Franz Beckenbauer",
+      "values": [
+        "německého",
+        "španělského",
+        "slovenského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marco Reus",
+      "values": [
+        "chorvatského",
+        "dánského",
+        "německého",
+        "kolumbijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pedri",
+      "values": [
+        "kolumbijského",
+        "švédského",
+        "portugalského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roberto Firmino",
+      "values": [
+        "kolumbijského",
+        "norského",
+        "řeckého",
+        "brazilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zdenko Frťala",
+      "values": [
+        "chorvatského",
+        "finského",
+        "portugalského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alessandro Del Piero",
+      "values": [
+        "dánského",
+        "argentinského",
+        "portugalského",
+        "italského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

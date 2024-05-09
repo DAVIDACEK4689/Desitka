@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalového trenéra?",
+  "questions": [
+    {
+      "key": "Jürgen Klopp",
+      "values": [
+        "francouzského",
+        "mexického",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Holoubek",
+      "values": [
+        "velšského",
+        "australského",
+        "českého",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Manuel Pellegrini",
+      "values": [
+        "chilského",
+        "dánského",
+        "srbského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ronald Koeman",
+      "values": [
+        "nizozemského",
+        "anglického",
+        "chorvatského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jozef Vengloš",
+      "values": [
+        "chilského",
+        "slovenského",
+        "tureckého",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ladislav Škorpil",
+      "values": [
+        "dánského",
+        "českého",
+        "anglického",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alex Pastoor",
+      "values": [
+        "nizozemského",
+        "velšského",
+        "chilského",
+        "tureckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "René Wagner",
+      "values": [
+        "českého",
+        "ukrajinského",
+        "švédského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladimír Borovička",
+      "values": [
+        "chilského",
+        "norského",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stanislav Čerčesov",
+      "values": [
+        "velšského",
+        "ruského",
+        "švédského",
+        "australského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

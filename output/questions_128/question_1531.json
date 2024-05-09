@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte město podle geografie",
+  "questions": [
+    {
+      "key": "Temže",
+      "values": [
+        "Londýn",
+        "Řím",
+        "Sevastopol",
+        "Tokio"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Soho",
+      "values": [
+        "Lisabon",
+        "Sevastopol",
+        "Londýn",
+        "Tokio"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gellértova hora",
+      "values": [
+        "Sofie",
+        "Tokio",
+        "Lisabon",
+        "Budapešť"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aquincum",
+      "values": [
+        "Helsinky",
+        "Londýn",
+        "Tokio",
+        "Budapešť"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Notting Hill",
+      "values": [
+        "Vilnius",
+        "Bělehrad",
+        "Londýn",
+        "Budapešť"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Westminster",
+      "values": [
+        "Londýn",
+        "Kodaň",
+        "Bělehrad",
+        "Tokio"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Camden Town",
+      "values": [
+        "Řím",
+        "Sofie",
+        "Londýn",
+        "Vilnius"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Canary Wharf",
+      "values": [
+        "Sevastopol",
+        "Bělehrad",
+        "Londýn",
+        "Paříž"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Užupis",
+      "values": [
+        "Řím",
+        "Amsterdam",
+        "Buenos Aires",
+        "Vilnius"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vitoša",
+      "values": [
+        "Vilnius",
+        "Helsinky",
+        "Bělehrad",
+        "Sofie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

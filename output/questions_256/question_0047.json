@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Ostrava",
+      "values": [
+        "Spojené království",
+        "Irsko",
+        "Dánsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Florencie",
+      "values": [
+        "Itálie",
+        "Nizozemsko",
+        "Rakousko",
+        "Maďarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bologna",
+      "values": [
+        "Německo",
+        "Nizozemsko",
+        "Česko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Štětín",
+      "values": [
+        "Itálie",
+        "Rakousko",
+        "Polsko",
+        "Dánsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cambridge",
+      "values": [
+        "Polsko",
+        "Itálie",
+        "Spojené království",
+        "Slovensko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zvolen",
+      "values": [
+        "Irsko",
+        "Slovensko",
+        "Itálie",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bayreuth",
+      "values": [
+        "Rakousko",
+        "Portugalsko",
+        "Itálie",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Brescia",
+      "values": [
+        "Německo",
+        "Itálie",
+        "Česko",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aarhus",
+      "values": [
+        "Polsko",
+        "Dánsko",
+        "Irsko",
+        "Belgie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Urbino",
+      "values": [
+        "Maďarsko",
+        "Itálie",
+        "Portugalsko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] matematika?",
+  "questions": [
+    {
+      "key": "Gottfried Wilhelm Leibniz",
+      "values": [
+        "indického",
+        "německého",
+        "slovenského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vilfredo Pareto",
+      "values": [
+        "britského",
+        "německého",
+        "maďarského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Johan de Witt",
+      "values": [
+        "německého",
+        "nizozemského",
+        "švédského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Daniel Bernoulli",
+      "values": [
+        "švýcarského",
+        "slovenského",
+        "švédského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zoia Ceaușescuová",
+      "values": [
+        "irského",
+        "rakouského",
+        "rumunského",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luca Pacioli",
+      "values": [
+        "indického",
+        "českého",
+        "íránského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gerolamo Cardano",
+      "values": [
+        "amerického",
+        "rumunského",
+        "německého",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Johann Bernoulli",
+      "values": [
+        "polského",
+        "maďarského",
+        "norského",
+        "švýcarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaroslav Nešetřil",
+      "values": [
+        "norského",
+        "polského",
+        "irského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Joan Clarkeová",
+      "values": [
+        "britského",
+        "indického",
+        "švýcarského",
+        "íránského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Josef Šural",
+      "values": [
+        "gambijského",
+        "finského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marek Heinz",
+      "values": [
+        "českého",
+        "portugalského",
+        "sovětského",
+        "gambijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Patrick Vieira",
+      "values": [
+        "finského",
+        "francouzského",
+        "skotského",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Giorgio Chiellini",
+      "values": [
+        "gambijského",
+        "maďarského",
+        "italského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lucas Paquetá",
+      "values": [
+        "severoirského",
+        "švýcarského",
+        "brazilského",
+        "islandského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Patrik Hrošovský",
+      "values": [
+        "slovenského",
+        "gambijského",
+        "portugalského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Aiham Ousou",
+      "values": [
+        "belgického",
+        "rakouského",
+        "švédského",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mohammed Kudus",
+      "values": [
+        "italského",
+        "rumunského",
+        "ghanského",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bernd Leno",
+      "values": [
+        "australského",
+        "velšského",
+        "sovětského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Trapp",
+      "values": [
+        "českého",
+        "bulharského",
+        "senegalského",
+        "československého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] architekta?",
+  "questions": [
+    {
+      "key": "Antoni Gaudí",
+      "values": [
+        "českého",
+        "španělského",
+        "švýcarského",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Parléř",
+      "values": [
+        "rakouského",
+        "polského",
+        "německého",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Albert Speer",
+      "values": [
+        "francouzského",
+        "rakouského",
+        "německého",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dušan Jurkovič",
+      "values": [
+        "slovenského",
+        "španělského",
+        "řeckého",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ludwig Mies van der Rohe",
+      "values": [
+        "slovinského",
+        "norského",
+        "německého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bohuslav Fuchs",
+      "values": [
+        "řeckého",
+        "rakouského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Giotto di Bondone",
+      "values": [
+        "švýcarského",
+        "norského",
+        "italského",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Janák",
+      "values": [
+        "maďarského",
+        "polského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Bočan",
+      "values": [
+        "španělského",
+        "švýcarského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ernő Rubik",
+      "values": [
+        "maďarského",
+        "řeckého",
+        "švýcarského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

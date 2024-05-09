@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] duchovního?",
+  "questions": [
+    {
+      "key": "Jonathan Swift",
+      "values": [
+        "franského",
+        "španělského",
+        "irského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Girolamo Savonarola",
+      "values": [
+        "italského",
+        "albánského",
+        "íránského",
+        "egyptského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ralph Waldo Emerson",
+      "values": [
+        "anglického",
+        "irského",
+        "franského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Figulus Jablonský",
+      "values": [
+        "albánského",
+        "českého",
+        "francouzského",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Justin Welby",
+      "values": [
+        "českého",
+        "anglického",
+        "švýcarského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Filip Štojdl",
+      "values": [
+        "českého",
+        "irského",
+        "egyptského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Athanasius Kircher",
+      "values": [
+        "švýcarského",
+        "francouzského",
+        "egyptského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sandra Silná",
+      "values": [
+        "španělského",
+        "egyptského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Charles Taze Russell",
+      "values": [
+        "íránského",
+        "albánského",
+        "francouzského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Georg Ratzinger",
+      "values": [
+        "anglického",
+        "českého",
+        "egyptského",
+        "německého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

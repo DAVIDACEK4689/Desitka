@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Barcelona",
+      "values": [
+        "Španělsko",
+        "Tanzanie",
+        "Gruzie",
+        "Angola"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oděsa",
+      "values": [
+        "Bulharsko",
+        "Estonsko",
+        "Finsko",
+        "Ukrajina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gent",
+      "values": [
+        "Rumunsko",
+        "Irsko",
+        "Belgie",
+        "Litva"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Koper",
+      "values": [
+        "Alžírsko",
+        "Slovinsko",
+        "Nizozemsko",
+        "Gambie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Almería",
+      "values": [
+        "Argentina",
+        "Turecko",
+        "Izrael",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Izmajil",
+      "values": [
+        "Benin",
+        "Bulharsko",
+        "Ukrajina",
+        "Guinea"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Paramaribo",
+      "values": [
+        "Maroko",
+        "Rumunsko",
+        "Surinam",
+        "Togo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Quseir",
+      "values": [
+        "Dánsko",
+        "Finsko",
+        "Malta",
+        "Egypt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Poti",
+      "values": [
+        "Tunisko",
+        "Gruzie",
+        "Nigérie",
+        "Turecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cotonou",
+      "values": [
+        "Benin",
+        "Rusko",
+        "Irsko",
+        "Rumunsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

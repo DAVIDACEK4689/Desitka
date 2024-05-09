@@ -1,0 +1,105 @@
+{
+  "text": "Určete bojiště podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva u Grunwaldu",
+      "values": [
+        "Bavorsko",
+        "Irák",
+        "Sýrie",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Bachmače",
+      "values": [
+        "Turecko",
+        "Papua Nová Guinea",
+        "Rumunsko",
+        "Ukrajina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Lützenu",
+      "values": [
+        "Německo",
+        "Uganda",
+        "Izrael",
+        "Sasko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva o Zvolen",
+      "values": [
+        "Japonsko",
+        "Rumunsko",
+        "Slovensko",
+        "Sýrie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Druhá bitva u Yper",
+      "values": [
+        "Etiopie",
+        "Belgie",
+        "Vietnam",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "První bitva u El Alameinu",
+      "values": [
+        "Německo",
+        "Belgie",
+        "Irák",
+        "Egypt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Mogersdorfu",
+      "values": [
+        "Bulharsko",
+        "Rakousko",
+        "Austrálie",
+        "Senegal"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva o Malajsii",
+      "values": [
+        "Sýrie",
+        "Nizozemsko",
+        "Turecko",
+        "Singapur"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Jarmúku",
+      "values": [
+        "Etiopie",
+        "Estonsko",
+        "Sýrie",
+        "Indie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Punta Stilo",
+      "values": [
+        "Itálie",
+        "Austrálie",
+        "Súdán",
+        "Japonsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

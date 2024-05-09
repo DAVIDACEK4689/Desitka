@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalového trenéra?",
+  "questions": [
+    {
+      "key": "Johan Cruijff",
+      "values": [
+        "bulharského",
+        "nizozemského",
+        "argentinského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Václav Kotal",
+      "values": [
+        "amerického",
+        "českého",
+        "španělského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Antonio Conte",
+      "values": [
+        "uruguayského",
+        "italského",
+        "českého",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jozef Adamec",
+      "values": [
+        "italského",
+        "slovenského",
+        "uruguayského",
+        "velšského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hugo Sánchez",
+      "values": [
+        "belgického",
+        "dánského",
+        "bulharského",
+        "mexického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stanislav Griga",
+      "values": [
+        "slovenského",
+        "srbského",
+        "polského",
+        "skotského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Massimiliano Allegri",
+      "values": [
+        "tureckého",
+        "německého",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sebastián Abreu",
+      "values": [
+        "mexického",
+        "irského",
+        "portugalského",
+        "uruguayského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zdeněk Bečka",
+      "values": [
+        "maďarského",
+        "českého",
+        "nizozemského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Roberto Donadoni",
+      "values": [
+        "dánského",
+        "italského",
+        "německého",
+        "australského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

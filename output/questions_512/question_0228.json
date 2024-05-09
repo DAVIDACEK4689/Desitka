@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte moře podle přístavního města",
+  "questions": [
+    {
+      "key": "Istanbul",
+      "values": [
+        "Marmarské moře",
+        "Rudé moře",
+        "Azovské moře",
+        "Baltské moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kodaň",
+      "values": [
+        "Azovské moře",
+        "Marmarské moře",
+        "Baltské moře",
+        "Severní moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stockholm",
+      "values": [
+        "Marmarské moře",
+        "Bílé moře",
+        "Baltské moře",
+        "Černé moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Antverpy",
+      "values": [
+        "Irské moře",
+        "Severní moře",
+        "Rudé moře",
+        "Azovské moře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sevastopol",
+      "values": [
+        "Severní moře",
+        "Marmarské moře",
+        "Černé moře",
+        "Baltské moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mariupol",
+      "values": [
+        "Černé moře",
+        "Rudé moře",
+        "Marmarské moře",
+        "Azovské moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bergen",
+      "values": [
+        "Severní moře",
+        "Marmarské moře",
+        "Baltské moře",
+        "Karibské moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cherson",
+      "values": [
+        "Karibské moře",
+        "Severní moře",
+        "Irské moře",
+        "Černé moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rostock",
+      "values": [
+        "Bílé moře",
+        "Severní moře",
+        "Irské moře",
+        "Baltské moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Santo Domingo",
+      "values": [
+        "Severní moře",
+        "Rudé moře",
+        "Karibské moře",
+        "Irské moře"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

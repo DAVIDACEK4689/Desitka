@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Milan Kundera",
+      "values": [
+        "srbského",
+        "skotského",
+        "irského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Victor Hugo",
+      "values": [
+        "irského",
+        "španělského",
+        "francouzského",
+        "anglického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Otokar Březina",
+      "values": [
+        "francouzského",
+        "maďarského",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miguel de Cervantes y Saavedra",
+      "values": [
+        "španělského",
+        "indického",
+        "anglického",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "John Antoine Nau",
+      "values": [
+        "ruského",
+        "francouzského",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Konstantin Biebl",
+      "values": [
+        "dánského",
+        "českého",
+        "ruského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michail Jurjevič Lermontov",
+      "values": [
+        "slovenského",
+        "amerického",
+        "ruského",
+        "srbského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lope de Vega",
+      "values": [
+        "rakouského",
+        "srbského",
+        "španělského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michail Lomonosov",
+      "values": [
+        "českého",
+        "polského",
+        "skotského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan z Jenštejna",
+      "values": [
+        "českého",
+        "skotského",
+        "norského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

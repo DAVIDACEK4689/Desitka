@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle prezidenta",
+  "questions": [
+    {
+      "key": "Saddám Husajn",
+      "values": [
+        "Irák",
+        "Itálie",
+        "Slovinsko",
+        "Indonésie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lech Kaczyński",
+      "values": [
+        "Jugoslávie",
+        "Rakousko",
+        "Polsko",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aleksandar Vučić",
+      "values": [
+        "Maďarsko",
+        "Moldavsko",
+        "Arménie",
+        "Srbsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Klaus Iohannis",
+      "values": [
+        "Rumunsko",
+        "Slovinsko",
+        "Somálsko",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nursultan Nazarbajev",
+      "values": [
+        "Polsko",
+        "Vietnam",
+        "Kazachstán",
+        "Estonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karl Renner",
+      "values": [
+        "Rakousko",
+        "Srbsko",
+        "Afghánistán",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Richard von Weizsäcker",
+      "values": [
+        "Kolumbie",
+        "Čečenci",
+        "Libérie",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ali Bongo Ondimba",
+      "values": [
+        "Moldavsko",
+        "Uganda",
+        "Libérie",
+        "Gabon"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "João do Canto e Castro",
+      "values": [
+        "Československo",
+        "Itálie",
+        "Španělsko",
+        "Portugalsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "René Coty",
+      "values": [
+        "Francie",
+        "Rakousko",
+        "Gruzie",
+        "Libérie"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

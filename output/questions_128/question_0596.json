@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle zemědělství",
+  "questions": [
+    {
+      "key": "Kibuc",
+      "values": [
+        "Česko",
+        "Izrael",
+        "Sovětský svaz",
+        "Československo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hladomor na Ukrajině",
+      "values": [
+        "Česko",
+        "Itálie",
+        "Sovětský svaz",
+        "Československo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Republikánská strana zemědělského a malorolnického lidu",
+      "values": [
+        "Sovětský svaz",
+        "Itálie",
+        "Česko",
+        "Československo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kolchoz",
+      "values": [
+        "Sovětský svaz",
+        "Itálie",
+        "Československo",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zemědělský půdní fond",
+      "values": [
+        "Izrael",
+        "Česko",
+        "Československo",
+        "Sovětský svaz"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Státní zemědělská a potravinářská inspekce",
+      "values": [
+        "Československo",
+        "Česko",
+        "Izrael",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Strojní a traktorová stanice",
+      "values": [
+        "Itálie",
+        "Česko",
+        "Československo",
+        "Sovětský svaz"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Německý svaz zemědělců",
+      "values": [
+        "Česko",
+        "Sovětský svaz",
+        "Československo",
+        "Izrael"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Výzkumný ústav pivovarský a sladařský",
+      "values": [
+        "Sovětský svaz",
+        "Česko",
+        "Itálie",
+        "Izrael"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dělník a kolchoznice",
+      "values": [
+        "Československo",
+        "Itálie",
+        "Izrael",
+        "Sovětský svaz"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete bojiště podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva u Kresčaku",
+      "values": [
+        "Ukrajina",
+        "Francie",
+        "Norsko",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva na Sommě",
+      "values": [
+        "Maďarsko",
+        "Libye",
+        "Francie",
+        "Bulharsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva o Narvik",
+      "values": [
+        "Rakousko",
+        "Rusko",
+        "Maďarsko",
+        "Norsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Dunkerque",
+      "values": [
+        "Rakousko",
+        "Francie",
+        "Norsko",
+        "Turecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva o Monte Cassino",
+      "values": [
+        "Ukrajina",
+        "Japonsko",
+        "Itálie",
+        "Mongolsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Bachmače",
+      "values": [
+        "Ukrajina",
+        "Bulharsko",
+        "Řecko",
+        "Libye"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Poltavy",
+      "values": [
+        "Ukrajina",
+        "Vietnam",
+        "Spojené království",
+        "Maďarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Cušimy",
+      "values": [
+        "Japonsko",
+        "Braniborsko",
+        "Slovensko",
+        "Irák"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Gravelines",
+      "values": [
+        "Mongolsko",
+        "Rumunsko",
+        "Francie",
+        "Ukrajina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Operace Gothic Serpent",
+      "values": [
+        "Somálsko",
+        "Německo",
+        "Rusko",
+        "Uganda"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

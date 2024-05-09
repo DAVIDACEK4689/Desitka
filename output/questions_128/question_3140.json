@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Dobyvatelé ztracené archy",
+      "values": [
+        "Rob Reiner",
+        "Steven Spielberg",
+        "Francis Ford Coppola",
+        "Martin Scorsese"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Poslední samuraj",
+      "values": [
+        "Robert Wise",
+        "Ben Stiller",
+        "Edward Zwick",
+        "Peter Hyams"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kmotr III",
+      "values": [
+        "Francis Ford Coppola",
+        "Kevin Costner",
+        "Michael Bay",
+        "Richard Fleischer"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "V srdci moře",
+      "values": [
+        "Robert Eggers",
+        "Doug Liman",
+        "Shane Black",
+        "Ron Howard"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Seveřan",
+      "values": [
+        "Robert Eggers",
+        "Michael Bay",
+        "Arthur Penn",
+        "Rian Johnson"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hancock",
+      "values": [
+        "George Lucas",
+        "Peter Berg",
+        "Billy Wilder",
+        "Michael Cimino"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Říše slunce",
+      "values": [
+        "Steven Spielberg",
+        "David Fincher",
+        "Herbert Ross",
+        "Raja Gosnell"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Looper",
+      "values": [
+        "Bryan Singer",
+        "Sean Penn",
+        "Rian Johnson",
+        "Chris Columbus"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nevěsta na útěku",
+      "values": [
+        "Kevin Reynolds",
+        "Garry Marshall",
+        "George Roy Hill",
+        "Todd Phillips"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Návrat Růžového pantera",
+      "values": [
+        "Alexander Payne",
+        "Tim Burton",
+        "Blake Edwards",
+        "Richard Lester"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

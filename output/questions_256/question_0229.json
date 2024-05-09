@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "David Kraus",
+      "values": [
+        "českého",
+        "ruského",
+        "mexického",
+        "jihoafrického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ján Koleník",
+      "values": [
+        "jihoafrického",
+        "slovenského",
+        "jihokorejského",
+        "chilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Matěj Forman",
+      "values": [
+        "britského",
+        "francouzského",
+        "českého",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Theo James",
+      "values": [
+        "brazilského",
+        "britského",
+        "venezuelského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eduard Kohout",
+      "values": [
+        "slovenského",
+        "novozélandského",
+        "českého",
+        "guatemalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ján Jackuliak",
+      "values": [
+        "německého",
+        "italského",
+        "slovenského",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Brendan Gleeson",
+      "values": [
+        "irského",
+        "kanadského",
+        "švédského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miguel Herrán",
+      "values": [
+        "australského",
+        "irského",
+        "španělského",
+        "portorického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lucas Bravo",
+      "values": [
+        "francouzského",
+        "brazilského",
+        "nizozemského",
+        "tureckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lance Henriksen",
+      "values": [
+        "kanadského",
+        "amerického",
+        "jamajského",
+        "malajsijského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle jazyka",
+  "questions": [
+    {
+      "key": "Latina",
+      "values": [
+        "Švýcarsko",
+        "Wales",
+        "Vatikán",
+        "Palau"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Japonština",
+      "values": [
+        "Palau",
+        "Řecko",
+        "Německo",
+        "Švédsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Portugalština",
+      "values": [
+        "Singapur",
+        "Palau",
+        "Brazílie",
+        "Švýcarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rétorománština",
+      "values": [
+        "Švýcarsko",
+        "Singapur",
+        "Česko",
+        "Švédsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Irština",
+      "values": [
+        "Vatikán",
+        "Polsko",
+        "Irsko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bulharština",
+      "values": [
+        "Polsko",
+        "Řecko",
+        "Palau",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lužická srbština",
+      "values": [
+        "Brazílie",
+        "Francie",
+        "Německo",
+        "Irsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Velština",
+      "values": [
+        "Severní Irsko",
+        "Indie",
+        "Wales",
+        "Kosovo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kazaština",
+      "values": [
+        "Kosovo",
+        "Brazílie",
+        "Severní Irsko",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bosenština",
+      "values": [
+        "Kosovo",
+        "Mongolsko",
+        "Polsko",
+        "Wales"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle náboženství",
+  "questions": [
+    {
+      "key": "Judaismus",
+      "values": [
+        "Mongolsko",
+        "Palestina",
+        "Izrael",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Betlém",
+      "values": [
+        "Mexiko",
+        "Indie",
+        "Irák",
+        "Palestina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Samaritáni",
+      "values": [
+        "Česko",
+        "Malta",
+        "Vietnam",
+        "Izrael"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sinčchondži",
+      "values": [
+        "Vietnam",
+        "Francie",
+        "Jižní Korea",
+        "Indie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jezídové",
+      "values": [
+        "Byzantská říše",
+        "Jamajka",
+        "Irák",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Obrazoborectví",
+      "values": [
+        "Mongolsko",
+        "Mexiko",
+        "Byzantská říše",
+        "Omán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mezinárodní společnost pro vědomí Kršny",
+      "values": [
+        "Česko",
+        "Malta",
+        "Vietnam",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ibádíja",
+      "values": [
+        "Řecko",
+        "Mexiko",
+        "Mongolsko",
+        "Omán"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pársové",
+      "values": [
+        "Bulharsko",
+        "Indie",
+        "Vietnam",
+        "Byzantská říše"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Svedkovia Liehovovi",
+      "values": [
+        "Slovensko",
+        "Jamajka",
+        "Omán",
+        "Indie"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

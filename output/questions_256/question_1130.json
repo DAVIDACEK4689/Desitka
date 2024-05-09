@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Kotvičník zemní",
+      "values": [
+        "Madagaskar",
+        "Mexiko",
+        "Brazílie",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Šalvěj",
+      "values": [
+        "Mexiko",
+        "Nový Zéland",
+        "Mongolsko",
+        "Austrálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Agáve",
+      "values": [
+        "Austrálie",
+        "Madagaskar",
+        "Mexiko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andělika lékařská",
+      "values": [
+        "Mongolsko",
+        "Česko",
+        "Nový Zéland",
+        "Austrálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hluchavka skvrnitá",
+      "values": [
+        "Česko",
+        "Brazílie",
+        "Mongolsko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Přeslička lesní",
+      "values": [
+        "Česko",
+        "Mongolsko",
+        "Madagaskar",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Povijnice nachová",
+      "values": [
+        "Austrálie",
+        "Brazílie",
+        "Nový Zéland",
+        "Mexiko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lapacho",
+      "values": [
+        "Brazílie",
+        "Austrálie",
+        "Madagaskar",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Drchnička rolní",
+      "values": [
+        "Austrálie",
+        "Madagaskar",
+        "Nový Zéland",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aksamitník rozkladitý",
+      "values": [
+        "Mexiko",
+        "Brazílie",
+        "Mongolsko",
+        "Česko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

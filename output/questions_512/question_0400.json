@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistku?",
+  "questions": [
+    {
+      "key": "Barbora Krejčíková",
+      "values": [
+        "tuniskou",
+        "českou",
+        "argentinskou",
+        "kanadskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lucie Šafářová",
+      "values": [
+        "českou",
+        "běloruskou",
+        "dánskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Elina Svitolinová",
+      "values": [
+        "ukrajinskou",
+        "polskou",
+        "španělskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Billie Jean Kingová",
+      "values": [
+        "německou",
+        "americkou",
+        "švýcarskou",
+        "běloruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martina Hingisová",
+      "values": [
+        "švýcarskou",
+        "americkou",
+        "tuniskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Viktoria Azarenková",
+      "values": [
+        "slovenskou",
+        "kanadskou",
+        "běloruskou",
+        "dánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marina Stakusicová",
+      "values": [
+        "kanadskou",
+        "španělskou",
+        "ruskou",
+        "československou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miriam Kolodziejová",
+      "values": [
+        "českou",
+        "australskou",
+        "švýcarskou",
+        "lotyšskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paula Badosová",
+      "values": [
+        "řeckou",
+        "českou",
+        "německou",
+        "španělskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Margaret Courtová",
+      "values": [
+        "kanadskou",
+        "australskou",
+        "polskou",
+        "československou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

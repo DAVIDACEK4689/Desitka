@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle historického území",
+  "questions": [
+    {
+      "key": "Kréta",
+      "values": [
+        "Rusko",
+        "Španělsko",
+        "Řecko",
+        "Írán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andalusie",
+      "values": [
+        "Írán",
+        "Rakousko",
+        "Rumunsko",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Burgundsko",
+      "values": [
+        "Rusko",
+        "Itálie",
+        "Rakousko",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chebsko",
+      "values": [
+        "Rusko",
+        "Česko",
+        "Itálie",
+        "Belgie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Slavonie",
+      "values": [
+        "Španělsko",
+        "Chorvatsko",
+        "Francie",
+        "Rumunsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Attika",
+      "values": [
+        "Belgie",
+        "Řecko",
+        "Itálie",
+        "Chorvatsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Médie",
+      "values": [
+        "Rusko",
+        "Rumunsko",
+        "Írán",
+        "Slovensko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Šariš",
+      "values": [
+        "Slovensko",
+        "Řecko",
+        "Chorvatsko",
+        "Španělsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Transvaal",
+      "values": [
+        "Slovinsko",
+        "Lotyšsko",
+        "Jihoafrická republika",
+        "Írán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Furlansko",
+      "values": [
+        "Belgie",
+        "Česko",
+        "Itálie",
+        "Chorvatsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

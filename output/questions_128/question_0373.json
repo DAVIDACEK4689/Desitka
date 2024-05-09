@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Tři oříšky pro Popelku",
+      "values": [
+        "František Vláčil",
+        "Dušan Klein",
+        "Václav Vorlíček",
+        "Jan Schmidt"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Za vším hledej ženu",
+      "values": [
+        "Bořivoj Zeman",
+        "Miloslav Šmídmajer",
+        "Jaroslav Papoušek",
+        "Karel Steklý"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bouřlivé víno",
+      "values": [
+        "Jindřich Polák",
+        "Václav Vorlíček",
+        "Tomáš Bařina",
+        "Ladislav Rychman"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Muži v naději",
+      "values": [
+        "Bořivoj Zeman",
+        "Jiří Vejdělek",
+        "Karel Steklý",
+        "Zdeněk Troška"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nejistá sezóna",
+      "values": [
+        "Karel Zeman",
+        "Ladislav Smoljak",
+        "Otakar Vávra",
+        "František Vláčil"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oznamuje se láskám vašim",
+      "values": [
+        "Karel Kachyňa",
+        "Jan Němec",
+        "Tomáš Vorel",
+        "Václav Krška"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "František je děvkař",
+      "values": [
+        "Evald Schorm",
+        "Zdeněk Troška",
+        "Roman Vávra",
+        "Jan Prušinovský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Buldoci a třešně",
+      "values": [
+        "Jindřich Honzl",
+        "Juraj Herz",
+        "Roman Vávra",
+        "Karel Steklý"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bony a klid 2",
+      "values": [
+        "Vít Olmer",
+        "Jan Hřebejk",
+        "Jan Prušinovský",
+        "Karel Smyczek"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Neporažení",
+      "values": [
+        "Miloš Forman",
+        "Martin Horský",
+        "Juraj Herz",
+        "Jiří Sequens"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Soluň",
+      "values": [
+        "Řecko",
+        "Ázerbájdžán",
+        "Ukrajina",
+        "Švýcarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tallinn",
+      "values": [
+        "Brazílie",
+        "Estonsko",
+        "Jemen",
+        "Ukrajina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lagos",
+      "values": [
+        "Uruguay",
+        "Ekvádor",
+        "Nigérie",
+        "Saúdská Arábie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cherson",
+      "values": [
+        "Argentina",
+        "Ukrajina",
+        "Lotyšsko",
+        "Jordánsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tanger",
+      "values": [
+        "Nigérie",
+        "Indie",
+        "Surinam",
+        "Maroko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ejlat",
+      "values": [
+        "Indonésie",
+        "Izrael",
+        "Kolumbie",
+        "Egypt"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Brindisi",
+      "values": [
+        "Itálie",
+        "Albánie",
+        "Jemen",
+        "Jordánsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fortaleza",
+      "values": [
+        "Belgie",
+        "Libanon",
+        "Brazílie",
+        "Izrael"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Parga",
+      "values": [
+        "Chorvatsko",
+        "Maroko",
+        "Kypr",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cuxhaven",
+      "values": [
+        "Libye",
+        "Německo",
+        "Uruguay",
+        "Kypr"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

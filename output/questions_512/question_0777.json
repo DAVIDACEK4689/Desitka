@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Hamburk",
+      "values": [
+        "Ázerbájdžán",
+        "Belgie",
+        "Německo",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marseille",
+      "values": [
+        "Lotyšsko",
+        "Turecko",
+        "Japonsko",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alicante",
+      "values": [
+        "Gruzie",
+        "Švédsko",
+        "Ázerbájdžán",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rotterdam",
+      "values": [
+        "Libanon",
+        "Tanzanie",
+        "Brazílie",
+        "Nizozemsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Trogir",
+      "values": [
+        "Libanon",
+        "Slovinsko",
+        "Španělsko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Piran",
+      "values": [
+        "Slovinsko",
+        "Bulharsko",
+        "Indonésie",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Šibenik",
+      "values": [
+        "Chorvatsko",
+        "Belgie",
+        "Albánie",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cannes",
+      "values": [
+        "Francie",
+        "Kypr",
+        "Malta",
+        "Řecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Salerno",
+      "values": [
+        "Tanzanie",
+        "Japonsko",
+        "Indonésie",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vigo",
+      "values": [
+        "Španělsko",
+        "Jordánsko",
+        "Gruzie",
+        "Albánie"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

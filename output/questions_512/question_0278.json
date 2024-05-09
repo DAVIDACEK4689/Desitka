@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Erich Maria Remarque",
+      "values": [
+        "německého",
+        "irského",
+        "amerického",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bratři Grimmové",
+      "values": [
+        "německého",
+        "francouzského",
+        "kolumbijského",
+        "izraelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vilém Mrštík",
+      "values": [
+        "srbského",
+        "brazilského",
+        "českého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaroslav Pížl",
+      "values": [
+        "dánského",
+        "kanadského",
+        "brazilského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaroslav Rudiš",
+      "values": [
+        "ukrajinského",
+        "britského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pavel Josef Šafařík",
+      "values": [
+        "španělského",
+        "francouzského",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Pelc",
+      "values": [
+        "švýcarského",
+        "izraelského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jon Fosse",
+      "values": [
+        "irského",
+        "polského",
+        "norského",
+        "vietnamského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Wilbur Smith",
+      "values": [
+        "španělského",
+        "irského",
+        "jihoafrického",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Thomas King",
+      "values": [
+        "kanadského",
+        "britského",
+        "rakouského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

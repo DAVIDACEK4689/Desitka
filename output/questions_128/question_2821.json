@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filozofa?",
+  "questions": [
+    {
+      "key": "Ján Jesenský",
+      "values": [
+        "francouzského",
+        "českého",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bertrand Russell",
+      "values": [
+        "britského",
+        "finského",
+        "nizozemského",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jürgen Habermas",
+      "values": [
+        "egyptského",
+        "bulharského",
+        "ruského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Matej Bel",
+      "values": [
+        "amerického",
+        "slovenského",
+        "srbského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Michálek Bartoš",
+      "values": [
+        "brazilského",
+        "českého",
+        "italského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Antonio Negri",
+      "values": [
+        "italského",
+        "švédského",
+        "bulharského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David Graeber",
+      "values": [
+        "byzantského",
+        "finského",
+        "bulharského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Současná filozofie v Česku",
+      "values": [
+        "řeckého",
+        "maďarského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Benedetto Croce",
+      "values": [
+        "australského",
+        "italského",
+        "ruského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gennadios Scholarios",
+      "values": [
+        "španělského",
+        "sovětského",
+        "švédského",
+        "byzantského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

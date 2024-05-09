@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filantropa?",
+  "questions": [
+    {
+      "key": "Avicii",
+      "values": [
+        "německého",
+        "švédského",
+        "portugalského",
+        "ázerbájdžánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michal Horáček",
+      "values": [
+        "polského",
+        "německého",
+        "českého",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sam Altman",
+      "values": [
+        "amerického",
+        "švýcarského",
+        "ukrajinského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Andrew Carnegie",
+      "values": [
+        "ázerbájdžánského",
+        "portugalského",
+        "polského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Libor Winkler",
+      "values": [
+        "amerického",
+        "českého",
+        "švýcarského",
+        "ázerbájdžánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Hausenblas",
+      "values": [
+        "slovenského",
+        "švýcarského",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Peter Thiel",
+      "values": [
+        "amerického",
+        "německého",
+        "českého",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Charles Gad Strasser",
+      "values": [
+        "švédského",
+        "dánského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mary Anne MacLeod Trump",
+      "values": [
+        "ázerbájdžánského",
+        "amerického",
+        "ukrajinského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Markus Näslund",
+      "values": [
+        "slovenského",
+        "českého",
+        "ázerbájdžánského",
+        "švédského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

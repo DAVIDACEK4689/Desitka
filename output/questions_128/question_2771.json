@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kytaristu?",
+  "questions": [
+    {
+      "key": "Ladislav Křížek",
+      "values": [
+        "kanadského",
+        "jihoafrického",
+        "českého",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Radim Hladík",
+      "values": [
+        "norského",
+        "českého",
+        "finského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Robert Nebřenský",
+      "values": [
+        "českého",
+        "dánského",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gary Moore",
+      "values": [
+        "finského",
+        "dánského",
+        "irského",
+        "jamajského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dexter Holland",
+      "values": [
+        "jihoafrického",
+        "amerického",
+        "švédského",
+        "argentinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andi Deris",
+      "values": [
+        "nizozemského",
+        "jihoafrického",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ted Nugent",
+      "values": [
+        "norského",
+        "australského",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kiko Loureiro",
+      "values": [
+        "brazilského",
+        "norského",
+        "amerického",
+        "argentinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Přikryl",
+      "values": [
+        "nizozemského",
+        "australského",
+        "českého",
+        "brazilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Pešata",
+      "values": [
+        "irského",
+        "australského",
+        "českého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

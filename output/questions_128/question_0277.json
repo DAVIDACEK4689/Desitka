@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte autora podle písně",
+  "questions": [
+    {
+      "key": "Bohemian Rhapsody",
+      "values": [
+        "Lou Reed",
+        "Freddie Mercury",
+        "Brian May",
+        "Roger Taylor"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "I Want It All",
+      "values": [
+        "Brian May",
+        "Freddie Mercury",
+        "Lou Reed",
+        "Roger Taylor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "We Will Rock You",
+      "values": [
+        "Lou Reed",
+        "Freddie Mercury",
+        "Roger Taylor",
+        "Brian May"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "We Are the Champions",
+      "values": [
+        "Freddie Mercury",
+        "Brian May",
+        "Lou Reed",
+        "Roger Taylor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "These Are the Days of Our Lives",
+      "values": [
+        "Freddie Mercury",
+        "Roger Taylor",
+        "Lou Reed",
+        "Brian May"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Radio Ga Ga",
+      "values": [
+        "Roger Taylor",
+        "Brian May",
+        "Freddie Mercury",
+        "Lou Reed"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Perfect Day",
+      "values": [
+        "Freddie Mercury",
+        "Roger Taylor",
+        "Lou Reed",
+        "Brian May"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Crazy Little Thing Called Love",
+      "values": [
+        "Roger Taylor",
+        "Lou Reed",
+        "Brian May",
+        "Freddie Mercury"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Too Much Love Will Kill You",
+      "values": [
+        "Lou Reed",
+        "Roger Taylor",
+        "Brian May",
+        "Freddie Mercury"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Who Wants to Live Forever",
+      "values": [
+        "Roger Taylor",
+        "Lou Reed",
+        "Freddie Mercury",
+        "Brian May"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

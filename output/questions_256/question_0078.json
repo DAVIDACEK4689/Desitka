@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte sport podle švýcarského sportovce",
+  "questions": [
+    {
+      "key": "Roger Federer",
+      "values": [
+        "lední hokejista",
+        "fotbalista",
+        "tenista",
+        "cyklista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kevin Fiala",
+      "values": [
+        "fotbalista",
+        "lední hokejista",
+        "horolezec",
+        "tenista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stan Wawrinka",
+      "values": [
+        "lední hokejista",
+        "cyklista",
+        "fotbalista",
+        "tenista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ueli Steck",
+      "values": [
+        "tenista",
+        "horolezec",
+        "cyklista",
+        "lední hokejista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andres Ambühl",
+      "values": [
+        "lední hokejista",
+        "fotbalista",
+        "cyklista",
+        "tenista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nino Schurter",
+      "values": [
+        "horolezec",
+        "cyklista",
+        "tenista",
+        "lední hokejista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gino Mäder",
+      "values": [
+        "tenista",
+        "cyklista",
+        "horolezec",
+        "lední hokejista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivan Rakitić",
+      "values": [
+        "cyklista",
+        "lední hokejista",
+        "fotbalista",
+        "tenista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dani Arnold",
+      "values": [
+        "horolezec",
+        "cyklista",
+        "fotbalista",
+        "lední hokejista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert Mayer",
+      "values": [
+        "horolezec",
+        "cyklista",
+        "fotbalista",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebníka?",
+  "questions": [
+    {
+      "key": "Macaulay Culkin",
+      "values": [
+        "švédského",
+        "jugoslávského",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Will Smith",
+      "values": [
+        "brazilského",
+        "amerického",
+        "švédského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jeremy Renner",
+      "values": [
+        "rakouského",
+        "jihokorejského",
+        "amerického",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bobby Farrell",
+      "values": [
+        "rakouského",
+        "arménského",
+        "jugoslávského",
+        "nizozemského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Herbert von Karajan",
+      "values": [
+        "ukrajinského",
+        "brazilského",
+        "portorického",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hozier",
+      "values": [
+        "irského",
+        "německého",
+        "bulharského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Svatá Cecilie",
+      "values": [
+        "italského",
+        "japonského",
+        "francouzského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miroslav Leicht",
+      "values": [
+        "řeckého",
+        "českého",
+        "španělského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Yung Lean",
+      "values": [
+        "českého",
+        "švédského",
+        "švýcarského",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alan Parsons",
+      "values": [
+        "řeckého",
+        "kanadského",
+        "britského",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

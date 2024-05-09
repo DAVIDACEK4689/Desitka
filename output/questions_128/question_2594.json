@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] leteckého výrobce?",
+  "questions": [
+    {
+      "key": "Praga",
+      "values": [
+        "českého",
+        "francouzského",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Messerschmitt",
+      "values": [
+        "izraelského",
+        "německého",
+        "ruského",
+        "čínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "BAE Systems",
+      "values": [
+        "českého",
+        "sovětského",
+        "izraelského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Letov",
+      "values": [
+        "českého",
+        "amerického",
+        "německého",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Airbus Group",
+      "values": [
+        "německého",
+        "českého",
+        "francouzského",
+        "čínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Junkers",
+      "values": [
+        "německého",
+        "ruského",
+        "nizozemského",
+        "izraelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Henschel",
+      "values": [
+        "britského",
+        "německého",
+        "francouzského",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Northrop",
+      "values": [
+        "ruského",
+        "čínského",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Arado",
+      "values": [
+        "izraelského",
+        "čínského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Convair",
+      "values": [
+        "ruského",
+        "nizozemského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

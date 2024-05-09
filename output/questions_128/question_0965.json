@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalového trenéra?",
+  "questions": [
+    {
+      "key": "Jan Koller",
+      "values": [
+        "brazilského",
+        "italského",
+        "českého",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Xavi",
+      "values": [
+        "španělského",
+        "rakouského",
+        "uruguayského",
+        "anglického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Frýdek",
+      "values": [
+        "švédského",
+        "portugalského",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roman Skuhravý",
+      "values": [
+        "německého",
+        "belgického",
+        "českého",
+        "argentinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hernán Crespo",
+      "values": [
+        "portugalského",
+        "tureckého",
+        "argentinského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oldřich Nejedlý",
+      "values": [
+        "amerického",
+        "francouzského",
+        "československého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zdeněk Psotka",
+      "values": [
+        "bulharského",
+        "uruguayského",
+        "chilského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Milan Tošnar",
+      "values": [
+        "mexického",
+        "chorvatského",
+        "československého",
+        "brazilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dick Advocaat",
+      "values": [
+        "portugalského",
+        "norského",
+        "chorvatského",
+        "nizozemského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Čuhel",
+      "values": [
+        "uruguayského",
+        "dánského",
+        "anglického",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

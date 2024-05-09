@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] ledního hokejistu?",
+  "questions": [
+    {
+      "key": "David Krejčí",
+      "values": [
+        "finského",
+        "českého",
+        "švýcarského",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Nečas",
+      "values": [
+        "slovinského",
+        "rakouského",
+        "českého",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luděk Čajka",
+      "values": [
+        "amerického",
+        "československého",
+        "slovenského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miloš Říha",
+      "values": [
+        "českého",
+        "československého",
+        "slovinského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Milan Lucic",
+      "values": [
+        "německého",
+        "kanadského",
+        "sovětského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Patrick Kane",
+      "values": [
+        "amerického",
+        "československého",
+        "švýcarského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Terry Sawchuk",
+      "values": [
+        "slovinského",
+        "českého",
+        "kanadského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aribert Heim",
+      "values": [
+        "sovětského",
+        "německého",
+        "ruského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jakub Kovář",
+      "values": [
+        "amerického",
+        "slovinského",
+        "českého",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Keith Tkachuk",
+      "values": [
+        "amerického",
+        "sovětského",
+        "ruského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

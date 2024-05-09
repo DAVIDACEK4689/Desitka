@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle premiéra",
+  "questions": [
+    {
+      "key": "Petr Fiala",
+      "values": [
+        "Švédsko",
+        "Jihoafrická republika",
+        "Česko",
+        "Japonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Recep Tayyip Erdoğan",
+      "values": [
+        "Ázerbájdžán",
+        "Dánsko",
+        "Turecko",
+        "Izrael"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vojtech Tuka",
+      "values": [
+        "Slovensko",
+        "Nizozemsko",
+        "Turecko",
+        "Švédsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gordon Brown",
+      "values": [
+        "Spojené království",
+        "Španělsko",
+        "Norsko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Raymond Poincaré",
+      "values": [
+        "Francie",
+        "Rusko",
+        "Bulharsko",
+        "Kosovo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mario Draghi",
+      "values": [
+        "Senegal",
+        "Maroko",
+        "Itálie",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lee Hsien Loong",
+      "values": [
+        "Polsko",
+        "Bangladéš",
+        "Srbsko",
+        "Singapur"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bojko Borisov",
+      "values": [
+        "Singapur",
+        "Turecko",
+        "Indonésie",
+        "Bulharsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jerzy Buzek",
+      "values": [
+        "Polsko",
+        "Singapur",
+        "Švédsko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Armand Fallières",
+      "values": [
+        "Francie",
+        "Island",
+        "Portugalsko",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

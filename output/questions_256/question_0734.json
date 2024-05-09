@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] astrologa?",
+  "questions": [
+    {
+      "key": "Galileo Galilei",
+      "values": [
+        "českého",
+        "francouzského",
+        "italského",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Johannes Kepler",
+      "values": [
+        "francouzského",
+        "německého",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tycho Brahe",
+      "values": [
+        "německého",
+        "dánského",
+        "českého",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Antonín Baudyš",
+      "values": [
+        "německého",
+        "dánského",
+        "irského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nostradamus",
+      "values": [
+        "dánského",
+        "francouzského",
+        "českého",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Antonín Baudyš mladší",
+      "values": [
+        "dánského",
+        "italského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Kefer",
+      "values": [
+        "německého",
+        "českého",
+        "italského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "William Butler Yeats",
+      "values": [
+        "českého",
+        "německého",
+        "irského",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tommaso Campanella",
+      "values": [
+        "italského",
+        "irského",
+        "dánského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Weinfurter",
+      "values": [
+        "francouzského",
+        "českého",
+        "italského",
+        "irského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Vladimír Mišík",
+      "values": [
+        "norského",
+        "islandského",
+        "českého",
+        "moldavského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karol Duchoň",
+      "values": [
+        "moldavského",
+        "slovenského",
+        "argentinského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zdeněk Rytíř",
+      "values": [
+        "českého",
+        "jamajského",
+        "sovětského",
+        "jihokorejského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Joe Jonas",
+      "values": [
+        "australského",
+        "portorického",
+        "amerického",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Varg Vikernes",
+      "values": [
+        "jihokorejského",
+        "belgického",
+        "norského",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pepa Nos",
+      "values": [
+        "českého",
+        "německého",
+        "skotského",
+        "kolumbijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eric Adams",
+      "values": [
+        "slovenského",
+        "amerického",
+        "rumunského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavel Černocký",
+      "values": [
+        "ruského",
+        "českého",
+        "švýcarského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Harich",
+      "values": [
+        "jihoafrického",
+        "slovenského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Rímský",
+      "values": [
+        "švédského",
+        "skotského",
+        "irského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

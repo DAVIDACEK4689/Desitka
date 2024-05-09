@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Jáhly",
+      "values": [
+        "vietnamskou",
+        "ruskou",
+        "arabskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Foie gras",
+      "values": [
+        "japonskou",
+        "arabskou",
+        "francouzskou",
+        "anglickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Španělská kuchyně",
+      "values": [
+        "švédskou",
+        "středomořskou",
+        "francouzskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jitrnice",
+      "values": [
+        "arabskou",
+        "českou",
+        "balkánskou",
+        "islandskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kari koření",
+      "values": [
+        "arménskou",
+        "francouzskou",
+        "indickou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Boloňská omáčka",
+      "values": [
+        "švédskou",
+        "brazilskou",
+        "italskou",
+        "korejskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rizoto",
+      "values": [
+        "středomořskou",
+        "italskou",
+        "brazilskou",
+        "slovenskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Minestrone",
+      "values": [
+        "rakouskou",
+        "italskou",
+        "japonskou",
+        "korejskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cikorka",
+      "values": [
+        "českou",
+        "italskou",
+        "francouzskou",
+        "polskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chorizo",
+      "values": [
+        "balkánskou",
+        "židovskou",
+        "španělskou",
+        "skotskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

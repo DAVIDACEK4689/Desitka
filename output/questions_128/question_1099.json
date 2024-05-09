@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [národnost] komunistu?",
+  "questions": [
+    {
+      "key": "Leonid Iljič Brežněv",
+      "values": [
+        "maďarského",
+        "italského",
+        "portugalského",
+        "sovětského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dean Reed",
+      "values": [
+        "kambodžského",
+        "československého",
+        "jugoslávského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "János Kádár",
+      "values": [
+        "maďarského",
+        "italského",
+        "rumunského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Walter Benjamin",
+      "values": [
+        "německého",
+        "španělského",
+        "bulharského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Antonín Janoušek",
+      "values": [
+        "sovětského",
+        "maďarského",
+        "italského",
+        "moldavského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Võ Nguyên Giáp",
+      "values": [
+        "chilského",
+        "řeckého",
+        "vietnamského",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Curzio Malaparte",
+      "values": [
+        "rumunského",
+        "slovenského",
+        "nizozemského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Borut Pahor",
+      "values": [
+        "ázerbájdžánského",
+        "jugoslávského",
+        "německého",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jorge Amado",
+      "values": [
+        "italského",
+        "chilského",
+        "brazilského",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Paul Robeson",
+      "values": [
+        "českého",
+        "jugoslávského",
+        "amerického",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

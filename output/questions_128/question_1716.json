@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle premiéra",
+  "questions": [
+    {
+      "key": "Petr Pithart",
+      "values": [
+        "Česko",
+        "Španělsko",
+        "Lotyšsko",
+        "Austrálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jicchak Rabin",
+      "values": [
+        "Izrael",
+        "Bulharsko",
+        "Rumunsko",
+        "Kosovo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michail Mišustin",
+      "values": [
+        "Pákistán",
+        "Česko",
+        "Rusko",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aldo Moro",
+      "values": [
+        "Rumunsko",
+        "Afghánistán",
+        "Ázerbájdžán",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sergej Kirijenko",
+      "values": [
+        "Moldavsko",
+        "Rusko",
+        "Irák",
+        "Gruzie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Levi Eškol",
+      "values": [
+        "Maroko",
+        "Afghánistán",
+        "Izrael",
+        "Estonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Janez Janša",
+      "values": [
+        "Egypt",
+        "Slovinsko",
+        "Malajsie",
+        "Norsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Celâl Bayar",
+      "values": [
+        "Egypt",
+        "Jihoafrická republika",
+        "Česko",
+        "Turecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tony Abbott",
+      "values": [
+        "Grónsko",
+        "Afghánistán",
+        "Austrálie",
+        "Srbsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kārlis Ulmanis",
+      "values": [
+        "Rusko",
+        "Bulharsko",
+        "Lotyšsko",
+        "Irsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

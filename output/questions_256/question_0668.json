@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistku?",
+  "questions": [
+    {
+      "key": "Karolína Muchová",
+      "values": [
+        "českou",
+        "tuniskou",
+        "australskou",
+        "belgickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Linda Nosková",
+      "values": [
+        "francouzskou",
+        "belgickou",
+        "dánskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Maria Šarapovová",
+      "values": [
+        "španělskou",
+        "ruskou",
+        "lotyšskou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sandra Kleinová",
+      "values": [
+        "španělskou",
+        "lotyšskou",
+        "českou",
+        "slovenskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nicole Vaidišová",
+      "values": [
+        "srbskou",
+        "belgickou",
+        "českou",
+        "německou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ashleigh Bartyová",
+      "values": [
+        "rakouskou",
+        "britskou",
+        "lotyšskou",
+        "australskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Donna Vekićová",
+      "values": [
+        "polskou",
+        "ukrajinskou",
+        "chorvatskou",
+        "australskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Danielle Collinsová",
+      "values": [
+        "rakouskou",
+        "španělskou",
+        "americkou",
+        "kanadskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anna Karolína Schmiedlová",
+      "values": [
+        "československou",
+        "tuniskou",
+        "slovenskou",
+        "australskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bianca Andreescuová",
+      "values": [
+        "kanadskou",
+        "britskou",
+        "rumunskou",
+        "španělskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

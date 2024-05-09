@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Miklós Fehér",
+      "values": [
+        "chorvatského",
+        "kostarického",
+        "francouzského",
+        "maďarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gianluca Vialli",
+      "values": [
+        "polského",
+        "italského",
+        "argentinského",
+        "mongolského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Arjen Robben",
+      "values": [
+        "dánského",
+        "nizozemského",
+        "irského",
+        "uruguayského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zdenko Frťala",
+      "values": [
+        "slovenského",
+        "chilského",
+        "skotského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lothar Matthäus",
+      "values": [
+        "kosovského",
+        "kamerunského",
+        "uruguayského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Manuel Pellegrini",
+      "values": [
+        "chilského",
+        "maďarského",
+        "rumunského",
+        "kosovského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jürgen Klinsmann",
+      "values": [
+        "baskického",
+        "norského",
+        "německého",
+        "kamerunského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marek Červenka",
+      "values": [
+        "slovinského",
+        "nizozemského",
+        "chorvatského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "John William Madden",
+      "values": [
+        "italského",
+        "skotského",
+        "rumunského",
+        "baskického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rodrygo",
+      "values": [
+        "řeckého",
+        "irského",
+        "nizozemského",
+        "brazilského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Jožo Ráž",
+      "values": [
+        "norského",
+        "slovenského",
+        "německého",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mikolas Josef",
+      "values": [
+        "izraelského",
+        "brazilského",
+        "belgického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Luboš Pospíšil",
+      "values": [
+        "finského",
+        "českého",
+        "maďarského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Neil Patrick Harris",
+      "values": [
+        "finského",
+        "amerického",
+        "australského",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marvin Gaye",
+      "values": [
+        "kolumbijského",
+        "amerického",
+        "rumunského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Motýl",
+      "values": [
+        "rumunského",
+        "italského",
+        "českého",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stefán Karl Stefánson",
+      "values": [
+        "islandského",
+        "nizozemského",
+        "chorvatského",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karelll",
+      "values": [
+        "českého",
+        "amerického",
+        "maďarského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavel Režný",
+      "values": [
+        "českého",
+        "španělského",
+        "rumunského",
+        "islandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Grigory Leps",
+      "values": [
+        "ruského",
+        "amerického",
+        "argentinského",
+        "finského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

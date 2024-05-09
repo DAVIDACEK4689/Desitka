@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle českého sportovce",
+  "questions": [
+    {
+      "key": "Petr Korda",
+      "values": [
+        "lyžař",
+        "kanoista",
+        "tenista",
+        "jezdec"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Milan Michálek",
+      "values": [
+        "rychlostní kanoista",
+        "kanoista",
+        "lední hokejista",
+        "cyklista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Filip Kuba",
+      "values": [
+        "squashisté",
+        "horolezec",
+        "lední hokejista",
+        "volejbalista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bronislav Červenka",
+      "values": [
+        "fotbalista",
+        "basketbalista",
+        "pozemní hokejista",
+        "squashisté"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Václav Chalupa",
+      "values": [
+        "kajakář",
+        "sportovní střelec",
+        "veslař",
+        "kanoista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Klub ligových brankářů",
+      "values": [
+        "fotbalista",
+        "plavec",
+        "squashisté",
+        "cyklista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Reginald Czermack",
+      "values": [
+        "stolní tenista",
+        "horolezec",
+        "cyklista",
+        "veslař"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Arnold Kadlec",
+      "values": [
+        "fotbalista",
+        "bojový umělec",
+        "lyžař",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jakub Orsava",
+      "values": [
+        "automobilový závodník",
+        "zápasník",
+        "kajakář",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kamil Kašťák",
+      "values": [
+        "sportovní střelec",
+        "golfista",
+        "cyklista",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

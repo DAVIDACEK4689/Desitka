@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filozofa?",
+  "questions": [
+    {
+      "key": "George Soros",
+      "values": [
+        "perského",
+        "amerického",
+        "dánského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Egon Bondy",
+      "values": [
+        "perského",
+        "českého",
+        "nizozemského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ján Jesenský",
+      "values": [
+        "amerického",
+        "českého",
+        "nizozemského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Friedrich Engels",
+      "values": [
+        "amerického",
+        "německého",
+        "britského",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Baruch Spinoza",
+      "values": [
+        "švýcarského",
+        "amerického",
+        "nizozemského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Václav Černý",
+      "values": [
+        "indického",
+        "slovenského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "John Stuart Mill",
+      "values": [
+        "italského",
+        "francouzského",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Johann Friedrich Herbart",
+      "values": [
+        "českého",
+        "dánského",
+        "německého",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miroslav Petříček",
+      "values": [
+        "francouzského",
+        "řeckého",
+        "švýcarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Matocha",
+      "values": [
+        "švýcarského",
+        "perského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

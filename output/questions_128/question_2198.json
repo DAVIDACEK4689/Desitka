@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] zpěvačku?",
+  "questions": [
+    {
+      "key": "Monika Bagárová",
+      "values": [
+        "židovskou",
+        "romskou",
+        "velšskou",
+        "skotskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Barbra Streisandová",
+      "values": [
+        "židovskou",
+        "skotskou",
+        "romskou",
+        "velšskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zoë Kravitzová",
+      "values": [
+        "židovskou",
+        "romskou",
+        "skotskou",
+        "velšskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Charlotte Gainsbourgová",
+      "values": [
+        "velšskou",
+        "židovskou",
+        "romskou",
+        "skotskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cass Elliot",
+      "values": [
+        "židovskou",
+        "skotskou",
+        "romskou",
+        "velšskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ida Kelarová",
+      "values": [
+        "romskou",
+        "skotskou",
+        "velšskou",
+        "židovskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ofra Haza",
+      "values": [
+        "židovskou",
+        "velšskou",
+        "skotskou",
+        "romskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rashida Jones",
+      "values": [
+        "židovskou",
+        "skotskou",
+        "romskou",
+        "velšskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Amy MacDonaldová",
+      "values": [
+        "skotskou",
+        "romskou",
+        "židovskou",
+        "velšskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Idina Menzel",
+      "values": [
+        "skotskou",
+        "velšskou",
+        "židovskou",
+        "romskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

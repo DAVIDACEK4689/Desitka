@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] leteckou společnost?",
+  "questions": [
+    {
+      "key": "Wizz Air",
+      "values": [
+        "českou",
+        "irskou",
+        "švýcarskou",
+        "maďarskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lauda Air",
+      "values": [
+        "britskou",
+        "maďarskou",
+        "rakouskou",
+        "českou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Delta Air Lines",
+      "values": [
+        "rakouskou",
+        "americkou",
+        "katarskou",
+        "německou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aeroflot",
+      "values": [
+        "severokorejskou",
+        "ruskou",
+        "německou",
+        "rakouskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "El Al",
+      "values": [
+        "ruskou",
+        "katarskou",
+        "izraelskou",
+        "tureckou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "United Airlines",
+      "values": [
+        "španělskou",
+        "americkou",
+        "tureckou",
+        "rakouskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Air Koryo",
+      "values": [
+        "severokorejskou",
+        "řeckou",
+        "španělskou",
+        "českou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Air Serbia",
+      "values": [
+        "českou",
+        "německou",
+        "severokorejskou",
+        "srbskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "AirBaltic",
+      "values": [
+        "lotyšskou",
+        "maďarskou",
+        "španělskou",
+        "polskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ethiopian Airlines",
+      "values": [
+        "rakouskou",
+        "britskou",
+        "maďarskou",
+        "etiopskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

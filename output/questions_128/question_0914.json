@@ -1,0 +1,105 @@
+{
+  "text": "Určete bojiště podle bitvy",
+  "questions": [
+    {
+      "key": "Operace Overlord",
+      "values": [
+        "Estonsko",
+        "Rakousko",
+        "Francie",
+        "Tunisko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva na Bajkalském jezeře",
+      "values": [
+        "Rusko",
+        "Ukrajina",
+        "Irák",
+        "Senegal"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Bannockburnu",
+      "values": [
+        "Bulharsko",
+        "Irák",
+        "Chorvatsko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Útok na Bělgorodskou oblast",
+      "values": [
+        "Polsko",
+        "Německo",
+        "Rusko",
+        "Indie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva na Las Navas de Tolosa",
+      "values": [
+        "Sasko",
+        "Rumunsko",
+        "Singapur",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Lučence",
+      "values": [
+        "Finsko",
+        "Norsko",
+        "Slovensko",
+        "Srbsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva o Záporoží",
+      "values": [
+        "Pákistán",
+        "Polsko",
+        "Norsko",
+        "Ukrajina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Obléhání Bělehradu",
+      "values": [
+        "Srbsko",
+        "Finsko",
+        "Rumunsko",
+        "Řecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Bratislavy",
+      "values": [
+        "Bělorusko",
+        "Rusko",
+        "Slovensko",
+        "Lotyšsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Belasice",
+      "values": [
+        "Sýrie",
+        "Bulharsko",
+        "Súdán",
+        "Senegal"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

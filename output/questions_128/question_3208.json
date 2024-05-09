@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Legenda o vášni",
+      "values": [
+        "Mel Brooks",
+        "Edward Zwick",
+        "Steven Spielberg",
+        "Garry Marshall"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rocky IV",
+      "values": [
+        "Pete Docter",
+        "Joseph Ruben",
+        "Brian De Palma",
+        "Sylvester Stallone"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Iron Man 3",
+      "values": [
+        "Peter Hyams",
+        "Kevin Costner",
+        "Shane Black",
+        "Roger Kumble"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bezstarostná jízda",
+      "values": [
+        "David Twohy",
+        "Dennis Hopper",
+        "James Mangold",
+        "Alexander Payne"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sestra v akci",
+      "values": [
+        "Kathryn Bigelowová",
+        "Ben Stiller",
+        "George Clooney",
+        "Emile Ardolino"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Taková normální holka",
+      "values": [
+        "Robert Iscove",
+        "Rod Lurie",
+        "Matt Reeves",
+        "Mark Waters"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Půlnoc v Paříži",
+      "values": [
+        "John Schlesinger",
+        "Woody Allen",
+        "Rian Johnson",
+        "Pete Docter"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Disaster Movie",
+      "values": [
+        "Richard Lester",
+        "Godfrey Reggio",
+        "Jason Friedberg a Aaron Seltzer",
+        "Rian Johnson"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Moje tlustá řecká svatba",
+      "values": [
+        "Joel Zwick",
+        "bratři Farrellyové",
+        "John Badham",
+        "Roger Corman"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Co se nepromíjí",
+      "values": [
+        "John Huston",
+        "Robert Zemeckis",
+        "Miloš Forman",
+        "Adam Shankman"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

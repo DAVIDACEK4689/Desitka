@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] generála?",
+  "questions": [
+    {
+      "key": "Ernst Gideon von Laudon",
+      "values": [
+        "rakouského",
+        "českého",
+        "kanadského",
+        "myanmarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rumen Radev",
+      "values": [
+        "bulharského",
+        "amerického",
+        "ukrajinského",
+        "tureckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kašpar Kaplíř ze Sulevic",
+      "values": [
+        "finského",
+        "rakouského",
+        "polského",
+        "albánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Wilhelm von Leeb",
+      "values": [
+        "československého",
+        "španělského",
+        "německého",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hasso von Manteuffel",
+      "values": [
+        "německého",
+        "slovenského",
+        "albánského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hal Moore",
+      "values": [
+        "myanmarského",
+        "švédského",
+        "rumunského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miloš Knorr",
+      "values": [
+        "japonského",
+        "československého",
+        "ukrajinského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lazare Carnot",
+      "values": [
+        "francouzského",
+        "italského",
+        "chorvatského",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Egyd Pepich",
+      "values": [
+        "československého",
+        "maďarského",
+        "chorvatského",
+        "argentinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ruslan Chomčak",
+      "values": [
+        "japonského",
+        "ruského",
+        "ukrajinského",
+        "polského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

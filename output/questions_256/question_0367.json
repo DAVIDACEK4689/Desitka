@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalového trenéra?",
+  "questions": [
+    {
+      "key": "Jindřich Trpišovský",
+      "values": [
+        "českého",
+        "australského",
+        "mexického",
+        "chilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vítězslav Lavička",
+      "values": [
+        "bulharského",
+        "švédského",
+        "českého",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roman Kukleta",
+      "values": [
+        "českého",
+        "slovenského",
+        "španělského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Arsène Wenger",
+      "values": [
+        "brazilského",
+        "francouzského",
+        "irského",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andrea Stramaccioni",
+      "values": [
+        "dánského",
+        "portugalského",
+        "italského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roy Keane",
+      "values": [
+        "italského",
+        "irského",
+        "německého",
+        "československého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gary Neville",
+      "values": [
+        "anglického",
+        "bulharského",
+        "francouzského",
+        "argentinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zico",
+      "values": [
+        "brazilského",
+        "španělského",
+        "bulharského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alessandro Nesta",
+      "values": [
+        "argentinského",
+        "portugalského",
+        "maďarského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Verner Lička",
+      "values": [
+        "slovenského",
+        "chilského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

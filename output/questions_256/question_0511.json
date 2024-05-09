@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebníka?",
+  "questions": [
+    {
+      "key": "Michael Jackson",
+      "values": [
+        "australského",
+        "amerického",
+        "kanadského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Písařík",
+      "values": [
+        "portorického",
+        "kanadského",
+        "českého",
+        "jugoslávského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jáchym Topol",
+      "values": [
+        "indického",
+        "amerického",
+        "chorvatského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Joe Jonas",
+      "values": [
+        "rakouského",
+        "amerického",
+        "arménského",
+        "bulharského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eddie Van Halen",
+      "values": [
+        "portorického",
+        "arménského",
+        "nizozemského",
+        "jihokorejského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kevin Bacon",
+      "values": [
+        "amerického",
+        "australského",
+        "švédského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Liz Mitchell",
+      "values": [
+        "irského",
+        "francouzského",
+        "jamajského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michael Flatley",
+      "values": [
+        "jihokorejského",
+        "rakouského",
+        "amerického",
+        "irského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "John Dolmayan",
+      "values": [
+        "švédského",
+        "arménského",
+        "rakouského",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Richard Pachman",
+      "values": [
+        "španělského",
+        "českého",
+        "rakouského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

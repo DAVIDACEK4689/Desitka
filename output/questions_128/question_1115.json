@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Francesco Petrarca",
+      "values": [
+        "italského",
+        "indického",
+        "španělského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tobiáš Jirous",
+      "values": [
+        "českého",
+        "švédského",
+        "japonského",
+        "perského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavol Országh Hviezdoslav",
+      "values": [
+        "slovenského",
+        "japonského",
+        "polského",
+        "tureckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Torquato Tasso",
+      "values": [
+        "maďarského",
+        "mexického",
+        "italského",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eduard Albert",
+      "values": [
+        "českého",
+        "islandského",
+        "srbského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ivan Jelínek",
+      "values": [
+        "českého",
+        "australského",
+        "anglického",
+        "indického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Joseph von Eichendorff",
+      "values": [
+        "vietnamského",
+        "mexického",
+        "německého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Max Jacob",
+      "values": [
+        "amerického",
+        "francouzského",
+        "albánského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Milan Rúfus",
+      "values": [
+        "chorvatského",
+        "belgického",
+        "polského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Halldór Kiljan Laxness",
+      "values": [
+        "islandského",
+        "vietnamského",
+        "rakouského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle ekonomiky",
+  "questions": [
+    {
+      "key": "SK Slavia Praha",
+      "values": [
+        "Ukrajina",
+        "Keňa",
+        "Japonsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kaizen",
+      "values": [
+        "Japonsko",
+        "Island",
+        "Rakousko",
+        "Dánsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Italská lira",
+      "values": [
+        "Česko",
+        "Itálie",
+        "Ukrajina",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zákon o obchodních korporacích",
+      "values": [
+        "Rakousko",
+        "Mongolsko",
+        "Finsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "CzechInvest",
+      "values": [
+        "Česko",
+        "Německo",
+        "Francie",
+        "Řecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Horalky",
+      "values": [
+        "Dánsko",
+        "Slovensko",
+        "Mongolsko",
+        "Keňa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Asijská finanční krize",
+      "values": [
+        "Jižní Korea",
+        "Německo",
+        "Polsko",
+        "Řecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Síla Sibiře",
+      "values": [
+        "Kubo",
+        "Mongolsko",
+        "Rusko",
+        "Slovensko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fondy EHP a Norska",
+      "values": [
+        "Finsko",
+        "Švédsko",
+        "Island",
+        "Norsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tokijská burza",
+      "values": [
+        "Ukrajina",
+        "Finsko",
+        "Japonsko",
+        "Kubo"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] miliardáře?",
+  "questions": [
+    {
+      "key": "Pavel Tykač",
+      "values": [
+        "českého",
+        "slovenského",
+        "ruského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Howard Hughes",
+      "values": [
+        "českého",
+        "amerického",
+        "ruského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Radovan Vítek",
+      "values": [
+        "českého",
+        "slovenského",
+        "rakouského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Roman Janoušek",
+      "values": [
+        "ruského",
+        "ukrajinského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oprah Winfreyová",
+      "values": [
+        "amerického",
+        "britského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Olga Chabr Grillová",
+      "values": [
+        "slovenského",
+        "českého",
+        "ukrajinského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paul Allen",
+      "values": [
+        "ruského",
+        "britského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rinat Achmetov",
+      "values": [
+        "ukrajinského",
+        "českého",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Aleš Graf",
+      "values": [
+        "českého",
+        "britského",
+        "rakouského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Dienstl",
+      "values": [
+        "ruského",
+        "českého",
+        "ukrajinského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

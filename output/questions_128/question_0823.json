@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Praha",
+      "values": [
+        "Váha",
+        "Seina",
+        "Vltava",
+        "Berounka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Banská Bystrica",
+      "values": [
+        "Spréva",
+        "Sázava",
+        "Loira",
+        "Hron"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zvolen",
+      "values": [
+        "Hron",
+        "Váha",
+        "Lužnice",
+        "Sázava"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Špýr",
+      "values": [
+        "Seina",
+        "Tibera",
+        "Emže",
+        "Rýn"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bubny",
+      "values": [
+        "Hron",
+        "Polenz",
+        "Vltava",
+        "Lužnice"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Günzburg",
+      "values": [
+        "Dunaj",
+        "Rýn",
+        "Berounka",
+        "Lužnice"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nová Pec",
+      "values": [
+        "Volha",
+        "Svratka",
+        "Vltava",
+        "Labe"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rajhradice",
+      "values": [
+        "Loira",
+        "Radbuza",
+        "Svratka",
+        "Sázava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Žehuň",
+      "values": [
+        "Cidlina",
+        "Loira",
+        "Dunaj",
+        "Eufrat"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dříteč",
+      "values": [
+        "Vltava",
+        "Sázava",
+        "Lužnice",
+        "Labe"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

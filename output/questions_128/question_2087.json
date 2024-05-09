@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Benjamin Franklin",
+      "values": [
+        "finského",
+        "chilského",
+        "amerického",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Denys Šmyhal",
+      "values": [
+        "keňského",
+        "ukrajinského",
+        "bulharského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fedor Gál",
+      "values": [
+        "afghánského",
+        "slovenského",
+        "íránského",
+        "etiopského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Walter Schellenberg",
+      "values": [
+        "německého",
+        "marockého",
+        "rakouského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oskar Lafontaine",
+      "values": [
+        "černohorského",
+        "německého",
+        "katarského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lutz Schwerin von Krosigk",
+      "values": [
+        "německého",
+        "slovinského",
+        "maltského",
+        "kubánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Thomas Masterman Hardy",
+      "values": [
+        "ekvádorského",
+        "britského",
+        "singapurského",
+        "turkmenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Samuel Pepys",
+      "values": [
+        "estonského",
+        "anglického",
+        "mexického",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bidzina Ivanišvili",
+      "values": [
+        "gruzínského",
+        "brazilského",
+        "černohorského",
+        "arménského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mojsej Urickij",
+      "values": [
+        "ruského",
+        "vietnamského",
+        "zimbabwského",
+        "lotyšského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

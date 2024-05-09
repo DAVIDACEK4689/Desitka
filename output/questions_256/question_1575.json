@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Karel Gott",
+      "values": [
+        "českého",
+        "australského",
+        "francouzského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Richard Müller",
+      "values": [
+        "slovenského",
+        "kolumbijského",
+        "dánského",
+        "islandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dalibor Gondík",
+      "values": [
+        "ruského",
+        "norského",
+        "jihokorejského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tom Sean",
+      "values": [
+        "slovenského",
+        "nizozemského",
+        "argentinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Melen",
+      "values": [
+        "českého",
+        "norského",
+        "rumunského",
+        "jihokorejského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "František Paul",
+      "values": [
+        "maďarského",
+        "jihokorejského",
+        "irského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gary Moore",
+      "values": [
+        "francouzského",
+        "jihokorejského",
+        "britského",
+        "irského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Cerha",
+      "values": [
+        "českého",
+        "německého",
+        "britského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Timo Tolkki",
+      "values": [
+        "švédského",
+        "jamajského",
+        "finského",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Peter Alexander",
+      "values": [
+        "jihoafrického",
+        "německého",
+        "rakouského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] lékaře?",
+  "questions": [
+    {
+      "key": "Jan Evangelista Purkyně",
+      "values": [
+        "českého",
+        "nizozemského",
+        "čínského",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eduard Haken",
+      "values": [
+        "českého",
+        "irského",
+        "britského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Janusz Korczak",
+      "values": [
+        "polského",
+        "irského",
+        "izraelského",
+        "albánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Leonid Rogozov",
+      "values": [
+        "italského",
+        "britského",
+        "ruského",
+        "čínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Johann Josef Nehr",
+      "values": [
+        "českého",
+        "chilského",
+        "švýcarského",
+        "australského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Samuel Hahnemann",
+      "values": [
+        "albánského",
+        "polského",
+        "kanadského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michal Pohanka",
+      "values": [
+        "českého",
+        "australského",
+        "švédského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Josef Antonín Eleazar Kittel",
+      "values": [
+        "čínského",
+        "švýcarského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marek Slabý",
+      "values": [
+        "japonského",
+        "australského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimír Nosek",
+      "values": [
+        "švýcarského",
+        "českého",
+        "jihoafrického",
+        "italského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

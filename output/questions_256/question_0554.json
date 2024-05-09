@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] hudební skupinu?",
+  "questions": [
+    {
+      "key": "Stray Kids",
+      "values": [
+        "jihokorejskou",
+        "irskou",
+        "bosenskou",
+        "finskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alphaville",
+      "values": [
+        "britskou",
+        "maďarskou",
+        "německou",
+        "irskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sum 41",
+      "values": [
+        "slovinskou",
+        "slovenskou",
+        "švýcarskou",
+        "kanadskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "2Cellos",
+      "values": [
+        "jihoafrickou",
+        "slovenskou",
+        "chorvatskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Les Charlots",
+      "values": [
+        "finskou",
+        "irskou",
+        "německou",
+        "francouzskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Šlapeto",
+      "values": [
+        "americkou",
+        "australskou",
+        "dánskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Talking Heads",
+      "values": [
+        "nizozemskou",
+        "americkou",
+        "švédskou",
+        "irskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "SHINee",
+      "values": [
+        "irskou",
+        "jihoafrickou",
+        "jihokorejskou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Goombay Dance Band",
+      "values": [
+        "irskou",
+        "francouzskou",
+        "německou",
+        "českou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Army of Lovers",
+      "values": [
+        "ruskou",
+        "irskou",
+        "švédskou",
+        "českou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

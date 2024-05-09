@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Tábor",
+      "values": [
+        "Sázava",
+        "Lužnice",
+        "Radbuza",
+        "Dněpr"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hlinsko",
+      "values": [
+        "Chrudimka",
+        "Vltava",
+        "Jizera",
+        "Dyje"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Přeštice",
+      "values": [
+        "Rýn",
+        "Úhlava",
+        "Seina",
+        "Něva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Veverská Bítýška",
+      "values": [
+        "Svratka",
+        "Ploučnice",
+        "Dyje",
+        "Loira"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stod",
+      "values": [
+        "Radbuza",
+        "Mandava",
+        "Něva",
+        "Dyje"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zlatá Koruna",
+      "values": [
+        "Ohře",
+        "Eufrat",
+        "Rýn",
+        "Vltava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Veselý Kopec",
+      "values": [
+        "Chrudimka",
+        "Vltava",
+        "Labe",
+        "Sebnice"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Čop",
+      "values": [
+        "Berounka",
+        "Labe",
+        "Úhlava",
+        "Tis"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Schaffhausen",
+      "values": [
+        "Dněpr",
+        "Lužická Nisa",
+        "Malše",
+        "Rýn"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pisárky",
+      "values": [
+        "Ploučnice",
+        "Tibera",
+        "Svratka",
+        "Radbuza"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

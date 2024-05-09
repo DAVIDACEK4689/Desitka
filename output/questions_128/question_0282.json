@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte pohoří podle přehradní nádrže",
+  "questions": [
+    {
+      "key": "Vodní nádrž Slapy",
+      "values": [
+        "Pražská plošina",
+        "Táborská pahorkatina",
+        "Benešovská pahorkatina",
+        "Novohradské podhůří"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vodní nádrž Pastviny",
+      "values": [
+        "Jizerské hory",
+        "Novohradské podhůří",
+        "Podorlická pahorkatina",
+        "Podbeskydská pahorkatina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vodní nádrž Hostivař",
+      "values": [
+        "Novohradské podhůří",
+        "Pražská plošina",
+        "Drahanská vrchovina",
+        "Podbeskydská pahorkatina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vodní nádrž Vrané",
+      "values": [
+        "Tepelská vrchovina",
+        "Benešovská pahorkatina",
+        "Jizerské hory",
+        "Vizovická vrchovina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vodní nádrž Nýrsko",
+      "values": [
+        "Benešovská pahorkatina",
+        "Pražská plošina",
+        "Šumava",
+        "Mostecká pánev"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vodní nádrž Bedřichov",
+      "values": [
+        "Vizovická vrchovina",
+        "Novohradské podhůří",
+        "Podorlická pahorkatina",
+        "Jizerské hory"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vodní nádrž Mostiště",
+      "values": [
+        "Křižanovská vrchovina",
+        "Jizerské hory",
+        "Hornosázavská pahorkatina",
+        "Vizovická vrchovina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vodní nádrž Hamry",
+      "values": [
+        "Šumava",
+        "Železná hora",
+        "Podorlická pahorkatina",
+        "Drahanská vrchovina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vodní nádrž Džbán",
+      "values": [
+        "Šumava",
+        "Pražská plošina",
+        "Železná hora",
+        "Mostecká pánev"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vodní nádrž Všechlapy",
+      "values": [
+        "Hornosázavská pahorkatina",
+        "Železná hora",
+        "Mostecká pánev",
+        "Drahanská vrchovina"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

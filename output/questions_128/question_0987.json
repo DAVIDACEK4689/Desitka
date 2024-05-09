@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] klavíristu?",
+  "questions": [
+    {
+      "key": "Johannes Brahms",
+      "values": [
+        "finského",
+        "německého",
+        "ruského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Władysław Szpilman",
+      "values": [
+        "polského",
+        "ukrajinského",
+        "norského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tom Odell",
+      "values": [
+        "australského",
+        "slovenského",
+        "kanadského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Little Richard",
+      "values": [
+        "amerického",
+        "ukrajinského",
+        "australského",
+        "finského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Ladislav Dusík",
+      "values": [
+        "rakouského",
+        "australského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "László Benkő",
+      "values": [
+        "finského",
+        "maďarského",
+        "českého",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Khatia Buniatishvili",
+      "values": [
+        "rakouského",
+        "gruzínského",
+        "německého",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Randy Newman",
+      "values": [
+        "německého",
+        "čínského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Richard Clayderman",
+      "values": [
+        "polského",
+        "japonského",
+        "francouzského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hans von Bülow",
+      "values": [
+        "japonského",
+        "německého",
+        "norského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

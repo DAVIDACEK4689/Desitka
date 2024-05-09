@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle hradu",
+  "questions": [
+    {
+      "key": "Alhambra",
+      "values": [
+        "Slovensko",
+        "Španělsko",
+        "Itálie",
+        "Švýcarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hofburg",
+      "values": [
+        "Rakousko",
+        "Francie",
+        "Španělsko",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bratislavský hrad",
+      "values": [
+        "Slovensko",
+        "Rakousko",
+        "Sýrie",
+        "Japonsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Budínský hrad",
+      "values": [
+        "Itálie",
+        "Maďarsko",
+        "Írán",
+        "Japonsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Visegrád",
+      "values": [
+        "Slovinsko",
+        "Japonsko",
+        "Maďarsko",
+        "Irsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Predjamský hrad",
+      "values": [
+        "Irsko",
+        "Slovinsko",
+        "Rakousko",
+        "Sýrie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Krak des Chevaliers",
+      "values": [
+        "Německo",
+        "Španělsko",
+        "Jordánsko",
+        "Sýrie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pevnost Hohensalzburg",
+      "values": [
+        "Rakousko",
+        "Japonsko",
+        "Itálie",
+        "Írán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hohenwerfen",
+      "values": [
+        "Rakousko",
+        "Slovensko",
+        "Itálie",
+        "Německo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chillon",
+      "values": [
+        "Írán",
+        "Sýrie",
+        "Irsko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

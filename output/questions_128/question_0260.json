@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle archeologické lokality",
+  "questions": [
+    {
+      "key": "Pompeje",
+      "values": [
+        "Švýcarsko",
+        "Indonésie",
+        "Jordánsko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ravenna",
+      "values": [
+        "Indonésie",
+        "Česko",
+        "Itálie",
+        "Chorvatsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Persepolis",
+      "values": [
+        "Izrael",
+        "Sýrie",
+        "Jordánsko",
+        "Írán"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mohendžodaro",
+      "values": [
+        "Sýrie",
+        "Chorvatsko",
+        "Pákistán",
+        "Španělsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dubnica nad Váhom",
+      "values": [
+        "Indonésie",
+        "Jordánsko",
+        "Polsko",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Harappa",
+      "values": [
+        "Tunisko",
+        "Švýcarsko",
+        "Jihoafrická republika",
+        "Pákistán"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dendera",
+      "values": [
+        "Německo",
+        "Izrael",
+        "Řecko",
+        "Egypt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Caral",
+      "values": [
+        "Francie",
+        "Ukrajina",
+        "Pero",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Héraion na Samu",
+      "values": [
+        "Německo",
+        "Řecko",
+        "Jordánsko",
+        "Kambodža"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cerveteri",
+      "values": [
+        "Srí Lanka",
+        "Ukrajina",
+        "Španělsko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

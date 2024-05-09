@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] literární dílo?",
+  "questions": [
+    {
+      "key": "Stařec a moře",
+      "values": [
+        "německé",
+        "rakouské",
+        "americké",
+        "anglické"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Muminci",
+      "values": [
+        "české",
+        "rakouské",
+        "nizozemské",
+        "finské"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rukopis zelenohorský",
+      "values": [
+        "velšské",
+        "španělské",
+        "české",
+        "italské"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tak pravil Zarathustra",
+      "values": [
+        "čínské",
+        "německé",
+        "španělské",
+        "rakouské"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Němá barikáda",
+      "values": [
+        "francouzské",
+        "italské",
+        "české",
+        "nizozemské"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Život svaté Kateřiny",
+      "values": [
+        "francouzské",
+        "rakouské",
+        "japonské",
+        "české"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mabinogi",
+      "values": [
+        "japonské",
+        "velšské",
+        "německé",
+        "finské"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sir Gawain a Zelený rytíř",
+      "values": [
+        "anglické",
+        "české",
+        "německé",
+        "francouzské"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kniha pěti kruhů",
+      "values": [
+        "japonské",
+        "ruské",
+        "rakouské",
+        "italské"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zlatá legenda",
+      "values": [
+        "rakouské",
+        "španělské",
+        "německé",
+        "italské"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] matematika?",
+  "questions": [
+    {
+      "key": "Galileo Galilei",
+      "values": [
+        "amerického",
+        "britského",
+        "rakouského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Theodore Kaczynski",
+      "values": [
+        "amerického",
+        "švýcarského",
+        "britského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Johannes Kepler",
+      "values": [
+        "českého",
+        "švýcarského",
+        "britského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Blaise Pascal",
+      "values": [
+        "francouzského",
+        "amerického",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gottfried Wilhelm Leibniz",
+      "values": [
+        "německého",
+        "rakouského",
+        "českého",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "John von Neumann",
+      "values": [
+        "srbského",
+        "maďarského",
+        "českého",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Max Born",
+      "values": [
+        "polského",
+        "ruského",
+        "irského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mileva Marićová",
+      "values": [
+        "švýcarského",
+        "srbského",
+        "německého",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bertrand Russell",
+      "values": [
+        "německého",
+        "polského",
+        "francouzského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Leonhard Euler",
+      "values": [
+        "polského",
+        "italského",
+        "švédského",
+        "švýcarského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

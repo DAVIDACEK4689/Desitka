@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Jaromír Hanzlík",
+      "values": [
+        "jamajského",
+        "českého",
+        "slovenského",
+        "čínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Richard Hes",
+      "values": [
+        "indonéského",
+        "polského",
+        "izraelského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Matěj Forman",
+      "values": [
+        "českého",
+        "jihoafrického",
+        "amerického",
+        "portorického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dan Bilzerian",
+      "values": [
+        "amerického",
+        "norského",
+        "indonéského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mark Keller",
+      "values": [
+        "německého",
+        "čínského",
+        "švédského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vinzenz Kiefer",
+      "values": [
+        "britského",
+        "japonského",
+        "belgického",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Luis Guzmán",
+      "values": [
+        "ukrajinského",
+        "slovenského",
+        "bulharského",
+        "portorického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Hub",
+      "values": [
+        "guatemalského",
+        "českého",
+        "islandského",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Charles Durning",
+      "values": [
+        "sovětského",
+        "australského",
+        "norského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Heinz Weixelbraun",
+      "values": [
+        "srbského",
+        "francouzského",
+        "portorického",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

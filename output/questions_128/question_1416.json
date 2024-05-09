@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalového trenéra?",
+  "questions": [
+    {
+      "key": "Pep Guardiola",
+      "values": [
+        "skotského",
+        "mexického",
+        "rumunského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Pulpit",
+      "values": [
+        "rakouského",
+        "velšského",
+        "chilského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Filippo Inzaghi",
+      "values": [
+        "italského",
+        "ruského",
+        "skotského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Richard Dostálek",
+      "values": [
+        "ukrajinského",
+        "francouzského",
+        "rumunského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Přemysl Bičovský",
+      "values": [
+        "norského",
+        "maďarského",
+        "českého",
+        "mexického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Christophe Galtier",
+      "values": [
+        "francouzského",
+        "irského",
+        "anglického",
+        "chilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vicente del Bosque",
+      "values": [
+        "španělského",
+        "ruského",
+        "maďarského",
+        "anglického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gianluca Zambrotta",
+      "values": [
+        "maďarského",
+        "italského",
+        "srbského",
+        "uruguayského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Juraj Jarábek",
+      "values": [
+        "tureckého",
+        "slovenského",
+        "anglického",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dunga",
+      "values": [
+        "brazilského",
+        "německého",
+        "španělského",
+        "československého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

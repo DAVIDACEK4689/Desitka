@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Egon Bondy",
+      "values": [
+        "rumunského",
+        "portugalského",
+        "irského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimír Holan",
+      "values": [
+        "belgického",
+        "českého",
+        "francouzského",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jean Cocteau",
+      "values": [
+        "čínského",
+        "chilského",
+        "belgického",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Edward Thomas",
+      "values": [
+        "dánského",
+        "anglického",
+        "portugalského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Leonard Nimoy",
+      "values": [
+        "amerického",
+        "perského",
+        "srbského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lawrence Ferlinghetti",
+      "values": [
+        "amerického",
+        "slovenského",
+        "perského",
+        "kubánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Torquato Tasso",
+      "values": [
+        "irského",
+        "německého",
+        "skotského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dietrich Eckart",
+      "values": [
+        "anglického",
+        "německého",
+        "rumunského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Hrdlička",
+      "values": [
+        "polského",
+        "řeckého",
+        "kubánského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Antonin Artaud",
+      "values": [
+        "českého",
+        "srbského",
+        "rakouského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle železniční dopravy",
+  "questions": [
+    {
+      "key": "TGV",
+      "values": [
+        "Francie",
+        "Španělsko",
+        "Turecko",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Orient expres",
+      "values": [
+        "Španělsko",
+        "Turecko",
+        "Rumunsko",
+        "Rakousko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pohádky o mašinkách",
+      "values": [
+        "Francie",
+        "Slovensko",
+        "Česko",
+        "Rakousko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Velká vlaková loupež",
+      "values": [
+        "Rumunsko",
+        "Francie",
+        "Spojené království",
+        "Československo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Železniční doprava na Slovensku",
+      "values": [
+        "Spojené království",
+        "Maďarsko",
+        "Československo",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Železniční doprava v Integrovaném dopravním systému Jihomoravského kraje",
+      "values": [
+        "Francie",
+        "Rusko",
+        "Slovensko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "MIREL",
+      "values": [
+        "Maďarsko",
+        "Rusko",
+        "Slovensko",
+        "Rakousko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dámský oddíl",
+      "values": [
+        "Rakousko",
+        "Turecko",
+        "Španělsko",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "AVE",
+      "values": [
+        "Spojené království",
+        "Španělsko",
+        "Turecko",
+        "Rakousko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rossijskije železnyje dorogi",
+      "values": [
+        "Spojené království",
+        "Rumunsko",
+        "Francie",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

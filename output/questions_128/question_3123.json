@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Andrzej Duda",
+      "values": [
+        "ázerbájdžánského",
+        "maltského",
+        "polského",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexej Kosygin",
+      "values": [
+        "sovětského",
+        "jihoafrického",
+        "slovenského",
+        "kyrgyzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Symon Petljura",
+      "values": [
+        "estonského",
+        "ukrajinského",
+        "grenadského",
+        "československého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Muhammad Mosaddek",
+      "values": [
+        "íránského",
+        "singapurského",
+        "haitského",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dmytro Jaroš",
+      "values": [
+        "singapurského",
+        "rumunského",
+        "ukrajinského",
+        "nigerského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Snorri Sturluson",
+      "values": [
+        "anglického",
+        "amerického",
+        "islandského",
+        "argentinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "David Sassoli",
+      "values": [
+        "nizozemského",
+        "italského",
+        "rakouského",
+        "eritrejského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Giovanni Messe",
+      "values": [
+        "etiopského",
+        "tureckého",
+        "ruského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gilberto Gil",
+      "values": [
+        "albánského",
+        "brazilského",
+        "kolumbijského",
+        "bulharského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Željko Komšić",
+      "values": [
+        "bosenského",
+        "peruánského",
+        "moldavského",
+        "jugoslávského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

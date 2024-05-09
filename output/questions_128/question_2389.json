@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Pchjongjang",
+      "values": [
+        "Slovensko",
+        "Paraguay",
+        "Tunisko",
+        "Severní Korea"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Santa Cruz de Tenerife",
+      "values": [
+        "Bolívie",
+        "Západní Sahara",
+        "Španělsko",
+        "Malajsie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Famagusta",
+      "values": [
+        "Kypr",
+        "Finsko",
+        "Česko",
+        "Bělorusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Modra",
+      "values": [
+        "Albánie",
+        "Libye",
+        "Srí Lanka",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kuşadası",
+      "values": [
+        "Turecko",
+        "Angola",
+        "Jižní Korea",
+        "Tanzanie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tekirdağ",
+      "values": [
+        "Írán",
+        "Honduras",
+        "Severní Makedonie",
+        "Turecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hamadán",
+      "values": [
+        "Etiopie",
+        "Írán",
+        "Maďarsko",
+        "Řecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kuusamo",
+      "values": [
+        "Finsko",
+        "Východní Timor",
+        "Nizozemsko",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Curtea de Argeș",
+      "values": [
+        "Nový Zéland",
+        "Rumunsko",
+        "Libye",
+        "Japonsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bnej Brak",
+      "values": [
+        "Ázerbájdžán",
+        "Izrael",
+        "Komora",
+        "Rakousko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

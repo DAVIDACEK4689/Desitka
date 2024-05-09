@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Richard Harris",
+      "values": [
+        "vietnamského",
+        "irského",
+        "litevského",
+        "martinického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rabíndranáth Thákur",
+      "values": [
+        "litevského",
+        "českého",
+        "indického",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mircea Eliade",
+      "values": [
+        "rumunského",
+        "španělského",
+        "albánského",
+        "kyrgyzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Merhaut",
+      "values": [
+        "argentinského",
+        "chorvatského",
+        "kubánského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Wilhelm Grimm",
+      "values": [
+        "německého",
+        "rakouského",
+        "kyrgyzského",
+        "vietnamského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Khaled Hosseini",
+      "values": [
+        "islandského",
+        "afghánského",
+        "argentinského",
+        "bulharského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vátsjájana",
+      "values": [
+        "guatemalského",
+        "estonského",
+        "irského",
+        "indického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ruth Bondyová",
+      "values": [
+        "martinického",
+        "kubánského",
+        "izraelského",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Arthur Tedder",
+      "values": [
+        "martinického",
+        "izraelského",
+        "tanzanského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stefan Żeromski",
+      "values": [
+        "polského",
+        "běloruského",
+        "dánského",
+        "íránského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

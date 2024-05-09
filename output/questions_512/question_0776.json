@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Kodaň",
+      "values": [
+        "Libye",
+        "Dánsko",
+        "Lotyšsko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rio de Janeiro",
+      "values": [
+        "Libanon",
+        "Albánie",
+        "Brazílie",
+        "Lotyšsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tallinn",
+      "values": [
+        "Dánsko",
+        "Libye",
+        "Nigérie",
+        "Estonsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Casablanca",
+      "values": [
+        "Kypr",
+        "Francie",
+        "Maroko",
+        "Saúdská Arábie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Valletta",
+      "values": [
+        "Malta",
+        "Lotyšsko",
+        "Norsko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Murmansk",
+      "values": [
+        "Německo",
+        "Portugalsko",
+        "Rusko",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Klaipėda",
+      "values": [
+        "Gruzie",
+        "Litva",
+        "Brazílie",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Akaba",
+      "values": [
+        "Jordánsko",
+        "Argentina",
+        "Brazílie",
+        "Nigérie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mykolajiv",
+      "values": [
+        "Uruguay",
+        "Japonsko",
+        "Ukrajina",
+        "Irsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Budva",
+      "values": [
+        "Rumunsko",
+        "Černá Hora",
+        "Libye",
+        "Švýcarsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

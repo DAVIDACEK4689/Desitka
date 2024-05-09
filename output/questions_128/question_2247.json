@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Andrew Tate",
+      "values": [
+        "amerického",
+        "japonského",
+        "ukrajinského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Baťa mladší",
+      "values": [
+        "monackého",
+        "japonského",
+        "pákistánského",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Heinrich Schliemann",
+      "values": [
+        "polského",
+        "německého",
+        "íránského",
+        "libanonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cyril Ramaphosa",
+      "values": [
+        "indického",
+        "francouzského",
+        "britského",
+        "jihoafrického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rudolf Dassler",
+      "values": [
+        "německého",
+        "dánského",
+        "amerického",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Roman Jurečko",
+      "values": [
+        "českého",
+        "švédského",
+        "jihoafrického",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Arvydas Sabonis",
+      "values": [
+        "litevského",
+        "běloruského",
+        "monackého",
+        "jihoafrického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nikolaj Storonskij",
+      "values": [
+        "britského",
+        "libanonského",
+        "pákistánského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Isaac Merritt Singer",
+      "values": [
+        "pákistánského",
+        "belgického",
+        "kanadského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alexej Mordašov",
+      "values": [
+        "ruského",
+        "dánského",
+        "kanadského",
+        "jihoafrického"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

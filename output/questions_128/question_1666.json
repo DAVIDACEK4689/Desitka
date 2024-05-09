@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [období] malíře?",
+  "questions": [
+    {
+      "key": "Raffael Santi",
+      "values": [
+        "secesního",
+        "rokokového",
+        "realistického",
+        "renesančního"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Giuseppe Arcimboldo",
+      "values": [
+        "secesního",
+        "gotického",
+        "romantického",
+        "renesančního"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Masaccio",
+      "values": [
+        "barokního",
+        "realistického",
+        "romantického",
+        "renesančního"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Viktor Oliva",
+      "values": [
+        "realistického",
+        "secesního",
+        "gotického",
+        "renesančního"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bartholomeus Spranger",
+      "values": [
+        "secesního",
+        "renesančního",
+        "rokokového",
+        "realistického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "John Constable",
+      "values": [
+        "realistického",
+        "romantického",
+        "renesančního",
+        "gotického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexandre Cabanel",
+      "values": [
+        "romantického",
+        "barokního",
+        "realistického",
+        "rokokového"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Arnošt Hofbauer",
+      "values": [
+        "romantického",
+        "barokního",
+        "gotického",
+        "secesního"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Filippino Lippi",
+      "values": [
+        "renesančního",
+        "rokokového",
+        "gotického",
+        "barokního"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hans Holbein starší",
+      "values": [
+        "renesančního",
+        "barokního",
+        "rokokového",
+        "gotického"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

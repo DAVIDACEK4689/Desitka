@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Taťána Kuchařová",
+      "values": [
+        "kanadskou",
+        "německou",
+        "českou",
+        "izraelskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eva Decastelo",
+      "values": [
+        "kanadskou",
+        "slovenskou",
+        "jihoafrickou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kaley Cuoco",
+      "values": [
+        "americkou",
+        "kanadskou",
+        "izraelskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Amber Heardová",
+      "values": [
+        "švýcarskou",
+        "ruskou",
+        "americkou",
+        "slovenskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Irina Shayk",
+      "values": [
+        "německou",
+        "italskou",
+        "ruskou",
+        "izraelskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavlína Němcová",
+      "values": [
+        "slovenskou",
+        "americkou",
+        "českou",
+        "kanadskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Milla Jovovich",
+      "values": [
+        "švýcarskou",
+        "americkou",
+        "slovenskou",
+        "izraelskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sharon Stoneová",
+      "values": [
+        "americkou",
+        "kanadskou",
+        "českou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ivanka Trumpová",
+      "values": [
+        "americkou",
+        "slovenskou",
+        "italskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Adriana Karembeu",
+      "values": [
+        "německou",
+        "slovenskou",
+        "izraelskou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

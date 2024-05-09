@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle katastrofy",
+  "questions": [
+    {
+      "key": "Metanolová aféra",
+      "values": [
+        "Česko",
+        "Spojené království",
+        "Rakousko",
+        "Sovětský svaz"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Havárie elektrárny Fukušima I",
+      "values": [
+        "Japonsko",
+        "Rakousko",
+        "Srbsko",
+        "Sovětský svaz"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "RMS Lusitania",
+      "values": [
+        "Rakousko",
+        "Spojené království",
+        "Indie",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bhópálská katastrofa",
+      "values": [
+        "Sovětský svaz",
+        "Spojené království",
+        "Japonsko",
+        "Indie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Velký smog 1952",
+      "values": [
+        "Česko",
+        "Indie",
+        "Japonsko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Uhelné prázdniny 1979",
+      "values": [
+        "Sovětský svaz",
+        "Japonsko",
+        "Česko",
+        "Spojené království"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Povodně ve Slovinsku 2023",
+      "values": [
+        "Indie",
+        "Srbsko",
+        "Rakousko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Střelba na základní škole v Bělehradě",
+      "values": [
+        "Srbsko",
+        "Indie",
+        "Česko",
+        "Spojené království"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Úniky toxických látek do Bečvy 2020",
+      "values": [
+        "Česko",
+        "Srbsko",
+        "Spojené království",
+        "Indie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kyštymská katastrofa",
+      "values": [
+        "Japonsko",
+        "Srbsko",
+        "Sovětský svaz",
+        "Spojené království"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

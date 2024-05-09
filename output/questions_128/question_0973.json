@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalového trenéra?",
+  "questions": [
+    {
+      "key": "Diego Maradona",
+      "values": [
+        "irského",
+        "maďarského",
+        "argentinského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Srniček",
+      "values": [
+        "českého",
+        "španělského",
+        "ruského",
+        "argentinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ange Postecoglou",
+      "values": [
+        "dánského",
+        "belgického",
+        "norského",
+        "australského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Vaniak",
+      "values": [
+        "irského",
+        "srbského",
+        "českého",
+        "uruguayského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luis Suárez Miramontes",
+      "values": [
+        "španělského",
+        "italského",
+        "australského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Radim Kučera",
+      "values": [
+        "srbského",
+        "českého",
+        "irského",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nuno Espírito Santo",
+      "values": [
+        "švédského",
+        "dánského",
+        "tureckého",
+        "portugalského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Saňák",
+      "values": [
+        "uruguayského",
+        "českého",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ján Pivarník",
+      "values": [
+        "brazilského",
+        "slovenského",
+        "československého",
+        "skotského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hans Krankl",
+      "values": [
+        "srbského",
+        "australského",
+        "brazilského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

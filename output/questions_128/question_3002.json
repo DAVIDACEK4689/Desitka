@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] ledního hokejistu?",
+  "questions": [
+    {
+      "key": "Ondřej Kacetl",
+      "values": [
+        "českého",
+        "rumunského",
+        "rakouského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Keith Tkachuk",
+      "values": [
+        "amerického",
+        "československého",
+        "ruského",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Jelínek",
+      "values": [
+        "polského",
+        "švýcarského",
+        "finského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michal Mikeska",
+      "values": [
+        "britského",
+        "slovinského",
+        "finského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Peter Pucher",
+      "values": [
+        "slovenského",
+        "polského",
+        "německého",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Olli Jokinen",
+      "values": [
+        "českého",
+        "finského",
+        "slovenského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nail Jakupov",
+      "values": [
+        "ruského",
+        "britského",
+        "německého",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tim Thomas",
+      "values": [
+        "polského",
+        "amerického",
+        "ruského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Doug Gilmour",
+      "values": [
+        "britského",
+        "kanadského",
+        "českého",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexej Morozov",
+      "values": [
+        "ruského",
+        "českého",
+        "britského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

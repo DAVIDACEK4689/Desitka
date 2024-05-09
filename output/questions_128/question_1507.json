@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte sport podle československého sportovce",
+  "questions": [
+    {
+      "key": "Jiří Dopita",
+      "values": [
+        "fotbalista",
+        "cyklista",
+        "kajakář",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marian Jelínek",
+      "values": [
+        "lední hokejista",
+        "akrobatický letec",
+        "cyklista",
+        "šachista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karol Dobiaš",
+      "values": [
+        "plavec",
+        "zápasník",
+        "fotbalista",
+        "judista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vilém Heckel",
+      "values": [
+        "veslař",
+        "atlet",
+        "vodní lyžař",
+        "horolezec"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Pála",
+      "values": [
+        "cyklista",
+        "šachista",
+        "tenista",
+        "judista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Maleček",
+      "values": [
+        "lední hokejista",
+        "sportovní střelec",
+        "automobilový závodník",
+        "boxer"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Peter Ihnačák",
+      "values": [
+        "zápasník",
+        "volejbalista",
+        "pozemní hokejista",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marcel Sakáč",
+      "values": [
+        "sportovní střelec",
+        "kajakář",
+        "lední hokejista",
+        "judista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Čuhel",
+      "values": [
+        "sportovní střelec",
+        "atlet",
+        "pozemní hokejista",
+        "fotbalista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kamil Kašťák",
+      "values": [
+        "basketbalista",
+        "lední hokejista",
+        "veslař",
+        "kanoista"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

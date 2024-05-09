@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Tequila",
+      "values": [
+        "čínskou",
+        "mexickou",
+        "gruzínskou",
+        "německou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Phở",
+      "values": [
+        "bhútánskou",
+        "anglickou",
+        "vietnamskou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hovězí Wellington",
+      "values": [
+        "perskou",
+        "portugalskou",
+        "anglickou",
+        "gruzínskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Poutine",
+      "values": [
+        "indonéskou",
+        "balkánskou",
+        "kanadskou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dürüm",
+      "values": [
+        "indonéskou",
+        "slovenskou",
+        "tureckou",
+        "arménskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sriracha",
+      "values": [
+        "thajskou",
+        "finskou",
+        "německou",
+        "českou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chačapuri",
+      "values": [
+        "gruzínskou",
+        "středomořskou",
+        "belgickou",
+        "bhútánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Soba",
+      "values": [
+        "japonskou",
+        "polskou",
+        "perskou",
+        "americkou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pracharanda",
+      "values": [
+        "arabskou",
+        "českou",
+        "čínskou",
+        "irskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tarchun",
+      "values": [
+        "švédskou",
+        "gruzínskou",
+        "vietnamskou",
+        "tureckou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

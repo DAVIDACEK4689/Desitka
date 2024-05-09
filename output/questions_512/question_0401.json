@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte téma podle filmu",
+  "questions": [
+    {
+      "key": "Rychle a zběsile",
+      "values": [
+        "automobil",
+        "dvojče",
+        "hasič",
+        "kanibalismus"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Třetí princ",
+      "values": [
+        "spisovatel",
+        "židovská tematika",
+        "dvojče",
+        "automobil"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čistá duše",
+      "values": [
+        "učitel",
+        "dvojče",
+        "židovská tematika",
+        "kanibalismus"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dobrý Will Hunting",
+      "values": [
+        "učitel",
+        "sebevražda",
+        "kanibalismus",
+        "dvojče"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Největší showman",
+      "values": [
+        "cirkus",
+        "loupež",
+        "židovská tematika",
+        "herec"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Prázdniny v Římě",
+      "values": [
+        "židovská tematika",
+        "loupež",
+        "novinář",
+        "upír"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Děti Nagana",
+      "values": [
+        "sport",
+        "židovská tematika",
+        "herec",
+        "dvojče"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lepší už to nebude",
+      "values": [
+        "automobil",
+        "herec",
+        "spisovatel",
+        "učitel"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zlatý podraz",
+      "values": [
+        "dvojče",
+        "sexualita",
+        "sport",
+        "židovská tematika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Křidýlko nebo stehýnko",
+      "values": [
+        "hasič",
+        "herec",
+        "kanibalismus",
+        "cirkus"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

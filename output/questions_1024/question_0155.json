@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Bratislava",
+      "values": [
+        "Slovensko",
+        "Thajsko",
+        "Egypt",
+        "Severní Makedonie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Salcburk",
+      "values": [
+        "Egypt",
+        "Španělsko",
+        "Rakousko",
+        "Maroko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sevilla",
+      "values": [
+        "Rakousko",
+        "Uzbekistán",
+        "Litva",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ciudad de México",
+      "values": [
+        "Belgie",
+        "Srbsko",
+        "Mexiko",
+        "Pero"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pula",
+      "values": [
+        "Chorvatsko",
+        "Belgie",
+        "Portugalsko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ostřihom",
+      "values": [
+        "Finsko",
+        "Mexiko",
+        "Maďarsko",
+        "Island"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lagos",
+      "values": [
+        "Německo",
+        "Slovensko",
+        "Nigérie",
+        "Bulharsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nazaret",
+      "values": [
+        "Německo",
+        "Izrael",
+        "Súdán",
+        "Severní Makedonie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tampere",
+      "values": [
+        "Japonsko",
+        "Kolumbie",
+        "Finsko",
+        "Rumunsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Veľký Meder",
+      "values": [
+        "Finsko",
+        "Nizozemsko",
+        "Slovensko",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

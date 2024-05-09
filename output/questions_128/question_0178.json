@@ -1,0 +1,105 @@
+{
+  "text": "Určete město podle železniční dopravy",
+  "questions": [
+    {
+      "key": "Škoda Transportation",
+      "values": [
+        "Brno",
+        "Liberec",
+        "Ostrava",
+        "Plzeň"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Škoda Vagonka",
+      "values": [
+        "Liberec",
+        "Ostrava",
+        "Paříž",
+        "Brno"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Třetí železniční koridor",
+      "values": [
+        "Praha",
+        "Liberec",
+        "Ostrava",
+        "Paříž"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Čtvrtý železniční koridor",
+      "values": [
+        "Ostrava",
+        "Praha",
+        "Plzeň",
+        "Paříž"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lánská koněspřežka",
+      "values": [
+        "Praha",
+        "Paříž",
+        "Ostrava",
+        "Brno"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vlárská dráha",
+      "values": [
+        "Ostrava",
+        "Plzeň",
+        "Brno",
+        "Paříž"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "První železniční koridor",
+      "values": [
+        "Plzeň",
+        "Ostrava",
+        "Praha",
+        "Brno"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nové spojení",
+      "values": [
+        "Plzeň",
+        "Liberec",
+        "Praha",
+        "Ostrava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Železniční nehoda na nádraží Montparnasse",
+      "values": [
+        "Ostrava",
+        "Paříž",
+        "Praha",
+        "Brno"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mezinárodní železniční unie",
+      "values": [
+        "Ostrava",
+        "Praha",
+        "Brno",
+        "Paříž"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

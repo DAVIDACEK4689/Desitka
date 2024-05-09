@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Zlatan Ibrahimović",
+      "values": [
+        "švédského",
+        "uruguayského",
+        "velšského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Milan Baroš",
+      "values": [
+        "českého",
+        "egyptského",
+        "nizozemského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladimír Šmicer",
+      "values": [
+        "španělského",
+        "chorvatského",
+        "polského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel Poborský",
+      "values": [
+        "španělského",
+        "českého",
+        "uruguayského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Carlo Ancelotti",
+      "values": [
+        "italského",
+        "anglického",
+        "portugalského",
+        "československého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Vaclík",
+      "values": [
+        "belgického",
+        "českého",
+        "norského",
+        "anglického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eden Hazard",
+      "values": [
+        "belgického",
+        "velšského",
+        "norského",
+        "argentinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Antoine Griezmann",
+      "values": [
+        "nizozemského",
+        "dánského",
+        "švédského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pavel Kuka",
+      "values": [
+        "československého",
+        "argentinského",
+        "portugalského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jude Bellingham",
+      "values": [
+        "brazilského",
+        "českého",
+        "polského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

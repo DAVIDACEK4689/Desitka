@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle regionu",
+  "questions": [
+    {
+      "key": "Azory",
+      "values": [
+        "Francie",
+        "Portugalsko",
+        "Turecko",
+        "Argentina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Střední Anatolie",
+      "values": [
+        "Francie",
+        "Argentina",
+        "Turecko",
+        "Belgie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Korsika",
+      "values": [
+        "Francie",
+        "Belgie",
+        "Itálie",
+        "Turecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Toskánsko",
+      "values": [
+        "Francie",
+        "Belgie",
+        "Itálie",
+        "Portugalsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kalábrie",
+      "values": [
+        "Argentina",
+        "Portugalsko",
+        "Francie",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Patagonie",
+      "values": [
+        "Belgie",
+        "Argentina",
+        "Portugalsko",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Normandie",
+      "values": [
+        "Belgie",
+        "Francie",
+        "Argentina",
+        "Turecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bretaň",
+      "values": [
+        "Argentina",
+        "Francie",
+        "Belgie",
+        "Portugalsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ohňová země",
+      "values": [
+        "Argentina",
+        "Belgie",
+        "Portugalsko",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lombardie",
+      "values": [
+        "Portugalsko",
+        "Itálie",
+        "Belgie",
+        "Francie"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

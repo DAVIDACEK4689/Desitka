@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Vlasta Redl",
+      "values": [
+        "švédského",
+        "českého",
+        "rakouského",
+        "uruguayského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lešek Semelka",
+      "values": [
+        "italského",
+        "švýcarského",
+        "českého",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Kalandra",
+      "values": [
+        "skotského",
+        "brazilského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bob Geldof",
+      "values": [
+        "gruzínského",
+        "irského",
+        "dánského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vladimír Kokolia",
+      "values": [
+        "portorického",
+        "českého",
+        "slovenského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alan Bastien",
+      "values": [
+        "kolumbijského",
+        "brazilského",
+        "českého",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Poláček",
+      "values": [
+        "španělského",
+        "ruského",
+        "českého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Merle Haggard",
+      "values": [
+        "belgického",
+        "slovenského",
+        "amerického",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Kapinus",
+      "values": [
+        "argentinského",
+        "mexického",
+        "islandského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pierre Bouvier",
+      "values": [
+        "německého",
+        "islandského",
+        "novozélandského",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Niki Lauda",
+      "values": [
+        "německého",
+        "švédského",
+        "francouzského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Boris Kollár",
+      "values": [
+        "brazilského",
+        "nizozemského",
+        "slovenského",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zdeněk Bakala",
+      "values": [
+        "českého",
+        "britského",
+        "italského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Aristoteles Onassis",
+      "values": [
+        "jihoafrického",
+        "řeckého",
+        "rakouského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alois Hadamczik",
+      "values": [
+        "nizozemského",
+        "švýcarského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jawed Karim",
+      "values": [
+        "francouzského",
+        "amerického",
+        "slovenského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Guglielmo Marconi",
+      "values": [
+        "britského",
+        "řeckého",
+        "libanonského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Rockefeller",
+      "values": [
+        "ukrajinského",
+        "řeckého",
+        "amerického",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jimmy Wales",
+      "values": [
+        "ruského",
+        "amerického",
+        "jihoafrického",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bob Lazar",
+      "values": [
+        "italského",
+        "amerického",
+        "rakouského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

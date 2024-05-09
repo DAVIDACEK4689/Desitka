@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte autora podle stavby",
+  "questions": [
+    {
+      "key": "Baťův mrakodrap",
+      "values": [
+        "Alois Dryák",
+        "Vladimír Karfík",
+        "Zacharias Hoffmann",
+        "Adolf Foehr"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zámecký park Průhonice",
+      "values": [
+        "Jiří Stibral",
+        "Jože Plečnik",
+        "Antonín Wiehl",
+        "Adolf Foehr"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Uměleckoprůmyslové museum v Praze",
+      "values": [
+        "Josef Danda",
+        "Kilián Ignác Dientzenhofer",
+        "Josef Schulz",
+        "Josef Zasche"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Výletní restaurace Rudolfov",
+      "values": [
+        "Josef Zítek",
+        "Stanislav Hubička",
+        "Vladimír Dedeček",
+        "Frank Lloyd Wright"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Baťova vila",
+      "values": [
+        "Josef Schulz",
+        "Friedrich Ohmann",
+        "Vladimír Karfík",
+        "František Antonín Grimm"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Palác Karlín",
+      "values": [
+        "Jan Chládek",
+        "Adolf Foehr",
+        "Bohumír Čermák",
+        "Stanislav Hubička"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hrobka rodiny Daubkovy",
+      "values": [
+        "Jaroslav Fragner",
+        "Josef Schulz",
+        "Antonín Wiehl",
+        "Adolf Benš"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Slovenská národní galerie",
+      "values": [
+        "Vladimír Dedeček",
+        "Kilián Ignác Dientzenhofer",
+        "Josef Zítek",
+        "Rudolf Stockar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Malá vodní elektrárna Spálov",
+      "values": [
+        "Antonín Balšánek",
+        "Josef Zasche",
+        "Otakar Novotný",
+        "Emil Králíček"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kino Aero",
+      "values": [
+        "Otakar Novotný",
+        "Jindřich Freiwald",
+        "Jan Chládek",
+        "Věra Machoninová"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

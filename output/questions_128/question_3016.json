@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] architekta?",
+  "questions": [
+    {
+      "key": "Petr Parléř",
+      "values": [
+        "českého",
+        "nizozemského",
+        "německého",
+        "tureckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Bočan",
+      "values": [
+        "ruského",
+        "tureckého",
+        "českého",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Hardtmuth",
+      "values": [
+        "italského",
+        "belgického",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stanislav Bechyně",
+      "values": [
+        "italského",
+        "českého",
+        "polského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Matúš Vallo",
+      "values": [
+        "amerického",
+        "slovenského",
+        "tureckého",
+        "belgického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Hrůša",
+      "values": [
+        "českého",
+        "francouzského",
+        "nizozemského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Daniel Libeskind",
+      "values": [
+        "italského",
+        "belgického",
+        "švýcarského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ferdinand Cheval",
+      "values": [
+        "německého",
+        "francouzského",
+        "ruského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zdeněk Edel",
+      "values": [
+        "belgického",
+        "českého",
+        "japonského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Thomas Chippendale",
+      "values": [
+        "polského",
+        "britského",
+        "amerického",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

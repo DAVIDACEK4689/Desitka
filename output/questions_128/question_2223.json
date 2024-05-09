@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle fotbalové události",
+  "questions": [
+    {
+      "key": "Mistrovství světa ve fotbale 2014",
+      "values": [
+        "Brazílie",
+        "Rusko",
+        "Švédsko",
+        "Mexiko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mistrovství světa ve fotbale 2002",
+      "values": [
+        "Brazílie",
+        "Argentina",
+        "Portugalsko",
+        "Japonsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mistrovství světa ve fotbale 1934",
+      "values": [
+        "Francie",
+        "Portugalsko",
+        "Brazílie",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mistrovství světa ve fotbale 1978",
+      "values": [
+        "Rusko",
+        "Francie",
+        "Argentina",
+        "Slovensko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství světa ve fotbale 1954",
+      "values": [
+        "Mexiko",
+        "Německo",
+        "Švédsko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mistrovství světa ve fotbale 1950",
+      "values": [
+        "Rumunsko",
+        "Brazílie",
+        "Mexiko",
+        "Švédsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mistrovství světa ve fotbale žen 2019",
+      "values": [
+        "Polsko",
+        "Itálie",
+        "Francie",
+        "Mexiko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství Evropy ve fotbale 1968",
+      "values": [
+        "Portugalsko",
+        "Česko",
+        "Argentina",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Korupční skandál v italské lize 2006",
+      "values": [
+        "Itálie",
+        "Rusko",
+        "Polsko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fotbal na Letních olympijských hrách 1964",
+      "values": [
+        "Nizozemsko",
+        "Itálie",
+        "Japonsko",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zločince?",
+  "questions": [
+    {
+      "key": "Jiří Kajínek",
+      "values": [
+        "českého",
+        "britského",
+        "francouzského",
+        "australského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jordan Belfort",
+      "values": [
+        "australského",
+        "ruského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Minařík",
+      "values": [
+        "slovenského",
+        "ruského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jimmy Hoffa",
+      "values": [
+        "britského",
+        "amerického",
+        "mexického",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hélmer Herrera",
+      "values": [
+        "ukrajinského",
+        "maďarského",
+        "kolumbijského",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Peter Scully",
+      "values": [
+        "slovenského",
+        "ukrajinského",
+        "jihoafrického",
+        "australského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ned Kelly",
+      "values": [
+        "ukrajinského",
+        "mexického",
+        "australského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dandeny Muñoz Mosquera",
+      "values": [
+        "francouzského",
+        "britského",
+        "kolumbijského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ladislav Mácha",
+      "values": [
+        "ruského",
+        "francouzského",
+        "mexického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Robert Hanssen",
+      "values": [
+        "kolumbijského",
+        "ruského",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

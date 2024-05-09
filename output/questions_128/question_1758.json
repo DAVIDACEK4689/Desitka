@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle českého sportovce",
+  "questions": [
+    {
+      "key": "František Cipro",
+      "values": [
+        "šermíř",
+        "horolezec",
+        "basketbalista",
+        "fotbalista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roman Bednář",
+      "values": [
+        "boxer",
+        "fotbalista",
+        "šipkaři",
+        "basketbalista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mathias Vacek",
+      "values": [
+        "tenista",
+        "cyklista",
+        "skeletonisté",
+        "jezdec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jakub Nakládal",
+      "values": [
+        "lední hokejista",
+        "lyžař",
+        "sportovní střelec",
+        "plavec"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zdeněk Kolář",
+      "values": [
+        "judista",
+        "kickboxeři",
+        "tenista",
+        "skeletonisté"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Bobrovský",
+      "values": [
+        "kanoista",
+        "jezdec",
+        "šermíř",
+        "basketbalista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lukáš Dlouhý",
+      "values": [
+        "bojový umělec",
+        "gymnasta",
+        "stolní tenista",
+        "tenista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Otakar Krámský",
+      "values": [
+        "šipkaři",
+        "skeletonisté",
+        "horolezec",
+        "automobilový závodník"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Luisa Abrahams",
+      "values": [
+        "šermíř",
+        "judista",
+        "golfista",
+        "pozemní hokejista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alois Havel",
+      "values": [
+        "automobilový závodník",
+        "baseballisté",
+        "veslař",
+        "kajakář"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

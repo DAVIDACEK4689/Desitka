@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Lou Fanánek Hagen",
+      "values": [
+        "českého",
+        "irského",
+        "maďarského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dalibor Gondík",
+      "values": [
+        "italského",
+        "australského",
+        "českého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Joe Jonas",
+      "values": [
+        "amerického",
+        "rumunského",
+        "chorvatského",
+        "argentinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Faltýnek",
+      "values": [
+        "českého",
+        "italského",
+        "mexického",
+        "finského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Harry Belafonte",
+      "values": [
+        "irského",
+        "rumunského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sebastian Bach",
+      "values": [
+        "kanadského",
+        "japonského",
+        "nizozemského",
+        "izraelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Carpenters",
+      "values": [
+        "japonského",
+        "ruského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Adam Lanči",
+      "values": [
+        "dánského",
+        "švédského",
+        "českého",
+        "portorického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hide",
+      "values": [
+        "skotského",
+        "japonského",
+        "kolumbijského",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fox Stevenson",
+      "values": [
+        "brazilského",
+        "mexického",
+        "argentinského",
+        "britského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

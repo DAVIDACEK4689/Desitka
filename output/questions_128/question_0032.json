@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte interpreta podle hudební alby",
+  "questions": [
+    {
+      "key": "Abbey Road",
+      "values": [
+        "David Bowie",
+        "Green Day",
+        "Accept",
+        "The Beatles"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "MegaHu",
+      "values": [
+        "Eminem",
+        "Kabát",
+        "Lucie Bílá",
+        "Imagine Dragons"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Music for the Masses",
+      "values": [
+        "Black Sabbath",
+        "Depeche Mode",
+        "John Cale",
+        "Deep Purple"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pornography",
+      "values": [
+        "Marta Kubišová",
+        "Karel Gott",
+        "The Cure",
+        "Imagine Dragons"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rubber Soul",
+      "values": [
+        "The Beatles",
+        "Horkýže Slíže",
+        "Black Sabbath",
+        "Imagine Dragons"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Delta Machine",
+      "values": [
+        "Hana Hegerová",
+        "Eminem",
+        "Depeche Mode",
+        "Chinaski"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "A Head Full of Dreams",
+      "values": [
+        "Depeche Mode",
+        "Judas Priest",
+        "Coldplay",
+        "John Cale"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Missariel",
+      "values": [
+        "Lucie Bílá",
+        "Imagine Dragons",
+        "The Clash",
+        "Marta Kubišová"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Svitanie",
+      "values": [
+        "Imagine Dragons",
+        "Karel Gott",
+        "Blue Effect",
+        "Iron Maiden"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "But Here We Are",
+      "values": [
+        "Black Sabbath",
+        "Foo Fighters",
+        "The Doors",
+        "Coldplay"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

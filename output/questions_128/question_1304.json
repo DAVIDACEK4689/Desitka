@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] anarchistu?",
+  "questions": [
+    {
+      "key": "Javier Milei",
+      "values": [
+        "ukrajinského",
+        "francouzského",
+        "španělského",
+        "argentinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fráňa Šrámek",
+      "values": [
+        "ukrajinského",
+        "litevského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Chelčický",
+      "values": [
+        "argentinského",
+        "českého",
+        "belgického",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Henry David Thoreau",
+      "values": [
+        "ukrajinského",
+        "amerického",
+        "britského",
+        "argentinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fanny Kaplanová",
+      "values": [
+        "francouzského",
+        "italského",
+        "britského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ondřej Slačálek",
+      "values": [
+        "ukrajinského",
+        "britského",
+        "českého",
+        "litevského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alan Moore",
+      "values": [
+        "britského",
+        "argentinského",
+        "belgického",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jello Biafra",
+      "values": [
+        "německého",
+        "španělského",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "William Godwin",
+      "values": [
+        "ukrajinského",
+        "ruského",
+        "britského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Octave Mirbeau",
+      "values": [
+        "belgického",
+        "francouzského",
+        "litevského",
+        "italského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

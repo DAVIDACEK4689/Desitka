@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] novináře?",
+  "questions": [
+    {
+      "key": "Oscar Wilde",
+      "values": [
+        "japonského",
+        "irského",
+        "saúdskoarabského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavel Josef Šafařík",
+      "values": [
+        "kolumbijského",
+        "francouzského",
+        "saúdskoarabského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miloš Doležal",
+      "values": [
+        "kolumbijského",
+        "švédského",
+        "českého",
+        "arménského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lukáš Dolanský",
+      "values": [
+        "irského",
+        "dánského",
+        "českého",
+        "saúdskoarabského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Carlo Collodi",
+      "values": [
+        "íránského",
+        "francouzského",
+        "italského",
+        "československého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Larry King",
+      "values": [
+        "nizozemského",
+        "amerického",
+        "maďarského",
+        "československého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Filip Pařížský",
+      "values": [
+        "francouzského",
+        "polského",
+        "belgického",
+        "saúdskoarabského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Torben Ulrich",
+      "values": [
+        "dánského",
+        "maďarského",
+        "italského",
+        "chorvatského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Avi Issacharoff",
+      "values": [
+        "československého",
+        "polského",
+        "izraelského",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexandr Alexandrovič Bogdanov",
+      "values": [
+        "slovinského",
+        "ruského",
+        "mexického",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] ateistu?",
+  "questions": [
+    {
+      "key": "Leonid Iljič Brežněv",
+      "values": [
+        "britského",
+        "francouzského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michail Gorbačov",
+      "values": [
+        "židovského",
+        "mexického",
+        "ruského",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josip Broz Tito",
+      "values": [
+        "gruzínského",
+        "skotského",
+        "chorvatského",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Egon Bondy",
+      "values": [
+        "francouzského",
+        "švédského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lejla Abbasová",
+      "values": [
+        "srbského",
+        "českého",
+        "italského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vjačeslav Michajlovič Molotov",
+      "values": [
+        "italského",
+        "ruského",
+        "srbského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Giuseppe Garibaldi",
+      "values": [
+        "albánského",
+        "gruzínského",
+        "německého",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Markýz de Sade",
+      "values": [
+        "španělského",
+        "skotského",
+        "kanadského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Slavoj Žižek",
+      "values": [
+        "skotského",
+        "španělského",
+        "běloruského",
+        "slovinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Émile Durkheim",
+      "values": [
+        "srbského",
+        "francouzského",
+        "ruského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

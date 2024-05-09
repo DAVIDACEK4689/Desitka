@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] automobilového závodníka?",
+  "questions": [
+    {
+      "key": "Miloš Havel",
+      "values": [
+        "belgického",
+        "českého",
+        "ruského",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Enzo Ferrari",
+      "values": [
+        "belgického",
+        "italského",
+        "španělského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alain Prost",
+      "values": [
+        "monackého",
+        "australského",
+        "francouzského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sébastien Loeb",
+      "values": [
+        "francouzského",
+        "italského",
+        "českého",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zbyněk Passer",
+      "values": [
+        "německého",
+        "českého",
+        "italského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Charouz",
+      "values": [
+        "australského",
+        "českého",
+        "německého",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Thierry Sabine",
+      "values": [
+        "švýcarského",
+        "francouzského",
+        "španělského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Robert Siercke",
+      "values": [
+        "britského",
+        "českého",
+        "italského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Adam Lacko",
+      "values": [
+        "československého",
+        "českého",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alessandro Nannini",
+      "values": [
+        "českého",
+        "německého",
+        "italského",
+        "britského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

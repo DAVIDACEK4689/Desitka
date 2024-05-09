@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] román?",
+  "questions": [
+    {
+      "key": "Jana Eyrová",
+      "values": [
+        "anglický",
+        "španělský",
+        "rakouský",
+        "český"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nekonečný příběh",
+      "values": [
+        "španělský",
+        "kanadský",
+        "německý",
+        "rakouský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Růže pro Algernon",
+      "values": [
+        "kanadský",
+        "britský",
+        "irský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Andělé a démoni",
+      "values": [
+        "americký",
+        "český",
+        "švédský",
+        "rakouský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jak jsem vyhrál válku",
+      "values": [
+        "maďarský",
+        "anglický",
+        "kanadský",
+        "japonský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Život je jinde",
+      "values": [
+        "český",
+        "americký",
+        "francouzský",
+        "irský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zápisky z mrtvého domu",
+      "values": [
+        "polský",
+        "ruský",
+        "maďarský",
+        "slovenský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Moll Flandersová",
+      "values": [
+        "polský",
+        "kanadský",
+        "francouzský",
+        "anglický"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hra se skleněnými perlami",
+      "values": [
+        "polský",
+        "irský",
+        "anglický",
+        "německý"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Otrantský zámek",
+      "values": [
+        "španělský",
+        "ruský",
+        "anglický",
+        "rakouský"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

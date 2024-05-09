@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle silničního mostu",
+  "questions": [
+    {
+      "key": "Krymský most",
+      "values": [
+        "Francie",
+        "Rakousko",
+        "Ukrajina",
+        "Chorvatsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pelješacký most",
+      "values": [
+        "Rakousko",
+        "Chorvatsko",
+        "Ukrajina",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Viadukt Millau",
+      "values": [
+        "Itálie",
+        "Slovinsko",
+        "Francie",
+        "Chorvatsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Most Krk",
+      "values": [
+        "Chorvatsko",
+        "Slovinsko",
+        "Ukrajina",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Most Evropy",
+      "values": [
+        "Chorvatsko",
+        "Francie",
+        "Slovensko",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ponte Morandi",
+      "values": [
+        "Itálie",
+        "Slovensko",
+        "Rakousko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Most Márie Valérie",
+      "values": [
+        "Slovensko",
+        "Rakousko",
+        "Slovinsko",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Antonivský most",
+      "values": [
+        "Ukrajina",
+        "Slovinsko",
+        "Rakousko",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pažský most",
+      "values": [
+        "Slovensko",
+        "Rakousko",
+        "Chorvatsko",
+        "Slovinsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dračí most",
+      "values": [
+        "Itálie",
+        "Slovensko",
+        "Rakousko",
+        "Slovinsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

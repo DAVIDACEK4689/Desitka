@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] politiku?",
+  "questions": [
+    {
+      "key": "Fašismus",
+      "values": [
+        "nigerijského",
+        "ukrajinského",
+        "jemenského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Commonwealth",
+      "values": [
+        "ukrajinského",
+        "jemenského",
+        "moldavského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Panslavismus",
+      "values": [
+        "českého",
+        "španělského",
+        "moldavského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Boko Haram",
+      "values": [
+        "jemenského",
+        "ukrajinského",
+        "britského",
+        "nigerijského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Čučche",
+      "values": [
+        "polského",
+        "moldavského",
+        "italského",
+        "severokorejského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sejm",
+      "values": [
+        "italského",
+        "severokorejského",
+        "ázerbájdžánského",
+        "polského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Putinismus",
+      "values": [
+        "ruského",
+        "nigerijského",
+        "španělského",
+        "severokorejského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kneset",
+      "values": [
+        "britského",
+        "španělského",
+        "nigerijského",
+        "izraelského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karafiátová revoluce",
+      "values": [
+        "ázerbájdžánského",
+        "polského",
+        "portugalského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Válka v Podněstří",
+      "values": [
+        "moldavského",
+        "československého",
+        "ukrajinského",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Tři oříšky pro Popelku",
+      "values": [
+        "Václav Vorlíček",
+        "Hynek Bočan",
+        "Zdeněk Zelenka",
+        "Martin Frič"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nejkrásnější hádanka",
+      "values": [
+        "Václav Vorlíček",
+        "Miloslav Šmídmajer",
+        "Jan Hřebejk",
+        "Zdeněk Troška"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lotrando a Zubejda",
+      "values": [
+        "Karel Smyczek",
+        "Dušan Klein",
+        "Petr Jákl",
+        "Tomáš Vorel"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Adéla ještě nevečeřela",
+      "values": [
+        "Dušan Klein",
+        "Karel Smyczek",
+        "Václav Vorlíček",
+        "Oldřich Lipský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jak svět přichází o básníky",
+      "values": [
+        "Zdeněk Podskalský",
+        "Dušan Klein",
+        "Zdeněk Troška",
+        "Karel Zeman"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sněženky a machři",
+      "values": [
+        "Oldřich Lipský",
+        "Jiří Vejdělek",
+        "Hynek Bočan",
+        "Karel Smyczek"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Už zase skáču přes kaluže",
+      "values": [
+        "Karel Kachyňa",
+        "Jan Schmidt",
+        "Miloš Forman",
+        "Miloslav Šmídmajer"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zlatí úhoři",
+      "values": [
+        "Juraj Herz",
+        "Robert Sedláček",
+        "Martin Horský",
+        "Karel Kachyňa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dovolená s Andělem",
+      "values": [
+        "Bořivoj Zeman",
+        "Jiří Vejdělek",
+        "Jiří Strach",
+        "Zdeněk Zelenka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lásky mezi kapkami deště",
+      "values": [
+        "Hynek Bočan",
+        "Karel Steklý",
+        "David Ondříček",
+        "Karel Kachyňa"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

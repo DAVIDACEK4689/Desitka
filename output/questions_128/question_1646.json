@@ -1,0 +1,105 @@
+{
+  "text": "Určete kontinent podle dinosaura",
+  "questions": [
+    {
+      "key": "Triceratops",
+      "values": [
+        "Asie",
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Diplodocus",
+      "values": [
+        "Evropa",
+        "Severní Amerika",
+        "Afrika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dilophosaurus",
+      "values": [
+        "Evropa",
+        "Afrika",
+        "Asie",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Deinonychus",
+      "values": [
+        "Afrika",
+        "Severní Amerika",
+        "Evropa",
+        "Asie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Megalosaurus",
+      "values": [
+        "Jižní Amerika",
+        "Severní Amerika",
+        "Afrika",
+        "Evropa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Patagotitan mayorum",
+      "values": [
+        "Jižní Amerika",
+        "Asie",
+        "Evropa",
+        "Afrika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Styracosaurus",
+      "values": [
+        "Severní Amerika",
+        "Asie",
+        "Evropa",
+        "Afrika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Utahraptor ostrommaysorum",
+      "values": [
+        "Jižní Amerika",
+        "Asie",
+        "Afrika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Giraffatitan",
+      "values": [
+        "Severní Amerika",
+        "Evropa",
+        "Afrika",
+        "Asie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Torosaurus",
+      "values": [
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Asie",
+        "Afrika"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

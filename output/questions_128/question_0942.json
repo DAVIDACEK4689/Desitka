@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle údolí",
+  "questions": [
+    {
+      "key": "Údolí králů",
+      "values": [
+        "Libanon",
+        "Egypt",
+        "Slovensko",
+        "Řecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Wachau",
+      "values": [
+        "Itálie",
+        "Německo",
+        "Izrael",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kumomanyčská propadlina",
+      "values": [
+        "Rakousko",
+        "Libanon",
+        "Rusko",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Val Gardena",
+      "values": [
+        "Švýcarsko",
+        "Egypt",
+        "Rusko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Luzenské údolí",
+      "values": [
+        "Izrael",
+        "Rakousko",
+        "Egypt",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gotthardský průsmyk",
+      "values": [
+        "Rakousko",
+        "Izrael",
+        "Švýcarsko",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Val di Fiemme",
+      "values": [
+        "Řecko",
+        "Rusko",
+        "Itálie",
+        "Egypt"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Údolí Motýlů",
+      "values": [
+        "Egypt",
+        "Řecko",
+        "Itálie",
+        "Rakousko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Engadin",
+      "values": [
+        "Izrael",
+        "Slovensko",
+        "Švýcarsko",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Montafon",
+      "values": [
+        "Egypt",
+        "Německo",
+        "Rakousko",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

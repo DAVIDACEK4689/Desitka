@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Michelle Hansen",
+      "values": [
+        "kanadskou",
+        "belgickou",
+        "íránskou",
+        "dánskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ivana Korolová",
+      "values": [
+        "novozélandskou",
+        "řeckou",
+        "maďarskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sofía Vergara",
+      "values": [
+        "chorvatskou",
+        "kolumbijskou",
+        "rakouskou",
+        "srbskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alyson Hanniganová",
+      "values": [
+        "norskou",
+        "italskou",
+        "finskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nikol Kouklová",
+      "values": [
+        "španělskou",
+        "uzbeckou",
+        "kubánskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaromíra Mílová",
+      "values": [
+        "českou",
+        "íránskou",
+        "jihokorejskou",
+        "irskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Klára Lidová",
+      "values": [
+        "irskou",
+        "uruguayskou",
+        "českou",
+        "argentinskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dannii Minogue",
+      "values": [
+        "australskou",
+        "novozélandskou",
+        "íránskou",
+        "norskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zorka Kohoutová",
+      "values": [
+        "nizozemskou",
+        "indickou",
+        "českou",
+        "dánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Skye McCole Bartusiak",
+      "values": [
+        "švédskou",
+        "srbskou",
+        "australskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

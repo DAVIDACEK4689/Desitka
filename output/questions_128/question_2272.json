@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [žánr] film?",
+  "questions": [
+    {
+      "key": "Red 2",
+      "values": [
+        "pohádkový",
+        "dětský",
+        "špionážní",
+        "hudební"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Agent bez minulosti",
+      "values": [
+        "fantastický",
+        "romantický",
+        "špionážní",
+        "pohádkový"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fontána pro Zuzanu",
+      "values": [
+        "romantický",
+        "dětský",
+        "dokumentární",
+        "hudební"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bourneovo ultimátum",
+      "values": [
+        "dětský",
+        "pohádkový",
+        "fantastický",
+        "špionážní"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pravdivé lži",
+      "values": [
+        "pohádkový",
+        "fantastický",
+        "špionážní",
+        "romantický"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zpívej 2",
+      "values": [
+        "dětský",
+        "romantický",
+        "hudební",
+        "špionážní"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Velký blondýn s černou botou",
+      "values": [
+        "dětský",
+        "špionážní",
+        "romantický",
+        "dokumentární"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Šmoulové 2",
+      "values": [
+        "dětský",
+        "špionážní",
+        "dokumentární",
+        "fantastický"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alvin a Chipmunkové 2",
+      "values": [
+        "dětský",
+        "fantastický",
+        "romantický",
+        "pohádkový"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Na sever severozápadní linkou",
+      "values": [
+        "dětský",
+        "romantický",
+        "pohádkový",
+        "špionážní"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Antonín Barák",
+      "values": [
+        "gambijského",
+        "gruzínského",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "André Onana",
+      "values": [
+        "kamerunského",
+        "ukrajinského",
+        "francouzského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Štajner",
+      "values": [
+        "islandského",
+        "japonského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Frenkie de Jong",
+      "values": [
+        "německého",
+        "belgického",
+        "nizozemského",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Martin Zeman",
+      "values": [
+        "ghanského",
+        "jamajského",
+        "srbského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sami Khedira",
+      "values": [
+        "belgického",
+        "srbského",
+        "německého",
+        "gruzínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Mareš",
+      "values": [
+        "českého",
+        "sovětského",
+        "argentinského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michal Frydrych",
+      "values": [
+        "brazilského",
+        "italského",
+        "českého",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bobby Zamora",
+      "values": [
+        "kamerunského",
+        "anglického",
+        "ekvádorského",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marko Arnautović",
+      "values": [
+        "australského",
+        "senegalského",
+        "jamajského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] astronoma?",
+  "questions": [
+    {
+      "key": "Galileo Galilei",
+      "values": [
+        "ruského",
+        "amerického",
+        "polského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mikuláš Koperník",
+      "values": [
+        "dánského",
+        "polského",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tycho Brahe",
+      "values": [
+        "dánského",
+        "švýcarského",
+        "polského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Giordano Bruno",
+      "values": [
+        "italského",
+        "ruského",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexander von Humboldt",
+      "values": [
+        "německého",
+        "nizozemského",
+        "švédského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Leonhard Euler",
+      "values": [
+        "německého",
+        "slovenského",
+        "švýcarského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Carl Sagan",
+      "values": [
+        "německého",
+        "švédského",
+        "švýcarského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tadeáš Hájek z Hájku",
+      "values": [
+        "německého",
+        "nizozemského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Antonín Bečvář",
+      "values": [
+        "polského",
+        "českého",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Antonín Mrkos",
+      "values": [
+        "ruského",
+        "českého",
+        "švýcarského",
+        "italského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

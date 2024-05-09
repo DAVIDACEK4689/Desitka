@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Michal David",
+      "values": [
+        "ukrajinského",
+        "kanadského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Igor Stravinskij",
+      "values": [
+        "britského",
+        "slovinského",
+        "francouzského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roman Horký",
+      "values": [
+        "brazilského",
+        "českého",
+        "řeckého",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Johann Pachelbel",
+      "values": [
+        "brazilského",
+        "argentinského",
+        "německého",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Dydovič",
+      "values": [
+        "rumunského",
+        "francouzského",
+        "polského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel Duba",
+      "values": [
+        "českého",
+        "španělského",
+        "britského",
+        "estonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Todd Rundgren",
+      "values": [
+        "italského",
+        "švýcarského",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ronald Binge",
+      "values": [
+        "dánského",
+        "britského",
+        "rumunského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andrej Makarevič",
+      "values": [
+        "ruského",
+        "německého",
+        "slovinského",
+        "australského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Charles Ives",
+      "values": [
+        "amerického",
+        "švédského",
+        "finského",
+        "jihoafrického"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

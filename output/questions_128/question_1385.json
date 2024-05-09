@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle pohoří",
+  "questions": [
+    {
+      "key": "Železné hory",
+      "values": [
+        "Řecko",
+        "Německo",
+        "Česko",
+        "Maroko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roháče",
+      "values": [
+        "Rumunsko",
+        "Slovensko",
+        "Černá Hora",
+        "Irsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Picos de Europa",
+      "values": [
+        "Rumunsko",
+        "Španělsko",
+        "Řecko",
+        "Turecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Watzmann",
+      "values": [
+        "Německo",
+        "Maďarsko",
+        "Rakousko",
+        "Indie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gran Sasso",
+      "values": [
+        "Chorvatsko",
+        "Německo",
+        "Itálie",
+        "Slovensko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jotunheimen",
+      "values": [
+        "Norsko",
+        "Indie",
+        "Írán",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dinara",
+      "values": [
+        "Chorvatsko",
+        "Česko",
+        "Španělsko",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kysucké Beskydy",
+      "values": [
+        "Česko",
+        "Bulharsko",
+        "Slovensko",
+        "Rumunsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dekkánské trapy",
+      "values": [
+        "Austrálie",
+        "Irsko",
+        "Tádžikistán",
+        "Indie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Franská Alba",
+      "values": [
+        "Turecko",
+        "Ukrajina",
+        "Portugalsko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete etnický původ podle Čecha",
+  "questions": [
+    {
+      "key": "Andrej Babiš",
+      "values": [
+        "britský původ",
+        "vietnamský původ",
+        "makedonský původ",
+        "slovenský původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alice Masaryková",
+      "values": [
+        "afghánský původ",
+        "francouzský původ",
+        "evropský původ",
+        "vietnamský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martha Issová",
+      "values": [
+        "estonský původ",
+        "běloruský původ",
+        "afghánský původ",
+        "syrský původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hana Hegerová",
+      "values": [
+        "francouzský původ",
+        "slovenský původ",
+        "syrský původ",
+        "makedonský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Julius Zeyer",
+      "values": [
+        "vietnamský původ",
+        "francouzský původ",
+        "slovenský původ",
+        "chorvatský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexander Choupenitch",
+      "values": [
+        "srbský původ",
+        "slovenský původ",
+        "běloruský původ",
+        "evropský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jakub Szántó",
+      "values": [
+        "maďarský původ",
+        "srbský původ",
+        "arménský původ",
+        "ukrajinský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bernard Bolzano",
+      "values": [
+        "italský původ",
+        "židovský původ",
+        "asijský původ",
+        "etiopský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ida Kelarová",
+      "values": [
+        "maďarský původ",
+        "francouzský původ",
+        "afghánský původ",
+        "ukrajinský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexander Tomský",
+      "values": [
+        "syrský původ",
+        "afghánský původ",
+        "maďarský původ",
+        "polský původ"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

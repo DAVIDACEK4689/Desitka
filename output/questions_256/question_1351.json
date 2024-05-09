@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] ledního hokejistu?",
+  "questions": [
+    {
+      "key": "David Krejčí",
+      "values": [
+        "československého",
+        "českého",
+        "amerického",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rostislav Olesz",
+      "values": [
+        "českého",
+        "amerického",
+        "kanadského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavel Bure",
+      "values": [
+        "rakouského",
+        "švýcarského",
+        "ruského",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jevgenij Malkin",
+      "values": [
+        "ruského",
+        "německého",
+        "sovětského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "František Dibarbora",
+      "values": [
+        "slovenského",
+        "amerického",
+        "československého",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jakub Lauko",
+      "values": [
+        "československého",
+        "švýcarského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Košťálek",
+      "values": [
+        "českého",
+        "německého",
+        "slovenského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lukáš Krenželok",
+      "values": [
+        "finského",
+        "českého",
+        "sovětského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Evžen Musil",
+      "values": [
+        "československého",
+        "sovětského",
+        "německého",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jevgenij Arťuchin",
+      "values": [
+        "českého",
+        "sovětského",
+        "ruského",
+        "lotyšského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

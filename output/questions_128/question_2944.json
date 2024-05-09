@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] literární dílo?",
+  "questions": [
+    {
+      "key": "Deník Anne Frankové",
+      "values": [
+        "nizozemské",
+        "české",
+        "polské",
+        "japonské"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gargantua a Pantagruel",
+      "values": [
+        "francouzské",
+        "rakouské",
+        "anglické",
+        "japonské"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kolo času",
+      "values": [
+        "americké",
+        "polské",
+        "české",
+        "španělské"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Budyšínský rukopis",
+      "values": [
+        "polské",
+        "italské",
+        "české",
+        "finské"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sedm bajek židovských",
+      "values": [
+        "francouzské",
+        "české",
+        "čínské",
+        "nizozemské"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "O duchu zákonů",
+      "values": [
+        "rakouské",
+        "čínské",
+        "irské",
+        "francouzské"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vampýrská akademie",
+      "values": [
+        "ruské",
+        "americké",
+        "italské",
+        "španělské"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pan Tadeáš",
+      "values": [
+        "italské",
+        "francouzské",
+        "polské",
+        "anglické"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Do not go gentle into that good night",
+      "values": [
+        "velšské",
+        "pruské",
+        "rakouské",
+        "nizozemské"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lovcovy zápisky",
+      "values": [
+        "italské",
+        "japonské",
+        "pruské",
+        "ruské"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

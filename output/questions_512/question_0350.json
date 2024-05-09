@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [období] malíře?",
+  "questions": [
+    {
+      "key": "Alfons Mucha",
+      "values": [
+        "barokního",
+        "secesního",
+        "romantického",
+        "renesančního"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Mánes",
+      "values": [
+        "romantického",
+        "realistického",
+        "renesančního",
+        "barokního"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Max Švabinský",
+      "values": [
+        "realistického",
+        "barokního",
+        "secesního",
+        "renesančního"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sandro Botticelli",
+      "values": [
+        "barokního",
+        "romantického",
+        "renesančního",
+        "realistického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Édouard Manet",
+      "values": [
+        "realistického",
+        "secesního",
+        "renesančního",
+        "gotického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "El Greco",
+      "values": [
+        "gotického",
+        "renesančního",
+        "secesního",
+        "barokního"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Giotto di Bondone",
+      "values": [
+        "barokního",
+        "secesního",
+        "gotického",
+        "renesančního"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Diego Velázquez",
+      "values": [
+        "renesančního",
+        "secesního",
+        "gotického",
+        "barokního"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Caspar David Friedrich",
+      "values": [
+        "realistického",
+        "gotického",
+        "romantického",
+        "secesního"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Masaccio",
+      "values": [
+        "barokního",
+        "gotického",
+        "romantického",
+        "renesančního"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

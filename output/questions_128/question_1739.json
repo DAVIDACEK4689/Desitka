@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] cyklistu?",
+  "questions": [
+    {
+      "key": "Vlasta Burian",
+      "values": [
+        "československého",
+        "španělského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roman Kreuziger",
+      "values": [
+        "australského",
+        "francouzského",
+        "kolumbijského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Ullrich",
+      "values": [
+        "německého",
+        "ekvádorského",
+        "lucemburského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Thibaut Pinot",
+      "values": [
+        "francouzského",
+        "uzbeckého",
+        "australského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Olaf Ludwig",
+      "values": [
+        "německého",
+        "italského",
+        "lucemburského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mads Pedersen",
+      "values": [
+        "dánského",
+        "německého",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Kelemen",
+      "values": [
+        "amerického",
+        "ekvádorského",
+        "československého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miroslav Vymazal",
+      "values": [
+        "švýcarského",
+        "rakouského",
+        "dánského",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tom Boonen",
+      "values": [
+        "belgického",
+        "slovinského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Róbert Hutyra",
+      "values": [
+        "italského",
+        "slovenského",
+        "uzbeckého",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

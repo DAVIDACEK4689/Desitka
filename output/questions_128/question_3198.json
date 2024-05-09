@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] právníka?",
+  "questions": [
+    {
+      "key": "Marián Čalfa",
+      "values": [
+        "srbského",
+        "rakouského",
+        "slovenského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Georges Danton",
+      "values": [
+        "francouzského",
+        "brazilského",
+        "rakouského",
+        "argentinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Štefan Miština",
+      "values": [
+        "slovenského",
+        "řeckého",
+        "izraelského",
+        "peruánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stanislav Huml",
+      "values": [
+        "peruánského",
+        "českého",
+        "ruského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jozef Moravčík",
+      "values": [
+        "švýcarského",
+        "českého",
+        "slovenského",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivan Dérer",
+      "values": [
+        "peruánského",
+        "italského",
+        "slovenského",
+        "brazilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robert Bilott",
+      "values": [
+        "izraelského",
+        "chorvatského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Milan Hulmák",
+      "values": [
+        "slovinského",
+        "portugalského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Wilhelm Marx",
+      "values": [
+        "rumunského",
+        "srbského",
+        "německého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rudolf Cogan",
+      "values": [
+        "českého",
+        "mexického",
+        "francouzského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

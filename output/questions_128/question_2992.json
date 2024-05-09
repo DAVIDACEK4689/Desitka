@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle administrativního dělení",
+  "questions": [
+    {
+      "key": "Podněstří",
+      "values": [
+        "Ukrajina",
+        "Mongolsko",
+        "Moldavsko",
+        "Rumunsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bangkok",
+      "values": [
+        "Thajsko",
+        "Tanzanie",
+        "Myanmar",
+        "Švédsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sevastopol",
+      "values": [
+        "Ukrajina",
+        "Itálie",
+        "Nový Zéland",
+        "Izrael"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Minsk",
+      "values": [
+        "Německo",
+        "Tanzanie",
+        "Bělorusko",
+        "Uzbekistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Mayen",
+      "values": [
+        "Angola",
+        "Jugoslávie",
+        "Norsko",
+        "Mongolsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cabinda",
+      "values": [
+        "Izrael",
+        "Angola",
+        "Maďarsko",
+        "Norsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zákon o územně správním členění státu",
+      "values": [
+        "Angola",
+        "Rumunsko",
+        "Česko",
+        "Dánsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Administrativní dělení Anglie",
+      "values": [
+        "Československo",
+        "Spojené království",
+        "Rumunsko",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Autonomní územně správní jednotka se zvláštním statusem Podněstří",
+      "values": [
+        "Česko",
+        "Moldavsko",
+        "Mexiko",
+        "Mongolsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Administrativní dělení Skotska",
+      "values": [
+        "Spojené království",
+        "Jugoslávie",
+        "Nový Zéland",
+        "Dánsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

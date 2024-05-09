@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Richard Genzer",
+      "values": [
+        "německého",
+        "ruského",
+        "českého",
+        "tureckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Harrison Ford",
+      "values": [
+        "malajsijského",
+        "amerického",
+        "ruského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Richard Hes",
+      "values": [
+        "ukrajinského",
+        "českého",
+        "chilského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kirk Douglas",
+      "values": [
+        "německého",
+        "izraelského",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kenneth Branagh",
+      "values": [
+        "českého",
+        "španělského",
+        "britského",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Franco Nero",
+      "values": [
+        "novozélandského",
+        "venezuelského",
+        "francouzského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gary Burghoff",
+      "values": [
+        "tureckého",
+        "indického",
+        "jihoafrického",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kieran Culkin",
+      "values": [
+        "italského",
+        "indického",
+        "amerického",
+        "marockého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bohumil Bezouška",
+      "values": [
+        "českého",
+        "španělského",
+        "rakouského",
+        "guatemalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert Duvall",
+      "values": [
+        "britského",
+        "italského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

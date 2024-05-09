@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] svatého?",
+  "questions": [
+    {
+      "key": "Anežka Česká",
+      "values": [
+        "skotského",
+        "českého",
+        "anglického",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Thomas More",
+      "values": [
+        "arménského",
+        "českého",
+        "anglického",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Svatý Ivan",
+      "values": [
+        "súdánského",
+        "peruánského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Svatá Valburga",
+      "values": [
+        "anglického",
+        "súdánského",
+        "libanonského",
+        "skotského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Svatý Havel",
+      "values": [
+        "peruánského",
+        "francouzského",
+        "slovenského",
+        "irského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Svatý Bonaventura",
+      "values": [
+        "indického",
+        "alžírského",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gemma Galganiová",
+      "values": [
+        "italského",
+        "srbského",
+        "ukrajinského",
+        "velšského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Růžena Limská",
+      "values": [
+        "slovenského",
+        "srbského",
+        "egyptského",
+        "peruánského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lazar Hrebeljanović",
+      "values": [
+        "srbského",
+        "ugandského",
+        "polského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Liberius",
+      "values": [
+        "italského",
+        "peruánského",
+        "alžírského",
+        "irského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

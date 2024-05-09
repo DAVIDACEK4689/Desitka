@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] hudební skupinu?",
+  "questions": [
+    {
+      "key": "Skyline",
+      "values": [
+        "českou",
+        "rakouskou",
+        "jihoafrickou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Billy Talent",
+      "values": [
+        "americkou",
+        "belgickou",
+        "kanadskou",
+        "bosenskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Little Mix",
+      "values": [
+        "britskou",
+        "nizozemskou",
+        "chorvatskou",
+        "dánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "SHINee",
+      "values": [
+        "slovenskou",
+        "ruskou",
+        "slovinskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "The Hollies",
+      "values": [
+        "irskou",
+        "jihoafrickou",
+        "britskou",
+        "islandskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "The Damned",
+      "values": [
+        "kanadskou",
+        "moldavskou",
+        "britskou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Infected Rain",
+      "values": [
+        "moldavskou",
+        "portugalskou",
+        "slovenskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chickenfoot",
+      "values": [
+        "estonskou",
+        "italskou",
+        "americkou",
+        "maďarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "The Agony",
+      "values": [
+        "českou",
+        "britskou",
+        "australskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Timudej",
+      "values": [
+        "estonskou",
+        "českou",
+        "slovinskou",
+        "kanadskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

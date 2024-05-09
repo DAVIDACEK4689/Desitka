@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "Benito Mussolini",
+      "values": [
+        "maďarského",
+        "italského",
+        "českého",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jacqueline Kennedyová Onassisová",
+      "values": [
+        "německého",
+        "švýcarského",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hana Benešová",
+      "values": [
+        "českého",
+        "britského",
+        "švýcarského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alec Baldwin",
+      "values": [
+        "britského",
+        "amerického",
+        "maďarského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Pekař",
+      "values": [
+        "kanadského",
+        "českého",
+        "portugalského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ferruccio Lamborghini",
+      "values": [
+        "kanadského",
+        "amerického",
+        "italského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sonny Bono",
+      "values": [
+        "francouzského",
+        "švýcarského",
+        "kanadského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ilona Staller",
+      "values": [
+        "maďarského",
+        "portugalského",
+        "německého",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Matteo Salvini",
+      "values": [
+        "francouzského",
+        "kanadského",
+        "maďarského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mario Draghi",
+      "values": [
+        "kanadského",
+        "britského",
+        "italského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

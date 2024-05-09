@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle archeologické lokality",
+  "questions": [
+    {
+      "key": "Machu Picchu",
+      "values": [
+        "Pero",
+        "Česko",
+        "Chorvatsko",
+        "Jordánsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Starověké Kartágo",
+      "values": [
+        "Tunisko",
+        "Francie",
+        "Jihoafrická republika",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Olivová hora",
+      "values": [
+        "Izrael",
+        "Španělsko",
+        "Irák",
+        "Srí Lanka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hadriánova vila",
+      "values": [
+        "Sýrie",
+        "Indonésie",
+        "Itálie",
+        "Írán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Capua",
+      "values": [
+        "Itálie",
+        "Španělsko",
+        "Švýcarsko",
+        "Federativní státy Mikronésie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Peschiera del Garda",
+      "values": [
+        "Írán",
+        "Itálie",
+        "Pákistán",
+        "Tunisko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chalkis",
+      "values": [
+        "Tunisko",
+        "Řecko",
+        "Jordánsko",
+        "Sýrie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Klášter Vardzia",
+      "values": [
+        "Gruzie",
+        "Afghánistán",
+        "Pákistán",
+        "Tanzanie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sau",
+      "values": [
+        "Řecko",
+        "Srí Lanka",
+        "Itálie",
+        "Egypt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nechen",
+      "values": [
+        "Litva",
+        "Egypt",
+        "Kambodža",
+        "Indonésie"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

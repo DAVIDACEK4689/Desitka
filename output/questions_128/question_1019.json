@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vegetariána?",
+  "questions": [
+    {
+      "key": "Adolf Hitler",
+      "values": [
+        "britského",
+        "německého",
+        "ruského",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zuzana Norisová",
+      "values": [
+        "španělského",
+        "belgického",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Anne Hathawayová",
+      "values": [
+        "kanadského",
+        "ruského",
+        "nizozemského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rainer Maria Rilke",
+      "values": [
+        "irského",
+        "německého",
+        "izraelského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Dědeček",
+      "values": [
+        "českého",
+        "izraelského",
+        "ruského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Freeman",
+      "values": [
+        "kanadského",
+        "britského",
+        "španělského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nikol Kouklová",
+      "values": [
+        "australského",
+        "amerického",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Paavo Nurmi",
+      "values": [
+        "španělského",
+        "belgického",
+        "finského",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Paul Brunton",
+      "values": [
+        "indického",
+        "australského",
+        "irského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Benjamin Kowalewicz",
+      "values": [
+        "indického",
+        "australského",
+        "izraelského",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Vyproštění francouzských vojáků ze základny Karin",
+      "values": [
+        "1187",
+        "1314",
+        "1863",
+        "1993"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Operace Overlord",
+      "values": [
+        "1453",
+        "1571",
+        "1944",
+        "1813"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva na Vítkově",
+      "values": [
+        "1905",
+        "1645",
+        "1444",
+        "1420"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Hastingsu",
+      "values": [
+        "1746",
+        "1260",
+        "2024",
+        "1066"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Obléhání Tobruku",
+      "values": [
+        "1809",
+        "1805",
+        "1431",
+        "1941"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Doolittlův nálet",
+      "values": [
+        "1812",
+        "1942",
+        "1526",
+        "1914"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Brusilovova ofenzíva",
+      "values": [
+        "2022",
+        "1876",
+        "1757",
+        "1916"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Čeljabinský incident",
+      "values": [
+        "1420",
+        "1918",
+        "1905",
+        "1526"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Gravelines",
+      "values": [
+        "1588",
+        "1941",
+        "1214",
+        "1380"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Bouvines",
+      "values": [
+        "2024",
+        "1214",
+        "1410",
+        "1588"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

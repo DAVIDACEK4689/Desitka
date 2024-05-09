@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle administrativního dělení",
+  "questions": [
+    {
+      "key": "Zanzibar",
+      "values": [
+        "Izrael",
+        "Tanzanie",
+        "Gruzie",
+        "Mexiko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Podněstří",
+      "values": [
+        "Rumunsko",
+        "Moldavsko",
+        "Ázerbájdžán",
+        "Gruzie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Špicberky",
+      "values": [
+        "Norsko",
+        "Moldavsko",
+        "Thajsko",
+        "Mongolsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Abcházie",
+      "values": [
+        "Gruzie",
+        "Thajsko",
+        "Švédsko",
+        "Izrael"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bukurešť",
+      "values": [
+        "Bělorusko",
+        "Rumunsko",
+        "Mongolsko",
+        "Mexiko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jižní Osetie",
+      "values": [
+        "Švédsko",
+        "Dánsko",
+        "Tanzanie",
+        "Gruzie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sevastopol",
+      "values": [
+        "Ukrajina",
+        "Gruzie",
+        "Polsko",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ulánbátar",
+      "values": [
+        "Řecko",
+        "Mexiko",
+        "Thajsko",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Athos",
+      "values": [
+        "Norsko",
+        "Ázerbájdžán",
+        "Švédsko",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Autonomní republika Krym",
+      "values": [
+        "Gruzie",
+        "Ukrajina",
+        "Srbsko",
+        "Bělorusko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

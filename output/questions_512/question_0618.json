@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] právníka?",
+  "questions": [
+    {
+      "key": "Emil Hácha",
+      "values": [
+        "britského",
+        "rakouského",
+        "českého",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Pithart",
+      "values": [
+        "britského",
+        "polského",
+        "ukrajinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alexej Navalnyj",
+      "values": [
+        "ruského",
+        "estonského",
+        "britského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Konrad Adenauer",
+      "values": [
+        "řeckého",
+        "německého",
+        "maďarského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vojtěch Filip",
+      "values": [
+        "polského",
+        "českého",
+        "estonského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavel Kosatík",
+      "values": [
+        "polského",
+        "estonského",
+        "srbského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Nielsen",
+      "values": [
+        "ruského",
+        "českého",
+        "amerického",
+        "estonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gerhard Schröder",
+      "values": [
+        "britského",
+        "německého",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Charlie Munger",
+      "values": [
+        "německého",
+        "maďarského",
+        "amerického",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Štefan Miština",
+      "values": [
+        "francouzského",
+        "slovenského",
+        "srbského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistku?",
+  "questions": [
+    {
+      "key": "Markéta Vondroušová",
+      "values": [
+        "českou",
+        "chorvatskou",
+        "ruskou",
+        "australskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Aryna Sabalenková",
+      "values": [
+        "tuniskou",
+        "běloruskou",
+        "španělskou",
+        "slovenskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jelena Rybakinová",
+      "values": [
+        "americkou",
+        "australskou",
+        "argentinskou",
+        "ruskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Brenda Fruhvirtová",
+      "values": [
+        "českou",
+        "tuniskou",
+        "lotyšskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tereza Martincová",
+      "values": [
+        "ruskou",
+        "českou",
+        "argentinskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lucie Hradecká",
+      "values": [
+        "českou",
+        "československou",
+        "srbskou",
+        "španělskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dominika Cibulková",
+      "values": [
+        "tuniskou",
+        "španělskou",
+        "československou",
+        "slovenskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mirra Andrejevová",
+      "values": [
+        "španělskou",
+        "československou",
+        "ruskou",
+        "běloruskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gabriela Sabatini",
+      "values": [
+        "běloruskou",
+        "argentinskou",
+        "švýcarskou",
+        "německou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jekatěrina Alexandrovová",
+      "values": [
+        "dánskou",
+        "řeckou",
+        "ruskou",
+        "českou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

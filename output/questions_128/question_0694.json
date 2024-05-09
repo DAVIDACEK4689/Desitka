@@ -1,0 +1,105 @@
+{
+  "text": "Určete bojiště podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva u Waterloo",
+      "values": [
+        "Japonsko",
+        "Singapur",
+        "Belgie",
+        "Súdán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Dunkerque",
+      "values": [
+        "Pákistán",
+        "Francie",
+        "Turecko",
+        "Albánie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kapitulace u Világoše",
+      "values": [
+        "Rumunsko",
+        "Irák",
+        "Francie",
+        "Somálsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Caporetta",
+      "values": [
+        "Belgie",
+        "Německo",
+        "Slovinsko",
+        "Rumunsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Friedlandu",
+      "values": [
+        "Slovensko",
+        "Tunisko",
+        "Rusko",
+        "Gruzie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Falkirku",
+      "values": [
+        "Norsko",
+        "Spojené království",
+        "Ukrajina",
+        "Finsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Lipjag",
+      "values": [
+        "Pákistán",
+        "Finsko",
+        "Rusko",
+        "Vietnam"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Ankary",
+      "values": [
+        "Mongolsko",
+        "Spojené království",
+        "Turecko",
+        "Bělorusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Sarikamiše",
+      "values": [
+        "Turecko",
+        "Gruzie",
+        "Senegal",
+        "Uganda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Pelúsia",
+      "values": [
+        "Norsko",
+        "Srbsko",
+        "Finsko",
+        "Egypt"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [národnost] komunistu?",
+  "questions": [
+    {
+      "key": "Andrej Babiš",
+      "values": [
+        "polského",
+        "ázerbájdžánského",
+        "sovětského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nicolae Ceaușescu",
+      "values": [
+        "rumunského",
+        "ázerbájdžánského",
+        "jugoslávského",
+        "československého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pablo Neruda",
+      "values": [
+        "polského",
+        "brazilského",
+        "chilského",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Slavoj Žižek",
+      "values": [
+        "mexického",
+        "sovětského",
+        "chilského",
+        "jugoslávského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Diego Rivera",
+      "values": [
+        "jugoslávského",
+        "mexického",
+        "vietnamského",
+        "ázerbájdžánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Elena Ceaușescuová",
+      "values": [
+        "sovětského",
+        "československého",
+        "ruského",
+        "rumunského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Béla Kun",
+      "values": [
+        "vietnamského",
+        "československého",
+        "maďarského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ion Iliescu",
+      "values": [
+        "rumunského",
+        "jugoslávského",
+        "mexického",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Erich Mielke",
+      "values": [
+        "kambodžského",
+        "amerického",
+        "německého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Antonín Janoušek",
+      "values": [
+        "maďarského",
+        "brazilského",
+        "sovětského",
+        "českého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

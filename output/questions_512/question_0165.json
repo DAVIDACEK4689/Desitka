@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Edgar Allan Poe",
+      "values": [
+        "ukrajinského",
+        "anglického",
+        "amerického",
+        "chilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hans Christian Andersen",
+      "values": [
+        "maďarského",
+        "dánského",
+        "norského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Charles Baudelaire",
+      "values": [
+        "francouzského",
+        "slovenského",
+        "vietnamského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ľudovít Štúr",
+      "values": [
+        "španělského",
+        "skotského",
+        "slovenského",
+        "chilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Serge Gainsbourg",
+      "values": [
+        "skotského",
+        "norského",
+        "slovenského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Václav Hanka",
+      "values": [
+        "českého",
+        "vietnamského",
+        "skotského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ludvík Kundera",
+      "values": [
+        "irského",
+        "anglického",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aldous Huxley",
+      "values": [
+        "španělského",
+        "anglického",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jon Fosse",
+      "values": [
+        "španělského",
+        "norského",
+        "ruského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Henry David Thoreau",
+      "values": [
+        "anglického",
+        "norského",
+        "vietnamského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

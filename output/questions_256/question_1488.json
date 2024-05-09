@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle českého sportovce",
+  "questions": [
+    {
+      "key": "Petr Klíma",
+      "values": [
+        "šachista",
+        "lední hokejista",
+        "veslař",
+        "basketbalista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ondřej Pavelec",
+      "values": [
+        "basketbalista",
+        "lední hokejista",
+        "lyžař",
+        "stolní tenista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rostislav Olesz",
+      "values": [
+        "lední hokejista",
+        "basketbalista",
+        "automobilový závodník",
+        "cyklista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "František Kaberle",
+      "values": [
+        "bojový umělec",
+        "fotbalista",
+        "lední hokejista",
+        "boxer"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Csaplár",
+      "values": [
+        "fotbalista",
+        "zápasník",
+        "stolní tenista",
+        "bojový umělec"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Arnošt Petráček",
+      "values": [
+        "lední hokejista",
+        "zápasník",
+        "plavec",
+        "kickboxeři"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "František Jákl",
+      "values": [
+        "judista",
+        "veslař",
+        "rybář",
+        "lední hokejista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lukáš Dostál",
+      "values": [
+        "horolezec",
+        "lední hokejista",
+        "kickboxeři",
+        "judista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miroslav Beránek",
+      "values": [
+        "fotbalista",
+        "tenista",
+        "judista",
+        "horolezec"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ondřej Balvín",
+      "values": [
+        "lyžař",
+        "basketbalista",
+        "plavec",
+        "tenista"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

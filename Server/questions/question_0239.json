@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistku?",
+  "questions": [
+    {
+      "key": "Markéta Vondroušová",
+      "values": [
+        "českou",
+        "kanadskou",
+        "švýcarskou",
+        "americkou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karolína Muchová",
+      "values": [
+        "běloruskou",
+        "ruskou",
+        "českou",
+        "švýcarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aryna Sabalenková",
+      "values": [
+        "běloruskou",
+        "švýcarskou",
+        "tuniskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Serena Williamsová",
+      "values": [
+        "tuniskou",
+        "německou",
+        "americkou",
+        "kanadskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jelena Rybakinová",
+      "values": [
+        "běloruskou",
+        "ruskou",
+        "německou",
+        "kanadskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Linda Fruhvirtová",
+      "values": [
+        "ukrajinskou",
+        "švýcarskou",
+        "českou",
+        "německou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Brenda Fruhvirtová",
+      "values": [
+        "polskou",
+        "českou",
+        "německou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Coco Gauffová",
+      "values": [
+        "dánskou",
+        "ruskou",
+        "českou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tereza Martincová",
+      "values": [
+        "kanadskou",
+        "německou",
+        "českou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anna Kurnikovová",
+      "values": [
+        "německou",
+        "tuniskou",
+        "ruskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] firmu?",
+  "questions": [
+    {
+      "key": "Vanguard Group",
+      "values": [
+        "malajsijskou",
+        "saúdskoarabskou",
+        "americkou",
+        "dánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alibaba Group",
+      "values": [
+        "nizozemskou",
+        "japonskou",
+        "čínskou",
+        "rakouskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Edeka",
+      "values": [
+        "německou",
+        "americkou",
+        "nizozemskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Canon",
+      "values": [
+        "belgickou",
+        "japonskou",
+        "švédskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ericsson",
+      "values": [
+        "rumunskou",
+        "finskou",
+        "švédskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Strojní a traktorová stanice",
+      "values": [
+        "slovinskou",
+        "československou",
+        "izraelskou",
+        "španělskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Yonex",
+      "values": [
+        "francouzskou",
+        "japonskou",
+        "ruskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Koch Industries",
+      "values": [
+        "americkou",
+        "dánskou",
+        "japonskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fidelity Investments",
+      "values": [
+        "saúdskoarabskou",
+        "americkou",
+        "československou",
+        "chorvatskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fornetti",
+      "values": [
+        "sovětskou",
+        "kanadskou",
+        "norskou",
+        "maďarskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

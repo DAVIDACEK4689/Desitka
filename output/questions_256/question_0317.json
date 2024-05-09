@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Bern",
+      "values": [
+        "Rakousko",
+        "Chorvatsko",
+        "Švýcarsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ulánbátar",
+      "values": [
+        "Mongolsko",
+        "Jordánsko",
+        "Mosambik",
+        "Alžírsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Uppsala",
+      "values": [
+        "Bahrajn",
+        "Švédsko",
+        "Senegal",
+        "Kambodža"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oradea",
+      "values": [
+        "Vietnam",
+        "Rumunsko",
+        "Madagaskar",
+        "Egypt"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Uzavřené město",
+      "values": [
+        "Etiopie",
+        "Senegal",
+        "Rusko",
+        "Malta"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Niamey",
+      "values": [
+        "Niger",
+        "Brunej",
+        "Tunisko",
+        "Nigérie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sapporo",
+      "values": [
+        "Botswana",
+        "Japonsko",
+        "Indie",
+        "Pákistán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Raabs an der Thaya",
+      "values": [
+        "Belgie",
+        "Francie",
+        "Rakousko",
+        "Pero"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fukuoka",
+      "values": [
+        "Rumunsko",
+        "Nový Zéland",
+        "Indie",
+        "Japonsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cascais",
+      "values": [
+        "Portugalsko",
+        "Laos",
+        "Ekvádor",
+        "Vietnam"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

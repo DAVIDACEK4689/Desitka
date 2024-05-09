@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] literaturu?",
+  "questions": [
+    {
+      "key": "Svaz moderní kultury Devětsil",
+      "values": [
+        "ruskou",
+        "irskou",
+        "řeckou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lumírovci",
+      "values": [
+        "ruskou",
+        "českou",
+        "mexickou",
+        "řeckou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ruchovci",
+      "values": [
+        "českou",
+        "belgickou",
+        "ruskou",
+        "islandskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pinocchio",
+      "values": [
+        "sovětskou",
+        "britskou",
+        "ruskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mantra",
+      "values": [
+        "irskou",
+        "americkou",
+        "indickou",
+        "řeckou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mrtvé duše",
+      "values": [
+        "irskou",
+        "sovětskou",
+        "ruskou",
+        "indickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Edda",
+      "values": [
+        "indickou",
+        "českou",
+        "islandskou",
+        "kolumbijskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sága",
+      "values": [
+        "švýcarskou",
+        "kolumbijskou",
+        "islandskou",
+        "irskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anton Günther",
+      "values": [
+        "kolumbijskou",
+        "britskou",
+        "německou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Parzival",
+      "values": [
+        "islandskou",
+        "italskou",
+        "německou",
+        "řeckou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

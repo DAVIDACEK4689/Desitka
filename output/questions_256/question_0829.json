@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vynálezce?",
+  "questions": [
+    {
+      "key": "Otto Wichterle",
+      "values": [
+        "sovětského",
+        "irského",
+        "českého",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Prokop Diviš",
+      "values": [
+        "českého",
+        "německého",
+        "belgického",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Adolph Frank",
+      "values": [
+        "italského",
+        "amerického",
+        "sovětského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Božek",
+      "values": [
+        "řeckého",
+        "rakouského",
+        "sovětského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michail Lomonosov",
+      "values": [
+        "ruského",
+        "kanadského",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ferdinand von Zeppelin",
+      "values": [
+        "německého",
+        "irského",
+        "českého",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert Fulton",
+      "values": [
+        "amerického",
+        "ruského",
+        "švédského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Louis Braille",
+      "values": [
+        "švýcarského",
+        "francouzského",
+        "německého",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gerhard Mercator",
+      "values": [
+        "polského",
+        "českého",
+        "řeckého",
+        "belgického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Auguste Piccard",
+      "values": [
+        "italského",
+        "francouzského",
+        "kanadského",
+        "švýcarského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

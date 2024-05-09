@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Igor Matovič",
+      "values": [
+        "slovenského",
+        "švýcarského",
+        "nizozemského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lewis Strauss",
+      "values": [
+        "amerického",
+        "švédského",
+        "německého",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Patrik Tkáč",
+      "values": [
+        "indického",
+        "amerického",
+        "řeckého",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Guglielmo Marconi",
+      "values": [
+        "amerického",
+        "španělského",
+        "italského",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vlastislav Bříza",
+      "values": [
+        "řeckého",
+        "českého",
+        "britského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Thomas Prinzhorn",
+      "values": [
+        "rakouského",
+        "francouzského",
+        "španělského",
+        "libanonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pierre Cardin",
+      "values": [
+        "kanadského",
+        "ruského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Carlos Slim Helú",
+      "values": [
+        "slovenského",
+        "španělského",
+        "indického",
+        "mexického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Liliane Bettencourtová",
+      "values": [
+        "belgického",
+        "libanonského",
+        "polského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Daša Žukovová",
+      "values": [
+        "ukrajinského",
+        "belgického",
+        "ruského",
+        "britského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

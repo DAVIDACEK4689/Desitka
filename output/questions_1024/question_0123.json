@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] hudební skupinu?",
+  "questions": [
+    {
+      "key": "Bee Gees",
+      "values": [
+        "jihokorejskou",
+        "britskou",
+        "švédskou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Blackpink",
+      "values": [
+        "švédskou",
+        "českou",
+        "jihokorejskou",
+        "jihoafrickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roxette",
+      "values": [
+        "britskou",
+        "švédskou",
+        "jihoafrickou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lollipopz",
+      "values": [
+        "jihoafrickou",
+        "ruskou",
+        "českou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Spice Girls",
+      "values": [
+        "jihoafrickou",
+        "ruskou",
+        "britskou",
+        "švédskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Milli Vanilli",
+      "values": [
+        "českou",
+        "německou",
+        "švédskou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jamaron",
+      "values": [
+        "českou",
+        "italskou",
+        "jihoafrickou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ramones",
+      "values": [
+        "českou",
+        "americkou",
+        "německou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Take That",
+      "values": [
+        "jihoafrickou",
+        "českou",
+        "jihokorejskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martha a Tena",
+      "values": [
+        "českou",
+        "britskou",
+        "švédskou",
+        "jihoafrickou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

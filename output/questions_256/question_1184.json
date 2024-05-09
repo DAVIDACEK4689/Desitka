@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte režisérku podle filmu",
+  "questions": [
+    {
+      "key": "S tebou mě baví svět",
+      "values": [
+        "Agnieszka Hollandová",
+        "Marie Poledňáková",
+        "Leni Riefenstahlová",
+        "Kathryn Bigelowová"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jak vytrhnout velrybě stoličku",
+      "values": [
+        "Nancy Meyers",
+        "Kathryn Bigelowová",
+        "Marie Poledňáková",
+        "Agnieszka Hollandová"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Americké psycho",
+      "values": [
+        "Kathryn Bigelowová",
+        "Věra Chytilová",
+        "Mary Harronová",
+        "Marie Poledňáková"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Po čem ženy touží",
+      "values": [
+        "Patty Jenkinsová",
+        "Mary Harronová",
+        "Nancy Meyers",
+        "Věra Chytilová"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sedmikrásky",
+      "values": [
+        "Věra Chytilová",
+        "Agnieszka Hollandová",
+        "Leni Riefenstahlová",
+        "Sofia Coppola"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lepší pozdě nežli později",
+      "values": [
+        "Leni Riefenstahlová",
+        "Kathryn Bigelowová",
+        "Věra Chytilová",
+        "Nancy Meyers"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Úplné zatmění",
+      "values": [
+        "Leni Riefenstahlová",
+        "Věra Chytilová",
+        "Patty Jenkinsová",
+        "Agnieszka Hollandová"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ztraceno v překladu",
+      "values": [
+        "Mary Harronová",
+        "Nancy Meyers",
+        "Sofia Coppola",
+        "Agnieszka Hollandová"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Triumf vůle",
+      "values": [
+        "Agnieszka Hollandová",
+        "Nancy Meyers",
+        "Věra Chytilová",
+        "Leni Riefenstahlová"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Smrt čeká všude",
+      "values": [
+        "Patty Jenkinsová",
+        "Sofia Coppola",
+        "Kathryn Bigelowová",
+        "Marie Poledňáková"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Cristiano Ronaldo",
+      "values": [
+        "portugalského",
+        "českého",
+        "skotského",
+        "uruguayského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavel Nedvěd",
+      "values": [
+        "francouzského",
+        "českého",
+        "španělského",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tomáš Řepka",
+      "values": [
+        "italského",
+        "dánského",
+        "českého",
+        "argentinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pep Guardiola",
+      "values": [
+        "egyptského",
+        "polského",
+        "nizozemského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Čvančara",
+      "values": [
+        "švédského",
+        "egyptského",
+        "českého",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Adam Hložek",
+      "values": [
+        "českého",
+        "německého",
+        "nizozemského",
+        "velšského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alex Ferguson",
+      "values": [
+        "skotského",
+        "brazilského",
+        "velšského",
+        "uruguayského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladimír Coufal",
+      "values": [
+        "chorvatského",
+        "velšského",
+        "egyptského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Lafata",
+      "values": [
+        "španělského",
+        "německého",
+        "nizozemského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Václav Jurečka",
+      "values": [
+        "velšského",
+        "českého",
+        "norského",
+        "uruguayského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

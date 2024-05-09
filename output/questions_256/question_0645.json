@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle geologické lokality",
+  "questions": [
+    {
+      "key": "Etna",
+      "values": [
+        "Francie",
+        "Island",
+        "Itálie",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vesuv",
+      "values": [
+        "Polsko",
+        "Itálie",
+        "Island",
+        "Francie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stromboli",
+      "values": [
+        "Polsko",
+        "Itálie",
+        "Island",
+        "Německo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vádí Rum",
+      "values": [
+        "Island",
+        "Francie",
+        "Jordánsko",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rieský kráter",
+      "values": [
+        "Polsko",
+        "Island",
+        "Jordánsko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Grand canyon du Verdon",
+      "values": [
+        "Francie",
+        "Jordánsko",
+        "Německo",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Třístoličník",
+      "values": [
+        "Jordánsko",
+        "Německo",
+        "Island",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Velká Hejšovina",
+      "values": [
+        "Polsko",
+        "Itálie",
+        "Francie",
+        "Island"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vulcano",
+      "values": [
+        "Itálie",
+        "Island",
+        "Německo",
+        "Jordánsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bludné skály",
+      "values": [
+        "Německo",
+        "Polsko",
+        "Francie",
+        "Jordánsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

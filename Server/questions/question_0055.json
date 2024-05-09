@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] literární dílo?",
+  "questions": [
+    {
+      "key": "Malý princ",
+      "values": [
+        "německé",
+        "české",
+        "italské",
+        "francouzské"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stařec a moře",
+      "values": [
+        "španělské",
+        "anglické",
+        "české",
+        "americké"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "My děti ze stanice ZOO",
+      "values": [
+        "americké",
+        "německé",
+        "české",
+        "španělské"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dekameron",
+      "values": [
+        "italské",
+        "francouzské",
+        "španělské",
+        "německé"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rukopis královédvorský",
+      "values": [
+        "finské",
+        "italské",
+        "německé",
+        "české"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tristan a Isolda",
+      "values": [
+        "francouzské",
+        "americké",
+        "španělské",
+        "finské"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Muminci",
+      "values": [
+        "americké",
+        "francouzské",
+        "finské",
+        "nizozemské"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mein Kampf",
+      "values": [
+        "německé",
+        "české",
+        "nizozemské",
+        "španělské"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gulliverovy cesty",
+      "values": [
+        "anglické",
+        "španělské",
+        "německé",
+        "nizozemské"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Deník Anne Frankové",
+      "values": [
+        "německé",
+        "finské",
+        "nizozemské",
+        "italské"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

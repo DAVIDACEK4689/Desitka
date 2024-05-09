@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Howard Hughes",
+      "values": [
+        "kanadského",
+        "finského",
+        "amerického",
+        "hongkongského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Čtvrtníček",
+      "values": [
+        "kanadského",
+        "novozélandského",
+        "českého",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Don Johnson",
+      "values": [
+        "rakouského",
+        "amerického",
+        "slovinského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Akira Kurosawa",
+      "values": [
+        "slovinského",
+        "španělského",
+        "japonského",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Hlušička",
+      "values": [
+        "ukrajinského",
+        "finského",
+        "českého",
+        "novozélandského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jacques Doillon",
+      "values": [
+        "amerického",
+        "francouzského",
+        "islandského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tomáš Řehořek",
+      "values": [
+        "srbského",
+        "španělského",
+        "mexického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miloslav Šmídmajer",
+      "values": [
+        "novozélandského",
+        "českého",
+        "belgického",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Edgar Dutka",
+      "values": [
+        "rakouského",
+        "slovinského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Howard Hawks",
+      "values": [
+        "amerického",
+        "rakouského",
+        "britského",
+        "íránského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

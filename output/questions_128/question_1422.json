@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalového trenéra?",
+  "questions": [
+    {
+      "key": "Brian Priske",
+      "values": [
+        "polského",
+        "maďarského",
+        "irského",
+        "dánského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Radoslav Látal",
+      "values": [
+        "irského",
+        "srbského",
+        "skotského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ruud van Nistelrooy",
+      "values": [
+        "nizozemského",
+        "australského",
+        "československého",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rudi Völler",
+      "values": [
+        "velšského",
+        "irského",
+        "slovenského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bohumil Páník",
+      "values": [
+        "norského",
+        "českého",
+        "amerického",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sócrates",
+      "values": [
+        "tureckého",
+        "brazilského",
+        "amerického",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jordi Cruyff",
+      "values": [
+        "srbského",
+        "nizozemského",
+        "uruguayského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Julen Lopetegui",
+      "values": [
+        "dánského",
+        "španělského",
+        "ruského",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ladislav Kuna",
+      "values": [
+        "brazilského",
+        "bulharského",
+        "velšského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Baránek",
+      "values": [
+        "československého",
+        "slovenského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle jazyka",
+  "questions": [
+    {
+      "key": "Portugalština",
+      "values": [
+        "Brazílie",
+        "Španělsko",
+        "Nizozemsko",
+        "Kambodža"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Moravština",
+      "values": [
+        "Česko",
+        "Kosovo",
+        "Nizozemsko",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Velština",
+      "values": [
+        "Vatikán",
+        "Švédsko",
+        "Wales",
+        "Bolívie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lašská nářečí",
+      "values": [
+        "Dánsko",
+        "Česko",
+        "Izrael",
+        "Kambodža"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Faerština",
+      "values": [
+        "Itálie",
+        "Kosovo",
+        "Dánsko",
+        "Moldavsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Valonština",
+      "values": [
+        "Francie",
+        "Švédsko",
+        "Nizozemsko",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Khmerština",
+      "values": [
+        "Irsko",
+        "Madagaskar",
+        "Kambodža",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Maráthština",
+      "values": [
+        "Bolívie",
+        "Indie",
+        "Nizozemsko",
+        "Německo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gagauzština",
+      "values": [
+        "Moldavsko",
+        "Lotyšsko",
+        "Jižní Afrika",
+        "Norsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Barmština",
+      "values": [
+        "Myanmar",
+        "Řecko",
+        "Německo",
+        "Izrael"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

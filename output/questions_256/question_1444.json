@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte rok podle politiky",
+  "questions": [
+    {
+      "key": "Varšavská smlouva",
+      "values": [
+        "1991",
+        "1803",
+        "1865",
+        "1919"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kauza Nagyová",
+      "values": [
+        "1789",
+        "2004",
+        "1919",
+        "2013"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vláda Jana Fischera",
+      "values": [
+        "2016",
+        "1991",
+        "1967",
+        "2010"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kapitulace Japonska",
+      "values": [
+        "1776",
+        "1945",
+        "2013",
+        "1878"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Říjnový diplom",
+      "values": [
+        "1860",
+        "2006",
+        "1805",
+        "2017"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sèvreská smlouva",
+      "values": [
+        "1815",
+        "1920",
+        "1789",
+        "2013"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Srdečná dohoda",
+      "values": [
+        "1919",
+        "1904",
+        "1860",
+        "1996"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Operace Kondor",
+      "values": [
+        "1945",
+        "1991",
+        "1918",
+        "1975"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aféra Bamberg",
+      "values": [
+        "2010",
+        "1914",
+        "1998",
+        "1985"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karlovarská usnesení",
+      "values": [
+        "1904",
+        "1819",
+        "2016",
+        "1992"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

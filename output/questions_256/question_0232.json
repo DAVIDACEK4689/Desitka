@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Miroslav Donutil",
+      "values": [
+        "ruského",
+        "ukrajinského",
+        "českého",
+        "portorického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Juraj Herz",
+      "values": [
+        "portorického",
+        "českého",
+        "švýcarského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Johnny Galecki",
+      "values": [
+        "amerického",
+        "brazilského",
+        "belgického",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eman Fiala",
+      "values": [
+        "marockého",
+        "sovětského",
+        "českého",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "David Caruso",
+      "values": [
+        "sovětského",
+        "maďarského",
+        "amerického",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mark Harmon",
+      "values": [
+        "sovětského",
+        "japonského",
+        "izraelského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Konstantin Sergejevič Stanislavskij",
+      "values": [
+        "venezuelského",
+        "ruského",
+        "maďarského",
+        "jamajského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Václav Kotva",
+      "values": [
+        "indického",
+        "českého",
+        "sovětského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Maxim Galkin",
+      "values": [
+        "ruského",
+        "guatemalského",
+        "brazilského",
+        "malajsijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Clark Gregg",
+      "values": [
+        "amerického",
+        "ukrajinského",
+        "jamajského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

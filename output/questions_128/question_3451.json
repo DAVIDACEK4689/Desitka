@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Jiří Schmitzer",
+      "values": [
+        "českého",
+        "švédského",
+        "gruzínského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kevin Costner",
+      "values": [
+        "českého",
+        "rumunského",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marian Vojtko",
+      "values": [
+        "slovenského",
+        "australského",
+        "moldavského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Dědeček",
+      "values": [
+        "finského",
+        "alžírského",
+        "rumunského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Evžen Kyšperský",
+      "values": [
+        "českého",
+        "uruguayského",
+        "jihokorejského",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miroslav Noga",
+      "values": [
+        "mexického",
+        "slovenského",
+        "brazilského",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavel Brümer",
+      "values": [
+        "francouzského",
+        "českého",
+        "britského",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Max Martin",
+      "values": [
+        "argentinského",
+        "novozélandského",
+        "norského",
+        "švédského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "John Lee Hooker",
+      "values": [
+        "polského",
+        "norského",
+        "italského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Garth Brooks",
+      "values": [
+        "amerického",
+        "dánského",
+        "novozélandského",
+        "irského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

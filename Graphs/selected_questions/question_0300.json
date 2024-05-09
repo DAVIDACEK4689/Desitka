@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Sara Sandeva",
+      "values": [
+        "italskou",
+        "německou",
+        "českou",
+        "izraelskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kim Kardashianová",
+      "values": [
+        "ruskou",
+        "americkou",
+        "českou",
+        "švýcarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivana Trumpová",
+      "values": [
+        "francouzskou",
+        "kanadskou",
+        "německou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jasmina Alagič",
+      "values": [
+        "jihoafrickou",
+        "německou",
+        "slovenskou",
+        "českou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alena Šeredová",
+      "values": [
+        "českou",
+        "italskou",
+        "ruskou",
+        "izraelskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Courteney Cox",
+      "values": [
+        "jihoafrickou",
+        "americkou",
+        "francouzskou",
+        "českou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nico",
+      "values": [
+        "izraelskou",
+        "švýcarskou",
+        "ruskou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Daniela Peštová",
+      "values": [
+        "českou",
+        "francouzskou",
+        "švýcarskou",
+        "izraelskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bella Hadid",
+      "values": [
+        "francouzskou",
+        "německou",
+        "americkou",
+        "kanadskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tyra Banksová",
+      "values": [
+        "slovenskou",
+        "ruskou",
+        "italskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

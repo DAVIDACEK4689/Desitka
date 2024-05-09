@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [období] malíře?",
+  "questions": [
+    {
+      "key": "Gustav Klimt",
+      "values": [
+        "secesního",
+        "romantického",
+        "rokokového",
+        "barokního"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Albrecht Dürer",
+      "values": [
+        "barokního",
+        "renesančního",
+        "secesního",
+        "rokokového"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joža Uprka",
+      "values": [
+        "secesního",
+        "rokokového",
+        "realistického",
+        "barokního"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "William Turner",
+      "values": [
+        "rokokového",
+        "renesančního",
+        "romantického",
+        "realistického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ilja Repin",
+      "values": [
+        "renesančního",
+        "barokního",
+        "realistického",
+        "rokokového"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Preisler",
+      "values": [
+        "secesního",
+        "realistického",
+        "barokního",
+        "renesančního"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Viktor Oliva",
+      "values": [
+        "barokního",
+        "realistického",
+        "gotického",
+        "secesního"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Théodore Géricault",
+      "values": [
+        "barokního",
+        "rokokového",
+        "romantického",
+        "gotického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Franz Marc",
+      "values": [
+        "romantického",
+        "gotického",
+        "realistického",
+        "secesního"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Antoine Watteau",
+      "values": [
+        "romantického",
+        "gotického",
+        "renesančního",
+        "rokokového"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

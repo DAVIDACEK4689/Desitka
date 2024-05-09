@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] kulturu?",
+  "questions": [
+    {
+      "key": "Den díkůvzdání",
+      "values": [
+        "americkou",
+        "britskou",
+        "irskou",
+        "španělskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Santa Claus",
+      "values": [
+        "americkou",
+        "ruskou",
+        "havajskou",
+        "mexickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tapas",
+      "values": [
+        "mongolskou",
+        "španělskou",
+        "ruskou",
+        "novozélandskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tramping",
+      "values": [
+        "íránskou",
+        "izraelskou",
+        "českou",
+        "mongolskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Harém",
+      "values": [
+        "mongolskou",
+        "novozélandskou",
+        "britskou",
+        "tureckou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kilt",
+      "values": [
+        "havajskou",
+        "skotskou",
+        "íránskou",
+        "maďarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Generace Národního divadla",
+      "values": [
+        "řeckou",
+        "maďarskou",
+        "havajskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Piñata",
+      "values": [
+        "mexickou",
+        "čínskou",
+        "skotskou",
+        "irskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Yankee",
+      "values": [
+        "americkou",
+        "švýcarskou",
+        "tureckou",
+        "izraelskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Matrjoška",
+      "values": [
+        "indickou",
+        "ruskou",
+        "novozélandskou",
+        "irskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

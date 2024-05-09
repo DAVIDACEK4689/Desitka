@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Karel Klostermann",
+      "values": [
+        "německého",
+        "kanadského",
+        "jihoafrického",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gustav Meyrink",
+      "values": [
+        "estonského",
+        "slovinského",
+        "německého",
+        "libanonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kamil Peteraj",
+      "values": [
+        "izraelského",
+        "slovenského",
+        "bulharského",
+        "guatemalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Franz Conrad von Hötzendorf",
+      "values": [
+        "kanadského",
+        "rakouského",
+        "jihoafrického",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Sedmík",
+      "values": [
+        "mexického",
+        "českého",
+        "albánského",
+        "islandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Pravda",
+      "values": [
+        "českého",
+        "novozélandského",
+        "jihoafrického",
+        "kyrgyzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Boris Savinkov",
+      "values": [
+        "slovenského",
+        "finského",
+        "ruského",
+        "íránského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Germaine de Staël",
+      "values": [
+        "švýcarského",
+        "gruzínského",
+        "portugalského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alfred Döblin",
+      "values": [
+        "libanonského",
+        "německého",
+        "běloruského",
+        "nigerijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ante Starčević",
+      "values": [
+        "srbského",
+        "albánského",
+        "chorvatského",
+        "nigerijského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

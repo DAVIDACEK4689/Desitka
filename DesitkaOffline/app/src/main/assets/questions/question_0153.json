@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Amsterdam",
+      "values": [
+        "Sýrie",
+        "Vietnam",
+        "Nizozemsko",
+        "Brazílie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Linec",
+      "values": [
+        "Pero",
+        "Rakousko",
+        "Malta",
+        "Turecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Astana",
+      "values": [
+        "Izrael",
+        "Moldavsko",
+        "Nigérie",
+        "Kazachstán"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ho Či Minovo Město",
+      "values": [
+        "Vietnam",
+        "Nepál",
+        "Sýrie",
+        "Rumunsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Almaty",
+      "values": [
+        "Bolívie",
+        "Kazachstán",
+        "Jihoafrická republika",
+        "Thajsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pchjongjang",
+      "values": [
+        "Írán",
+        "Nový Zéland",
+        "Thajsko",
+        "Severní Korea"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Johannesburg",
+      "values": [
+        "Nizozemsko",
+        "Bolívie",
+        "Řecko",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Taškent",
+      "values": [
+        "Bulharsko",
+        "Uzbekistán",
+        "Norsko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Larnaka",
+      "values": [
+        "Austrálie",
+        "Německo",
+        "Kypr",
+        "Turecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chartúm",
+      "values": [
+        "Rumunsko",
+        "Belgie",
+        "Moldavsko",
+        "Súdán"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

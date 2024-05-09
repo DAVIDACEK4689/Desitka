@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [národnost] marxistu?",
+  "questions": [
+    {
+      "key": "Dean Reed",
+      "values": [
+        "amerického",
+        "českého",
+        "chilského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Uhl",
+      "values": [
+        "českého",
+        "britského",
+        "italského",
+        "židovského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Simone de Beauvoir",
+      "values": [
+        "britského",
+        "francouzského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Elfriede Jelineková",
+      "values": [
+        "britského",
+        "amerického",
+        "rakouského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Herbert Marcuse",
+      "values": [
+        "chilského",
+        "amerického",
+        "českého",
+        "židovského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Max Horkheimer",
+      "values": [
+        "britského",
+        "židovského",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Christopher Hitchens",
+      "values": [
+        "amerického",
+        "britského",
+        "chilského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Guy Debord",
+      "values": [
+        "českého",
+        "židovského",
+        "ruského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Arnošt Kolman",
+      "values": [
+        "ruského",
+        "českého",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Edvard Kardelj",
+      "values": [
+        "slovinského",
+        "ruského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

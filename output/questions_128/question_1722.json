@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle premiéra",
+  "questions": [
+    {
+      "key": "Saddám Husajn",
+      "values": [
+        "Lucembursko",
+        "Slovinsko",
+        "Irák",
+        "Litva"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tony Blair",
+      "values": [
+        "Spojené království",
+        "Maroko",
+        "Kamerun",
+        "Srbsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexej Kosygin",
+      "values": [
+        "Izrael",
+        "Moldavsko",
+        "Rusko",
+        "Srbsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "David Lloyd George",
+      "values": [
+        "Arménie",
+        "Chorvatsko",
+        "Spojené království",
+        "Pákistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karol Sidor",
+      "values": [
+        "Slovensko",
+        "Egypt",
+        "Řecko",
+        "Izrael"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "António Costa",
+      "values": [
+        "Maroko",
+        "Spojené království",
+        "Řecko",
+        "Portugalsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Viktor Zubkov",
+      "values": [
+        "Polsko",
+        "Afghánistán",
+        "Rusko",
+        "Litva"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Henry Temple",
+      "values": [
+        "Spojené království",
+        "Senegal",
+        "Nizozemsko",
+        "Afghánistán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jošihide Suga",
+      "values": [
+        "Japonsko",
+        "Austrálie",
+        "Lotyšsko",
+        "Island"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zulfikár Alí Bhutto",
+      "values": [
+        "Jihoafrická republika",
+        "Kamerun",
+        "Finsko",
+        "Pákistán"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

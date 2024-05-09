@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] videohru?",
+  "questions": [
+    {
+      "key": "Minecraft",
+      "values": [
+        "ukrajinskou",
+        "švédskou",
+        "ruskou",
+        "čínskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Grand Theft Auto V",
+      "values": [
+        "britskou",
+        "kanadskou",
+        "slovenskou",
+        "dánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Among Us",
+      "values": [
+        "ukrajinskou",
+        "rakouskou",
+        "americkou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "War Thunder",
+      "values": [
+        "polskou",
+        "ukrajinskou",
+        "ruskou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Crash Bandicoot",
+      "values": [
+        "americkou",
+        "dánskou",
+        "finskou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Grand Theft Auto III",
+      "values": [
+        "finskou",
+        "britskou",
+        "kanadskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "StarCraft",
+      "values": [
+        "čínskou",
+        "polskou",
+        "jihokorejskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Diablo II",
+      "values": [
+        "ukrajinskou",
+        "rakouskou",
+        "americkou",
+        "dánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Watch Dogs",
+      "values": [
+        "čínskou",
+        "kanadskou",
+        "japonskou",
+        "slovenskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lemmings",
+      "values": [
+        "britskou",
+        "kanadskou",
+        "ruskou",
+        "polskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

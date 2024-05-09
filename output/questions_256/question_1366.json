@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] román?",
+  "questions": [
+    {
+      "key": "Pýcha a předsudek",
+      "values": [
+        "anglický",
+        "japonský",
+        "polský",
+        "rakouský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "451 stupňů Fahrenheita",
+      "values": [
+        "americký",
+        "anglický",
+        "francouzský",
+        "britský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Forrest Gump",
+      "values": [
+        "americký",
+        "australský",
+        "slovenský",
+        "čínský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Otec Goriot",
+      "values": [
+        "italský",
+        "japonský",
+        "francouzský",
+        "německý"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Námi to končí",
+      "values": [
+        "rakouský",
+        "francouzský",
+        "americký",
+        "čínský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Příliš hlučná samota",
+      "values": [
+        "slovenský",
+        "český",
+        "irský",
+        "francouzský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kronika Pickwickova klubu",
+      "values": [
+        "anglický",
+        "americký",
+        "slovenský",
+        "polský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Katyně",
+      "values": [
+        "polský",
+        "francouzský",
+        "slovenský",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kafka na pobřeží",
+      "values": [
+        "japonský",
+        "slovenský",
+        "australský",
+        "český"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Expanze",
+      "values": [
+        "polský",
+        "italský",
+        "americký",
+        "ruský"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

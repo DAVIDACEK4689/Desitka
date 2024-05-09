@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] antropologa?",
+  "questions": [
+    {
+      "key": "Mnislav Zelený",
+      "values": [
+        "českého",
+        "britského",
+        "dánského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pierre Bourdieu",
+      "values": [
+        "francouzského",
+        "amerického",
+        "norského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ašraf Ghaní",
+      "values": [
+        "německého",
+        "afghánského",
+        "norského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gustave Le Bon",
+      "values": [
+        "norského",
+        "maďarského",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Max Scheler",
+      "values": [
+        "ruského",
+        "českého",
+        "maďarského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Franz Boas",
+      "values": [
+        "amerického",
+        "českého",
+        "afghánského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David Graeber",
+      "values": [
+        "amerického",
+        "dánského",
+        "maďarského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karl Polanyi",
+      "values": [
+        "maďarského",
+        "dánského",
+        "německého",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Knud Rasmussen",
+      "values": [
+        "maďarského",
+        "afghánského",
+        "dánského",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marcel Mauss",
+      "values": [
+        "norského",
+        "německého",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

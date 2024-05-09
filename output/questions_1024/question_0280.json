@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Ivan Jonák",
+      "values": [
+        "kanadského",
+        "britského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Dobrovský",
+      "values": [
+        "italského",
+        "švédského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alexander Babiš",
+      "values": [
+        "francouzského",
+        "amerického",
+        "slovenského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Dědek",
+      "values": [
+        "ukrajinského",
+        "britského",
+        "libanonského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mark Zuckerberg",
+      "values": [
+        "italského",
+        "amerického",
+        "ruského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adolph Frank",
+      "values": [
+        "ruského",
+        "ukrajinského",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ondřej Kania",
+      "values": [
+        "německého",
+        "libanonského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alois Hadamczik",
+      "values": [
+        "německého",
+        "ruského",
+        "českého",
+        "libanonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Daniel Častvaj",
+      "values": [
+        "německého",
+        "francouzského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Východoevropský oligarcha",
+      "values": [
+        "německého",
+        "kanadského",
+        "řeckého",
+        "ruského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

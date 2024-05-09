@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] román?",
+  "questions": [
+    {
+      "key": "Tři mušketýři",
+      "values": [
+        "čínský",
+        "francouzský",
+        "australský",
+        "český"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pes baskervillský",
+      "values": [
+        "britský",
+        "slovenský",
+        "anglický",
+        "český"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Most přes řeku Kwai",
+      "values": [
+        "francouzský",
+        "polský",
+        "australský",
+        "rakouský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dáma s kaméliemi",
+      "values": [
+        "francouzský",
+        "japonský",
+        "norský",
+        "švédský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dobrodružný Simplicius Simplicissimus",
+      "values": [
+        "německý",
+        "francouzský",
+        "japonský",
+        "slovenský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Neuromancer",
+      "values": [
+        "německý",
+        "americký",
+        "francouzský",
+        "švédský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petrolejový princ",
+      "values": [
+        "německý",
+        "americký",
+        "švédský",
+        "český"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Měsíc je drsná milenka",
+      "values": [
+        "ruský",
+        "americký",
+        "irský",
+        "italský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Princ a chuďas",
+      "values": [
+        "britský",
+        "švédský",
+        "americký",
+        "německý"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Maria Plojhar",
+      "values": [
+        "australský",
+        "německý",
+        "japonský",
+        "český"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] šlechtice?",
+  "questions": [
+    {
+      "key": "Louis Mountbatten",
+      "values": [
+        "britského",
+        "francouzského",
+        "albánského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hildprandtové z Ottenhausenu",
+      "values": [
+        "chorvatského",
+        "švédského",
+        "portugalského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Nádasdy",
+      "values": [
+        "řeckého",
+        "portugalského",
+        "moravského",
+        "uherského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mikuláš Šubič Zrinský",
+      "values": [
+        "chorvatského",
+        "albánského",
+        "italského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Franz Hohenberg",
+      "values": [
+        "řeckého",
+        "rakouského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Herbert Henry Asquith",
+      "values": [
+        "britského",
+        "českého",
+        "rakouského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vittoria Savojská",
+      "values": [
+        "moravského",
+        "italského",
+        "monackého",
+        "albánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Piero Manzoni",
+      "values": [
+        "portugalského",
+        "italského",
+        "moravského",
+        "uherského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Antonín Florián z Lichtenštejna",
+      "values": [
+        "španělského",
+        "portugalského",
+        "rakouského",
+        "moravského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zbyněk Berka z Dubé a Lipé",
+      "values": [
+        "uherského",
+        "českého",
+        "chorvatského",
+        "albánského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Petr Iljič Čajkovskij",
+      "values": [
+        "australského",
+        "argentinského",
+        "ruského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Hejduk",
+      "values": [
+        "českého",
+        "norského",
+        "litevského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marián Varga",
+      "values": [
+        "amerického",
+        "japonského",
+        "slovenského",
+        "brazilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Antonín Benda",
+      "values": [
+        "amerického",
+        "estonského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zucchero",
+      "values": [
+        "finského",
+        "brazilského",
+        "řeckého",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "James Last",
+      "values": [
+        "japonského",
+        "německého",
+        "britského",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Václav Dobiáš",
+      "values": [
+        "řeckého",
+        "slovenského",
+        "slovinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mykola Leontovyč",
+      "values": [
+        "ukrajinského",
+        "argentinského",
+        "nizozemského",
+        "arménského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stanisław Moniuszko",
+      "values": [
+        "nizozemského",
+        "polského",
+        "estonského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ted Neeley",
+      "values": [
+        "amerického",
+        "japonského",
+        "polského",
+        "finského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

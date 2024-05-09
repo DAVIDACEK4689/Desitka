@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filozofa?",
+  "questions": [
+    {
+      "key": "Jan Patočka",
+      "values": [
+        "řeckého",
+        "českého",
+        "španělského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Georg Wilhelm Friedrich Hegel",
+      "values": [
+        "německého",
+        "španělského",
+        "slovenského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Søren Kierkegaard",
+      "values": [
+        "francouzského",
+        "řeckého",
+        "italského",
+        "dánského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michail Lomonosov",
+      "values": [
+        "slovinského",
+        "indického",
+        "ruského",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Henri Bergson",
+      "values": [
+        "amerického",
+        "britského",
+        "švýcarského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Drtina",
+      "values": [
+        "amerického",
+        "španělského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Theodor Lessing",
+      "values": [
+        "švédského",
+        "slovinského",
+        "maďarského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alfred Schütz",
+      "values": [
+        "českého",
+        "amerického",
+        "indického",
+        "perského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adam Weishaupt",
+      "values": [
+        "švédského",
+        "španělského",
+        "kanadského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Šafařík",
+      "values": [
+        "švýcarského",
+        "českého",
+        "francouzského",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

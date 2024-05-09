@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fyzika?",
+  "questions": [
+    {
+      "key": "Stephen Hawking",
+      "values": [
+        "švýcarského",
+        "íránského",
+        "německého",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Erwin Schrödinger",
+      "values": [
+        "bulharského",
+        "rakouského",
+        "rumunského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Christian Doppler",
+      "values": [
+        "ukrajinského",
+        "francouzského",
+        "íránského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Valentin Ceaușescu",
+      "values": [
+        "kanadského",
+        "rumunského",
+        "běloruského",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hans Geiger",
+      "values": [
+        "australského",
+        "německého",
+        "dánského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Edmund Halley",
+      "values": [
+        "australského",
+        "britského",
+        "švýcarského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sally Rideová",
+      "values": [
+        "amerického",
+        "dánského",
+        "francouzského",
+        "indického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dionýz Ilkovič",
+      "values": [
+        "australského",
+        "bulharského",
+        "slovenského",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stanislav Šuškevič",
+      "values": [
+        "běloruského",
+        "irského",
+        "britského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Steven Weinberg",
+      "values": [
+        "běloruského",
+        "amerického",
+        "slovenského",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

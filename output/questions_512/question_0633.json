@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Sharon Tate",
+      "values": [
+        "jihoafrickou",
+        "švýcarskou",
+        "irskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Brigitte Bardotová",
+      "values": [
+        "ruskou",
+        "francouzskou",
+        "izraelskou",
+        "dánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alena Šeredová",
+      "values": [
+        "českou",
+        "jihoafrickou",
+        "maďarskou",
+        "dánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kateřina Kornová",
+      "values": [
+        "britskou",
+        "českou",
+        "irskou",
+        "kanadskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sharon Stoneová",
+      "values": [
+        "jihoafrickou",
+        "maďarskou",
+        "americkou",
+        "argentinskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Diana Kobzanová",
+      "values": [
+        "americkou",
+        "dánskou",
+        "českou",
+        "německou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Claudia Schiffer",
+      "values": [
+        "francouzskou",
+        "kanadskou",
+        "německou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hana Mašlíková",
+      "values": [
+        "českou",
+        "ukrajinskou",
+        "argentinskou",
+        "kanadskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Adriana Lima",
+      "values": [
+        "izraelskou",
+        "brazilskou",
+        "irskou",
+        "rakouskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ruby Rose",
+      "values": [
+        "maďarskou",
+        "českou",
+        "australskou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

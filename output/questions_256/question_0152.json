@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle olympijské hry",
+  "questions": [
+    {
+      "key": "Zimní olympijské hry 1998",
+      "values": [
+        "Itálie",
+        "Švédsko",
+        "Spojené království",
+        "Japonsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zimní olympijské hry 2018",
+      "values": [
+        "Jižní Korea",
+        "Francie",
+        "Belgie",
+        "Rakousko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Letní olympijské hry 1972",
+      "values": [
+        "Austrálie",
+        "Norsko",
+        "Švédsko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Letní olympijské hry 2012",
+      "values": [
+        "Mexiko",
+        "Jižní Korea",
+        "Jugoslávie",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Letní olympijské hry 2032",
+      "values": [
+        "Brazílie",
+        "Spojené království",
+        "Austrálie",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Letní olympijské hry 2004",
+      "values": [
+        "Rusko",
+        "Japonsko",
+        "Řecko",
+        "Mexiko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zimní olympijské hry 2006",
+      "values": [
+        "Finsko",
+        "Norsko",
+        "Itálie",
+        "Španělsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zimní olympijské hry 1992",
+      "values": [
+        "Brazílie",
+        "Finsko",
+        "Rakousko",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zimní olympijské hry 1924",
+      "values": [
+        "Rusko",
+        "Francie",
+        "Belgie",
+        "Nizozemsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Letní olympijské hry 1912",
+      "values": [
+        "Nizozemsko",
+        "Mexiko",
+        "Švédsko",
+        "Německo"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

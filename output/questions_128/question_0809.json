@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] historický film?",
+  "questions": [
+    {
+      "key": "Zápisník jedné lásky",
+      "values": [
+        "americký",
+        "maďarský",
+        "slovenský",
+        "španělský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Králova řeč",
+      "values": [
+        "slovenský",
+        "německý",
+        "britský",
+        "švédský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Goyovy přízraky",
+      "values": [
+        "španělský",
+        "americký",
+        "český",
+        "švédský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Most špionů",
+      "values": [
+        "německý",
+        "americký",
+        "francouzský",
+        "španělský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Svatby pana Voka",
+      "values": [
+        "sovětský",
+        "český",
+        "slovenský",
+        "americký"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dny zrady",
+      "values": [
+        "slovenský",
+        "český",
+        "německý",
+        "sovětský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Saulův syn",
+      "values": [
+        "americký",
+        "maďarský",
+        "japonský",
+        "slovenský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Balada o Busterovi Scruggsovi",
+      "values": [
+        "německý",
+        "americký",
+        "japonský",
+        "sovětský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ďáblova past",
+      "values": [
+        "japonský",
+        "český",
+        "španělský",
+        "britský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Boj o Moskvu",
+      "values": [
+        "sovětský",
+        "český",
+        "francouzský",
+        "americký"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

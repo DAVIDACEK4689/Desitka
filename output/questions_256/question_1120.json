@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] generála?",
+  "questions": [
+    {
+      "key": "Sergěj Ingr",
+      "values": [
+        "českého",
+        "izraelského",
+        "německého",
+        "finského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Józef Piłsudski",
+      "values": [
+        "polského",
+        "rakouského",
+        "bulharského",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lev Prchala",
+      "values": [
+        "sovětského",
+        "švédského",
+        "československého",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chajim Herzog",
+      "values": [
+        "izraelského",
+        "francouzského",
+        "dánského",
+        "chorvatského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alois Liška",
+      "values": [
+        "československého",
+        "rumunského",
+        "českého",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ferdinand Čatloš",
+      "values": [
+        "polského",
+        "bulharského",
+        "slovenského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anton Ivanovič Děnikin",
+      "values": [
+        "ruského",
+        "francouzského",
+        "bulharského",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert Rychtrmoc",
+      "values": [
+        "finského",
+        "francouzského",
+        "československého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Robotka",
+      "values": [
+        "slovenského",
+        "italského",
+        "bulharského",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miloslav Masopust",
+      "values": [
+        "českého",
+        "švédského",
+        "rakouského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

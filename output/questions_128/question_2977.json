@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] román?",
+  "questions": [
+    {
+      "key": "Velký Gatsby",
+      "values": [
+        "ruský",
+        "čínský",
+        "slovenský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petrolejové lampy",
+      "values": [
+        "čínský",
+        "francouzský",
+        "německý",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jih proti Severu",
+      "values": [
+        "německý",
+        "švédský",
+        "americký",
+        "čínský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chlapec v pruhovaném pyžamu",
+      "values": [
+        "švédský",
+        "irský",
+        "španělský",
+        "norský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sedm let v Tibetu",
+      "values": [
+        "australský",
+        "rakouský",
+        "italský",
+        "irský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Valčík na rozloučenou",
+      "values": [
+        "norský",
+        "český",
+        "maďarský",
+        "kanadský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Občan Brych",
+      "values": [
+        "český",
+        "britský",
+        "norský",
+        "maďarský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Syn lovce medvědů",
+      "values": [
+        "japonský",
+        "irský",
+        "švédský",
+        "německý"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Devadesát tři",
+      "values": [
+        "francouzský",
+        "italský",
+        "australský",
+        "švédský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Šunkový nářez",
+      "values": [
+        "japonský",
+        "americký",
+        "australský",
+        "kanadský"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

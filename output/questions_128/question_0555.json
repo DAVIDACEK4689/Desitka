@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] antropologa?",
+  "questions": [
+    {
+      "key": "Thor Heyerdahl",
+      "values": [
+        "francouzského",
+        "amerického",
+        "norského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alphonse Bertillon",
+      "values": [
+        "britského",
+        "francouzského",
+        "afghánského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Carlos Castaneda",
+      "values": [
+        "amerického",
+        "německého",
+        "ruského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stanislav Komárek",
+      "values": [
+        "českého",
+        "dánského",
+        "maďarského",
+        "afghánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "James Frazer",
+      "values": [
+        "německého",
+        "britského",
+        "maďarského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lubor Niederle",
+      "values": [
+        "dánského",
+        "francouzského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lev Gumiljov",
+      "values": [
+        "ruského",
+        "dánského",
+        "norského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Clifford Geertz",
+      "values": [
+        "maďarského",
+        "amerického",
+        "dánského",
+        "afghánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jindřich Matiegka",
+      "values": [
+        "českého",
+        "francouzského",
+        "maďarského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Edward Burnett Tylor",
+      "values": [
+        "dánského",
+        "českého",
+        "britského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

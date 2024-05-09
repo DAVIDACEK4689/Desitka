@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle politické strany",
+  "questions": [
+    {
+      "key": "Starostové a nezávislí",
+      "values": [
+        "Rakousko",
+        "Libanon",
+        "Česko",
+        "Československo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kresťanskodemokratické hnutie",
+      "values": [
+        "Turecko",
+        "Slovensko",
+        "Izrael",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Klub angažovaných nestraníků",
+      "values": [
+        "Angola",
+        "Izrael",
+        "Česko",
+        "Polsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Národní sjednocení",
+      "values": [
+        "Egypt",
+        "Ukrajina",
+        "Finsko",
+        "Československo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aliance pro budoucnost",
+      "values": [
+        "Česko",
+        "Španělsko",
+        "Československo",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Africký národní kongres",
+      "values": [
+        "Polsko",
+        "Libanon",
+        "Turecko",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Spartakovci",
+      "values": [
+        "Německo",
+        "Spojené království",
+        "Francie",
+        "Egypt"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kach",
+      "values": [
+        "Itálie",
+        "Spojené království",
+        "Ukrajina",
+        "Izrael"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Německá křesťansko sociální strana lidová",
+      "values": [
+        "Polsko",
+        "Československo",
+        "Finsko",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Národní jednota",
+      "values": [
+        "Spojené království",
+        "Izrael",
+        "Finsko",
+        "Švédsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

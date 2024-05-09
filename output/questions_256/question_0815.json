@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Pretty Woman",
+      "values": [
+        "Garry Marshall",
+        "Jonathan Demme",
+        "Frank Darabont",
+        "David Twohy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Někdo to rád horké",
+      "values": [
+        "Billy Wilder",
+        "Kathryn Bigelowová",
+        "Robert Eggers",
+        "Barry Levinson"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dvanáct opic",
+      "values": [
+        "John McTiernan",
+        "Darren Aronofsky",
+        "Michael Bay",
+        "Terry Gilliam"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Requiem za sen",
+      "values": [
+        "Darren Aronofsky",
+        "Danny DeVito",
+        "Tim Burton",
+        "Alfred Hitchcock"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Po čem ženy touží",
+      "values": [
+        "Joe Johnston",
+        "Robert Benton",
+        "Martin Brest",
+        "Nancy Meyers"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Občan Kane",
+      "values": [
+        "Nancy Meyers",
+        "Tim Burton",
+        "Miloš Forman",
+        "Orson Welles"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Od soumraku do úsvitu",
+      "values": [
+        "Billy Wilder",
+        "Roger Kumble",
+        "Robert Rodriguez",
+        "Tom Shadyac"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bezstarostná jízda",
+      "values": [
+        "Robert Rodriguez",
+        "Patty Jenkinsová",
+        "Dennis Hopper",
+        "Doug Liman"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rychle a zběsile 2",
+      "values": [
+        "John Landis",
+        "Tom Shadyac",
+        "Randall Wallace",
+        "John Singleton"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Monty Python a Svatý Grál",
+      "values": [
+        "Garry Marshall",
+        "Barry Sonnenfeld",
+        "William Wyler",
+        "Terry Gilliam"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

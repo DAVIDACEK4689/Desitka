@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] právníka?",
+  "questions": [
+    {
+      "key": "Pavel Rychetský",
+      "values": [
+        "rakouského",
+        "ukrajinského",
+        "izraelského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hunter Biden",
+      "values": [
+        "peruánského",
+        "mexického",
+        "amerického",
+        "estonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Denys Monastyrskyj",
+      "values": [
+        "brazilského",
+        "peruánského",
+        "ukrajinského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Bartončík",
+      "values": [
+        "slovenského",
+        "izraelského",
+        "českého",
+        "lotyšského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dragutin Pelikán",
+      "values": [
+        "italského",
+        "slovinského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomáš Lichovník",
+      "values": [
+        "lotyšského",
+        "řeckého",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eugen Megerle von Mühlfeld",
+      "values": [
+        "maďarského",
+        "rakouského",
+        "peruánského",
+        "litevského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaromír Čelakovský",
+      "values": [
+        "švýcarského",
+        "českého",
+        "maďarského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Roman Fiala",
+      "values": [
+        "finského",
+        "maďarského",
+        "portugalského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Paul Robeson",
+      "values": [
+        "slovenského",
+        "švýcarského",
+        "polského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

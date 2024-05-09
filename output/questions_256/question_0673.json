@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistku?",
+  "questions": [
+    {
+      "key": "Kateřina Siniaková",
+      "values": [
+        "českou",
+        "srbskou",
+        "španělskou",
+        "kanadskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Linda Fruhvirtová",
+      "values": [
+        "australskou",
+        "českou",
+        "švýcarskou",
+        "německou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jessica Pegulaová",
+      "values": [
+        "rakouskou",
+        "italskou",
+        "francouzskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Elizabeth Mandliková",
+      "values": [
+        "československou",
+        "argentinskou",
+        "americkou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Viktória Hrunčáková",
+      "values": [
+        "československou",
+        "slovenskou",
+        "belgickou",
+        "polskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Emma Raducanuová",
+      "values": [
+        "australskou",
+        "kanadskou",
+        "chorvatskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Beatriz Haddad Maiová",
+      "values": [
+        "americkou",
+        "brazilskou",
+        "švýcarskou",
+        "estonskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Madison Keysová",
+      "values": [
+        "československou",
+        "estonskou",
+        "kanadskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alizé Cornetová",
+      "values": [
+        "českou",
+        "francouzskou",
+        "chorvatskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Natalija Stevanovićová",
+      "values": [
+        "australskou",
+        "chorvatskou",
+        "srbskou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

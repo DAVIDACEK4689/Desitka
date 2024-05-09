@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Vlasta Burian",
+      "values": [
+        "českého",
+        "portorického",
+        "guatemalského",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gustav Bubník",
+      "values": [
+        "polského",
+        "českého",
+        "nizozemského",
+        "guatemalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "John Cena",
+      "values": [
+        "švédského",
+        "amerického",
+        "čínského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Jablonský",
+      "values": [
+        "izraelského",
+        "chilského",
+        "českého",
+        "guatemalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michael Hofbauer",
+      "values": [
+        "venezuelského",
+        "českého",
+        "britského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Felix le Breux",
+      "values": [
+        "marockého",
+        "indického",
+        "australského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Otto Lackovič",
+      "values": [
+        "českého",
+        "britského",
+        "sovětského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Barry Pepper",
+      "values": [
+        "japonského",
+        "sovětského",
+        "kanadského",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "El Risitas",
+      "values": [
+        "maďarského",
+        "indického",
+        "australského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pavel Anděl",
+      "values": [
+        "novozélandského",
+        "ukrajinského",
+        "portorického",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

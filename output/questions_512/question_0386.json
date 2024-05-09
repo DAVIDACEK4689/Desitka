@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] firmu?",
+  "questions": [
+    {
+      "key": "Jawa",
+      "values": [
+        "izraelskou",
+        "dánskou",
+        "čínskou",
+        "československou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nestlé",
+      "values": [
+        "japonskou",
+        "švýcarskou",
+        "španělskou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pepco",
+      "values": [
+        "rakouskou",
+        "francouzskou",
+        "polskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "CASA",
+      "values": [
+        "německou",
+        "nizozemskou",
+        "španělskou",
+        "českou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Julius Meinl",
+      "values": [
+        "rakouskou",
+        "italskou",
+        "britskou",
+        "americkou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sinsay",
+      "values": [
+        "polskou",
+        "izraelskou",
+        "španělskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Electrolux",
+      "values": [
+        "švédskou",
+        "českou",
+        "finskou",
+        "americkou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Liberta",
+      "values": [
+        "finskou",
+        "španělskou",
+        "norskou",
+        "československou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tidal",
+      "values": [
+        "norskou",
+        "dánskou",
+        "čínskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kodak",
+      "values": [
+        "americkou",
+        "slovinskou",
+        "japonskou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

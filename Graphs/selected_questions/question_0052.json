@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "George Orwell",
+      "values": [
+        "irského",
+        "novozélandského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vítězslav Nezval",
+      "values": [
+        "amerického",
+        "českého",
+        "rakouského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stanislav Kostka Neumann",
+      "values": [
+        "japonského",
+        "českého",
+        "kolumbijského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jo Nesbø",
+      "values": [
+        "chilského",
+        "norského",
+        "švýcarského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vilém Mrštík",
+      "values": [
+        "českého",
+        "italského",
+        "irského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Klostermann",
+      "values": [
+        "německého",
+        "brazilského",
+        "novozélandského",
+        "kolumbijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dominik Dán",
+      "values": [
+        "srbského",
+        "amerického",
+        "slovenského",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Paulo Coelho",
+      "values": [
+        "slovenského",
+        "polského",
+        "amerického",
+        "brazilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alois Mrštík",
+      "values": [
+        "německého",
+        "chilského",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stanislav Motl",
+      "values": [
+        "dánského",
+        "japonského",
+        "českého",
+        "norského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

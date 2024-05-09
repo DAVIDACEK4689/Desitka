@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Eva Decastelo",
+      "values": [
+        "izraelskou",
+        "kanadskou",
+        "českou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vanessa Paradis",
+      "values": [
+        "jihoafrickou",
+        "irskou",
+        "francouzskou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Maria Šarapovová",
+      "values": [
+        "ruskou",
+        "americkou",
+        "izraelskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lucie Křížková",
+      "values": [
+        "brazilskou",
+        "českou",
+        "ukrajinskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Renáta Czadernová",
+      "values": [
+        "francouzskou",
+        "japonskou",
+        "švédskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eva Čerešňáková",
+      "values": [
+        "maďarskou",
+        "českou",
+        "argentinskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Meadow Walker",
+      "values": [
+        "indickou",
+        "maďarskou",
+        "americkou",
+        "brazilskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Simonetta Vespucciová",
+      "values": [
+        "italskou",
+        "německou",
+        "kanadskou",
+        "českou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Markéta Bělonohá",
+      "values": [
+        "českou",
+        "japonskou",
+        "jihoafrickou",
+        "izraelskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Olivia Culpoová",
+      "values": [
+        "polskou",
+        "kanadskou",
+        "americkou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

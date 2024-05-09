@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] hudební skupinu?",
+  "questions": [
+    {
+      "key": "Blackpink",
+      "values": [
+        "irskou",
+        "chorvatskou",
+        "australskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kollárovci",
+      "values": [
+        "islandskou",
+        "kanadskou",
+        "americkou",
+        "slovenskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lake Malawi",
+      "values": [
+        "dánskou",
+        "kubánskou",
+        "českou",
+        "švýcarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Massive Attack",
+      "values": [
+        "islandskou",
+        "britskou",
+        "australskou",
+        "dánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stone Sour",
+      "values": [
+        "americkou",
+        "estonskou",
+        "německou",
+        "kanadskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Halestorm",
+      "values": [
+        "americkou",
+        "českou",
+        "portugalskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vasilův Rubáš",
+      "values": [
+        "jihoafrickou",
+        "českou",
+        "švédskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bowling for Soup",
+      "values": [
+        "americkou",
+        "kanadskou",
+        "jihoafrickou",
+        "nizozemskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Diskografie Pet Shop Boys",
+      "values": [
+        "jihokorejskou",
+        "britskou",
+        "moldavskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Wonder Girls",
+      "values": [
+        "moldavskou",
+        "jihokorejskou",
+        "švédskou",
+        "finskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

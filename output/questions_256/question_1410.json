@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle pevnosti",
+  "questions": [
+    {
+      "key": "Vlčí doupě",
+      "values": [
+        "Polsko",
+        "Itálie",
+        "Německo",
+        "Izrael"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pevnost Boyard",
+      "values": [
+        "Rusko",
+        "Francie",
+        "Polsko",
+        "Španělsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andělský hrad",
+      "values": [
+        "Bělorusko",
+        "Německo",
+        "Spojené království",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bastila",
+      "values": [
+        "Španělsko",
+        "Francie",
+        "Bělorusko",
+        "Německo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pevnost Königstein",
+      "values": [
+        "Spojené království",
+        "Itálie",
+        "Finsko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Maginotova linie",
+      "values": [
+        "Bělorusko",
+        "Španělsko",
+        "Itálie",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Masada",
+      "values": [
+        "Izrael",
+        "Polsko",
+        "Rumunsko",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kronštadt",
+      "values": [
+        "Finsko",
+        "Polsko",
+        "Rusko",
+        "Rumunsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alcázar v Seville",
+      "values": [
+        "Španělsko",
+        "Finsko",
+        "Rumunsko",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Suomenlinna",
+      "values": [
+        "Španělsko",
+        "Izrael",
+        "Finsko",
+        "Polsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

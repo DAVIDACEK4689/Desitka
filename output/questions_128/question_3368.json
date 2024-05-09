@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] firmu?",
+  "questions": [
+    {
+      "key": "Sony",
+      "values": [
+        "švýcarskou",
+        "italskou",
+        "belgickou",
+        "japonskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dermacol",
+      "values": [
+        "českou",
+        "německou",
+        "vietnamskou",
+        "rumunskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Leica",
+      "values": [
+        "italskou",
+        "německou",
+        "slovinskou",
+        "rumunskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vienna Insurance Group",
+      "values": [
+        "irskou",
+        "norskou",
+        "rakouskou",
+        "izraelskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eltodo",
+      "values": [
+        "vietnamskou",
+        "sovětskou",
+        "českou",
+        "japonskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lee Cooper",
+      "values": [
+        "slovinskou",
+        "britskou",
+        "jihokorejskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "ANSWEAR",
+      "values": [
+        "malajsijskou",
+        "polskou",
+        "japonskou",
+        "australskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Novavax",
+      "values": [
+        "izraelskou",
+        "slovinskou",
+        "australskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Conrad Electronic",
+      "values": [
+        "německou",
+        "izraelskou",
+        "jihokorejskou",
+        "maltskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Flying Tiger Copenhagen",
+      "values": [
+        "švýcarskou",
+        "německou",
+        "slovinskou",
+        "dánskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

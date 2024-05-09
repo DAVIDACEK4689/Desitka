@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Carbonara",
+      "values": [
+        "vietnamskou",
+        "perskou",
+        "dánskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Saturejka",
+      "values": [
+        "španělskou",
+        "chorvatskou",
+        "balkánskou",
+        "arabskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sacherův dort",
+      "values": [
+        "irskou",
+        "židovskou",
+        "francouzskou",
+        "rakouskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Císařský trhanec",
+      "values": [
+        "rakouskou",
+        "středoamerickou",
+        "thajskou",
+        "indickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tagliatelle",
+      "values": [
+        "chorvatskou",
+        "polskou",
+        "italskou",
+        "slovenskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Brownie",
+      "values": [
+        "čínskou",
+        "islandskou",
+        "americkou",
+        "českou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bageta",
+      "values": [
+        "americkou",
+        "korejskou",
+        "tibetskou",
+        "francouzskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kávovina",
+      "values": [
+        "polskou",
+        "islandskou",
+        "švýcarskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bentó",
+      "values": [
+        "rakouskou",
+        "japonskou",
+        "francouzskou",
+        "kanadskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sulguni",
+      "values": [
+        "rakouskou",
+        "gruzínskou",
+        "dánskou",
+        "skotskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

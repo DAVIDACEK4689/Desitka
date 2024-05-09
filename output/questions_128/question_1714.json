@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] evropského podnikatele?",
+  "questions": [
+    {
+      "key": "Petr Dědek",
+      "values": [
+        "ukrajinského",
+        "německého",
+        "českého",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vácslav Havel",
+      "values": [
+        "českého",
+        "nizozemského",
+        "německého",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Andrej Hryc",
+      "values": [
+        "slovenského",
+        "dánského",
+        "francouzského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ingvar Kamprad",
+      "values": [
+        "španělského",
+        "řeckého",
+        "švédského",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivan Chrenko",
+      "values": [
+        "českého",
+        "německého",
+        "slovenského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexander De Croo",
+      "values": [
+        "belgického",
+        "slovinského",
+        "řeckého",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marek Čmejla",
+      "values": [
+        "nizozemského",
+        "litevského",
+        "ukrajinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vojtěch Weidenhoffer",
+      "values": [
+        "monackého",
+        "italského",
+        "rakouského",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Daniele Govoni",
+      "values": [
+        "slovenského",
+        "italského",
+        "běloruského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "August Oetker",
+      "values": [
+        "dánského",
+        "německého",
+        "litevského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

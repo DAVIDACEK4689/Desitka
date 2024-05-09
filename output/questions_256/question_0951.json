@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Ronaldo",
+      "values": [
+        "srbského",
+        "brazilského",
+        "bulharského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Wayne Rooney",
+      "values": [
+        "anglického",
+        "ghanského",
+        "kostarického",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Toni Kroos",
+      "values": [
+        "irského",
+        "slovenského",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Diego Simeone",
+      "values": [
+        "kolumbijského",
+        "slovenského",
+        "marockého",
+        "argentinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Edgar Davids",
+      "values": [
+        "nizozemského",
+        "kanadského",
+        "baskického",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexis Sánchez",
+      "values": [
+        "rumunského",
+        "chilského",
+        "baskického",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gonzalo Higuaín",
+      "values": [
+        "mongolského",
+        "finského",
+        "argentinského",
+        "brazilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Paul Gascoigne",
+      "values": [
+        "anglického",
+        "kolumbijského",
+        "slovinského",
+        "skotského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rijád Mahriz",
+      "values": [
+        "uruguayského",
+        "francouzského",
+        "nizozemského",
+        "mongolského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adil Rami",
+      "values": [
+        "kolumbijského",
+        "francouzského",
+        "kosovského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

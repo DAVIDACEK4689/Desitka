@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Eva Decastelo",
+      "values": [
+        "švédskou",
+        "českou",
+        "bermudskou",
+        "uruguayskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kylie Minogue",
+      "values": [
+        "australskou",
+        "srbskou",
+        "italskou",
+        "bulharskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Slávka Budínová",
+      "values": [
+        "uruguayskou",
+        "českou",
+        "kanadskou",
+        "bermudskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jana Kovalčíková",
+      "values": [
+        "chorvatskou",
+        "slovenskou",
+        "českou",
+        "švýcarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joan Collins",
+      "values": [
+        "finskou",
+        "uruguayskou",
+        "americkou",
+        "uzbeckou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rashida Jones",
+      "values": [
+        "izraelskou",
+        "americkou",
+        "dánskou",
+        "finskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Delta Goodremová",
+      "values": [
+        "chorvatskou",
+        "australskou",
+        "mexickou",
+        "jihoafrickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ceca",
+      "values": [
+        "francouzskou",
+        "rakouskou",
+        "srbskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Leslie Carterová",
+      "values": [
+        "kanadskou",
+        "uzbeckou",
+        "americkou",
+        "belgickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hana Navarová",
+      "values": [
+        "uzbeckou",
+        "chorvatskou",
+        "českou",
+        "bulharskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

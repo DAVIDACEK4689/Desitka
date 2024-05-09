@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte kontinent podle jazyka",
+  "questions": [
+    {
+      "key": "Slovanské jazyky",
+      "values": [
+        "Jižní Amerika",
+        "Evropa",
+        "Asie",
+        "Afrika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nizozemština",
+      "values": [
+        "Jižní Amerika",
+        "Asie",
+        "Afrika",
+        "Evropa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Románské jazyky",
+      "values": [
+        "Jižní Amerika",
+        "Evropa",
+        "Afrika",
+        "Asie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aramejština",
+      "values": [
+        "Jižní Amerika",
+        "Evropa",
+        "Afrika",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Korejština",
+      "values": [
+        "Afrika",
+        "Evropa",
+        "Jižní Amerika",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Keltské jazyky",
+      "values": [
+        "Evropa",
+        "Jižní Amerika",
+        "Asie",
+        "Afrika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jazyky Indie",
+      "values": [
+        "Asie",
+        "Afrika",
+        "Evropa",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hornolužická srbština",
+      "values": [
+        "Evropa",
+        "Jižní Amerika",
+        "Afrika",
+        "Asie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Urdština",
+      "values": [
+        "Afrika",
+        "Asie",
+        "Jižní Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Egyptština",
+      "values": [
+        "Afrika",
+        "Evropa",
+        "Asie",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

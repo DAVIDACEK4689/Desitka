@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Jahodník obecný",
+      "values": [
+        "Mexiko",
+        "Mongolsko",
+        "Madagaskar",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kolopejka vděčná",
+      "values": [
+        "Mongolsko",
+        "Madagaskar",
+        "Brazílie",
+        "Japonsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paulinie nápojná",
+      "values": [
+        "Japonsko",
+        "Brazílie",
+        "Nový Zéland",
+        "Austrálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Štětkovec",
+      "values": [
+        "Austrálie",
+        "Mexiko",
+        "Madagaskar",
+        "Mongolsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kajeput střídavolistý",
+      "values": [
+        "Česko",
+        "Austrálie",
+        "Mongolsko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Morinda barvířská",
+      "values": [
+        "Austrálie",
+        "Česko",
+        "Madagaskar",
+        "Mongolsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rojovník bahenní",
+      "values": [
+        "Mongolsko",
+        "Mexiko",
+        "Česko",
+        "Austrálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hořec křížatý",
+      "values": [
+        "Madagaskar",
+        "Česko",
+        "Austrálie",
+        "Brazílie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Borovice Coulterova",
+      "values": [
+        "Brazílie",
+        "Mexiko",
+        "Česko",
+        "Mongolsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Buk velkolistý",
+      "values": [
+        "Mexiko",
+        "Japonsko",
+        "Madagaskar",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

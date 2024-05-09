@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Pavel Nedvěd",
+      "values": [
+        "českého",
+        "anglického",
+        "marockého",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Johan Cruijff",
+      "values": [
+        "nizozemského",
+        "maďarského",
+        "albánského",
+        "ekvádorského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Veljko Birmančević",
+      "values": [
+        "srbského",
+        "nizozemského",
+        "polského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vratislav Lokvenc",
+      "values": [
+        "nizozemského",
+        "portugalského",
+        "českého",
+        "severoirského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jamie Vardy",
+      "values": [
+        "gruzínského",
+        "polského",
+        "československého",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Galásek",
+      "values": [
+        "brazilského",
+        "chilského",
+        "českého",
+        "bulharského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Glen Kamara",
+      "values": [
+        "belgického",
+        "finského",
+        "španělského",
+        "egyptského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dennis Bergkamp",
+      "values": [
+        "švýcarského",
+        "egyptského",
+        "rumunského",
+        "nizozemského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lucas Hernández",
+      "values": [
+        "kamerunského",
+        "francouzského",
+        "mexického",
+        "argentinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stephan El Shaarawy",
+      "values": [
+        "československého",
+        "italského",
+        "uruguayského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

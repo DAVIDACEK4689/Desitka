@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Ferenc Liszt",
+      "values": [
+        "rakouského",
+        "dánského",
+        "maďarského",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Svatopluk Havelka",
+      "values": [
+        "rumunského",
+        "rakouského",
+        "českého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sylvie Bodorová",
+      "values": [
+        "českého",
+        "španělského",
+        "brazilského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kygo",
+      "values": [
+        "irského",
+        "norského",
+        "rakouského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vilém Blodek",
+      "values": [
+        "italského",
+        "estonského",
+        "českého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Adolphe Adam",
+      "values": [
+        "italského",
+        "francouzského",
+        "jihoafrického",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Thomas Newman",
+      "values": [
+        "amerického",
+        "švédského",
+        "britského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Joe Zawinul",
+      "values": [
+        "polského",
+        "norského",
+        "rakouského",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Joe Hisaiši",
+      "values": [
+        "japonského",
+        "francouzského",
+        "švédského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gene Krupa",
+      "values": [
+        "jihoafrického",
+        "finského",
+        "amerického",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

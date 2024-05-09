@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] právo?",
+  "questions": [
+    {
+      "key": "Amnestie Václava Klause",
+      "values": [
+        "izraelské",
+        "české",
+        "polské",
+        "britské"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sejm",
+      "values": [
+        "byzantské",
+        "anglické",
+        "francouzské",
+        "polské"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Edikt nantský",
+      "values": [
+        "francouzské",
+        "polské",
+        "české",
+        "německé"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Corpus iuris civilis",
+      "values": [
+        "polské",
+        "německé",
+        "francouzské",
+        "byzantské"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kneset",
+      "values": [
+        "britské",
+        "polské",
+        "izraelské",
+        "byzantské"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Scotland Yard",
+      "values": [
+        "britské",
+        "izraelské",
+        "francouzské",
+        "české"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cizinec",
+      "values": [
+        "polské",
+        "české",
+        "anglické",
+        "izraelské"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Silniční vegetace",
+      "values": [
+        "americké",
+        "britské",
+        "české",
+        "polské"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fair use",
+      "values": [
+        "izraelské",
+        "české",
+        "americké",
+        "britské"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Svatokupectví",
+      "values": [
+        "americké",
+        "anglické",
+        "byzantské",
+        "francouzské"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Gianluigi Buffon",
+      "values": [
+        "portugalského",
+        "italského",
+        "finského",
+        "paraguayského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Phil Foden",
+      "values": [
+        "skotského",
+        "islandského",
+        "anglického",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bruno Fernandes",
+      "values": [
+        "portugalského",
+        "brazilského",
+        "panamského",
+        "tureckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jens Lehmann",
+      "values": [
+        "německého",
+        "brazilského",
+        "albánského",
+        "kolumbijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Timo Werner",
+      "values": [
+        "německého",
+        "kamerunského",
+        "severoirského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hervé Renard",
+      "values": [
+        "irského",
+        "chilského",
+        "lucemburského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jonny Evans",
+      "values": [
+        "amerického",
+        "kosovského",
+        "severoirského",
+        "islandského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jack Wilshere",
+      "values": [
+        "španělského",
+        "tureckého",
+        "irského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Berger",
+      "values": [
+        "panamského",
+        "paraguayského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Claudio Pizarro",
+      "values": [
+        "islandského",
+        "peruánského",
+        "ukrajinského",
+        "kosovského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

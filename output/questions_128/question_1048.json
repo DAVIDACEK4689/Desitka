@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle náboženství",
+  "questions": [
+    {
+      "key": "Jeruzalém",
+      "values": [
+        "Francie",
+        "Belgie",
+        "Československo",
+        "Izrael"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rastafariánství",
+      "values": [
+        "Československo",
+        "Vietnam",
+        "Jamajka",
+        "Byzantská říše"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Panna Maria Guadalupská",
+      "values": [
+        "Švýcarsko",
+        "Mexiko",
+        "Turecko",
+        "Belgie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Óm šinrikjó",
+      "values": [
+        "Jamajka",
+        "Japonsko",
+        "Izrael",
+        "Mexiko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Imanuelité",
+      "values": [
+        "Turecko",
+        "Česko",
+        "Slovensko",
+        "Byzantská říše"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Šókó Asahara",
+      "values": [
+        "Turecko",
+        "Omán",
+        "Japonsko",
+        "Vatikán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hypogeum Ħal Saflieni",
+      "values": [
+        "Malta",
+        "Omán",
+        "Izrael",
+        "Turecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vodun",
+      "values": [
+        "Benin",
+        "Vietnam",
+        "Byzantská říše",
+        "Malta"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bön",
+      "values": [
+        "Palestina",
+        "Tibet",
+        "Bulharsko",
+        "Mongolsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Liturgie svatého Jana Zlatoústého",
+      "values": [
+        "Brazílie",
+        "Bolívie",
+        "Byzantská říše",
+        "Bulharsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Přelet nad kukaččím hnízdem",
+      "values": [
+        "Wes Craven",
+        "Ben Stiller",
+        "Miloš Forman",
+        "Jonathan Demme"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zkrocená hora",
+      "values": [
+        "Ang Lee",
+        "David Frankel",
+        "Ron Howard",
+        "Rob Cohen"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Prázdniny v Římě",
+      "values": [
+        "McG",
+        "Stephen Sommers",
+        "Jonathan Demme",
+        "William Wyler"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vymítač ďábla",
+      "values": [
+        "David Zucker",
+        "Shane Black",
+        "William Friedkin",
+        "Andrew Stanton"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Skleněné peklo",
+      "values": [
+        "Irwin Allen",
+        "Woody Allen",
+        "Ron Howard",
+        "David Zucker"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vodní svět",
+      "values": [
+        "William Wyler",
+        "Darren Aronofsky",
+        "Nick Cassavetes",
+        "Kevin Reynolds"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mumie se vrací",
+      "values": [
+        "Mel Gibson",
+        "Stephen Sommers",
+        "Shane Black",
+        "Kevin Costner"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Terminator Salvation",
+      "values": [
+        "McG",
+        "Christopher Nolan",
+        "Darren Aronofsky",
+        "Danny DeVito"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mazací hlava",
+      "values": [
+        "David Lynch",
+        "Pete Docter",
+        "Wes Craven",
+        "Orson Welles"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Muži v černém 2",
+      "values": [
+        "Barry Sonnenfeld",
+        "Irwin Allen",
+        "McG",
+        "Ron Howard"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] evropského podnikatele?",
+  "questions": [
+    {
+      "key": "Niki Lauda",
+      "values": [
+        "švédského",
+        "řeckého",
+        "rakouského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bernard Arnault",
+      "values": [
+        "ukrajinského",
+        "francouzského",
+        "italského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexej Navalnyj",
+      "values": [
+        "britského",
+        "ruského",
+        "ukrajinského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Simona Kijonková",
+      "values": [
+        "českého",
+        "řeckého",
+        "ukrajinského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Chrenek",
+      "values": [
+        "ukrajinského",
+        "českého",
+        "německého",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marek Dospiva",
+      "values": [
+        "českého",
+        "řeckého",
+        "rakouského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Thomas Cook",
+      "values": [
+        "rakouského",
+        "britského",
+        "italského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adolf Dassler",
+      "values": [
+        "švýcarského",
+        "ukrajinského",
+        "řeckého",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Robert Maxwell",
+      "values": [
+        "nizozemského",
+        "slovenského",
+        "italského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Viktor But",
+      "values": [
+        "švédského",
+        "nizozemského",
+        "ruského",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

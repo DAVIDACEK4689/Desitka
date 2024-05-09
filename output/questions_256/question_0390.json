@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Boris Kollár",
+      "values": [
+        "mexického",
+        "nigerského",
+        "bosenského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Garri Kasparov",
+      "values": [
+        "ruského",
+        "ghanského",
+        "brazilského",
+        "afghánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Franz von Papen",
+      "values": [
+        "černohorského",
+        "palestinského",
+        "bulharského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Julius Maggi",
+      "values": [
+        "švýcarského",
+        "amerického",
+        "tureckého",
+        "maltského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gustav Slamečka",
+      "values": [
+        "slovenského",
+        "ukrajinského",
+        "srbského",
+        "finského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ruslana",
+      "values": [
+        "belgického",
+        "ukrajinského",
+        "švédského",
+        "palestinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Enver Paša",
+      "values": [
+        "tureckého",
+        "pruského",
+        "polského",
+        "anglického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Julius Schreck",
+      "values": [
+        "bulharského",
+        "chorvatského",
+        "salvadorského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ioannis Metaxas",
+      "values": [
+        "dánského",
+        "řeckého",
+        "mexického",
+        "turkmenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Friedrich Wilhelm Raiffeisen",
+      "values": [
+        "jihoafrického",
+        "kolumbijského",
+        "nigerského",
+        "německého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

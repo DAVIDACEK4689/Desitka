@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle archeologické lokality",
+  "questions": [
+    {
+      "key": "Málaga",
+      "values": [
+        "Rusko",
+        "Srí Lanka",
+        "Španělsko",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexandrijská knihovna",
+      "values": [
+        "Kambodža",
+        "Izrael",
+        "Slovensko",
+        "Egypt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aréna v Pule",
+      "values": [
+        "Slovensko",
+        "Albánie",
+        "Izrael",
+        "Chorvatsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Borobudur",
+      "values": [
+        "Indonésie",
+        "Česko",
+        "Polsko",
+        "Turecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pella",
+      "values": [
+        "Chorvatsko",
+        "Řecko",
+        "Srí Lanka",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Údolí královen",
+      "values": [
+        "Irák",
+        "Kambodža",
+        "Egypt",
+        "Jordánsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tíryns",
+      "values": [
+        "Kambodža",
+        "Švýcarsko",
+        "Irák",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eleusis",
+      "values": [
+        "Řecko",
+        "Írán",
+        "Česko",
+        "Izrael"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vergina",
+      "values": [
+        "Izrael",
+        "Ukrajina",
+        "Chorvatsko",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cenej",
+      "values": [
+        "Maďarsko",
+        "Gruzie",
+        "Egypt",
+        "Polsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

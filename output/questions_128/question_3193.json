@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] literaturu?",
+  "questions": [
+    {
+      "key": "Čtyři dohody",
+      "values": [
+        "americkou",
+        "mexickou",
+        "kolumbijskou",
+        "sovětskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jóga",
+      "values": [
+        "indickou",
+        "ruskou",
+        "srbskou",
+        "norskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sto roků samoty",
+      "values": [
+        "britskou",
+        "belgickou",
+        "kolumbijskou",
+        "islandskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Guru",
+      "values": [
+        "indickou",
+        "islandskou",
+        "belgickou",
+        "portugalskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Parnasismus",
+      "values": [
+        "srbskou",
+        "francouzskou",
+        "slovenskou",
+        "japonskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Védánta",
+      "values": [
+        "indickou",
+        "maďarskou",
+        "řeckou",
+        "srbskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gruppe 47",
+      "values": [
+        "irskou",
+        "německou",
+        "švýcarskou",
+        "sovětskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lovec draků",
+      "values": [
+        "maďarskou",
+        "afghánskou",
+        "kolumbijskou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tanka",
+      "values": [
+        "irskou",
+        "afghánskou",
+        "britskou",
+        "japonskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Émile Verhaeren",
+      "values": [
+        "belgickou",
+        "maďarskou",
+        "mexickou",
+        "americkou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

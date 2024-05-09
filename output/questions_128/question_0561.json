@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte město podle muzea",
+  "questions": [
+    {
+      "key": "Ermitáž",
+      "values": [
+        "Barcelona",
+        "Petrohrad",
+        "Moskva",
+        "Ciudad de México"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ostrov muzeí",
+      "values": [
+        "Berlín",
+        "Mnichov",
+        "Paříž",
+        "Florencie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jad vašem",
+      "values": [
+        "New York",
+        "Jeruzalém",
+        "Moskva",
+        "Stockholm"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Palác Pitti",
+      "values": [
+        "Moskva",
+        "Berlín",
+        "Milán",
+        "Florencie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Americké přírodovědné muzeum",
+      "values": [
+        "Vídeň",
+        "New York",
+        "Milán",
+        "Moskva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Conciergerie",
+      "values": [
+        "Paříž",
+        "Řím",
+        "Milán",
+        "Ciudad de México"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Palazzo Barberini",
+      "values": [
+        "Barcelona",
+        "Paříž",
+        "Řím",
+        "New York"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Muzeum krásných umění",
+      "values": [
+        "Budapešť",
+        "Moskva",
+        "Barcelona",
+        "Berlín"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Brooklynské muzeum",
+      "values": [
+        "Barcelona",
+        "Bratislava",
+        "New York",
+        "Berlín"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Davidova věž",
+      "values": [
+        "Jeruzalém",
+        "Florencie",
+        "Stockholm",
+        "Bratislava"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Pelmeně",
+      "values": [
+        "polskou",
+        "japonskou",
+        "belgickou",
+        "ruskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mozartovy koule",
+      "values": [
+        "dominikánskou",
+        "britskou",
+        "rakouskou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lázeňská oplatka",
+      "values": [
+        "vietnamskou",
+        "českou",
+        "anglickou",
+        "thajskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Frappé",
+      "values": [
+        "švýcarskou",
+        "ukrajinskou",
+        "tureckou",
+        "řeckou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Arancini",
+      "values": [
+        "brazilskou",
+        "indickou",
+        "belgickou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Moka",
+      "values": [
+        "polskou",
+        "dominikánskou",
+        "italskou",
+        "bhútánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hrstková polévka",
+      "values": [
+        "bhútánskou",
+        "švédskou",
+        "českou",
+        "balkánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kapustnica",
+      "values": [
+        "slovenskou",
+        "chorvatskou",
+        "ruskou",
+        "arménskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kukuřičné lupínky",
+      "values": [
+        "švýcarskou",
+        "americkou",
+        "dominikánskou",
+        "vietnamskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Azu",
+      "values": [
+        "norskou",
+        "maďarskou",
+        "ruskou",
+        "laoskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

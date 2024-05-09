@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] ministra?",
+  "questions": [
+    {
+      "key": "Lavrentij Pavlovič Berija",
+      "values": [
+        "sovětského",
+        "finského",
+        "německého",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Antonín Baudyš",
+      "values": [
+        "polského",
+        "československého",
+        "albánského",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexej Kosygin",
+      "values": [
+        "portugalského",
+        "polského",
+        "ruského",
+        "sovětského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Joseph Fouché",
+      "values": [
+        "polského",
+        "francouzského",
+        "československého",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ahmet Zogu",
+      "values": [
+        "portugalského",
+        "československého",
+        "albánského",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Xavier Bettel",
+      "values": [
+        "albánského",
+        "rakouského",
+        "britského",
+        "lucemburského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jonas Gahr Støre",
+      "values": [
+        "německého",
+        "rakouského",
+        "norského",
+        "československého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Herman Gref",
+      "values": [
+        "ruského",
+        "sovětského",
+        "britského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Victor Adler",
+      "values": [
+        "rakouského",
+        "sovětského",
+        "československého",
+        "finského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marcelo Caetano",
+      "values": [
+        "portugalského",
+        "sovětského",
+        "francouzského",
+        "polského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

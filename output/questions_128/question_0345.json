@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte město podle sportovní události",
+  "questions": [
+    {
+      "key": "Mistrovství světa v ledním hokeji 2000",
+      "values": [
+        "Peking",
+        "Londýn",
+        "Sydney",
+        "Santiago de Chile"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "PDC Mistrovství světa v šipkách",
+      "values": [
+        "Barcelona",
+        "Vancouver",
+        "Buenos Aires",
+        "Londýn"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Letní olympijské hry 2008",
+      "values": [
+        "Buenos Aires",
+        "Londýn",
+        "Tel Aviv",
+        "Peking"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zimní olympijské hry 2010",
+      "values": [
+        "Tel Aviv",
+        "Londýn",
+        "Brusel",
+        "Vancouver"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mistrovství světa v ledním hokeji 1979",
+      "values": [
+        "Záhřeb",
+        "Barcelona",
+        "Buenos Aires",
+        "Brusel"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kanadský pohár 1987",
+      "values": [
+        "Montréal",
+        "Londýn",
+        "Buenos Aires",
+        "Sydney"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kanadský pohár 1981",
+      "values": [
+        "Vancouver",
+        "Záhřeb",
+        "Santiago de Chile",
+        "Montréal"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mistrovství světa v ledním hokeji 1965",
+      "values": [
+        "Brusel",
+        "Londýn",
+        "Minsk",
+        "Záhřeb"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mistrovství Evropy ve fotbale 1972",
+      "values": [
+        "Brusel",
+        "Peking",
+        "Záhřeb",
+        "Santiago de Chile"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Letní olympijské hry 1944",
+      "values": [
+        "Baku",
+        "Barcelona",
+        "Tel Aviv",
+        "Londýn"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

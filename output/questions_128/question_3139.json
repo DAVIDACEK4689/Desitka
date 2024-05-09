@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Pretty Woman",
+      "values": [
+        "Jason Friedberg a Aaron Seltzer",
+        "Irwin Allen",
+        "Garry Marshall",
+        "Richard Linklater"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rain Man",
+      "values": [
+        "Barry Levinson",
+        "Harold Becker",
+        "Ang Lee",
+        "John Carpenter"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jumanji",
+      "values": [
+        "Martin Scorsese",
+        "Joe Johnston",
+        "Irwin Allen",
+        "Zack Snyder"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vůně ženy",
+      "values": [
+        "Martin Brest",
+        "Jason Reitman",
+        "Danny DeVito",
+        "Alan Taylor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Takoví jsme byli",
+      "values": [
+        "Frank Darabont",
+        "McG",
+        "Martin Scorsese",
+        "Sydney Pollack"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Podzim v New Yorku",
+      "values": [
+        "Bryan Singer",
+        "Alexander Payne",
+        "Dennis Hopper",
+        "Joan Chen"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Super náhradník",
+      "values": [
+        "Dean Parisot",
+        "Richard Lester",
+        "Andy Fickman",
+        "Matt Reeves"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zemřít mladý",
+      "values": [
+        "Richard Linklater",
+        "John Singleton",
+        "Joel Schumacher",
+        "Justin Lin"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oběti války",
+      "values": [
+        "Zack Snyder",
+        "Sidney Lumet",
+        "Brian De Palma",
+        "Garry Marshall"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čest rodiny Prizziů",
+      "values": [
+        "Chris Columbus",
+        "Jim Jarmusch",
+        "David Silverman",
+        "John Huston"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

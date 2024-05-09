@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "Jana Vohralíková",
+      "values": [
+        "kanadského",
+        "českého",
+        "maďarského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Matyáš Korvín",
+      "values": [
+        "italského",
+        "maďarského",
+        "portugalského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vasco da Gama",
+      "values": [
+        "maďarského",
+        "portugalského",
+        "německého",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alessandro Volta",
+      "values": [
+        "britského",
+        "italského",
+        "portugalského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ferenc Puskás",
+      "values": [
+        "britského",
+        "maďarského",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "János Kádár",
+      "values": [
+        "maďarského",
+        "francouzského",
+        "kanadského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gennaro Gattuso",
+      "values": [
+        "portugalského",
+        "italského",
+        "maďarského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rachele Mussoliniová",
+      "values": [
+        "českého",
+        "maďarského",
+        "německého",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Markéta Přemyslovna",
+      "values": [
+        "amerického",
+        "českého",
+        "kanadského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Kasal",
+      "values": [
+        "kanadského",
+        "francouzského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] biatlonistku?",
+  "questions": [
+    {
+      "key": "Markéta Davidová",
+      "values": [
+        "německou",
+        "slovinskou",
+        "českou",
+        "finskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lucie Charvátová",
+      "values": [
+        "italskou",
+        "německou",
+        "českou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jitka Landová",
+      "values": [
+        "českou",
+        "norskou",
+        "běloruskou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tiril Eckhoffová",
+      "values": [
+        "norskou",
+        "českou",
+        "švédskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hanna Öbergová",
+      "values": [
+        "českou",
+        "německou",
+        "švédskou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Magdalena Neunerová",
+      "values": [
+        "finskou",
+        "italskou",
+        "švédskou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ingrid Landmark Tandrevoldová",
+      "values": [
+        "běloruskou",
+        "norskou",
+        "německou",
+        "švédskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kaisa Mäkäräinenová",
+      "values": [
+        "finskou",
+        "slovenskou",
+        "italskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karoline Offigstad Knottenová",
+      "values": [
+        "slovenskou",
+        "norskou",
+        "francouzskou",
+        "finskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marie Dorinová Habertová",
+      "values": [
+        "francouzskou",
+        "českou",
+        "slovenskou",
+        "finskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

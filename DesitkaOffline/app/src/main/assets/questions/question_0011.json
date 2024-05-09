@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte obor podle průkopníka",
+  "questions": [
+    {
+      "key": "Thomas Alva Edison",
+      "values": [
+        "internet",
+        "kinematografie",
+        "letectví",
+        "počítač"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Charlie Chaplin",
+      "values": [
+        "kinematografie",
+        "sport",
+        "letectví",
+        "železnice"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alan Turing",
+      "values": [
+        "internet",
+        "sport",
+        "kinematografie",
+        "počítač"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Blaise Pascal",
+      "values": [
+        "internet",
+        "počítač",
+        "sport",
+        "železnice"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miroslav Tyrš",
+      "values": [
+        "železnice",
+        "letectví",
+        "sport",
+        "automobilismus"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexander Graham Bell",
+      "values": [
+        "letectví",
+        "počítač",
+        "sport",
+        "železnice"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gustav Frištenský",
+      "values": [
+        "kinematografie",
+        "železnice",
+        "letectví",
+        "sport"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karl Benz",
+      "values": [
+        "kinematografie",
+        "železnice",
+        "automobilismus",
+        "internet"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jawed Karim",
+      "values": [
+        "letectví",
+        "sport",
+        "kinematografie",
+        "internet"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Perner",
+      "values": [
+        "internet",
+        "kinematografie",
+        "automobilismus",
+        "železnice"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebníka?",
+  "questions": [
+    {
+      "key": "Michael Jackson",
+      "values": [
+        "ukrajinského",
+        "rumunského",
+        "amerického",
+        "argentinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hellmut Sickel",
+      "values": [
+        "argentinského",
+        "řeckého",
+        "belgického",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tobiáš Jirous",
+      "values": [
+        "švýcarského",
+        "gruzínského",
+        "jihoafrického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pavol Hammel",
+      "values": [
+        "slovenského",
+        "jihoafrického",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mitski",
+      "values": [
+        "dánského",
+        "litevského",
+        "nizozemského",
+        "japonského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pavel Hanus",
+      "values": [
+        "jugoslávského",
+        "litevského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaroslav Krček",
+      "values": [
+        "irského",
+        "německého",
+        "českého",
+        "litevského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gheorghe Zamfir",
+      "values": [
+        "rumunského",
+        "nizozemského",
+        "jugoslávského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavel Šváb",
+      "values": [
+        "českého",
+        "dánského",
+        "rakouského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Angèle",
+      "values": [
+        "belgického",
+        "gruzínského",
+        "islandského",
+        "jamajského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

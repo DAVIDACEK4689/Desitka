@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Jmelí bílé",
+      "values": [
+        "Mexiko",
+        "Austrálie",
+        "Česko",
+        "Brazílie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Divizna velkokvětá",
+      "values": [
+        "Austrálie",
+        "Česko",
+        "Brazílie",
+        "Mexiko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pelyněk estragon",
+      "values": [
+        "Nový Zéland",
+        "Česko",
+        "Brazílie",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fíkovník drobnolistý",
+      "values": [
+        "Austrálie",
+        "Brazílie",
+        "Mongolsko",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Aloisie citronová",
+      "values": [
+        "Mongolsko",
+        "Brazílie",
+        "Madagaskar",
+        "Mexiko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Heřmánkovec nevonný",
+      "values": [
+        "Madagaskar",
+        "Nový Zéland",
+        "Austrálie",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bedrník obecný",
+      "values": [
+        "Mexiko",
+        "Madagaskar",
+        "Nový Zéland",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Loubinec",
+      "values": [
+        "Brazílie",
+        "Mongolsko",
+        "Česko",
+        "Mexiko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jabloň lesní",
+      "values": [
+        "Česko",
+        "Austrálie",
+        "Nový Zéland",
+        "Brazílie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Morinda barvířská",
+      "values": [
+        "Nový Zéland",
+        "Mongolsko",
+        "Austrálie",
+        "Brazílie"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

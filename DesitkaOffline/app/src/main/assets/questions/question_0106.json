@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle geografie",
+  "questions": [
+    {
+      "key": "Podkarpatská Rus",
+      "values": [
+        "Česko",
+        "Turkmenistán",
+        "Izrael",
+        "Ukrajina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Morava",
+      "values": [
+        "Rusko",
+        "Izrael",
+        "Česko",
+        "Pero"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Machu Picchu",
+      "values": [
+        "Turecko",
+        "Pero",
+        "Austrálie",
+        "Řecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Athény",
+      "values": [
+        "Řecko",
+        "Turkmenistán",
+        "Ukrajina",
+        "Mongolsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Černé moře",
+      "values": [
+        "Turkmenistán",
+        "Turecko",
+        "Ukrajina",
+        "Abcházie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tartárie",
+      "values": [
+        "Rusko",
+        "Austrálie",
+        "Abcházie",
+        "Řecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Malá Asie",
+      "values": [
+        "Turkmenistán",
+        "Mongolsko",
+        "Ukrajina",
+        "Turecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pyreneje",
+      "values": [
+        "Mongolsko",
+        "Andorra",
+        "Izrael",
+        "Řecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Velký bariérový útes",
+      "values": [
+        "Pero",
+        "Austrálie",
+        "Řecko",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gobi",
+      "values": [
+        "Mongolsko",
+        "Pero",
+        "Ukrajina",
+        "Řecko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

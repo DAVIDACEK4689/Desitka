@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle českého sportovce",
+  "questions": [
+    {
+      "key": "Ondřej Palát",
+      "values": [
+        "lední hokejista",
+        "pozemní hokejista",
+        "cyklista",
+        "volejbalista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Kaut",
+      "values": [
+        "automobilový závodník",
+        "lední hokejista",
+        "pozemní hokejista",
+        "lyžař"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Králík",
+      "values": [
+        "šipkaři",
+        "gymnasta",
+        "lední hokejista",
+        "lyžař"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robert Kron",
+      "values": [
+        "lední hokejista",
+        "šachista",
+        "kickboxeři",
+        "baseballisté"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Engel",
+      "values": [
+        "zápasník",
+        "judista",
+        "skeletonisté",
+        "boxer"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Damm",
+      "values": [
+        "plavec",
+        "tenista",
+        "rychlostní kanoista",
+        "bojový umělec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ladislav Lahoda",
+      "values": [
+        "zápasník",
+        "lední hokejista",
+        "šachista",
+        "taekwondisté"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lukáš Budínský",
+      "values": [
+        "kickboxeři",
+        "tenista",
+        "fotbalista",
+        "baseballisté"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vojtěch Hruban",
+      "values": [
+        "squashisté",
+        "basketbalista",
+        "lyžař",
+        "bojový umělec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavel Kantor",
+      "values": [
+        "plavec",
+        "tenista",
+        "volejbalista",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

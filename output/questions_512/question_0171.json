@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Jiří Lábus",
+      "values": [
+        "britského",
+        "srbského",
+        "nizozemského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aleš Háma",
+      "values": [
+        "tureckého",
+        "českého",
+        "francouzského",
+        "jihoafrického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Budař",
+      "values": [
+        "indického",
+        "amerického",
+        "českého",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Martin Finger",
+      "values": [
+        "slovenského",
+        "českého",
+        "tureckého",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lior Raz",
+      "values": [
+        "norského",
+        "malajsijského",
+        "izraelského",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marek Holý",
+      "values": [
+        "kanadského",
+        "českého",
+        "venezuelského",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dan Bilzerian",
+      "values": [
+        "amerického",
+        "italského",
+        "ukrajinského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fred Astaire",
+      "values": [
+        "sovětského",
+        "francouzského",
+        "maďarského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mark Harmon",
+      "values": [
+        "irského",
+        "nizozemského",
+        "kanadského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Les Charlots",
+      "values": [
+        "ukrajinského",
+        "sovětského",
+        "australského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

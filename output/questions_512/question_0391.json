@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] firmu?",
+  "questions": [
+    {
+      "key": "Kaufland",
+      "values": [
+        "irskou",
+        "rakouskou",
+        "německou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Airbnb",
+      "values": [
+        "slovenskou",
+        "izraelskou",
+        "českou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Starbucks",
+      "values": [
+        "španělskou",
+        "americkou",
+        "československou",
+        "německou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "OVB Holding",
+      "values": [
+        "nizozemskou",
+        "německou",
+        "ruskou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "KKCG",
+      "values": [
+        "irskou",
+        "švýcarskou",
+        "rakouskou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "General Electric",
+      "values": [
+        "italskou",
+        "finskou",
+        "americkou",
+        "polskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Wikov",
+      "values": [
+        "českou",
+        "japonskou",
+        "slovenskou",
+        "československou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sedita",
+      "values": [
+        "izraelskou",
+        "nizozemskou",
+        "britskou",
+        "slovenskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Monsanto",
+      "values": [
+        "americkou",
+        "japonskou",
+        "polskou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "CITIC Group",
+      "values": [
+        "polskou",
+        "čínskou",
+        "japonskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

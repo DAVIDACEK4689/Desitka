@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Pyšná princezna",
+      "values": [
+        "Jaroslav Papoušek",
+        "Ladislav Smoljak",
+        "Bořivoj Zeman",
+        "Tomáš Vorel"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kolja",
+      "values": [
+        "Miloslav Šmídmajer",
+        "Zdeněk Podskalský",
+        "Jan Svěrák",
+        "Ladislav Rychman"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Za vším hledej ženu",
+      "values": [
+        "Miloslav Šmídmajer",
+        "Juraj Herz",
+        "Zdeněk Zelenka",
+        "Petr Jákl"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Promlčeno",
+      "values": [
+        "Jan Hřebejk",
+        "Jaromil Jireš",
+        "Robert Sedláček",
+        "Jiří Strach"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dařbuján a Pandrhola",
+      "values": [
+        "Jiří Strach",
+        "Karel Smyczek",
+        "Martin Frič",
+        "Jan Hřebejk"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jak básníci neztrácejí naději",
+      "values": [
+        "Martin Horský",
+        "Dušan Klein",
+        "Bohdan Sláma",
+        "Jan Svěrák"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ďáblova lest",
+      "values": [
+        "Dušan Klein",
+        "Miloš Forman",
+        "Marie Poledňáková",
+        "Jiří Strach"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Probudím se včera",
+      "values": [
+        "Bohdan Sláma",
+        "Miloslav Šmídmajer",
+        "Zdeněk Troška",
+        "Karel Kachyňa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eva tropí hlouposti",
+      "values": [
+        "Martin Frič",
+        "Jaroslav Papoušek",
+        "Antonín Moskalyk",
+        "Miloslav Šmídmajer"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ženy v pokušení",
+      "values": [
+        "Karel Smyczek",
+        "Jiří Vejdělek",
+        "Jan Schmidt",
+        "Juraj Herz"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

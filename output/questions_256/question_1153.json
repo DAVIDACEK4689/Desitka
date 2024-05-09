@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Zinédine Zidane",
+      "values": [
+        "amerického",
+        "baskického",
+        "francouzského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roberto Carlos",
+      "values": [
+        "ruského",
+        "slovinského",
+        "italského",
+        "brazilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oliver Kahn",
+      "values": [
+        "německého",
+        "rumunského",
+        "českého",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Csaplár",
+      "values": [
+        "českého",
+        "slovenského",
+        "dánského",
+        "kostarického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lautaro Martínez",
+      "values": [
+        "mongolského",
+        "argentinského",
+        "kosovského",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Philippe Coutinho",
+      "values": [
+        "řeckého",
+        "brazilského",
+        "polského",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Dúbravka",
+      "values": [
+        "srbského",
+        "slovenského",
+        "italského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Léonard Kweuke",
+      "values": [
+        "amerického",
+        "kamerunského",
+        "finského",
+        "kolumbijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mario Kempes",
+      "values": [
+        "belgického",
+        "ruského",
+        "argentinského",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Guti",
+      "values": [
+        "španělského",
+        "nizozemského",
+        "mexického",
+        "amerického"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

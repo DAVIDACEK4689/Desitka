@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] klavíristu?",
+  "questions": [
+    {
+      "key": "Petr Malásek",
+      "values": [
+        "britského",
+        "polského",
+        "českého",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rudolf Rokl",
+      "values": [
+        "izraelského",
+        "rakouského",
+        "čínského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tom Waits",
+      "values": [
+        "finského",
+        "gruzínského",
+        "amerického",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Clara Schumannová",
+      "values": [
+        "francouzského",
+        "německého",
+        "australského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miloslav Ducháč",
+      "values": [
+        "amerického",
+        "rakouského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pavel Vaculík",
+      "values": [
+        "australského",
+        "gruzínského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Thelonious Monk",
+      "values": [
+        "francouzského",
+        "polského",
+        "gruzínského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mark Salling",
+      "values": [
+        "francouzského",
+        "italského",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Paul Reiser",
+      "values": [
+        "britského",
+        "amerického",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vilém Kurz mladší",
+      "values": [
+        "španělského",
+        "italského",
+        "australského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

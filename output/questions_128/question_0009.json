@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte interpreta podle hudební alby",
+  "questions": [
+    {
+      "key": "El Presidento",
+      "values": [
+        "Kabát",
+        "Foo Fighters",
+        "Accept",
+        "John Cale"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dole v dole",
+      "values": [
+        "Kabát",
+        "ABBA",
+        "The Doors",
+        "Accept"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Apage Satanas",
+      "values": [
+        "Coldplay",
+        "Depeche Mode",
+        "Arakain",
+        "John Cale"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dlouhej kouř",
+      "values": [
+        "Green Day",
+        "David Bowie",
+        "Chinaski",
+        "Accept"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Somewhere in Time",
+      "values": [
+        "Iron Maiden",
+        "Arakain",
+        "Accept",
+        "The Clash"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Playing the Angel",
+      "values": [
+        "Depeche Mode",
+        "Foo Fighters",
+        "Green Day",
+        "Hana Hegerová"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "The Marshall Mathers LP",
+      "values": [
+        "Insania",
+        "Eminem",
+        "Deep Purple",
+        "Imagine Dragons"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Master of Reality",
+      "values": [
+        "Eminem",
+        "Buty",
+        "ABBA",
+        "Black Sabbath"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Who Do We Think We Are",
+      "values": [
+        "Marta Kubišová",
+        "Deep Purple",
+        "Krucipüsk",
+        "Eagles"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sine Amore Nihil",
+      "values": [
+        "Krucipüsk",
+        "Marta Kubišová",
+        "Helloween",
+        "Judas Priest"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

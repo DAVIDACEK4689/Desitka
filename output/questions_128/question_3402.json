@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Bořek Slezáček",
+      "values": [
+        "irského",
+        "českého",
+        "skotského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavel Horňák",
+      "values": [
+        "českého",
+        "irského",
+        "jihokorejského",
+        "islandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Glen Hansard",
+      "values": [
+        "argentinského",
+        "irského",
+        "rumunského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Svatopluk Karásek",
+      "values": [
+        "nizozemského",
+        "českého",
+        "dánského",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Radim Schwab",
+      "values": [
+        "českého",
+        "srbského",
+        "kolumbijského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Farinelli",
+      "values": [
+        "jamajského",
+        "slovenského",
+        "italského",
+        "islandského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petar Introvič",
+      "values": [
+        "českého",
+        "moldavského",
+        "německého",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jerry Garcia",
+      "values": [
+        "amerického",
+        "jamajského",
+        "švédského",
+        "jihoafrického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Patrick Bruel",
+      "values": [
+        "polského",
+        "francouzského",
+        "italského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "James LaBrie",
+      "values": [
+        "amerického",
+        "skotského",
+        "kanadského",
+        "dánského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

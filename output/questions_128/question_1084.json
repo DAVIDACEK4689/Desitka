@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Hirošima",
+      "values": [
+        "Bulharsko",
+        "Japonsko",
+        "Surinam",
+        "Indonésie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mariupol",
+      "values": [
+        "Kazachstán",
+        "Nizozemsko",
+        "Namibie",
+        "Ukrajina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lübeck",
+      "values": [
+        "Kypr",
+        "Rumunsko",
+        "Německo",
+        "Izrael"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tripolis",
+      "values": [
+        "Libye",
+        "Gambie",
+        "Tunisko",
+        "Estonsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Torrevieja",
+      "values": [
+        "Angola",
+        "Benin",
+        "Jamajka",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Suez",
+      "values": [
+        "Estonsko",
+        "Francie",
+        "Egypt",
+        "Gruzie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cuxhaven",
+      "values": [
+        "Benin",
+        "Německo",
+        "Kolumbie",
+        "Libérie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ašdod",
+      "values": [
+        "Norsko",
+        "Černá Hora",
+        "Izrael",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Baltijsk",
+      "values": [
+        "Libanon",
+        "Venezuela",
+        "Sýrie",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Atyrau",
+      "values": [
+        "Kazachstán",
+        "Dominikánská republika",
+        "Sierra Leone",
+        "Nigérie"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

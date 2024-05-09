@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Vlasta Burian",
+      "values": [
+        "německého",
+        "řeckého",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ken Block",
+      "values": [
+        "italského",
+        "řeckého",
+        "francouzského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Igor Matovič",
+      "values": [
+        "slovenského",
+        "řeckého",
+        "rakouského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Walt Disney",
+      "values": [
+        "švédského",
+        "kanadského",
+        "amerického",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michal Horáček",
+      "values": [
+        "ukrajinského",
+        "německého",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lewis Strauss",
+      "values": [
+        "českého",
+        "amerického",
+        "britského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Slávek Boura",
+      "values": [
+        "německého",
+        "českého",
+        "slovenského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Calvin Klein",
+      "values": [
+        "libanonského",
+        "českého",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Patrik Tkáč",
+      "values": [
+        "ruského",
+        "libanonského",
+        "kanadského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marek Dospiva",
+      "values": [
+        "českého",
+        "řeckého",
+        "italského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

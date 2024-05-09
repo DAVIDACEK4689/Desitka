@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte město podle české kultury",
+  "questions": [
+    {
+      "key": "Čechomor",
+      "values": [
+        "Bečov nad Teplou",
+        "Bechyně",
+        "Pardubice",
+        "Svitavy"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bretschneiderovo ucho",
+      "values": [
+        "Chlumec nad Cidlinou",
+        "Lipnice nad Sázavou",
+        "Žďár nad Sázavou",
+        "Bechyně"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Valdická brána",
+      "values": [
+        "Břeclav",
+        "Jičín",
+        "Olomouc",
+        "Telč"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ježíškova cesta",
+      "values": [
+        "Chrudim",
+        "Boží Dar",
+        "Telč",
+        "Benešov"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Podkrušnohorské technické muzeum",
+      "values": [
+        "Velké Meziříčí",
+        "Litvínov",
+        "Broumov",
+        "Příbram"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Muzeum Zdeňka Buriana",
+      "values": [
+        "Polička",
+        "Broumov",
+        "Štramberk",
+        "Boží Dar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eduard Held muzeum",
+      "values": [
+        "Bystřice nad Pernštejnem",
+        "Zákupy",
+        "Turnov",
+        "Most"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lesnická naučná stezka Sokol",
+      "values": [
+        "Jablonné v Podještědí",
+        "Bystřice nad Pernštejnem",
+        "Přibyslav",
+        "Benešov"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Naučná stezka Smolnický potok",
+      "values": [
+        "Polička",
+        "Rožďalovice",
+        "Postoloprty",
+        "Louny"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rolnické muzeum",
+      "values": [
+        "Broumov",
+        "Štramberk",
+        "Jaroměřice nad Rokytnou",
+        "Český Brod"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

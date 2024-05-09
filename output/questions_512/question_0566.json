@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Donald Trump",
+      "values": [
+        "švédského",
+        "italského",
+        "řeckého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Igor Matovič",
+      "values": [
+        "kanadského",
+        "řeckého",
+        "slovenského",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oliver Dlouhý",
+      "values": [
+        "českého",
+        "nizozemského",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Frank Abagnale",
+      "values": [
+        "amerického",
+        "ruského",
+        "kanadského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Carroll Shelby",
+      "values": [
+        "řeckého",
+        "brazilského",
+        "amerického",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Levi Strauss",
+      "values": [
+        "amerického",
+        "švédského",
+        "brazilského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chad Hurley",
+      "values": [
+        "amerického",
+        "ukrajinského",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Phineas Taylor Barnum",
+      "values": [
+        "francouzského",
+        "amerického",
+        "ruského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Guccio Gucci",
+      "values": [
+        "britského",
+        "libanonského",
+        "kanadského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Thomas Prinzhorn",
+      "values": [
+        "rakouského",
+        "švýcarského",
+        "italského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

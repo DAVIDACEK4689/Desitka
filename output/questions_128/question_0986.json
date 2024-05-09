@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] klavíristu?",
+  "questions": [
+    {
+      "key": "Debbie Gibsonová",
+      "values": [
+        "amerického",
+        "ukrajinského",
+        "francouzského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sergej Prokofjev",
+      "values": [
+        "kanadského",
+        "ukrajinského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jerry Lee Lewis",
+      "values": [
+        "ukrajinského",
+        "českého",
+        "finského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Duke Ellington",
+      "values": [
+        "italského",
+        "amerického",
+        "britského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Milan Devinne",
+      "values": [
+        "izraelského",
+        "kanadského",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ervín Schulhoff",
+      "values": [
+        "izraelského",
+        "českého",
+        "ukrajinského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gideon Klein",
+      "values": [
+        "českého",
+        "německého",
+        "amerického",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "August Stradal",
+      "values": [
+        "slovenského",
+        "českého",
+        "australského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miloš Orson Štědroň",
+      "values": [
+        "gruzínského",
+        "polského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vítězslav Hádl",
+      "values": [
+        "českého",
+        "gruzínského",
+        "finského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

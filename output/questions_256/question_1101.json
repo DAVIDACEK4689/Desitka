@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Miloš Forman",
+      "values": [
+        "novozélandského",
+        "ruského",
+        "belgického",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mel Gibson",
+      "values": [
+        "japonského",
+        "srbského",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miloš Nedbal",
+      "values": [
+        "novozélandského",
+        "kanadského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Švankmajer",
+      "values": [
+        "španělského",
+        "francouzského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Auguste a Louis Lumièrové",
+      "values": [
+        "francouzského",
+        "japonského",
+        "dánského",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Vachek",
+      "values": [
+        "norského",
+        "polského",
+        "českého",
+        "hongkongského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Evald Schorm",
+      "values": [
+        "francouzského",
+        "britského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimír Michálek",
+      "values": [
+        "irského",
+        "norského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "William Friedkin",
+      "values": [
+        "amerického",
+        "kanadského",
+        "hongkongského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ivan Renč",
+      "values": [
+        "francouzského",
+        "britského",
+        "českého",
+        "hongkongského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

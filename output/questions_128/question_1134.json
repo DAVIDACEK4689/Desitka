@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Avril Lavigne",
+      "values": [
+        "slovenskou",
+        "kanadskou",
+        "maďarskou",
+        "izraelskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Simona Chytrová",
+      "values": [
+        "bulharskou",
+        "australskou",
+        "českou",
+        "bermudskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sonja Henie",
+      "values": [
+        "srbskou",
+        "norskou",
+        "belgickou",
+        "švýcarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hana Benoniová",
+      "values": [
+        "českou",
+        "britskou",
+        "australskou",
+        "brazilskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Carole Bouquet",
+      "values": [
+        "dánskou",
+        "australskou",
+        "uruguayskou",
+        "francouzskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiřina Jelenská",
+      "values": [
+        "českou",
+        "irskou",
+        "nizozemskou",
+        "norskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Míla Pačová",
+      "values": [
+        "uzbeckou",
+        "českou",
+        "španělskou",
+        "novozélandskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Christina Hendricks",
+      "values": [
+        "jihoafrickou",
+        "americkou",
+        "nizozemskou",
+        "irskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Macy Gray",
+      "values": [
+        "brazilskou",
+        "belgickou",
+        "americkou",
+        "španělskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Raffaella Carrà",
+      "values": [
+        "čínskou",
+        "americkou",
+        "irskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

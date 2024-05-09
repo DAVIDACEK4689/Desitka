@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Roman Polański",
+      "values": [
+        "sovětského",
+        "amerického",
+        "švédského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Markus Krug",
+      "values": [
+        "britského",
+        "slovenského",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Auguste a Louis Lumièrové",
+      "values": [
+        "švýcarského",
+        "íránského",
+        "polského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zdeněk Zelenka",
+      "values": [
+        "ruského",
+        "ukrajinského",
+        "českého",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Adam Sedlák",
+      "values": [
+        "novozélandského",
+        "estonského",
+        "ukrajinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gael García Bernal",
+      "values": [
+        "mexického",
+        "švédského",
+        "srbského",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "John Turturro",
+      "values": [
+        "amerického",
+        "polského",
+        "australského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Frank Darabont",
+      "values": [
+        "českého",
+        "německého",
+        "srbského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zdeněk Tyc",
+      "values": [
+        "českého",
+        "slovenského",
+        "belgického",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jerzy Grotowski",
+      "values": [
+        "chorvatského",
+        "ruského",
+        "nizozemského",
+        "polského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

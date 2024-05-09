@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] malíře?",
+  "questions": [
+    {
+      "key": "Pablo Picasso",
+      "values": [
+        "španělského",
+        "nizozemského",
+        "norského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gustav Klimt",
+      "values": [
+        "rakouského",
+        "ukrajinského",
+        "ruského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rembrandt",
+      "values": [
+        "italského",
+        "českého",
+        "nizozemského",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Egon Schiele",
+      "values": [
+        "španělského",
+        "francouzského",
+        "rakouského",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Albrecht Dürer",
+      "values": [
+        "nizozemského",
+        "italského",
+        "německého",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Francisco Goya",
+      "values": [
+        "španělského",
+        "německého",
+        "nizozemského",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Édouard Manet",
+      "values": [
+        "francouzského",
+        "řeckého",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Harriet Backerová",
+      "values": [
+        "italského",
+        "norského",
+        "francouzského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jackson Pollock",
+      "values": [
+        "německého",
+        "rakouského",
+        "španělského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Giuseppe Arcimboldo",
+      "values": [
+        "italského",
+        "ukrajinského",
+        "francouzského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

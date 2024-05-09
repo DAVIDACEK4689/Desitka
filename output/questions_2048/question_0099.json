@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "David Beckham",
+      "values": [
+        "československého",
+        "anglického",
+        "norského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ronaldo",
+      "values": [
+        "rakouského",
+        "švédského",
+        "brazilského",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zlatan Ibrahimović",
+      "values": [
+        "rakouského",
+        "argentinského",
+        "švédského",
+        "československého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Nedvěd",
+      "values": [
+        "švédského",
+        "českého",
+        "španělského",
+        "argentinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Koller",
+      "values": [
+        "španělského",
+        "českého",
+        "československého",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jakub Jankto",
+      "values": [
+        "rakouského",
+        "švédského",
+        "českého",
+        "československého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomáš Ujfaluši",
+      "values": [
+        "českého",
+        "švédského",
+        "československého",
+        "anglického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Bican",
+      "values": [
+        "rakouského",
+        "španělského",
+        "brazilského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Rosický",
+      "values": [
+        "argentinského",
+        "brazilského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vladimír Šmicer",
+      "values": [
+        "francouzského",
+        "chorvatského",
+        "portugalského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

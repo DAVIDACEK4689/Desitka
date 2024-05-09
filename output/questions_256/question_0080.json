@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] chemika?",
+  "questions": [
+    {
+      "key": "Angela Merkelová",
+      "values": [
+        "britského",
+        "německého",
+        "slovenského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Louis Pasteur",
+      "values": [
+        "maďarského",
+        "švýcarského",
+        "francouzského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Svatopluk Presl",
+      "values": [
+        "švýcarského",
+        "slovenského",
+        "českého",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gerty Coriová",
+      "values": [
+        "ruského",
+        "slovenského",
+        "českého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hans Christian Ørsted",
+      "values": [
+        "dánského",
+        "maďarského",
+        "kanadského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rastislav Káčer",
+      "values": [
+        "maďarského",
+        "kanadského",
+        "polského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Moungi Bawendi",
+      "values": [
+        "německého",
+        "slovenského",
+        "švýcarského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Primo Levi",
+      "values": [
+        "italského",
+        "dánského",
+        "polského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lilli Hornigová",
+      "values": [
+        "dánského",
+        "ruského",
+        "maďarského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Thomas Midgley",
+      "values": [
+        "dánského",
+        "polského",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] aktivistu?",
+  "questions": [
+    {
+      "key": "Matka Tereza",
+      "values": [
+        "kanadského",
+        "palestinského",
+        "indického",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Břetislav Rychlík",
+      "values": [
+        "polského",
+        "českého",
+        "palestinského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivan Smetana",
+      "values": [
+        "českého",
+        "německého",
+        "íránského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Matěj Hollan",
+      "values": [
+        "německého",
+        "francouzského",
+        "australského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Elie Wiesel",
+      "values": [
+        "australského",
+        "německého",
+        "palestinského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Natalja Gorbaněvská",
+      "values": [
+        "britského",
+        "slovenského",
+        "ruského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jello Biafra",
+      "values": [
+        "britského",
+        "palestinského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Boleslav Bárta",
+      "values": [
+        "italského",
+        "českého",
+        "jihoafrického",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Naomi Kleinová",
+      "values": [
+        "kanadského",
+        "slovenského",
+        "běloruského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Charles Jordan",
+      "values": [
+        "jihoafrického",
+        "amerického",
+        "íránského",
+        "indického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

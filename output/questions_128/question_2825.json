@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Trenčín",
+      "values": [
+        "Dyje",
+        "Sázava",
+        "Váha",
+        "Jizera"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Modřany",
+      "values": [
+        "Úslava",
+        "Vltava",
+        "Emže",
+        "Otava"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zgorzelec",
+      "values": [
+        "Sázava",
+        "Vltava",
+        "Bečva",
+        "Lužická Nisa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Příšovice",
+      "values": [
+        "Sebnice",
+        "Těrek",
+        "Malše",
+        "Jizera"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Štýřice",
+      "values": [
+        "Svratka",
+        "Temže",
+        "Don",
+        "Cidlina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Živohošť",
+      "values": [
+        "Těrek",
+        "Vltava",
+        "Malše",
+        "Rýn"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bad Muskau",
+      "values": [
+        "Lužická Nisa",
+        "Ploučnice",
+        "Sebnice",
+        "Emže"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Charlottenburg",
+      "values": [
+        "Tibera",
+        "Úslava",
+        "Spréva",
+        "Svratka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Meudon",
+      "values": [
+        "Lužnice",
+        "Temže",
+        "Bečva",
+        "Seina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kojice",
+      "values": [
+        "Úslava",
+        "Lužnice",
+        "Sázava",
+        "Labe"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

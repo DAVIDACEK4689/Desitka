@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] ateistu?",
+  "questions": [
+    {
+      "key": "Petr Pavel",
+      "values": [
+        "českého",
+        "švýcarského",
+        "ruského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Angelina Jolie",
+      "values": [
+        "francouzského",
+        "italského",
+        "amerického",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Frida Kahlo",
+      "values": [
+        "ruského",
+        "německého",
+        "mexického",
+        "skotského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fernando Alonso",
+      "values": [
+        "amerického",
+        "francouzského",
+        "židovského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Charles Bukowski",
+      "values": [
+        "ruského",
+        "německého",
+        "rumunského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "James Cameron",
+      "values": [
+        "rumunského",
+        "švédského",
+        "kanadského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Katharine Hepburnová",
+      "values": [
+        "švýcarského",
+        "italského",
+        "islandského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Raúl Castro",
+      "values": [
+        "rumunského",
+        "španělského",
+        "francouzského",
+        "kubánského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Julianne Moore",
+      "values": [
+        "amerického",
+        "švýcarského",
+        "srbského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dmitrij Šostakovič",
+      "values": [
+        "islandského",
+        "židovského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

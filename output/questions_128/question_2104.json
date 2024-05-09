@@ -1,0 +1,105 @@
+{
+  "text": "Určete rok podle letecké nehody",
+  "questions": [
+    {
+      "key": "Let Malaysia Airlines 17",
+      "values": [
+        "2014",
+        "1928",
+        "2010",
+        "2015"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Let United Airlines 93",
+      "values": [
+        "2016",
+        "2001",
+        "1968",
+        "1958"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Let ČSA 540",
+      "values": [
+        "1980",
+        "1919",
+        "1977",
+        "1975"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Let American Airlines 77",
+      "values": [
+        "1958",
+        "2015",
+        "2001",
+        "1989"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Letecká nehoda generála Štefánika",
+      "values": [
+        "1991",
+        "2021",
+        "1985",
+        "1919"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Let Kogalymavia 9268",
+      "values": [
+        "2015",
+        "1985",
+        "1996",
+        "1994"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Let Ukraine International Airlines 752",
+      "values": [
+        "2008",
+        "2020",
+        "1994",
+        "2015"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Let Itavia 870",
+      "values": [
+        "1979",
+        "1982",
+        "1980",
+        "2015"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Obří hřeben",
+      "values": [
+        "2009",
+        "1975",
+        "1945",
+        "2022"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Let Air India 182",
+      "values": [
+        "1976",
+        "1980",
+        "2018",
+        "1985"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

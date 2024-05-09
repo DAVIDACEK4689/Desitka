@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] ateistu?",
+  "questions": [
+    {
+      "key": "Andrej Babiš",
+      "values": [
+        "českého",
+        "kubánského",
+        "italského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pablo Picasso",
+      "values": [
+        "kanadského",
+        "německého",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Friedrich Nietzsche",
+      "values": [
+        "amerického",
+        "německého",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lavrentij Pavlovič Berija",
+      "values": [
+        "islandského",
+        "chorvatského",
+        "gruzínského",
+        "skotského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jurij Andropov",
+      "values": [
+        "slovinského",
+        "srbského",
+        "běloruského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Björn Ulvaeus",
+      "values": [
+        "skotského",
+        "britského",
+        "švédského",
+        "běloruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Denis Diderot",
+      "values": [
+        "islandského",
+        "francouzského",
+        "albánského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Emma Thompsonová",
+      "values": [
+        "židovského",
+        "kanadského",
+        "britského",
+        "skotského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Björk",
+      "values": [
+        "francouzského",
+        "islandského",
+        "rumunského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Uhl",
+      "values": [
+        "italského",
+        "českého",
+        "irského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

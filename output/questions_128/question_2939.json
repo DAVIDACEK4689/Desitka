@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] ekonoma?",
+  "questions": [
+    {
+      "key": "Ilona Švihlíková",
+      "values": [
+        "indického",
+        "kolumbijského",
+        "českého",
+        "chilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mojmír Hampl",
+      "values": [
+        "litevského",
+        "portugalského",
+        "švýcarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Milton Friedman",
+      "values": [
+        "amerického",
+        "indického",
+        "norského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Goláň",
+      "values": [
+        "argentinského",
+        "bulharského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karina Kubelková",
+      "values": [
+        "českého",
+        "kolumbijského",
+        "bangladéšského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Philip Kotler",
+      "values": [
+        "polského",
+        "švédského",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lutz Schwerin von Krosigk",
+      "values": [
+        "peruánského",
+        "německého",
+        "skotského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dan Ariely",
+      "values": [
+        "bangladéšského",
+        "amerického",
+        "polského",
+        "litevského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Harry Markowitz",
+      "values": [
+        "brazilského",
+        "amerického",
+        "skotského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michal Mejstřík",
+      "values": [
+        "skotského",
+        "argentinského",
+        "chilského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

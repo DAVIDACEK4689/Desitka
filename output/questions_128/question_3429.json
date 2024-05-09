@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Richard Müller",
+      "values": [
+        "slovenského",
+        "australského",
+        "jihokorejského",
+        "gruzínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zdeněk Rytíř",
+      "values": [
+        "kolumbijského",
+        "jihokorejského",
+        "českého",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dieter Bohlen",
+      "values": [
+        "německého",
+        "českého",
+        "skotského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Billie Joe Armstrong",
+      "values": [
+        "portorického",
+        "kanadského",
+        "argentinského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jonathan Davis",
+      "values": [
+        "uruguayského",
+        "ruského",
+        "španělského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Kaplan",
+      "values": [
+        "australského",
+        "skotského",
+        "nizozemského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Phil Lynott",
+      "values": [
+        "irského",
+        "švédského",
+        "maďarského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Wattie Buchan",
+      "values": [
+        "slovenského",
+        "skotského",
+        "maďarského",
+        "moldavského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Griglák",
+      "values": [
+        "slovenského",
+        "britského",
+        "českého",
+        "chorvatského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bobby Darin",
+      "values": [
+        "německého",
+        "amerického",
+        "britského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

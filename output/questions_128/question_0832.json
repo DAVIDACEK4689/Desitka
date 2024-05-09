@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Kaliningrad",
+      "values": [
+        "Surinam",
+        "Rusko",
+        "Namibie",
+        "Tanzanie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tallinn",
+      "values": [
+        "Jordánsko",
+        "Německo",
+        "Sierra Leone",
+        "Estonsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Varna",
+      "values": [
+        "Bulharsko",
+        "Tanzanie",
+        "Barbados",
+        "Namibie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alcudia",
+      "values": [
+        "Španělsko",
+        "Izrael",
+        "Barbados",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sanremo",
+      "values": [
+        "Jihoafrická republika",
+        "Dánsko",
+        "Černá Hora",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stralsund",
+      "values": [
+        "Namibie",
+        "Německo",
+        "Libye",
+        "Dánsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sozopol",
+      "values": [
+        "Litva",
+        "Bulharsko",
+        "Francie",
+        "Belgie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Olbia",
+      "values": [
+        "Švýcarsko",
+        "Itálie",
+        "Kolumbie",
+        "Slovinsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kotka",
+      "values": [
+        "Francie",
+        "Tunisko",
+        "Finsko",
+        "Švédsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Annaba",
+      "values": [
+        "Albánie",
+        "Nigérie",
+        "Francie",
+        "Alžírsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

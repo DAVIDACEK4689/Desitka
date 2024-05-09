@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kytaristu?",
+  "questions": [
+    {
+      "key": "Ota Petřina",
+      "values": [
+        "italského",
+        "izraelského",
+        "českého",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Shane MacGowan",
+      "values": [
+        "nizozemského",
+        "britského",
+        "irského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Macháček",
+      "values": [
+        "jamajského",
+        "norského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tom DeLonge",
+      "values": [
+        "argentinského",
+        "francouzského",
+        "norského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Holoubek",
+      "values": [
+        "kanadského",
+        "izraelského",
+        "českého",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Karafiát",
+      "values": [
+        "českého",
+        "nizozemského",
+        "italského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karl Logan",
+      "values": [
+        "švédského",
+        "kanadského",
+        "amerického",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jerry Cantrell",
+      "values": [
+        "finského",
+        "amerického",
+        "jihoafrického",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rob Caggiano",
+      "values": [
+        "amerického",
+        "britského",
+        "kanadského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bobby Beausoleil",
+      "values": [
+        "amerického",
+        "francouzského",
+        "jihoafrického",
+        "finského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

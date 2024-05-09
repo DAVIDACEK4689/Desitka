@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/title_picture"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:contentDescription="@string/title_picture"
+        android:src="@drawable/title_picture"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toTopOf="@+id/guideline_horizontal_bottom"
+        app:layout_constraintDimensionRatio="1:1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        app:backgroundTint="@color/button_background"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:id="@+id/single_player"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/single_player"
+        app:layout_constraintTop_toBottomOf="@+id/guideline_horizontal_bottom"
+        app:layout_constraintStart_toStartOf="@id/title_picture"
+        app:layout_constraintEnd_toEndOf="@id/title_picture"
+        app:layout_constraintBottom_toTopOf="@+id/multi_player"
+        app:layout_constraintVertical_chainStyle="packed" />
+
+    <Button
+        app:backgroundTint="@color/button_background"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:id="@+id/multi_player"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/play_with_friends"
+        android:layout_marginTop="10dp"
+        app:layout_constraintTop_toBottomOf="@+id/single_player"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="@id/title_picture"
+        app:layout_constraintEnd_toEndOf="@id/title_picture" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline_horizontal_bottom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.6" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

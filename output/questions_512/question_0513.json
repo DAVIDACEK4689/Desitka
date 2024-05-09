@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Praha",
+      "values": [
+        "Ohře",
+        "Tis",
+        "Vltava",
+        "Cidlina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kolín",
+      "values": [
+        "Volha",
+        "Sázava",
+        "Labe",
+        "Berounka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Strakonice",
+      "values": [
+        "Dněpr",
+        "Otava",
+        "Volha",
+        "Metuje"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Neratovice",
+      "values": [
+        "Metuje",
+        "Tis",
+        "Labe",
+        "Don"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Přibyslav",
+      "values": [
+        "Otava",
+        "Sázava",
+        "Mandava",
+        "Úhlava"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Štětí",
+      "values": [
+        "Don",
+        "Radbuza",
+        "Vltava",
+        "Labe"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Železný Brod",
+      "values": [
+        "Dyje",
+        "Jizera",
+        "Něva",
+        "Volha"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bohnice",
+      "values": [
+        "Dunaj",
+        "Ploučnice",
+        "Ohře",
+        "Vltava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dobřany",
+      "values": [
+        "Radbuza",
+        "Don",
+        "Tis",
+        "Cidlina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Leverkusen",
+      "values": [
+        "Radbuza",
+        "Rýn",
+        "Ohře",
+        "Loira"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

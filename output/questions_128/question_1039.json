@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vynálezce?",
+  "questions": [
+    {
+      "key": "Leonardo da Vinci",
+      "values": [
+        "maďarského",
+        "italského",
+        "rakouského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adolph Frank",
+      "values": [
+        "ruského",
+        "kanadského",
+        "rakouského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Julius Maggi",
+      "values": [
+        "švýcarského",
+        "kanadského",
+        "irského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Denis Papin",
+      "values": [
+        "francouzského",
+        "belgického",
+        "sovětského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Auguste Piccard",
+      "values": [
+        "rakouského",
+        "kanadského",
+        "belgického",
+        "švýcarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Wellner",
+      "values": [
+        "českého",
+        "belgického",
+        "italského",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Viktor Schauberger",
+      "values": [
+        "švýcarského",
+        "rakouského",
+        "německého",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stěpan Makarov",
+      "values": [
+        "britského",
+        "slovenského",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Isaac Merritt Singer",
+      "values": [
+        "slovenského",
+        "polského",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alfred Krupp",
+      "values": [
+        "italského",
+        "německého",
+        "sovětského",
+        "polského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

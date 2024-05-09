@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle premiéra",
+  "questions": [
+    {
+      "key": "Rishi Sunak",
+      "values": [
+        "Singapur",
+        "Egypt",
+        "Spojené království",
+        "Slovinsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Józef Piłsudski",
+      "values": [
+        "Egypt",
+        "Japonsko",
+        "Malajsie",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alexandr Fjodorovič Kerenskij",
+      "values": [
+        "Maďarsko",
+        "Česko",
+        "Moldavsko",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Leo Varadkar",
+      "values": [
+        "Slovinsko",
+        "Ukrajina",
+        "Irsko",
+        "Srbsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bolesław Bierut",
+      "values": [
+        "Singapur",
+        "Nizozemsko",
+        "Polsko",
+        "Egypt"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alcide De Gasperi",
+      "values": [
+        "Kamerun",
+        "Arménie",
+        "Spojené království",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sergej Witte",
+      "values": [
+        "Spojené království",
+        "Rusko",
+        "Malta",
+        "Malajsie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "William Pitt mladší",
+      "values": [
+        "Švédsko",
+        "Lucembursko",
+        "Japonsko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Francesco Cossiga",
+      "values": [
+        "Finsko",
+        "Malajsie",
+        "Ukrajina",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Paolo Gentiloni",
+      "values": [
+        "Estonsko",
+        "Etiopie",
+        "Bangladéš",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

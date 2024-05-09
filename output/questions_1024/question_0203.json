@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Tatarský biftek",
+      "values": [
+        "českou",
+        "korejskou",
+        "indickou",
+        "rakouskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Segedínský guláš",
+      "values": [
+        "švýcarskou",
+        "maďarskou",
+        "středomořskou",
+        "indickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Spaghetti aglio e olio",
+      "values": [
+        "španělskou",
+        "maďarskou",
+        "italskou",
+        "anglickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Suši",
+      "values": [
+        "japonskou",
+        "brazilskou",
+        "slovenskou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tequila",
+      "values": [
+        "mexickou",
+        "rakouskou",
+        "korejskou",
+        "španělskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Šopský salát",
+      "values": [
+        "indickou",
+        "balkánskou",
+        "židovskou",
+        "islandskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hamburger",
+      "values": [
+        "indickou",
+        "ruskou",
+        "americkou",
+        "španělskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sodžu",
+      "values": [
+        "vietnamskou",
+        "korejskou",
+        "slovenskou",
+        "mexickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Uherský salám",
+      "values": [
+        "řeckou",
+        "židovskou",
+        "maďarskou",
+        "japonskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marlenka",
+      "values": [
+        "italskou",
+        "islandskou",
+        "arménskou",
+        "řeckou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

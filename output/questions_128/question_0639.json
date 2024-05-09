@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Agáta Hanychová",
+      "values": [
+        "norskou",
+        "českou",
+        "švédskou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jorga Kotrbová",
+      "values": [
+        "tureckou",
+        "českou",
+        "ruskou",
+        "řeckou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jennifer Garnerová",
+      "values": [
+        "mexickou",
+        "americkou",
+        "italskou",
+        "argentinskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lenka Kořínková",
+      "values": [
+        "maďarskou",
+        "českou",
+        "bermudskou",
+        "tureckou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sarah Hyland",
+      "values": [
+        "indickou",
+        "novozélandskou",
+        "irskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Otýlie Beníšková",
+      "values": [
+        "belgickou",
+        "bulharskou",
+        "českou",
+        "tureckou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Magda Křížková",
+      "values": [
+        "španělskou",
+        "českou",
+        "ruskou",
+        "srbskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Reba McEntire",
+      "values": [
+        "americkou",
+        "nizozemskou",
+        "tureckou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Barbara De Rossi",
+      "values": [
+        "jihokorejskou",
+        "italskou",
+        "švýcarskou",
+        "uruguayskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Anna Karina",
+      "values": [
+        "britskou",
+        "dánskou",
+        "francouzskou",
+        "švédskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

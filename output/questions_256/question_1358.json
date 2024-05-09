@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] román?",
+  "questions": [
+    {
+      "key": "Tři mušketýři",
+      "values": [
+        "ruský",
+        "francouzský",
+        "španělský",
+        "italský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Frankenstein",
+      "values": [
+        "anglický",
+        "ruský",
+        "britský",
+        "německý"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Malé ženy",
+      "values": [
+        "italský",
+        "anglický",
+        "slovenský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dobrodružství Toma Sawyera",
+      "values": [
+        "německý",
+        "polský",
+        "americký",
+        "český"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nebezpečné známosti",
+      "values": [
+        "americký",
+        "francouzský",
+        "německý",
+        "slovenský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Death Note",
+      "values": [
+        "britský",
+        "polský",
+        "japonský",
+        "irský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kniha smíchu a zapomnění",
+      "values": [
+        "irský",
+        "český",
+        "čínský",
+        "britský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Spolčení hlupců",
+      "values": [
+        "slovenský",
+        "australský",
+        "francouzský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zapadlí vlastenci",
+      "values": [
+        "čínský",
+        "ruský",
+        "rakouský",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ztracené iluze",
+      "values": [
+        "japonský",
+        "francouzský",
+        "britský",
+        "americký"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle archeologické lokality",
+  "questions": [
+    {
+      "key": "Sevilla",
+      "values": [
+        "Francie",
+        "Izrael",
+        "Turecko",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Uruk",
+      "values": [
+        "Česko",
+        "Jihoafrická republika",
+        "Irák",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Súľovské skály",
+      "values": [
+        "Slovensko",
+        "Malta",
+        "Egypt",
+        "Litva"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Súsa",
+      "values": [
+        "Rakousko",
+        "Tunisko",
+        "Izrael",
+        "Pero"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "El Amarna",
+      "values": [
+        "Gruzie",
+        "Jihoafrická republika",
+        "Egypt",
+        "Sýrie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Herodium",
+      "values": [
+        "Izrael",
+        "Maďarsko",
+        "Tunisko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Katedrála svatého Domnia",
+      "values": [
+        "Chorvatsko",
+        "Ukrajina",
+        "Egypt",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Plataje",
+      "values": [
+        "Gruzie",
+        "Francie",
+        "Federativní státy Mikronésie",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ercolano",
+      "values": [
+        "Itálie",
+        "Rusko",
+        "Albánie",
+        "Izrael"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chan Chan",
+      "values": [
+        "Rakousko",
+        "Pero",
+        "Srí Lanka",
+        "Česko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

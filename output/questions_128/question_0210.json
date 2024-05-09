@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] kinematografii?",
+  "questions": [
+    {
+      "key": "2 Girls 1 Cup",
+      "values": [
+        "americkou",
+        "brazilskou",
+        "francouzskou",
+        "nigerijskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Monty Python",
+      "values": [
+        "nigerijskou",
+        "dánskou",
+        "britskou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bollywood",
+      "values": [
+        "indickou",
+        "dánskou",
+        "ruskou",
+        "brazilskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bontonfilm",
+      "values": [
+        "českou",
+        "japonskou",
+        "československou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Akademie filmového umění a věd",
+      "values": [
+        "americkou",
+        "českou",
+        "brazilskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Národní filmový archiv",
+      "values": [
+        "indickou",
+        "dánskou",
+        "českou",
+        "ruskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čeburaška",
+      "values": [
+        "československou",
+        "dánskou",
+        "francouzskou",
+        "ruskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Státní fond kinematografie",
+      "values": [
+        "japonskou",
+        "dánskou",
+        "brazilskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nollywood",
+      "values": [
+        "brazilskou",
+        "německou",
+        "českou",
+        "nigerijskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zlatá šedesátá",
+      "values": [
+        "českou",
+        "dánskou",
+        "americkou",
+        "československou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

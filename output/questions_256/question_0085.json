@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle teroristického útoku",
+  "questions": [
+    {
+      "key": "Mnichovský masakr",
+      "values": [
+        "1972",
+        "2013",
+        "1946",
+        "1988"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bombový útok na Bostonský maraton",
+      "values": [
+        "2023",
+        "1972",
+        "2013",
+        "2014"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Teroristický útok na beslanskou školu",
+      "values": [
+        "1972",
+        "2015",
+        "2020",
+        "2004"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Let Pan Am 103",
+      "values": [
+        "1988",
+        "2002",
+        "2015",
+        "1997"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Útok na redakci časopisu Charlie Hebdo",
+      "values": [
+        "2013",
+        "2002",
+        "1999",
+        "2015"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Masakr v Kfar Aza",
+      "values": [
+        "2015",
+        "2023",
+        "2014",
+        "1999"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sebevražedný bombový útok v Manchester Areně",
+      "values": [
+        "1999",
+        "1997",
+        "2020",
+        "2017"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Útok sarinem v tokijském metru",
+      "values": [
+        "2019",
+        "1995",
+        "1946",
+        "1997"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bombový útok na olympijský park v Atlantě",
+      "values": [
+        "1997",
+        "1996",
+        "2022",
+        "1995"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vražda Samuela Patyho",
+      "values": [
+        "2013",
+        "1972",
+        "1999",
+        "2020"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Košice",
+      "values": [
+        "Váha",
+        "Svratka",
+        "Dněpr",
+        "Hornád"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Týn nad Vltavou",
+      "values": [
+        "Svratka",
+        "Sebnice",
+        "Dunaj",
+        "Lužnice"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tovačov",
+      "values": [
+        "Bečva",
+        "Ohře",
+        "Eufrat",
+        "Svratka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tver",
+      "values": [
+        "Inn",
+        "Cidlina",
+        "Mandava",
+        "Volha"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rosenheim",
+      "values": [
+        "Emže",
+        "Inn",
+        "Těrek",
+        "Svratka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Majdalena",
+      "values": [
+        "Sázava",
+        "Rýn",
+        "Lužnice",
+        "Úslava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Šlakhamry",
+      "values": [
+        "Loira",
+        "Úslava",
+        "Hornád",
+        "Sázava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rusovce",
+      "values": [
+        "Dněpr",
+        "Dunaj",
+        "Sebnice",
+        "Temže"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ujčov",
+      "values": [
+        "Dunaj",
+        "Svratka",
+        "Sázava",
+        "Ploučnice"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sučany",
+      "values": [
+        "Váha",
+        "Úslava",
+        "Lužická Nisa",
+        "Bečva"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

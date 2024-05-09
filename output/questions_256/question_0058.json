@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle prezidenta",
+  "questions": [
+    {
+      "key": "Antonín Zápotocký",
+      "values": [
+        "Gabon",
+        "Turkmenistán",
+        "Československo",
+        "Nikaragua"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karl Dönitz",
+      "values": [
+        "Niger",
+        "Venezuela",
+        "Německo",
+        "Gabon"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nicolas Sarkozy",
+      "values": [
+        "Burkina Faso",
+        "Gabon",
+        "Izrael",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zoran Milanović",
+      "values": [
+        "Libérie",
+        "Kolumbie",
+        "Chorvatsko",
+        "Kosovo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ngô Ðình Diệm",
+      "values": [
+        "Vietnam",
+        "Afghánistán",
+        "Itálie",
+        "Izrael"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ezer Weizman",
+      "values": [
+        "Indie",
+        "Argentina",
+        "Kosovo",
+        "Izrael"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gurbanguly Berdimuhamedow",
+      "values": [
+        "Mosambik",
+        "Kolumbie",
+        "Německo",
+        "Turkmenistán"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Urho Kaleva Kekkonen",
+      "values": [
+        "Indie",
+        "Arménie",
+        "Finsko",
+        "Island"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Joko Widodo",
+      "values": [
+        "Bělorusko",
+        "Rakousko",
+        "Indonésie",
+        "Brazílie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dina Boluarteová",
+      "values": [
+        "Litva",
+        "Slovinsko",
+        "Pero",
+        "Niger"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

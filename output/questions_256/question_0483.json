@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Petr Janda",
+      "values": [
+        "rumunského",
+        "německého",
+        "českého",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fryderyk Chopin",
+      "values": [
+        "amerického",
+        "australského",
+        "italského",
+        "polského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miro Šmajda",
+      "values": [
+        "rakouského",
+        "německého",
+        "švýcarského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Claude Debussy",
+      "values": [
+        "francouzského",
+        "estonského",
+        "švýcarského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Maurice Ravel",
+      "values": [
+        "švýcarského",
+        "argentinského",
+        "norského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hector Berlioz",
+      "values": [
+        "francouzského",
+        "australského",
+        "švédského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jean Sibelius",
+      "values": [
+        "švédského",
+        "českého",
+        "italského",
+        "finského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tove Lo",
+      "values": [
+        "polského",
+        "francouzského",
+        "švédského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaroslav Beck",
+      "values": [
+        "polského",
+        "arménského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Umberto Tozzi",
+      "values": [
+        "australského",
+        "kanadského",
+        "estonského",
+        "italského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

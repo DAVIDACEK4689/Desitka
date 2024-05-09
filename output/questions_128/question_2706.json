@@ -1,0 +1,105 @@
+{
+  "text": "Určete město podle kultury",
+  "questions": [
+    {
+      "key": "Atomium",
+      "values": [
+        "Ósaka",
+        "Helsinky",
+        "Brusel",
+        "Tokio"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Světová výstava 1958",
+      "values": [
+        "Stockholm",
+        "Bělehrad",
+        "Kodaň",
+        "Brusel"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Royal Albert Hall",
+      "values": [
+        "Londýn",
+        "Bělehrad",
+        "Amsterdam",
+        "Tel Aviv"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zábavní park Tivoli",
+      "values": [
+        "Londýn",
+        "Ósaka",
+        "Kodaň",
+        "Budapešť"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Památník objevitelů",
+      "values": [
+        "Lisabon",
+        "Stockholm",
+        "Frýdlant nad Ostravicí",
+        "Baku"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eurovision Song Contest 2007",
+      "values": [
+        "Ósaka",
+        "Helsinky",
+        "Frýdlant nad Ostravicí",
+        "Amsterdam"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Financial Times",
+      "values": [
+        "Londýn",
+        "Stockholm",
+        "Ósaka",
+        "Lisabon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "The Sunday Times",
+      "values": [
+        "Jeruzalém",
+        "Londýn",
+        "Budapešť",
+        "Lisabon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eurovision Song Contest 2008",
+      "values": [
+        "Rijád",
+        "Zadar",
+        "Bělehrad",
+        "Paříž"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Expo 2010",
+      "values": [
+        "Tel Aviv",
+        "Peking",
+        "Šanghaj",
+        "Helsinky"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

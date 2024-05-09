@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vegetariána?",
+  "questions": [
+    {
+      "key": "Tomáš Klus",
+      "values": [
+        "izraelského",
+        "českého",
+        "britského",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Richard Wagner",
+      "values": [
+        "indického",
+        "italského",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Antoni Gaudí",
+      "values": [
+        "španělského",
+        "italského",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Höger",
+      "values": [
+        "kanadského",
+        "rakouského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Penélope Cruzová",
+      "values": [
+        "španělského",
+        "izraelského",
+        "slovenského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rainer Maria Rilke",
+      "values": [
+        "irského",
+        "rakouského",
+        "francouzského",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Albert Schweitzer",
+      "values": [
+        "německého",
+        "kanadského",
+        "italského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nastassja Kinski",
+      "values": [
+        "indického",
+        "německého",
+        "ruského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Přemysl Pitter",
+      "values": [
+        "českého",
+        "kanadského",
+        "německého",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sharon den Adel",
+      "values": [
+        "nizozemského",
+        "rakouského",
+        "kanadského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

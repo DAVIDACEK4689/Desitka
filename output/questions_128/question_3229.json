@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Milan Chladil",
+      "values": [
+        "francouzského",
+        "belgického",
+        "jihokorejského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Chodúr",
+      "values": [
+        "novozélandského",
+        "jihokorejského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ian Gillan",
+      "values": [
+        "japonského",
+        "alžírského",
+        "britského",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavol Hammel",
+      "values": [
+        "alžírského",
+        "slovenského",
+        "švédského",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Robo Grigorov",
+      "values": [
+        "slovenského",
+        "švýcarského",
+        "sovětského",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Peter Alexander",
+      "values": [
+        "polského",
+        "jihoafrického",
+        "rakouského",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Wilbur Soot",
+      "values": [
+        "skotského",
+        "britského",
+        "srbského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Glenn Danzig",
+      "values": [
+        "jihoafrického",
+        "portorického",
+        "amerického",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Samuel Rychtář",
+      "values": [
+        "českého",
+        "moldavského",
+        "rakouského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hank Snow",
+      "values": [
+        "švýcarského",
+        "finského",
+        "chorvatského",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

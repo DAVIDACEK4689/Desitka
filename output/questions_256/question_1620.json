@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte kontinent podle fauny",
+  "questions": [
+    {
+      "key": "Kuna lesní",
+      "values": [
+        "Asie",
+        "Afrika",
+        "Jižní Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Krokodýl mořský",
+      "values": [
+        "Antarktida",
+        "Jižní Amerika",
+        "Afrika",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vandélie obecná",
+      "values": [
+        "Jižní Amerika",
+        "Antarktida",
+        "Afrika",
+        "Asie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pes hyenový",
+      "values": [
+        "Severní Amerika",
+        "Afrika",
+        "Evropa",
+        "Střední Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Medvěd ušatý",
+      "values": [
+        "Jižní Amerika",
+        "Střední Amerika",
+        "Afrika",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Delta Dunaje",
+      "values": [
+        "Evropa",
+        "Asie",
+        "Severní Amerika",
+        "Antarktida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Orangutan sumaterský",
+      "values": [
+        "Střední Amerika",
+        "Severní Amerika",
+        "Asie",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vydra obrovská",
+      "values": [
+        "Afrika",
+        "Asie",
+        "Severní Amerika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Medvěd pizzly",
+      "values": [
+        "Antarktida",
+        "Asie",
+        "Jižní Amerika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tygr balijský",
+      "values": [
+        "Střední Amerika",
+        "Antarktida",
+        "Afrika",
+        "Asie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte stranu podle mezinárodní smlouvy",
+  "questions": [
+    {
+      "key": "Druhá minská dohoda",
+      "values": [
+        "České království",
+        "Ukrajina",
+        "Evropská unie",
+        "Francie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "První minská dohoda",
+      "values": [
+        "České království",
+        "Ukrajina",
+        "Francie",
+        "Evropská unie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dohody z Osla",
+      "values": [
+        "Rusko",
+        "Izrael",
+        "České království",
+        "Ukrajina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Koupě Aljašky",
+      "values": [
+        "Rusko",
+        "Evropská unie",
+        "Izrael",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Schengenská smlouva",
+      "values": [
+        "Evropská unie",
+        "Rusko",
+        "České království",
+        "Sovětský svaz"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Postupimská dohoda",
+      "values": [
+        "Izrael",
+        "Rusko",
+        "Sovětský svaz",
+        "Ukrajina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "SALT",
+      "values": [
+        "Evropská unie",
+        "Sovětský svaz",
+        "Rusko",
+        "České království"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Římské smlouvy",
+      "values": [
+        "Evropská unie",
+        "České království",
+        "Ukrajina",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Koupě Louisiany",
+      "values": [
+        "Evropská unie",
+        "Rusko",
+        "Sovětský svaz",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nová dohoda START",
+      "values": [
+        "Izrael",
+        "Rusko",
+        "Francie",
+        "Sovětský svaz"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

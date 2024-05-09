@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Klára Issová",
+      "values": [
+        "ruskou",
+        "německou",
+        "rakouskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Uršula Kluková",
+      "values": [
+        "českou",
+        "brazilskou",
+        "jihoafrickou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karolina Neuvirthová",
+      "values": [
+        "českou",
+        "mexickou",
+        "italskou",
+        "čínskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavlína Kafková",
+      "values": [
+        "bermudskou",
+        "kubánskou",
+        "dánskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Magdaléna Borová",
+      "values": [
+        "českou",
+        "rakouskou",
+        "chorvatskou",
+        "kanadskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Valeria Golinová",
+      "values": [
+        "italskou",
+        "mexickou",
+        "rakouskou",
+        "bulharskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ella Nollová",
+      "values": [
+        "českou",
+        "kanadskou",
+        "čínskou",
+        "americkou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mary Pickfordová",
+      "values": [
+        "izraelskou",
+        "českou",
+        "norskou",
+        "kanadskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kelly Lynch",
+      "values": [
+        "irskou",
+        "americkou",
+        "íránskou",
+        "bermudskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sylvia Hoeksová",
+      "values": [
+        "brazilskou",
+        "jihoafrickou",
+        "tureckou",
+        "nizozemskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

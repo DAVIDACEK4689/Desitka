@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] videohru?",
+  "questions": [
+    {
+      "key": "Divoké kmeny",
+      "values": [
+        "dánskou",
+        "čínskou",
+        "srbskou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Battlefield",
+      "values": [
+        "nizozemskou",
+        "švédskou",
+        "polskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Wolfenstein 3D",
+      "values": [
+        "islandskou",
+        "běloruskou",
+        "čínskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Overwatch",
+      "values": [
+        "francouzskou",
+        "americkou",
+        "japonskou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Forza Horizon 5",
+      "values": [
+        "francouzskou",
+        "britskou",
+        "dánskou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "OMSI 2",
+      "values": [
+        "jihokorejskou",
+        "německou",
+        "běloruskou",
+        "švédskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Far Cry Primal",
+      "values": [
+        "srbskou",
+        "kanadskou",
+        "dánskou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hay Day",
+      "values": [
+        "švédskou",
+        "britskou",
+        "rakouskou",
+        "finskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Civilization V",
+      "values": [
+        "švédskou",
+        "rakouskou",
+        "ruskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Among Us VR",
+      "values": [
+        "polskou",
+        "americkou",
+        "ruskou",
+        "srbskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

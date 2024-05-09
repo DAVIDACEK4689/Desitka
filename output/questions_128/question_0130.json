@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [typ] organizaci?",
+  "questions": [
+    {
+      "key": "Cosa nostra",
+      "values": [
+        "vzdělávací",
+        "zločineckou",
+        "vědeckou",
+        "šlechtickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Světová obchodní organizace",
+      "values": [
+        "politickou",
+        "mezinárodní",
+        "hospodářskou",
+        "vzdělávací"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Euskadi Ta Askatasuna",
+      "values": [
+        "humanitární",
+        "partyzánskou",
+        "vzdělávací",
+        "šlechtickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gang",
+      "values": [
+        "humanitární",
+        "zdravotnickou",
+        "zaniklou",
+        "zločineckou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vojenský pakt",
+      "values": [
+        "vědeckou",
+        "zločineckou",
+        "leteckou",
+        "mezinárodní"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rudé brigády",
+      "values": [
+        "partyzánskou",
+        "zdravotnickou",
+        "fiktivní",
+        "hospodářskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "UNIMA",
+      "values": [
+        "náboženskou",
+        "zločineckou",
+        "mezinárodní",
+        "hospodářskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Just Stop Oil",
+      "values": [
+        "ekologickou",
+        "zdravotnickou",
+        "mezinárodní",
+        "fotografickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "European Computer Driving Licence",
+      "values": [
+        "vzdělávací",
+        "hospodářskou",
+        "humanitární",
+        "mezinárodní"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hvězdná flotila",
+      "values": [
+        "jazykovou",
+        "politickou",
+        "partyzánskou",
+        "fiktivní"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

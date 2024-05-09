@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Petr Hapka",
+      "values": [
+        "argentinského",
+        "skotského",
+        "sovětského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jean Gabin",
+      "values": [
+        "francouzského",
+        "gruzínského",
+        "sovětského",
+        "alžírského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "PSY",
+      "values": [
+        "jihokorejského",
+        "izraelského",
+        "kanadského",
+        "jamajského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gary Moore",
+      "values": [
+        "italského",
+        "irského",
+        "australského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavel Černocký",
+      "values": [
+        "argentinského",
+        "polského",
+        "novozélandského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Waylon Jennings",
+      "values": [
+        "brazilského",
+        "jihoafrického",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andy Biersack",
+      "values": [
+        "španělského",
+        "nizozemského",
+        "švédského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Daniel Fikejz",
+      "values": [
+        "gruzínského",
+        "ruského",
+        "kolumbijského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Červinka",
+      "values": [
+        "kolumbijského",
+        "dánského",
+        "českého",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Babyface",
+      "values": [
+        "srbského",
+        "norského",
+        "švédského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte město podle muzea",
+  "questions": [
+    {
+      "key": "Leninovo mauzoleum",
+      "values": [
+        "Paříž",
+        "Moskva",
+        "Budapešť",
+        "Vídeň"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Guggenheimovo muzeum",
+      "values": [
+        "Stockholm",
+        "Berlín",
+        "Jeruzalém",
+        "New York"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Belvedere",
+      "values": [
+        "Vídeň",
+        "Jeruzalém",
+        "Budapešť",
+        "Řím"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "East Side Gallery",
+      "values": [
+        "Mnichov",
+        "Berlín",
+        "Florencie",
+        "Řím"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kapitolská muzea",
+      "values": [
+        "Budapešť",
+        "Bratislava",
+        "Berlín",
+        "Řím"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Galerie Borghese",
+      "values": [
+        "Barcelona",
+        "Řím",
+        "Bratislava",
+        "Ciudad de México"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Staré muzeum",
+      "values": [
+        "Florencie",
+        "Berlín",
+        "Vídeň",
+        "Barcelona"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stará národní galerie",
+      "values": [
+        "Berlín",
+        "Moskva",
+        "Řím",
+        "New York"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cinémathèque française",
+      "values": [
+        "Řím",
+        "Budapešť",
+        "Paříž",
+        "Milán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ambrosiánská knihovna",
+      "values": [
+        "Stockholm",
+        "Florencie",
+        "Berlín",
+        "Milán"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

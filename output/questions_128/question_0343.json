@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte město podle sportovní události",
+  "questions": [
+    {
+      "key": "Mistrovství světa v ledním hokeji 1996",
+      "values": [
+        "Minsk",
+        "Montréal",
+        "Sydney",
+        "Brusel"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství Evropy ve fotbale 2000",
+      "values": [
+        "Montréal",
+        "Sydney",
+        "Baku",
+        "Brusel"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Letní olympijské hry 2000",
+      "values": [
+        "Sydney",
+        "Tel Aviv",
+        "Záhřeb",
+        "Londýn"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mistrovství světa v ledním hokeji 1989",
+      "values": [
+        "Buenos Aires",
+        "Peking",
+        "Sydney",
+        "Montréal"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství světa juniorů v ledním hokeji 2019",
+      "values": [
+        "Záhřeb",
+        "Barcelona",
+        "Londýn",
+        "Vancouver"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mistrovství světa juniorů v ledním hokeji 2015",
+      "values": [
+        "Záhřeb",
+        "Barcelona",
+        "Sydney",
+        "Montréal"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kanadský pohár 1991",
+      "values": [
+        "Peking",
+        "Montréal",
+        "Brusel",
+        "Sydney"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Laver Cup 2023",
+      "values": [
+        "Minsk",
+        "Buenos Aires",
+        "Vancouver",
+        "Montréal"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství světa v ragby 2003",
+      "values": [
+        "Peking",
+        "Santiago de Chile",
+        "Sydney",
+        "Londýn"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství světa v atletice 2015",
+      "values": [
+        "Brusel",
+        "Peking",
+        "Minsk",
+        "Baku"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vegetariána?",
+  "questions": [
+    {
+      "key": "Aneta Langerová",
+      "values": [
+        "indického",
+        "australského",
+        "českého",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "František Kupka",
+      "values": [
+        "českého",
+        "indického",
+        "španělského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Iva Pazderková",
+      "values": [
+        "ruského",
+        "českého",
+        "francouzského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adela Vinczeová",
+      "values": [
+        "kanadského",
+        "ruského",
+        "německého",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Přemysl Pitter",
+      "values": [
+        "českého",
+        "finského",
+        "nizozemského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Milo Ventimiglia",
+      "values": [
+        "amerického",
+        "indického",
+        "australského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Julie Christie",
+      "values": [
+        "britského",
+        "italského",
+        "slovenského",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Rausch",
+      "values": [
+        "britského",
+        "italského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Joss Stone",
+      "values": [
+        "francouzského",
+        "izraelského",
+        "britského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alphonse de Lamartine",
+      "values": [
+        "španělského",
+        "slovenského",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

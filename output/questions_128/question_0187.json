@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle barokní stavby",
+  "questions": [
+    {
+      "key": "Hofburg",
+      "values": [
+        "Španělsko",
+        "Anglie",
+        "Francie",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Katedrála svatého Pavla",
+      "values": [
+        "Anglie",
+        "Slovensko",
+        "Česko",
+        "Ukrajina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zimní palác",
+      "values": [
+        "Španělsko",
+        "Nizozemsko",
+        "Slovensko",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Blenheimský palác",
+      "values": [
+        "Ukrajina",
+        "Itálie",
+        "Anglie",
+        "Španělsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Barokní hřbitov ve Střílkách",
+      "values": [
+        "Rusko",
+        "Nizozemsko",
+        "Ukrajina",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Klášter Göttweig",
+      "values": [
+        "Slovensko",
+        "Nizozemsko",
+        "Itálie",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Papírna v Hamru na Jezeře",
+      "values": [
+        "Rakousko",
+        "Nizozemsko",
+        "Česko",
+        "Slovensko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mariazellská bazilika",
+      "values": [
+        "Rakousko",
+        "Itálie",
+        "Anglie",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mariinský palác",
+      "values": [
+        "Slovensko",
+        "Španělsko",
+        "Ukrajina",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Klášter Klosterneuburg",
+      "values": [
+        "Rakousko",
+        "Francie",
+        "Ukrajina",
+        "Španělsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

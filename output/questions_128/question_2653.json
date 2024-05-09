@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Tokio",
+      "values": [
+        "Marshallovy ostrovy",
+        "Česko",
+        "Japonsko",
+        "Libanon"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Poreč",
+      "values": [
+        "Togo",
+        "Srbsko",
+        "Abcházie",
+        "Chorvatsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bodø",
+      "values": [
+        "Norsko",
+        "Mexiko",
+        "Nikaragua",
+        "Izrael"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Keszthely",
+      "values": [
+        "Gabon",
+        "Uzbekistán",
+        "Honduras",
+        "Maďarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Homel",
+      "values": [
+        "Albánie",
+        "Bělorusko",
+        "Vietnam",
+        "Sýrie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Veľké Kapušany",
+      "values": [
+        "Uganda",
+        "Portugalsko",
+        "Slovensko",
+        "Kazachstán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cáceres",
+      "values": [
+        "Afghánistán",
+        "Španělsko",
+        "Palau",
+        "Vanuatu"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Çanakkale",
+      "values": [
+        "Turecko",
+        "Švédsko",
+        "Finsko",
+        "Myanmar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Soroca",
+      "values": [
+        "Moldavsko",
+        "Německo",
+        "Albánie",
+        "Libanon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Deventer",
+      "values": [
+        "Nizozemsko",
+        "Portugalsko",
+        "Bangladéš",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete rok podle dopravy",
+  "questions": [
+    {
+      "key": "Dálnice D0",
+      "values": [
+        "2010",
+        "1917",
+        "2008",
+        "1940"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dálnice D8",
+      "values": [
+        "2016",
+        "1956",
+        "1865",
+        "1974"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vzpoura na Bounty",
+      "values": [
+        "1789",
+        "2014",
+        "1939",
+        "1972"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Halifaxský výbuch",
+      "values": [
+        "1975",
+        "1955",
+        "1917",
+        "1850"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Metro v Římě",
+      "values": [
+        "1968",
+        "1955",
+        "1940",
+        "2022"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ústřední autobusové nádraží Zvonařka",
+      "values": [
+        "2014",
+        "1955",
+        "1985",
+        "1668"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Letenský tunel",
+      "values": [
+        "1910",
+        "1953",
+        "1975",
+        "1995"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pražská paroplavební společnost",
+      "values": [
+        "2018",
+        "1865",
+        "1974",
+        "2003"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Atentát v Boloni",
+      "values": [
+        "1980",
+        "1789",
+        "2008",
+        "1975"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Operace Bodenplatte",
+      "values": [
+        "2016",
+        "2019",
+        "2018",
+        "1945"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

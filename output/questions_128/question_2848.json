@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Klatovy",
+      "values": [
+        "Úhlava",
+        "Svratka",
+        "Sázava",
+        "Spréva"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Libeň",
+      "values": [
+        "Vltava",
+        "Seina",
+        "Úslava",
+        "Temže"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bydhošť",
+      "values": [
+        "Eufrat",
+        "Visla",
+        "Spréva",
+        "Labe"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaroslavl",
+      "values": [
+        "Svratka",
+        "Labe",
+        "Volha",
+        "Berounka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Klosterneuburg",
+      "values": [
+        "Tis",
+        "Berounka",
+        "Dunaj",
+        "Úhlava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Purkarec",
+      "values": [
+        "Lužnice",
+        "Jizera",
+        "Loira",
+        "Vltava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Amboise",
+      "values": [
+        "Loira",
+        "Spréva",
+        "Sebnice",
+        "Něva"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Malá Chuchle",
+      "values": [
+        "Lužická Nisa",
+        "Visla",
+        "Vltava",
+        "Svratka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Krnsko",
+      "values": [
+        "Bečva",
+        "Mandava",
+        "Jizera",
+        "Eufrat"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lübbenau",
+      "values": [
+        "Spréva",
+        "Vltava",
+        "Hornád",
+        "Malše"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

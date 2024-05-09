@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Eric Trump",
+      "values": [
+        "španělského",
+        "amerického",
+        "francouzského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bill Gates",
+      "values": [
+        "amerického",
+        "belgického",
+        "slovenského",
+        "indického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Andrej Danko",
+      "values": [
+        "slovenského",
+        "amerického",
+        "francouzského",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Roman Abramovič",
+      "values": [
+        "švédského",
+        "belgického",
+        "nizozemského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Adolf Dassler",
+      "values": [
+        "slovenského",
+        "švýcarského",
+        "německého",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Antonín Charouz",
+      "values": [
+        "švédského",
+        "kanadského",
+        "českého",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rustem Umerov",
+      "values": [
+        "španělského",
+        "jihoafrického",
+        "nizozemského",
+        "ukrajinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sotirios Zavalianis",
+      "values": [
+        "jihoafrického",
+        "rakouského",
+        "ukrajinského",
+        "řeckého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hugo Ferdinand Boss",
+      "values": [
+        "německého",
+        "řeckého",
+        "švýcarského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavel Bratinka",
+      "values": [
+        "rakouského",
+        "belgického",
+        "českého",
+        "brazilského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

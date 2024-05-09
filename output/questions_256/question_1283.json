@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] firmu?",
+  "questions": [
+    {
+      "key": "Jysk",
+      "values": [
+        "chorvatskou",
+        "dánskou",
+        "norskou",
+        "irskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Volvo",
+      "values": [
+        "polskou",
+        "švédskou",
+        "dánskou",
+        "rakouskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gorenje",
+      "values": [
+        "finskou",
+        "slovenskou",
+        "čínskou",
+        "slovinskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Saab",
+      "values": [
+        "izraelskou",
+        "španělskou",
+        "československou",
+        "švédskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "World Wrestling Entertainment",
+      "values": [
+        "americkou",
+        "čínskou",
+        "jihokorejskou",
+        "dánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Saudi Aramco",
+      "values": [
+        "saúdskoarabskou",
+        "nizozemskou",
+        "německou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eska Cheb",
+      "values": [
+        "norskou",
+        "československou",
+        "britskou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "GUM",
+      "values": [
+        "švýcarskou",
+        "ruskou",
+        "československou",
+        "belgickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "ING Group",
+      "values": [
+        "slovinskou",
+        "belgickou",
+        "nizozemskou",
+        "českou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eni",
+      "values": [
+        "českou",
+        "irskou",
+        "italskou",
+        "polskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

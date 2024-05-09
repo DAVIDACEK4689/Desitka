@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte jazyk podle opery",
+  "questions": [
+    {
+      "key": "Kouzelná flétna",
+      "values": [
+        "čeština",
+        "ruština",
+        "francouzština",
+        "němčina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tosca",
+      "values": [
+        "italština",
+        "maďarština",
+        "němčina",
+        "čeština"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jakobín",
+      "values": [
+        "italština",
+        "francouzština",
+        "angličtina",
+        "čeština"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Brundibár",
+      "values": [
+        "francouzština",
+        "němčina",
+        "maďarština",
+        "čeština"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Síla osudu",
+      "values": [
+        "francouzština",
+        "italština",
+        "angličtina",
+        "čeština"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Káťa Kabanová",
+      "values": [
+        "italština",
+        "angličtina",
+        "čeština",
+        "francouzština"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Modrovousův hrad",
+      "values": [
+        "italština",
+        "angličtina",
+        "maďarština",
+        "čeština"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Peter Grimes",
+      "values": [
+        "angličtina",
+        "němčina",
+        "francouzština",
+        "ruština"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dimitrij",
+      "values": [
+        "italština",
+        "čeština",
+        "francouzština",
+        "němčina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lovci perel",
+      "values": [
+        "francouzština",
+        "ruština",
+        "maďarština",
+        "němčina"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

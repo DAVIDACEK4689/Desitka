@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] novinu?",
+  "questions": [
+    {
+      "key": "Deník N",
+      "values": [
+        "španělskou",
+        "českou",
+        "německou",
+        "švédskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lidová demokracie",
+      "values": [
+        "ruskou",
+        "izraelskou",
+        "československou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "The Times",
+      "values": [
+        "britskou",
+        "českou",
+        "německou",
+        "americkou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pražské poštovské noviny",
+      "values": [
+        "britskou",
+        "francouzskou",
+        "španělskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Daily Mail",
+      "values": [
+        "britskou",
+        "švédskou",
+        "španělskou",
+        "českou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bild",
+      "values": [
+        "ruskou",
+        "německou",
+        "izraelskou",
+        "slovenskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Le Figaro",
+      "values": [
+        "francouzskou",
+        "ruskou",
+        "britskou",
+        "českou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Financial Times",
+      "values": [
+        "britskou",
+        "francouzskou",
+        "španělskou",
+        "americkou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Wiener Zeitung",
+      "values": [
+        "rakouskou",
+        "českou",
+        "americkou",
+        "polskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Los Angeles Times",
+      "values": [
+        "německou",
+        "britskou",
+        "českou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] hudební skupinu?",
+  "questions": [
+    {
+      "key": "The Kelly Family",
+      "values": [
+        "jihokorejskou",
+        "maďarskou",
+        "německou",
+        "finskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Little Big",
+      "values": [
+        "švédskou",
+        "chorvatskou",
+        "německou",
+        "ruskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kollárovci",
+      "values": [
+        "slovinskou",
+        "britskou",
+        "slovenskou",
+        "kubánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tros Discotequos",
+      "values": [
+        "švýcarskou",
+        "kubánskou",
+        "německou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "2 Unlimited",
+      "values": [
+        "australskou",
+        "slovinskou",
+        "finskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Simple Plan",
+      "values": [
+        "kanadskou",
+        "slovenskou",
+        "australskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tame Impala",
+      "values": [
+        "jihoafrickou",
+        "estonskou",
+        "australskou",
+        "dánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Patrola Šlapeto",
+      "values": [
+        "ruskou",
+        "ukrajinskou",
+        "islandskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rancid",
+      "values": [
+        "norskou",
+        "nizozemskou",
+        "americkou",
+        "australskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Velvet Revolver",
+      "values": [
+        "jihoafrickou",
+        "americkou",
+        "španělskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

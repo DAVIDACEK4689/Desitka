@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "Marian Jurečka",
+      "values": [
+        "maďarského",
+        "britského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sophia Lorenová",
+      "values": [
+        "kanadského",
+        "francouzského",
+        "britského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Edward a Lorraine Warrenovi",
+      "values": [
+        "švýcarského",
+        "francouzského",
+        "kanadského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Shia LaBeouf",
+      "values": [
+        "německého",
+        "amerického",
+        "britského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Maria Montessori",
+      "values": [
+        "německého",
+        "portugalského",
+        "italského",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alyssa Milano",
+      "values": [
+        "amerického",
+        "kanadského",
+        "portugalského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Franz Lehár",
+      "values": [
+        "českého",
+        "britského",
+        "maďarského",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gilbert Keith Chesterton",
+      "values": [
+        "maďarského",
+        "britského",
+        "německého",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dietrich Eckart",
+      "values": [
+        "portugalského",
+        "německého",
+        "britského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michelle Hunzikerová",
+      "values": [
+        "kanadského",
+        "britského",
+        "maďarského",
+        "italského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

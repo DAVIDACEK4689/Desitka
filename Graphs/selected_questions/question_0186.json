@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Karlovy Vary",
+      "values": [
+        "Rýn",
+        "Mandava",
+        "Ohře",
+        "Váha"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Drážďany",
+      "values": [
+        "Bečva",
+        "Tis",
+        "Labe",
+        "Radbuza"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Česká Lípa",
+      "values": [
+        "Lužnice",
+        "Berounka",
+        "Loira",
+        "Ploučnice"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Náchod",
+      "values": [
+        "Svratka",
+        "Spréva",
+        "Bečva",
+        "Metuje"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Varnsdorf",
+      "values": [
+        "Lužická Nisa",
+        "Mandava",
+        "Svratka",
+        "Bečva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Neratovice",
+      "values": [
+        "Něva",
+        "Ploučnice",
+        "Labe",
+        "Dunaj"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bonn",
+      "values": [
+        "Bečva",
+        "Malše",
+        "Ploučnice",
+        "Rýn"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Düsseldorf",
+      "values": [
+        "Rýn",
+        "Chrudimka",
+        "Úhlava",
+        "Cidlina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sezimovo Ústí",
+      "values": [
+        "Váha",
+        "Hornád",
+        "Volha",
+        "Lužnice"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Magdeburg",
+      "values": [
+        "Lužnice",
+        "Labe",
+        "Seina",
+        "Eufrat"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

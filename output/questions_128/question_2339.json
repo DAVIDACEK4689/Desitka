@@ -1,0 +1,105 @@
+{
+  "text": "Určete etnický původ podle Čecha",
+  "questions": [
+    {
+      "key": "Jan Amos Komenský",
+      "values": [
+        "asijský původ",
+        "maďarský původ",
+        "řecký původ",
+        "ruský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aiko",
+      "values": [
+        "arménský původ",
+        "ruský původ",
+        "francouzský původ",
+        "polský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaroslav Foldyna",
+      "values": [
+        "arménský původ",
+        "makedonský původ",
+        "slovenský původ",
+        "srbský původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hayato Okamura",
+      "values": [
+        "vietnamský původ",
+        "francouzský původ",
+        "italský původ",
+        "japonský původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Džamila Stehlíková",
+      "values": [
+        "maďarský původ",
+        "afghánský původ",
+        "asijský původ",
+        "estonský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michal Papadopulos",
+      "values": [
+        "asijský původ",
+        "řecký původ",
+        "syrský původ",
+        "britský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kostas Zerdaloglu",
+      "values": [
+        "britský původ",
+        "řecký původ",
+        "kanadský původ",
+        "maďarský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Armin Delong",
+      "values": [
+        "francouzský původ",
+        "polský původ",
+        "afghánský původ",
+        "arménský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Maciej Cymorek",
+      "values": [
+        "afghánský původ",
+        "francouzský původ",
+        "polský původ",
+        "makedonský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "István Léko",
+      "values": [
+        "běloruský původ",
+        "ruský původ",
+        "maďarský původ",
+        "srbský původ"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

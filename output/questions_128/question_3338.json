@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Bradley Cooper",
+      "values": [
+        "venezuelského",
+        "amerického",
+        "britského",
+        "tureckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rostislav Čtvrtlík",
+      "values": [
+        "českého",
+        "jamajského",
+        "belgického",
+        "jihoafrického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David Carradine",
+      "values": [
+        "amerického",
+        "kanadského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Hálek",
+      "values": [
+        "českého",
+        "malajsijského",
+        "belgického",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gilbert Bécaud",
+      "values": [
+        "francouzského",
+        "ruského",
+        "guatemalského",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Daniel Gillies",
+      "values": [
+        "polského",
+        "novozélandského",
+        "kanadského",
+        "marockého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Misha Collins",
+      "values": [
+        "venezuelského",
+        "amerického",
+        "chorvatského",
+        "gruzínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michel Modo",
+      "values": [
+        "brazilského",
+        "japonského",
+        "izraelského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sebastian Koch",
+      "values": [
+        "tureckého",
+        "indonéského",
+        "jihokorejského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Demián Bichir",
+      "values": [
+        "mexického",
+        "izraelského",
+        "japonského",
+        "australského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

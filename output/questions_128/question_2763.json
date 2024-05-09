@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kytaristu?",
+  "questions": [
+    {
+      "key": "Karel Zich",
+      "values": [
+        "kanadského",
+        "českého",
+        "finského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nick Jonas",
+      "values": [
+        "amerického",
+        "finského",
+        "nizozemského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sebastian Navrátil",
+      "values": [
+        "českého",
+        "francouzského",
+        "nizozemského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jaroslav Wykrent",
+      "values": [
+        "amerického",
+        "irského",
+        "dánského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Libor Šmoldas",
+      "values": [
+        "argentinského",
+        "německého",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tommy Bolin",
+      "values": [
+        "dánského",
+        "slovenského",
+        "brazilského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Blackie Lawless",
+      "values": [
+        "australského",
+        "amerického",
+        "dánského",
+        "argentinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joseph Aaron King",
+      "values": [
+        "dánského",
+        "nizozemského",
+        "izraelského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rickey Medlocke",
+      "values": [
+        "izraelského",
+        "amerického",
+        "slovenského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Francisco Tárrega",
+      "values": [
+        "jihoafrického",
+        "australského",
+        "italského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

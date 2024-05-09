@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Niccolò Machiavelli",
+      "values": [
+        "polského",
+        "finského",
+        "bulharského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sanna Marinová",
+      "values": [
+        "panamského",
+        "brazilského",
+        "dánského",
+        "finského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Udaj Husajn",
+      "values": [
+        "polského",
+        "iráckého",
+        "kolumbijského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lajos Kossuth",
+      "values": [
+        "mexického",
+        "eritrejského",
+        "italského",
+        "maďarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fjodor Jemeljaněnko",
+      "values": [
+        "jihoafrického",
+        "ruského",
+        "libanonského",
+        "venezuelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rinat Achmetov",
+      "values": [
+        "albánského",
+        "etiopského",
+        "ukrajinského",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ahmad Šáh Masúd",
+      "values": [
+        "peruánského",
+        "dánského",
+        "haitského",
+        "afghánského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Erich von Falkenhayn",
+      "values": [
+        "finského",
+        "ázerbájdžánského",
+        "pruského",
+        "madagaskarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lubomír Voleník",
+      "values": [
+        "německého",
+        "belgického",
+        "ukrajinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roman Blaško",
+      "values": [
+        "italského",
+        "polského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

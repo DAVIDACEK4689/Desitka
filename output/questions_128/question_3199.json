@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] právníka?",
+  "questions": [
+    {
+      "key": "Karel Jaromír Erben",
+      "values": [
+        "českého",
+        "německého",
+        "francouzského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexander Bach",
+      "values": [
+        "rumunského",
+        "srbského",
+        "rakouského",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Otakar Motejl",
+      "values": [
+        "českého",
+        "dánského",
+        "estonského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gianni Infantino",
+      "values": [
+        "brazilského",
+        "dánského",
+        "italského",
+        "švýcarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimír Kremlík",
+      "values": [
+        "českého",
+        "švýcarského",
+        "rakouského",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavel Čižinský",
+      "values": [
+        "švýcarského",
+        "českého",
+        "rumunského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lutz Schwerin von Krosigk",
+      "values": [
+        "izraelského",
+        "finského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Simone Veilová",
+      "values": [
+        "amerického",
+        "francouzského",
+        "rumunského",
+        "litevského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alois Říha",
+      "values": [
+        "českého",
+        "britského",
+        "litevského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Anton Rašla",
+      "values": [
+        "švýcarského",
+        "finského",
+        "slovenského",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

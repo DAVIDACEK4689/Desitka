@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalového trenéra?",
+  "questions": [
+    {
+      "key": "Diego Maradona",
+      "values": [
+        "argentinského",
+        "českého",
+        "francouzského",
+        "chilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Svědík",
+      "values": [
+        "německého",
+        "českého",
+        "švédského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavel Srniček",
+      "values": [
+        "dánského",
+        "francouzského",
+        "českého",
+        "velšského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivo Viktor",
+      "values": [
+        "českého",
+        "ukrajinského",
+        "maďarského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ange Postecoglou",
+      "values": [
+        "slovenského",
+        "dánského",
+        "německého",
+        "australského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Simone Inzaghi",
+      "values": [
+        "nizozemského",
+        "mexického",
+        "italského",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Martin Vaniak",
+      "values": [
+        "maďarského",
+        "německého",
+        "českého",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ľubomír Luhový",
+      "values": [
+        "německého",
+        "slovenského",
+        "českého",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Luis Suárez Miramontes",
+      "values": [
+        "australského",
+        "italského",
+        "srbského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "John William Madden",
+      "values": [
+        "velšského",
+        "irského",
+        "skotského",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

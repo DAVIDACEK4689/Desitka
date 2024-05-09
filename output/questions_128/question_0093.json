@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [typ] stavbu?",
+  "questions": [
+    {
+      "key": "Manufaktura",
+      "values": [
+        "zahradní",
+        "historickou",
+        "vojenskou",
+        "průmyslovou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pozemní komunikace",
+      "values": [
+        "průmyslovou",
+        "zahradní",
+        "udržitelnou",
+        "dopravní"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lom",
+      "values": [
+        "zemědělskou",
+        "zahradní",
+        "průmyslovou",
+        "dopravní"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oranžérie",
+      "values": [
+        "zemědělskou",
+        "zahradní",
+        "vojenskou",
+        "podzemní"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Baptisterium",
+      "values": [
+        "historickou",
+        "zahradní",
+        "zemědělskou",
+        "obytnou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zvonice",
+      "values": [
+        "průmyslovou",
+        "zahradní",
+        "historickou",
+        "dopravní"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Niveleta",
+      "values": [
+        "podzemní",
+        "obytnou",
+        "dopravní",
+        "zemědělskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pazderna",
+      "values": [
+        "historickou",
+        "dopravní",
+        "průmyslovou",
+        "zemědělskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mincovna",
+      "values": [
+        "dopravní",
+        "průmyslovou",
+        "udržitelnou",
+        "obytnou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chata",
+      "values": [
+        "vojenskou",
+        "průmyslovou",
+        "zahradní",
+        "zemědělskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

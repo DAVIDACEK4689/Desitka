@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte město podle české kultury",
+  "questions": [
+    {
+      "key": "Mňága a Žďorp",
+      "values": [
+        "Telč",
+        "Kostelec nad Černými lesy",
+        "Kolín",
+        "Valašské Meziříčí"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Archiv výtvarného umění",
+      "values": [
+        "Liberec",
+        "Kostelec nad Černými lesy",
+        "Bechyně",
+        "Písek"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Synové výčepu",
+      "values": [
+        "Litoměřice",
+        "Sobotka",
+        "Mariánská Lázeň",
+        "Pacov"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Imodium",
+      "values": [
+        "Český Brod",
+        "Broumov",
+        "Roudnice nad Labem",
+        "Chlumec nad Cidlinou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Argo",
+      "values": [
+        "Mikulov",
+        "Polička",
+        "Orel",
+        "Rumburk"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Štáflova bašta",
+      "values": [
+        "Hradec Králové",
+        "Postoloprty",
+        "Havlíčkův Brod",
+        "Příbram"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Socha Vítěze",
+      "values": [
+        "Hradec Králové",
+        "Postoloprty",
+        "Říčany",
+        "Chrastava"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Naučná stezka Turold",
+      "values": [
+        "Mikulov",
+        "Sobotka",
+        "Týn nad Vltavou",
+        "Lipnice nad Sázavou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Štola Bílá holubice",
+      "values": [
+        "Přibyslav",
+        "Abertamy",
+        "Jablonec nad Nisou",
+        "Beroun"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Naučná stezka Romana Podrázského",
+      "values": [
+        "Chotěboř",
+        "Unhošť",
+        "Lipnice nad Sázavou",
+        "Přibyslav"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

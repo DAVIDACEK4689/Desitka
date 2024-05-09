@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Roman Holý",
+      "values": [
+        "maďarského",
+        "českého",
+        "slovenského",
+        "arménského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Claudio Monteverdi",
+      "values": [
+        "brazilského",
+        "argentinského",
+        "italského",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaroslav Filip",
+      "values": [
+        "rumunského",
+        "řeckého",
+        "slovenského",
+        "arménského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Conan Gray",
+      "values": [
+        "španělského",
+        "slovenského",
+        "amerického",
+        "litevského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Giovanni Battista Pergolesi",
+      "values": [
+        "rakouského",
+        "belgického",
+        "italského",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fanny Mendelssohnová",
+      "values": [
+        "argentinského",
+        "nizozemského",
+        "německého",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Daniel Fikejz",
+      "values": [
+        "českého",
+        "švýcarského",
+        "brazilského",
+        "finského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ezdráš Egon Hýbl",
+      "values": [
+        "českého",
+        "irského",
+        "polského",
+        "arménského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Luigi Cherubini",
+      "values": [
+        "německého",
+        "finského",
+        "ukrajinského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Luigi Russolo",
+      "values": [
+        "slovinského",
+        "italského",
+        "ukrajinského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

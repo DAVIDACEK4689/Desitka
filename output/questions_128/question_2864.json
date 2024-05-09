@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Pavel Kuka",
+      "values": [
+        "albánského",
+        "českého",
+        "francouzského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Šimák",
+      "values": [
+        "českého",
+        "norského",
+        "španělského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alan Shearer",
+      "values": [
+        "ekvádorského",
+        "anglického",
+        "gambijského",
+        "marockého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zdeněk Zlámal",
+      "values": [
+        "velšského",
+        "ekvádorského",
+        "chorvatského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Henrik Larsson",
+      "values": [
+        "ukrajinského",
+        "slovenského",
+        "kostarického",
+        "švédského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ivan Provedel",
+      "values": [
+        "uruguayského",
+        "italského",
+        "kamerunského",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Owen Hargreaves",
+      "values": [
+        "nizozemského",
+        "senegalského",
+        "anglického",
+        "skotského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vjačeslav Karavajev",
+      "values": [
+        "kolumbijského",
+        "ruského",
+        "švédského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Luigi Riva",
+      "values": [
+        "albánského",
+        "rumunského",
+        "italského",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pierre Littbarski",
+      "values": [
+        "gambijského",
+        "nizozemského",
+        "německého",
+        "polského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

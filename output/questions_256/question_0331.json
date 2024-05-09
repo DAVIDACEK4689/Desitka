@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Blahovičník",
+      "values": [
+        "Mongolsko",
+        "Madagaskar",
+        "Nový Zéland",
+        "Austrálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jedle bělokorá",
+      "values": [
+        "Madagaskar",
+        "Česko",
+        "Nový Zéland",
+        "Brazílie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Violka",
+      "values": [
+        "Austrálie",
+        "Brazílie",
+        "Nový Zéland",
+        "Madagaskar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Meruzalka",
+      "values": [
+        "Česko",
+        "Mexiko",
+        "Brazílie",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Psárka luční",
+      "values": [
+        "Česko",
+        "Mongolsko",
+        "Brazílie",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chlupáček oranžový",
+      "values": [
+        "Nový Zéland",
+        "Česko",
+        "Brazílie",
+        "Mexiko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hvězdník",
+      "values": [
+        "Mongolsko",
+        "Česko",
+        "Madagaskar",
+        "Brazílie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Myrhovník",
+      "values": [
+        "Nový Zéland",
+        "Brazílie",
+        "Česko",
+        "Mexiko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ďáblík bahenní",
+      "values": [
+        "Mongolsko",
+        "Austrálie",
+        "Česko",
+        "Brazílie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dřín květnatý",
+      "values": [
+        "Brazílie",
+        "Česko",
+        "Mexiko",
+        "Madagaskar"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Yvonne Přenosilová",
+      "values": [
+        "švýcarskou",
+        "americkou",
+        "českou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petra Janů",
+      "values": [
+        "nizozemskou",
+        "polskou",
+        "portugalskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Radana Labajová",
+      "values": [
+        "chorvatskou",
+        "českou",
+        "kubánskou",
+        "novozélandskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hana Talpová",
+      "values": [
+        "portugalskou",
+        "českou",
+        "ruskou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cyndi Lauper",
+      "values": [
+        "novozélandskou",
+        "americkou",
+        "uruguayskou",
+        "moldavskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavlína Braunová",
+      "values": [
+        "mexickou",
+        "českou",
+        "kolumbijskou",
+        "izraelskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Malena Ernman",
+      "values": [
+        "novozélandskou",
+        "brazilskou",
+        "barbadoskou",
+        "švédskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladivojna La Chia",
+      "values": [
+        "českou",
+        "izraelskou",
+        "nizozemskou",
+        "finskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Julia Michaels",
+      "values": [
+        "americkou",
+        "barbadoskou",
+        "srbskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Anna Rusticano",
+      "values": [
+        "kubánskou",
+        "peruánskou",
+        "italskou",
+        "indickou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

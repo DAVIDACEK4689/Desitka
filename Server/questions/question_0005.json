@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle prezidenta",
+  "questions": [
+    {
+      "key": "Tomáš Garrigue Masaryk",
+      "values": [
+        "Ukrajina",
+        "Srbsko",
+        "Československo",
+        "Jugoslávie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zuzana Čaputová",
+      "values": [
+        "Francie",
+        "Rakousko",
+        "Finsko",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Emil Hácha",
+      "values": [
+        "Československo",
+        "Moldavsko",
+        "Slovensko",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Saddám Husajn",
+      "values": [
+        "Irák",
+        "Maďarsko",
+        "Srbsko",
+        "Československo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Charles de Gaulle",
+      "values": [
+        "Jihoafrická republika",
+        "Francie",
+        "Rusko",
+        "Čečenci"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Viktor Janukovyč",
+      "values": [
+        "Ukrajina",
+        "Česká republika",
+        "Rumunsko",
+        "Uganda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Andrzej Duda",
+      "values": [
+        "Polsko",
+        "Čečenci",
+        "Česká republika",
+        "Jugoslávie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ho Či Min",
+      "values": [
+        "Německo",
+        "Vietnam",
+        "Izrael",
+        "Portugalsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Šimon Peres",
+      "values": [
+        "Izrael",
+        "Finsko",
+        "Irák",
+        "Česká republika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rudolf Schuster",
+      "values": [
+        "Německo",
+        "Írán",
+        "Slovensko",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Ho Či Min",
+      "values": [
+        "pákistánského",
+        "vietnamského",
+        "nauruského",
+        "československého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andrej Andrejevič Gromyko",
+      "values": [
+        "kubánského",
+        "sovětského",
+        "ekvádorského",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Baldur von Schirach",
+      "values": [
+        "lotyšského",
+        "nauruského",
+        "německého",
+        "moldavského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Albert Pražák",
+      "values": [
+        "vietnamského",
+        "ukrajinského",
+        "portugalského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Manny Pacquiao",
+      "values": [
+        "filipínského",
+        "libyjského",
+        "pruského",
+        "afghánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Georgi Markov",
+      "values": [
+        "dánského",
+        "britského",
+        "bulharského",
+        "jemenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sebastian Coe",
+      "values": [
+        "britského",
+        "kubánského",
+        "amerického",
+        "estonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Álvaro Obregón",
+      "values": [
+        "indického",
+        "madagaskarského",
+        "mexického",
+        "keňského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Antanas Smetona",
+      "values": [
+        "československého",
+        "chorvatského",
+        "islandského",
+        "litevského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Béla Miklós",
+      "values": [
+        "egyptského",
+        "irského",
+        "maďarského",
+        "belgického"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

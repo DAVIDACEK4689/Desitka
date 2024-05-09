@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [typ] stavbu?",
+  "questions": [
+    {
+      "key": "Věznice",
+      "values": [
+        "obytnou",
+        "udržitelnou",
+        "podzemní",
+        "zemědělskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Schodiště",
+      "values": [
+        "podzemní",
+        "udržitelnou",
+        "zemědělskou",
+        "zahradní"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dráha",
+      "values": [
+        "dopravní",
+        "průmyslovou",
+        "udržitelnou",
+        "vojenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hraniční přechod",
+      "values": [
+        "dopravní",
+        "historickou",
+        "vojenskou",
+        "podzemní"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vápenka",
+      "values": [
+        "vojenskou",
+        "podzemní",
+        "historickou",
+        "průmyslovou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Brána",
+      "values": [
+        "dopravní",
+        "zahradní",
+        "historickou",
+        "vojenskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Plot",
+      "values": [
+        "zahradní",
+        "obytnou",
+        "historickou",
+        "vojenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mobilní dům",
+      "values": [
+        "obytnou",
+        "historickou",
+        "zahradní",
+        "dopravní"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Přechodnice",
+      "values": [
+        "podzemní",
+        "obytnou",
+        "dopravní",
+        "udržitelnou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kovárna",
+      "values": [
+        "průmyslovou",
+        "obytnou",
+        "podzemní",
+        "dopravní"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

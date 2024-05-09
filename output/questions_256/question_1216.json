@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Šíleně smutná princezna",
+      "values": [
+        "Pavel Juráček",
+        "Bořivoj Zeman",
+        "Robert Sedláček",
+        "Tomáš Bařina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Za vším hledej ženu",
+      "values": [
+        "Bořivoj Zeman",
+        "Evald Schorm",
+        "Pavel Juráček",
+        "Miloslav Šmídmajer"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Šakalí léta",
+      "values": [
+        "Jan Hřebejk",
+        "Zdeněk Tyc",
+        "Zdeněk Zelenka",
+        "Petr Zelenka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Musíme si pomáhat",
+      "values": [
+        "Oldřich Lipský",
+        "Jan Hřebejk",
+        "Martin Horský",
+        "Tomáš Bařina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dovolená s Andělem",
+      "values": [
+        "Karel Kachyňa",
+        "Bořivoj Zeman",
+        "Zdeněk Podskalský",
+        "Miloš Forman"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Šťastný smolař",
+      "values": [
+        "Saša Gedeon",
+        "Hynek Bočan",
+        "Jan Schmidt",
+        "Jiří Strach"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zralé víno",
+      "values": [
+        "Petr Jákl",
+        "Václav Vorlíček",
+        "Karel Zeman",
+        "Jaromil Jireš"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fany",
+      "values": [
+        "Petr Jákl",
+        "Jindřich Polák",
+        "Karel Smyczek",
+        "Karel Kachyňa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Noční motýl",
+      "values": [
+        "Petr Zelenka",
+        "Václav Krška",
+        "Miloslav Šmídmajer",
+        "Juraj Herz"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stíny horkého léta",
+      "values": [
+        "Ondřej Trojan",
+        "František Vláčil",
+        "Martin Frič",
+        "Jiří Strach"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

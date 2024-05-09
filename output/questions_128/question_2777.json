@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Bill Gates",
+      "values": [
+        "francouzského",
+        "amerického",
+        "rakouského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Hlávka",
+      "values": [
+        "běloruského",
+        "pákistánského",
+        "polského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zora Kolínska",
+      "values": [
+        "japonského",
+        "německého",
+        "brazilského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rustem Umerov",
+      "values": [
+        "belgického",
+        "ukrajinského",
+        "bangladéšského",
+        "litevského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marek Antoš",
+      "values": [
+        "polského",
+        "českého",
+        "indického",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oszkár Világi",
+      "values": [
+        "bangladéšského",
+        "litevského",
+        "slovenského",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marek Čmejla",
+      "values": [
+        "íránského",
+        "švýcarského",
+        "českého",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vojtěch Weidenhoffer",
+      "values": [
+        "rakouského",
+        "německého",
+        "indického",
+        "libanonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Böhm",
+      "values": [
+        "ukrajinského",
+        "monackého",
+        "dánského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Starkl",
+      "values": [
+        "francouzského",
+        "rakouského",
+        "italského",
+        "belgického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

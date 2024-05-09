@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle vysoké školy",
+  "questions": [
+    {
+      "key": "Mendelova univerzita v Brně",
+      "values": [
+        "Austrálie",
+        "Polsko",
+        "Švýcarsko",
+        "Československo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Univerzita v Cambridgi",
+      "values": [
+        "Švédsko",
+        "Spojené království",
+        "Sasko",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Univerzita Komenského v Bratislavě",
+      "values": [
+        "Rusko",
+        "Francie",
+        "Československo",
+        "Irsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "London School of Economics",
+      "values": [
+        "Rusko",
+        "Irsko",
+        "Francie",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Univerzita Johanna Wolfganga Goetheho Frankfurt",
+      "values": [
+        "Rusko",
+        "Česko",
+        "Portugalsko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Univerzita v Salamance",
+      "values": [
+        "Švédsko",
+        "Španělsko",
+        "Nizozemsko",
+        "Francie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Německá vysoká škola technická v Brně",
+      "values": [
+        "Finsko",
+        "Japonsko",
+        "Švýcarsko",
+        "Československo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lvovská univerzita",
+      "values": [
+        "Japonsko",
+        "Francie",
+        "Ukrajina",
+        "Finsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Telavivská univerzita",
+      "values": [
+        "Izrael",
+        "Finsko",
+        "Rakousko",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Uralská federální univerzita",
+      "values": [
+        "Izrael",
+        "Rakousko",
+        "Rusko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] ekonoma?",
+  "questions": [
+    {
+      "key": "Danuše Nerudová",
+      "values": [
+        "argentinského",
+        "českého",
+        "portugalského",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mateusz Morawiecki",
+      "values": [
+        "řeckého",
+        "polského",
+        "peruánského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eva Zamrazilová",
+      "values": [
+        "britského",
+        "českého",
+        "estonského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaroslav Preiss",
+      "values": [
+        "peruánského",
+        "dánského",
+        "estonského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Radim Valenčík",
+      "values": [
+        "českého",
+        "rakouského",
+        "švédského",
+        "litevského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Daniel Ellsberg",
+      "values": [
+        "amerického",
+        "maďarského",
+        "peruánského",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oldřich Rejnuš",
+      "values": [
+        "kolumbijského",
+        "ruského",
+        "bulharského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sergej Abramov",
+      "values": [
+        "litevského",
+        "švýcarského",
+        "estonského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Gruber",
+      "values": [
+        "portugalského",
+        "norského",
+        "švýcarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "John Perkins",
+      "values": [
+        "italského",
+        "maďarského",
+        "amerického",
+        "litevského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

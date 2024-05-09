@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle premiéra",
+  "questions": [
+    {
+      "key": "Petr Fiala",
+      "values": [
+        "Jugoslávie",
+        "Česko",
+        "Ukrajina",
+        "Maďarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Winston Churchill",
+      "values": [
+        "Spojené království",
+        "Slovensko",
+        "Polsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Margaret Thatcherová",
+      "values": [
+        "Maďarsko",
+        "Spojené království",
+        "Irák",
+        "Francie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josip Broz Tito",
+      "values": [
+        "Itálie",
+        "Jugoslávie",
+        "Rusko",
+        "Irák"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bohuslav Sobotka",
+      "values": [
+        "Ukrajina",
+        "Izrael",
+        "Maďarsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Viktor Orbán",
+      "values": [
+        "Česko",
+        "Turecko",
+        "Polsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ľudovít Ódor",
+      "values": [
+        "Ukrajina",
+        "Španělsko",
+        "Itálie",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Rusnok",
+      "values": [
+        "Česko",
+        "Spojené království",
+        "Jugoslávie",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Donald Tusk",
+      "values": [
+        "Turecko",
+        "Irák",
+        "Polsko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Neville Chamberlain",
+      "values": [
+        "Rusko",
+        "Spojené království",
+        "Irák",
+        "Turecko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

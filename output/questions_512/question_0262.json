@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle politické strany",
+  "questions": [
+    {
+      "key": "Hizballáh",
+      "values": [
+        "Egypt",
+        "Libanon",
+        "Česko",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Starostové a nezávislí",
+      "values": [
+        "Izrael",
+        "Slovensko",
+        "Německo",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Právo a spravedlnost",
+      "values": [
+        "Česko",
+        "Německo",
+        "Československo",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Věci veřejné",
+      "values": [
+        "Německo",
+        "Libanon",
+        "Československo",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hlinkova slovenská ľudová strana",
+      "values": [
+        "Československo",
+        "Německo",
+        "Polsko",
+        "Palestina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Občanská koalice",
+      "values": [
+        "Izrael",
+        "Slovensko",
+        "Česko",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Motoristé sobě",
+      "values": [
+        "Česko",
+        "Polsko",
+        "Rusko",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jabloko",
+      "values": [
+        "Slovensko",
+        "Egypt",
+        "Československo",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Muslimské bratrstvo",
+      "values": [
+        "Palestina",
+        "Egypt",
+        "Německo",
+        "Československo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marek Hilšer do Senátu",
+      "values": [
+        "Spojené království",
+        "Československo",
+        "Česko",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

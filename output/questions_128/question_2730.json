@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] ledního hokejistu?",
+  "questions": [
+    {
+      "key": "Marian Jelínek",
+      "values": [
+        "lotyšského",
+        "rakouského",
+        "rumunského",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ron Francis",
+      "values": [
+        "kanadského",
+        "švédského",
+        "rakouského",
+        "československého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Kalous",
+      "values": [
+        "německého",
+        "českého",
+        "rakouského",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miroslav Fryčer",
+      "values": [
+        "československého",
+        "rakouského",
+        "českého",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nikita Kučerov",
+      "values": [
+        "československého",
+        "ruského",
+        "švédského",
+        "lotyšského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Mikoláš",
+      "values": [
+        "československého",
+        "rakouského",
+        "rumunského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Kořínek",
+      "values": [
+        "polského",
+        "ruského",
+        "lotyšského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Joe Pavelski",
+      "values": [
+        "polského",
+        "amerického",
+        "slovenského",
+        "lotyšského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Radovan Pavlík",
+      "values": [
+        "slovenského",
+        "československého",
+        "českého",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jussi Jokinen",
+      "values": [
+        "slovenského",
+        "finského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

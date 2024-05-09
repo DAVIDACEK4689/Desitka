@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] psychiatra?",
+  "questions": [
+    {
+      "key": "Jan Cimický",
+      "values": [
+        "českého",
+        "rakouského",
+        "francouzského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Radkin Honzák",
+      "values": [
+        "amerického",
+        "českého",
+        "francouzského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivan David",
+      "values": [
+        "slovenského",
+        "německého",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miroslav Plzák",
+      "values": [
+        "českého",
+        "francouzského",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Wilhelm Reich",
+      "values": [
+        "rakouského",
+        "slovenského",
+        "francouzského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ján Praško Pavlov",
+      "values": [
+        "rakouského",
+        "českého",
+        "amerického",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vladimír Vondráček",
+      "values": [
+        "slovenského",
+        "amerického",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Harry Stack Sullivan",
+      "values": [
+        "amerického",
+        "českého",
+        "francouzského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Breuer",
+      "values": [
+        "rakouského",
+        "švýcarského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ferdinand Knobloch",
+      "values": [
+        "francouzského",
+        "českého",
+        "ruského",
+        "německého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

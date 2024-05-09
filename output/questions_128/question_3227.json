@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Pamela Anderson",
+      "values": [
+        "nizozemskou",
+        "polskou",
+        "kanadskou",
+        "ruskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andrea Verešová",
+      "values": [
+        "ruskou",
+        "slovenskou",
+        "australskou",
+        "jihoafrickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bella Hadid",
+      "values": [
+        "namibijskou",
+        "slovenskou",
+        "americkou",
+        "japonskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lucie Hadašová",
+      "values": [
+        "německou",
+        "českou",
+        "australskou",
+        "argentinskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cindy Crawford",
+      "values": [
+        "jihoafrickou",
+        "americkou",
+        "ruskou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Simona Šimková",
+      "values": [
+        "ukrajinskou",
+        "brazilskou",
+        "českou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hana Svobodová",
+      "values": [
+        "jihoafrickou",
+        "kanadskou",
+        "českou",
+        "rakouskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Olivia Munnová",
+      "values": [
+        "americkou",
+        "kanadskou",
+        "japonskou",
+        "venezuelskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lio Tipton",
+      "values": [
+        "nizozemskou",
+        "americkou",
+        "kanadskou",
+        "slovenskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexandra Gachulincová",
+      "values": [
+        "polskou",
+        "argentinskou",
+        "slovenskou",
+        "kanadskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

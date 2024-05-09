@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] dramatický film?",
+  "questions": [
+    {
+      "key": "Bastardi",
+      "values": [
+        "francouzský",
+        "československý",
+        "americký",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Naprostí cizinci",
+      "values": [
+        "italský",
+        "sovětský",
+        "ruský",
+        "britský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Teroristka",
+      "values": [
+        "americký",
+        "estonský",
+        "český",
+        "italský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dům u jezera",
+      "values": [
+        "československý",
+        "švédský",
+        "americký",
+        "jihokorejský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nedodržený slib",
+      "values": [
+        "estonský",
+        "slovenský",
+        "dánský",
+        "australský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Crash",
+      "values": [
+        "americký",
+        "maďarský",
+        "ruský",
+        "španělský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Amores perros",
+      "values": [
+        "kanadský",
+        "mexický",
+        "novozélandský",
+        "japonský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Blízko od sebe",
+      "values": [
+        "italský",
+        "švédský",
+        "estonský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hrdinové a zbabělci",
+      "values": [
+        "švédský",
+        "český",
+        "izraelský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "In nomine patris",
+      "values": [
+        "český",
+        "australský",
+        "slovenský",
+        "sovětský"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

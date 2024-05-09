@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte kontinent podle fauny",
+  "questions": [
+    {
+      "key": "Slepýš křehký",
+      "values": [
+        "Asie",
+        "Evropa",
+        "Jižní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dingo",
+      "values": [
+        "Asie",
+        "Antarktida",
+        "Evropa",
+        "Severní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pakůň",
+      "values": [
+        "Afrika",
+        "Jižní Amerika",
+        "Asie",
+        "Střední Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Titán obrovský",
+      "values": [
+        "Evropa",
+        "Střední Amerika",
+        "Afrika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tarbík egyptský",
+      "values": [
+        "Jižní Amerika",
+        "Afrika",
+        "Střední Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Antilopa losí",
+      "values": [
+        "Antarktida",
+        "Střední Amerika",
+        "Asie",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tygr kaspický",
+      "values": [
+        "Antarktida",
+        "Střední Amerika",
+        "Asie",
+        "Afrika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Liška horská",
+      "values": [
+        "Antarktida",
+        "Afrika",
+        "Jižní Amerika",
+        "Asie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kajman šíronosý",
+      "values": [
+        "Jižní Amerika",
+        "Afrika",
+        "Severní Amerika",
+        "Střední Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mirikina obecná",
+      "values": [
+        "Jižní Amerika",
+        "Afrika",
+        "Evropa",
+        "Severní Amerika"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle narození",
+  "questions": [
+    {
+      "key": "Maia Sanduová",
+      "values": [
+        "Salvador",
+        "Česko",
+        "Francie",
+        "Moldavsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "João Cancelo",
+      "values": [
+        "Alžírsko",
+        "Saúdská Arábie",
+        "Portugalsko",
+        "Jamajka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Antonín Veliký",
+      "values": [
+        "Brunej",
+        "Egypt",
+        "Indie",
+        "Finsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Xherdan Shaqiri",
+      "values": [
+        "Libérie",
+        "Kosovo",
+        "Bhútán",
+        "Brazílie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joseph Kony",
+      "values": [
+        "Monako",
+        "Uganda",
+        "Venezuela",
+        "Gabon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joao Grimaldo",
+      "values": [
+        "Gabon",
+        "Namibie",
+        "Pero",
+        "Švédsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Éder Militão",
+      "values": [
+        "Etiopie",
+        "Sýrie",
+        "Brazílie",
+        "Ekvádor"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Ludvík Jelínek",
+      "values": [
+        "Gabon",
+        "Ghana",
+        "Bulharsko",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Athanasius Schneider",
+      "values": [
+        "Myanmar",
+        "Kyrgyzstán",
+        "Uruguay",
+        "Kypr"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Takefusa Kubo",
+      "values": [
+        "Japonsko",
+        "Mosambik",
+        "Rakousko",
+        "Řecko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Toni Kroos",
+      "values": [
+        "černohorského",
+        "francouzského",
+        "německého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Raheem Sterling",
+      "values": [
+        "chorvatského",
+        "španělského",
+        "kanadského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ansu Fati",
+      "values": [
+        "bulharského",
+        "portugalského",
+        "peruánského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roy Hodgson",
+      "values": [
+        "černohorského",
+        "islandského",
+        "mexického",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sócrates",
+      "values": [
+        "ghanského",
+        "anglického",
+        "polského",
+        "brazilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Juninho Pernambucano",
+      "values": [
+        "lucemburského",
+        "kamerunského",
+        "chilského",
+        "brazilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gianluca Zambrotta",
+      "values": [
+        "albánského",
+        "polského",
+        "švédského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Guus Hiddink",
+      "values": [
+        "argentinského",
+        "nizozemského",
+        "černohorského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kevin Trapp",
+      "values": [
+        "finského",
+        "norského",
+        "ruského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Bartek",
+      "values": [
+        "baskického",
+        "českého",
+        "kolumbijského",
+        "německého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

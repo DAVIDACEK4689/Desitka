@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Vladimír Holan",
+      "values": [
+        "španělského",
+        "irského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Adam Mickiewicz",
+      "values": [
+        "polského",
+        "mexického",
+        "palestinského",
+        "tureckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Anthony Burgess",
+      "values": [
+        "portugalského",
+        "maďarského",
+        "anglického",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Matej Bel",
+      "values": [
+        "srbského",
+        "slovenského",
+        "portugalského",
+        "gruzínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cesare Pavese",
+      "values": [
+        "islandského",
+        "mexického",
+        "italského",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ingeborg Bachmannová",
+      "values": [
+        "gruzínského",
+        "chilského",
+        "tureckého",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hugo Ball",
+      "values": [
+        "belgického",
+        "španělského",
+        "portugalského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Kárnet",
+      "values": [
+        "mexického",
+        "maďarského",
+        "islandského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Antonio Machado",
+      "values": [
+        "slovinského",
+        "českého",
+        "španělského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Carl Gustaf Verner von Heidenstam",
+      "values": [
+        "řeckého",
+        "ruského",
+        "islandského",
+        "švédského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] matematika?",
+  "questions": [
+    {
+      "key": "Johannes Kepler",
+      "values": [
+        "irského",
+        "britského",
+        "maďarského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bertrand Russell",
+      "values": [
+        "irského",
+        "britského",
+        "švédského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Christiaan Huygens",
+      "values": [
+        "nizozemského",
+        "indického",
+        "maďarského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Milan Hejný",
+      "values": [
+        "českého",
+        "švédského",
+        "rumunského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Josef Studnička",
+      "values": [
+        "maďarského",
+        "českého",
+        "španělského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Theurer",
+      "values": [
+        "českého",
+        "slovenského",
+        "ruského",
+        "indického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "František Běloun",
+      "values": [
+        "polského",
+        "českého",
+        "ruského",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Georges Louis Leclerc de Buffon",
+      "values": [
+        "indického",
+        "norského",
+        "francouzského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Carl Gustav Jacob Jacobi",
+      "values": [
+        "amerického",
+        "německého",
+        "slovenského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "José Echegaray y Eizaguirre",
+      "values": [
+        "britského",
+        "rumunského",
+        "španělského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

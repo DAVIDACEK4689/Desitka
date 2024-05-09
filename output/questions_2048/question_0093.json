@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] šlechtice?",
+  "questions": [
+    {
+      "key": "Margaret Thatcherová",
+      "values": [
+        "italského",
+        "německého",
+        "ruského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alžběta Báthoryová",
+      "values": [
+        "německého",
+        "britského",
+        "dánského",
+        "uherského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lev Nikolajevič Tolstoj",
+      "values": [
+        "ruského",
+        "dánského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sophia Lorenová",
+      "values": [
+        "dánského",
+        "ruského",
+        "italského",
+        "uherského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Klemens Wenzel von Metternich",
+      "values": [
+        "uherského",
+        "ruského",
+        "německého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tycho Brahe",
+      "values": [
+        "německého",
+        "ruského",
+        "italského",
+        "dánského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kryštof Harant z Polžic a Bezdružic",
+      "values": [
+        "německého",
+        "českého",
+        "italského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Záviš z Falkenštejna",
+      "values": [
+        "dánského",
+        "českého",
+        "britského",
+        "uherského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Louis Mountbatten",
+      "values": [
+        "britského",
+        "českého",
+        "ruského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Czernin",
+      "values": [
+        "českého",
+        "britského",
+        "italského",
+        "uherského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

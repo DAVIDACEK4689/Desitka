@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle premiéra",
+  "questions": [
+    {
+      "key": "Andrej Babiš",
+      "values": [
+        "Libanon",
+        "Česko",
+        "Bangladéš",
+        "Nizozemsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Fischer",
+      "values": [
+        "Bangladéš",
+        "Lotyšsko",
+        "Česko",
+        "Lucembursko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aleksandar Vučić",
+      "values": [
+        "Bulharsko",
+        "Srbsko",
+        "Lucembursko",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Viktor Černomyrdin",
+      "values": [
+        "Španělsko",
+        "Rusko",
+        "Norsko",
+        "Lucembursko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pierre Laval",
+      "values": [
+        "Švédsko",
+        "Nizozemsko",
+        "Ukrajina",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ferenc Szálasi",
+      "values": [
+        "Slovensko",
+        "Finsko",
+        "Maďarsko",
+        "Bangladéš"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ferenc Gyurcsány",
+      "values": [
+        "Maďarsko",
+        "Indonésie",
+        "Francie",
+        "Island"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Risto Ryti",
+      "values": [
+        "Ukrajina",
+        "Estonsko",
+        "Portugalsko",
+        "Finsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aleksandar Stambolijski",
+      "values": [
+        "Španělsko",
+        "Bulharsko",
+        "Island",
+        "Litva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Magdalena Anderssonová",
+      "values": [
+        "Bulharsko",
+        "Švédsko",
+        "Maroko",
+        "Senegal"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

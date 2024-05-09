@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kytaristu?",
+  "questions": [
+    {
+      "key": "Karel Kahovec",
+      "values": [
+        "maďarského",
+        "norského",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kirk Hammett",
+      "values": [
+        "australského",
+        "švédského",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Václav Lebeda",
+      "values": [
+        "amerického",
+        "českého",
+        "norského",
+        "jamajského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Per Gessle",
+      "values": [
+        "amerického",
+        "dánského",
+        "italského",
+        "švédského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Kaplan",
+      "values": [
+        "jamajského",
+        "izraelského",
+        "norského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Robby Krieger",
+      "values": [
+        "amerického",
+        "finského",
+        "maďarského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ondřej Fencl",
+      "values": [
+        "českého",
+        "maďarského",
+        "brazilského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Scott McKenzie",
+      "values": [
+        "australského",
+        "slovenského",
+        "amerického",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Blažejovský",
+      "values": [
+        "maďarského",
+        "českého",
+        "slovenského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jakub Noha",
+      "values": [
+        "španělského",
+        "slovenského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

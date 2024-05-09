@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Babylón",
+      "values": [
+        "Dunaj",
+        "Eufrat",
+        "Mandava",
+        "Jizera"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bonn",
+      "values": [
+        "Rýn",
+        "Těrek",
+        "Ploučnice",
+        "Váha"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Piešťany",
+      "values": [
+        "Váha",
+        "Chrudimka",
+        "Inn",
+        "Malše"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karlsruhe",
+      "values": [
+        "Rýn",
+        "Temže",
+        "Labe",
+        "Chrudimka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bad Schandau",
+      "values": [
+        "Labe",
+        "Sebnice",
+        "Rýn",
+        "Ploučnice"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jaroslavl",
+      "values": [
+        "Volha",
+        "Labe",
+        "Vltava",
+        "Něva"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mauthausen",
+      "values": [
+        "Dunaj",
+        "Temže",
+        "Visla",
+        "Chrudimka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lobkovice",
+      "values": [
+        "Tis",
+        "Cidlina",
+        "Úslava",
+        "Labe"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Luka pod Medníkem",
+      "values": [
+        "Visla",
+        "Radbuza",
+        "Sázava",
+        "Bečva"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Živohošť",
+      "values": [
+        "Vltava",
+        "Loira",
+        "Malše",
+        "Váha"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

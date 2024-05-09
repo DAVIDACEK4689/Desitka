@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte moře podle přístavního města",
+  "questions": [
+    {
+      "key": "Amsterdam",
+      "values": [
+        "Baltské moře",
+        "Severní moře",
+        "Azovské moře",
+        "Irské moře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oslo",
+      "values": [
+        "Baltské moře",
+        "Azovské moře",
+        "Severní moře",
+        "Karibské moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Helsinky",
+      "values": [
+        "Karibské moře",
+        "Baltské moře",
+        "Rudé moře",
+        "Marmarské moře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tallinn",
+      "values": [
+        "Černé moře",
+        "Severní moře",
+        "Bílé moře",
+        "Baltské moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rotterdam",
+      "values": [
+        "Azovské moře",
+        "Bílé moře",
+        "Rudé moře",
+        "Severní moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dunkerk",
+      "values": [
+        "Černé moře",
+        "Severní moře",
+        "Azovské moře",
+        "Irské moře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gdyně",
+      "values": [
+        "Baltské moře",
+        "Irské moře",
+        "Marmarské moře",
+        "Azovské moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Newcastle upon Tyne",
+      "values": [
+        "Severní moře",
+        "Marmarské moře",
+        "Černé moře",
+        "Bílé moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Caracas",
+      "values": [
+        "Karibské moře",
+        "Rudé moře",
+        "Severní moře",
+        "Azovské moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Punta Cana",
+      "values": [
+        "Marmarské moře",
+        "Rudé moře",
+        "Karibské moře",
+        "Černé moře"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

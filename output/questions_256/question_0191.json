@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Petr Kostka",
+      "values": [
+        "mexického",
+        "německého",
+        "českého",
+        "chilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miroslav Horníček",
+      "values": [
+        "českého",
+        "australského",
+        "portorického",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kirk Douglas",
+      "values": [
+        "guatemalského",
+        "australského",
+        "amerického",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oldřich Hajlich",
+      "values": [
+        "českého",
+        "polského",
+        "jamajského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kiefer Sutherland",
+      "values": [
+        "mexického",
+        "čínského",
+        "kanadského",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Art Garfunkel",
+      "values": [
+        "německého",
+        "indického",
+        "guatemalského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Brandon Call",
+      "values": [
+        "amerického",
+        "japonského",
+        "chilského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Filip Tůma",
+      "values": [
+        "čínského",
+        "indického",
+        "ruského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kevin Peter Hall",
+      "values": [
+        "islandského",
+        "maďarského",
+        "japonského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bill Goldberg",
+      "values": [
+        "amerického",
+        "jihoafrického",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

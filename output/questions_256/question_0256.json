@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [typ] stavbu?",
+  "questions": [
+    {
+      "key": "Manufaktura",
+      "values": [
+        "průmyslovou",
+        "vojenskou",
+        "historickou",
+        "obytnou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mrakodrap",
+      "values": [
+        "obytnou",
+        "historickou",
+        "udržitelnou",
+        "podzemní"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Minaret",
+      "values": [
+        "zahradní",
+        "zemědělskou",
+        "vojenskou",
+        "obytnou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lom",
+      "values": [
+        "zahradní",
+        "průmyslovou",
+        "udržitelnou",
+        "dopravní"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Grotta",
+      "values": [
+        "zahradní",
+        "zemědělskou",
+        "průmyslovou",
+        "historickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Krypta",
+      "values": [
+        "průmyslovou",
+        "obytnou",
+        "podzemní",
+        "zemědělskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Baptisterium",
+      "values": [
+        "historickou",
+        "zahradní",
+        "vojenskou",
+        "obytnou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Třída zatížení poklopů",
+      "values": [
+        "dopravní",
+        "vojenskou",
+        "obytnou",
+        "průmyslovou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gloriet",
+      "values": [
+        "průmyslovou",
+        "zahradní",
+        "vojenskou",
+        "udržitelnou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Niveleta",
+      "values": [
+        "dopravní",
+        "průmyslovou",
+        "zahradní",
+        "historickou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

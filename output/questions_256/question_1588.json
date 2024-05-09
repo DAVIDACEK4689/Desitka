@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Petr Sepeši",
+      "values": [
+        "moldavského",
+        "amerického",
+        "brazilského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stanislav Hložek",
+      "values": [
+        "francouzského",
+        "norského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bobby Brown",
+      "values": [
+        "švédského",
+        "jamajského",
+        "srbského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Shane MacGowan",
+      "values": [
+        "srbského",
+        "australského",
+        "rumunského",
+        "irského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vratislav Brabenec",
+      "values": [
+        "skotského",
+        "jamajského",
+        "kolumbijského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Billy Gibbons",
+      "values": [
+        "finského",
+        "irského",
+        "amerického",
+        "portorického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Honza Křížek",
+      "values": [
+        "českého",
+        "maďarského",
+        "švédského",
+        "argentinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miroslav Homola",
+      "values": [
+        "kanadského",
+        "švýcarského",
+        "českého",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Martin Motýl",
+      "values": [
+        "českého",
+        "dánského",
+        "švýcarského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavel Brümer",
+      "values": [
+        "rakouského",
+        "českého",
+        "jihokorejského",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

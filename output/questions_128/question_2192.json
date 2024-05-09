@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] tank?",
+  "questions": [
+    {
+      "key": "Merkava",
+      "values": [
+        "turecký",
+        "maďarský",
+        "izraelský",
+        "sovětský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Panzerkampfwagen VIII Maus",
+      "values": [
+        "německý",
+        "britský",
+        "izraelský",
+        "jihokorejský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "M60 Patton",
+      "values": [
+        "italský",
+        "americký",
+        "švýcarský",
+        "polský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Panzerkampfwagen I",
+      "values": [
+        "německý",
+        "americký",
+        "polský",
+        "britský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Panzerkampfwagen II",
+      "values": [
+        "jihokorejský",
+        "sovětský",
+        "německý",
+        "turecký"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Matilda Mk II",
+      "values": [
+        "maďarský",
+        "švédský",
+        "izraelský",
+        "britský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Typ 10",
+      "values": [
+        "jihokorejský",
+        "polský",
+        "japonský",
+        "francouzský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "M5 Stuart",
+      "values": [
+        "maďarský",
+        "francouzský",
+        "čínský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Char 2C",
+      "values": [
+        "izraelský",
+        "japonský",
+        "maďarský",
+        "francouzský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Schneider CA1",
+      "values": [
+        "čínský",
+        "britský",
+        "německý",
+        "francouzský"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Raúl Castro",
+      "values": [
+        "kubánského",
+        "mongolského",
+        "pruského",
+        "kolumbijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zbigniew Brzezinski",
+      "values": [
+        "palestinského",
+        "maďarského",
+        "jihoafrického",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Franco Zeffirelli",
+      "values": [
+        "filipínského",
+        "izraelského",
+        "bosenského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hajbatulláh Achúndzáda",
+      "values": [
+        "chilského",
+        "kyrgyzského",
+        "belgického",
+        "afghánského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Carlos Reutemann",
+      "values": [
+        "argentinského",
+        "nauruského",
+        "pruského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ilja Ponomarjov",
+      "values": [
+        "finského",
+        "britského",
+        "čínského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Julián Medicejský",
+      "values": [
+        "italského",
+        "irského",
+        "lotyšského",
+        "bosenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Adolfo Suárez",
+      "values": [
+        "litevského",
+        "černohorského",
+        "bosenského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Franz Karmasin",
+      "values": [
+        "německého",
+        "jemenského",
+        "ukrajinského",
+        "nepálského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Meles Zenawi",
+      "values": [
+        "bulharského",
+        "etiopského",
+        "ukrajinského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

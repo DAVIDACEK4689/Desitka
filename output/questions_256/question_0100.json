@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] ateistu?",
+  "questions": [
+    {
+      "key": "Michail Gorbačov",
+      "values": [
+        "skotského",
+        "židovského",
+        "ruského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Charles Bukowski",
+      "values": [
+        "amerického",
+        "kubánského",
+        "britského",
+        "arménského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lance Armstrong",
+      "values": [
+        "slovinského",
+        "polského",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Enver Hodža",
+      "values": [
+        "kanadského",
+        "islandského",
+        "albánského",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Christian Lorenz",
+      "values": [
+        "běloruského",
+        "brazilského",
+        "gruzínského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "John Stuart Mill",
+      "values": [
+        "britského",
+        "amerického",
+        "gruzínského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michail Kalinin",
+      "values": [
+        "švédského",
+        "ruského",
+        "švýcarského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jürgen Habermas",
+      "values": [
+        "švédského",
+        "běloruského",
+        "ukrajinského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dave Lombardo",
+      "values": [
+        "amerického",
+        "francouzského",
+        "arménského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Joss Whedon",
+      "values": [
+        "chorvatského",
+        "indického",
+        "gruzínského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

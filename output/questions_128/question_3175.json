@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "David Jurásek",
+      "values": [
+        "paraguayského",
+        "irského",
+        "českého",
+        "uruguayského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Virgil van Dijk",
+      "values": [
+        "nizozemského",
+        "marockého",
+        "slovenského",
+        "ghanského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David Hovorka",
+      "values": [
+        "arménského",
+        "gruzínského",
+        "paraguayského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mauro Icardi",
+      "values": [
+        "polského",
+        "argentinského",
+        "arménského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Just Fontaine",
+      "values": [
+        "slovenského",
+        "tožského",
+        "kanadského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marcel Gecov",
+      "values": [
+        "českého",
+        "alžírského",
+        "chorvatského",
+        "finského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gareth Southgate",
+      "values": [
+        "švédského",
+        "anglického",
+        "jamajského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tommy Lawrence",
+      "values": [
+        "belgického",
+        "skotského",
+        "islandského",
+        "argentinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Volodymyr Onyščenko",
+      "values": [
+        "kanadského",
+        "skotského",
+        "sovětského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lukáš Pauschek",
+      "values": [
+        "slovenského",
+        "severoirského",
+        "nigerijského",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

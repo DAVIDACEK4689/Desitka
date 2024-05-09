@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Buk lesní",
+      "values": [
+        "Austrálie",
+        "Mexiko",
+        "Brazílie",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Paprika",
+      "values": [
+        "Brazílie",
+        "Česko",
+        "Mongolsko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Divizna velkokvětá",
+      "values": [
+        "Brazílie",
+        "Mexiko",
+        "Česko",
+        "Austrálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pelyněk černobýl",
+      "values": [
+        "Brazílie",
+        "Mongolsko",
+        "Austrálie",
+        "Madagaskar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oves",
+      "values": [
+        "Austrálie",
+        "Mongolsko",
+        "Mexiko",
+        "Madagaskar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hořčice setá",
+      "values": [
+        "Mongolsko",
+        "Mexiko",
+        "Česko",
+        "Austrálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Juka",
+      "values": [
+        "Austrálie",
+        "Mexiko",
+        "Mongolsko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pryskyřník plazivý",
+      "values": [
+        "Česko",
+        "Nový Zéland",
+        "Austrálie",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chinovník",
+      "values": [
+        "Brazílie",
+        "Česko",
+        "Madagaskar",
+        "Mongolsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petúnie",
+      "values": [
+        "Mongolsko",
+        "Madagaskar",
+        "Mexiko",
+        "Brazílie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

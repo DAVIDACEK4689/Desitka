@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fyzika?",
+  "questions": [
+    {
+      "key": "Frank Oppenheimer",
+      "values": [
+        "dánského",
+        "českého",
+        "amerického",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Guglielmo Marconi",
+      "values": [
+        "italského",
+        "ruského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef František Smetana",
+      "values": [
+        "indického",
+        "amerického",
+        "švýcarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Svante Arrhenius",
+      "values": [
+        "italského",
+        "švédského",
+        "německého",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joseph Stepling",
+      "values": [
+        "švýcarského",
+        "českého",
+        "izraelského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gustav Kirchhoff",
+      "values": [
+        "amerického",
+        "nizozemského",
+        "polského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Luboš Motl",
+      "values": [
+        "izraelského",
+        "sovětského",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Johannes Stark",
+      "values": [
+        "srbského",
+        "indického",
+        "německého",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Brian Greene",
+      "values": [
+        "sovětského",
+        "ukrajinského",
+        "amerického",
+        "indického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nils Gustaf Dalén",
+      "values": [
+        "kanadského",
+        "švédského",
+        "britského",
+        "běloruského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

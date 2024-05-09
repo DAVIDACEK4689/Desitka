@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Vlk z Wall Street",
+      "values": [
+        "Martin Scorsese",
+        "Joel Zwick",
+        "McG",
+        "Alfred Hitchcock"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Temný rytíř povstal",
+      "values": [
+        "Christopher Nolan",
+        "bratři Russoové",
+        "Emile Ardolino",
+        "John Landis"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fotr je lotr",
+      "values": [
+        "Chris Columbus",
+        "Jay Roach",
+        "Alan Taylor",
+        "David Twohy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Od soumraku do úsvitu",
+      "values": [
+        "Catherine Hardwicke",
+        "Robert Rodriguez",
+        "Jason Friedberg a Aaron Seltzer",
+        "Brad Bird"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Most špionů",
+      "values": [
+        "Kathryn Bigelowová",
+        "Steven Spielberg",
+        "Zack Snyder",
+        "Pete Docter"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Válečný kůň",
+      "values": [
+        "Barry Levinson",
+        "Steven Spielberg",
+        "Nancy Meyers",
+        "Irwin Allen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Země nomádů",
+      "values": [
+        "Chloé Zhaová",
+        "Chris Wedge",
+        "McG",
+        "Ivan Passer"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "BlacKkKlansman",
+      "values": [
+        "Spike Lee",
+        "Marc Webb",
+        "Catherine Hardwicke",
+        "Noah Baumbach"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Moře lásky",
+      "values": [
+        "Orson Welles",
+        "Jay Roach",
+        "Terry Gilliam",
+        "Harold Becker"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "O Schmidtovi",
+      "values": [
+        "Alexander Payne",
+        "Catherine Hardwicke",
+        "Brad Bird",
+        "David Zucker"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] firmu?",
+  "questions": [
+    {
+      "key": "Jysk",
+      "values": [
+        "finskou",
+        "dánskou",
+        "čínskou",
+        "švédskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gorenje",
+      "values": [
+        "slovinskou",
+        "rakouskou",
+        "saúdskoarabskou",
+        "indickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "World Wrestling Entertainment",
+      "values": [
+        "rakouskou",
+        "americkou",
+        "kanadskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eska Cheb",
+      "values": [
+        "saúdskoarabskou",
+        "československou",
+        "německou",
+        "maďarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "ING Group",
+      "values": [
+        "indickou",
+        "francouzskou",
+        "nizozemskou",
+        "polskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "TotalEnergies",
+      "values": [
+        "francouzskou",
+        "švédskou",
+        "finskou",
+        "saúdskoarabskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tokyo Electric Power Company",
+      "values": [
+        "čínskou",
+        "maltskou",
+        "japonskou",
+        "českou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Krásná jizba",
+      "values": [
+        "československou",
+        "švédskou",
+        "britskou",
+        "polskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "ARMEX ENERGY",
+      "values": [
+        "českou",
+        "švýcarskou",
+        "jihokorejskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Opinel",
+      "values": [
+        "slovinskou",
+        "nizozemskou",
+        "francouzskou",
+        "vietnamskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

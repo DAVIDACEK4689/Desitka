@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Lou Fanánek Hagen",
+      "values": [
+        "argentinského",
+        "amerického",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aleš Háma",
+      "values": [
+        "slovenského",
+        "českého",
+        "finského",
+        "kolumbijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Maurice Gibb",
+      "values": [
+        "nizozemského",
+        "britského",
+        "jamajského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Juraj Kukura",
+      "values": [
+        "slovenského",
+        "brazilského",
+        "maďarského",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "PSY",
+      "values": [
+        "německého",
+        "ruského",
+        "belgického",
+        "jihokorejského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimír Hron",
+      "values": [
+        "českého",
+        "italského",
+        "nizozemského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ville Valo",
+      "values": [
+        "brazilského",
+        "finského",
+        "kanadského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Klásek",
+      "values": [
+        "českého",
+        "španělského",
+        "italského",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Janíček",
+      "values": [
+        "německého",
+        "českého",
+        "maďarského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Facundo Arana",
+      "values": [
+        "italského",
+        "britského",
+        "německého",
+        "argentinského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

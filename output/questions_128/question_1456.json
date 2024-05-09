@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte autora podle stavby",
+  "questions": [
+    {
+      "key": "Budova Říšského sněmu v Berlíně",
+      "values": [
+        "František Antonín Grimm",
+        "Hanuš Zápal",
+        "Josef Fanta",
+        "Norman Foster"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gröbova vila",
+      "values": [
+        "Vladimír Karfík",
+        "Jan Chládek",
+        "Stanislav Hubička",
+        "Josef Schulz"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Koleje Strahov",
+      "values": [
+        "Stanislav Franc",
+        "Emil Králíček",
+        "Jože Plečnik",
+        "Norman Foster"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Česká poštovna na Sněžce",
+      "values": [
+        "Hanuš Zápal",
+        "Matěj Blecha",
+        "Martin Rajniš",
+        "Alois Dryák"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vysílač Hošťálkovice",
+      "values": [
+        "Jan Kaplický",
+        "Václav Aulický",
+        "Josef Fanta",
+        "Bohumír Kozák"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rozhledna Máminka",
+      "values": [
+        "Adolf Benš",
+        "Martin Rajniš",
+        "Frank Gehry",
+        "Stanislav Hubička"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hernychova vila",
+      "values": [
+        "Bohumír Čermák",
+        "Matěj Blecha",
+        "Jan Kaplický",
+        "Karel Filsak"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Budova Magistrátu města Hradec Králové",
+      "values": [
+        "Carlo Lurago",
+        "Max Spielmann",
+        "Karel Filsak",
+        "Josef Gočár"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ústav makromolekulární chemie Akademie věd České republiky",
+      "values": [
+        "Alois Dryák",
+        "Le Corbusier",
+        "Karel Prager",
+        "Emil Králíček"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fondation Louis Vuitton",
+      "values": [
+        "Vojtěch Ignác Ullmann",
+        "Stanislav Franc",
+        "Frank Gehry",
+        "Josef Zítek"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

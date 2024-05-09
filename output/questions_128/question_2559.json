@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte sport podle německého sportovce",
+  "questions": [
+    {
+      "key": "Mesut Özil",
+      "values": [
+        "basketbalista",
+        "jezdec",
+        "fotbalista",
+        "šachista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomáš Martinec",
+      "values": [
+        "basketbalista",
+        "lední hokejista",
+        "jezdec",
+        "šermíř"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Friedrich Ludwig Jahn",
+      "values": [
+        "gymnasta",
+        "bobista",
+        "lední hokejista",
+        "cyklista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michael Ballack",
+      "values": [
+        "tenista",
+        "stolní tenista",
+        "fotbalista",
+        "jezdec"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luděk Pachman",
+      "values": [
+        "boxer",
+        "šachista",
+        "pilot",
+        "horolezec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Reichel",
+      "values": [
+        "pilot",
+        "skeletonisté",
+        "fotbalista",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jupp Heynckes",
+      "values": [
+        "akrobatický letec",
+        "boxer",
+        "fotbalista",
+        "skeletonisté"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Harald Schumacher",
+      "values": [
+        "bobista",
+        "fotbalista",
+        "gymnasta",
+        "stolní tenista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oksana Čusovitinová",
+      "values": [
+        "boxer",
+        "pilot",
+        "strongmani",
+        "gymnasta"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Wolfgang von Trips",
+      "values": [
+        "šachista",
+        "fotbalista",
+        "jezdec",
+        "pilot"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte město podle české kultury",
+  "questions": [
+    {
+      "key": "Rumcajs",
+      "values": [
+        "Jičín",
+        "České Budějovice",
+        "Boskovice",
+        "Mariánská Lázeň"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Masters of Rock",
+      "values": [
+        "Jičín",
+        "Český Brod",
+        "Vizovice",
+        "Žamberk"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Krátký film Praha",
+      "values": [
+        "Kadaň",
+        "Žamberk",
+        "Olomouc",
+        "Postoloprty"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kratochvílova rozhledna",
+      "values": [
+        "Přibyslav",
+        "Kolín",
+        "Abertamy",
+        "Roudnice nad Labem"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Café Arco",
+      "values": [
+        "Benešov",
+        "Praha",
+        "Turnov",
+        "Jaroměřice nad Rokytnou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Naučná stezka Josefa Klementa",
+      "values": [
+        "Karlovy Vary",
+        "Doksy",
+        "Hlinsko",
+        "Polná"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Drak v Ronově nad Sázavou",
+      "values": [
+        "Třeboň",
+        "Boskovice",
+        "Přibyslav",
+        "Kyjov"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Serial Killer",
+      "values": [
+        "Valašské Meziříčí",
+        "Broumov",
+        "Třebíč",
+        "Brno"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Galerie U Netopýra",
+      "values": [
+        "Pacov",
+        "Kadaň",
+        "Jablonec nad Nisou",
+        "Liberec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Naučná stezka Babín",
+      "values": [
+        "Týn nad Vltavou",
+        "Břeclav",
+        "Přibyslav",
+        "Žďár nad Sázavou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

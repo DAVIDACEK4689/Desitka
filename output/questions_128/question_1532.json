@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Ludwig van Beethoven",
+      "values": [
+        "rumunského",
+        "maďarského",
+        "ukrajinského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zdeněk Fibich",
+      "values": [
+        "českého",
+        "francouzského",
+        "arménského",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Edvard Grieg",
+      "values": [
+        "norského",
+        "italského",
+        "kanadského",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tuomas Holopainen",
+      "values": [
+        "estonského",
+        "arménského",
+        "finského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexandr Nikolajevič Skrjabin",
+      "values": [
+        "německého",
+        "japonského",
+        "ruského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Emmerich Kálmán",
+      "values": [
+        "finského",
+        "ukrajinského",
+        "maďarského",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aleš Březina",
+      "values": [
+        "polského",
+        "argentinského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivan Acher",
+      "values": [
+        "švédského",
+        "finského",
+        "argentinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Radim Drejsl",
+      "values": [
+        "českého",
+        "jihoafrického",
+        "ukrajinského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hans von Bülow",
+      "values": [
+        "německého",
+        "španělského",
+        "belgického",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

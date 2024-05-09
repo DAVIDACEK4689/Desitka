@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] tank?",
+  "questions": [
+    {
+      "key": "Leopard 2",
+      "values": [
+        "švédský",
+        "britský",
+        "polský",
+        "německý"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Panther KF51",
+      "values": [
+        "japonský",
+        "čínský",
+        "izraelský",
+        "německý"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "K2 Black Panther",
+      "values": [
+        "jihokorejský",
+        "turecký",
+        "polský",
+        "švýcarský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "C1 Ariete",
+      "values": [
+        "maďarský",
+        "turecký",
+        "izraelský",
+        "italský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "A7V",
+      "values": [
+        "jihokorejský",
+        "švédský",
+        "polský",
+        "německý"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "M46 Patton",
+      "values": [
+        "německý",
+        "turecký",
+        "americký",
+        "polský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Turán",
+      "values": [
+        "maďarský",
+        "švýcarský",
+        "jihokorejský",
+        "izraelský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Magach",
+      "values": [
+        "izraelský",
+        "německý",
+        "maďarský",
+        "japonský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tankové muzeum v Bovingtonu",
+      "values": [
+        "německý",
+        "japonský",
+        "čínský",
+        "britský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "VK 1602 Leopard",
+      "values": [
+        "polský",
+        "maďarský",
+        "německý",
+        "italský"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

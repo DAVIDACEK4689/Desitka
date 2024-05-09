@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte rok podle katastrofy",
+  "questions": [
+    {
+      "key": "Metanolová aféra",
+      "values": [
+        "2009",
+        "1960",
+        "2012",
+        "1945"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Střelba v Uherském Brodě",
+      "values": [
+        "1966",
+        "1945",
+        "2018",
+        "2015"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nankingský masakr",
+      "values": [
+        "1987",
+        "1937",
+        "2005",
+        "1916"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Neštěstí v Aberfanu",
+      "values": [
+        "2013",
+        "2012",
+        "1902",
+        "1966"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Castle Bravo",
+      "values": [
+        "1954",
+        "2005",
+        "1883",
+        "1960"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bouře Kyrill",
+      "values": [
+        "1989",
+        "1919",
+        "1987",
+        "2007"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Love Parade",
+      "values": [
+        "1967",
+        "1917",
+        "2010",
+        "2015"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pinatubo",
+      "values": [
+        "1966",
+        "1881",
+        "1991",
+        "1984"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zhroucení budovy Rana Plaza",
+      "values": [
+        "2009",
+        "1933",
+        "2013",
+        "1883"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nedělinova katastrofa",
+      "values": [
+        "1960",
+        "1937",
+        "1986",
+        "2011"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

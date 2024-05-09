@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle etnické skupiny",
+  "questions": [
+    {
+      "key": "Slováci",
+      "values": [
+        "Nigérie",
+        "Etiopie",
+        "Srbsko",
+        "Irák"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Šerpové",
+      "values": [
+        "Estonsko",
+        "Nigérie",
+        "Nepál",
+        "Keňa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bulhaři",
+      "values": [
+        "Nigérie",
+        "Srbsko",
+        "Írán",
+        "Izrael"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kalmykové",
+      "values": [
+        "Irák",
+        "Pákistán",
+        "Ghana",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Guančové",
+      "values": [
+        "Ghana",
+        "Španělsko",
+        "Brazílie",
+        "Srí Lanka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Polynésané",
+      "values": [
+        "Indie",
+        "Rwanda",
+        "Pákistán",
+        "Austrálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Irští kočovníci",
+      "values": [
+        "Srbsko",
+        "Brazílie",
+        "Spojené království",
+        "Írán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Abchazové",
+      "values": [
+        "Polsko",
+        "Turecko",
+        "Nepál",
+        "Ghana"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ašantové",
+      "values": [
+        "Ghana",
+        "Estonsko",
+        "Srbsko",
+        "Izrael"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Amharové",
+      "values": [
+        "Jihoafrická republika",
+        "Maďarsko",
+        "Srí Lanka",
+        "Etiopie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

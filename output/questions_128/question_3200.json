@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] právníka?",
+  "questions": [
+    {
+      "key": "Maximilien Robespierre",
+      "values": [
+        "portugalského",
+        "francouzského",
+        "polského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Amal Clooney",
+      "values": [
+        "britského",
+        "brazilského",
+        "italského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Přibáň",
+      "values": [
+        "argentinského",
+        "českého",
+        "řeckého",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František August Brauner",
+      "values": [
+        "českého",
+        "slovinského",
+        "maďarského",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "László Sólyom",
+      "values": [
+        "řeckého",
+        "maďarského",
+        "lotyšského",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tomáš Němeček",
+      "values": [
+        "britského",
+        "německého",
+        "českého",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ladislav Quis",
+      "values": [
+        "českého",
+        "chorvatského",
+        "slovenského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gustav Radbruch",
+      "values": [
+        "německého",
+        "rakouského",
+        "ukrajinského",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sargent Shriver",
+      "values": [
+        "brazilského",
+        "litevského",
+        "amerického",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bryan Hartnell",
+      "values": [
+        "amerického",
+        "řeckého",
+        "ruského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] inženýra?",
+  "questions": [
+    {
+      "key": "Andrej Kiska",
+      "values": [
+        "amerického",
+        "rumunského",
+        "slovenského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Pavel",
+      "values": [
+        "německého",
+        "egyptského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "George Westinghouse",
+      "values": [
+        "ruského",
+        "švédského",
+        "rumunského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimír List",
+      "values": [
+        "rakouského",
+        "švýcarského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Virgil Ivan Grissom",
+      "values": [
+        "ruského",
+        "amerického",
+        "rumunského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Cooper",
+      "values": [
+        "švýcarského",
+        "amerického",
+        "ruského",
+        "egyptského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Guillaume Henri Dufour",
+      "values": [
+        "švýcarského",
+        "rakouského",
+        "švédského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zdeněk Kovář",
+      "values": [
+        "ruského",
+        "českého",
+        "švédského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Vincenc Diviš",
+      "values": [
+        "českého",
+        "rakouského",
+        "německého",
+        "egyptského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gene Kranz",
+      "values": [
+        "amerického",
+        "německého",
+        "egyptského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

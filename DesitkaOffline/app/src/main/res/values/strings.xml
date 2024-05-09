@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Desitka</string>
+    <string name="title_picture">title picture</string>
+    <string name="single_player">Hrát sám</string>
+    <string name="play_with_friends">Hrát s přáteli</string>
+    <string name="title">Desítka</string>
+    <string name="play_game">Zahájit hru</string>
+    <string name="enter_player_name">Jméno hráče</string>
+    <string name="player_count">Počet hráčů:</string>
+    <string name="player_count2">2</string>
+    <string name="player_count3">3</string>
+    <string name="player_count4">4</string>
+    <string name="player_count5">5</string>
+    <string name="empty_names_error">Jméno hráče nesmí být prázdné</string>
+    <string name="duplicate_names_error">Jména hráčů nesmí být stejná</string>
+    <string name="ok">OK</string>
+    <string name="round_start">%1$d. kolo</string>
+    <string name="player_on_move">Na tahu je %1$s</string>
+    <string name="ranking">Skóre</string>
+    <string name="play_again">Hrát znovu</string>
+    <string name="end_game">Ukončit</string>
+    <string name="pass_question">Pasovat</string>
+    <string name="question_mark">\?</string>
+    <string name="players_in_round">%1$d/%2$d</string>
+    <string name="correct_answer">%1$s získává bod</string>
+    <string name="wrong_answer">%1$s vypadává ze hry</string>
+    <string name="player_passes">%1$s pasuje</string>
+    <string name="game_starts">Hra začíná</string>
+    <string name="game_start">Hra začíná</string>
+    <string name="end_browsing">Ukončit</string>
+    <string name="new_question">Jiná otázka</string>
+    <string name="move_back">Zpět</string>
+    <string name="settings">Nastavení</string>
+</resources>

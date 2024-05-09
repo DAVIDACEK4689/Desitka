@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte kontinent podle fauny",
+  "questions": [
+    {
+      "key": "Panda velká",
+      "values": [
+        "Asie",
+        "Střední Amerika",
+        "Severní Amerika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Orangutan",
+      "values": [
+        "Asie",
+        "Střední Amerika",
+        "Severní Amerika",
+        "Antarktida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cikáda sedmnáctiletá",
+      "values": [
+        "Afrika",
+        "Evropa",
+        "Severní Amerika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Orangutan bornejský",
+      "values": [
+        "Severní Amerika",
+        "Asie",
+        "Jižní Amerika",
+        "Antarktida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Morče",
+      "values": [
+        "Afrika",
+        "Antarktida",
+        "Jižní Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lvíček zlatý",
+      "values": [
+        "Afrika",
+        "Střední Amerika",
+        "Severní Amerika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Skákavka černá",
+      "values": [
+        "Jižní Amerika",
+        "Severní Amerika",
+        "Evropa",
+        "Střední Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Levhart jávský",
+      "values": [
+        "Asie",
+        "Severní Amerika",
+        "Antarktida",
+        "Afrika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Uakari šarlatolící",
+      "values": [
+        "Evropa",
+        "Asie",
+        "Afrika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Polistes gigas",
+      "values": [
+        "Severní Amerika",
+        "Asie",
+        "Jižní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

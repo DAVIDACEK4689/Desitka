@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Vladimír Šmicer",
+      "values": [
+        "islandského",
+        "českého",
+        "tureckého",
+        "uruguayského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andrij Ševčenko",
+      "values": [
+        "belgického",
+        "ukrajinského",
+        "portugalského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Fillo",
+      "values": [
+        "českého",
+        "tožského",
+        "švédského",
+        "severoirského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David Alaba",
+      "values": [
+        "rakouského",
+        "albánského",
+        "amerického",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Srđan Plavšić",
+      "values": [
+        "dánského",
+        "srbského",
+        "anglického",
+        "islandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tomáš Wiesner",
+      "values": [
+        "českého",
+        "australského",
+        "uruguayského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Emmanuel Adebayor",
+      "values": [
+        "tožského",
+        "ekvádorského",
+        "kanadského",
+        "skotského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vavá",
+      "values": [
+        "belgického",
+        "brazilského",
+        "marockého",
+        "kostarického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Vertonghen",
+      "values": [
+        "severoirského",
+        "belgického",
+        "senegalského",
+        "egyptského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josip Iličić",
+      "values": [
+        "černohorského",
+        "slovinského",
+        "severoirského",
+        "velšského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

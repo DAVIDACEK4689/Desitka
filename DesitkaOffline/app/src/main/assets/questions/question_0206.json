@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Carbonara",
+      "values": [
+        "židovskou",
+        "italskou",
+        "středomořskou",
+        "balkánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pelmeně",
+      "values": [
+        "japonskou",
+        "ruskou",
+        "arménskou",
+        "mexickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Haggis",
+      "values": [
+        "skotskou",
+        "brazilskou",
+        "italskou",
+        "indickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Perkelt",
+      "values": [
+        "středomořskou",
+        "skotskou",
+        "švýcarskou",
+        "maďarskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Guanciale",
+      "values": [
+        "francouzskou",
+        "arménskou",
+        "švýcarskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ouzo",
+      "values": [
+        "řeckou",
+        "italskou",
+        "středomořskou",
+        "skotskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bešamelová omáčka",
+      "values": [
+        "francouzskou",
+        "maďarskou",
+        "brazilskou",
+        "korejskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hákarl",
+      "values": [
+        "španělskou",
+        "vietnamskou",
+        "islandskou",
+        "anglickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vepřo knedlo zelo",
+      "values": [
+        "anglickou",
+        "francouzskou",
+        "českou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Turecká káva",
+      "values": [
+        "švýcarskou",
+        "mexickou",
+        "středomořskou",
+        "slovenskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

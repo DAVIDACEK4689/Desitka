@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] špióna?",
+  "questions": [
+    {
+      "key": "Josef Mašín",
+      "values": [
+        "ruského",
+        "izraelského",
+        "francouzského",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Václav Morávek",
+      "values": [
+        "československého",
+        "francouzského",
+        "sovětského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mata Hari",
+      "values": [
+        "francouzského",
+        "sovětského",
+        "ruského",
+        "československého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavel Minařík",
+      "values": [
+        "francouzského",
+        "sovětského",
+        "izraelského",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Balabán",
+      "values": [
+        "izraelského",
+        "sovětského",
+        "československého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eli Kohen",
+      "values": [
+        "francouzského",
+        "ruského",
+        "sovětského",
+        "izraelského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Paul Thümmel",
+      "values": [
+        "izraelského",
+        "československého",
+        "francouzského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josephine Bakerová",
+      "values": [
+        "ruského",
+        "francouzského",
+        "československého",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Köcher",
+      "values": [
+        "československého",
+        "francouzského",
+        "sovětského",
+        "izraelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sergej Skripal",
+      "values": [
+        "československého",
+        "francouzského",
+        "ruského",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

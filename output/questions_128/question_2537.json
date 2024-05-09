@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "David Beckham",
+      "values": [
+        "sovětského",
+        "arménského",
+        "chorvatského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Xavi",
+      "values": [
+        "gambijského",
+        "španělského",
+        "ukrajinského",
+        "ghanského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "James Rodríguez",
+      "values": [
+        "slovenského",
+        "islandského",
+        "kolumbijského",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Álvaro Morata",
+      "values": [
+        "anglického",
+        "španělského",
+        "švýcarského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Patrick Kluivert",
+      "values": [
+        "ghanského",
+        "senegalského",
+        "nizozemského",
+        "albánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Wout Weghorst",
+      "values": [
+        "nizozemského",
+        "francouzského",
+        "peruánského",
+        "tožského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Henrich Mchitarjan",
+      "values": [
+        "rumunského",
+        "arménského",
+        "ruského",
+        "černohorského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dominik Holec",
+      "values": [
+        "australského",
+        "islandského",
+        "slovenského",
+        "československého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ryan Gravenberch",
+      "values": [
+        "nizozemského",
+        "irského",
+        "rakouského",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Douglas Costa",
+      "values": [
+        "brazilského",
+        "československého",
+        "norského",
+        "německého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

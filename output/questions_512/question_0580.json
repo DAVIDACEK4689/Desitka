@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] ateistu?",
+  "questions": [
+    {
+      "key": "Vladimir Iljič Lenin",
+      "values": [
+        "kubánského",
+        "ruského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nicolae Ceaușescu",
+      "values": [
+        "mexického",
+        "rumunského",
+        "švýcarského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Slobodan Milošević",
+      "values": [
+        "indického",
+        "švýcarského",
+        "albánského",
+        "srbského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Denis Diderot",
+      "values": [
+        "italského",
+        "rumunského",
+        "finského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Zahradil",
+      "values": [
+        "chorvatského",
+        "slovinského",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Elizabeth Olsen",
+      "values": [
+        "amerického",
+        "nizozemského",
+        "židovského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Theodor Herzl",
+      "values": [
+        "židovského",
+        "bulharského",
+        "indického",
+        "finského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Walter Ulbricht",
+      "values": [
+        "nizozemského",
+        "britského",
+        "arménského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hector Berlioz",
+      "values": [
+        "židovského",
+        "francouzského",
+        "indického",
+        "gruzínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michail Alexandrovič Bakunin",
+      "values": [
+        "polského",
+        "ruského",
+        "skotského",
+        "albánského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

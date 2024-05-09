@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] ateistu?",
+  "questions": [
+    {
+      "key": "Josif Vissarionovič Stalin",
+      "values": [
+        "ruského",
+        "českého",
+        "islandského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Keanu Reeves",
+      "values": [
+        "kanadského",
+        "islandského",
+        "albánského",
+        "židovského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cillian Murphy",
+      "values": [
+        "irského",
+        "německého",
+        "kanadského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Roman Polański",
+      "values": [
+        "italského",
+        "kanadského",
+        "francouzského",
+        "židovského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Slobodan Milošević",
+      "values": [
+        "britského",
+        "srbského",
+        "gruzínského",
+        "běloruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Warren Buffett",
+      "values": [
+        "kubánského",
+        "britského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Samuel Beckett",
+      "values": [
+        "britského",
+        "kanadského",
+        "irského",
+        "běloruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marcello Mastroianni",
+      "values": [
+        "českého",
+        "italského",
+        "mexického",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stellan Skarsgård",
+      "values": [
+        "slovinského",
+        "britského",
+        "švédského",
+        "albánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Richard Strauss",
+      "values": [
+        "rumunského",
+        "albánského",
+        "německého",
+        "britského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

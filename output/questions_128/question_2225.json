@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle fotbalové události",
+  "questions": [
+    {
+      "key": "Mistrovství světa ve fotbale 2018",
+      "values": [
+        "Itálie",
+        "Rusko",
+        "Belgie",
+        "Francie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mistrovství světa ve fotbale 1998",
+      "values": [
+        "Brazílie",
+        "Slovensko",
+        "Francie",
+        "Belgie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství světa ve fotbale 1986",
+      "values": [
+        "Slovensko",
+        "Mexiko",
+        "Švédsko",
+        "Francie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mistrovství Evropy ve fotbale hráčů do 21 let 2002",
+      "values": [
+        "Portugalsko",
+        "Rusko",
+        "Švýcarsko",
+        "Belgie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství světa ve fotbale 1970",
+      "values": [
+        "Švýcarsko",
+        "Slovensko",
+        "Mexiko",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství světa ve fotbale 1938",
+      "values": [
+        "Portugalsko",
+        "Francie",
+        "Belgie",
+        "Uruguay"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mistrovství Evropy ve fotbale hráčů do 21 let 2015",
+      "values": [
+        "Česko",
+        "Švédsko",
+        "Rusko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Superpohár UEFA 2013",
+      "values": [
+        "Belgie",
+        "Brazílie",
+        "Portugalsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mistrovství Evropy ve fotbale hráčů do 21 let 2025",
+      "values": [
+        "Slovensko",
+        "Rusko",
+        "Polsko",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fotbal na Letních olympijských hrách 1920",
+      "values": [
+        "Argentina",
+        "Belgie",
+        "Německo",
+        "Nizozemsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

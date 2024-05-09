@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Romelu Lukaku",
+      "values": [
+        "belgického",
+        "českého",
+        "kolumbijského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mikel Arteta",
+      "values": [
+        "španělského",
+        "nigerijského",
+        "slovinského",
+        "baskického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Phil Foden",
+      "values": [
+        "norského",
+        "irského",
+        "anglického",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Romário",
+      "values": [
+        "brazilského",
+        "francouzského",
+        "irského",
+        "ghanského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Wojciech Szczęsny",
+      "values": [
+        "belgického",
+        "polského",
+        "ruského",
+        "baskického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rodri",
+      "values": [
+        "španělského",
+        "srbského",
+        "brazilského",
+        "kolumbijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Conrad Wallem",
+      "values": [
+        "srbského",
+        "ruského",
+        "norského",
+        "uruguayského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jérémy Doku",
+      "values": [
+        "českého",
+        "belgického",
+        "dánského",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kryštof Daněk",
+      "values": [
+        "nizozemského",
+        "ruského",
+        "chilského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Luca Toni",
+      "values": [
+        "amerického",
+        "argentinského",
+        "mongolského",
+        "italského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

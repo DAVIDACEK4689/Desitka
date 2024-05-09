@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Ariana Grande",
+      "values": [
+        "ruskou",
+        "bermudskou",
+        "americkou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ester Geislerová",
+      "values": [
+        "kanadskou",
+        "českou",
+        "francouzskou",
+        "bermudskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Geri Halliwell",
+      "values": [
+        "britskou",
+        "tureckou",
+        "čínskou",
+        "brazilskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Caitriona Balfe",
+      "values": [
+        "italskou",
+        "irskou",
+        "norskou",
+        "slovenskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Morena Baccarin",
+      "values": [
+        "bulharskou",
+        "mexickou",
+        "brazilskou",
+        "irskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bindi Sue Irwin",
+      "values": [
+        "brazilskou",
+        "novozélandskou",
+        "australskou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Elle Macphersonová",
+      "values": [
+        "českou",
+        "francouzskou",
+        "australskou",
+        "íránskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaime Bergmanová",
+      "values": [
+        "australskou",
+        "americkou",
+        "uruguayskou",
+        "čínskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Holly Madison",
+      "values": [
+        "indickou",
+        "irskou",
+        "novozélandskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Paola Cortellesiová",
+      "values": [
+        "italskou",
+        "španělskou",
+        "srbskou",
+        "českou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

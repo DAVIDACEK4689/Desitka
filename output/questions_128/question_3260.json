@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte australského režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Aquaman a ztracené království",
+      "values": [
+        "Peter Weir",
+        "George Miller",
+        "James Wan",
+        "Stephan Elliott"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Statečné srdce",
+      "values": [
+        "George Miller",
+        "James Wan",
+        "Bruce Beresford",
+        "Mel Gibson"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "V zajetí démonů",
+      "values": [
+        "Stephan Elliott",
+        "Peter Weir",
+        "George Miller",
+        "James Wan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rychle a zběsile 7",
+      "values": [
+        "Peter Weir",
+        "Mel Gibson",
+        "James Wan",
+        "George Miller"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Šílený Max",
+      "values": [
+        "George Miller",
+        "Stephan Elliott",
+        "Bruce Beresford",
+        "Mel Gibson"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Umučení Krista",
+      "values": [
+        "James Wan",
+        "Peter Weir",
+        "Stephan Elliott",
+        "Mel Gibson"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Insidious",
+      "values": [
+        "Mel Gibson",
+        "Peter Weir",
+        "James Wan",
+        "Bruce Beresford"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Společnost mrtvých básníků",
+      "values": [
+        "Mel Gibson",
+        "Stephan Elliott",
+        "George Miller",
+        "Peter Weir"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Truman Show",
+      "values": [
+        "George Miller",
+        "Peter Weir",
+        "Bruce Beresford",
+        "Stephan Elliott"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Apocalypto",
+      "values": [
+        "Stephan Elliott",
+        "George Miller",
+        "Mel Gibson",
+        "Bruce Beresford"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

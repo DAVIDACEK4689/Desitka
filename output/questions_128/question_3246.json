@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] firmu?",
+  "questions": [
+    {
+      "key": "Tesco",
+      "values": [
+        "britskou",
+        "australskou",
+        "japonskou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "PRIM",
+      "values": [
+        "ruskou",
+        "maďarskou",
+        "španělskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "3M",
+      "values": [
+        "americkou",
+        "saúdskoarabskou",
+        "francouzskou",
+        "kanadskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Costa Coffee",
+      "values": [
+        "indickou",
+        "československou",
+        "britskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "CEFC China Energy Company Limited",
+      "values": [
+        "polskou",
+        "čínskou",
+        "švédskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Považské strojárne",
+      "values": [
+        "vietnamskou",
+        "slovenskou",
+        "maďarskou",
+        "izraelskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sony Pictures Animation",
+      "values": [
+        "českou",
+        "americkou",
+        "italskou",
+        "kanadskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Studio Kvartal 95",
+      "values": [
+        "ukrajinskou",
+        "italskou",
+        "finskou",
+        "irskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Texaco",
+      "values": [
+        "australskou",
+        "americkou",
+        "slovinskou",
+        "belgickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Polaroid Corporation",
+      "values": [
+        "dánskou",
+        "čínskou",
+        "irskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

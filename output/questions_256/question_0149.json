@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Voltaire",
+      "values": [
+        "perského",
+        "belgického",
+        "kanadského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oto Klempíř",
+      "values": [
+        "portugalského",
+        "českého",
+        "anglického",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karl Kraus",
+      "values": [
+        "anglického",
+        "perského",
+        "rakouského",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aldous Huxley",
+      "values": [
+        "německého",
+        "anglického",
+        "ukrajinského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gertrude Steinová",
+      "values": [
+        "indického",
+        "perského",
+        "rumunského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Emanuel Frynta",
+      "values": [
+        "českého",
+        "slovenského",
+        "irského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Boris Filan",
+      "values": [
+        "skotského",
+        "slovenského",
+        "portugalského",
+        "anglického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Kopta",
+      "values": [
+        "ukrajinského",
+        "českého",
+        "vietnamského",
+        "perského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dawid Jung",
+      "values": [
+        "portugalského",
+        "vietnamského",
+        "polského",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Branwell Brontë",
+      "values": [
+        "čínského",
+        "ruského",
+        "anglického",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

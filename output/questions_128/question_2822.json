@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filozofa?",
+  "questions": [
+    {
+      "key": "Pythagoras",
+      "values": [
+        "francouzského",
+        "řeckého",
+        "kanadského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Daniel Adam z Veleslavína",
+      "values": [
+        "českého",
+        "sovětského",
+        "finského",
+        "indického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michail Alexandrovič Bakunin",
+      "values": [
+        "byzantského",
+        "maďarského",
+        "ruského",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Ludvík Fischer",
+      "values": [
+        "britského",
+        "českého",
+        "rakouského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Roger Scruton",
+      "values": [
+        "španělského",
+        "slovinského",
+        "britského",
+        "bulharského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "José Ortega y Gasset",
+      "values": [
+        "slovenského",
+        "italského",
+        "ukrajinského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alcuin",
+      "values": [
+        "amerického",
+        "brazilského",
+        "britského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nicolas de Condorcet",
+      "values": [
+        "byzantského",
+        "francouzského",
+        "perského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Heinrich Cornelius Agrippa von Nettesheim",
+      "values": [
+        "nizozemského",
+        "maďarského",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nicolas Malebranche",
+      "values": [
+        "německého",
+        "italského",
+        "kanadského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

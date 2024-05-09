@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte město podle české kultury",
+  "questions": [
+    {
+      "key": "Samsonova kašna",
+      "values": [
+        "Valašské Meziříčí",
+        "České Budějovice",
+        "Rokycany",
+        "Břeclav"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Naučná stezka Peklo",
+      "values": [
+        "Most",
+        "Česká Lípa",
+        "Roudnice nad Labem",
+        "Polička"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Artěl",
+      "values": [
+        "Turnov",
+        "Praha",
+        "Beroun",
+        "Velké Meziříčí"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "CrossCafe",
+      "values": [
+        "Plzeň",
+        "Červený Kostelec",
+        "Bechyně",
+        "Děčín"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kam motýli nelétají",
+      "values": [
+        "Nepomuk",
+        "Jablonec nad Nisou",
+        "Olomouc",
+        "Kadaň"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Historická výstavní budova Slezského zemského muzea",
+      "values": [
+        "Beroun",
+        "Opava",
+        "Břeclav",
+        "Český Krumlov"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fléda",
+      "values": [
+        "Kadaň",
+        "Mikulov",
+        "Brno",
+        "Pacov"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Naučná stezka Bažantnice",
+      "values": [
+        "České Budějovice",
+        "Hustopeče",
+        "Benešov",
+        "Třebíč"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lednice v Krňovicích",
+      "values": [
+        "Třebechovice pod Orebem",
+        "Teplice",
+        "Boskovice",
+        "Bruntál"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bertiny lázně",
+      "values": [
+        "Chrastava",
+        "Třeboň",
+        "Chlumec nad Cidlinou",
+        "Svitavy"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

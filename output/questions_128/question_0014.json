@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte autora podle stavby",
+  "questions": [
+    {
+      "key": "Žižkovský vysílač",
+      "values": [
+        "Josef Zítek",
+        "Kamil Roškot",
+        "Karel Prager",
+        "Václav Aulický"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Prozatímní divadlo",
+      "values": [
+        "Jan Kaplický",
+        "Josef Gočár",
+        "Vojtěch Ignác Ullmann",
+        "František Antonín Grimm"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Viadukt Millau",
+      "values": [
+        "Antonín Balšánek",
+        "Norman Foster",
+        "Richard Klenka",
+        "František Antonín Grimm"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Planetárium Praha",
+      "values": [
+        "Hanuš Zápal",
+        "Jaroslav Fragner",
+        "Richard Klenka",
+        "Le Corbusier"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Transbordér pod Hamrštejnem",
+      "values": [
+        "Martin Rajniš",
+        "František Lýdie Gahura",
+        "Max Spielmann",
+        "Richard Klenka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sbor kněze Ambrože",
+      "values": [
+        "Josef Gočár",
+        "Karel Prager",
+        "Richard Klenka",
+        "Jan Chládek"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kubistický kiosek ve Vrchlického sadech",
+      "values": [
+        "Pavel Janák",
+        "Zaha Hadid",
+        "Zacharias Hoffmann",
+        "Věra Machoninová"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Duslova vila v Berouně",
+      "values": [
+        "Antonín Wiehl",
+        "Oscar Niemeyer",
+        "Václav Aulický",
+        "Le Corbusier"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Podlipanské muzeum",
+      "values": [
+        "Antonín Balšánek",
+        "Emil Králíček",
+        "Richard Klenka",
+        "Adolf Loos"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dům U Dvou hrdliček",
+      "values": [
+        "Oscar Niemeyer",
+        "Stanislav Hubička",
+        "Victor Horta",
+        "Kilián Ignác Dientzenhofer"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

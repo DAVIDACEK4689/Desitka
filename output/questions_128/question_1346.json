@@ -1,0 +1,105 @@
+{
+  "text": "Určete povolání podle fiktivní postavy",
+  "questions": [
+    {
+      "key": "Aragorn",
+      "values": [
+        "herec",
+        "válečník",
+        "reportér",
+        "zpěvák"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hektór",
+      "values": [
+        "archeolog",
+        "chůva",
+        "kněz",
+        "válečník"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Spock",
+      "values": [
+        "chůva",
+        "zločinec",
+        "politik",
+        "vědec"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tintin",
+      "values": [
+        "zločinec",
+        "psychiatr",
+        "reportér",
+        "umělec"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sedmá z devíti",
+      "values": [
+        "zločinec",
+        "kněz",
+        "spisovatel",
+        "válečník"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Komisař Moulin",
+      "values": [
+        "policista",
+        "vynálezce",
+        "zpěvák",
+        "psychiatr"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Túrin",
+      "values": [
+        "spisovatel",
+        "námořník",
+        "válečník",
+        "zpěvák"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kent Brockman",
+      "values": [
+        "umělec",
+        "vladař",
+        "vědec",
+        "zpěvák"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fredericco Corleone",
+      "values": [
+        "sportovec",
+        "chůva",
+        "mág",
+        "mafián"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tlustý Tony",
+      "values": [
+        "detektiv",
+        "vědec",
+        "letec",
+        "mafián"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

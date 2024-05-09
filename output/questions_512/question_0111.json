@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Miloš Forman",
+      "values": [
+        "nizozemského",
+        "srbského",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Kraus",
+      "values": [
+        "malajsijského",
+        "tureckého",
+        "českého",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michal Isteník",
+      "values": [
+        "italského",
+        "českého",
+        "slovenského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dolph Lundgren",
+      "values": [
+        "ruského",
+        "tureckého",
+        "švédského",
+        "čínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Václav Knop",
+      "values": [
+        "českého",
+        "guatemalského",
+        "kanadského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paul Hogan",
+      "values": [
+        "australského",
+        "jihoafrického",
+        "slovenského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kiefer Sutherland",
+      "values": [
+        "kanadského",
+        "britského",
+        "německého",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jeff Bridges",
+      "values": [
+        "německého",
+        "malajsijského",
+        "amerického",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eugen Jegorov",
+      "values": [
+        "českého",
+        "sovětského",
+        "italského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vlasta Korec",
+      "values": [
+        "norského",
+        "českého",
+        "irského",
+        "venezuelského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

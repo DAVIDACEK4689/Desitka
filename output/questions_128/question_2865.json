@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Kevin De Bruyne",
+      "values": [
+        "španělského",
+        "portugalského",
+        "belgického",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Václav Svěrkoš",
+      "values": [
+        "albánského",
+        "paraguayského",
+        "nigerijského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Antonio Conte",
+      "values": [
+        "ghanského",
+        "anglického",
+        "československého",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mason Mount",
+      "values": [
+        "belgického",
+        "anglického",
+        "senegalského",
+        "peruánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paolo Rossi",
+      "values": [
+        "německého",
+        "bulharského",
+        "slovenského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pepe Reina",
+      "values": [
+        "španělského",
+        "francouzského",
+        "ghanského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ferdinand Keller",
+      "values": [
+        "velšského",
+        "německého",
+        "anglického",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Salvatore Schillaci",
+      "values": [
+        "irského",
+        "rakouského",
+        "italského",
+        "nigerijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michal Ordoš",
+      "values": [
+        "skotského",
+        "německého",
+        "českého",
+        "alžírského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bekim Balaj",
+      "values": [
+        "belgického",
+        "kamerunského",
+        "peruánského",
+        "albánského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

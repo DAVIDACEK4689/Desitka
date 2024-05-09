@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Ryan Gosling",
+      "values": [
+        "italského",
+        "nizozemského",
+        "brazilského",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rudolf Hrušínský nejstarší",
+      "values": [
+        "maďarského",
+        "irského",
+        "kanadského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Svatopluk Beneš",
+      "values": [
+        "jihoafrického",
+        "českého",
+        "francouzského",
+        "islandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jamel Debbouze",
+      "values": [
+        "izraelského",
+        "tureckého",
+        "amerického",
+        "marockého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ladislav Boháč",
+      "values": [
+        "ukrajinského",
+        "německého",
+        "českého",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Wes Anderson",
+      "values": [
+        "jamajského",
+        "amerického",
+        "mexického",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Milan Bahúl",
+      "values": [
+        "slovenského",
+        "tureckého",
+        "indického",
+        "izraelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rolf Hoppe",
+      "values": [
+        "německého",
+        "maďarského",
+        "ukrajinského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Hofman",
+      "values": [
+        "francouzského",
+        "českého",
+        "rakouského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Misha Collins",
+      "values": [
+        "japonského",
+        "ruského",
+        "izraelského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

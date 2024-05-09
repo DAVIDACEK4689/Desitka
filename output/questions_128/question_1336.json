@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle jazyka",
+  "questions": [
+    {
+      "key": "Portugalština",
+      "values": [
+        "Lotyšsko",
+        "Papua Nová Guinea",
+        "Francie",
+        "Brazílie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kašubština",
+      "values": [
+        "Jordánsko",
+        "Polsko",
+        "Dánsko",
+        "Wales"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bretonština",
+      "values": [
+        "Francie",
+        "Papua Nová Guinea",
+        "Bolívie",
+        "Surinam"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Krymská tatarština",
+      "values": [
+        "Papua Nová Guinea",
+        "Vatikán",
+        "Ukrajina",
+        "Polsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Telugština",
+      "values": [
+        "Švýcarsko",
+        "Indie",
+        "Botswana",
+        "Madagaskar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Barmština",
+      "values": [
+        "Myanmar",
+        "Bolívie",
+        "Madagaskar",
+        "Palau"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sindhština",
+      "values": [
+        "Dánsko",
+        "Polsko",
+        "Irsko",
+        "Pákistán"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Urijština",
+      "values": [
+        "Gruzie",
+        "Nizozemsko",
+        "Indie",
+        "Irsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Udmurtština",
+      "values": [
+        "Bolívie",
+        "Papua Nová Guinea",
+        "Česko",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Prákrt",
+      "values": [
+        "Indie",
+        "Dánsko",
+        "Mongolsko",
+        "Irsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

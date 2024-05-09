@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Winston Churchill",
+      "values": [
+        "britského",
+        "ukrajinského",
+        "rakouského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Poláček",
+      "values": [
+        "rakouského",
+        "irského",
+        "ukrajinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Magda Vášáryová",
+      "values": [
+        "norského",
+        "německého",
+        "slovenského",
+        "srbského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anton Pavlovič Čechov",
+      "values": [
+        "rakouského",
+        "britského",
+        "ruského",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Reinhold Messner",
+      "values": [
+        "kolumbijského",
+        "japonského",
+        "italského",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jack London",
+      "values": [
+        "srbského",
+        "českého",
+        "amerického",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ho Či Min",
+      "values": [
+        "vietnamského",
+        "novozélandského",
+        "německého",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Sabina",
+      "values": [
+        "švýcarského",
+        "českého",
+        "chilského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaroslav Rudiš",
+      "values": [
+        "brazilského",
+        "amerického",
+        "novozélandského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Taras Ševčenko",
+      "values": [
+        "novozélandského",
+        "kanadského",
+        "ukrajinského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

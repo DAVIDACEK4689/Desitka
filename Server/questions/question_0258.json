@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Petr Janda",
+      "values": [
+        "polského",
+        "českého",
+        "slovenského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Leoš Janáček",
+      "values": [
+        "britského",
+        "českého",
+        "kanadského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Antonio Vivaldi",
+      "values": [
+        "slovenského",
+        "rakouského",
+        "polského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fryderyk Chopin",
+      "values": [
+        "německého",
+        "ruského",
+        "maďarského",
+        "polského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Joseph Haydn",
+      "values": [
+        "rakouského",
+        "maďarského",
+        "slovenského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ferenc Liszt",
+      "values": [
+        "maďarského",
+        "britského",
+        "rakouského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miro Šmajda",
+      "values": [
+        "maďarského",
+        "slovenského",
+        "irského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Radim Hladík",
+      "values": [
+        "kanadského",
+        "německého",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sean Lennon",
+      "values": [
+        "amerického",
+        "maďarského",
+        "českého",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Claude Debussy",
+      "values": [
+        "italského",
+        "irského",
+        "francouzského",
+        "britského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

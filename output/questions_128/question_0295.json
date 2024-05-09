@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle prezidenta",
+  "questions": [
+    {
+      "key": "Boris Jelcin",
+      "values": [
+        "Abcházie",
+        "Kypr",
+        "Mongolsko",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Wojciech Jaruzelski",
+      "values": [
+        "Kazachstán",
+        "Jugoslávie",
+        "Polsko",
+        "Paraguay"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eduard Ševardnadze",
+      "values": [
+        "Slovensko",
+        "Kazachstán",
+        "Gruzie",
+        "Burkina Faso"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Edgars Rinkēvičs",
+      "values": [
+        "Jemen",
+        "Bulharsko",
+        "Madagaskar",
+        "Lotyšsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Egils Levits",
+      "values": [
+        "Jugoslávie",
+        "Kyrgyzstán",
+        "Lotyšsko",
+        "Namibie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jacobo Árbenz Guzmán",
+      "values": [
+        "Guatemala",
+        "Kazachstán",
+        "Salvador",
+        "Irsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ahmed Ben Bella",
+      "values": [
+        "Česká republika",
+        "Alžírsko",
+        "Paraguay",
+        "Jugoslávie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pratibha Pátilová",
+      "values": [
+        "Afghánistán",
+        "Uzbekistán",
+        "Indie",
+        "Albánie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "László Kövér",
+      "values": [
+        "Maďarsko",
+        "Československo",
+        "Tanzanie",
+        "Gruzie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sidónio Pais",
+      "values": [
+        "Rwanda",
+        "Portugalsko",
+        "Polsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

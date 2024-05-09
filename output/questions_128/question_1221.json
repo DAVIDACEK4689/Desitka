@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] kulturu?",
+  "questions": [
+    {
+      "key": "Namasté",
+      "values": [
+        "rakouskou",
+        "vatikánskou",
+        "italskou",
+        "indickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Whistlerova matka",
+      "values": [
+        "izraelskou",
+        "americkou",
+        "egyptskou",
+        "ázerbájdžánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pařížský syndrom",
+      "values": [
+        "jihokorejskou",
+        "japonskou",
+        "íránskou",
+        "rakouskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Schlaraffia",
+      "values": [
+        "britskou",
+        "německou",
+        "mongolskou",
+        "havajskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hanami",
+      "values": [
+        "italskou",
+        "americkou",
+        "japonskou",
+        "vatikánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Riverdance",
+      "values": [
+        "nizozemskou",
+        "novozélandskou",
+        "irskou",
+        "rakouskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Daruma",
+      "values": [
+        "japonskou",
+        "jihokorejskou",
+        "běloruskou",
+        "vietnamskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ensó",
+      "values": [
+        "francouzskou",
+        "japonskou",
+        "německou",
+        "kubánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kokedama",
+      "values": [
+        "polskou",
+        "japonskou",
+        "tureckou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Šáhnáme",
+      "values": [
+        "mongolskou",
+        "irskou",
+        "švédskou",
+        "íránskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

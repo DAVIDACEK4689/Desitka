@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] generála?",
+  "questions": [
+    {
+      "key": "Charles de Gaulle",
+      "values": [
+        "chorvatského",
+        "československého",
+        "finského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Leslie Groves",
+      "values": [
+        "slovenského",
+        "britského",
+        "amerického",
+        "argentinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ion Antonescu",
+      "values": [
+        "rumunského",
+        "mexického",
+        "japonského",
+        "izraelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexander Hess",
+      "values": [
+        "izraelského",
+        "italského",
+        "argentinského",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alexej Alexandrovič Gubarev",
+      "values": [
+        "francouzského",
+        "českého",
+        "sovětského",
+        "búrského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Špork",
+      "values": [
+        "sovětského",
+        "australského",
+        "švédského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eduard Vorobjov",
+      "values": [
+        "italského",
+        "sovětského",
+        "francouzského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Leopoldo Galtieri",
+      "values": [
+        "ruského",
+        "italského",
+        "izraelského",
+        "argentinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alexandr Pavlovič Lapin",
+      "values": [
+        "amerického",
+        "ruského",
+        "ukrajinského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Imrich Andrejčák",
+      "values": [
+        "sovětského",
+        "českého",
+        "slovenského",
+        "izraelského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

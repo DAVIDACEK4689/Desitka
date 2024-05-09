@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] aktivistu?",
+  "questions": [
+    {
+      "key": "Jana Zwyrtek Hamplová",
+      "values": [
+        "australského",
+        "českého",
+        "indického",
+        "palestinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Noam Chomsky",
+      "values": [
+        "francouzského",
+        "amerického",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Sheen",
+      "values": [
+        "ukrajinského",
+        "amerického",
+        "indického",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Černohorský",
+      "values": [
+        "francouzského",
+        "polského",
+        "českého",
+        "íránského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Šimon Žďárský",
+      "values": [
+        "palestinského",
+        "ukrajinského",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Václav Krása",
+      "values": [
+        "íránského",
+        "slovenského",
+        "australského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Christopher Hitchens",
+      "values": [
+        "italského",
+        "britského",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "David Ondráčka",
+      "values": [
+        "českého",
+        "britského",
+        "slovenského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Szymon Hołownia",
+      "values": [
+        "německého",
+        "polského",
+        "jihoafrického",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ondřej Giňa",
+      "values": [
+        "indického",
+        "českého",
+        "britského",
+        "íránského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

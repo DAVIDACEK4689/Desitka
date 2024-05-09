@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Španělská kuchyně",
+      "values": [
+        "tureckou",
+        "japonskou",
+        "středomořskou",
+        "gruzínskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vepřo knedlo zelo",
+      "values": [
+        "belgickou",
+        "norskou",
+        "japonskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Španělský ptáček",
+      "values": [
+        "italskou",
+        "vietnamskou",
+        "belgickou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Almdudler",
+      "values": [
+        "rakouskou",
+        "britskou",
+        "anglickou",
+        "chorvatskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jíška",
+      "values": [
+        "tureckou",
+        "perskou",
+        "thajskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Natto",
+      "values": [
+        "korejskou",
+        "japonskou",
+        "arménskou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Čurčchela",
+      "values": [
+        "australskou",
+        "islandskou",
+        "gruzínskou",
+        "belgickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Calzone",
+      "values": [
+        "norskou",
+        "belgickou",
+        "italskou",
+        "německou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lomnické suchary",
+      "values": [
+        "irskou",
+        "islandskou",
+        "českou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alžírská kuchyně",
+      "values": [
+        "balkánskou",
+        "arabskou",
+        "rakouskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

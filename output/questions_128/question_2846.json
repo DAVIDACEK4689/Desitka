@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Bělehrad",
+      "values": [
+        "Dunaj",
+        "Váha",
+        "Vltava",
+        "Sázava"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hronov",
+      "values": [
+        "Emže",
+        "Eufrat",
+        "Loira",
+        "Metuje"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Libochovice",
+      "values": [
+        "Temže",
+        "Ohře",
+        "Spréva",
+        "Otava"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Weitra",
+      "values": [
+        "Sázava",
+        "Otava",
+        "Sebnice",
+        "Lužnice"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Šťáhlavy",
+      "values": [
+        "Úslava",
+        "Tis",
+        "Dunaj",
+        "Sázava"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vysoké Veselí",
+      "values": [
+        "Cidlina",
+        "Berounka",
+        "Loira",
+        "Něva"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Úholičky",
+      "values": [
+        "Volha",
+        "Vltava",
+        "Don",
+        "Chrudimka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Obrovo hradiště",
+      "values": [
+        "Lužnice",
+        "Úslava",
+        "Hornád",
+        "Cidlina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Courbevoie",
+      "values": [
+        "Sázava",
+        "Polenz",
+        "Úslava",
+        "Seina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stará Břeclav",
+      "values": [
+        "Hornád",
+        "Dyje",
+        "Úslava",
+        "Eufrat"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

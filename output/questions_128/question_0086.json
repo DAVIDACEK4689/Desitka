@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [obor] ekonomii?",
+  "questions": [
+    {
+      "key": "Udržitelný rozvoj",
+      "values": [
+        "heterodoxní",
+        "politickou",
+        "informační",
+        "environmentální"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Externalita",
+      "values": [
+        "informační",
+        "politickou",
+        "environmentální",
+        "heterodoxní"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nerůst",
+      "values": [
+        "informační",
+        "politickou",
+        "environmentální",
+        "heterodoxní"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Přírodní zdroj",
+      "values": [
+        "politickou",
+        "heterodoxní",
+        "environmentální",
+        "informační"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Teorie veřejné volby",
+      "values": [
+        "informační",
+        "politickou",
+        "heterodoxní",
+        "environmentální"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Coasův teorém",
+      "values": [
+        "heterodoxní",
+        "informační",
+        "environmentální",
+        "politickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sdílená ekonomika",
+      "values": [
+        "heterodoxní",
+        "politickou",
+        "informační",
+        "environmentální"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marxistická ekonomie",
+      "values": [
+        "heterodoxní",
+        "politickou",
+        "environmentální",
+        "informační"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Udržitelná energie",
+      "values": [
+        "heterodoxní",
+        "politickou",
+        "environmentální",
+        "informační"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Participativní rozpočtování",
+      "values": [
+        "heterodoxní",
+        "politickou",
+        "environmentální",
+        "informační"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

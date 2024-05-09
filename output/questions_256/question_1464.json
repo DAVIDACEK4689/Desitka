@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Gianluigi Buffon",
+      "values": [
+        "japonského",
+        "italského",
+        "finského",
+        "skotského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ruud Gullit",
+      "values": [
+        "nizozemského",
+        "irského",
+        "ekvádorského",
+        "marockého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jozef Chovanec",
+      "values": [
+        "amerického",
+        "anglického",
+        "československého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "James Rodríguez",
+      "values": [
+        "senegalského",
+        "švýcarského",
+        "argentinského",
+        "kolumbijského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Raheem Sterling",
+      "values": [
+        "maďarského",
+        "anglického",
+        "ekvádorského",
+        "marockého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ederson",
+      "values": [
+        "sovětského",
+        "egyptského",
+        "ruského",
+        "brazilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Giorgio Chiellini",
+      "values": [
+        "slovinského",
+        "mexického",
+        "kostarického",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hakim Zijach",
+      "values": [
+        "rakouského",
+        "argentinského",
+        "anglického",
+        "marockého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Wesley Sneijder",
+      "values": [
+        "nizozemského",
+        "francouzského",
+        "chorvatského",
+        "ekvádorského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nathan Aké",
+      "values": [
+        "nizozemského",
+        "ekvádorského",
+        "skotského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

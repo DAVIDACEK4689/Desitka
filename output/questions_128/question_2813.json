@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Jindřich Plachta",
+      "values": [
+        "českého",
+        "japonského",
+        "islandského",
+        "černohorského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lion Feuchtwanger",
+      "values": [
+        "kolumbijského",
+        "německého",
+        "peruánského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Olga Tokarczuková",
+      "values": [
+        "polského",
+        "martinického",
+        "ruského",
+        "černohorského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jozef Karika",
+      "values": [
+        "libanonského",
+        "slovenského",
+        "maďarského",
+        "peruánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Květoslav Minařík",
+      "values": [
+        "paraguayského",
+        "nigerijského",
+        "českého",
+        "vietnamského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Sudoplatov",
+      "values": [
+        "slovenského",
+        "filipínského",
+        "slovinského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gáspár Miklós Tamás",
+      "values": [
+        "řeckého",
+        "jihoafrického",
+        "švédského",
+        "maďarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Núr Mohammad Tarakí",
+      "values": [
+        "afghánského",
+        "mexického",
+        "španělského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nikolaj Gavrilovič Černyševskij",
+      "values": [
+        "dánského",
+        "ázerbájdžánského",
+        "jihoafrického",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Jaromír Rubeš",
+      "values": [
+        "tanzanského",
+        "českého",
+        "francouzského",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

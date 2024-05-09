@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Olomouc",
+      "values": [
+        "Spojené království",
+        "Česko",
+        "Itálie",
+        "Belgie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Řím",
+      "values": [
+        "Německo",
+        "Dánsko",
+        "Belgie",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gdaňsk",
+      "values": [
+        "Rakousko",
+        "Česko",
+        "Polsko",
+        "Spojené království"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Frankfurt nad Mohanem",
+      "values": [
+        "Německo",
+        "Slovensko",
+        "Portugalsko",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Liverpool",
+      "values": [
+        "Spojené království",
+        "Nizozemsko",
+        "Belgie",
+        "Dánsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Poznaň",
+      "values": [
+        "Polsko",
+        "Česko",
+        "Irsko",
+        "Belgie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Štětín",
+      "values": [
+        "Polsko",
+        "Německo",
+        "Maďarsko",
+        "Portugalsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Siena",
+      "values": [
+        "Belgie",
+        "Itálie",
+        "Polsko",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Glasgow",
+      "values": [
+        "Polsko",
+        "Spojené království",
+        "Dánsko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gdyně",
+      "values": [
+        "Česko",
+        "Maďarsko",
+        "Slovensko",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

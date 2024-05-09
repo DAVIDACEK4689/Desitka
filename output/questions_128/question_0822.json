@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Kyjev",
+      "values": [
+        "Bečva",
+        "Rýn",
+        "Temže",
+        "Dněpr"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Samara",
+      "values": [
+        "Hornád",
+        "Volha",
+        "Úslava",
+        "Cidlina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petržalka",
+      "values": [
+        "Visla",
+        "Dunaj",
+        "Don",
+        "Radbuza"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Windsor",
+      "values": [
+        "Rýn",
+        "Inn",
+        "Temže",
+        "Svratka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čop",
+      "values": [
+        "Labe",
+        "Tis",
+        "Hornád",
+        "Něva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kestřany",
+      "values": [
+        "Visla",
+        "Inn",
+        "Temže",
+        "Otava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Galați",
+      "values": [
+        "Sebnice",
+        "Eufrat",
+        "Dunaj",
+        "Bečva"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kostroma",
+      "values": [
+        "Spréva",
+        "Něva",
+        "Polenz",
+        "Volha"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Čejetice",
+      "values": [
+        "Spréva",
+        "Úslava",
+        "Otava",
+        "Temže"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Černvír",
+      "values": [
+        "Vltava",
+        "Emže",
+        "Svratka",
+        "Eufrat"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

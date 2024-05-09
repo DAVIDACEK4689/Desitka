@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle etnické skupiny",
+  "questions": [
+    {
+      "key": "Drúzové",
+      "values": [
+        "Jihoafrická republika",
+        "Myanmar",
+        "Izrael",
+        "Ukrajina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čerkesové",
+      "values": [
+        "Súdán",
+        "Rusko",
+        "Singapur",
+        "Myanmar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Asyřané",
+      "values": [
+        "Ukrajina",
+        "Pákistán",
+        "Afghánistán",
+        "Irák"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Čuvaši",
+      "values": [
+        "Afghánistán",
+        "Myanmar",
+        "Izrael",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Čukčové",
+      "values": [
+        "Rusko",
+        "Alžírsko",
+        "Nepál",
+        "Ghana"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gaelové",
+      "values": [
+        "Súdán",
+        "Thajsko",
+        "Spojené království",
+        "Madagaskar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kikujové",
+      "values": [
+        "Irák",
+        "Indie",
+        "Keňa",
+        "Pákistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Udmurti",
+      "values": [
+        "Rusko",
+        "Estonsko",
+        "Brazílie",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rétorománi",
+      "values": [
+        "Pákistán",
+        "Izrael",
+        "Švýcarsko",
+        "Madagaskar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tupinambové",
+      "values": [
+        "Afghánistán",
+        "Srí Lanka",
+        "Maďarsko",
+        "Brazílie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zločince?",
+  "questions": [
+    {
+      "key": "Juraj Jánošík",
+      "values": [
+        "slovenského",
+        "britského",
+        "pákistánského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bedřich Reicin",
+      "values": [
+        "ukrajinského",
+        "českého",
+        "francouzského",
+        "kolumbijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "John Demjanjuk",
+      "values": [
+        "ruského",
+        "britského",
+        "izraelského",
+        "ukrajinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Charles Ingram",
+      "values": [
+        "ruského",
+        "ukrajinského",
+        "slovenského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mathias Rust",
+      "values": [
+        "britského",
+        "bulharského",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ian Watkins",
+      "values": [
+        "pákistánského",
+        "britského",
+        "ruského",
+        "bulharského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adam Johnson",
+      "values": [
+        "britského",
+        "francouzského",
+        "pákistánského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "John Brennan Crutchley",
+      "values": [
+        "amerického",
+        "ruského",
+        "slovenského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Louis Dominique Cartouche",
+      "values": [
+        "britského",
+        "českého",
+        "mexického",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Plavnický",
+      "values": [
+        "australského",
+        "britského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

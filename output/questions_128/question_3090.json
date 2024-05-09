@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Walt Disney",
+      "values": [
+        "amerického",
+        "britského",
+        "německého",
+        "íránského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stanley Kubrick",
+      "values": [
+        "estonského",
+        "kanadského",
+        "dánského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Steve Buscemi",
+      "values": [
+        "španělského",
+        "amerického",
+        "britského",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andrej Tarkovskij",
+      "values": [
+        "ruského",
+        "hongkongského",
+        "norského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ilja Racek mladší",
+      "values": [
+        "norského",
+        "českého",
+        "irského",
+        "novozélandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Kříženecký",
+      "values": [
+        "francouzského",
+        "švédského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Otakar Štáfl",
+      "values": [
+        "mexického",
+        "českého",
+        "rakouského",
+        "islandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jozef Pročko",
+      "values": [
+        "německého",
+        "slovenského",
+        "ukrajinského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "David Yates",
+      "values": [
+        "irského",
+        "německého",
+        "britského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dodo Gombár",
+      "values": [
+        "mexického",
+        "nizozemského",
+        "španělského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

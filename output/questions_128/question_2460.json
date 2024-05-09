@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Radoslav Brzobohatý",
+      "values": [
+        "českého",
+        "řeckého",
+        "indického",
+        "běloruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Andrej Kiska",
+      "values": [
+        "rakouského",
+        "britského",
+        "německého",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Barta",
+      "values": [
+        "českého",
+        "ukrajinského",
+        "španělského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michael Thonet",
+      "values": [
+        "ukrajinského",
+        "pákistánského",
+        "brazilského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaromír Kijonka",
+      "values": [
+        "německého",
+        "českého",
+        "indického",
+        "pákistánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Amancio Ortega",
+      "values": [
+        "jihoafrického",
+        "německého",
+        "polského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Robert Mistrík",
+      "values": [
+        "švédského",
+        "francouzského",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ivan Kaufmann",
+      "values": [
+        "britského",
+        "íránského",
+        "mexického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Allan Pinkerton",
+      "values": [
+        "amerického",
+        "německého",
+        "běloruského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Henri Nestlé",
+      "values": [
+        "rakouského",
+        "kanadského",
+        "běloruského",
+        "švýcarského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Umami",
+      "values": [
+        "bhútánskou",
+        "islandskou",
+        "japonskou",
+        "balkánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rizoto",
+      "values": [
+        "slovenskou",
+        "islandskou",
+        "norskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zelňačka",
+      "values": [
+        "indonéskou",
+        "britskou",
+        "italskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rostbíf",
+      "values": [
+        "thajskou",
+        "tibetskou",
+        "anglickou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Barbecue",
+      "values": [
+        "francouzskou",
+        "americkou",
+        "vietnamskou",
+        "gruzínskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Skořicový šnek",
+      "values": [
+        "židovskou",
+        "americkou",
+        "švédskou",
+        "ruskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Crumble",
+      "values": [
+        "arménskou",
+        "portugalskou",
+        "britskou",
+        "islandskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bún chả",
+      "values": [
+        "belgickou",
+        "vietnamskou",
+        "brazilskou",
+        "balkánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jordánská kuchyně",
+      "values": [
+        "anglickou",
+        "finskou",
+        "belgickou",
+        "arabskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Irish stew",
+      "values": [
+        "německou",
+        "japonskou",
+        "rakouskou",
+        "irskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] literární dílo?",
+  "questions": [
+    {
+      "key": "Dekameron",
+      "values": [
+        "japonské",
+        "italské",
+        "anglické",
+        "německé"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gulliverovy cesty",
+      "values": [
+        "ruské",
+        "anglické",
+        "velšské",
+        "finské"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Píseň o Rolandovi",
+      "values": [
+        "italské",
+        "velšské",
+        "francouzské",
+        "české"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexandreis",
+      "values": [
+        "velšské",
+        "české",
+        "americké",
+        "ruské"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Těžká hodina",
+      "values": [
+        "nizozemské",
+        "italské",
+        "české",
+        "čínské"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Slovo o pluku Igorově",
+      "values": [
+        "české",
+        "americké",
+        "německé",
+        "ruské"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Emil aneb O výchově",
+      "values": [
+        "anglické",
+        "rakouské",
+        "německé",
+        "francouzské"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Láska za časů cholery",
+      "values": [
+        "španělské",
+        "italské",
+        "české",
+        "ruské"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Filipika proti misomusům",
+      "values": [
+        "nizozemské",
+        "ruské",
+        "anglické",
+        "české"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pansofia",
+      "values": [
+        "japonské",
+        "české",
+        "rakouské",
+        "francouzské"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

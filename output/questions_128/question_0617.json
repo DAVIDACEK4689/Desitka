@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Arthur Rimbaud",
+      "values": [
+        "polského",
+        "francouzského",
+        "švédského",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "William Faulkner",
+      "values": [
+        "francouzského",
+        "švédského",
+        "kanadského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gertrude Steinová",
+      "values": [
+        "skotského",
+        "španělského",
+        "amerického",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivan Franko",
+      "values": [
+        "dánského",
+        "anglického",
+        "ukrajinského",
+        "palestinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Primo Levi",
+      "values": [
+        "italského",
+        "anglického",
+        "perského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paul Valéry",
+      "values": [
+        "chilského",
+        "českého",
+        "norského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pete Doherty",
+      "values": [
+        "íránského",
+        "rumunského",
+        "polského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nâzım Hikmet",
+      "values": [
+        "islandského",
+        "rumunského",
+        "maďarského",
+        "tureckého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "George MacDonald",
+      "values": [
+        "anglického",
+        "íránského",
+        "skotského",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Jaroslav Langer",
+      "values": [
+        "sovětského",
+        "australského",
+        "českého",
+        "dánského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

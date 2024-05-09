@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte kontinent podle závislého území",
+  "questions": [
+    {
+      "key": "Kanárské ostrovy",
+      "values": [
+        "Jižní Amerika",
+        "Asie",
+        "Afrika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Azory",
+      "values": [
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Evropa",
+        "Afrika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Portoriko",
+      "values": [
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Afrika",
+        "Asie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Réunion",
+      "values": [
+        "Afrika",
+        "Severní Amerika",
+        "Evropa",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Curaçao",
+      "values": [
+        "Asie",
+        "Afrika",
+        "Jižní Amerika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aruba",
+      "values": [
+        "Evropa",
+        "Afrika",
+        "Severní Amerika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Guadeloupe",
+      "values": [
+        "Jižní Amerika",
+        "Evropa",
+        "Asie",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Normanské ostrovy",
+      "values": [
+        "Afrika",
+        "Evropa",
+        "Severní Amerika",
+        "Asie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Guernsey",
+      "values": [
+        "Afrika",
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kokosové ostrovy",
+      "values": [
+        "Asie",
+        "Jižní Amerika",
+        "Evropa",
+        "Afrika"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

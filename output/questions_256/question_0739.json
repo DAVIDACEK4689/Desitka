@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Alena Mornštajnová",
+      "values": [
+        "českého",
+        "peruánského",
+        "nizozemského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lars Kepler",
+      "values": [
+        "amerického",
+        "filipínského",
+        "švédského",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vladimír Neff",
+      "values": [
+        "brazilského",
+        "australského",
+        "irského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ernest Thompson Seton",
+      "values": [
+        "kanadského",
+        "indického",
+        "litevského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Franta Sauer",
+      "values": [
+        "japonského",
+        "kyrgyzského",
+        "indického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Pořízka",
+      "values": [
+        "portugalského",
+        "švédského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Isabel Allende",
+      "values": [
+        "norského",
+        "chilského",
+        "francouzského",
+        "filipínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zachar Prilepin",
+      "values": [
+        "ruského",
+        "chilského",
+        "belgického",
+        "litevského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ivan Renč",
+      "values": [
+        "českého",
+        "argentinského",
+        "rakouského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hans Jakob Christoffel von Grimmelshausen",
+      "values": [
+        "irského",
+        "mexického",
+        "chilského",
+        "německého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

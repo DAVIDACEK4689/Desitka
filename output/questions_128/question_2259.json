@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Fenykl obecný",
+      "values": [
+        "Česko",
+        "Austrálie",
+        "Mexiko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Violka",
+      "values": [
+        "Nový Zéland",
+        "Austrálie",
+        "Mongolsko",
+        "Madagaskar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pryskyřník plazivý",
+      "values": [
+        "Mongolsko",
+        "Austrálie",
+        "Japonsko",
+        "Brazílie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rozpuk jízlivý",
+      "values": [
+        "Mongolsko",
+        "Brazílie",
+        "Mexiko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Netýkavka malokvětá",
+      "values": [
+        "Japonsko",
+        "Mexiko",
+        "Austrálie",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chlupáček zední",
+      "values": [
+        "Mongolsko",
+        "Japonsko",
+        "Austrálie",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jícnovka velkokvětá",
+      "values": [
+        "Brazílie",
+        "Mexiko",
+        "Japonsko",
+        "Mongolsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bezkolenec modrý",
+      "values": [
+        "Japonsko",
+        "Česko",
+        "Austrálie",
+        "Brazílie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Svícník",
+      "values": [
+        "Brazílie",
+        "Austrálie",
+        "Nový Zéland",
+        "Japonsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Arizéma",
+      "values": [
+        "Česko",
+        "Madagaskar",
+        "Mexiko",
+        "Japonsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva u Hastingsu",
+      "values": [
+        "1683",
+        "1742",
+        "1664",
+        "1066"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Lehnice",
+      "values": [
+        "2022",
+        "1645",
+        "1876",
+        "1241"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Útok na Bělgorodskou oblast",
+      "values": [
+        "1176",
+        "2023",
+        "1547",
+        "1297"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vylodění v Itálii",
+      "values": [
+        "1905",
+        "1314",
+        "1688",
+        "1943"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva o Ržev",
+      "values": [
+        "1746",
+        "1433",
+        "1435",
+        "1942"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Obléhání Karlštejna husity",
+      "values": [
+        "849",
+        "1836",
+        "1619",
+        "1422"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Ulmu",
+      "values": [
+        "1758",
+        "1805",
+        "1177",
+        "1683"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kurský oblouk",
+      "values": [
+        "2001",
+        "1943",
+        "1428",
+        "1214"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva o Long Island",
+      "values": [
+        "1854",
+        "1776",
+        "1177",
+        "1824"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Latakie",
+      "values": [
+        "1626",
+        "1278",
+        "1421",
+        "1973"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle hudební události",
+  "questions": [
+    {
+      "key": "Eurovision Song Contest 2022",
+      "values": [
+        "Česko",
+        "Švýcarsko",
+        "Itálie",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "The Freddie Mercury Tribute Concert",
+      "values": [
+        "Spojené království",
+        "Česko",
+        "Ázerbájdžán",
+        "Ukrajina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eurovision Song Contest 2018",
+      "values": [
+        "Švédsko",
+        "Izrael",
+        "Nizozemsko",
+        "Portugalsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eurovision Song Contest 2020",
+      "values": [
+        "Spojené království",
+        "Nizozemsko",
+        "Ázerbájdžán",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Novoroční koncert Vídeňských filharmoniků",
+      "values": [
+        "Spojené království",
+        "Rakousko",
+        "Německo",
+        "Norsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eurovision Song Contest 2009",
+      "values": [
+        "Česko",
+        "Finsko",
+        "Spojené království",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eurovision Song Contest 2017",
+      "values": [
+        "Švýcarsko",
+        "Nizozemsko",
+        "Ázerbájdžán",
+        "Ukrajina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eurovision Song Contest 2016",
+      "values": [
+        "Švýcarsko",
+        "Srbsko",
+        "Švédsko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eurovision Song Contest 2013",
+      "values": [
+        "Švédsko",
+        "Spojené království",
+        "Izrael",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eurovision Song Contest 2011",
+      "values": [
+        "Nizozemsko",
+        "Izrael",
+        "Rakousko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

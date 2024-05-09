@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] miliardáře?",
+  "questions": [
+    {
+      "key": "Daniel Křetínský",
+      "values": [
+        "ruského",
+        "rakouského",
+        "ukrajinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel Janeček",
+      "values": [
+        "britského",
+        "slovenského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aleš Zavoral",
+      "values": [
+        "českého",
+        "tureckého",
+        "rakouského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "George Lucas",
+      "values": [
+        "ukrajinského",
+        "českého",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dietrich Mateschitz",
+      "values": [
+        "tureckého",
+        "ruského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gabe Newell",
+      "values": [
+        "amerického",
+        "slovenského",
+        "tureckého",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Vohánka",
+      "values": [
+        "českého",
+        "slovenského",
+        "ruského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cornelius Vanderbilt",
+      "values": [
+        "slovenského",
+        "tureckého",
+        "rakouského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marc Andreessen",
+      "values": [
+        "slovenského",
+        "rakouského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marcel Soural",
+      "values": [
+        "rakouského",
+        "amerického",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

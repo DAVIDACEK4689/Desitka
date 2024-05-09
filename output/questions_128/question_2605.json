@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Někdo to rád horké",
+      "values": [
+        "Christopher Nolan",
+        "Robert Eggers",
+        "Billy Wilder",
+        "Godfrey Reggio"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rychle a zběsile 5",
+      "values": [
+        "Robert Zemeckis",
+        "Mike Nichols",
+        "Justin Lin",
+        "Edward Zwick"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vetřelec 3",
+      "values": [
+        "Rob Cohen",
+        "David Fincher",
+        "Godfrey Reggio",
+        "Mark Neveldine"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Velmi nebezpečné známosti",
+      "values": [
+        "Blake Edwards",
+        "Roger Kumble",
+        "Chloé Zhaová",
+        "Michael Cimino"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Modrý samet",
+      "values": [
+        "Howard Hawks",
+        "Martin Brest",
+        "David Lynch",
+        "George Roy Hill"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Okamžik zlomu",
+      "values": [
+        "Emile Ardolino",
+        "Gregory Hoblit",
+        "Martha Coolidge",
+        "Ang Lee"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aféra s náhrdelníkem",
+      "values": [
+        "Jon Favreau",
+        "Steven Soderbergh",
+        "Charles Shyer",
+        "Robert Benton"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Číslo 23",
+      "values": [
+        "Joel Schumacher",
+        "Danny DeVito",
+        "Kevin Costner",
+        "Woody Allen"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Velkej biják",
+      "values": [
+        "Marc Webb",
+        "John Badham",
+        "Jason Friedberg a Aaron Seltzer",
+        "George Clooney"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Znovu ve hře",
+      "values": [
+        "Peter Segal",
+        "David Lynch",
+        "George Nolfi",
+        "Jay Roach"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

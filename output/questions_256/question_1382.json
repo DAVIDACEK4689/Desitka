@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Yvetta Simonová",
+      "values": [
+        "mexickou",
+        "australskou",
+        "jihokorejskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aneta Langerová",
+      "values": [
+        "německou",
+        "islandskou",
+        "španělskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pink",
+      "values": [
+        "peruánskou",
+        "americkou",
+        "brazilskou",
+        "finskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marie Fredrikssonová",
+      "values": [
+        "uruguayskou",
+        "německou",
+        "švédskou",
+        "finskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Valérie Čižmárová",
+      "values": [
+        "švédskou",
+        "českou",
+        "španělskou",
+        "kolumbijskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiřina Petrovická",
+      "values": [
+        "českou",
+        "ruskou",
+        "novozélandskou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Joan Jett",
+      "values": [
+        "ukrajinskou",
+        "americkou",
+        "irskou",
+        "islandskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jennifer Rush",
+      "values": [
+        "českou",
+        "irskou",
+        "americkou",
+        "švýcarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Brandi Cyrus",
+      "values": [
+        "maďarskou",
+        "indickou",
+        "mexickou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Exene Cervenka",
+      "values": [
+        "českou",
+        "americkou",
+        "mexickou",
+        "uruguayskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

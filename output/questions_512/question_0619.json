@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] právníka?",
+  "questions": [
+    {
+      "key": "Daniel Křetínský",
+      "values": [
+        "polského",
+        "britského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Barack Obama",
+      "values": [
+        "estonského",
+        "slovenského",
+        "rakouského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimír Mečiar",
+      "values": [
+        "estonského",
+        "ukrajinského",
+        "slovenského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andrej Danko",
+      "values": [
+        "ukrajinského",
+        "řeckého",
+        "slovenského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hunter Biden",
+      "values": [
+        "amerického",
+        "německého",
+        "polského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ivo Jahelka",
+      "values": [
+        "rakouského",
+        "českého",
+        "slovenského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Baxa",
+      "values": [
+        "amerického",
+        "německého",
+        "ukrajinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Netolický",
+      "values": [
+        "rakouského",
+        "českého",
+        "slovenského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mike Pence",
+      "values": [
+        "amerického",
+        "řeckého",
+        "britského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Přibáň",
+      "values": [
+        "řeckého",
+        "českého",
+        "německého",
+        "ruského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

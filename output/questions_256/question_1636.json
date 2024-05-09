@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte autora podle stavby",
+  "questions": [
+    {
+      "key": "Klementinum",
+      "values": [
+        "Carlo Lurago",
+        "Friedrich Ohmann",
+        "Věra Machoninová",
+        "Karel Filsak"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Müllerova vila",
+      "values": [
+        "Ludvík Kysela",
+        "Adolf Loos",
+        "Stanislav Franc",
+        "Václav Aulický"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zámecký park Průhonice",
+      "values": [
+        "Bohumír Kozák",
+        "Bohumír Čermák",
+        "Jiří Stibral",
+        "Adolf Loos"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hlávkův most",
+      "values": [
+        "Pavel Janák",
+        "Ludvík Kysela",
+        "Josef Schulz",
+        "Martin Rajniš"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Koleje Strahov",
+      "values": [
+        "Frank Lloyd Wright",
+        "Stanislav Franc",
+        "Carlo Lurago",
+        "Antonín Wiehl"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Interhotel Zlín",
+      "values": [
+        "Adolf Foehr",
+        "Friedrich Ohmann",
+        "Karel Filsak",
+        "Vladimír Karfík"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Velké kino",
+      "values": [
+        "Martin Rajniš",
+        "Jože Plečnik",
+        "Richard Klenka",
+        "František Lýdie Gahura"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Portheimka",
+      "values": [
+        "Gustave Eiffel",
+        "Kilián Ignác Dientzenhofer",
+        "Giovanni Battista Alliprandi",
+        "Antonín Wiehl"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Palác Luxor",
+      "values": [
+        "Antonín Wiehl",
+        "Friedrich Ohmann",
+        "Carlo Lurago",
+        "Bohumír Kozák"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Central Business District Praha",
+      "values": [
+        "Zaha Hadid",
+        "Jiří Stibral",
+        "Osvald Polívka",
+        "Josef Danda"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

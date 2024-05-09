@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Habr obecný",
+      "values": [
+        "Madagaskar",
+        "Nový Zéland",
+        "Brazílie",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Citrus",
+      "values": [
+        "Austrálie",
+        "Nový Zéland",
+        "Česko",
+        "Madagaskar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oves",
+      "values": [
+        "Brazílie",
+        "Nový Zéland",
+        "Mongolsko",
+        "Austrálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Penízek rolní",
+      "values": [
+        "Mexiko",
+        "Brazílie",
+        "Mongolsko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Líčidlo americké",
+      "values": [
+        "Austrálie",
+        "Madagaskar",
+        "Nový Zéland",
+        "Mexiko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kandík psí zub",
+      "values": [
+        "Madagaskar",
+        "Brazílie",
+        "Austrálie",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Papratka samičí",
+      "values": [
+        "Mongolsko",
+        "Česko",
+        "Brazílie",
+        "Austrálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bokarnea tlustokmenná",
+      "values": [
+        "Mexiko",
+        "Madagaskar",
+        "Nový Zéland",
+        "Austrálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jitrocel prostřední",
+      "values": [
+        "Česko",
+        "Madagaskar",
+        "Mexiko",
+        "Austrálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Divizna černá",
+      "values": [
+        "Mongolsko",
+        "Mexiko",
+        "Česko",
+        "Madagaskar"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

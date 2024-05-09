@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte kontinent podle fauny",
+  "questions": [
+    {
+      "key": "Panda velká",
+      "values": [
+        "Evropa",
+        "Severní Amerika",
+        "Asie",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Medvěd lední",
+      "values": [
+        "Evropa",
+        "Severní Amerika",
+        "Antarktida",
+        "Asie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Srnec obecný",
+      "values": [
+        "Severní Amerika",
+        "Antarktida",
+        "Jižní Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Medvěd grizzly",
+      "values": [
+        "Severní Amerika",
+        "Asie",
+        "Jižní Amerika",
+        "Antarktida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Irbis",
+      "values": [
+        "Asie",
+        "Jižní Amerika",
+        "Antarktida",
+        "Severní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Slon indický",
+      "values": [
+        "Asie",
+        "Jižní Amerika",
+        "Severní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Piraňa obecná",
+      "values": [
+        "Jižní Amerika",
+        "Severní Amerika",
+        "Afrika",
+        "Asie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rypouš sloní",
+      "values": [
+        "Jižní Amerika",
+        "Antarktida",
+        "Evropa",
+        "Asie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kalmar Hamiltonův",
+      "values": [
+        "Afrika",
+        "Severní Amerika",
+        "Asie",
+        "Antarktida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Arapaima velká",
+      "values": [
+        "Jižní Amerika",
+        "Asie",
+        "Evropa",
+        "Antarktida"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

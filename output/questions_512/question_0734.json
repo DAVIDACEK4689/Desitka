@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle regionu",
+  "questions": [
+    {
+      "key": "Střední Anatolie",
+      "values": [
+        "Francie",
+        "Belgie",
+        "Argentina",
+        "Turecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Toskánsko",
+      "values": [
+        "Itálie",
+        "Turecko",
+        "Belgie",
+        "Etiopie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Patagonie",
+      "values": [
+        "Belgie",
+        "Itálie",
+        "Francie",
+        "Argentina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bretaň",
+      "values": [
+        "Etiopie",
+        "Belgie",
+        "Francie",
+        "Argentina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lombardie",
+      "values": [
+        "Etiopie",
+        "Itálie",
+        "Belgie",
+        "Turecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vlámsko",
+      "values": [
+        "Itálie",
+        "Etiopie",
+        "Belgie",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jižní Tyrolsko",
+      "values": [
+        "Francie",
+        "Itálie",
+        "Turecko",
+        "Portugalsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Benátsko",
+      "values": [
+        "Argentina",
+        "Turecko",
+        "Belgie",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Algarve",
+      "values": [
+        "Turecko",
+        "Itálie",
+        "Etiopie",
+        "Portugalsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ligurie",
+      "values": [
+        "Turecko",
+        "Itálie",
+        "Belgie",
+        "Portugalsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

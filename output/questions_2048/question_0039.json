@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] román?",
+  "questions": [
+    {
+      "key": "Farma zvířat",
+      "values": [
+        "anglický",
+        "španělský",
+        "australský",
+        "německý"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robinson Crusoe",
+      "values": [
+        "australský",
+        "anglický",
+        "irský",
+        "český"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Velký Gatsby",
+      "values": [
+        "ruský",
+        "americký",
+        "český",
+        "australský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Důmyslný rytíř Don Quijote de la Mancha",
+      "values": [
+        "anglický",
+        "španělský",
+        "ruský",
+        "australský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bídníci",
+      "values": [
+        "irský",
+        "český",
+        "americký",
+        "francouzský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Evžen Oněgin",
+      "values": [
+        "ruský",
+        "španělský",
+        "anglický",
+        "australský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jana Eyrová",
+      "values": [
+        "německý",
+        "irský",
+        "anglický",
+        "francouzský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Válka s Mloky",
+      "values": [
+        "americký",
+        "ruský",
+        "australský",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zločin a trest",
+      "values": [
+        "český",
+        "francouzský",
+        "ruský",
+        "španělský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hraničářův učeň",
+      "values": [
+        "francouzský",
+        "australský",
+        "anglický",
+        "český"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

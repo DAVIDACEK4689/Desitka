@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte město podle české kultury",
+  "questions": [
+    {
+      "key": "Velký strahovský stadion",
+      "values": [
+        "České Budějovice",
+        "Svitavy",
+        "Loštice",
+        "Praha"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lunetic",
+      "values": [
+        "Řevnice",
+        "Krnov",
+        "Litvínov",
+        "Chlumec nad Cidlinou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Relikviář svatého Maura",
+      "values": [
+        "Bečov nad Teplou",
+        "Svitavy",
+        "Český Brod",
+        "Hradec Králové"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Olomoucké tvarůžky",
+      "values": [
+        "Loštice",
+        "Brno",
+        "Přibyslav",
+        "Pardubice"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Becherovka",
+      "values": [
+        "Lipnice nad Sázavou",
+        "Loštice",
+        "Karlovy Vary",
+        "Litvínov"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karlova Koruna",
+      "values": [
+        "Opava",
+        "Řevnice",
+        "Chlumec nad Cidlinou",
+        "Vizovice"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rock for People",
+      "values": [
+        "Praha",
+        "Řevnice",
+        "Bečov nad Teplou",
+        "Český Brod"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Samsonova kašna",
+      "values": [
+        "Semily",
+        "Přibyslav",
+        "Krnov",
+        "České Budějovice"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Porta",
+      "values": [
+        "Loštice",
+        "Jičín",
+        "Řevnice",
+        "Hradec Králové"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pribináček",
+      "values": [
+        "Svitavy",
+        "Bečov nad Teplou",
+        "Přibyslav",
+        "Praha"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

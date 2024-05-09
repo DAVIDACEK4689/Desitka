@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle provincie",
+  "questions": [
+    {
+      "key": "Bali",
+      "values": [
+        "Finsko",
+        "Irsko",
+        "Indonésie",
+        "Argentina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Phuket",
+      "values": [
+        "Španělsko",
+        "Pákistán",
+        "Thajsko",
+        "Finsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Baleáry",
+      "values": [
+        "Španělsko",
+        "Pákistán",
+        "Arménie",
+        "Vietnam"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Buenos Aires",
+      "values": [
+        "Jihoafrická republika",
+        "Argentina",
+        "Vietnam",
+        "Československo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ararat",
+      "values": [
+        "Arménie",
+        "Španělsko",
+        "Argentina",
+        "Československo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hanoj",
+      "values": [
+        "Španělsko",
+        "Nizozemsko",
+        "Vietnam",
+        "Thajsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jakarta",
+      "values": [
+        "Československo",
+        "Nizozemsko",
+        "Indonésie",
+        "Thajsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alandy",
+      "values": [
+        "Thajsko",
+        "Pákistán",
+        "Finsko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Asturie",
+      "values": [
+        "Arménie",
+        "Argentina",
+        "Thajsko",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Frísko",
+      "values": [
+        "Arménie",
+        "Nizozemsko",
+        "Finsko",
+        "Španělsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] boxera?",
+  "questions": [
+    {
+      "key": "Jaromír Soukup",
+      "values": [
+        "novozélandského",
+        "amerického",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Idi Amin",
+      "values": [
+        "britského",
+        "polského",
+        "filipínského",
+        "ugandského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oleksandr Usyk",
+      "values": [
+        "německého",
+        "ruského",
+        "československého",
+        "ukrajinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Max Schmeling",
+      "values": [
+        "ruského",
+        "německého",
+        "českého",
+        "filipínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lukáš Konečný",
+      "values": [
+        "italského",
+        "francouzského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marcel Cerdan",
+      "values": [
+        "polského",
+        "panamského",
+        "francouzského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vasyl Lomačenko",
+      "values": [
+        "francouzského",
+        "ukrajinského",
+        "filipínského",
+        "československého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jake LaMotta",
+      "values": [
+        "českého",
+        "italského",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sonny Bill Williams",
+      "values": [
+        "filipínského",
+        "maďarského",
+        "německého",
+        "novozélandského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Štěpán Horváth",
+      "values": [
+        "ugandského",
+        "českého",
+        "francouzského",
+        "filipínského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Břeclav",
+      "values": [
+        "Dyje",
+        "Labe",
+        "Dněpr",
+        "Tibera"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sezimovo Ústí",
+      "values": [
+        "Něva",
+        "Hornád",
+        "Dunaj",
+        "Lužnice"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Spišská Nová Ves",
+      "values": [
+        "Vltava",
+        "Metuje",
+        "Hornád",
+        "Něva"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hlohovec",
+      "values": [
+        "Berounka",
+        "Eufrat",
+        "Váha",
+        "Ohře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Doksany",
+      "values": [
+        "Těrek",
+        "Ohře",
+        "Malše",
+        "Temže"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hlásná Třebaň",
+      "values": [
+        "Tibera",
+        "Berounka",
+        "Úslava",
+        "Ploučnice"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Smižany",
+      "values": [
+        "Hornád",
+        "Seina",
+        "Temže",
+        "Vltava"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Černá u Bohdanče",
+      "values": [
+        "Něva",
+        "Temže",
+        "Labe",
+        "Úslava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Strachotice",
+      "values": [
+        "Visla",
+        "Tis",
+        "Dyje",
+        "Lužnice"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "České Kopisty",
+      "values": [
+        "Něva",
+        "Dunaj",
+        "Labe",
+        "Hron"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

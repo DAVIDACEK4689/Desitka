@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Modřín",
+      "values": [
+        "Madagaskar",
+        "Brazílie",
+        "Mongolsko",
+        "Japonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Puškvorec obecný",
+      "values": [
+        "Japonsko",
+        "Mexiko",
+        "Madagaskar",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ananasovník chocholatý",
+      "values": [
+        "Austrálie",
+        "Nový Zéland",
+        "Brazílie",
+        "Japonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hrachor jarní",
+      "values": [
+        "Mongolsko",
+        "Česko",
+        "Japonsko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Brugmansie",
+      "values": [
+        "Mexiko",
+        "Brazílie",
+        "Madagaskar",
+        "Mongolsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pastala rozprostřená",
+      "values": [
+        "Nový Zéland",
+        "Brazílie",
+        "Madagaskar",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jehlice trnitá",
+      "values": [
+        "Madagaskar",
+        "Brazílie",
+        "Mongolsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ochmet",
+      "values": [
+        "Austrálie",
+        "Česko",
+        "Mongolsko",
+        "Madagaskar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hvozdík sivý",
+      "values": [
+        "Česko",
+        "Mexiko",
+        "Japonsko",
+        "Austrálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Liánovec",
+      "values": [
+        "Brazílie",
+        "Nový Zéland",
+        "Madagaskar",
+        "Česko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

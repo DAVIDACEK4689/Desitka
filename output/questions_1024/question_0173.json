@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "Veronika Žilková",
+      "values": [
+        "českého",
+        "francouzského",
+        "maďarského",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David Švehlík",
+      "values": [
+        "francouzského",
+        "italského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Macaulay Culkin",
+      "values": [
+        "českého",
+        "amerického",
+        "německého",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bernard Arnault",
+      "values": [
+        "amerického",
+        "italského",
+        "portugalského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Joséphine de Beauharnais",
+      "values": [
+        "švýcarského",
+        "maďarského",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dalibor Gondík",
+      "values": [
+        "britského",
+        "italského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luciano Pavarotti",
+      "values": [
+        "italského",
+        "amerického",
+        "portugalského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Lux",
+      "values": [
+        "amerického",
+        "českého",
+        "maďarského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paul Cézanne",
+      "values": [
+        "francouzského",
+        "portugalského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jeanne Calmentová",
+      "values": [
+        "portugalského",
+        "francouzského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

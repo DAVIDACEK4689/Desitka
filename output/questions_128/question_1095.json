@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [národnost] komunistu?",
+  "questions": [
+    {
+      "key": "Frida Kahlo",
+      "values": [
+        "britského",
+        "mexického",
+        "německého",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Slavoj Žižek",
+      "values": [
+        "jugoslávského",
+        "polského",
+        "ázerbájdžánského",
+        "čínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Luchino Visconti",
+      "values": [
+        "řeckého",
+        "portugalského",
+        "italského",
+        "bulharského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Egon Krenz",
+      "values": [
+        "portugalského",
+        "německého",
+        "rumunského",
+        "vietnamského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pete Seeger",
+      "values": [
+        "ukrajinského",
+        "sovětského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alexis Tsipras",
+      "values": [
+        "brazilského",
+        "bulharského",
+        "italského",
+        "řeckého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Georgi Markov",
+      "values": [
+        "maďarského",
+        "českého",
+        "vietnamského",
+        "bulharského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Iannis Xenakis",
+      "values": [
+        "řeckého",
+        "čínského",
+        "polského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mo Jen",
+      "values": [
+        "německého",
+        "španělského",
+        "maďarského",
+        "čínského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Le Duan",
+      "values": [
+        "řeckého",
+        "moldavského",
+        "vietnamského",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

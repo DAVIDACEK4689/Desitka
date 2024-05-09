@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Keanu Reeves",
+      "values": [
+        "kanadského",
+        "malajsijského",
+        "brazilského",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Jákl",
+      "values": [
+        "čínského",
+        "českého",
+        "švédského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ondřej Kepka",
+      "values": [
+        "guatemalského",
+        "jamajského",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Otomar Korbelář",
+      "values": [
+        "indického",
+        "italského",
+        "tureckého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Til Schweiger",
+      "values": [
+        "izraelského",
+        "německého",
+        "jihokorejského",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Juraj Ďurdiak",
+      "values": [
+        "francouzského",
+        "chilského",
+        "slovenského",
+        "čínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivan Krajíček",
+      "values": [
+        "italského",
+        "slovenského",
+        "indického",
+        "jamajského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karl Markovics",
+      "values": [
+        "chilského",
+        "belgického",
+        "brazilského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Charles Dance",
+      "values": [
+        "španělského",
+        "maďarského",
+        "japonského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rodrigo Santoro",
+      "values": [
+        "portorického",
+        "brazilského",
+        "novozélandského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

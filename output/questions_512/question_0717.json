@@ -1,0 +1,105 @@
+{
+  "text": "Určete kontinent podle dinosaura",
+  "questions": [
+    {
+      "key": "Velociraptor",
+      "values": [
+        "Afrika",
+        "Evropa",
+        "Asie",
+        "Severní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Spinosaurus",
+      "values": [
+        "Asie",
+        "Severní Amerika",
+        "Afrika",
+        "Evropa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Triceratops",
+      "values": [
+        "Afrika",
+        "Evropa",
+        "Severní Amerika",
+        "Asie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Giganotosaurus",
+      "values": [
+        "Jižní Amerika",
+        "Evropa",
+        "Asie",
+        "Severní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Brachiosaurus",
+      "values": [
+        "Asie",
+        "Severní Amerika",
+        "Evropa",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Argentinosaurus",
+      "values": [
+        "Asie",
+        "Evropa",
+        "Severní Amerika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nigersaurus",
+      "values": [
+        "Asie",
+        "Afrika",
+        "Evropa",
+        "Severní Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Diplodocus",
+      "values": [
+        "Asie",
+        "Jižní Amerika",
+        "Evropa",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Therizinosaurus",
+      "values": [
+        "Afrika",
+        "Jižní Amerika",
+        "Asie",
+        "Severní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nálezy dinosaurů na území Česka",
+      "values": [
+        "Afrika",
+        "Evropa",
+        "Severní Amerika",
+        "Asie"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

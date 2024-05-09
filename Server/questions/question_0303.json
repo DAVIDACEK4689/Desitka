@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Sharon Tate",
+      "values": [
+        "německou",
+        "jihoafrickou",
+        "americkou",
+        "slovenskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karolína Krézlová",
+      "values": [
+        "českou",
+        "německou",
+        "slovenskou",
+        "americkou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Aneta Vignerová",
+      "values": [
+        "německou",
+        "jihoafrickou",
+        "švýcarskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eva Mendes",
+      "values": [
+        "izraelskou",
+        "českou",
+        "americkou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Markéta Hrubešová",
+      "values": [
+        "italskou",
+        "českou",
+        "kanadskou",
+        "jihoafrickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jane Fondová",
+      "values": [
+        "francouzskou",
+        "americkou",
+        "izraelskou",
+        "německou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Iveta Maurerová",
+      "values": [
+        "českou",
+        "americkou",
+        "izraelskou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dominika Myslivcová",
+      "values": [
+        "kanadskou",
+        "slovenskou",
+        "českou",
+        "izraelskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hailey Bieberová",
+      "values": [
+        "americkou",
+        "ruskou",
+        "italskou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eva Herzigová",
+      "values": [
+        "českou",
+        "francouzskou",
+        "kanadskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

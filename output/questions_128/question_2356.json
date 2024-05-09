@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Thomas Tuchel",
+      "values": [
+        "německého",
+        "kanadského",
+        "kosovského",
+        "lucemburského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zdenko Frťala",
+      "values": [
+        "baskického",
+        "islandského",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Antonio Rüdiger",
+      "values": [
+        "německého",
+        "irského",
+        "československého",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Philipp Lahm",
+      "values": [
+        "amerického",
+        "francouzského",
+        "venezuelského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Abédi Pelé",
+      "values": [
+        "slovinského",
+        "ghanského",
+        "španělského",
+        "chilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "José Luis Chilavert",
+      "values": [
+        "severoirského",
+        "uruguayského",
+        "paraguayského",
+        "argentinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marcello Lippi",
+      "values": [
+        "německého",
+        "paraguayského",
+        "rumunského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alejandro Balde",
+      "values": [
+        "kamerunského",
+        "ukrajinského",
+        "dánského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hakan Şükür",
+      "values": [
+        "tureckého",
+        "ukrajinského",
+        "venezuelského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bekim Balaj",
+      "values": [
+        "anglického",
+        "uruguayského",
+        "irského",
+        "albánského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

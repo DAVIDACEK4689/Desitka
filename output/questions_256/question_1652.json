@@ -1,0 +1,105 @@
+{
+  "text": "Určete sport podle české sportovkyně",
+  "questions": [
+    {
+      "key": "Markéta Vondroušová",
+      "values": [
+        "florbalistky",
+        "tenistka",
+        "golfistky",
+        "basketbalistka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jana Novotná",
+      "values": [
+        "tenistka",
+        "krasobruslařka",
+        "volejbalistka",
+        "atletka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Brenda Fruhvirtová",
+      "values": [
+        "lední hokejistky",
+        "lukostřelkyně",
+        "sportovní střelkyně",
+        "tenistka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tereza Martincová",
+      "values": [
+        "horolezci",
+        "atletka",
+        "fotbalistka",
+        "tenistka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sandra Kleinová",
+      "values": [
+        "tenistka",
+        "krasobruslařka",
+        "volejbalistka",
+        "lukostřelkyně"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miriam Kolodziejová",
+      "values": [
+        "basketbalistka",
+        "golfistky",
+        "horolezci",
+        "tenistka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Markéta Jeřábková",
+      "values": [
+        "házenkářka",
+        "lukostřelkyně",
+        "basketbalistka",
+        "cyklistka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alena Mills",
+      "values": [
+        "volejbalistka",
+        "lední hokejistky",
+        "horolezci",
+        "basketbalistka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tereza Fajksová",
+      "values": [
+        "stolní tenistka",
+        "basketbalistka",
+        "lední hokejistky",
+        "volejbalistka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Simona Kubová",
+      "values": [
+        "házenkářka",
+        "volejbalistka",
+        "basketbalistka",
+        "plavkyně"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

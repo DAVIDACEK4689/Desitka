@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Stepan Bandera",
+      "values": [
+        "ukrajinského",
+        "chilského",
+        "filipínského",
+        "pákistánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lewis Strauss",
+      "values": [
+        "řeckého",
+        "černohorského",
+        "amerického",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Liz Trussová",
+      "values": [
+        "britského",
+        "ukrajinského",
+        "keňského",
+        "arménského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexej Kosygin",
+      "values": [
+        "salvadorského",
+        "sovětského",
+        "kolumbijského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ilham Alijev",
+      "values": [
+        "nigerského",
+        "ázerbájdžánského",
+        "finského",
+        "iráckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Džaváharlál Néhrú",
+      "values": [
+        "italského",
+        "libanonského",
+        "britského",
+        "indického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vahagn Chačaturjan",
+      "values": [
+        "ruského",
+        "katarského",
+        "řeckého",
+        "arménského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Walter Schellenberg",
+      "values": [
+        "arménského",
+        "vietnamského",
+        "rakouského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Richard Sorge",
+      "values": [
+        "italského",
+        "německého",
+        "anglického",
+        "libanonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andrej Plenković",
+      "values": [
+        "ukrajinského",
+        "myanmarského",
+        "norského",
+        "chorvatského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kytaristu?",
+  "questions": [
+    {
+      "key": "Jimi Hendrix",
+      "values": [
+        "slovenského",
+        "německého",
+        "amerického",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vlastimil Kučaj",
+      "values": [
+        "českého",
+        "španělského",
+        "dánského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Moby",
+      "values": [
+        "amerického",
+        "britského",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Manu Chao",
+      "values": [
+        "francouzského",
+        "amerického",
+        "španělského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ondřej Škoch",
+      "values": [
+        "argentinského",
+        "amerického",
+        "australského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Neil Diamond",
+      "values": [
+        "německého",
+        "amerického",
+        "irského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Derrick Green",
+      "values": [
+        "německého",
+        "amerického",
+        "dánského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ronald Seitl",
+      "values": [
+        "italského",
+        "brazilského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dan Šustr",
+      "values": [
+        "německého",
+        "mexického",
+        "českého",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bo Diddley",
+      "values": [
+        "amerického",
+        "mexického",
+        "australského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

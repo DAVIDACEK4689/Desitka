@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle letectví",
+  "questions": [
+    {
+      "key": "Evropská kosmická agentura",
+      "values": [
+        "Slovensko",
+        "Sýrie",
+        "Francie",
+        "Spojené království"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mathias Rust",
+      "values": [
+        "Japonsko",
+        "Německo",
+        "Sovětský svaz",
+        "Slovensko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aeroflot",
+      "values": [
+        "Sovětský svaz",
+        "Austrálie",
+        "Československo",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Let Lauda Air 004",
+      "values": [
+        "Německo",
+        "Československo",
+        "Francie",
+        "Thajsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ústav leteckého zdravotnictví",
+      "values": [
+        "Japonsko",
+        "Spojené království",
+        "Slovensko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Frecce Tricolori",
+      "values": [
+        "Itálie",
+        "Čínská republika",
+        "Německo",
+        "Japonsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Agentura Evropské unie pro bezpečnost letectví",
+      "values": [
+        "Jihoafrická republika",
+        "Německo",
+        "Čínská republika",
+        "Austrálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Royal Flying Corps",
+      "values": [
+        "Thajsko",
+        "Spojené království",
+        "Itálie",
+        "Sýrie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Let Qantas 32",
+      "values": [
+        "Itálie",
+        "Austrálie",
+        "Spojené království",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Střední odborná škola civilního letectví",
+      "values": [
+        "Jihoafrická republika",
+        "Austrálie",
+        "Československo",
+        "Česko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

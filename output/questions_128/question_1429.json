@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "Pavel Fischer",
+      "values": [
+        "českého",
+        "kanadského",
+        "německého",
+        "litevského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Al Capone",
+      "values": [
+        "německého",
+        "portugalského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Radovan Lukavský",
+      "values": [
+        "litevského",
+        "švýcarského",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roman Joch",
+      "values": [
+        "německého",
+        "českého",
+        "francouzského",
+        "monackého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "János Kádár",
+      "values": [
+        "francouzského",
+        "litevského",
+        "portugalského",
+        "maďarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michal Semín",
+      "values": [
+        "maďarského",
+        "českého",
+        "francouzského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alžběta Přemyslovna",
+      "values": [
+        "monackého",
+        "amerického",
+        "litevského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "János Esterházy",
+      "values": [
+        "maďarského",
+        "německého",
+        "portugalského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rudolf Theobald Czernin",
+      "values": [
+        "českého",
+        "maďarského",
+        "švýcarského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jana Kristina Studničková",
+      "values": [
+        "švýcarského",
+        "českého",
+        "německého",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

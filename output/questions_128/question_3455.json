@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Kurt Cobain",
+      "values": [
+        "jihoafrického",
+        "italského",
+        "kolumbijského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ota Petřina",
+      "values": [
+        "rumunského",
+        "amerického",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kuba Ryba",
+      "values": [
+        "srbského",
+        "českého",
+        "jamajského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "David Duchovny",
+      "values": [
+        "jamajského",
+        "amerického",
+        "australského",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sonny Bono",
+      "values": [
+        "irského",
+        "amerického",
+        "francouzského",
+        "alžírského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tom Araya",
+      "values": [
+        "britského",
+        "dánského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Damian Marley",
+      "values": [
+        "norského",
+        "rumunského",
+        "dánského",
+        "jamajského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lou Bega",
+      "values": [
+        "německého",
+        "portorického",
+        "novozélandského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Johan Hegg",
+      "values": [
+        "nizozemského",
+        "španělského",
+        "brazilského",
+        "švédského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miroslav Skalický",
+      "values": [
+        "švédského",
+        "skotského",
+        "islandského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete etnický původ podle Čecha",
+  "questions": [
+    {
+      "key": "Andrej Babiš",
+      "values": [
+        "ukrajinský původ",
+        "japonský původ",
+        "slovenský původ",
+        "židovský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jana Černochová",
+      "values": [
+        "polský původ",
+        "francouzský původ",
+        "syrský původ",
+        "italský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dominik Feri",
+      "values": [
+        "syrský původ",
+        "etiopský původ",
+        "slovenský původ",
+        "italský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alice Masaryková",
+      "values": [
+        "židovský původ",
+        "francouzský původ",
+        "asijský původ",
+        "srbský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mirai Navrátil",
+      "values": [
+        "japonský původ",
+        "slovenský původ",
+        "ukrajinský původ",
+        "italský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladimír Mišík",
+      "values": [
+        "srbský původ",
+        "slovenský původ",
+        "italský původ",
+        "židovský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martha Issová",
+      "values": [
+        "etiopský původ",
+        "syrský původ",
+        "řecký původ",
+        "židovský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ektor",
+      "values": [
+        "asijský původ",
+        "srbský původ",
+        "řecký původ",
+        "polský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zdeněk Toman",
+      "values": [
+        "francouzský původ",
+        "etiopský původ",
+        "maďarský původ",
+        "srbský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hana Hegerová",
+      "values": [
+        "asijský původ",
+        "italský původ",
+        "maďarský původ",
+        "slovenský původ"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

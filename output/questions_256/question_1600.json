@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Štěpán Kozub",
+      "values": [
+        "finského",
+        "českého",
+        "nizozemského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Spálený",
+      "values": [
+        "sovětského",
+        "srbského",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Patrik Děrgel",
+      "values": [
+        "norského",
+        "skotského",
+        "nizozemského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jack Black",
+      "values": [
+        "finského",
+        "amerického",
+        "rumunského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bill Wyman",
+      "values": [
+        "jamajského",
+        "argentinského",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miki Ryvola",
+      "values": [
+        "německého",
+        "islandského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Peter Pecha",
+      "values": [
+        "kanadského",
+        "sovětského",
+        "švédského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Radim Schwab",
+      "values": [
+        "švédského",
+        "českého",
+        "islandského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Grace Jones",
+      "values": [
+        "jamajského",
+        "slovenského",
+        "argentinského",
+        "australského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Johnny Hallyday",
+      "values": [
+        "českého",
+        "francouzského",
+        "jihokorejského",
+        "moldavského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

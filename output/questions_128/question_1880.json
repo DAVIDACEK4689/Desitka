@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Barbora Hrzánová",
+      "values": [
+        "indickou",
+        "kolumbijskou",
+        "českou",
+        "španělskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Klára Kolomazníková",
+      "values": [
+        "nizozemskou",
+        "českou",
+        "španělskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Katarína Knechtová",
+      "values": [
+        "slovenskou",
+        "britskou",
+        "německou",
+        "jamajskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hana Buštíková",
+      "values": [
+        "chorvatskou",
+        "novozélandskou",
+        "moldavskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Katja Krasavice",
+      "values": [
+        "americkou",
+        "německou",
+        "peruánskou",
+        "brazilskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hana Horká",
+      "values": [
+        "českou",
+        "mexickou",
+        "ukrajinskou",
+        "kanadskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Anita Doth",
+      "values": [
+        "ukrajinskou",
+        "nizozemskou",
+        "britskou",
+        "kanadskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lisa Gerrardová",
+      "values": [
+        "kubánskou",
+        "ukrajinskou",
+        "australskou",
+        "rumunskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Yanna",
+      "values": [
+        "jihokorejskou",
+        "slovenskou",
+        "českou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anna German",
+      "values": [
+        "jihokorejskou",
+        "peruánskou",
+        "irskou",
+        "polskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

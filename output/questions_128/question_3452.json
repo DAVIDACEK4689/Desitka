@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Robert Kodym",
+      "values": [
+        "německého",
+        "českého",
+        "mexického",
+        "islandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Enrique Iglesias",
+      "values": [
+        "srbského",
+        "japonského",
+        "amerického",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vlastimil Horváth",
+      "values": [
+        "portorického",
+        "českého",
+        "mexického",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tom Beck",
+      "values": [
+        "španělského",
+        "australského",
+        "německého",
+        "alžírského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Doug Ingle",
+      "values": [
+        "finského",
+        "amerického",
+        "irského",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joe Strummer",
+      "values": [
+        "nizozemského",
+        "jihokorejského",
+        "dánského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaroslav Bobowski",
+      "values": [
+        "polského",
+        "kanadského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josh Homme",
+      "values": [
+        "italského",
+        "amerického",
+        "jihoafrického",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Xavier Naidoo",
+      "values": [
+        "kanadského",
+        "německého",
+        "sovětského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vince Gill",
+      "values": [
+        "britského",
+        "alžírského",
+        "amerického",
+        "australského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

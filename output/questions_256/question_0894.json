@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle jazyka",
+  "questions": [
+    {
+      "key": "Sanskrt",
+      "values": [
+        "Indie",
+        "Řecko",
+        "Mongolsko",
+        "Irsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Irština",
+      "values": [
+        "Irsko",
+        "Kambodža",
+        "Portugalsko",
+        "Švédsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kašubština",
+      "values": [
+        "Rusko",
+        "Španělsko",
+        "Moldavsko",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bosenština",
+      "values": [
+        "Španělsko",
+        "Dánsko",
+        "Kosovo",
+        "Bolívie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Suržyk",
+      "values": [
+        "Norsko",
+        "Ukrajina",
+        "Německo",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paňdžábština",
+      "values": [
+        "Indie",
+        "Kambodža",
+        "Švýcarsko",
+        "Brazílie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Korsičtina",
+      "values": [
+        "Moldavsko",
+        "Jižní Afrika",
+        "Francie",
+        "Singapur"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bokmål",
+      "values": [
+        "Jižní Afrika",
+        "Portugalsko",
+        "Norsko",
+        "Moldavsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Xhoština",
+      "values": [
+        "Moldavsko",
+        "Jižní Afrika",
+        "Ukrajina",
+        "Španělsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sardinština",
+      "values": [
+        "Itálie",
+        "Lotyšsko",
+        "Brazílie",
+        "Kambodža"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

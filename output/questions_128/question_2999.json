@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] ledního hokejistu?",
+  "questions": [
+    {
+      "key": "Luděk Čajka",
+      "values": [
+        "rakouského",
+        "švédského",
+        "československého",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "David Kaše",
+      "values": [
+        "švédského",
+        "finského",
+        "švýcarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Phil Esposito",
+      "values": [
+        "amerického",
+        "polského",
+        "finského",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Robert Kron",
+      "values": [
+        "rumunského",
+        "českého",
+        "finského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Artěmij Panarin",
+      "values": [
+        "ruského",
+        "německého",
+        "švýcarského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jakub Čutta",
+      "values": [
+        "amerického",
+        "kanadského",
+        "českého",
+        "československého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Platil",
+      "values": [
+        "slovenského",
+        "českého",
+        "švédského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Plášek",
+      "values": [
+        "polského",
+        "českého",
+        "sovětského",
+        "lotyšského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mikael Granlund",
+      "values": [
+        "kanadského",
+        "českého",
+        "finského",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Klobouček",
+      "values": [
+        "slovenského",
+        "kanadského",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

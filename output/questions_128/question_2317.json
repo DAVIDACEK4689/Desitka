@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] automobilku?",
+  "questions": [
+    {
+      "key": "Audi",
+      "values": [
+        "čínskou",
+        "německou",
+        "australskou",
+        "polskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Volvo",
+      "values": [
+        "australskou",
+        "švédskou",
+        "francouzskou",
+        "tureckou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Citroën",
+      "values": [
+        "švédskou",
+        "francouzskou",
+        "sovětskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lancia",
+      "values": [
+        "polskou",
+        "švýcarskou",
+        "ruskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Iveco Czech Republic",
+      "values": [
+        "českou",
+        "japonskou",
+        "švýcarskou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Datsun",
+      "values": [
+        "rakouskou",
+        "maďarskou",
+        "japonskou",
+        "vietnamskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Magna Steyr",
+      "values": [
+        "rakouskou",
+        "indickou",
+        "maďarskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Heinkel",
+      "values": [
+        "německou",
+        "americkou",
+        "slovenskou",
+        "australskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "MG",
+      "values": [
+        "britskou",
+        "francouzskou",
+        "vietnamskou",
+        "sovětskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dacia",
+      "values": [
+        "švédskou",
+        "ruskou",
+        "britskou",
+        "rumunskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

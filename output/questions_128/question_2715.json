@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] ledního hokejistu?",
+  "questions": [
+    {
+      "key": "Connor McDavid",
+      "values": [
+        "finského",
+        "slovinského",
+        "kanadského",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Teemu Selänne",
+      "values": [
+        "finského",
+        "ruského",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ilja Kovalčuk",
+      "values": [
+        "ruského",
+        "britského",
+        "slovinského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Aron Chmielewski",
+      "values": [
+        "polského",
+        "kanadského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jaromír Meixner",
+      "values": [
+        "ruského",
+        "německého",
+        "polského",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Neliba",
+      "values": [
+        "švýcarského",
+        "československého",
+        "rakouského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pat LaFontaine",
+      "values": [
+        "slovenského",
+        "sovětského",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Scott Stevens",
+      "values": [
+        "kanadského",
+        "švýcarského",
+        "ruského",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Patrik Miškář",
+      "values": [
+        "polského",
+        "německého",
+        "lotyšského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Knotek",
+      "values": [
+        "finského",
+        "švýcarského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

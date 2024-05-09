@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Barbora Poláková",
+      "values": [
+        "českou",
+        "portugalskou",
+        "norskou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ivana Korolová",
+      "values": [
+        "českou",
+        "španělskou",
+        "švédskou",
+        "australskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Samantha Fox",
+      "values": [
+        "britskou",
+        "kolumbijskou",
+        "jihokorejskou",
+        "mexickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kim Wilde",
+      "values": [
+        "jamajskou",
+        "britskou",
+        "japonskou",
+        "kanadskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Leighton Meesterová",
+      "values": [
+        "jihokorejskou",
+        "italskou",
+        "moldavskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Helena Maršálková",
+      "values": [
+        "českou",
+        "irskou",
+        "kubánskou",
+        "mexickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Toni Collette",
+      "values": [
+        "novozélandskou",
+        "australskou",
+        "americkou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ceca",
+      "values": [
+        "ukrajinskou",
+        "španělskou",
+        "srbskou",
+        "islandskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Haley Bennett",
+      "values": [
+        "barbadoskou",
+        "kolumbijskou",
+        "americkou",
+        "chorvatskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sharon Corr",
+      "values": [
+        "ruskou",
+        "irskou",
+        "barbadoskou",
+        "německou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

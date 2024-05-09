@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Johnny Depp",
+      "values": [
+        "hongkongského",
+        "amerického",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jackie Chan",
+      "values": [
+        "novozélandského",
+        "rakouského",
+        "slovenského",
+        "hongkongského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Juraj Herz",
+      "values": [
+        "norského",
+        "českého",
+        "německého",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Václav Marhoul",
+      "values": [
+        "českého",
+        "amerického",
+        "dánského",
+        "hongkongského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Čtvrtníček",
+      "values": [
+        "slovenského",
+        "českého",
+        "amerického",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Klaus Kinski",
+      "values": [
+        "německého",
+        "amerického",
+        "slovenského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Christian Clavier",
+      "values": [
+        "českého",
+        "německého",
+        "irského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eduard Dubský",
+      "values": [
+        "českého",
+        "norského",
+        "ukrajinského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Luchino Visconti",
+      "values": [
+        "německého",
+        "italského",
+        "francouzského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pedro Almodóvar",
+      "values": [
+        "dánského",
+        "irského",
+        "rakouského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

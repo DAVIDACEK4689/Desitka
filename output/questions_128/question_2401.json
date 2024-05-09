@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Tampere",
+      "values": [
+        "Norsko",
+        "Finsko",
+        "Japonsko",
+        "Sýrie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gíza",
+      "values": [
+        "Ukrajina",
+        "Egypt",
+        "Německo",
+        "Keňa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oviedo",
+      "values": [
+        "Somálsko",
+        "Španělsko",
+        "Niger",
+        "Kypr"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oran",
+      "values": [
+        "Nikaragua",
+        "Mexiko",
+        "Alžírsko",
+        "Tunisko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nagykanizsa",
+      "values": [
+        "Maďarsko",
+        "Severní Makedonie",
+        "Švýcarsko",
+        "Gabon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gbely",
+      "values": [
+        "Uganda",
+        "Slovensko",
+        "Myanmar",
+        "Írán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Šurany",
+      "values": [
+        "Eritrea",
+        "Malajsie",
+        "Slovensko",
+        "Libye"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bjelovar",
+      "values": [
+        "Chorvatsko",
+        "Uzbekistán",
+        "Laos",
+        "Tanzanie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Södertälje",
+      "values": [
+        "Švédsko",
+        "Slovensko",
+        "Ghana",
+        "Paraguay"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vraca",
+      "values": [
+        "Bulharsko",
+        "Slovinsko",
+        "Mexiko",
+        "Indonésie"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

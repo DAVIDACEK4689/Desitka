@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Petra Černocká",
+      "values": [
+        "jihokorejskou",
+        "slovenskou",
+        "švýcarskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kamila Janovičová",
+      "values": [
+        "českou",
+        "australskou",
+        "rakouskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marion Cotillard",
+      "values": [
+        "německou",
+        "francouzskou",
+        "bermudskou",
+        "brazilskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sabrina Salerno",
+      "values": [
+        "tureckou",
+        "německou",
+        "italskou",
+        "maďarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andrea Daňková",
+      "values": [
+        "srbskou",
+        "nizozemskou",
+        "britskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jarmila Novotná",
+      "values": [
+        "ruskou",
+        "českou",
+        "americkou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Phoebe Dynevor",
+      "values": [
+        "jihokorejskou",
+        "finskou",
+        "švýcarskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Charlotte Le Bon",
+      "values": [
+        "mexickou",
+        "norskou",
+        "jihokorejskou",
+        "kanadskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Yanti Somer",
+      "values": [
+        "norskou",
+        "finskou",
+        "irskou",
+        "uzbeckou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tatiana Maslany",
+      "values": [
+        "slovenskou",
+        "brazilskou",
+        "kanadskou",
+        "irskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

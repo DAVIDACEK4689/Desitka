@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte sport podle švýcarského sportovce",
+  "questions": [
+    {
+      "key": "Kevin Fiala",
+      "values": [
+        "tenista",
+        "horolezec",
+        "cyklista",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ueli Steck",
+      "values": [
+        "lední hokejista",
+        "cyklista",
+        "pilot",
+        "horolezec"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nino Schurter",
+      "values": [
+        "fotbalista",
+        "cyklista",
+        "pilot",
+        "tenista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivan Rakitić",
+      "values": [
+        "pilot",
+        "lední hokejista",
+        "tenista",
+        "fotbalista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Robert Mayer",
+      "values": [
+        "lední hokejista",
+        "pilot",
+        "fotbalista",
+        "cyklista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Xherdan Shaqiri",
+      "values": [
+        "fotbalista",
+        "tenista",
+        "lední hokejista",
+        "pilot"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nino Niederreiter",
+      "values": [
+        "pilot",
+        "tenista",
+        "lední hokejista",
+        "fotbalista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fabian Cancellara",
+      "values": [
+        "fotbalista",
+        "tenista",
+        "horolezec",
+        "cyklista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jolanda Neffová",
+      "values": [
+        "cyklista",
+        "horolezec",
+        "tenista",
+        "lední hokejista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Roman Josi",
+      "values": [
+        "lední hokejista",
+        "horolezec",
+        "tenista",
+        "pilot"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

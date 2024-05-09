@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle muzea",
+  "questions": [
+    {
+      "key": "Dům Anne Frankové",
+      "values": [
+        "Slovensko",
+        "Itálie",
+        "Nizozemsko",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Van Goghovo muzeum",
+      "values": [
+        "Nizozemsko",
+        "Vatikán",
+        "Austrálie",
+        "Rakousko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Raffaelovy sály",
+      "values": [
+        "Vatikán",
+        "Dánsko",
+        "Francie",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mauritshuis",
+      "values": [
+        "Spojené království",
+        "Nizozemsko",
+        "Švýcarsko",
+        "Austrálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mozartův rodný dům",
+      "values": [
+        "Švýcarsko",
+        "Austrálie",
+        "Rakousko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Munchovo muzeum",
+      "values": [
+        "Česko",
+        "Gruzie",
+        "Německo",
+        "Norsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Louisiana Museum of Modern Art",
+      "values": [
+        "Slovensko",
+        "Rakousko",
+        "Dánsko",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ashmoleovo muzeum",
+      "values": [
+        "Spojené království",
+        "Švýcarsko",
+        "Itálie",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Frederiksborg",
+      "values": [
+        "Vatikán",
+        "Dánsko",
+        "Spojené království",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Buonconsiglio",
+      "values": [
+        "Itálie",
+        "Francie",
+        "Španělsko",
+        "Austrálie"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

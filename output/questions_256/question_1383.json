@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Princezna ze mlejna",
+      "values": [
+        "Zdeněk Troška",
+        "Jiří Strach",
+        "Václav Vorlíček",
+        "Miloslav Šmídmajer"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lotrando a Zubejda",
+      "values": [
+        "Karel Lamač",
+        "Karel Zeman",
+        "Karel Steklý",
+        "Karel Smyczek"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Všichni dobří rodáci",
+      "values": [
+        "Tomáš Vorel",
+        "Vojtěch Jasný",
+        "Karel Zeman",
+        "Petr Jákl"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jak básníci neztrácejí naději",
+      "values": [
+        "Dušan Klein",
+        "Pavel Juráček",
+        "Václav Vorlíček",
+        "Hynek Bočan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "U mě dobrý",
+      "values": [
+        "Jiří Strach",
+        "Jaromil Jireš",
+        "Jan Hřebejk",
+        "Jiří Menzel"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cesta do hlubin študákovy duše",
+      "values": [
+        "Jindřich Polák",
+        "Karel Lamač",
+        "Martin Frič",
+        "Jan Svěrák"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Horem pádem",
+      "values": [
+        "Dušan Klein",
+        "Jiří Strach",
+        "Jan Hřebejk",
+        "Otakar Vávra"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Řekni to psem",
+      "values": [
+        "Zdeněk Troška",
+        "Robert Sedláček",
+        "Jiří Strach",
+        "Petr Zelenka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Akumulátor 1",
+      "values": [
+        "Juraj Herz",
+        "Petr Zelenka",
+        "Karel Smyczek",
+        "Jan Svěrák"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Život a neobyčejná dobrodružství vojáka Ivana Čonkina",
+      "values": [
+        "Jiří Menzel",
+        "Miloš Forman",
+        "Otakar Vávra",
+        "Jiří Sequens"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle lázně",
+  "questions": [
+    {
+      "key": "Stuttgart",
+      "values": [
+        "Maďarsko",
+        "Německo",
+        "Řecko",
+        "Francie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karpacz",
+      "values": [
+        "Polsko",
+        "Slovensko",
+        "Rakousko",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Merano",
+      "values": [
+        "Spojené království",
+        "Itálie",
+        "Španělsko",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hlucholazy",
+      "values": [
+        "Polsko",
+        "Francie",
+        "Estonsko",
+        "Spojené království"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Spa",
+      "values": [
+        "Estonsko",
+        "Belgie",
+        "Rakousko",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Turčianske Teplice",
+      "values": [
+        "Rakousko",
+        "Itálie",
+        "Spojené království",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bad Füssing",
+      "values": [
+        "Gruzie",
+        "Slovinsko",
+        "Německo",
+        "Estonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bad Elster",
+      "values": [
+        "Slovensko",
+        "Belgie",
+        "Gruzie",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jonsdorf",
+      "values": [
+        "Německo",
+        "Španělsko",
+        "Gruzie",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kislovodsk",
+      "values": [
+        "Španělsko",
+        "Lotyšsko",
+        "Litva",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

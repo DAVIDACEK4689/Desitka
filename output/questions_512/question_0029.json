@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Pražské povstání",
+      "values": [
+        "1945",
+        "1809",
+        "1066",
+        "1746"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Lipska",
+      "values": [
+        "1813",
+        "1389",
+        "1260",
+        "1940"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Little Bighornu",
+      "values": [
+        "1942",
+        "1453",
+        "1876",
+        "1944"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Sokolova",
+      "values": [
+        "1632",
+        "1426",
+        "1918",
+        "1943"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Kolína",
+      "values": [
+        "1620",
+        "1993",
+        "1757",
+        "1812"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Malešova",
+      "values": [
+        "1775",
+        "1410",
+        "1588",
+        "1424"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Poltavy",
+      "values": [
+        "1939",
+        "1389",
+        "1709",
+        "1940"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Bannockburnu",
+      "values": [
+        "1815",
+        "1066",
+        "1526",
+        "1314"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Lützenu",
+      "values": [
+        "1632",
+        "1939",
+        "1942",
+        "1415"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Operace Gothic Serpent",
+      "values": [
+        "1876",
+        "1427",
+        "1813",
+        "1993"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

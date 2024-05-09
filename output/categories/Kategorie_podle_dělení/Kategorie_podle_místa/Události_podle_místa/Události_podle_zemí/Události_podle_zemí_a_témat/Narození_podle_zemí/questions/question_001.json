@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle narození",
+  "questions": [
+    {
+      "key": "Rihanna",
+      "values": [
+        "Portugalsko",
+        "Alžírsko",
+        "Barbados",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lev Nikolajevič Tolstoj",
+      "values": [
+        "Turecko",
+        "Španělsko",
+        "Slovinsko",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Usain Bolt",
+      "values": [
+        "Alžírsko",
+        "Jamajka",
+        "Libye",
+        "Španělsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rafael Nadal",
+      "values": [
+        "Rusko",
+        "Španělsko",
+        "Francie",
+        "Turecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Muammar Kaddáfí",
+      "values": [
+        "Barbados",
+        "Libye",
+        "Jamajka",
+        "Dánsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Blanka z Valois",
+      "values": [
+        "Rusko",
+        "Španělsko",
+        "Portugalsko",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tadej Pogačar",
+      "values": [
+        "Barbados",
+        "Slovinsko",
+        "Libye",
+        "Portugalsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fernão de Magalhães",
+      "values": [
+        "Portugalsko",
+        "Dánsko",
+        "Rusko",
+        "Libye"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Svatý Augustin",
+      "values": [
+        "Alžírsko",
+        "Barbados",
+        "Libye",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Barbora z Nikomédie",
+      "values": [
+        "Francie",
+        "Slovinsko",
+        "Alžírsko",
+        "Turecko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

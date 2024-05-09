@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "František Hrubín",
+      "values": [
+        "perského",
+        "anglického",
+        "českého",
+        "gruzínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Fousek",
+      "values": [
+        "českého",
+        "chorvatského",
+        "tureckého",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "František Kaván",
+      "values": [
+        "švýcarského",
+        "německého",
+        "islandského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stéphane Mallarmé",
+      "values": [
+        "francouzského",
+        "řeckého",
+        "belgického",
+        "albánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dawid Jung",
+      "values": [
+        "maďarského",
+        "belgického",
+        "polského",
+        "albánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Albert Pike",
+      "values": [
+        "palestinského",
+        "amerického",
+        "vietnamského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "John Giorno",
+      "values": [
+        "amerického",
+        "gruzínského",
+        "polského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fjodor Ivanovič Ťutčev",
+      "values": [
+        "kubánského",
+        "řeckého",
+        "ruského",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jean Froissart",
+      "values": [
+        "francouzského",
+        "ruského",
+        "švédského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Georges Brassens",
+      "values": [
+        "amerického",
+        "ukrajinského",
+        "francouzského",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

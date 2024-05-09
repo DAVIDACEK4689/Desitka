@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Mlčení jehňátek",
+      "values": [
+        "John Landis",
+        "Jonathan Demme",
+        "Chris Columbus",
+        "McG"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Smrtonosná past",
+      "values": [
+        "Gregory Hoblit",
+        "Terry Gilliam",
+        "John McTiernan",
+        "Alfred Hitchcock"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tanec s vlky",
+      "values": [
+        "Harold Ramis",
+        "Chris Columbus",
+        "Kevin Costner",
+        "Jonathan Demme"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Horečka sobotní noci",
+      "values": [
+        "Charles Shyer",
+        "McG",
+        "Jason Friedberg a Aaron Seltzer",
+        "John Badham"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mazací hlava",
+      "values": [
+        "Harold Becker",
+        "Robert Redford",
+        "William Wyler",
+        "David Lynch"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Batman navždy",
+      "values": [
+        "Ang Lee",
+        "Sam Raimi",
+        "Joel Schumacher",
+        "Kathryn Bigelowová"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tenkrát v Mexiku",
+      "values": [
+        "John Lasseter",
+        "David Frankel",
+        "Robert Rodriguez",
+        "William Wyler"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Smrtonosná past 3",
+      "values": [
+        "John Lasseter",
+        "Chris Columbus",
+        "George Roy Hill",
+        "John McTiernan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Láska přes internet",
+      "values": [
+        "Nora Ephronová",
+        "Andrew Stanton",
+        "Richard Linklater",
+        "Sydney Pollack"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Navždy a daleko",
+      "values": [
+        "Tim Robbins",
+        "Rob Cohen",
+        "Ron Howard",
+        "Billy Wilder"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

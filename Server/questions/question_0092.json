@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] ledního hokejistu?",
+  "questions": [
+    {
+      "key": "Jaromír Jágr",
+      "values": [
+        "slovenského",
+        "českého",
+        "švýcarského",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Plekanec",
+      "values": [
+        "československého",
+        "švýcarského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimír Růžička",
+      "values": [
+        "českého",
+        "československého",
+        "slovenského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Dopita",
+      "values": [
+        "českého",
+        "švýcarského",
+        "československého",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bohumil Modrý",
+      "values": [
+        "slovenského",
+        "československého",
+        "ruského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ondřej Pavelec",
+      "values": [
+        "českého",
+        "švýcarského",
+        "kanadského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Nečas",
+      "values": [
+        "českého",
+        "československého",
+        "ruského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alois Hadamczik",
+      "values": [
+        "švýcarského",
+        "kanadského",
+        "ruského",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kevin Fiala",
+      "values": [
+        "švýcarského",
+        "slovenského",
+        "československého",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Leo Gudas",
+      "values": [
+        "švýcarského",
+        "kanadského",
+        "československého",
+        "českého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

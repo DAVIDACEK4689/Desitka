@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] generála?",
+  "questions": [
+    {
+      "key": "Karel Řehka",
+      "values": [
+        "britského",
+        "švédského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "František Fajtl",
+      "values": [
+        "rakouského",
+        "mexického",
+        "řeckého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Šnejdárek",
+      "values": [
+        "mexického",
+        "československého",
+        "slovenského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Theodor Eicke",
+      "values": [
+        "amerického",
+        "českého",
+        "španělského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Šejna",
+      "values": [
+        "československého",
+        "slovenského",
+        "mexického",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Reinhard Gehlen",
+      "values": [
+        "izraelského",
+        "španělského",
+        "německého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lavr Georgijevič Kornilov",
+      "values": [
+        "mexického",
+        "rakouského",
+        "československého",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Serhij Šaptala",
+      "values": [
+        "dánského",
+        "ukrajinského",
+        "britského",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Otto Smik",
+      "values": [
+        "slovenského",
+        "britského",
+        "ukrajinského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lenka Šmerdová",
+      "values": [
+        "švédského",
+        "bulharského",
+        "sovětského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

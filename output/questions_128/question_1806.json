@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] šlechtice?",
+  "questions": [
+    {
+      "key": "John Major",
+      "values": [
+        "španělského",
+        "gruzínského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jane Goodallová",
+      "values": [
+        "francouzského",
+        "rakouského",
+        "nizozemského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Renaud ze Châtillonu",
+      "values": [
+        "dánského",
+        "řeckého",
+        "francouzského",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Heřman Černín z Chudenic",
+      "values": [
+        "slovenského",
+        "ruského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Führich",
+      "values": [
+        "švédského",
+        "slezského",
+        "rakouského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Evžen Mořic Savojský",
+      "values": [
+        "slezského",
+        "německého",
+        "gruzínského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zdeněk Elger z Elgenfeldu",
+      "values": [
+        "monackého",
+        "českého",
+        "portugalského",
+        "uherského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Albrecht Aleš ze Šternberka",
+      "values": [
+        "moravského",
+        "portugalského",
+        "řeckého",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lacek z Kravař a Helfštejna",
+      "values": [
+        "ruského",
+        "švédského",
+        "slovenského",
+        "moravského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gustav Kálnoky",
+      "values": [
+        "britského",
+        "španělského",
+        "moravského",
+        "uherského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

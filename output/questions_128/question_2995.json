@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] ledního hokejistu?",
+  "questions": [
+    {
+      "key": "Gordie Howe",
+      "values": [
+        "finského",
+        "kanadského",
+        "lotyšského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jukka Jalonen",
+      "values": [
+        "německého",
+        "finského",
+        "slovinského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tomáš Tatar",
+      "values": [
+        "britského",
+        "kanadského",
+        "slovenského",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robert Hamrla",
+      "values": [
+        "amerického",
+        "českého",
+        "rumunského",
+        "československého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jonathan Quick",
+      "values": [
+        "amerického",
+        "finského",
+        "polského",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Claude Giroux",
+      "values": [
+        "kanadského",
+        "švédského",
+        "slovinského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marek Ďaloga",
+      "values": [
+        "sovětského",
+        "slovenského",
+        "finského",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oļegs Znaroks",
+      "values": [
+        "lotyšského",
+        "rumunského",
+        "německého",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Kumstát",
+      "values": [
+        "českého",
+        "lotyšského",
+        "finského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Podlešák",
+      "values": [
+        "československého",
+        "českého",
+        "polského",
+        "britského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

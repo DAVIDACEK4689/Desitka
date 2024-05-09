@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Kadaň",
+      "values": [
+        "Mandava",
+        "Váha",
+        "Ohře",
+        "Inn"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nantes",
+      "values": [
+        "Jizera",
+        "Visla",
+        "Malše",
+        "Loira"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Radotín",
+      "values": [
+        "Berounka",
+        "Něva",
+        "Seina",
+        "Ohře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Trhová Kamenice",
+      "values": [
+        "Cidlina",
+        "Otava",
+        "Volha",
+        "Chrudimka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Velké Březno",
+      "values": [
+        "Tibera",
+        "Eufrat",
+        "Labe",
+        "Sebnice"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hořín",
+      "values": [
+        "Jizera",
+        "Dněpr",
+        "Vltava",
+        "Rýn"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roudné",
+      "values": [
+        "Dněpr",
+        "Těrek",
+        "Malše",
+        "Svratka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Weißwasser",
+      "values": [
+        "Spréva",
+        "Don",
+        "Temže",
+        "Polenz"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Komorní Hrádek",
+      "values": [
+        "Visla",
+        "Malše",
+        "Otava",
+        "Sázava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Želiezovce",
+      "values": [
+        "Hron",
+        "Vltava",
+        "Berounka",
+        "Lužnice"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

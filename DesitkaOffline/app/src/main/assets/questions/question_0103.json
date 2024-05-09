@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] inženýra?",
+  "questions": [
+    {
+      "key": "Neil Armstrong",
+      "values": [
+        "švédského",
+        "amerického",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zdeněk Chlopčík",
+      "values": [
+        "ruského",
+        "slovenského",
+        "českého",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "František Křižík",
+      "values": [
+        "českého",
+        "slovenského",
+        "německého",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Boris Jelcin",
+      "values": [
+        "ruského",
+        "slovenského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Andrej Kiska",
+      "values": [
+        "českého",
+        "německého",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Henry Ford",
+      "values": [
+        "českého",
+        "slovenského",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Adolph Frank",
+      "values": [
+        "německého",
+        "slovenského",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dolph Lundgren",
+      "values": [
+        "švédského",
+        "českého",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Emil Kolben",
+      "values": [
+        "ruského",
+        "německého",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Wilhelm Conrad Röntgen",
+      "values": [
+        "německého",
+        "švédského",
+        "slovenského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

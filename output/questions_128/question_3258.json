@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] firmu?",
+  "questions": [
+    {
+      "key": "Airbnb",
+      "values": [
+        "švýcarskou",
+        "americkou",
+        "vietnamskou",
+        "švédskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "General Electric",
+      "values": [
+        "nizozemskou",
+        "dánskou",
+        "německou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "CITIC Group",
+      "values": [
+        "finskou",
+        "čínskou",
+        "indickou",
+        "sovětskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Amundi",
+      "values": [
+        "australskou",
+        "saúdskoarabskou",
+        "francouzskou",
+        "japonskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Shimano",
+      "values": [
+        "japonskou",
+        "dánskou",
+        "italskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Beretta",
+      "values": [
+        "japonskou",
+        "australskou",
+        "italskou",
+        "španělskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lions Gate Entertainment",
+      "values": [
+        "finskou",
+        "americkou",
+        "slovenskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pentax",
+      "values": [
+        "japonskou",
+        "slovenskou",
+        "slovinskou",
+        "polskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Future Systems",
+      "values": [
+        "maltskou",
+        "sovětskou",
+        "irskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Minolta",
+      "values": [
+        "japonskou",
+        "maďarskou",
+        "norskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

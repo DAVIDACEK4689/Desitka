@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebníka?",
+  "questions": [
+    {
+      "key": "Ondřej Brousek",
+      "values": [
+        "slovenského",
+        "irského",
+        "nizozemského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Písařík",
+      "values": [
+        "německého",
+        "řeckého",
+        "arménského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Budař",
+      "values": [
+        "francouzského",
+        "kanadského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jake Paul",
+      "values": [
+        "českého",
+        "kanadského",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Separ",
+      "values": [
+        "norského",
+        "španělského",
+        "slovenského",
+        "jamajského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stevie Wonder",
+      "values": [
+        "rakouského",
+        "arménského",
+        "amerického",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ezra Miller",
+      "values": [
+        "řeckého",
+        "arménského",
+        "amerického",
+        "chorvatského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Steve Martin",
+      "values": [
+        "australského",
+        "arménského",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kevin Bacon",
+      "values": [
+        "australského",
+        "švédského",
+        "amerického",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "John Denver",
+      "values": [
+        "amerického",
+        "arménského",
+        "francouzského",
+        "britského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Kodaň",
+      "values": [
+        "Ekvádor",
+        "Dánsko",
+        "Švýcarsko",
+        "Jemen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Split",
+      "values": [
+        "Jordánsko",
+        "Slovinsko",
+        "Chorvatsko",
+        "Albánie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mariupol",
+      "values": [
+        "Surinam",
+        "Ukrajina",
+        "Saúdská Arábie",
+        "Španělsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Drač",
+      "values": [
+        "Albánie",
+        "Itálie",
+        "Nigérie",
+        "Indonésie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kiel",
+      "values": [
+        "Malta",
+        "Venezuela",
+        "Německo",
+        "Saúdská Arábie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pafos",
+      "values": [
+        "Kypr",
+        "Tanzanie",
+        "Argentina",
+        "Bulharsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Suchumi",
+      "values": [
+        "Kolumbie",
+        "Rusko",
+        "Gruzie",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Izmajil",
+      "values": [
+        "Ázerbájdžán",
+        "Ukrajina",
+        "Tanzanie",
+        "Kolumbie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tivat",
+      "values": [
+        "Rumunsko",
+        "Mauritánie",
+        "Nigérie",
+        "Černá Hora"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Helsingborg",
+      "values": [
+        "Uruguay",
+        "Itálie",
+        "Indie",
+        "Švédsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

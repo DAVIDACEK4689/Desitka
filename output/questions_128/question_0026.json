@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte autora podle stavby",
+  "questions": [
+    {
+      "key": "Mohyla míru",
+      "values": [
+        "Václav Aulický",
+        "Adolf Loos",
+        "Josef Fanta",
+        "Antonín Balšánek"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Banka československých legií",
+      "values": [
+        "Antonín Wiehl",
+        "Jindřich Freiwald",
+        "Josef Gočár",
+        "Vojtěch Ignác Ullmann"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vyšší dívčí škola v Praze",
+      "values": [
+        "Jiří Stibral",
+        "Vojtěch Ignác Ullmann",
+        "Josef Zasche",
+        "Jaroslav Fragner"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Velké kino",
+      "values": [
+        "Victor Horta",
+        "Friedrich Ohmann",
+        "František Lýdie Gahura",
+        "František Albert Libra"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Radiopalác",
+      "values": [
+        "Josef Danda",
+        "Věra Machoninová",
+        "Kilián Ignác Dientzenhofer",
+        "Alois Dryák"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Červená vila",
+      "values": [
+        "Adolf Foehr",
+        "Emil Králíček",
+        "Vladimír Dedeček",
+        "Josef Gočár"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lexova vila",
+      "values": [
+        "Vladimír Karfík",
+        "Jindřich Freiwald",
+        "Jože Plečnik",
+        "Otakar Novotný"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dům U Tří mouřenínů",
+      "values": [
+        "Max Spielmann",
+        "Martin Rajniš",
+        "Friedrich Ohmann",
+        "Jaroslav Fragner"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Katedrála Zjevení Panny Marie",
+      "values": [
+        "František Albert Libra",
+        "Oscar Niemeyer",
+        "Věra Machoninová",
+        "Jan Kaplický"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Divadlo Karla Pippicha",
+      "values": [
+        "Martin Rajniš",
+        "Jože Plečnik",
+        "Jindřich Freiwald",
+        "Richard Klenka"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

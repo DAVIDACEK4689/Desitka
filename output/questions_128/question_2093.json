@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Valerij Gerasimov",
+      "values": [
+        "československého",
+        "ruského",
+        "gruzínského",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Frans Timmermans",
+      "values": [
+        "nizozemského",
+        "kubánského",
+        "pruského",
+        "ekvádorského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Julius Streicher",
+      "values": [
+        "belgického",
+        "německého",
+        "katarského",
+        "pruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gennadij Zjuganov",
+      "values": [
+        "libyjského",
+        "gruzínského",
+        "tureckého",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hasso von Manteuffel",
+      "values": [
+        "ghanského",
+        "maltského",
+        "eritrejského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Emmeline Pankhurstová",
+      "values": [
+        "singapurského",
+        "arménského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andrij Atanasovyč Melnyk",
+      "values": [
+        "malajsijského",
+        "ruského",
+        "ukrajinského",
+        "libyjského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Joannis Kapodistrias",
+      "values": [
+        "filipínského",
+        "bolivijského",
+        "ruského",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dušan Galis",
+      "values": [
+        "kubánského",
+        "argentinského",
+        "kyrgyzského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ernst Kundt",
+      "values": [
+        "vietnamského",
+        "českého",
+        "německého",
+        "nigerského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

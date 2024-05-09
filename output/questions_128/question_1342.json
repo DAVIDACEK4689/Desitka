@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] novinu?",
+  "questions": [
+    {
+      "key": "Mladá fronta DNES",
+      "values": [
+        "ruskou",
+        "švédskou",
+        "českou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "The New York Times",
+      "values": [
+        "německou",
+        "polskou",
+        "americkou",
+        "ruskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Haló noviny",
+      "values": [
+        "československou",
+        "švédskou",
+        "českou",
+        "izraelskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Izvestija",
+      "values": [
+        "francouzskou",
+        "ruskou",
+        "španělskou",
+        "rakouskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Komsomolskaja pravda",
+      "values": [
+        "německou",
+        "francouzskou",
+        "švédskou",
+        "ruskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Denník N",
+      "values": [
+        "československou",
+        "polskou",
+        "švédskou",
+        "slovenskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "The Daily Telegraph",
+      "values": [
+        "britskou",
+        "německou",
+        "slovenskou",
+        "českou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Völkischer Beobachter",
+      "values": [
+        "rakouskou",
+        "slovenskou",
+        "německou",
+        "španělskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Večerník Praha",
+      "values": [
+        "britskou",
+        "polskou",
+        "českou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Daily Mirror",
+      "values": [
+        "českou",
+        "ruskou",
+        "britskou",
+        "československou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

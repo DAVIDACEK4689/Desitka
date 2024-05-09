@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Plzeň",
+      "values": [
+        "Belgie",
+        "Česko",
+        "Spojené království",
+        "Portugalsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Varšava",
+      "values": [
+        "Polsko",
+        "Česko",
+        "Belgie",
+        "Irsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Antverpy",
+      "values": [
+        "Belgie",
+        "Rakousko",
+        "Polsko",
+        "Německo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Prešov",
+      "values": [
+        "Slovensko",
+        "Dánsko",
+        "Česko",
+        "Belgie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gdyně",
+      "values": [
+        "Irsko",
+        "Slovensko",
+        "Německo",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Essen",
+      "values": [
+        "Německo",
+        "Belgie",
+        "Rakousko",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Winchester",
+      "values": [
+        "Německo",
+        "Česko",
+        "Spojené království",
+        "Nizozemsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Arezzo",
+      "values": [
+        "Česko",
+        "Itálie",
+        "Spojené království",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Breda",
+      "values": [
+        "Česko",
+        "Nizozemsko",
+        "Belgie",
+        "Maďarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Durham",
+      "values": [
+        "Portugalsko",
+        "Spojené království",
+        "Nizozemsko",
+        "Česko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

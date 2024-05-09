@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Marakuja",
+      "values": [
+        "Madagaskar",
+        "Austrálie",
+        "Mexiko",
+        "Brazílie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Reveň kadeřavá",
+      "values": [
+        "Česko",
+        "Brazílie",
+        "Mongolsko",
+        "Austrálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mochyně peruánská",
+      "values": [
+        "Nový Zéland",
+        "Brazílie",
+        "Madagaskar",
+        "Austrálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rakytník",
+      "values": [
+        "Brazílie",
+        "Mexiko",
+        "Austrálie",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Agáve",
+      "values": [
+        "Austrálie",
+        "Mexiko",
+        "Nový Zéland",
+        "Madagaskar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Juvie ztepilá",
+      "values": [
+        "Austrálie",
+        "Mongolsko",
+        "Nový Zéland",
+        "Brazílie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Meruzalka",
+      "values": [
+        "Mexiko",
+        "Madagaskar",
+        "Mongolsko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Krvavec toten",
+      "values": [
+        "Česko",
+        "Mongolsko",
+        "Madagaskar",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lomikámen",
+      "values": [
+        "Madagaskar",
+        "Česko",
+        "Mongolsko",
+        "Mexiko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Heřmánkovec nevonný",
+      "values": [
+        "Česko",
+        "Madagaskar",
+        "Austrálie",
+        "Mongolsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistku?",
+  "questions": [
+    {
+      "key": "Petra Kvitová",
+      "values": [
+        "americkou",
+        "španělskou",
+        "českou",
+        "tuniskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ons Džabúrová",
+      "values": [
+        "australskou",
+        "tuniskou",
+        "dánskou",
+        "brazilskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Coco Gauffová",
+      "values": [
+        "švýcarskou",
+        "americkou",
+        "běloruskou",
+        "řeckou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Caroline Wozniacká",
+      "values": [
+        "československou",
+        "ruskou",
+        "lotyšskou",
+        "dánskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Harriet Dartová",
+      "values": [
+        "britskou",
+        "ukrajinskou",
+        "estonskou",
+        "argentinskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mirka Federerová",
+      "values": [
+        "švýcarskou",
+        "polskou",
+        "italskou",
+        "československou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ana Ivanovićová",
+      "values": [
+        "argentinskou",
+        "rumunskou",
+        "srbskou",
+        "polskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anastasija Pavljučenkovová",
+      "values": [
+        "brazilskou",
+        "italskou",
+        "ruskou",
+        "argentinskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Taylor Townsendová",
+      "values": [
+        "americkou",
+        "ukrajinskou",
+        "argentinskou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martina Trevisanová",
+      "values": [
+        "švýcarskou",
+        "lotyšskou",
+        "italskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

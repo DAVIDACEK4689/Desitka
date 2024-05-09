@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] firmu?",
+  "questions": [
+    {
+      "key": "IKEA",
+      "values": [
+        "švédskou",
+        "finskou",
+        "jihokorejskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Spotify",
+      "values": [
+        "německou",
+        "švédskou",
+        "českou",
+        "španělskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jysk",
+      "values": [
+        "českou",
+        "dánskou",
+        "španělskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Samsung",
+      "values": [
+        "japonskou",
+        "jihokorejskou",
+        "rakouskou",
+        "španělskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Philips",
+      "values": [
+        "americkou",
+        "polskou",
+        "nizozemskou",
+        "českou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Czechoslovak Group",
+      "values": [
+        "českou",
+        "jihokorejskou",
+        "finskou",
+        "dánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tchibo",
+      "values": [
+        "německou",
+        "jihokorejskou",
+        "finskou",
+        "švédskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Swarovski",
+      "values": [
+        "jihokorejskou",
+        "polskou",
+        "rakouskou",
+        "španělskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Volvo",
+      "values": [
+        "švédskou",
+        "rakouskou",
+        "československou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sony",
+      "values": [
+        "německou",
+        "japonskou",
+        "čínskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

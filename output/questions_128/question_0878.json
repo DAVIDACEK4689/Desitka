@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Viktor Dyk",
+      "values": [
+        "českého",
+        "polského",
+        "maďarského",
+        "islandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rainer Maria Rilke",
+      "values": [
+        "německého",
+        "irského",
+        "chorvatského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaroslav Durych",
+      "values": [
+        "českého",
+        "kubánského",
+        "rumunského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gilbert Keith Chesterton",
+      "values": [
+        "anglického",
+        "japonského",
+        "polského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Kukal",
+      "values": [
+        "kanadského",
+        "skotského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miroslav Válek",
+      "values": [
+        "palestinského",
+        "ruského",
+        "britského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Giacomo Leopardi",
+      "values": [
+        "italského",
+        "britského",
+        "perského",
+        "kubánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Edmund Kaizl",
+      "values": [
+        "ukrajinského",
+        "kanadského",
+        "chorvatského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Robert Desnos",
+      "values": [
+        "francouzského",
+        "řeckého",
+        "norského",
+        "chorvatského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavel Cmíral",
+      "values": [
+        "francouzského",
+        "českého",
+        "anglického",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

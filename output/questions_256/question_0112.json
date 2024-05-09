@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] leteckou společnost?",
+  "questions": [
+    {
+      "key": "Smartwings",
+      "values": [
+        "jihokorejskou",
+        "španělskou",
+        "řeckou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lufthansa",
+      "values": [
+        "ruskou",
+        "maďarskou",
+        "německou",
+        "rakouskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "EasyJet",
+      "values": [
+        "britskou",
+        "řeckou",
+        "severokorejskou",
+        "maďarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eurowings",
+      "values": [
+        "německou",
+        "jihokorejskou",
+        "rakouskou",
+        "etiopskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Austrian Airlines",
+      "values": [
+        "tureckou",
+        "španělskou",
+        "německou",
+        "rakouskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Smartwings Group",
+      "values": [
+        "izraelskou",
+        "irskou",
+        "katarskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pegasus Airlines",
+      "values": [
+        "ruskou",
+        "izraelskou",
+        "tureckou",
+        "katarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Trans World Airlines",
+      "values": [
+        "americkou",
+        "lotyšskou",
+        "jihokorejskou",
+        "etiopskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Transavia",
+      "values": [
+        "izraelskou",
+        "nizozemskou",
+        "srbskou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Condor Flugdienst",
+      "values": [
+        "maďarskou",
+        "srbskou",
+        "německou",
+        "lotyšskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

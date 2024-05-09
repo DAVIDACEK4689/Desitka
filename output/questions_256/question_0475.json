@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Johann Sebastian Bach",
+      "values": [
+        "německého",
+        "japonského",
+        "irského",
+        "argentinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bob Dylan",
+      "values": [
+        "amerického",
+        "švédského",
+        "řeckého",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zdeněk Fibich",
+      "values": [
+        "arménského",
+        "britského",
+        "českého",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gioacchino Rossini",
+      "values": [
+        "brazilského",
+        "italského",
+        "francouzského",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miloš Dodo Doležal",
+      "values": [
+        "švédského",
+        "českého",
+        "arménského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Béla Bartók",
+      "values": [
+        "maďarského",
+        "německého",
+        "finského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Renata Drössler",
+      "values": [
+        "českého",
+        "brazilského",
+        "německého",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Antonín Benda",
+      "values": [
+        "italského",
+        "českého",
+        "argentinského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Henry Purcell",
+      "values": [
+        "argentinského",
+        "polského",
+        "italského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jonatán Pastirčák",
+      "values": [
+        "australského",
+        "řeckého",
+        "slovenského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

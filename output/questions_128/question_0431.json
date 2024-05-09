@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] dramatický film?",
+  "questions": [
+    {
+      "key": "Saltburn",
+      "values": [
+        "německý",
+        "japonský",
+        "britský",
+        "sovětský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zlatý podraz",
+      "values": [
+        "maďarský",
+        "český",
+        "americký",
+        "francouzský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Olověná vesta",
+      "values": [
+        "izraelský",
+        "ruský",
+        "japonský",
+        "britský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Čas probuzení",
+      "values": [
+        "slovenský",
+        "novozélandský",
+        "francouzský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Čtyři slunce",
+      "values": [
+        "sovětský",
+        "britský",
+        "švédský",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Životy těch druhých",
+      "values": [
+        "německý",
+        "izraelský",
+        "sovětský",
+        "švédský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lásky čas",
+      "values": [
+        "španělský",
+        "dánský",
+        "italský",
+        "britský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Transport z ráje",
+      "values": [
+        "dánský",
+        "španělský",
+        "izraelský",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Poslední pokušení Krista",
+      "values": [
+        "španělský",
+        "izraelský",
+        "dánský",
+        "kanadský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "12 podmínek k dědictví",
+      "values": [
+        "mexický",
+        "sovětský",
+        "maďarský",
+        "americký"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

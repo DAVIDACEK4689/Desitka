@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] evropského podnikatele?",
+  "questions": [
+    {
+      "key": "Igor Matovič",
+      "values": [
+        "slovenského",
+        "ruského",
+        "polského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Adolph Frank",
+      "values": [
+        "řeckého",
+        "britského",
+        "německého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Hlávka",
+      "values": [
+        "ruského",
+        "českého",
+        "ukrajinského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Guglielmo Marconi",
+      "values": [
+        "německého",
+        "českého",
+        "francouzského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vlastislav Bříza",
+      "values": [
+        "švýcarského",
+        "švédského",
+        "českého",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kleinové",
+      "values": [
+        "britského",
+        "českého",
+        "španělského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rinat Achmetov",
+      "values": [
+        "francouzského",
+        "řeckého",
+        "ukrajinského",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marek Antoš",
+      "values": [
+        "švýcarského",
+        "ruského",
+        "českého",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roman Jurečko",
+      "values": [
+        "italského",
+        "švýcarského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Daša Žukovová",
+      "values": [
+        "francouzského",
+        "nizozemského",
+        "ruského",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

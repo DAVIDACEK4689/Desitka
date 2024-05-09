@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] dramatický film?",
+  "questions": [
+    {
+      "key": "Bony a klid",
+      "values": [
+        "švédský",
+        "japonský",
+        "španělský",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pád Třetí říše",
+      "values": [
+        "francouzský",
+        "mexický",
+        "jihokorejský",
+        "německý"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Goyovy přízraky",
+      "values": [
+        "maďarský",
+        "novozélandský",
+        "britský",
+        "španělský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kdo hledá zlaté dno",
+      "values": [
+        "český",
+        "kanadský",
+        "novozélandský",
+        "americký"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dokonalý šéf",
+      "values": [
+        "sovětský",
+        "americký",
+        "španělský",
+        "mexický"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pravidla lži",
+      "values": [
+        "japonský",
+        "sovětský",
+        "český",
+        "izraelský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aféra s náhrdelníkem",
+      "values": [
+        "kanadský",
+        "americký",
+        "maďarský",
+        "jihokorejský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hora mezi námi",
+      "values": [
+        "jihokorejský",
+        "estonský",
+        "sovětský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Řeka čaruje",
+      "values": [
+        "francouzský",
+        "estonský",
+        "britský",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pásla kone na betóne",
+      "values": [
+        "kanadský",
+        "australský",
+        "mexický",
+        "československý"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

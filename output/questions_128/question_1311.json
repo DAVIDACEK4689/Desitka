@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Pavel Kohout",
+      "values": [
+        "českého",
+        "chilského",
+        "íránského",
+        "kubánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Radovan Karadžić",
+      "values": [
+        "irského",
+        "maďarského",
+        "srbského",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jon Fosse",
+      "values": [
+        "britského",
+        "norského",
+        "slovinského",
+        "kubánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pedro Calderón de la Barca",
+      "values": [
+        "kanadského",
+        "řeckého",
+        "polského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Hruška",
+      "values": [
+        "mexického",
+        "českého",
+        "maďarského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexander Pope",
+      "values": [
+        "ukrajinského",
+        "slovinského",
+        "belgického",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaroslav Jakoubek",
+      "values": [
+        "řeckého",
+        "českého",
+        "belgického",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alessandro Manzoni",
+      "values": [
+        "finského",
+        "italského",
+        "španělského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Šota Rustaveli",
+      "values": [
+        "slovinského",
+        "ruského",
+        "gruzínského",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cchao Cchao",
+      "values": [
+        "kanadského",
+        "českého",
+        "vietnamského",
+        "čínského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

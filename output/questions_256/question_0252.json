@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] letce?",
+  "questions": [
+    {
+      "key": "Neil Armstrong",
+      "values": [
+        "amerického",
+        "izraelského",
+        "německého",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Buzz Aldrin",
+      "values": [
+        "ukrajinského",
+        "izraelského",
+        "rakouského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Barry Seal",
+      "values": [
+        "ukrajinského",
+        "amerického",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chesley Sullenberger",
+      "values": [
+        "slovenského",
+        "československého",
+        "amerického",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mathias Rust",
+      "values": [
+        "italského",
+        "ukrajinského",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "John Glenn",
+      "values": [
+        "amerického",
+        "československého",
+        "německého",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ezer Weizman",
+      "values": [
+        "italského",
+        "izraelského",
+        "československého",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nadija Savčenková",
+      "values": [
+        "italského",
+        "ukrajinského",
+        "izraelského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Viktor Ivanovič Bělenko",
+      "values": [
+        "izraelského",
+        "československého",
+        "sovětského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Steve Fossett",
+      "values": [
+        "rakouského",
+        "amerického",
+        "izraelského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

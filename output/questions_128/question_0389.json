@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle archeologického nálezu",
+  "questions": [
+    {
+      "key": "Věstonická venuše",
+      "values": [
+        "Rakousko",
+        "Slovensko",
+        "Česko",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Willendorfská venuše",
+      "values": [
+        "Česko",
+        "Rakousko",
+        "Německo",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kamenná hlava z Mšeckých Žehrovic",
+      "values": [
+        "Slovensko",
+        "Česko",
+        "Spojené království",
+        "Rakousko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petřkovická venuše",
+      "values": [
+        "Polsko",
+        "Rakousko",
+        "Česko",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tollundský muž",
+      "values": [
+        "Francie",
+        "Rakousko",
+        "Spojené království",
+        "Dánsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Venuše z Hohle Fels",
+      "values": [
+        "Francie",
+        "Slovensko",
+        "Spojené království",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Moravanská venuše",
+      "values": [
+        "Polsko",
+        "Německo",
+        "Dánsko",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Podmokelský poklad",
+      "values": [
+        "Česko",
+        "Rakousko",
+        "Dánsko",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Duchcovský poklad",
+      "values": [
+        "Německo",
+        "Dánsko",
+        "Rakousko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Trundholmský sluneční vůz",
+      "values": [
+        "Rakousko",
+        "Dánsko",
+        "Německo",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

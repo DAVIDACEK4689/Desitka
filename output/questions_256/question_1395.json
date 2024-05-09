@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte oblast podle ptáka",
+  "questions": [
+    {
+      "key": "Poštolka obecná",
+      "values": [
+        "Antarktida",
+        "Afrika",
+        "Tichý oceán",
+        "Severní Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tučňák císařský",
+      "values": [
+        "Antarktida",
+        "Střední Amerika",
+        "Tichý oceán",
+        "celosvětové rozšíření"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Orel bělohlavý",
+      "values": [
+        "Jižní oceán",
+        "Afrika",
+        "Antarktida",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nandu pampový",
+      "values": [
+        "Střední Amerika",
+        "Jižní Amerika",
+        "Jižní oceán",
+        "Orientální oblast"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Orlosup bradatý",
+      "values": [
+        "celosvětové rozšíření",
+        "Antarktida",
+        "Severní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hoacin chocholatý",
+      "values": [
+        "Střední Amerika",
+        "Atlantský oceán",
+        "Jižní Amerika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Raroh lovecký",
+      "values": [
+        "Tichý oceán",
+        "Střední Amerika",
+        "Atlantský oceán",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Orel opičí",
+      "values": [
+        "Orientální oblast",
+        "Jižní oceán",
+        "Atlantský oceán",
+        "Tichý oceán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tučňák galapážský",
+      "values": [
+        "Severní Amerika",
+        "Střední Amerika",
+        "Afrika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chůvička japonská",
+      "values": [
+        "Orientální oblast",
+        "Atlantský oceán",
+        "Tichý oceán",
+        "Antarktida"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

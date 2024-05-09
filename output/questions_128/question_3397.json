@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] firmu?",
+  "questions": [
+    {
+      "key": "Action",
+      "values": [
+        "nizozemskou",
+        "japonskou",
+        "československou",
+        "izraelskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Makita",
+      "values": [
+        "japonskou",
+        "španělskou",
+        "vietnamskou",
+        "sovětskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Honeywell",
+      "values": [
+        "irskou",
+        "nizozemskou",
+        "americkou",
+        "sovětskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rakuten",
+      "values": [
+        "belgickou",
+        "britskou",
+        "japonskou",
+        "australskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hankook Tire",
+      "values": [
+        "finskou",
+        "maďarskou",
+        "jihokorejskou",
+        "slovinskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Atlas Copco",
+      "values": [
+        "saúdskoarabskou",
+        "malajsijskou",
+        "švédskou",
+        "norskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vorwerk",
+      "values": [
+        "chorvatskou",
+        "německou",
+        "francouzskou",
+        "sovětskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Blackmagic Design",
+      "values": [
+        "maltskou",
+        "švýcarskou",
+        "francouzskou",
+        "australskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fischer Sports",
+      "values": [
+        "rakouskou",
+        "saúdskoarabskou",
+        "belgickou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Diadora",
+      "values": [
+        "australskou",
+        "sovětskou",
+        "italskou",
+        "norskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

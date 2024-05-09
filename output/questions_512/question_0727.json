@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Soluň",
+      "values": [
+        "Ázerbájdžán",
+        "Řecko",
+        "Dánsko",
+        "Venezuela"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marsá Alam",
+      "values": [
+        "Maroko",
+        "Švýcarsko",
+        "Egypt",
+        "Finsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kapské Město",
+      "values": [
+        "Černá Hora",
+        "Albánie",
+        "Gruzie",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Taba",
+      "values": [
+        "Egypt",
+        "Černá Hora",
+        "Slovinsko",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Larnaka",
+      "values": [
+        "Černá Hora",
+        "Kypr",
+        "Estonsko",
+        "Švédsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lübeck",
+      "values": [
+        "Německo",
+        "Bulharsko",
+        "Chorvatsko",
+        "Dánsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Koper",
+      "values": [
+        "Slovinsko",
+        "Turecko",
+        "Francie",
+        "Gruzie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chania",
+      "values": [
+        "Indonésie",
+        "Řecko",
+        "Argentina",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Omiš",
+      "values": [
+        "Chorvatsko",
+        "Polsko",
+        "Norsko",
+        "Gruzie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Suchumi",
+      "values": [
+        "Švýcarsko",
+        "Izrael",
+        "Maroko",
+        "Gruzie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

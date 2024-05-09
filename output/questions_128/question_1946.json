@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle úmrtí",
+  "questions": [
+    {
+      "key": "Svatý Augustin",
+      "values": [
+        "Alžírsko",
+        "Panama",
+        "Vietnam",
+        "Turkmenistán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ray Liotta",
+      "values": [
+        "Kapverdy",
+        "Česko",
+        "Dominikánská republika",
+        "Polsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Akira Kurosawa",
+      "values": [
+        "Afghánistán",
+        "Angola",
+        "Jihoafrická republika",
+        "Japonsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Anna Chromy",
+      "values": [
+        "Island",
+        "Monako",
+        "Bulharsko",
+        "Gruzie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adolf Scherer",
+      "values": [
+        "Maďarsko",
+        "Řecko",
+        "Francie",
+        "Gruzie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Vianney",
+      "values": [
+        "Francie",
+        "Jamajka",
+        "Saúdská Arábie",
+        "Irsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Khágendra Thapa Magar",
+      "values": [
+        "Brazílie",
+        "Alžírsko",
+        "Gabon",
+        "Nepál"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Andrij Atanasovyč Melnyk",
+      "values": [
+        "Alžírsko",
+        "Lucembursko",
+        "Gibraltar",
+        "Uruguay"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cuauhtémoc",
+      "values": [
+        "Vietnam",
+        "Jamajka",
+        "Dominikánská republika",
+        "Honduras"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mary Readová",
+      "values": [
+        "Gibraltar",
+        "Česko",
+        "Jamajka",
+        "Albánie"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

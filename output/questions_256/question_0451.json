@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] anarchistu?",
+  "questions": [
+    {
+      "key": "Javier Milei",
+      "values": [
+        "ukrajinského",
+        "amerického",
+        "francouzského",
+        "argentinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stanislav Kostka Neumann",
+      "values": [
+        "belgického",
+        "italského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Guillaume Apollinaire",
+      "values": [
+        "francouzského",
+        "argentinského",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Chelčický",
+      "values": [
+        "ruského",
+        "argentinského",
+        "belgického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gustave Courbet",
+      "values": [
+        "českého",
+        "francouzského",
+        "ukrajinského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Boris Vian",
+      "values": [
+        "italského",
+        "francouzského",
+        "belgického",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fanny Kaplanová",
+      "values": [
+        "ruského",
+        "italského",
+        "belgického",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Man Ray",
+      "values": [
+        "britského",
+        "ukrajinského",
+        "belgického",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Paul Signac",
+      "values": [
+        "ruského",
+        "francouzského",
+        "argentinského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alan Moore",
+      "values": [
+        "argentinského",
+        "britského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

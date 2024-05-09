@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] firmu?",
+  "questions": [
+    {
+      "key": "OMV",
+      "values": [
+        "německou",
+        "slovinskou",
+        "rakouskou",
+        "maďarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "SCONTO Nábytek",
+      "values": [
+        "australskou",
+        "francouzskou",
+        "malajsijskou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miele",
+      "values": [
+        "britskou",
+        "maltskou",
+        "polskou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bulova",
+      "values": [
+        "norskou",
+        "ruskou",
+        "maltskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fabrique Nationale de Herstal",
+      "values": [
+        "maďarskou",
+        "americkou",
+        "rumunskou",
+        "belgickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Panasonic Corporation",
+      "values": [
+        "vietnamskou",
+        "japonskou",
+        "chorvatskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Otis Worldwide",
+      "values": [
+        "australskou",
+        "švédskou",
+        "americkou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Konica Minolta",
+      "values": [
+        "českou",
+        "australskou",
+        "ruskou",
+        "japonskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Halliburton",
+      "values": [
+        "finskou",
+        "norskou",
+        "americkou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Capgemini",
+      "values": [
+        "československou",
+        "finskou",
+        "italskou",
+        "francouzskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle úmrtí",
+  "questions": [
+    {
+      "key": "Leonardo da Vinci",
+      "values": [
+        "Monako",
+        "Singapur",
+        "Francie",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Falco",
+      "values": [
+        "Dominikánská republika",
+        "Francie",
+        "Litva",
+        "Madagaskar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tizian",
+      "values": [
+        "Itálie",
+        "Izrael",
+        "Monako",
+        "Švýcarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zuzana Burianová",
+      "values": [
+        "Nizozemsko",
+        "Litva",
+        "Švýcarsko",
+        "Izrael"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Manuel Noriega",
+      "values": [
+        "Bulharsko",
+        "Gibraltar",
+        "Panama",
+        "Angola"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Princ Henrik",
+      "values": [
+        "Itálie",
+        "Turecko",
+        "Dánsko",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Václav Norbert Kinský",
+      "values": [
+        "Itálie",
+        "Gibraltar",
+        "Japonsko",
+        "Brazílie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Enver Paša",
+      "values": [
+        "Rusko",
+        "Tádžikistán",
+        "Nizozemsko",
+        "Japonsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Imrich Tököly",
+      "values": [
+        "Spojené království",
+        "Bolívie",
+        "Grónsko",
+        "Turecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Atahualpa",
+      "values": [
+        "Pero",
+        "Monako",
+        "Afghánistán",
+        "Angola"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

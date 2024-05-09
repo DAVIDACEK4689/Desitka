@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Volodymyr Zelenskyj",
+      "values": [
+        "argentinského",
+        "thajského",
+        "ukrajinského",
+        "indonéského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vlastimil Hašek",
+      "values": [
+        "španělského",
+        "českého",
+        "francouzského",
+        "chilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tony Curtis",
+      "values": [
+        "amerického",
+        "norského",
+        "novozélandského",
+        "indického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eric Cantona",
+      "values": [
+        "marockého",
+        "amerického",
+        "francouzského",
+        "indonéského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jára Kohout",
+      "values": [
+        "italského",
+        "českého",
+        "švédského",
+        "venezuelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Guillaume Canet",
+      "values": [
+        "thajského",
+        "francouzského",
+        "jihoafrického",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Murray Bartlett",
+      "values": [
+        "marockého",
+        "slovenského",
+        "japonského",
+        "australského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cam Gigandet",
+      "values": [
+        "venezuelského",
+        "australského",
+        "amerického",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tony Jaa",
+      "values": [
+        "francouzského",
+        "thajského",
+        "indonéského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rick Moranis",
+      "values": [
+        "jamajského",
+        "kanadského",
+        "polského",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

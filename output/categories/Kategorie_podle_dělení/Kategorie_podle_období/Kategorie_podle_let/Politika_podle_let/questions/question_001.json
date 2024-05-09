@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte rok podle politiky",
+  "questions": [
+    {
+      "key": "Invaze vojsk Varšavské smlouvy do Československa",
+      "values": [
+        "2004",
+        "1991",
+        "1968",
+        "2020"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Velká francouzská revoluce",
+      "values": [
+        "1789",
+        "1963",
+        "2014",
+        "2020"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pražské jaro",
+      "values": [
+        "1963",
+        "1968",
+        "1952",
+        "2014"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Varšavská smlouva",
+      "values": [
+        "1952",
+        "2004",
+        "1991",
+        "1968"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Islámský stát",
+      "values": [
+        "1963",
+        "2014",
+        "1968",
+        "2018"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vražda Jána Kuciaka a Martiny Kušnírové",
+      "values": [
+        "1963",
+        "1789",
+        "1776",
+        "2018"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Atentát na Johna Fitzgeralda Kennedyho",
+      "values": [
+        "1963",
+        "1991",
+        "1968",
+        "2014"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Deklarace nezávislosti Spojených států amerických",
+      "values": [
+        "1776",
+        "1991",
+        "1789",
+        "1952"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vstup České republiky do Evropské unie",
+      "values": [
+        "2004",
+        "1952",
+        "1776",
+        "1789"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Proces se Slánským",
+      "values": [
+        "2018",
+        "1952",
+        "1968",
+        "1789"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

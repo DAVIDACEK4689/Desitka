@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] matematika?",
+  "questions": [
+    {
+      "key": "Stephen Hawking",
+      "values": [
+        "britského",
+        "českého",
+        "amerického",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Galileo Galilei",
+      "values": [
+        "amerického",
+        "britského",
+        "německého",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mikuláš Koperník",
+      "values": [
+        "německého",
+        "britského",
+        "francouzského",
+        "polského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Theodore Kaczynski",
+      "values": [
+        "francouzského",
+        "amerického",
+        "německého",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Janeček",
+      "values": [
+        "českého",
+        "německého",
+        "polského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Johannes Kepler",
+      "values": [
+        "maďarského",
+        "amerického",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "René Descartes",
+      "values": [
+        "britského",
+        "francouzského",
+        "polského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Blaise Pascal",
+      "values": [
+        "britského",
+        "polského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "John Forbes Nash",
+      "values": [
+        "britského",
+        "amerického",
+        "italského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gottfried Wilhelm Leibniz",
+      "values": [
+        "britského",
+        "italského",
+        "polského",
+        "německého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

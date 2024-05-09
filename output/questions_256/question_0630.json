@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] sériového vraha?",
+  "questions": [
+    {
+      "key": "Viktor Kalivoda",
+      "values": [
+        "českého",
+        "italského",
+        "belgického",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Straka",
+      "values": [
+        "francouzského",
+        "italského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Václav Mrázek",
+      "values": [
+        "francouzského",
+        "českého",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oto Biederman",
+      "values": [
+        "ukrajinského",
+        "českého",
+        "slovenského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "David Berkowitz",
+      "values": [
+        "kolumbijského",
+        "italského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Paul Bernardo",
+      "values": [
+        "britského",
+        "belgického",
+        "kanadského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robert Hansen",
+      "values": [
+        "francouzského",
+        "ruského",
+        "amerického",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lucy Letbyová",
+      "values": [
+        "českého",
+        "ruského",
+        "britského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexandr Spěsivcev",
+      "values": [
+        "německého",
+        "britského",
+        "kanadského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Arthur Shawcross",
+      "values": [
+        "belgického",
+        "kolumbijského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

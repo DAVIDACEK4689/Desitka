@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva u Zborova",
+      "values": [
+        "1420",
+        "1917",
+        "1278",
+        "1800"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bombardování Drážďan",
+      "values": [
+        "1619",
+        "1919",
+        "1620",
+        "1945"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Druhé obléhání Vídně",
+      "values": [
+        "1814",
+        "1683",
+        "805",
+        "1346"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Lehnice",
+      "values": [
+        "1212",
+        "1918",
+        "1241",
+        "1993"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva o Avdijivku",
+      "values": [
+        "1938",
+        "1944",
+        "1571",
+        "2024"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva o Řecko",
+      "values": [
+        "1453",
+        "1434",
+        "1941",
+        "1298"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva o Dněpr",
+      "values": [
+        "1943",
+        "1619",
+        "1158",
+        "1423"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva o Saipan",
+      "values": [
+        "1066",
+        "1976",
+        "2022",
+        "1944"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Operace Uran",
+      "values": [
+        "1260",
+        "1942",
+        "2022",
+        "1571"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Želenic",
+      "values": [
+        "1396",
+        "1939",
+        "1438",
+        "1849"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

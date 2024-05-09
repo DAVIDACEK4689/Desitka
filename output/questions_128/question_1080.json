@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Rio de Janeiro",
+      "values": [
+        "Rusko",
+        "Gabon",
+        "Gruzie",
+        "Brazílie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bejrút",
+      "values": [
+        "Libanon",
+        "Gabon",
+        "Egypt",
+        "Indie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Haifa",
+      "values": [
+        "Polsko",
+        "Izrael",
+        "Francie",
+        "Togo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pafos",
+      "values": [
+        "Kypr",
+        "Egypt",
+        "Jemen",
+        "Nigérie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Le Havre",
+      "values": [
+        "Barbados",
+        "Francie",
+        "Nigérie",
+        "Ukrajina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jūrmala",
+      "values": [
+        "Lotyšsko",
+        "Německo",
+        "Finsko",
+        "Gambie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pesaro",
+      "values": [
+        "Gruzie",
+        "Tanzanie",
+        "Itálie",
+        "Belgie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mersin",
+      "values": [
+        "Turecko",
+        "Jihoafrická republika",
+        "Gabon",
+        "Dánsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sagunto",
+      "values": [
+        "Francie",
+        "Španělsko",
+        "Západní Sahara",
+        "Irsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sfax",
+      "values": [
+        "Tunisko",
+        "Kazachstán",
+        "Jihoafrická republika",
+        "Malta"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

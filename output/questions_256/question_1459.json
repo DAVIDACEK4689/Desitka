@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Karim Benzema",
+      "values": [
+        "francouzského",
+        "maďarského",
+        "kolumbijského",
+        "finského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jude Bellingham",
+      "values": [
+        "italského",
+        "anglického",
+        "australského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Toni Kroos",
+      "values": [
+        "kanadského",
+        "slovenského",
+        "německého",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomáš Necid",
+      "values": [
+        "rakouského",
+        "irského",
+        "českého",
+        "severoirského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Raúl González",
+      "values": [
+        "nizozemského",
+        "norského",
+        "velšského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Libor Sionko",
+      "values": [
+        "marockého",
+        "českého",
+        "československého",
+        "tureckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fabien Barthez",
+      "values": [
+        "francouzského",
+        "amerického",
+        "velšského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Erik Jirka",
+      "values": [
+        "ruského",
+        "slovenského",
+        "českého",
+        "alžírského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "David Bystroň",
+      "values": [
+        "amerického",
+        "českého",
+        "francouzského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaromír Zmrhal",
+      "values": [
+        "kamerunského",
+        "gruzínského",
+        "egyptského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

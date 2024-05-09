@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Jiří Strach",
+      "values": [
+        "kanadského",
+        "slovinského",
+        "českého",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Morgan Freeman",
+      "values": [
+        "amerického",
+        "rakouského",
+        "srbského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Taika Waititi",
+      "values": [
+        "francouzského",
+        "slovinského",
+        "indického",
+        "novozélandského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Wes Anderson",
+      "values": [
+        "amerického",
+        "japonského",
+        "italského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Georges Méliès",
+      "values": [
+        "irského",
+        "rakouského",
+        "francouzského",
+        "íránského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Matt Dillon",
+      "values": [
+        "irského",
+        "novozélandského",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Paolo Sorrentino",
+      "values": [
+        "kanadského",
+        "japonského",
+        "italského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Jungwirth",
+      "values": [
+        "švédského",
+        "nizozemského",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andrew Wilson",
+      "values": [
+        "hongkongského",
+        "švýcarského",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bryan Singer",
+      "values": [
+        "nizozemského",
+        "amerického",
+        "irského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

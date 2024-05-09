@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Volodymyr Zelenskyj",
+      "values": [
+        "dánského",
+        "švýcarského",
+        "ukrajinského",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Otakar Vávra",
+      "values": [
+        "ruského",
+        "srbského",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dolph Lundgren",
+      "values": [
+        "švédského",
+        "britského",
+        "amerického",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Mašín",
+      "values": [
+        "polského",
+        "španělského",
+        "českého",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Federico Fellini",
+      "values": [
+        "rakouského",
+        "italského",
+        "německého",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Sviták",
+      "values": [
+        "australského",
+        "českého",
+        "slovenského",
+        "belgického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jensen Ackles",
+      "values": [
+        "švédského",
+        "amerického",
+        "španělského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Norman Mailer",
+      "values": [
+        "japonského",
+        "švédského",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jon Hamm",
+      "values": [
+        "švédského",
+        "amerického",
+        "hongkongského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Plicka",
+      "values": [
+        "českého",
+        "německého",
+        "japonského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

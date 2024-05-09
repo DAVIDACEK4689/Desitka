@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] automobilku?",
+  "questions": [
+    {
+      "key": "Volkswagen",
+      "values": [
+        "německou",
+        "italskou",
+        "švédskou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "BMW",
+      "values": [
+        "japonskou",
+        "španělskou",
+        "švédskou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Porsche",
+      "values": [
+        "španělskou",
+        "japonskou",
+        "německou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Audi",
+      "values": [
+        "japonskou",
+        "francouzskou",
+        "německou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lamborghini",
+      "values": [
+        "americkou",
+        "jihokorejskou",
+        "italskou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Avia",
+      "values": [
+        "britskou",
+        "českou",
+        "japonskou",
+        "italskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "General Motors",
+      "values": [
+        "nizozemskou",
+        "jihokorejskou",
+        "americkou",
+        "švédskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "SsangYong",
+      "values": [
+        "francouzskou",
+        "švédskou",
+        "japonskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Scania",
+      "values": [
+        "japonskou",
+        "švédskou",
+        "nizozemskou",
+        "českou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "SOR Libchavy",
+      "values": [
+        "japonskou",
+        "švédskou",
+        "českou",
+        "německou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

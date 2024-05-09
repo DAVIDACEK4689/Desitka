@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Giacomo Casanova",
+      "values": [
+        "chorvatského",
+        "ázerbájdžánského",
+        "ukrajinského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Adalbert Stifter",
+      "values": [
+        "ukrajinského",
+        "mexického",
+        "španělského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Erich Kästner",
+      "values": [
+        "indického",
+        "německého",
+        "japonského",
+        "nigerijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zachar Prilepin",
+      "values": [
+        "ruského",
+        "běloruského",
+        "novozélandského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Pilnáček",
+      "values": [
+        "maďarského",
+        "českého",
+        "finského",
+        "argentinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alain de Botton",
+      "values": [
+        "běloruského",
+        "švýcarského",
+        "maďarského",
+        "tanzanského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexej Konstantinovič Tolstoj",
+      "values": [
+        "ruského",
+        "australského",
+        "čínského",
+        "kyrgyzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kóbó Abe",
+      "values": [
+        "peruánského",
+        "běloruského",
+        "amerického",
+        "japonského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marsilius z Padovy",
+      "values": [
+        "italského",
+        "vietnamského",
+        "polského",
+        "peruánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pentti Linkola",
+      "values": [
+        "švédského",
+        "rakouského",
+        "argentinského",
+        "finského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] firmu?",
+  "questions": [
+    {
+      "key": "Pepco",
+      "values": [
+        "polskou",
+        "sovětskou",
+        "ruskou",
+        "americkou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Electrolux",
+      "values": [
+        "českou",
+        "švédskou",
+        "indickou",
+        "saúdskoarabskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Deutsche Telekom",
+      "values": [
+        "maltskou",
+        "čínskou",
+        "ukrajinskou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Agip",
+      "values": [
+        "jihokorejskou",
+        "italskou",
+        "ruskou",
+        "japonskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hitachi",
+      "values": [
+        "japonskou",
+        "nizozemskou",
+        "maďarskou",
+        "slovinskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Seiko",
+      "values": [
+        "japonskou",
+        "švýcarskou",
+        "německou",
+        "belgickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "All Nippon Airways",
+      "values": [
+        "americkou",
+        "ukrajinskou",
+        "dánskou",
+        "japonskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "CNH Industrial",
+      "values": [
+        "nizozemskou",
+        "francouzskou",
+        "maďarskou",
+        "izraelskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Itar",
+      "values": [
+        "maltskou",
+        "ruskou",
+        "československou",
+        "čínskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nexter Systems",
+      "values": [
+        "ukrajinskou",
+        "chorvatskou",
+        "rakouskou",
+        "francouzskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

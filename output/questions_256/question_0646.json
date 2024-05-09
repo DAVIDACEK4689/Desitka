@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Paella",
+      "values": [
+        "arménskou",
+        "španělskou",
+        "ruskou",
+        "skotskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Koprová omáčka",
+      "values": [
+        "řeckou",
+        "španělskou",
+        "belgickou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kuře na paprice",
+      "values": [
+        "mexickou",
+        "chorvatskou",
+        "českou",
+        "maďarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Raki",
+      "values": [
+        "dánskou",
+        "tureckou",
+        "čínskou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bramboračka",
+      "values": [
+        "českou",
+        "britskou",
+        "španělskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Udon",
+      "values": [
+        "japonskou",
+        "polskou",
+        "americkou",
+        "dánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tempura",
+      "values": [
+        "americkou",
+        "vietnamskou",
+        "japonskou",
+        "anglickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tortellini",
+      "values": [
+        "polskou",
+        "italskou",
+        "mexickou",
+        "portugalskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ciabatta",
+      "values": [
+        "korejskou",
+        "mexickou",
+        "italskou",
+        "maďarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jambalaya",
+      "values": [
+        "americkou",
+        "švédskou",
+        "thajskou",
+        "vietnamskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

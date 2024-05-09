@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] architekta?",
+  "questions": [
+    {
+      "key": "Albert Speer",
+      "values": [
+        "německého",
+        "japonského",
+        "nizozemského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ernő Rubik",
+      "values": [
+        "tureckého",
+        "italského",
+        "maďarského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Giovanni Battista Alliprandi",
+      "values": [
+        "amerického",
+        "tureckého",
+        "maďarského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel Honzík",
+      "values": [
+        "amerického",
+        "norského",
+        "českého",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "John Hejduk",
+      "values": [
+        "britského",
+        "brazilského",
+        "maďarského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Antonín Viktor Barvitius",
+      "values": [
+        "chorvatského",
+        "brazilského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Václav Cigler",
+      "values": [
+        "britského",
+        "českého",
+        "španělského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Richard Rogers",
+      "values": [
+        "britského",
+        "chorvatského",
+        "norského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jacopo Barozzi da Vignola",
+      "values": [
+        "polského",
+        "italského",
+        "ruského",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nicolò Pacassi",
+      "values": [
+        "polského",
+        "rakouského",
+        "belgického",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

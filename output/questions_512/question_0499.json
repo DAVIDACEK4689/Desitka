@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Ronaldo",
+      "values": [
+        "marockého",
+        "norského",
+        "baskického",
+        "brazilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Harry Kane",
+      "values": [
+        "argentinského",
+        "ruského",
+        "anglického",
+        "marockého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Thierry Henry",
+      "values": [
+        "chorvatského",
+        "francouzského",
+        "brazilského",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Manuel Neuer",
+      "values": [
+        "skotského",
+        "kostarického",
+        "chorvatského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jürgen Klopp",
+      "values": [
+        "ruského",
+        "anglického",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Edinson Cavani",
+      "values": [
+        "nizozemského",
+        "uruguayského",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ethan Mbappé",
+      "values": [
+        "kostarického",
+        "marockého",
+        "francouzského",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Diego Simeone",
+      "values": [
+        "norského",
+        "kostarického",
+        "českého",
+        "argentinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gerd Müller",
+      "values": [
+        "německého",
+        "dánského",
+        "ruského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michael Owen",
+      "values": [
+        "anglického",
+        "norského",
+        "kolumbijského",
+        "baskického"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

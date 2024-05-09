@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Londýn",
+      "values": [
+        "Spojené království",
+        "Česko",
+        "Portugalsko",
+        "Belgie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ústí nad Labem",
+      "values": [
+        "Spojené království",
+        "Česko",
+        "Slovensko",
+        "Rakousko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Varšava",
+      "values": [
+        "Spojené království",
+        "Polsko",
+        "Německo",
+        "Rakousko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Verona",
+      "values": [
+        "Německo",
+        "Nizozemsko",
+        "Itálie",
+        "Maďarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Innsbruck",
+      "values": [
+        "Česko",
+        "Rakousko",
+        "Spojené království",
+        "Belgie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Manchester",
+      "values": [
+        "Rakousko",
+        "Spojené království",
+        "Dánsko",
+        "Belgie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hannover",
+      "values": [
+        "Itálie",
+        "Dánsko",
+        "Německo",
+        "Maďarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mohuč",
+      "values": [
+        "Slovensko",
+        "Polsko",
+        "Belgie",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cambridge",
+      "values": [
+        "Slovensko",
+        "Spojené království",
+        "Itálie",
+        "Maďarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dortmund",
+      "values": [
+        "Německo",
+        "Rakousko",
+        "Česko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

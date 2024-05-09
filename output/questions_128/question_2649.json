@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Sparta",
+      "values": [
+        "Moldavsko",
+        "Srbsko",
+        "Řecko",
+        "Kypr"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chartúm",
+      "values": [
+        "Španělsko",
+        "Uganda",
+        "Moldavsko",
+        "Súdán"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fes",
+      "values": [
+        "Kypr",
+        "Maroko",
+        "Mosambik",
+        "Sýrie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Serekunda",
+      "values": [
+        "Gambie",
+        "Chorvatsko",
+        "Ghana",
+        "Kiribati"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lusaka",
+      "values": [
+        "Gruzie",
+        "Rusko",
+        "Brazílie",
+        "Zambie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Surabaja",
+      "values": [
+        "Rwanda",
+        "Francie",
+        "Komora",
+        "Indonésie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gruyères",
+      "values": [
+        "Izrael",
+        "Švýcarsko",
+        "Slovensko",
+        "Madagaskar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Supetar",
+      "values": [
+        "Japonsko",
+        "Eritrea",
+        "Chorvatsko",
+        "Nigérie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Banda Aceh",
+      "values": [
+        "Nepál",
+        "Gabon",
+        "Indonésie",
+        "Izrael"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Klagenfurt",
+      "values": [
+        "Itálie",
+        "Afghánistán",
+        "Malajsie",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

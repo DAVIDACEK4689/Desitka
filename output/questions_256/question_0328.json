@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalovou soutěž?",
+  "questions": [
+    {
+      "key": "Primera División",
+      "values": [
+        "skotskou",
+        "polskou",
+        "portugalskou",
+        "španělskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "EFL Cup",
+      "values": [
+        "anglickou",
+        "skotskou",
+        "českou",
+        "tureckou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Community Shield",
+      "values": [
+        "italskou",
+        "španělskou",
+        "anglickou",
+        "polskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eredivisie",
+      "values": [
+        "tureckou",
+        "anglickou",
+        "nizozemskou",
+        "českou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Divize B",
+      "values": [
+        "českou",
+        "francouzskou",
+        "italskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Süper Lig",
+      "values": [
+        "belgickou",
+        "skotskou",
+        "českou",
+        "tureckou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "EFL League One",
+      "values": [
+        "italskou",
+        "portugalskou",
+        "tureckou",
+        "anglickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "EFL League Two",
+      "values": [
+        "nizozemskou",
+        "francouzskou",
+        "anglickou",
+        "českou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Scottish Premiership",
+      "values": [
+        "španělskou",
+        "skotskou",
+        "nizozemskou",
+        "belgickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Prva hrvatska nogometna liga",
+      "values": [
+        "českou",
+        "belgickou",
+        "chorvatskou",
+        "španělskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] botanika?",
+  "questions": [
+    {
+      "key": "Johann Wolfgang von Goethe",
+      "values": [
+        "českého",
+        "německého",
+        "britského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gregor Mendel",
+      "values": [
+        "ruského",
+        "švédského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Carl Linné",
+      "values": [
+        "ruského",
+        "německého",
+        "britského",
+        "švédského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Svatopluk Presl",
+      "values": [
+        "německého",
+        "českého",
+        "britského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivan Vladimirovič Mičurin",
+      "values": [
+        "ruského",
+        "německého",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alberto Vojtěch Frič",
+      "values": [
+        "ruského",
+        "českého",
+        "švédského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexander von Humboldt",
+      "values": [
+        "britského",
+        "švédského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Beatrix Potterová",
+      "values": [
+        "britského",
+        "českého",
+        "švédského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladimír Krajina",
+      "values": [
+        "švédského",
+        "ruského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tadeáš Haenke",
+      "values": [
+        "českého",
+        "britského",
+        "švédského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

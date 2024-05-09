@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte rok podle politiky",
+  "questions": [
+    {
+      "key": "Pražské jaro",
+      "values": [
+        "1995",
+        "1904",
+        "1968",
+        "1819"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Brexit",
+      "values": [
+        "1789",
+        "1851",
+        "2020",
+        "2006"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Washingtonská deklarace",
+      "values": [
+        "1918",
+        "1963",
+        "1958",
+        "1807"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Červencová revoluce",
+      "values": [
+        "1830",
+        "1963",
+        "1945",
+        "1807"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Saintgermainská smlouva",
+      "values": [
+        "1945",
+        "1865",
+        "1919",
+        "1923"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Poslanecký klub České pirátské strany",
+      "values": [
+        "1968",
+        "2006",
+        "1920",
+        "2017"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Červencová krize",
+      "values": [
+        "1914",
+        "2006",
+        "1986",
+        "1958"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lausannská smlouva",
+      "values": [
+        "1871",
+        "1807",
+        "2020",
+        "1923"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vysočanský sjezd KSČ",
+      "values": [
+        "1968",
+        "1997",
+        "2004",
+        "1851"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Smlouva o všeobecném zákazu jaderných zkoušek",
+      "values": [
+        "1996",
+        "1789",
+        "1815",
+        "1830"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

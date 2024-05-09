@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte sport podle německého sportovce",
+  "questions": [
+    {
+      "key": "Michael Schumacher",
+      "values": [
+        "šermíř",
+        "boxer",
+        "gymnasta",
+        "pilot"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Philipp Nawrath",
+      "values": [
+        "gymnasta",
+        "lední hokejista",
+        "biatlonista",
+        "fotbalista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexander Zverev",
+      "values": [
+        "tenista",
+        "horolezec",
+        "boxer",
+        "lední hokejista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mesut Özil",
+      "values": [
+        "fotbalista",
+        "tenista",
+        "lední hokejista",
+        "šermíř"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Boris Becker",
+      "values": [
+        "šermíř",
+        "tenista",
+        "horolezec",
+        "fotbalista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nico Hülkenberg",
+      "values": [
+        "šermíř",
+        "pilot",
+        "fotbalista",
+        "biatlonista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Franz Beckenbauer",
+      "values": [
+        "pilot",
+        "fotbalista",
+        "gymnasta",
+        "biatlonista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Leon Draisaitl",
+      "values": [
+        "horolezec",
+        "lední hokejista",
+        "biatlonista",
+        "šermíř"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tomáš Martinec",
+      "values": [
+        "gymnasta",
+        "pilot",
+        "lední hokejista",
+        "tenista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nico Rosberg",
+      "values": [
+        "fotbalista",
+        "gymnasta",
+        "lední hokejista",
+        "pilot"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

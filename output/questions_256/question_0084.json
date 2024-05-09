@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle teroristického útoku",
+  "questions": [
+    {
+      "key": "Střelba ve Fakultní nemocnici Ostrava",
+      "values": [
+        "2017",
+        "1996",
+        "1995",
+        "2019"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nord Stream",
+      "values": [
+        "2013",
+        "2023",
+        "2004",
+        "2022"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Let Malaysia Airlines 17",
+      "values": [
+        "1996",
+        "2014",
+        "1995",
+        "2013"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Let JAT 367",
+      "values": [
+        "2016",
+        "2014",
+        "2023",
+        "1972"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Útok v moskevském divadle na Dubrovce",
+      "values": [
+        "2002",
+        "1997",
+        "1999",
+        "2015"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Útok na mešity v Christchurchi",
+      "values": [
+        "1999",
+        "2016",
+        "1995",
+        "2019"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Útok kamionem na vánočních trzích v Berlíně",
+      "values": [
+        "2016",
+        "1972",
+        "2014",
+        "2015"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bombový útok v Oklahoma City",
+      "values": [
+        "2015",
+        "1995",
+        "2017",
+        "2020"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Luxorský masakr",
+      "values": [
+        "2017",
+        "1997",
+        "2002",
+        "1996"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bombový útok na hotel Krále Davida",
+      "values": [
+        "2020",
+        "1997",
+        "1946",
+        "2015"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

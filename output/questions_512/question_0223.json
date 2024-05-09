@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle geografie",
+  "questions": [
+    {
+      "key": "Morava",
+      "values": [
+        "Česko",
+        "Pero",
+        "Tanzanie",
+        "Palestina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Černé moře",
+      "values": [
+        "Ukrajina",
+        "Turkmenistán",
+        "Austrálie",
+        "Abcházie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pyreneje",
+      "values": [
+        "Austrálie",
+        "Mauritánie",
+        "Izrael",
+        "Andorra"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Brána do pekla",
+      "values": [
+        "Japonsko",
+        "Palestina",
+        "Turkmenistán",
+        "Chorvatsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aokigahara",
+      "values": [
+        "Srbsko",
+        "Japonsko",
+        "Faerské ostrovy",
+        "Řecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Serengeti",
+      "values": [
+        "Tanzanie",
+        "Palestina",
+        "Ukrajina",
+        "Rakousko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Polder",
+      "values": [
+        "Japonsko",
+        "Nizozemsko",
+        "Srbsko",
+        "Abcházie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nabatejci",
+      "values": [
+        "Rusko",
+        "Mauritánie",
+        "Řecko",
+        "Jordánsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oko Sahary",
+      "values": [
+        "Pero",
+        "Guatemala",
+        "Mauritánie",
+        "Japonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Izraelská bezpečnostní bariéra",
+      "values": [
+        "Palestina",
+        "Česko",
+        "Turecko",
+        "Jordánsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

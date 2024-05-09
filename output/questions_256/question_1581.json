@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] cyklistu?",
+  "questions": [
+    {
+      "key": "Vlasta Burian",
+      "values": [
+        "českého",
+        "rakouského",
+        "francouzského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lance Armstrong",
+      "values": [
+        "italského",
+        "belgického",
+        "amerického",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bratři Pospíšilové",
+      "values": [
+        "nizozemského",
+        "francouzského",
+        "amerického",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zdeněk Štybar",
+      "values": [
+        "španělského",
+        "amerického",
+        "švýcarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marco Pantani",
+      "values": [
+        "amerického",
+        "francouzského",
+        "italského",
+        "československého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Ullrich",
+      "values": [
+        "německého",
+        "španělského",
+        "československého",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fabio Wibmer",
+      "values": [
+        "amerického",
+        "rakouského",
+        "italského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mathias Vacek",
+      "values": [
+        "německého",
+        "nizozemského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Christian Battaglia",
+      "values": [
+        "dánského",
+        "francouzského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Hirt",
+      "values": [
+        "francouzského",
+        "československého",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

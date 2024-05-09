@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] anarchistu?",
+  "questions": [
+    {
+      "key": "Jaroslav Hašek",
+      "values": [
+        "belgického",
+        "amerického",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Anarchističtí buřiči",
+      "values": [
+        "českého",
+        "britského",
+        "ukrajinského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Albert Camus",
+      "values": [
+        "českého",
+        "francouzského",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Noam Chomsky",
+      "values": [
+        "amerického",
+        "českého",
+        "ukrajinského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "André Breton",
+      "values": [
+        "francouzského",
+        "ukrajinského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Luigi Lucheni",
+      "values": [
+        "argentinského",
+        "amerického",
+        "italského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nestor Machno",
+      "values": [
+        "českého",
+        "ukrajinského",
+        "belgického",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Kropotkin",
+      "values": [
+        "britského",
+        "ruského",
+        "argentinského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "John Cage",
+      "values": [
+        "amerického",
+        "argentinského",
+        "italského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kamill Resler",
+      "values": [
+        "amerického",
+        "českého",
+        "britského",
+        "argentinského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

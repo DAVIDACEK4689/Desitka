@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [národnost] komunistu?",
+  "questions": [
+    {
+      "key": "Leonid Iljič Brežněv",
+      "values": [
+        "kambodžského",
+        "bulharského",
+        "sovětského",
+        "mexického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josip Broz Tito",
+      "values": [
+        "německého",
+        "jugoslávského",
+        "kambodžského",
+        "bulharského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ho Či Min",
+      "values": [
+        "polského",
+        "českého",
+        "vietnamského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Egon Erwin Kisch",
+      "values": [
+        "československého",
+        "brazilského",
+        "italského",
+        "bulharského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Imre Nagy",
+      "values": [
+        "italského",
+        "českého",
+        "maďarského",
+        "československého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luchino Visconti",
+      "values": [
+        "brazilského",
+        "italského",
+        "československého",
+        "bulharského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mátyás Rákosi",
+      "values": [
+        "maďarského",
+        "španělského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Angela Davisová",
+      "values": [
+        "jugoslávského",
+        "amerického",
+        "španělského",
+        "československého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Edward Gierek",
+      "values": [
+        "polského",
+        "španělského",
+        "slovenského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ernst Thälmann",
+      "values": [
+        "německého",
+        "brazilského",
+        "mexického",
+        "ruského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

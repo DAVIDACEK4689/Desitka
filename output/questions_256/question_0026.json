@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte rok podle katastrofy",
+  "questions": [
+    {
+      "key": "Havárie elektrárny Fukušima I",
+      "values": [
+        "1967",
+        "2021",
+        "1984",
+        "2011"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Masakr v My Lai",
+      "values": [
+        "2009",
+        "1968",
+        "1954",
+        "1984"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bhópálská katastrofa",
+      "values": [
+        "1984",
+        "2021",
+        "2017",
+        "1908"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Havárie plošiny Deepwater Horizon",
+      "values": [
+        "2021",
+        "1954",
+        "2010",
+        "2018"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Exxon Valdez",
+      "values": [
+        "2010",
+        "1989",
+        "2004",
+        "1934"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Střelba v Petřvaldu",
+      "values": [
+        "2007",
+        "2013",
+        "1986",
+        "2009"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Černé pondělí",
+      "values": [
+        "2004",
+        "2013",
+        "1987",
+        "1919"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mexická prasečí chřipka",
+      "values": [
+        "1933",
+        "1917",
+        "2009",
+        "1932"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Výbuch metanu v dole ČSM",
+      "values": [
+        "2023",
+        "2018",
+        "2012",
+        "1881"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sellafield",
+      "values": [
+        "1957",
+        "1902",
+        "1945",
+        "1967"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

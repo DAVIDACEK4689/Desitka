@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [žánr] film?",
+  "questions": [
+    {
+      "key": "Jak vycvičit draka",
+      "values": [
+        "romantický",
+        "dětský",
+        "špionážní",
+        "fantastický"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zpívej",
+      "values": [
+        "dětský",
+        "špionážní",
+        "dokumentární",
+        "romantický"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bourneův odkaz",
+      "values": [
+        "špionážní",
+        "dokumentární",
+        "pohádkový",
+        "hudební"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Muž z Acapulca",
+      "values": [
+        "pohádkový",
+        "špionážní",
+        "hudební",
+        "fantastický"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Za humny je drak",
+      "values": [
+        "hudební",
+        "pohádkový",
+        "dětský",
+        "špionážní"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mockument",
+      "values": [
+        "hudební",
+        "dokumentární",
+        "romantický",
+        "pohádkový"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Konec agenta W4C prostřednictvím psa pana Foustky",
+      "values": [
+        "dokumentární",
+        "špionážní",
+        "pohádkový",
+        "fantastický"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alvin a Chipmunkové 3",
+      "values": [
+        "hudební",
+        "dětský",
+        "pohádkový",
+        "špionážní"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Space Jam",
+      "values": [
+        "dokumentární",
+        "romantický",
+        "dětský",
+        "špionážní"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dostaňte agenta Smarta",
+      "values": [
+        "fantastický",
+        "špionážní",
+        "dětský",
+        "dokumentární"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

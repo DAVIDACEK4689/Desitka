@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Javier Milei",
+      "values": [
+        "argentinského",
+        "francouzského",
+        "československého",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lev Davidovič Trockij",
+      "values": [
+        "sovětského",
+        "francouzského",
+        "libyjského",
+        "venezuelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "John Bok",
+      "values": [
+        "běloruského",
+        "českého",
+        "argentinského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Niccolò Machiavelli",
+      "values": [
+        "kanadského",
+        "venezuelského",
+        "italského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Valerij Gerasimov",
+      "values": [
+        "kanadského",
+        "ruského",
+        "ukrajinského",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jozef Síkela",
+      "values": [
+        "českého",
+        "venezuelského",
+        "italského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Valerij Zalužnyj",
+      "values": [
+        "kambodžského",
+        "kolumbijského",
+        "ukrajinského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Raúl Castro",
+      "values": [
+        "českého",
+        "sovětského",
+        "kubánského",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jean Paul Marat",
+      "values": [
+        "španělského",
+        "britského",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roman Abramovič",
+      "values": [
+        "ruského",
+        "tureckého",
+        "kambodžského",
+        "českého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete etnický původ podle Čecha",
+  "questions": [
+    {
+      "key": "Tomáš Garrigue Masaryk",
+      "values": [
+        "asijský původ",
+        "slovenský původ",
+        "francouzský původ",
+        "ukrajinský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sara Sandeva",
+      "values": [
+        "makedonský původ",
+        "vietnamský původ",
+        "srbský původ",
+        "chorvatský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Taťána Kuchařová",
+      "values": [
+        "ruský původ",
+        "srbský původ",
+        "slovenský původ",
+        "asijský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Charlotta Garrigue Masaryková",
+      "values": [
+        "italský původ",
+        "polský původ",
+        "francouzský původ",
+        "britský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Martha Elefteriadu",
+      "values": [
+        "kanadský původ",
+        "ruský původ",
+        "řecký původ",
+        "polský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Horváth",
+      "values": [
+        "maďarský původ",
+        "polský původ",
+        "běloruský původ",
+        "arménský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Monika Leová",
+      "values": [
+        "syrský původ",
+        "asijský původ",
+        "vietnamský původ",
+        "kanadský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andreas Papadopulos",
+      "values": [
+        "polský původ",
+        "etiopský původ",
+        "arménský původ",
+        "řecký původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Filip Nguyen",
+      "values": [
+        "vietnamský původ",
+        "makedonský původ",
+        "slovenský původ",
+        "japonský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marek Epstein",
+      "values": [
+        "ukrajinský původ",
+        "židovský původ",
+        "etiopský původ",
+        "evropský původ"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

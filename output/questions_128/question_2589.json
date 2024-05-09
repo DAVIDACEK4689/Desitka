@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Miloš Forman",
+      "values": [
+        "irského",
+        "českého",
+        "amerického",
+        "guatemalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martin Frič",
+      "values": [
+        "řeckého",
+        "belgického",
+        "dánského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Jablonský",
+      "values": [
+        "gruzínského",
+        "čínského",
+        "českého",
+        "indického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Scott Eastwood",
+      "values": [
+        "čínského",
+        "venezuelského",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Knot",
+      "values": [
+        "českého",
+        "portorického",
+        "dánského",
+        "jihokorejského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Apolenář",
+      "values": [
+        "českého",
+        "francouzského",
+        "švédského",
+        "thajského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lucas Bravo",
+      "values": [
+        "italského",
+        "dánského",
+        "tureckého",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bruce Dern",
+      "values": [
+        "dánského",
+        "amerického",
+        "polského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Brad Dourif",
+      "values": [
+        "amerického",
+        "mexického",
+        "srbského",
+        "venezuelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jaroslav Hurt",
+      "values": [
+        "českého",
+        "izraelského",
+        "bulharského",
+        "australského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete sport podle české sportovkyně",
+  "questions": [
+    {
+      "key": "Barbora Krejčíková",
+      "values": [
+        "orientační běžkyně",
+        "tenistka",
+        "plavkyně",
+        "házenkářka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Žaneta Peřinová",
+      "values": [
+        "šachistky",
+        "golfistky",
+        "atletka",
+        "lední hokejistky"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sandra Kleinová",
+      "values": [
+        "basketbalistka",
+        "tenistka",
+        "horolezci",
+        "veslařka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dagmar Damková",
+      "values": [
+        "lední hokejistky",
+        "veslařka",
+        "fotbalistka",
+        "stolní tenistka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Markéta Sluková",
+      "values": [
+        "rychlobruslařka",
+        "veslařka",
+        "volejbalistka",
+        "šachistky"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Radka Kovaříková",
+      "values": [
+        "krasobruslařka",
+        "golfistky",
+        "florbalistky",
+        "sportovní střelkyně"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Barbora Hermannová",
+      "values": [
+        "volejbalistka",
+        "krasobruslařka",
+        "florbalistky",
+        "veslařka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martina Řepková",
+      "values": [
+        "sportovní střelkyně",
+        "golfistky",
+        "atletka",
+        "florbalistky"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sandra Záhlavová",
+      "values": [
+        "orientační běžkyně",
+        "plavkyně",
+        "tenistka",
+        "rychlobruslařka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gabriela Orvošová",
+      "values": [
+        "volejbalistka",
+        "basketbalistka",
+        "cyklistka",
+        "tenistka"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

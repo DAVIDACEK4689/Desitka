@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle sportovní události",
+  "questions": [
+    {
+      "key": "Letecká havárie v Jaroslavli v roce 2011",
+      "values": [
+        "Rusko",
+        "Československo",
+        "Španělsko",
+        "Gruzie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mistrovství světa v ragby 2019",
+      "values": [
+        "Japonsko",
+        "Rusko",
+        "Mexiko",
+        "Saúdská Arábie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mistrovství světa v ledním hokeji 1997",
+      "values": [
+        "Andorra",
+        "Švédsko",
+        "Singapur",
+        "Austrálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mistrovství světa juniorů v ledním hokeji 2000",
+      "values": [
+        "Švýcarsko",
+        "Litva",
+        "Mexiko",
+        "Norsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rallye Dakar 2024",
+      "values": [
+        "Dánsko",
+        "Španělsko",
+        "Turecko",
+        "Saúdská Arábie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mistrovství světa ve florbale žen 2021",
+      "values": [
+        "Jihoafrická republika",
+        "Singapur",
+        "Československo",
+        "Švédsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mistrovství světa v biatlonu 2015",
+      "values": [
+        "Rusko",
+        "Československo",
+        "Finsko",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství světa v atletice 2009",
+      "values": [
+        "Mexiko",
+        "Spojené království",
+        "Německo",
+        "Egypt"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství světa v orientačním běhu 2023",
+      "values": [
+        "Španělsko",
+        "Spojené království",
+        "Mexiko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mistrovství Evropy v basketbalu mužů 1947",
+      "values": [
+        "Česko",
+        "Litva",
+        "Severní Makedonie",
+        "Československo"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

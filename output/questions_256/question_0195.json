@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Ondřej Brousek",
+      "values": [
+        "japonského",
+        "islandského",
+        "venezuelského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michal Dočolomanský",
+      "values": [
+        "slovenského",
+        "ukrajinského",
+        "tureckého",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Antonín Jedlička",
+      "values": [
+        "švédského",
+        "maďarského",
+        "českého",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Armie Hammer",
+      "values": [
+        "maďarského",
+        "italského",
+        "amerického",
+        "čínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andrej Chalimon",
+      "values": [
+        "mexického",
+        "brazilského",
+        "chilského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ivan Jandl",
+      "values": [
+        "japonského",
+        "českého",
+        "brazilského",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bryan Cranston",
+      "values": [
+        "brazilského",
+        "amerického",
+        "čínského",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Roberto Benigni",
+      "values": [
+        "rakouského",
+        "malajsijského",
+        "italského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zach Braff",
+      "values": [
+        "malajsijského",
+        "amerického",
+        "švýcarského",
+        "chilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Kuželka",
+      "values": [
+        "švýcarského",
+        "novozélandského",
+        "českého",
+        "norského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

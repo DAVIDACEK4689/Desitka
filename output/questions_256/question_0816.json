@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Dobyvatelé ztracené archy",
+      "values": [
+        "David Twohy",
+        "Steven Spielberg",
+        "Woody Allen",
+        "David Frankel"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zápisník jedné lásky",
+      "values": [
+        "Steven Soderbergh",
+        "Nick Cassavetes",
+        "Kevin Reynolds",
+        "Shane Black"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dannyho parťáci",
+      "values": [
+        "John Landis",
+        "Steven Soderbergh",
+        "Jon Turteltaub",
+        "John Lasseter"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nebožtíci přejí lásce",
+      "values": [
+        "Billy Wilder",
+        "Brad Bird",
+        "David Fincher",
+        "Rian Johnson"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Riddick",
+      "values": [
+        "David Twohy",
+        "Colin Trevorrow",
+        "Billy Wilder",
+        "Robert Benton"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Blízká setkání třetího druhu",
+      "values": [
+        "Steven Spielberg",
+        "Wes Craven",
+        "Irwin Allen",
+        "Terrence Malick"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rocky II",
+      "values": [
+        "Steven Soderbergh",
+        "Nick Cassavetes",
+        "David Frankel",
+        "Sylvester Stallone"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hugo a jeho velký objev",
+      "values": [
+        "Martin Scorsese",
+        "Robert Eggers",
+        "Gregory Hoblit",
+        "Pete Docter"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Blbý a blbější",
+      "values": [
+        "bratři Farrellyové",
+        "Andrew Stanton",
+        "Colin Trevorrow",
+        "Stanley Kubrick"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Smrt čeká všude",
+      "values": [
+        "Zack Snyder",
+        "Chuck Russell",
+        "Sydney Pollack",
+        "Kathryn Bigelowová"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

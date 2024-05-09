@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Makrónky",
+      "values": [
+        "řeckou",
+        "anglickou",
+        "středoamerickou",
+        "francouzskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cordon bleu",
+      "values": [
+        "litevskou",
+        "indickou",
+        "švýcarskou",
+        "čínskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Láhevník ostnitý",
+      "values": [
+        "norskou",
+        "perskou",
+        "italskou",
+        "mexickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Slovinská kuchyně",
+      "values": [
+        "americkou",
+        "španělskou",
+        "indickou",
+        "balkánskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bulharská kuchyně",
+      "values": [
+        "americkou",
+        "balkánskou",
+        "slovenskou",
+        "portugalskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mamajuana",
+      "values": [
+        "dominikánskou",
+        "středoamerickou",
+        "slovenskou",
+        "gruzínskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Císařská houska",
+      "values": [
+        "belgickou",
+        "australskou",
+        "rakouskou",
+        "laoskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Umeboši",
+      "values": [
+        "belgickou",
+        "korejskou",
+        "slovenskou",
+        "japonskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stroh",
+      "values": [
+        "čínskou",
+        "indickou",
+        "rakouskou",
+        "vietnamskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Campa",
+      "values": [
+        "ukrajinskou",
+        "britskou",
+        "tibetskou",
+        "balkánskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

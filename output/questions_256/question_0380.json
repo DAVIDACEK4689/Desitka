@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Dante Alighieri",
+      "values": [
+        "britského",
+        "italského",
+        "československého",
+        "palestinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Konstantin von Neurath",
+      "values": [
+        "britského",
+        "izraelského",
+        "slovenského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Genrich Jagoda",
+      "values": [
+        "sovětského",
+        "portugalského",
+        "bosenského",
+        "íránského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oleksij Reznikov",
+      "values": [
+        "ukrajinského",
+        "madagaskarského",
+        "portugalského",
+        "československého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Daniel Lipšic",
+      "values": [
+        "švýcarského",
+        "francouzského",
+        "slovenského",
+        "peruánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kurt Schuschnigg",
+      "values": [
+        "rakouského",
+        "irského",
+        "běloruského",
+        "finského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Otto Strasser",
+      "values": [
+        "kanadského",
+        "německého",
+        "albánského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mychajlo Podoljak",
+      "values": [
+        "palestinského",
+        "ázerbájdžánského",
+        "ukrajinského",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Walter Hallstein",
+      "values": [
+        "slovenského",
+        "německého",
+        "francouzského",
+        "íránského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Heinrich Brüning",
+      "values": [
+        "keňského",
+        "libyjského",
+        "německého",
+        "anglického"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

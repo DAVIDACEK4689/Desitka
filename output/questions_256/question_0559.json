@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle historického území",
+  "questions": [
+    {
+      "key": "Prusko",
+      "values": [
+        "Řecko",
+        "Německo",
+        "Rakousko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dubrovník",
+      "values": [
+        "Česko",
+        "Francie",
+        "Chorvatsko",
+        "Slovinsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karélie",
+      "values": [
+        "Lotyšsko",
+        "Slovensko",
+        "Rusko",
+        "Rakousko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Švábsko",
+      "values": [
+        "Španělsko",
+        "Rusko",
+        "Německo",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Savojsko",
+      "values": [
+        "Belgie",
+        "Česko",
+        "Francie",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Akvitánie",
+      "values": [
+        "Francie",
+        "Řecko",
+        "Německo",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ingrie",
+      "values": [
+        "Francie",
+        "Rumunsko",
+        "Slovensko",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Moldavské knížectví",
+      "values": [
+        "Itálie",
+        "Rumunsko",
+        "Belgie",
+        "Írán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kastilské království",
+      "values": [
+        "Chorvatsko",
+        "Španělsko",
+        "Německo",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Osoblažsko",
+      "values": [
+        "Itálie",
+        "Česko",
+        "Rakousko",
+        "Belgie"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

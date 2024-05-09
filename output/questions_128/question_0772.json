@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] evropského podnikatele?",
+  "questions": [
+    {
+      "key": "Oliver Dlouhý",
+      "values": [
+        "rakouského",
+        "běloruského",
+        "českého",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marek Dospiva",
+      "values": [
+        "švédského",
+        "běloruského",
+        "slovinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Móda v předválečném Československu",
+      "values": [
+        "českého",
+        "španělského",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Cichoň",
+      "values": [
+        "francouzského",
+        "řeckého",
+        "nizozemského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Louis Blériot",
+      "values": [
+        "českého",
+        "ukrajinského",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ferdinand Piëch",
+      "values": [
+        "britského",
+        "dánského",
+        "polského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaroslav Chalupský",
+      "values": [
+        "polského",
+        "belgického",
+        "řeckého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Joseph Pilates",
+      "values": [
+        "slovinského",
+        "německého",
+        "litevského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tibor Batthyány",
+      "values": [
+        "francouzského",
+        "českého",
+        "řeckého",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Giovanni Battista Meneghini",
+      "values": [
+        "ruského",
+        "dánského",
+        "španělského",
+        "italského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

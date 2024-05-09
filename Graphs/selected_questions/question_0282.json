@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Eric Trump",
+      "values": [
+        "slovenského",
+        "amerického",
+        "libanonského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Coco Chanel",
+      "values": [
+        "německého",
+        "britského",
+        "řeckého",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Silvio Berlusconi",
+      "values": [
+        "italského",
+        "francouzského",
+        "německého",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bill Gates",
+      "values": [
+        "amerického",
+        "českého",
+        "italského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marian Kočner",
+      "values": [
+        "slovenského",
+        "britského",
+        "švédského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Aristoteles Onassis",
+      "values": [
+        "českého",
+        "rakouského",
+        "libanonského",
+        "řeckého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Andrej Danko",
+      "values": [
+        "italského",
+        "francouzského",
+        "slovenského",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomáš Chrenek",
+      "values": [
+        "švédského",
+        "českého",
+        "ruského",
+        "libanonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Hlávka",
+      "values": [
+        "českého",
+        "německého",
+        "ruského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Roman Abramovič",
+      "values": [
+        "švédského",
+        "amerického",
+        "německého",
+        "ruského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

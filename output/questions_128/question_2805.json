@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Miloš Havel",
+      "values": [
+        "rakouského",
+        "německého",
+        "českého",
+        "běloruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Maurizio Gucci",
+      "values": [
+        "íránského",
+        "italského",
+        "francouzského",
+        "bangladéšského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Denys Šmyhal",
+      "values": [
+        "italského",
+        "litevského",
+        "ukrajinského",
+        "íránského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Flavio Briatore",
+      "values": [
+        "litevského",
+        "italského",
+        "řeckého",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karl Wittgenstein",
+      "values": [
+        "francouzského",
+        "rakouského",
+        "indického",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Valentino Garavani",
+      "values": [
+        "švédského",
+        "ukrajinského",
+        "německého",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "William Hanna",
+      "values": [
+        "amerického",
+        "švýcarského",
+        "ukrajinského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jindřich Hudeček",
+      "values": [
+        "jihoafrického",
+        "ruského",
+        "švýcarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ferdinand de Lesseps",
+      "values": [
+        "litevského",
+        "indického",
+        "britského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stefano Casiraghi",
+      "values": [
+        "kanadského",
+        "italského",
+        "litevského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Eden Hazard",
+      "values": [
+        "amerického",
+        "belgického",
+        "bulharského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nikos Machlas",
+      "values": [
+        "anglického",
+        "španělského",
+        "albánského",
+        "řeckého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ederson",
+      "values": [
+        "brazilského",
+        "baskického",
+        "nizozemského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ciro Immobile",
+      "values": [
+        "italského",
+        "baskického",
+        "peruánského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Thiago Alcântara",
+      "values": [
+        "španělského",
+        "panamského",
+        "belgického",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ján Geleta",
+      "values": [
+        "venezuelského",
+        "belgického",
+        "slovenského",
+        "nigerijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jules Koundé",
+      "values": [
+        "francouzského",
+        "gruzínského",
+        "kostarického",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Anthony Martial",
+      "values": [
+        "francouzského",
+        "kanadského",
+        "italského",
+        "kosovského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dyjan Carlos de Azevedo",
+      "values": [
+        "brazilského",
+        "srbského",
+        "bulharského",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marcelo Salas",
+      "values": [
+        "chorvatského",
+        "českého",
+        "dánského",
+        "chilského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

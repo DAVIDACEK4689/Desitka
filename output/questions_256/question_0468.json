@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [národnost] komunistu?",
+  "questions": [
+    {
+      "key": "Karl Marx",
+      "values": [
+        "německého",
+        "polského",
+        "rumunského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jana Michailidu",
+      "values": [
+        "českého",
+        "brazilského",
+        "španělského",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lee Harvey Oswald",
+      "values": [
+        "amerického",
+        "ázerbájdžánského",
+        "brazilského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Erich Honecker",
+      "values": [
+        "československého",
+        "německého",
+        "brazilského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "János Kádár",
+      "values": [
+        "maďarského",
+        "polského",
+        "ruského",
+        "vietnamského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Antonio Gramsci",
+      "values": [
+        "ázerbájdžánského",
+        "italského",
+        "ruského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oscar Niemeyer",
+      "values": [
+        "vietnamského",
+        "brazilského",
+        "chilského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Wilhelm Pieck",
+      "values": [
+        "jugoslávského",
+        "německého",
+        "českého",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hejdar Alijev",
+      "values": [
+        "ruského",
+        "ázerbájdžánského",
+        "brazilského",
+        "československého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pete Seeger",
+      "values": [
+        "rumunského",
+        "bulharského",
+        "československého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

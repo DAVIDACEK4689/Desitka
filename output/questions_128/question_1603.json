@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Maniok jedlý",
+      "values": [
+        "Česko",
+        "Brazílie",
+        "Austrálie",
+        "Mexiko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oměj",
+      "values": [
+        "Brazílie",
+        "Nový Zéland",
+        "Japonsko",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lotos",
+      "values": [
+        "Mexiko",
+        "Madagaskar",
+        "Austrálie",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hadí kořen větší",
+      "values": [
+        "Česko",
+        "Brazílie",
+        "Mongolsko",
+        "Mexiko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bokarnea tlustokmenná",
+      "values": [
+        "Japonsko",
+        "Mexiko",
+        "Madagaskar",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bledule letní",
+      "values": [
+        "Brazílie",
+        "Česko",
+        "Mongolsko",
+        "Japonsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hvězdnatec zubatý",
+      "values": [
+        "Nový Zéland",
+        "Česko",
+        "Brazílie",
+        "Japonsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dračík",
+      "values": [
+        "Mongolsko",
+        "Japonsko",
+        "Austrálie",
+        "Mexiko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kapraď hřebenitá",
+      "values": [
+        "Austrálie",
+        "Mexiko",
+        "Brazílie",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dischidie",
+      "values": [
+        "Austrálie",
+        "Brazílie",
+        "Madagaskar",
+        "Japonsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] evropského podnikatele?",
+  "questions": [
+    {
+      "key": "Jan Dobrovský",
+      "values": [
+        "českého",
+        "britského",
+        "švédského",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marian Kočner",
+      "values": [
+        "slovenského",
+        "britského",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Chrenek",
+      "values": [
+        "rakouského",
+        "českého",
+        "švýcarského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bernard Tapie",
+      "values": [
+        "belgického",
+        "slovenského",
+        "francouzského",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Giorgio Armani",
+      "values": [
+        "ukrajinského",
+        "rakouského",
+        "francouzského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Boris Berezovskij",
+      "values": [
+        "francouzského",
+        "švédského",
+        "britského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Cichoň",
+      "values": [
+        "německého",
+        "italského",
+        "českého",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andrej Lugovoj",
+      "values": [
+        "českého",
+        "švýcarského",
+        "ruského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oleg Děripaska",
+      "values": [
+        "rakouského",
+        "ruského",
+        "švýcarského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaroslav Hanák",
+      "values": [
+        "italského",
+        "francouzského",
+        "švýcarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

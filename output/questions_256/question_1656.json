@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte město podle mrakodrapu",
+  "questions": [
+    {
+      "key": "Světové obchodní centrum",
+      "values": [
+        "Praha",
+        "Dubaj",
+        "Manhattan",
+        "Chicago"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "One World Trade Center",
+      "values": [
+        "Manhattan",
+        "Chicago",
+        "Londýn",
+        "Moskva"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "V Tower",
+      "values": [
+        "Varšava",
+        "Dubaj",
+        "Praha",
+        "Manhattan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chrysler Building",
+      "values": [
+        "Londýn",
+        "Chicago",
+        "Praha",
+        "Manhattan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ubytovna Kupa",
+      "values": [
+        "Londýn",
+        "Praha",
+        "Dubaj",
+        "Moskva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Palác kultury a vědy",
+      "values": [
+        "Moskva",
+        "Praha",
+        "Manhattan",
+        "Varšava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Top Tower",
+      "values": [
+        "Praha",
+        "Manhattan",
+        "Dubaj",
+        "Varšava"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "30 St Mary Axe",
+      "values": [
+        "Londýn",
+        "Paříž",
+        "Praha",
+        "Varšava"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Budova Centrotex",
+      "values": [
+        "Moskva",
+        "Praha",
+        "Paříž",
+        "Chicago"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Central Park Tower",
+      "values": [
+        "Manhattan",
+        "Chicago",
+        "Varšava",
+        "Londýn"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

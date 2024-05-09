@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle úmrtí",
+  "questions": [
+    {
+      "key": "Che Guevara",
+      "values": [
+        "Bolívie",
+        "Rusko",
+        "Singapur",
+        "Brazílie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Antonín Baťa",
+      "values": [
+        "Švýcarsko",
+        "Indie",
+        "Brazílie",
+        "Libye"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Louis Mountbatten",
+      "values": [
+        "Rakousko",
+        "Irsko",
+        "Panama",
+        "Japonsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tizian",
+      "values": [
+        "Vietnam",
+        "Indie",
+        "Itálie",
+        "Irák"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Boris Leonidovič Pasternak",
+      "values": [
+        "Zambie",
+        "Rusko",
+        "Dominikánská republika",
+        "Dánsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ray Liotta",
+      "values": [
+        "Rakousko",
+        "Dánsko",
+        "Alžírsko",
+        "Dominikánská republika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Robert Mugabe",
+      "values": [
+        "Německo",
+        "Spojené království",
+        "Singapur",
+        "Brazílie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Móric Beňovský",
+      "values": [
+        "Alžírsko",
+        "Spojené království",
+        "Zambie",
+        "Madagaskar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "John Allen Chau",
+      "values": [
+        "Indie",
+        "Irák",
+        "Libye",
+        "Turecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Thomas Luckmann",
+      "values": [
+        "Bolívie",
+        "Rakousko",
+        "Spojené království",
+        "Vietnam"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

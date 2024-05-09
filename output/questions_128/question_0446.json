@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Selena Gomezová",
+      "values": [
+        "kanadskou",
+        "bermudskou",
+        "irskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lindsay Lohan",
+      "values": [
+        "americkou",
+        "španělskou",
+        "argentinskou",
+        "dánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kristýna Kociánová",
+      "values": [
+        "íránskou",
+        "kanadskou",
+        "srbskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kateřina Holánová",
+      "values": [
+        "bulharskou",
+        "kubánskou",
+        "českou",
+        "novozélandskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jitka Moučková",
+      "values": [
+        "brazilskou",
+        "mexickou",
+        "íránskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Leopolda Dostalová",
+      "values": [
+        "českou",
+        "čínskou",
+        "italskou",
+        "belgickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tori Black",
+      "values": [
+        "finskou",
+        "americkou",
+        "izraelskou",
+        "dánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Indiana Evans",
+      "values": [
+        "australskou",
+        "kolumbijskou",
+        "íránskou",
+        "španělskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Margot Kidderová",
+      "values": [
+        "irskou",
+        "dánskou",
+        "kanadskou",
+        "íránskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rachel Griffiths",
+      "values": [
+        "tureckou",
+        "australskou",
+        "českou",
+        "německou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

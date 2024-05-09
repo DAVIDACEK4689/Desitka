@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle sportovní události",
+  "questions": [
+    {
+      "key": "Mistrovství Evropy ve fotbale 2024",
+      "values": [
+        "Německo",
+        "Saúdská Arábie",
+        "Litva",
+        "Spojené království"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mistrovství světa ve fotbale 2006",
+      "values": [
+        "Francie",
+        "Německo",
+        "Švýcarsko",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mistrovství světa v ledním hokeji 1969",
+      "values": [
+        "Španělsko",
+        "Německo",
+        "Severní Makedonie",
+        "Švýcarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství světa v ragby 2015",
+      "values": [
+        "Spojené království",
+        "Nový Zéland",
+        "Severní Makedonie",
+        "Mexiko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mistrovství světa v ragby 2011",
+      "values": [
+        "Nový Zéland",
+        "Rakousko",
+        "Švýcarsko",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mistrovství světa v biatlonu 2021",
+      "values": [
+        "Severní Makedonie",
+        "Slovinsko",
+        "Francie",
+        "Japonsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mistrovství světa juniorů v ledním hokeji 2006",
+      "values": [
+        "Gruzie",
+        "Saúdská Arábie",
+        "Litva",
+        "Singapur"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství světa v biatlonu 2017",
+      "values": [
+        "Andorra",
+        "Spojené království",
+        "Rakousko",
+        "Norsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství světa v biatlonu 2016",
+      "values": [
+        "Norsko",
+        "Turecko",
+        "Rusko",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mistrovství světa v atletice 2007",
+      "values": [
+        "Saúdská Arábie",
+        "Japonsko",
+        "Československo",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

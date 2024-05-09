@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle premiéra",
+  "questions": [
+    {
+      "key": "Andrej Babiš",
+      "values": [
+        "Irsko",
+        "Švédsko",
+        "Česko",
+        "Norsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Paroubek",
+      "values": [
+        "Nizozemsko",
+        "Rumunsko",
+        "Česko",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Donald Tusk",
+      "values": [
+        "Finsko",
+        "Španělsko",
+        "Polsko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Józef Piłsudski",
+      "values": [
+        "Španělsko",
+        "Slovensko",
+        "Etiopie",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "António Guterres",
+      "values": [
+        "Portugalsko",
+        "Island",
+        "Indonésie",
+        "Jugoslávie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kaja Kallasová",
+      "values": [
+        "Řecko",
+        "Švédsko",
+        "Estonsko",
+        "Irák"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mark Rutte",
+      "values": [
+        "Nizozemsko",
+        "Česko",
+        "Izrael",
+        "Island"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Władysław Sikorski",
+      "values": [
+        "Grónsko",
+        "Polsko",
+        "Portugalsko",
+        "Estonsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Abdullah Gül",
+      "values": [
+        "Portugalsko",
+        "Turecko",
+        "Izrael",
+        "Island"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Giulio Andreotti",
+      "values": [
+        "Kosovo",
+        "Spojené království",
+        "Itálie",
+        "Pákistán"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

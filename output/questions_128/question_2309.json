@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] internetovou firmu?",
+  "questions": [
+    {
+      "key": "Netflix",
+      "values": [
+        "českou",
+        "německou",
+        "čínskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aukro",
+      "values": [
+        "čínskou",
+        "americkou",
+        "německou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Airbnb",
+      "values": [
+        "německou",
+        "čínskou",
+        "americkou",
+        "českou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nadace Wikimedia",
+      "values": [
+        "českou",
+        "americkou",
+        "čínskou",
+        "německou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alibaba Group",
+      "values": [
+        "čínskou",
+        "českou",
+        "americkou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Refsite",
+      "values": [
+        "německou",
+        "americkou",
+        "českou",
+        "čínskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Quora",
+      "values": [
+        "americkou",
+        "českou",
+        "německou",
+        "čínskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vivantis",
+      "values": [
+        "čínskou",
+        "českou",
+        "americkou",
+        "německou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Issuu",
+      "values": [
+        "americkou",
+        "německou",
+        "čínskou",
+        "českou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Wirecard",
+      "values": [
+        "českou",
+        "čínskou",
+        "americkou",
+        "německou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

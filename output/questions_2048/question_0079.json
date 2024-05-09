@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Praha",
+      "values": [
+        "Česko",
+        "Belgie",
+        "Slovensko",
+        "Maďarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Olomouc",
+      "values": [
+        "Česko",
+        "Rakousko",
+        "Německo",
+        "Maďarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bratislava",
+      "values": [
+        "Irsko",
+        "Maďarsko",
+        "Rakousko",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Řím",
+      "values": [
+        "Rakousko",
+        "Irsko",
+        "Dánsko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Milán",
+      "values": [
+        "Itálie",
+        "Německo",
+        "Portugalsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gdaňsk",
+      "values": [
+        "Portugalsko",
+        "Polsko",
+        "Česko",
+        "Belgie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Salcburk",
+      "values": [
+        "Spojené království",
+        "Itálie",
+        "Dánsko",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Frankfurt nad Mohanem",
+      "values": [
+        "Dánsko",
+        "Nizozemsko",
+        "Belgie",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Katovice",
+      "values": [
+        "Itálie",
+        "Dánsko",
+        "Česko",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Liverpool",
+      "values": [
+        "Irsko",
+        "Spojené království",
+        "Polsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Košice",
+      "values": [
+        "Slovensko",
+        "Moldavsko",
+        "Mexiko",
+        "Severní Korea"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bagdád",
+      "values": [
+        "Irák",
+        "Namibie",
+        "Sýrie",
+        "Černá Hora"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Štúrovo",
+      "values": [
+        "Slovensko",
+        "Bangladéš",
+        "Česko",
+        "Kapverdy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Santa Cruz de Tenerife",
+      "values": [
+        "Belgie",
+        "Nový Zéland",
+        "Španělsko",
+        "Finsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Siófok",
+      "values": [
+        "Maďarsko",
+        "Omán",
+        "Moldavsko",
+        "Irák"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Leiden",
+      "values": [
+        "Island",
+        "Mexiko",
+        "Středoafrická republika",
+        "Nizozemsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Groningen",
+      "values": [
+        "Nizozemsko",
+        "Finsko",
+        "Německo",
+        "Pero"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Novo mesto",
+      "values": [
+        "Grónsko",
+        "Slovinsko",
+        "Japonsko",
+        "Východní Timor"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Daugavpils",
+      "values": [
+        "Lotyšsko",
+        "Pákistán",
+        "Gambie",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Târgu Mureș",
+      "values": [
+        "Rumunsko",
+        "Jemen",
+        "Súdán",
+        "Kapverdy"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "William Shakespeare",
+      "values": [
+        "slovenského",
+        "rumunského",
+        "chilského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Kolář",
+      "values": [
+        "amerického",
+        "řeckého",
+        "srbského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Edward Thomas",
+      "values": [
+        "švédského",
+        "rumunského",
+        "rakouského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Borkovec",
+      "values": [
+        "portugalského",
+        "íránského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Hiršal",
+      "values": [
+        "skotského",
+        "rumunského",
+        "českého",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Natalja Gorbaněvská",
+      "values": [
+        "ruského",
+        "rumunského",
+        "albánského",
+        "chilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Leger",
+      "values": [
+        "anglického",
+        "tureckého",
+        "chorvatského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Konstantin Nikolajevič Baťuškov",
+      "values": [
+        "srbského",
+        "gruzínského",
+        "polského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hanuš Jelínek",
+      "values": [
+        "sovětského",
+        "českého",
+        "španělského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Julian Tuwim",
+      "values": [
+        "japonského",
+        "polského",
+        "maďarského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Dědictví aneb Kurvahošigutntag",
+      "values": [
+        "Jan Hřebejk",
+        "Alice Nellis",
+        "Věra Chytilová",
+        "Václav Vorlíček"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Requiem pro panenku",
+      "values": [
+        "Jiří Krejčík",
+        "Saša Gedeon",
+        "Filip Renč",
+        "Zdeněk Podskalský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Což takhle dát si špenát",
+      "values": [
+        "Vojtěch Jasný",
+        "Václav Vorlíček",
+        "Jaromil Jireš",
+        "Jan Švankmajer"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Román pro muže",
+      "values": [
+        "Tomáš Bařina",
+        "Zdeněk Zelenka",
+        "Jiří Krejčík",
+        "Robert Sedláček"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Babovřesky 3",
+      "values": [
+        "Zdeněk Troška",
+        "Václav Vorlíček",
+        "Tomáš Bařina",
+        "Jaromil Jireš"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kotva u přívozu",
+      "values": [
+        "Marie Poledňáková",
+        "Václav Binovec",
+        "Jaromil Jireš",
+        "Jindřich Honzl"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hra o jablko",
+      "values": [
+        "Jaroslav Papoušek",
+        "Věra Chytilová",
+        "Zdeněk Troška",
+        "Bořivoj Zeman"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Prodavač humoru",
+      "values": [
+        "Ladislav Smoljak",
+        "Jiří Krejčík",
+        "Hynek Bočan",
+        "Věra Chytilová"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Smrt si vybírá",
+      "values": [
+        "Juraj Herz",
+        "Zdeněk Tyc",
+        "Karel Zeman",
+        "Václav Vorlíček"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Trápení",
+      "values": [
+        "Ladislav Smoljak",
+        "Martin Frič",
+        "Karel Kachyňa",
+        "Miroslav Sobota"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

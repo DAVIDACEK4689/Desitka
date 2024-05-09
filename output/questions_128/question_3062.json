@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Gerard Piqué",
+      "values": [
+        "španělského",
+        "egyptského",
+        "ukrajinského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marco van Basten",
+      "values": [
+        "nigerijského",
+        "mexického",
+        "rakouského",
+        "nizozemského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Kalas",
+      "values": [
+        "chilského",
+        "rumunského",
+        "českého",
+        "paraguayského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kepa Arrizabalaga",
+      "values": [
+        "slovenského",
+        "ruského",
+        "španělského",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "René Bolf",
+      "values": [
+        "českého",
+        "alžírského",
+        "belgického",
+        "anglického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rogério Ceni",
+      "values": [
+        "brazilského",
+        "ukrajinského",
+        "marockého",
+        "chorvatského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Emilio Butragueño",
+      "values": [
+        "jamajského",
+        "španělského",
+        "velšského",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Daniele De Rossi",
+      "values": [
+        "finského",
+        "nigerijského",
+        "albánského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Halil Altıntop",
+      "values": [
+        "španělského",
+        "tureckého",
+        "marockého",
+        "chilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cristian Romero",
+      "values": [
+        "argentinského",
+        "chorvatského",
+        "bulharského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Brigitte Bardotová",
+      "values": [
+        "švýcarskou",
+        "australskou",
+        "francouzskou",
+        "brazilskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Heidi Klumová",
+      "values": [
+        "německou",
+        "brazilskou",
+        "venezuelskou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sharon Stoneová",
+      "values": [
+        "americkou",
+        "německou",
+        "jihoafrickou",
+        "dánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vlaďka Erbová",
+      "values": [
+        "českou",
+        "japonskou",
+        "australskou",
+        "jihoafrickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hana Mašlíková",
+      "values": [
+        "českou",
+        "francouzskou",
+        "americkou",
+        "izraelskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Helena Houdová",
+      "values": [
+        "českou",
+        "brazilskou",
+        "ukrajinskou",
+        "izraelskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Terezie Dobrovolná",
+      "values": [
+        "italskou",
+        "českou",
+        "britskou",
+        "brazilskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Suzuka Nakamotová",
+      "values": [
+        "izraelskou",
+        "namibijskou",
+        "japonskou",
+        "indickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Meadow Walker",
+      "values": [
+        "kanadskou",
+        "argentinskou",
+        "americkou",
+        "namibijskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bo Derek",
+      "values": [
+        "venezuelskou",
+        "německou",
+        "japonskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

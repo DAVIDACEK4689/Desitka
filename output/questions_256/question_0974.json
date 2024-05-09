@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "Karel Schwarzenberg",
+      "values": [
+        "německého",
+        "portugalského",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Nedvěd",
+      "values": [
+        "maďarského",
+        "amerického",
+        "českého",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Brigitte Bardotová",
+      "values": [
+        "francouzského",
+        "kanadského",
+        "britského",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Radovan Lukavský",
+      "values": [
+        "portugalského",
+        "německého",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Melania Trumpová",
+      "values": [
+        "maďarského",
+        "britského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Giotto di Bondone",
+      "values": [
+        "německého",
+        "italského",
+        "francouzského",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ignác Filip Semmelweis",
+      "values": [
+        "francouzského",
+        "maďarského",
+        "portugalského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mlada",
+      "values": [
+        "maďarského",
+        "českého",
+        "francouzského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Viktor Emanuel Savojský",
+      "values": [
+        "italského",
+        "britského",
+        "kanadského",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Volek",
+      "values": [
+        "amerického",
+        "francouzského",
+        "českého",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

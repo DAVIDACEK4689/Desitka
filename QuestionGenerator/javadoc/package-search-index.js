@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"cz.cuni.mff.desitka"},{"l":"cz.cuni.mff.desitka.dictionaries"},{"l":"cz.cuni.mff.desitka.question"},{"l":"cz.cuni.mff.desitka.wiki"},{"l":"cz.cuni.mff.desitka.wiki.getters"},{"l":"cz.cuni.mff.desitka.wiki.types"},{"l":"junit_tests"}];updateSearchResults();

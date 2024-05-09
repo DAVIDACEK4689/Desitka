@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte téma podle filmu",
+  "questions": [
+    {
+      "key": "Asterix a Olympijské hry",
+      "values": [
+        "novinář",
+        "židovská tematika",
+        "sport",
+        "letectví"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Náš vůdce",
+      "values": [
+        "hasič",
+        "sériový vrah",
+        "imigrace",
+        "učitel"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sladký život",
+      "values": [
+        "sexualita",
+        "novinář",
+        "loupež",
+        "policie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tanec v temnotách",
+      "values": [
+        "automobil",
+        "imigrace",
+        "vlkodlak",
+        "móda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Blade 2",
+      "values": [
+        "automobil",
+        "učitel",
+        "upír",
+        "novinář"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hotel Transylvánie",
+      "values": [
+        "vlkodlak",
+        "skinheads",
+        "letectví",
+        "nemoc"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karcoolka",
+      "values": [
+        "spisovatel",
+        "pirát",
+        "novinář",
+        "loupež"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Madagaskar 3",
+      "values": [
+        "nemoc",
+        "cirkus",
+        "dvojče",
+        "sexualita"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Americké psycho 2",
+      "values": [
+        "sériový vrah",
+        "politik",
+        "policie",
+        "kometa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Boj o oheň",
+      "values": [
+        "kanibalismus",
+        "novinář",
+        "kometa",
+        "nemoc"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

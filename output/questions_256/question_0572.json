@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [typ] terorismus?",
+  "questions": [
+    {
+      "key": "Rudí Khmerové",
+      "values": [
+        "nacionalistický",
+        "komunistický",
+        "náboženský",
+        "státní"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Irská republikánská armáda",
+      "values": [
+        "nacionalistický",
+        "náboženský",
+        "státní",
+        "komunistický"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Let JAT 367",
+      "values": [
+        "nacionalistický",
+        "komunistický",
+        "náboženský",
+        "státní"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Frakce Rudé armády",
+      "values": [
+        "státní",
+        "nacionalistický",
+        "komunistický",
+        "náboženský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Óm šinrikjó",
+      "values": [
+        "komunistický",
+        "nacionalistický",
+        "státní",
+        "náboženský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Islámský terorismus",
+      "values": [
+        "náboženský",
+        "komunistický",
+        "nacionalistický",
+        "státní"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Strana kurdských pracujících",
+      "values": [
+        "nacionalistický",
+        "náboženský",
+        "komunistický",
+        "státní"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Špinavá válka",
+      "values": [
+        "nacionalistický",
+        "státní",
+        "náboženský",
+        "komunistický"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lidová fronta pro osvobození Palestiny",
+      "values": [
+        "státní",
+        "nacionalistický",
+        "náboženský",
+        "komunistický"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eskadry smrti",
+      "values": [
+        "nacionalistický",
+        "státní",
+        "náboženský",
+        "komunistický"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

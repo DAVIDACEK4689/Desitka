@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] malíře?",
+  "questions": [
+    {
+      "key": "Vincent van Gogh",
+      "values": [
+        "švýcarského",
+        "španělského",
+        "nizozemského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Egon Schiele",
+      "values": [
+        "kolumbijského",
+        "rakouského",
+        "švýcarského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Henri Rousseau",
+      "values": [
+        "řeckého",
+        "amerického",
+        "francouzského",
+        "chorvatského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Edgar Degas",
+      "values": [
+        "mexického",
+        "ukrajinského",
+        "francouzského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Han van Meegeren",
+      "values": [
+        "nizozemského",
+        "italského",
+        "finského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gerhard Richter",
+      "values": [
+        "německého",
+        "belgického",
+        "nizozemského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jaroslav Panuška",
+      "values": [
+        "českého",
+        "nizozemského",
+        "belgického",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert Delaunay",
+      "values": [
+        "řeckého",
+        "francouzského",
+        "japonského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aegidius Sadeler",
+      "values": [
+        "nizozemského",
+        "českého",
+        "španělského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cyprián Majerník",
+      "values": [
+        "německého",
+        "slovenského",
+        "rakouského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

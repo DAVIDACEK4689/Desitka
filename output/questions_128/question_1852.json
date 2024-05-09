@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Luka Modrić",
+      "values": [
+        "chorvatského",
+        "polského",
+        "ruského",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Thiago Silva",
+      "values": [
+        "německého",
+        "dánského",
+        "brazilského",
+        "srbského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roy Keane",
+      "values": [
+        "tureckého",
+        "irského",
+        "československého",
+        "chilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bronislav Červenka",
+      "values": [
+        "českého",
+        "tureckého",
+        "rakouského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Carlos Valderrama",
+      "values": [
+        "kolumbijského",
+        "belgického",
+        "islandského",
+        "chilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lukáš Došek",
+      "values": [
+        "českého",
+        "tureckého",
+        "albánského",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert Pirès",
+      "values": [
+        "francouzského",
+        "španělského",
+        "nizozemského",
+        "bulharského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Axel Witsel",
+      "values": [
+        "belgického",
+        "venezuelského",
+        "chorvatského",
+        "tureckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Daley Blind",
+      "values": [
+        "albánského",
+        "nizozemského",
+        "československého",
+        "ghanského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Guglielmo Vicario",
+      "values": [
+        "italského",
+        "kolumbijského",
+        "slovinského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

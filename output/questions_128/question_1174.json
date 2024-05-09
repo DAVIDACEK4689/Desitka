@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte oblast podle ptáka",
+  "questions": [
+    {
+      "key": "Ledňáček říční",
+      "values": [
+        "Orientální oblast",
+        "Atlantský oceán",
+        "Jižní Amerika",
+        "Střední Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ara hyacintový",
+      "values": [
+        "Střední Amerika",
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Orientální oblast"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chocholouš obecný",
+      "values": [
+        "Orientální oblast",
+        "Střední Amerika",
+        "Jižní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kur bankivský",
+      "values": [
+        "Severní Amerika",
+        "celosvětové rozšíření",
+        "Afrika",
+        "Orientální oblast"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kvesal chocholatý",
+      "values": [
+        "Tichý oceán",
+        "Střední Amerika",
+        "Orientální oblast",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ara červenouchý",
+      "values": [
+        "Atlantský oceán",
+        "Orientální oblast",
+        "Jižní Amerika",
+        "Indický oceán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dvojzoborožec žlutozobý",
+      "values": [
+        "Afrika",
+        "celosvětové rozšíření",
+        "Severní Amerika",
+        "Orientální oblast"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bělokur rousný",
+      "values": [
+        "Severní Amerika",
+        "Tichý oceán",
+        "Jižní oceán",
+        "Indický oceán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Berneška tmavá",
+      "values": [
+        "Střední Amerika",
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Tichý oceán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ketupa Pelova",
+      "values": [
+        "Afrika",
+        "Orientální oblast",
+        "Tichý oceán",
+        "Indický oceán"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

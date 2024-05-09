@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle hradu",
+  "questions": [
+    {
+      "key": "Alhambra",
+      "values": [
+        "Řecko",
+        "Írán",
+        "Švýcarsko",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bratislavský hrad",
+      "values": [
+        "Slovensko",
+        "Itálie",
+        "Německo",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Visegrád",
+      "values": [
+        "Finsko",
+        "Maďarsko",
+        "Japonsko",
+        "Řecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Krak des Chevaliers",
+      "values": [
+        "Slovensko",
+        "Sýrie",
+        "Turecko",
+        "Finsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hohenwerfen",
+      "values": [
+        "Francie",
+        "Slovensko",
+        "Rakousko",
+        "Irsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Krásna Hôrka",
+      "values": [
+        "Slovensko",
+        "Řecko",
+        "Ukrajina",
+        "Sýrie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nitranský hrad",
+      "values": [
+        "Německo",
+        "Slovensko",
+        "Švýcarsko",
+        "Ukrajina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tíryns",
+      "values": [
+        "Španělsko",
+        "Jordánsko",
+        "Řecko",
+        "Írán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ľubovňanský hrad",
+      "values": [
+        "Jordánsko",
+        "Slovinsko",
+        "Slovensko",
+        "Sýrie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Davidova věž",
+      "values": [
+        "Sýrie",
+        "Izrael",
+        "Rusko",
+        "Jordánsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

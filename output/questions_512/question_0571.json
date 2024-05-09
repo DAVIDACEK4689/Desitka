@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] atentátníka?",
+  "questions": [
+    {
+      "key": "Jozef Gabčík",
+      "values": [
+        "srbského",
+        "anglického",
+        "německého",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Theodore Kaczynski",
+      "values": [
+        "německého",
+        "českého",
+        "italského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Kubiš",
+      "values": [
+        "českého",
+        "italského",
+        "německého",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gavrilo Princip",
+      "values": [
+        "srbského",
+        "německého",
+        "anglického",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Claus Schenk von Stauffenberg",
+      "values": [
+        "amerického",
+        "srbského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lee Harvey Oswald",
+      "values": [
+        "polského",
+        "amerického",
+        "anglického",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Józef Piłsudski",
+      "values": [
+        "německého",
+        "českého",
+        "italského",
+        "polského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mark David Chapman",
+      "values": [
+        "německého",
+        "srbského",
+        "amerického",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Valčík",
+      "values": [
+        "slovenského",
+        "amerického",
+        "polského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jacob Rubinstein",
+      "values": [
+        "polského",
+        "italského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

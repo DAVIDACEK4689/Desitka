@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle narození",
+  "questions": [
+    {
+      "key": "Usain Bolt",
+      "values": [
+        "Jamajka",
+        "Uzbekistán",
+        "Island",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gilberto Rodríguez Orejuela",
+      "values": [
+        "Severní Korea",
+        "Kolumbie",
+        "Ázerbájdžán",
+        "Belgie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Akira Kurosawa",
+      "values": [
+        "Rusko",
+        "Japonsko",
+        "Argentina",
+        "Maďarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Juan Guaidó",
+      "values": [
+        "Albánie",
+        "Myanmar",
+        "Argentina",
+        "Venezuela"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr z Aspeltu",
+      "values": [
+        "Dominikánská republika",
+        "Lucembursko",
+        "Saúdská Arábie",
+        "Etiopie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Evo Morales",
+      "values": [
+        "Kosovo",
+        "Bolívie",
+        "Ázerbájdžán",
+        "Černá Hora"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ján Ambruš",
+      "values": [
+        "Malta",
+        "Černá Hora",
+        "Bulharsko",
+        "Rakousko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexis Texas",
+      "values": [
+        "Chorvatsko",
+        "Maďarsko",
+        "Madagaskar",
+        "Panama"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Patrick Bruel",
+      "values": [
+        "Monako",
+        "Nikaragua",
+        "Gambie",
+        "Alžírsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zelimchan Jandarbijev",
+      "values": [
+        "Uzbekistán",
+        "Irsko",
+        "Nizozemsko",
+        "Kazachstán"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

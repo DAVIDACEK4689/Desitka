@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Jacob Erftemeijer",
+      "values": [
+        "švýcarského",
+        "českého",
+        "britského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Liam Hemsworth",
+      "values": [
+        "švédského",
+        "norského",
+        "australského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Langmiler",
+      "values": [
+        "brazilského",
+        "maďarského",
+        "australského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ferenc Futurista",
+      "values": [
+        "českého",
+        "izraelského",
+        "portorického",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ondřej Červíček",
+      "values": [
+        "italského",
+        "tureckého",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roger Vadim",
+      "values": [
+        "belgického",
+        "srbského",
+        "francouzského",
+        "izraelského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivan Mistrík",
+      "values": [
+        "srbského",
+        "australského",
+        "slovenského",
+        "islandského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ryan Dunn",
+      "values": [
+        "islandského",
+        "amerického",
+        "srbského",
+        "marockého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Arnold Vosloo",
+      "values": [
+        "portorického",
+        "maďarského",
+        "jihoafrického",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tommy Wiseau",
+      "values": [
+        "dánského",
+        "ukrajinského",
+        "amerického",
+        "polského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

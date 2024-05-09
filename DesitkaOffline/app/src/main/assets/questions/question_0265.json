@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebníka?",
+  "questions": [
+    {
+      "key": "Vašo Patejdl",
+      "values": [
+        "německého",
+        "rakouského",
+        "australského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Hradil",
+      "values": [
+        "slovenského",
+        "nizozemského",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bořek Slezáček",
+      "values": [
+        "českého",
+        "německého",
+        "arménského",
+        "jihokorejského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vít Rotter",
+      "values": [
+        "českého",
+        "jihokorejského",
+        "arménského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Budař",
+      "values": [
+        "českého",
+        "nizozemského",
+        "francouzského",
+        "chorvatského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "River Phoenix",
+      "values": [
+        "amerického",
+        "jihokorejského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Serge Gainsbourg",
+      "values": [
+        "amerického",
+        "arménského",
+        "nizozemského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Steven Tyler",
+      "values": [
+        "francouzského",
+        "švédského",
+        "amerického",
+        "arménského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Joe Jonas",
+      "values": [
+        "slovenského",
+        "amerického",
+        "arménského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bobby Farrell",
+      "values": [
+        "amerického",
+        "nizozemského",
+        "kanadského",
+        "německého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

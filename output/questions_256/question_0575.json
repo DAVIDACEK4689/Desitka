@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] vězně?",
+  "questions": [
+    {
+      "key": "Dominik Feri",
+      "values": [
+        "velšského",
+        "běloruského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Hasil",
+      "values": [
+        "íránského",
+        "sovětského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hana Hegerová",
+      "values": [
+        "francouzského",
+        "sovětského",
+        "íránského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miroslav Štěpán",
+      "values": [
+        "sovětského",
+        "norského",
+        "českého",
+        "íránského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roman Janoušek",
+      "values": [
+        "českého",
+        "velšského",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eli Kohen",
+      "values": [
+        "německého",
+        "izraelského",
+        "norského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bohumil Hasil",
+      "values": [
+        "amerického",
+        "izraelského",
+        "norského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karola Franková",
+      "values": [
+        "německého",
+        "běloruského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "František Saidl",
+      "values": [
+        "českého",
+        "amerického",
+        "izraelského",
+        "běloruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Phil Spector",
+      "values": [
+        "českého",
+        "běloruského",
+        "velšského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

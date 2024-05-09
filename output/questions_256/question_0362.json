@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalového trenéra?",
+  "questions": [
+    {
+      "key": "Jaroslav Šilhavý",
+      "values": [
+        "československého",
+        "portugalského",
+        "českého",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ferenc Puskás",
+      "values": [
+        "maďarského",
+        "španělského",
+        "irského",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Julian Nagelsmann",
+      "values": [
+        "portugalského",
+        "francouzského",
+        "chilského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Clarence Seedorf",
+      "values": [
+        "nizozemského",
+        "českého",
+        "mexického",
+        "argentinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Luboš Kozel",
+      "values": [
+        "českého",
+        "slovenského",
+        "portugalského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Christo Stoičkov",
+      "values": [
+        "mexického",
+        "rumunského",
+        "italského",
+        "bulharského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jürgen Klinsmann",
+      "values": [
+        "německého",
+        "českého",
+        "velšského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Siniša Mihajlović",
+      "values": [
+        "rumunského",
+        "srbského",
+        "brazilského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fabio Capello",
+      "values": [
+        "brazilského",
+        "italského",
+        "australského",
+        "chilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oleg Blochin",
+      "values": [
+        "australského",
+        "argentinského",
+        "ukrajinského",
+        "chilského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

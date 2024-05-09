@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Luděk Munzar",
+      "values": [
+        "italského",
+        "dánského",
+        "belgického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Janek Rubeš",
+      "values": [
+        "německého",
+        "českého",
+        "norského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Čeněk Šlégl",
+      "values": [
+        "švýcarského",
+        "českého",
+        "hongkongského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jindřich Mann",
+      "values": [
+        "srbského",
+        "německého",
+        "španělského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Billy Bob Thornton",
+      "values": [
+        "mexického",
+        "kanadského",
+        "polského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dežo Ursiny",
+      "values": [
+        "belgického",
+        "slovenského",
+        "rakouského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dan Svátek",
+      "values": [
+        "italského",
+        "francouzského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Guillermo del Toro",
+      "values": [
+        "novozélandského",
+        "rakouského",
+        "mexického",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Charles Dance",
+      "values": [
+        "slovenského",
+        "polského",
+        "britského",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chuck Lorre",
+      "values": [
+        "francouzského",
+        "švédského",
+        "polského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Hanoj",
+      "values": [
+        "Nepál",
+        "Indonésie",
+        "Gruzie",
+        "Vietnam"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bogota",
+      "values": [
+        "Libye",
+        "Kolumbie",
+        "Tunisko",
+        "Brazílie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Osijek",
+      "values": [
+        "Chorvatsko",
+        "Benin",
+        "Srí Lanka",
+        "Vietnam"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Džaraš",
+      "values": [
+        "Jordánsko",
+        "Bulharsko",
+        "Japonsko",
+        "Východní Timor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sárospatak",
+      "values": [
+        "Brunej",
+        "Maďarsko",
+        "Palau",
+        "Myanmar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hainburg an der Donau",
+      "values": [
+        "Slovensko",
+        "Slovinsko",
+        "Česko",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Port Said",
+      "values": [
+        "Libanon",
+        "Egypt",
+        "Nepál",
+        "Afghánistán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Baranavičy",
+      "values": [
+        "Bělorusko",
+        "Island",
+        "Finsko",
+        "Turkmenistán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Velenje",
+      "values": [
+        "Slovinsko",
+        "Senegal",
+        "Kyrgyzstán",
+        "Středoafrická republika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Culiacán",
+      "values": [
+        "Mexiko",
+        "Omán",
+        "Namibie",
+        "Pero"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

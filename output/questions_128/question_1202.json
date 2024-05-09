@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalového trenéra?",
+  "questions": [
+    {
+      "key": "Carlo Ancelotti",
+      "values": [
+        "uruguayského",
+        "italského",
+        "norského",
+        "anglického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jozef Chovanec",
+      "values": [
+        "slovenského",
+        "norského",
+        "belgického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jozef Weber",
+      "values": [
+        "srbského",
+        "nizozemského",
+        "norského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zdeněk Svoboda",
+      "values": [
+        "slovenského",
+        "českého",
+        "ruského",
+        "bulharského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavel Hoftych",
+      "values": [
+        "ukrajinského",
+        "českého",
+        "rumunského",
+        "československého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Frank de Boer",
+      "values": [
+        "mexického",
+        "skotského",
+        "norského",
+        "nizozemského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Radek Černý",
+      "values": [
+        "anglického",
+        "francouzského",
+        "československého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Daniele De Rossi",
+      "values": [
+        "italského",
+        "srbského",
+        "dánského",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jean Tigana",
+      "values": [
+        "brazilského",
+        "portugalského",
+        "francouzského",
+        "anglického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Stromšík",
+      "values": [
+        "českého",
+        "německého",
+        "chilského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

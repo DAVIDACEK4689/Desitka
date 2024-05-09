@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte oblast podle ptáka",
+  "questions": [
+    {
+      "key": "Páv korunkatý",
+      "values": [
+        "Tichý oceán",
+        "Střední Amerika",
+        "Jižní oceán",
+        "Orientální oblast"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Plameňák růžový",
+      "values": [
+        "Střední Amerika",
+        "Atlantský oceán",
+        "Afrika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Konipas horský",
+      "values": [
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Orientální oblast",
+        "Střední Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Holub stěhovavý",
+      "values": [
+        "Severní Amerika",
+        "Tichý oceán",
+        "Antarktida",
+        "Střední Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bukáček malý",
+      "values": [
+        "Afrika",
+        "Jižní oceán",
+        "Antarktida",
+        "Tichý oceán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kachnička karolínská",
+      "values": [
+        "Indický oceán",
+        "Orientální oblast",
+        "Severní Amerika",
+        "celosvětové rozšíření"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tučňák žlutorohý",
+      "values": [
+        "Antarktida",
+        "Orientální oblast",
+        "Severní Amerika",
+        "Jižní oceán"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Papoušek karolinský",
+      "values": [
+        "Severní Amerika",
+        "Orientální oblast",
+        "Jižní Amerika",
+        "Indický oceán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Husa sněžní",
+      "values": [
+        "celosvětové rozšíření",
+        "Orientální oblast",
+        "Antarktida",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vlha núbijská",
+      "values": [
+        "Tichý oceán",
+        "Afrika",
+        "Atlantský oceán",
+        "Střední Amerika"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

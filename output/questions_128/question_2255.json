@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Július Satinský",
+      "values": [
+        "malajsijského",
+        "peruánského",
+        "německého",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "MC Gey",
+      "values": [
+        "polského",
+        "finského",
+        "českého",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alfred Kubin",
+      "values": [
+        "ázerbájdžánského",
+        "izraelského",
+        "filipínského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marina Cvětajevová",
+      "values": [
+        "portugalského",
+        "srbského",
+        "ruského",
+        "libanonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Antonín Pitínský",
+      "values": [
+        "kanadského",
+        "kolumbijského",
+        "českého",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Daniel Micka",
+      "values": [
+        "japonského",
+        "portugalského",
+        "řeckého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Menzel",
+      "values": [
+        "německého",
+        "afghánského",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sóseki Nacume",
+      "values": [
+        "britského",
+        "japonského",
+        "egyptského",
+        "uruguayského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Luboš Říha",
+      "values": [
+        "irského",
+        "kyrgyzského",
+        "kanadského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Strauss",
+      "values": [
+        "mexického",
+        "australského",
+        "rakouského",
+        "německého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

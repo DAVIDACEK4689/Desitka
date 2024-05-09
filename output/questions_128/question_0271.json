@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle prezidenta",
+  "questions": [
+    {
+      "key": "Dmitrij Medveděv",
+      "values": [
+        "Írán",
+        "Salvador",
+        "Rusko",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gamál Násir",
+      "values": [
+        "Somálsko",
+        "Německo",
+        "Nigérie",
+        "Egypt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aleksander Kwaśniewski",
+      "values": [
+        "Itálie",
+        "Kazachstán",
+        "Polsko",
+        "Vietnam"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hejdar Alijev",
+      "values": [
+        "Ázerbájdžán",
+        "Rumunsko",
+        "Československo",
+        "Abcházie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hámid Karzaj",
+      "values": [
+        "Afghánistán",
+        "Kamerun",
+        "Alžírsko",
+        "Arménie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hafizulláh Amín",
+      "values": [
+        "Irák",
+        "Srbsko",
+        "Kolumbie",
+        "Afghánistán"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Felipe Calderón",
+      "values": [
+        "Mexiko",
+        "Estonsko",
+        "Gambie",
+        "Rakousko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vigdís Finnbogadóttir",
+      "values": [
+        "Rovníková Guinea",
+        "Rumunsko",
+        "Island",
+        "Salvador"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "António Agostinho Neto",
+      "values": [
+        "Angola",
+        "Zair",
+        "Chorvatsko",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gaston Doumergue",
+      "values": [
+        "Libanon",
+        "Francie",
+        "Zambie",
+        "Egypt"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

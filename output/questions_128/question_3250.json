@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] firmu?",
+  "questions": [
+    {
+      "key": "Berkshire Hathaway",
+      "values": [
+        "belgickou",
+        "českou",
+        "americkou",
+        "rakouskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "LG Group",
+      "values": [
+        "českou",
+        "jihokorejskou",
+        "ukrajinskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Okresní podnik bytového hospodářství",
+      "values": [
+        "čínskou",
+        "francouzskou",
+        "malajsijskou",
+        "československou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Assicurazioni Generali",
+      "values": [
+        "belgickou",
+        "italskou",
+        "malajsijskou",
+        "japonskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Standard Oil",
+      "values": [
+        "jihokorejskou",
+        "československou",
+        "německou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zaibacu",
+      "values": [
+        "japonskou",
+        "dánskou",
+        "francouzskou",
+        "irskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hotel Sacher",
+      "values": [
+        "malajsijskou",
+        "švýcarskou",
+        "rakouskou",
+        "vietnamskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Telefunken",
+      "values": [
+        "německou",
+        "ruskou",
+        "maďarskou",
+        "malajsijskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "První novinová společnost",
+      "values": [
+        "belgickou",
+        "britskou",
+        "rumunskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Campagnolo",
+      "values": [
+        "slovenskou",
+        "chorvatskou",
+        "vietnamskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

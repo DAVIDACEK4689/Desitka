@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte oblast podle ptáka",
+  "questions": [
+    {
+      "key": "Hrdlička zahradní",
+      "values": [
+        "celosvětové rozšíření",
+        "Antarktida",
+        "Jižní oceán",
+        "Orientální oblast"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kondor andský",
+      "values": [
+        "celosvětové rozšíření",
+        "Jižní Amerika",
+        "Orientální oblast",
+        "Afrika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kanár divoký",
+      "values": [
+        "Afrika",
+        "Orientální oblast",
+        "Tichý oceán",
+        "Střední Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Čečetka zimní",
+      "values": [
+        "celosvětové rozšíření",
+        "Indický oceán",
+        "Severní Amerika",
+        "Tichý oceán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Holub nikobarský",
+      "values": [
+        "Střední Amerika",
+        "Jižní Amerika",
+        "Atlantský oceán",
+        "Orientální oblast"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Káně bělochvostá",
+      "values": [
+        "Afrika",
+        "Střední Amerika",
+        "Indický oceán",
+        "Antarktida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Poštolka jižní",
+      "values": [
+        "Afrika",
+        "Střední Amerika",
+        "Atlantský oceán",
+        "Indický oceán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ostralka štíhlá",
+      "values": [
+        "Severní Amerika",
+        "Tichý oceán",
+        "Atlantský oceán",
+        "Antarktida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Klubák žlutozobý",
+      "values": [
+        "Střední Amerika",
+        "Severní Amerika",
+        "Jižní oceán",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nandu Darwinův",
+      "values": [
+        "Orientální oblast",
+        "Severní Amerika",
+        "Atlantský oceán",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filozofa?",
+  "questions": [
+    {
+      "key": "Aristotelés",
+      "values": [
+        "australského",
+        "maďarského",
+        "řeckého",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Avicenna",
+      "values": [
+        "perského",
+        "německého",
+        "francouzského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Helena Petrovna Blavatská",
+      "values": [
+        "finského",
+        "indického",
+        "dánského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel Slavoj Amerling",
+      "values": [
+        "českého",
+        "dánského",
+        "německého",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stanislav Komárek",
+      "values": [
+        "australského",
+        "egyptského",
+        "českého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Barša",
+      "values": [
+        "brazilského",
+        "českého",
+        "čínského",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vincenc Zahradník",
+      "values": [
+        "polského",
+        "byzantského",
+        "indického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "William Godwin",
+      "values": [
+        "kanadského",
+        "českého",
+        "francouzského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Richard Rorty",
+      "values": [
+        "nizozemského",
+        "ukrajinského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Antonín Kosík",
+      "values": [
+        "ukrajinského",
+        "kanadského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

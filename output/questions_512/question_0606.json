@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle premiéra",
+  "questions": [
+    {
+      "key": "Stanislav Gross",
+      "values": [
+        "Bulharsko",
+        "Portugalsko",
+        "Estonsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bohuslav Sobotka",
+      "values": [
+        "Turecko",
+        "Česko",
+        "Slovensko",
+        "Ukrajina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Silvio Berlusconi",
+      "values": [
+        "Izrael",
+        "Itálie",
+        "Nizozemsko",
+        "Španělsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Neville Chamberlain",
+      "values": [
+        "Norsko",
+        "Japonsko",
+        "Izrael",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mateusz Morawiecki",
+      "values": [
+        "Itálie",
+        "Slovensko",
+        "Egypt",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Anthony Eden",
+      "values": [
+        "Francie",
+        "Japonsko",
+        "Spojené království",
+        "Norsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "António Guterres",
+      "values": [
+        "Portugalsko",
+        "Nizozemsko",
+        "Španělsko",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michail Mišustin",
+      "values": [
+        "Irák",
+        "Ukrajina",
+        "Rusko",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Menachem Begin",
+      "values": [
+        "Izrael",
+        "Irák",
+        "Francie",
+        "Švédsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pedro Sánchez",
+      "values": [
+        "Bulharsko",
+        "Estonsko",
+        "Španělsko",
+        "Spojené království"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

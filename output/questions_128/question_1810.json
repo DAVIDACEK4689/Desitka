@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] šlechtice?",
+  "questions": [
+    {
+      "key": "Bohuslav Balbín",
+      "values": [
+        "českého",
+        "uherského",
+        "albánského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jaroslav Bořita z Martinic",
+      "values": [
+        "slezského",
+        "španělského",
+        "dánského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hynek z Poděbrad",
+      "values": [
+        "českého",
+        "řeckého",
+        "slovenského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Franz Conrad von Hötzendorf",
+      "values": [
+        "ruského",
+        "rakouského",
+        "chorvatského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paola Belgická",
+      "values": [
+        "švédského",
+        "rakouského",
+        "italského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Douglas Haig",
+      "values": [
+        "německého",
+        "britského",
+        "uherského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexej Konstantinovič Tolstoj",
+      "values": [
+        "ruského",
+        "rakouského",
+        "španělského",
+        "gruzínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gundakar z Lichtenštejna",
+      "values": [
+        "monackého",
+        "ruského",
+        "moravského",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hynek z Dubé",
+      "values": [
+        "chorvatského",
+        "českého",
+        "albánského",
+        "moravského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Čaadajev",
+      "values": [
+        "portugalského",
+        "ruského",
+        "albánského",
+        "monackého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

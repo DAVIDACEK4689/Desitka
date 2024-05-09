@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle letecké nehody",
+  "questions": [
+    {
+      "key": "Letecká havárie v Jaroslavli v roce 2011",
+      "values": [
+        "Ukrajina",
+        "Sovětský svaz",
+        "Rusko",
+        "Sýrie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Let Helios Airways 522",
+      "values": [
+        "Ukrajina",
+        "Řecko",
+        "Sýrie",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Let JP 450",
+      "values": [
+        "Německo",
+        "Československo",
+        "Francie",
+        "Indonésie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Let Germanwings 9525",
+      "values": [
+        "Sýrie",
+        "Egypt",
+        "Francie",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Let Fuerza Aérea Uruguaya 571",
+      "values": [
+        "Československo",
+        "Německo",
+        "Egypt",
+        "Argentina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Let ČSA 540",
+      "values": [
+        "Itálie",
+        "Indonésie",
+        "Řecko",
+        "Sýrie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Let Iran Air 655",
+      "values": [
+        "Slovensko",
+        "Španělsko",
+        "Írán",
+        "Sovětský svaz"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Smrt Jurije Gagarina",
+      "values": [
+        "Itálie",
+        "Řecko",
+        "Rusko",
+        "Sovětský svaz"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Let Lion Air 610",
+      "values": [
+        "Etiopie",
+        "Egypt",
+        "Indonésie",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Let Ethiopian Airlines 302",
+      "values": [
+        "Indonésie",
+        "Francie",
+        "Československo",
+        "Etiopie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

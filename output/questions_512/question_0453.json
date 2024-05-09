@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Rudolf Hess",
+      "values": [
+        "německého",
+        "panamského",
+        "kubánského",
+        "tureckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexandr Lukašenko",
+      "values": [
+        "československého",
+        "srbského",
+        "finského",
+        "běloruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ho Či Min",
+      "values": [
+        "vietnamského",
+        "italského",
+        "palestinského",
+        "argentinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sergej Lavrov",
+      "values": [
+        "ruského",
+        "francouzského",
+        "kubánského",
+        "nigerského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "António Guterres",
+      "values": [
+        "amerického",
+        "německého",
+        "portugalského",
+        "jihoafrického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Udaj Husajn",
+      "values": [
+        "portugalského",
+        "iráckého",
+        "polského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andrej Andrejevič Gromyko",
+      "values": [
+        "chilského",
+        "ukrajinského",
+        "sovětského",
+        "myanmarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marine Le Penová",
+      "values": [
+        "anglického",
+        "francouzského",
+        "rakouského",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Daniel Lipšic",
+      "values": [
+        "albánského",
+        "slovenského",
+        "palestinského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mark Rutte",
+      "values": [
+        "nizozemského",
+        "zimbabwského",
+        "rumunského",
+        "maltského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

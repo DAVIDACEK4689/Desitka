@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] dramatický film?",
+  "questions": [
+    {
+      "key": "Poslední závod",
+      "values": [
+        "český",
+        "jihokorejský",
+        "československý",
+        "izraelský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ďábel nosí Pradu",
+      "values": [
+        "maďarský",
+        "sovětský",
+        "československý",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Čas sluhů",
+      "values": [
+        "jihokorejský",
+        "československý",
+        "dánský",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gran Torino",
+      "values": [
+        "německý",
+        "estonský",
+        "švédský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Křídla Vánoc",
+      "values": [
+        "izraelský",
+        "český",
+        "ruský",
+        "slovenský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Návrat ztraceného ráje",
+      "values": [
+        "český",
+        "mexický",
+        "německý",
+        "estonský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jerry Maguire",
+      "values": [
+        "maďarský",
+        "americký",
+        "francouzský",
+        "estonský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hranaři",
+      "values": [
+        "dánský",
+        "slovenský",
+        "izraelský",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Straka v hrsti",
+      "values": [
+        "československý",
+        "český",
+        "ruský",
+        "francouzský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kapsy plné dynamitu",
+      "values": [
+        "estonský",
+        "mexický",
+        "australský",
+        "italský"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

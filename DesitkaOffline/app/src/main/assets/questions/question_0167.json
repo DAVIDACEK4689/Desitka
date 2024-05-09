@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "Libuše Šafránková",
+      "values": [
+        "francouzského",
+        "portugalského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Stropnický",
+      "values": [
+        "francouzského",
+        "českého",
+        "portugalského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Anežka Česká",
+      "values": [
+        "švýcarského",
+        "českého",
+        "maďarského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Roger Federer",
+      "values": [
+        "švýcarského",
+        "portugalského",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Brigitte Bardotová",
+      "values": [
+        "britského",
+        "francouzského",
+        "amerického",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Valentino Rossi",
+      "values": [
+        "českého",
+        "italského",
+        "maďarského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gianluigi Buffon",
+      "values": [
+        "italského",
+        "portugalského",
+        "kanadského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gian Lorenzo Bernini",
+      "values": [
+        "italského",
+        "českého",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lucky Luciano",
+      "values": [
+        "francouzského",
+        "švýcarského",
+        "britského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Eben",
+      "values": [
+        "českého",
+        "amerického",
+        "maďarského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

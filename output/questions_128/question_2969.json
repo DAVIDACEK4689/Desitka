@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] román?",
+  "questions": [
+    {
+      "key": "Robinson Crusoe",
+      "values": [
+        "anglický",
+        "polský",
+        "britský",
+        "rakouský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bílý tesák",
+      "values": [
+        "americký",
+        "český",
+        "kanadský",
+        "francouzský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hrozny hněvu",
+      "values": [
+        "britský",
+        "japonský",
+        "americký",
+        "maďarský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stříbrný vítr",
+      "values": [
+        "čínský",
+        "maďarský",
+        "australský",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Buddenbrookovi",
+      "values": [
+        "japonský",
+        "německý",
+        "polský",
+        "anglický"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Než jsem tě poznala",
+      "values": [
+        "rakouský",
+        "anglický",
+        "australský",
+        "maďarský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mansfieldské panství",
+      "values": [
+        "anglický",
+        "polský",
+        "italský",
+        "maďarský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Strach a hnus v Las Vegas",
+      "values": [
+        "americký",
+        "australský",
+        "rakouský",
+        "britský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mluviti pravdu",
+      "values": [
+        "francouzský",
+        "český",
+        "německý",
+        "čínský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dům na kopci",
+      "values": [
+        "maďarský",
+        "německý",
+        "americký",
+        "ruský"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

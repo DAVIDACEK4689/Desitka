@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Matěj Hádek",
+      "values": [
+        "českého",
+        "jihokorejského",
+        "polského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Kačer",
+      "values": [
+        "belgického",
+        "českého",
+        "sovětského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jamie Dornan",
+      "values": [
+        "irského",
+        "ukrajinského",
+        "marockého",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Danny DeVito",
+      "values": [
+        "nizozemského",
+        "španělského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vladimír Hrubý",
+      "values": [
+        "irského",
+        "dánského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miloslav König",
+      "values": [
+        "izraelského",
+        "ukrajinského",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miloš Kirschner",
+      "values": [
+        "maďarského",
+        "srbského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Yannick Bisson",
+      "values": [
+        "kanadského",
+        "izraelského",
+        "ukrajinského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jesse Eisenberg",
+      "values": [
+        "italského",
+        "izraelského",
+        "jihoafrického",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Henderson",
+      "values": [
+        "švédského",
+        "guatemalského",
+        "novozélandského",
+        "australského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

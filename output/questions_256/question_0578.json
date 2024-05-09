@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle pohoří",
+  "questions": [
+    {
+      "key": "Hrubý Jeseník",
+      "values": [
+        "Maďarsko",
+        "Řecko",
+        "Česko",
+        "Maroko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sierra Nevada",
+      "values": [
+        "Rakousko",
+        "Itálie",
+        "Španělsko",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chřiby",
+      "values": [
+        "Austrálie",
+        "Česko",
+        "Španělsko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stolové hory",
+      "values": [
+        "Polsko",
+        "Maroko",
+        "Chorvatsko",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Harz",
+      "values": [
+        "Německo",
+        "Řecko",
+        "Polsko",
+        "Austrálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Malé Karpaty",
+      "values": [
+        "Polsko",
+        "Německo",
+        "Slovensko",
+        "Austrálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ždánický les",
+      "values": [
+        "Francie",
+        "Česko",
+        "Bulharsko",
+        "Černá Hora"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dekánská plošina",
+      "values": [
+        "Indie",
+        "Slovensko",
+        "Itálie",
+        "Bulharsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kantaberské pohoří",
+      "values": [
+        "Rakousko",
+        "Španělsko",
+        "Polsko",
+        "Francie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Velké předělové pohoří",
+      "values": [
+        "Austrálie",
+        "Řecko",
+        "Česko",
+        "Francie"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

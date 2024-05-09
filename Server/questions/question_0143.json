@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] svatého?",
+  "questions": [
+    {
+      "key": "Jan Hus",
+      "values": [
+        "českého",
+        "ruského",
+        "alžírského",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Svatý Mikuláš",
+      "values": [
+        "indického",
+        "řeckého",
+        "ruského",
+        "alžírského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Anežka Česká",
+      "values": [
+        "anglického",
+        "alžírského",
+        "irského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Svatý Valentin",
+      "values": [
+        "italského",
+        "řeckého",
+        "egyptského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Svatý Patrik",
+      "values": [
+        "irského",
+        "alžírského",
+        "rakouského",
+        "anglického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "František z Assisi",
+      "values": [
+        "egyptského",
+        "francouzského",
+        "anglického",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kateřina Alexandrijská",
+      "values": [
+        "egyptského",
+        "českého",
+        "portugalského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Antonín z Padovy",
+      "values": [
+        "rakouského",
+        "anglického",
+        "portugalského",
+        "egyptského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Svatý Vít",
+      "values": [
+        "irského",
+        "egyptského",
+        "italského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Svatý Vavřinec",
+      "values": [
+        "španělského",
+        "italského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

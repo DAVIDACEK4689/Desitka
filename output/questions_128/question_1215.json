@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle cyklistického závodu",
+  "questions": [
+    {
+      "key": "Vuelta a España",
+      "values": [
+        "Španělsko",
+        "Japonsko",
+        "Austrálie",
+        "Belgie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kolem Flander",
+      "values": [
+        "Austrálie",
+        "Španělsko",
+        "Japonsko",
+        "Belgie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Giro di Lombardia",
+      "values": [
+        "Nizozemsko",
+        "Španělsko",
+        "Belgie",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mistrovství světa v silniční cyklistice 2022",
+      "values": [
+        "Španělsko",
+        "Švýcarsko",
+        "Itálie",
+        "Austrálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tour de Suisse 2023",
+      "values": [
+        "Švýcarsko",
+        "Španělsko",
+        "Belgie",
+        "Austrálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Triatlon na Letních olympijských hrách 2020",
+      "values": [
+        "Itálie",
+        "Španělsko",
+        "Nizozemsko",
+        "Japonsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mistrovství světa v cyklokrosu 2023",
+      "values": [
+        "Nizozemsko",
+        "Španělsko",
+        "Japonsko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Strade Bianche",
+      "values": [
+        "Japonsko",
+        "Švýcarsko",
+        "Španělsko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tour de Suisse",
+      "values": [
+        "Švýcarsko",
+        "Itálie",
+        "Belgie",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Amstel Gold Race",
+      "values": [
+        "Španělsko",
+        "Nizozemsko",
+        "Belgie",
+        "Švýcarsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

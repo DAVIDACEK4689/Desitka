@@ -1,0 +1,105 @@
+{
+  "text": "Určete bojiště podle bitvy",
+  "questions": [
+    {
+      "key": "Vylodění v Normandii",
+      "values": [
+        "Papua Nová Guinea",
+        "Francie",
+        "Turecko",
+        "Maďarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva na Sommě",
+      "values": [
+        "Bulharsko",
+        "Francie",
+        "Norsko",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Sokolova",
+      "values": [
+        "Ukrajina",
+        "Belgie",
+        "Francie",
+        "Egypt"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Slavná revoluce",
+      "values": [
+        "Chorvatsko",
+        "Bělorusko",
+        "Irák",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Poltavy",
+      "values": [
+        "Francie",
+        "Rusko",
+        "Egypt",
+        "Ukrajina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Nikopole",
+      "values": [
+        "Bulharsko",
+        "Papua Nová Guinea",
+        "Rumunsko",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva o Alesii",
+      "values": [
+        "Francie",
+        "Maďarsko",
+        "Ukrajina",
+        "Sasko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Jílového",
+      "values": [
+        "Uganda",
+        "Rusko",
+        "Turecko",
+        "Egypt"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Issu",
+      "values": [
+        "Slovinsko",
+        "Papua Nová Guinea",
+        "Turecko",
+        "Japonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Jeny",
+      "values": [
+        "Slovinsko",
+        "Vietnam",
+        "Finsko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

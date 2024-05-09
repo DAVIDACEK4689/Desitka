@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle souostroví",
+  "questions": [
+    {
+      "key": "Azory",
+      "values": [
+        "Rusko",
+        "Francie",
+        "Portugalsko",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Falklandy",
+      "values": [
+        "Francie",
+        "Portugalsko",
+        "Spojené království",
+        "Nový Zéland"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pitcairnovy ostrovy",
+      "values": [
+        "Spojené království",
+        "Španělsko",
+        "Ekvádor",
+        "Řecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Velký bariérový útes",
+      "values": [
+        "Spojené království",
+        "Norsko",
+        "Austrálie",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Normanské ostrovy",
+      "values": [
+        "Ekvádor",
+        "Finsko",
+        "Itálie",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tristan da Cunha",
+      "values": [
+        "Argentina",
+        "Indonésie",
+        "Portugalsko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nová země",
+      "values": [
+        "Norsko",
+        "Portugalsko",
+        "Rusko",
+        "Ekvádor"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jižní Georgie a Jižní Sandwichovy ostrovy",
+      "values": [
+        "Austrálie",
+        "Spojené království",
+        "Nový Zéland",
+        "Francie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Turks a Caicos",
+      "values": [
+        "Spojené království",
+        "Itálie",
+        "Rusko",
+        "Španělsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Diomedovy ostrovy",
+      "values": [
+        "Portugalsko",
+        "Nový Zéland",
+        "Finsko",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

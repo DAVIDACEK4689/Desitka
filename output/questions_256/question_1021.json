@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle premiéra",
+  "questions": [
+    {
+      "key": "Vladimir Iljič Lenin",
+      "values": [
+        "Rusko",
+        "Chorvatsko",
+        "Grónsko",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jozef Tiso",
+      "values": [
+        "Slovensko",
+        "Turecko",
+        "Japonsko",
+        "Portugalsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ladislav Adamec",
+      "values": [
+        "Česko",
+        "Rusko",
+        "Dánsko",
+        "Spojené království"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Anthony Eden",
+      "values": [
+        "Turecko",
+        "Indonésie",
+        "Estonsko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alexej Kosygin",
+      "values": [
+        "Francie",
+        "Moldavsko",
+        "Rusko",
+        "Ukrajina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Georgi Dimitrov",
+      "values": [
+        "Bulharsko",
+        "Pákistán",
+        "Rusko",
+        "Rumunsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Aldo Moro",
+      "values": [
+        "Jugoslávie",
+        "Bulharsko",
+        "Japonsko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Raymond Poincaré",
+      "values": [
+        "Francie",
+        "Slovensko",
+        "Portugalsko",
+        "Pákistán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Urho Kaleva Kekkonen",
+      "values": [
+        "Island",
+        "Kosovo",
+        "Etiopie",
+        "Finsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mykola Azarov",
+      "values": [
+        "Ázerbájdžán",
+        "Ukrajina",
+        "Švédsko",
+        "Španělsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

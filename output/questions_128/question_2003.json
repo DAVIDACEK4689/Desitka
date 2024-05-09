@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Gabriel García Márquez",
+      "values": [
+        "kolumbijského",
+        "litevského",
+        "britského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Placák",
+      "values": [
+        "českého",
+        "italského",
+        "guatemalského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Georges Simenon",
+      "values": [
+        "chilského",
+        "amerického",
+        "afghánského",
+        "belgického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jana Ciglerová",
+      "values": [
+        "ukrajinského",
+        "litevského",
+        "guatemalského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Neužil",
+      "values": [
+        "tanzanského",
+        "italského",
+        "českého",
+        "izraelského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Imre Kertész",
+      "values": [
+        "japonského",
+        "nigerijského",
+        "španělského",
+        "maďarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Jan Novotný",
+      "values": [
+        "nizozemského",
+        "martinického",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alžběta zu Wied",
+      "values": [
+        "libanonského",
+        "švýcarského",
+        "rumunského",
+        "gruzínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Walter Bonatti",
+      "values": [
+        "rumunského",
+        "mexického",
+        "italského",
+        "peruánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexandr Nikolajevič Radiščev",
+      "values": [
+        "britského",
+        "německého",
+        "ruského",
+        "gruzínského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

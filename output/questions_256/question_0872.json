@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] právníka?",
+  "questions": [
+    {
+      "key": "Pavel Rychetský",
+      "values": [
+        "českého",
+        "rakouského",
+        "britského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marián Čalfa",
+      "values": [
+        "ruského",
+        "peruánského",
+        "argentinského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vojtěch Filip",
+      "values": [
+        "amerického",
+        "maďarského",
+        "českého",
+        "srbského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Edward Kennedy",
+      "values": [
+        "amerického",
+        "peruánského",
+        "estonského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michal Hašek",
+      "values": [
+        "ukrajinského",
+        "ruského",
+        "českého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michael Kohajda",
+      "values": [
+        "řeckého",
+        "českého",
+        "slovenského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Štefan Osuský",
+      "values": [
+        "švýcarského",
+        "rakouského",
+        "slovenského",
+        "peruánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cristina Fernández de Kirchner",
+      "values": [
+        "francouzského",
+        "argentinského",
+        "britského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Camille Desmoulins",
+      "values": [
+        "francouzského",
+        "polského",
+        "českého",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Allen Dulles",
+      "values": [
+        "maďarského",
+        "francouzského",
+        "amerického",
+        "polského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] generála?",
+  "questions": [
+    {
+      "key": "Heliodor Píka",
+      "values": [
+        "polského",
+        "československého",
+        "izraelského",
+        "myanmarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ondřej Řecký a Dánský",
+      "values": [
+        "japonského",
+        "búrského",
+        "australského",
+        "řeckého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Antonio López de Santa Anna",
+      "values": [
+        "slovenského",
+        "ukrajinského",
+        "mexického",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Friedrich Olbricht",
+      "values": [
+        "československého",
+        "řeckého",
+        "německého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Felix ze Schwarzenbergu",
+      "values": [
+        "švédského",
+        "rakouského",
+        "italského",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Valerij Čkalov",
+      "values": [
+        "sovětského",
+        "albánského",
+        "kanadského",
+        "tureckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Georg von Majewski",
+      "values": [
+        "francouzského",
+        "kanadského",
+        "německého",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dmitrij Danilovič Leljušenko",
+      "values": [
+        "slovenského",
+        "argentinského",
+        "švédského",
+        "sovětského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pjotr Nikolajevič Krasnov",
+      "values": [
+        "argentinského",
+        "ruského",
+        "albánského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Maresuke Nogi",
+      "values": [
+        "japonského",
+        "francouzského",
+        "italského",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

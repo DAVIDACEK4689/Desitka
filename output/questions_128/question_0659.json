@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Taťjana Medvecká",
+      "values": [
+        "francouzskou",
+        "českou",
+        "kubánskou",
+        "argentinskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Martina Hudečková",
+      "values": [
+        "českou",
+        "izraelskou",
+        "kolumbijskou",
+        "uruguayskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karen Gillanová",
+      "values": [
+        "tureckou",
+        "britskou",
+        "uruguayskou",
+        "norskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Antonie Hegerlíková",
+      "values": [
+        "íránskou",
+        "jihoafrickou",
+        "izraelskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vanessa Kirby",
+      "values": [
+        "švédskou",
+        "íránskou",
+        "britskou",
+        "kolumbijskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Emmy Göring",
+      "values": [
+        "australskou",
+        "španělskou",
+        "německou",
+        "íránskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alison Brie",
+      "values": [
+        "izraelskou",
+        "řeckou",
+        "americkou",
+        "irskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lenka Machoninová",
+      "values": [
+        "novozélandskou",
+        "českou",
+        "bermudskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marcia Gay Harden",
+      "values": [
+        "uruguayskou",
+        "italskou",
+        "finskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jane Campion",
+      "values": [
+        "kanadskou",
+        "čínskou",
+        "novozélandskou",
+        "norskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

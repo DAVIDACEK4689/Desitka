@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Vasil Kušej",
+      "values": [
+        "norského",
+        "argentinského",
+        "alžírského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jindřich Staněk",
+      "values": [
+        "senegalského",
+        "ukrajinského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "David Jarolím",
+      "values": [
+        "albánského",
+        "českého",
+        "irského",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Kovařík",
+      "values": [
+        "kamerunského",
+        "belgického",
+        "českého",
+        "tožského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rijád Mahriz",
+      "values": [
+        "alžírského",
+        "ukrajinského",
+        "ekvádorského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavel Verbíř",
+      "values": [
+        "českého",
+        "anglického",
+        "bulharského",
+        "argentinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Héctor Bellerín",
+      "values": [
+        "anglického",
+        "dánského",
+        "slovenského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Danny Welbeck",
+      "values": [
+        "francouzského",
+        "amerického",
+        "kostarického",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Massimo Ambrosini",
+      "values": [
+        "islandského",
+        "italského",
+        "arménského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jesé Rodríguez",
+      "values": [
+        "amerického",
+        "marockého",
+        "gambijského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

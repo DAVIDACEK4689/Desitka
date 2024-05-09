@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] generála?",
+  "questions": [
+    {
+      "key": "Karl Hermann Frank",
+      "values": [
+        "německého",
+        "slovenského",
+        "rakouského",
+        "finského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Francisco Franco",
+      "values": [
+        "amerického",
+        "československého",
+        "španělského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "George Washington",
+      "values": [
+        "amerického",
+        "slovenského",
+        "německého",
+        "československého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sergěj Ingr",
+      "values": [
+        "rakouského",
+        "slovenského",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Syrový",
+      "values": [
+        "českého",
+        "izraelského",
+        "španělského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hynek Blaško",
+      "values": [
+        "československého",
+        "českého",
+        "ruského",
+        "izraelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Kutlvašr",
+      "values": [
+        "československého",
+        "českého",
+        "polského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ernst Gideon von Laudon",
+      "values": [
+        "rakouského",
+        "československého",
+        "amerického",
+        "izraelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Józef Piłsudski",
+      "values": [
+        "československého",
+        "izraelského",
+        "slovenského",
+        "polského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alojz Lorenc",
+      "values": [
+        "amerického",
+        "slovenského",
+        "sovětského",
+        "finského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

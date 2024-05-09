@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Kaliningrad",
+      "values": [
+        "Senegal",
+        "Ázerbájdžán",
+        "Bulharsko",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Riga",
+      "values": [
+        "Švýcarsko",
+        "Lotyšsko",
+        "Španělsko",
+        "Japonsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stockholm",
+      "values": [
+        "Rusko",
+        "Estonsko",
+        "Švédsko",
+        "Irsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hurghada",
+      "values": [
+        "Egypt",
+        "Nizozemsko",
+        "Brazílie",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dubrovník",
+      "values": [
+        "Jihoafrická republika",
+        "Itálie",
+        "Bulharsko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bruggy",
+      "values": [
+        "Belgie",
+        "Španělsko",
+        "Izrael",
+        "Argentina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Baku",
+      "values": [
+        "Kypr",
+        "Ázerbájdžán",
+        "Řecko",
+        "Japonsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jakarta",
+      "values": [
+        "Indonésie",
+        "Německo",
+        "Itálie",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rijeka",
+      "values": [
+        "Norsko",
+        "Nizozemsko",
+        "Chorvatsko",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Svinoústí",
+      "values": [
+        "Maroko",
+        "Izrael",
+        "Polsko",
+        "Finsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

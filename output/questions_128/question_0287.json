@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] matematika?",
+  "questions": [
+    {
+      "key": "Bernard Bolzano",
+      "values": [
+        "irského",
+        "německého",
+        "českého",
+        "indického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Christian Doppler",
+      "values": [
+        "rakouského",
+        "maďarského",
+        "nizozemského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Vopěnka",
+      "values": [
+        "ruského",
+        "českého",
+        "španělského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Norbert Wiener",
+      "values": [
+        "francouzského",
+        "rakouského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "René Levínský",
+      "values": [
+        "českého",
+        "francouzského",
+        "norského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Václav Snášel",
+      "values": [
+        "švédského",
+        "nizozemského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Augustin Louis Cauchy",
+      "values": [
+        "íránského",
+        "švýcarského",
+        "norského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michael Atiyah",
+      "values": [
+        "švýcarského",
+        "amerického",
+        "britského",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nikolaj Ivanovič Lobačevskij",
+      "values": [
+        "maďarského",
+        "irského",
+        "norského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nicolas Bourbaki",
+      "values": [
+        "norského",
+        "amerického",
+        "francouzského",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

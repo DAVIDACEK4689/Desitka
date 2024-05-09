@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kytaristu?",
+  "questions": [
+    {
+      "key": "Jakub Prachař",
+      "values": [
+        "českého",
+        "mexického",
+        "maďarského",
+        "izraelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oldřich Říha",
+      "values": [
+        "jihoafrického",
+        "jamajského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Luboš Pospíšil",
+      "values": [
+        "českého",
+        "irského",
+        "britského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Billy Gibbons",
+      "values": [
+        "švédského",
+        "finského",
+        "amerického",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Buddy Holly",
+      "values": [
+        "slovenského",
+        "nizozemského",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Leadbelly",
+      "values": [
+        "finského",
+        "britského",
+        "mexického",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stanislav Kubeš",
+      "values": [
+        "finského",
+        "jamajského",
+        "jihoafrického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Robbie Robertson",
+      "values": [
+        "argentinského",
+        "švédského",
+        "kanadského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Traxler",
+      "values": [
+        "českého",
+        "švédského",
+        "slovenského",
+        "finského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Augustine Dunn",
+      "values": [
+        "dánského",
+        "českého",
+        "mexického",
+        "jamajského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

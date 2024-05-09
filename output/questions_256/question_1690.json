@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] svatého?",
+  "questions": [
+    {
+      "key": "Anežka Česká",
+      "values": [
+        "italského",
+        "anglického",
+        "českého",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Svatý Prokop",
+      "values": [
+        "ruského",
+        "francouzského",
+        "českého",
+        "anglického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anastázie Nikolajevna",
+      "values": [
+        "egyptského",
+        "francouzského",
+        "ruského",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Terezie z Lisieux",
+      "values": [
+        "německého",
+        "francouzského",
+        "anglického",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Svatý Jiljí",
+      "values": [
+        "irského",
+        "německého",
+        "francouzského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Svatý Mořic",
+      "values": [
+        "egyptského",
+        "velšského",
+        "francouzského",
+        "indického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Roch z Montpellieru",
+      "values": [
+        "skotského",
+        "francouzského",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andrej Rublev",
+      "values": [
+        "ruského",
+        "italského",
+        "egyptského",
+        "anglického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Beda Ctihodný",
+      "values": [
+        "egyptského",
+        "ruského",
+        "indického",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Svatý Diviš",
+      "values": [
+        "polského",
+        "italského",
+        "rakouského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

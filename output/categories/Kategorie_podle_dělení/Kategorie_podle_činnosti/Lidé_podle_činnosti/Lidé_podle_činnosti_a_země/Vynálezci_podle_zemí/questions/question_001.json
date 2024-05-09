@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vynálezce?",
+  "questions": [
+    {
+      "key": "Leonardo da Vinci",
+      "values": [
+        "německého",
+        "italského",
+        "českého",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Thomas Alva Edison",
+      "values": [
+        "italského",
+        "amerického",
+        "ruského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Otto Wichterle",
+      "values": [
+        "německého",
+        "českého",
+        "kanadského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Galileo Galilei",
+      "values": [
+        "kanadského",
+        "ruského",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "František Křižík",
+      "values": [
+        "ruského",
+        "kanadského",
+        "českého",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaroslav Heyrovský",
+      "values": [
+        "německého",
+        "českého",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Evangelista Purkyně",
+      "values": [
+        "ruského",
+        "českého",
+        "kanadského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alfred Nobel",
+      "values": [
+        "německého",
+        "italského",
+        "švédského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Prokop Diviš",
+      "values": [
+        "německého",
+        "amerického",
+        "českého",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Benjamin Franklin",
+      "values": [
+        "amerického",
+        "českého",
+        "švédského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

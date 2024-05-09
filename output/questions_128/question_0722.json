@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva u Moháče",
+      "values": [
+        "1526",
+        "1943",
+        "1904",
+        "1648"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Druhé obléhání Vídně",
+      "values": [
+        "1683",
+        "1995",
+        "1757",
+        "805"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ofenzíva Tet",
+      "values": [
+        "1968",
+        "2023",
+        "1071",
+        "1621"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Marenga",
+      "values": [
+        "1800",
+        "1939",
+        "1988",
+        "1071"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Abúkíru",
+      "values": [
+        "1396",
+        "1798",
+        "1437",
+        "1942"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Třebele",
+      "values": [
+        "1953",
+        "1647",
+        "1859",
+        "1298"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Navarina",
+      "values": [
+        "1976",
+        "1969",
+        "1827",
+        "1191"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Boje o Šluknovský výběžek",
+      "values": [
+        "1419",
+        "1690",
+        "1938",
+        "1437"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Matapanu",
+      "values": [
+        "1435",
+        "1450",
+        "1941",
+        "1973"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Trnavy",
+      "values": [
+        "1969",
+        "1824",
+        "1430",
+        "1066"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

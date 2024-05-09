@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [národnost] komunistu?",
+  "questions": [
+    {
+      "key": "Pablo Neruda",
+      "values": [
+        "polského",
+        "chilského",
+        "německého",
+        "kambodžského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Imre Nagy",
+      "values": [
+        "italského",
+        "německého",
+        "nizozemského",
+        "maďarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Isadora Duncanová",
+      "values": [
+        "francouzského",
+        "čínského",
+        "bulharského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hejdar Alijev",
+      "values": [
+        "ázerbájdžánského",
+        "nizozemského",
+        "sovětského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ivo Andrić",
+      "values": [
+        "řeckého",
+        "nizozemského",
+        "jugoslávského",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Herta Lindnerová",
+      "values": [
+        "italského",
+        "čínského",
+        "německého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Willi Stoph",
+      "values": [
+        "československého",
+        "ruského",
+        "německého",
+        "čínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Edvard Kardelj",
+      "values": [
+        "vietnamského",
+        "portugalského",
+        "jugoslávského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Frederik Pohl",
+      "values": [
+        "amerického",
+        "mexického",
+        "ukrajinského",
+        "bulharského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nikos Belojannis",
+      "values": [
+        "českého",
+        "mexického",
+        "německého",
+        "řeckého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Kyjev",
+      "values": [
+        "Libye",
+        "Ukrajina",
+        "Východní Timor",
+        "Chorvatsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Davos",
+      "values": [
+        "Moldavsko",
+        "Maďarsko",
+        "Libanon",
+        "Švýcarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Siófok",
+      "values": [
+        "Gambie",
+        "Island",
+        "Francie",
+        "Maďarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Manavgat",
+      "values": [
+        "Albánie",
+        "Belgie",
+        "Turecko",
+        "Švédsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bad Leonfelden",
+      "values": [
+        "Mongolsko",
+        "Kypr",
+        "Austrálie",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Šuša",
+      "values": [
+        "Ázerbájdžán",
+        "Argentina",
+        "Spojené království",
+        "Paraguay"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Amersfoort",
+      "values": [
+        "Rusko",
+        "Paraguay",
+        "Austrálie",
+        "Nizozemsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sidari",
+      "values": [
+        "Tádžikistán",
+        "Madagaskar",
+        "Řecko",
+        "Vanuatu"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petropavl",
+      "values": [
+        "Kapverdy",
+        "Severní Korea",
+        "Kazachstán",
+        "Bolívie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Florianópolis",
+      "values": [
+        "Brazílie",
+        "Namibie",
+        "Rakousko",
+        "Nepál"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

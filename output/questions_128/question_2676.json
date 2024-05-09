@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Zadar",
+      "values": [
+        "Chorvatsko",
+        "Švýcarsko",
+        "Řecko",
+        "Libye"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kutaisi",
+      "values": [
+        "Somálsko",
+        "Irsko",
+        "Gruzie",
+        "Botswana"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Grindavík",
+      "values": [
+        "Bahrajn",
+        "Island",
+        "Tádžikistán",
+        "Libye"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fiľakovo",
+      "values": [
+        "Nový Zéland",
+        "Slovensko",
+        "Švédsko",
+        "Rwanda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kragujevac",
+      "values": [
+        "Honduras",
+        "Srbsko",
+        "Komora",
+        "Bulharsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Šahy",
+      "values": [
+        "Vanuatu",
+        "Slovensko",
+        "Ekvádor",
+        "Thajsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jazd",
+      "values": [
+        "Írán",
+        "Grónsko",
+        "Senegal",
+        "Keňa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sigulda",
+      "values": [
+        "Turkmenistán",
+        "Portugalsko",
+        "Venezuela",
+        "Lotyšsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Safi",
+      "values": [
+        "Thajsko",
+        "Maroko",
+        "Sýrie",
+        "Kiribati"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lezhë",
+      "values": [
+        "Kazachstán",
+        "Albánie",
+        "Jižní Korea",
+        "Laos"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

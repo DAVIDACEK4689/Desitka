@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] hudební skupinu?",
+  "questions": [
+    {
+      "key": "Roxette",
+      "values": [
+        "britskou",
+        "dánskou",
+        "českou",
+        "švédskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Take That",
+      "values": [
+        "britskou",
+        "islandskou",
+        "španělskou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nickelback",
+      "values": [
+        "estonskou",
+        "dánskou",
+        "kanadskou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Two Steps from Hell",
+      "values": [
+        "nizozemskou",
+        "americkou",
+        "českou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gipsy Kings",
+      "values": [
+        "francouzskou",
+        "kanadskou",
+        "ukrajinskou",
+        "španělskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "The Silver Spoons",
+      "values": [
+        "americkou",
+        "ruskou",
+        "českou",
+        "slovinskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "M83",
+      "values": [
+        "chorvatskou",
+        "australskou",
+        "francouzskou",
+        "bosenskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Orchestral Manoeuvres in the Dark",
+      "values": [
+        "českou",
+        "kanadskou",
+        "britskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Šum svistu",
+      "values": [
+        "britskou",
+        "českou",
+        "španělskou",
+        "islandskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Baccara",
+      "values": [
+        "španělskou",
+        "norskou",
+        "kanadskou",
+        "islandskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

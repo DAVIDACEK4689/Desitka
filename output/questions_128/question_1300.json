@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [národnost] komunistu?",
+  "questions": [
+    {
+      "key": "Pol Pot",
+      "values": [
+        "kambodžského",
+        "čínského",
+        "moldavského",
+        "bulharského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Diego Rivera",
+      "values": [
+        "ukrajinského",
+        "mexického",
+        "slovenského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mátyás Rákosi",
+      "values": [
+        "slovenského",
+        "francouzského",
+        "československého",
+        "maďarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Edward Gierek",
+      "values": [
+        "chilského",
+        "slovenského",
+        "polského",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jovanka Broz",
+      "values": [
+        "portugalského",
+        "čínského",
+        "jugoslávského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petro Šelest",
+      "values": [
+        "španělského",
+        "mexického",
+        "ukrajinského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hun Sen",
+      "values": [
+        "slovenského",
+        "jugoslávského",
+        "sovětského",
+        "kambodžského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Józef Cyrankiewicz",
+      "values": [
+        "jugoslávského",
+        "amerického",
+        "polského",
+        "československého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stanisław Kania",
+      "values": [
+        "portugalského",
+        "ruského",
+        "polského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Trajčo Kostov",
+      "values": [
+        "čínského",
+        "bulharského",
+        "ázerbájdžánského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

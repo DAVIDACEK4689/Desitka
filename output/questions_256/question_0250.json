@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] letce?",
+  "questions": [
+    {
+      "key": "Niki Lauda",
+      "values": [
+        "britského",
+        "českého",
+        "rakouského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Milan Rastislav Štefánik",
+      "values": [
+        "slovenského",
+        "britského",
+        "německého",
+        "československého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Carroll Shelby",
+      "values": [
+        "britského",
+        "amerického",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eugene Cernan",
+      "values": [
+        "německého",
+        "britského",
+        "amerického",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roland Garros",
+      "values": [
+        "německého",
+        "italského",
+        "britského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alexej Leonov",
+      "values": [
+        "britského",
+        "sovětského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andreas Lubitz",
+      "values": [
+        "ukrajinského",
+        "německého",
+        "britského",
+        "izraelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Francis Gary Powers",
+      "values": [
+        "slovenského",
+        "amerického",
+        "britského",
+        "izraelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Divíšek",
+      "values": [
+        "ukrajinského",
+        "francouzského",
+        "izraelského",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel Balík",
+      "values": [
+        "československého",
+        "izraelského",
+        "britského",
+        "německého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

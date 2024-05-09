@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] automobilku?",
+  "questions": [
+    {
+      "key": "Škoda Auto",
+      "values": [
+        "jihokorejskou",
+        "americkou",
+        "českou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Volkswagen Group",
+      "values": [
+        "německou",
+        "italskou",
+        "japonskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zetor",
+      "values": [
+        "švédskou",
+        "českou",
+        "italskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stellantis",
+      "values": [
+        "americkou",
+        "francouzskou",
+        "nizozemskou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ferrari",
+      "values": [
+        "americkou",
+        "německou",
+        "španělskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Opel",
+      "values": [
+        "švédskou",
+        "nizozemskou",
+        "českou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "McLaren",
+      "values": [
+        "britskou",
+        "americkou",
+        "českou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lexus",
+      "values": [
+        "francouzskou",
+        "britskou",
+        "japonskou",
+        "německou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Volvo",
+      "values": [
+        "italskou",
+        "českou",
+        "francouzskou",
+        "švédskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Iveco",
+      "values": [
+        "britskou",
+        "švédskou",
+        "jihokorejskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistku?",
+  "questions": [
+    {
+      "key": "Petra Kvitová",
+      "values": [
+        "řeckou",
+        "českou",
+        "polskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karolína Plíšková",
+      "values": [
+        "českou",
+        "australskou",
+        "americkou",
+        "chorvatskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Linda Nosková",
+      "values": [
+        "českou",
+        "německou",
+        "australskou",
+        "běloruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Venus Williamsová",
+      "values": [
+        "českou",
+        "srbskou",
+        "americkou",
+        "kanadskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jessica Pegulaová",
+      "values": [
+        "chorvatskou",
+        "běloruskou",
+        "americkou",
+        "ruskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Caroline Wozniacká",
+      "values": [
+        "ruskou",
+        "řeckou",
+        "dánskou",
+        "běloruskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jeļena Ostapenková",
+      "values": [
+        "argentinskou",
+        "řeckou",
+        "britskou",
+        "lotyšskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nicole Vaidišová",
+      "values": [
+        "kanadskou",
+        "tuniskou",
+        "australskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Maria Sakkariová",
+      "values": [
+        "tuniskou",
+        "slovenskou",
+        "řeckou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Emma Raducanuová",
+      "values": [
+        "běloruskou",
+        "britskou",
+        "ukrajinskou",
+        "rumunskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

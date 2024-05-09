@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte sport podle československého sportovce",
+  "questions": [
+    {
+      "key": "Josef Bican",
+      "values": [
+        "biatlonista",
+        "kanoista",
+        "fotbalista",
+        "tenista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Patrik Augusta",
+      "values": [
+        "lední hokejista",
+        "zápasník",
+        "pozemní hokejista",
+        "boxer"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladimír Zábrodský",
+      "values": [
+        "akrobatický letec",
+        "tenista",
+        "veslař",
+        "zápasník"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jozef Adamec",
+      "values": [
+        "fotbalista",
+        "boxer",
+        "lední hokejista",
+        "sportovní střelec"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zoltán Demján",
+      "values": [
+        "horolezec",
+        "basketbalista",
+        "fotbalista",
+        "sportovní střelec"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Anton Tkáč",
+      "values": [
+        "cyklista",
+        "biatlonista",
+        "šachista",
+        "sportovní střelec"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Stáhalík",
+      "values": [
+        "akrobatický letec",
+        "zápasník",
+        "veslař",
+        "lední hokejista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Ludvig",
+      "values": [
+        "lední hokejista",
+        "akrobatický letec",
+        "volejbalista",
+        "tenista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Nežerka",
+      "values": [
+        "boxer",
+        "zápasník",
+        "horolezec",
+        "lední hokejista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vlastimil Jansa",
+      "values": [
+        "zápasník",
+        "judista",
+        "šachista",
+        "kanoista"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] videohru?",
+  "questions": [
+    {
+      "key": "Grand Theft Auto",
+      "values": [
+        "jihokorejskou",
+        "americkou",
+        "kanadskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Diablo",
+      "values": [
+        "ruskou",
+        "britskou",
+        "polskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Metal Gear Solid",
+      "values": [
+        "japonskou",
+        "jihokorejskou",
+        "americkou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Angry Birds",
+      "values": [
+        "finskou",
+        "dánskou",
+        "běloruskou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "The Settlers",
+      "values": [
+        "německou",
+        "japonskou",
+        "běloruskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "The Outlast Trials",
+      "values": [
+        "islandskou",
+        "kanadskou",
+        "americkou",
+        "japonskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dishonored",
+      "values": [
+        "rakouskou",
+        "ruskou",
+        "francouzskou",
+        "švédskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hacknet",
+      "values": [
+        "kanadskou",
+        "australskou",
+        "běloruskou",
+        "polskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Civilization",
+      "values": [
+        "francouzskou",
+        "britskou",
+        "ruskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Heretic",
+      "values": [
+        "jihokorejskou",
+        "americkou",
+        "kanadskou",
+        "polskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

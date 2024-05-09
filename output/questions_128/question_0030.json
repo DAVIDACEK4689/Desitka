@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [zaměření] muzeum?",
+  "questions": [
+    {
+      "key": "Lapidárium",
+      "values": [
+        "náboženské",
+        "gastronomické",
+        "archeologické",
+        "fotografické"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Smithsonův institut",
+      "values": [
+        "hudební",
+        "technické",
+        "fotografické",
+        "gastronomické"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nové muzeum",
+      "values": [
+        "gastronomické",
+        "dopravní",
+        "archeologické",
+        "náboženské"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Muzeum čokolády",
+      "values": [
+        "gastronomické",
+        "přírodovědné",
+        "fotografické",
+        "lékařské"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Prachatické muzeum",
+      "values": [
+        "hudební",
+        "náboženské",
+        "dopravní",
+        "městské"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Uhříněveské muzeum",
+      "values": [
+        "archeologické",
+        "technické",
+        "městské",
+        "náboženské"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Muzeum Žlutice",
+      "values": [
+        "lékařské",
+        "fotografické",
+        "archeologické",
+        "městské"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Muzeum másla",
+      "values": [
+        "technické",
+        "gastronomické",
+        "hudební",
+        "archeologické"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sanfranciské muzeum moderního umění",
+      "values": [
+        "fotografické",
+        "náboženské",
+        "gastronomické",
+        "městské"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Muzejní expozice v Brtnici",
+      "values": [
+        "městské",
+        "fotografické",
+        "lékařské",
+        "gastronomické"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

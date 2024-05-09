@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Emil František Burian",
+      "values": [
+        "českého",
+        "slovinského",
+        "japonského",
+        "gruzínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jaroslav Hutka",
+      "values": [
+        "finského",
+        "chorvatského",
+        "islandského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jean Racine",
+      "values": [
+        "francouzského",
+        "chilského",
+        "gruzínského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alfred Jarry",
+      "values": [
+        "francouzského",
+        "íránského",
+        "španělského",
+        "chilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Čarek",
+      "values": [
+        "rumunského",
+        "českého",
+        "mexického",
+        "kubánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Heinrich von Kleist",
+      "values": [
+        "ukrajinského",
+        "německého",
+        "perského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Janko Matúška",
+      "values": [
+        "slovenského",
+        "finského",
+        "amerického",
+        "skotského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tu Fu",
+      "values": [
+        "italského",
+        "čínského",
+        "britského",
+        "tureckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Theodor Fontane",
+      "values": [
+        "maďarského",
+        "německého",
+        "kanadského",
+        "skotského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joseph Mohr",
+      "values": [
+        "rakouského",
+        "italského",
+        "mexického",
+        "německého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

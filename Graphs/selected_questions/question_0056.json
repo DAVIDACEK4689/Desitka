@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] křesťana?",
+  "questions": [
+    {
+      "key": "Tina Turner",
+      "values": [
+        "francouzského",
+        "italského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oskar Schindler",
+      "values": [
+        "skotského",
+        "německého",
+        "indického",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hans Christian Andersen",
+      "values": [
+        "skotského",
+        "dánského",
+        "švýcarského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Johannes Kepler",
+      "values": [
+        "indického",
+        "českého",
+        "kanadského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Steve McQueen",
+      "values": [
+        "amerického",
+        "kanadského",
+        "maďarského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alice Cooper",
+      "values": [
+        "francouzského",
+        "australského",
+        "švýcarského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "James Watt",
+      "values": [
+        "švýcarského",
+        "italského",
+        "anglického",
+        "skotského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Louis Pasteur",
+      "values": [
+        "čínského",
+        "německého",
+        "francouzského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Demi Lovato",
+      "values": [
+        "čínského",
+        "rakouského",
+        "amerického",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gottfried Wilhelm Leibniz",
+      "values": [
+        "čínského",
+        "indického",
+        "německého",
+        "skotského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] malíře?",
+  "questions": [
+    {
+      "key": "Vincent van Gogh",
+      "values": [
+        "nizozemského",
+        "švýcarského",
+        "norského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paul Cézanne",
+      "values": [
+        "švýcarského",
+        "francouzského",
+        "chilského",
+        "izraelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "René Magritte",
+      "values": [
+        "italského",
+        "kanadského",
+        "belgického",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miroslav Tichý",
+      "values": [
+        "českého",
+        "ruského",
+        "finského",
+        "chilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Peter Oriešek",
+      "values": [
+        "slovenského",
+        "chilského",
+        "norského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Francisco de Zurbarán",
+      "values": [
+        "španělského",
+        "novozélandského",
+        "ukrajinského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Max Liebermann",
+      "values": [
+        "amerického",
+        "litevského",
+        "novozélandského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Max Jacob",
+      "values": [
+        "chilského",
+        "izraelského",
+        "francouzského",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sol LeWitt",
+      "values": [
+        "švýcarského",
+        "amerického",
+        "ruského",
+        "litevského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jean Fouquet",
+      "values": [
+        "německého",
+        "francouzského",
+        "kolumbijského",
+        "finského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

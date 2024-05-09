@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] kulturu?",
+  "questions": [
+    {
+      "key": "Angličtina",
+      "values": [
+        "novozélandskou",
+        "britskou",
+        "českou",
+        "španělskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kibuc",
+      "values": [
+        "izraelskou",
+        "indickou",
+        "nizozemskou",
+        "japonskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sionismus",
+      "values": [
+        "japonskou",
+        "izraelskou",
+        "novozélandskou",
+        "českou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Den díkůvzdání",
+      "values": [
+        "americkou",
+        "nizozemskou",
+        "španělskou",
+        "českou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Den svatého Patrika",
+      "values": [
+        "nizozemskou",
+        "českou",
+        "americkou",
+        "irskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Seppuku",
+      "values": [
+        "španělskou",
+        "novozélandskou",
+        "japonskou",
+        "řeckou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Řečtina",
+      "values": [
+        "irskou",
+        "japonskou",
+        "španělskou",
+        "řeckou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Santa Claus",
+      "values": [
+        "novozélandskou",
+        "španělskou",
+        "americkou",
+        "řeckou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gejša",
+      "values": [
+        "indickou",
+        "japonskou",
+        "izraelskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zen",
+      "values": [
+        "japonskou",
+        "českou",
+        "nizozemskou",
+        "novozélandskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Segedínský guláš",
+      "values": [
+        "švýcarskou",
+        "maďarskou",
+        "australskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Caipirinha",
+      "values": [
+        "brazilskou",
+        "italskou",
+        "skotskou",
+        "švédskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Quesadilla",
+      "values": [
+        "tibetskou",
+        "mexickou",
+        "francouzskou",
+        "středomořskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lokum",
+      "values": [
+        "arménskou",
+        "tureckou",
+        "francouzskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Udon",
+      "values": [
+        "indonéskou",
+        "japonskou",
+        "polskou",
+        "australskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Armaňak",
+      "values": [
+        "rakouskou",
+        "italskou",
+        "arménskou",
+        "francouzskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chala",
+      "values": [
+        "indickou",
+        "židovskou",
+        "rakouskou",
+        "dominikánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jim Beam",
+      "values": [
+        "portugalskou",
+        "dominikánskou",
+        "americkou",
+        "kanadskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Saté",
+      "values": [
+        "dánskou",
+        "australskou",
+        "indonéskou",
+        "arabskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Severomakedonská kuchyně",
+      "values": [
+        "balkánskou",
+        "korejskou",
+        "arabskou",
+        "litevskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Bělehrad",
+      "values": [
+        "Nigérie",
+        "Srbsko",
+        "Tádžikistán",
+        "Nizozemsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Samarkand",
+      "values": [
+        "Kolumbie",
+        "Marshallovy ostrovy",
+        "Uzbekistán",
+        "Litva"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mosul",
+      "values": [
+        "Irák",
+        "Kolumbie",
+        "Jordánsko",
+        "Švédsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Veszprém",
+      "values": [
+        "Kiribati",
+        "Maďarsko",
+        "Libye",
+        "Severní Korea"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fukuoka",
+      "values": [
+        "Irsko",
+        "Albánie",
+        "Austrálie",
+        "Japonsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Örebro",
+      "values": [
+        "Gambie",
+        "Komora",
+        "Švédsko",
+        "Ukrajina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tikrít",
+      "values": [
+        "Bělorusko",
+        "Uzbekistán",
+        "Irák",
+        "Libérie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sliač",
+      "values": [
+        "Slovensko",
+        "Švýcarsko",
+        "Nigérie",
+        "Zambie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Soria",
+      "values": [
+        "Kazachstán",
+        "Španělsko",
+        "Pero",
+        "Keňa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sinj",
+      "values": [
+        "Švýcarsko",
+        "Myanmar",
+        "Chorvatsko",
+        "Angola"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

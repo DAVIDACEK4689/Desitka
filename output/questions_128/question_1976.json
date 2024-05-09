@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle českého sportovce",
+  "questions": [
+    {
+      "key": "Tomáš Satoranský",
+      "values": [
+        "basketbalista",
+        "taekwondisté",
+        "golfista",
+        "akrobatický letec"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marek Langhamer",
+      "values": [
+        "lyžař",
+        "tenista",
+        "lední hokejista",
+        "rychlostní kanoista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Kubina",
+      "values": [
+        "skeletonisté",
+        "lední hokejista",
+        "cyklista",
+        "akrobatický letec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vilém Heckel",
+      "values": [
+        "skeletonisté",
+        "jezdec",
+        "sportovní střelec",
+        "horolezec"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ondřej Balvín",
+      "values": [
+        "rychlostní kanoista",
+        "kickboxeři",
+        "kanoista",
+        "basketbalista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Leška",
+      "values": [
+        "lední hokejista",
+        "lyžař",
+        "jezdec",
+        "baseballisté"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Milan Sedláček",
+      "values": [
+        "bojový umělec",
+        "horolezec",
+        "baseballisté",
+        "tenista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marek Pinc",
+      "values": [
+        "lyžař",
+        "šermíř",
+        "lední hokejista",
+        "taekwondisté"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jakub Tomeček",
+      "values": [
+        "sportovní střelec",
+        "veslař",
+        "ragbista",
+        "kickboxeři"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "René Živný",
+      "values": [
+        "golfista",
+        "taekwondisté",
+        "cyklista",
+        "horolezec"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

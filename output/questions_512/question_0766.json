@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Brno",
+      "values": [
+        "Nizozemsko",
+        "Německo",
+        "Belgie",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Krakov",
+      "values": [
+        "Irsko",
+        "Spojené království",
+        "Polsko",
+        "Belgie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Brusel",
+      "values": [
+        "Česko",
+        "Belgie",
+        "Irsko",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Antverpy",
+      "values": [
+        "Dánsko",
+        "Belgie",
+        "Polsko",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Štětín",
+      "values": [
+        "Česko",
+        "Spojené království",
+        "Polsko",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Postupim",
+      "values": [
+        "Portugalsko",
+        "Česko",
+        "Dánsko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bamberk",
+      "values": [
+        "Německo",
+        "Belgie",
+        "Nizozemsko",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rostock",
+      "values": [
+        "Česko",
+        "Německo",
+        "Belgie",
+        "Dánsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Perugia",
+      "values": [
+        "Irsko",
+        "Itálie",
+        "Maďarsko",
+        "Belgie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Southampton",
+      "values": [
+        "Irsko",
+        "Spojené království",
+        "Polsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

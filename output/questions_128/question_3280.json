@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Július Satinský",
+      "values": [
+        "bosenského",
+        "brazilského",
+        "venezuelského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Maroš Kramár",
+      "values": [
+        "srbského",
+        "sovětského",
+        "slovenského",
+        "indického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vladislav Müller",
+      "values": [
+        "slovenského",
+        "marockého",
+        "argentinského",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oleksij Arestovyč",
+      "values": [
+        "španělského",
+        "ukrajinského",
+        "argentinského",
+        "tureckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mike Myers",
+      "values": [
+        "rakouského",
+        "kanadského",
+        "dánského",
+        "malajsijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Halit Ergenç",
+      "values": [
+        "francouzského",
+        "jihoafrického",
+        "tureckého",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hansi Hinterseer",
+      "values": [
+        "brazilského",
+        "švýcarského",
+        "rakouského",
+        "guatemalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ben Mendelsohn",
+      "values": [
+        "australského",
+        "bulharského",
+        "portugalského",
+        "čínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jaroslav Dufek",
+      "values": [
+        "namibijského",
+        "českého",
+        "portorického",
+        "čínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bob Fosse",
+      "values": [
+        "ukrajinského",
+        "amerického",
+        "norského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

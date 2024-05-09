@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Liberec",
+      "values": [
+        "Maďarsko",
+        "Česko",
+        "Itálie",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Krakov",
+      "values": [
+        "Polsko",
+        "Spojené království",
+        "Slovensko",
+        "Dánsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kodaň",
+      "values": [
+        "Spojené království",
+        "Slovensko",
+        "Irsko",
+        "Dánsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lipsko",
+      "values": [
+        "Spojené království",
+        "Itálie",
+        "Německo",
+        "Belgie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pisa",
+      "values": [
+        "Itálie",
+        "Česko",
+        "Rakousko",
+        "Portugalsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Žitava",
+      "values": [
+        "Portugalsko",
+        "Itálie",
+        "Německo",
+        "Belgie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lodž",
+      "values": [
+        "Polsko",
+        "Dánsko",
+        "Portugalsko",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Birmingham",
+      "values": [
+        "Nizozemsko",
+        "Česko",
+        "Spojené království",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Toruň",
+      "values": [
+        "Polsko",
+        "Irsko",
+        "Belgie",
+        "Spojené království"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bamberk",
+      "values": [
+        "Nizozemsko",
+        "Německo",
+        "Rakousko",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

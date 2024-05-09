@@ -1,0 +1,105 @@
+{
+  "text": "Určete etnický původ podle Čecha",
+  "questions": [
+    {
+      "key": "Tomáš Garrigue Masaryk",
+      "values": [
+        "srbský původ",
+        "slovenský původ",
+        "syrský původ",
+        "francouzský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lucie Bílá",
+      "values": [
+        "polský původ",
+        "židovský původ",
+        "slovenský původ",
+        "syrský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ewa Farna",
+      "values": [
+        "maďarský původ",
+        "italský původ",
+        "polský původ",
+        "řecký původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sara Sandeva",
+      "values": [
+        "etiopský původ",
+        "ukrajinský původ",
+        "srbský původ",
+        "makedonský původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Halina Pawlowská",
+      "values": [
+        "makedonský původ",
+        "ukrajinský původ",
+        "francouzský původ",
+        "etiopský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Václav Noid Bárta",
+      "values": [
+        "etiopský původ",
+        "makedonský původ",
+        "židovský původ",
+        "slovenský původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Taťána Kuchařová",
+      "values": [
+        "etiopský původ",
+        "francouzský původ",
+        "slovenský původ",
+        "židovský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chantal Poullain",
+      "values": [
+        "francouzský původ",
+        "japonský původ",
+        "etiopský původ",
+        "slovenský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David Černý",
+      "values": [
+        "etiopský původ",
+        "židovský původ",
+        "makedonský původ",
+        "řecký původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Charlotta Garrigue Masaryková",
+      "values": [
+        "ruský původ",
+        "maďarský původ",
+        "etiopský původ",
+        "francouzský původ"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

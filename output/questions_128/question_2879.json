@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Jakub Kohák",
+      "values": [
+        "novozélandského",
+        "britského",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Kachyňa",
+      "values": [
+        "irského",
+        "britského",
+        "estonského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Václav Chaloupek",
+      "values": [
+        "českého",
+        "amerického",
+        "francouzského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sestry Wachowské",
+      "values": [
+        "sovětského",
+        "polského",
+        "amerického",
+        "hongkongského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Konstantin Sergejevič Stanislavskij",
+      "values": [
+        "íránského",
+        "maďarského",
+        "ruského",
+        "islandského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Nikolaev",
+      "values": [
+        "českého",
+        "australského",
+        "britského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Clark Gregg",
+      "values": [
+        "italského",
+        "amerického",
+        "britského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jeff Daniels",
+      "values": [
+        "amerického",
+        "ruského",
+        "ukrajinského",
+        "estonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ryan Murphy",
+      "values": [
+        "španělského",
+        "německého",
+        "amerického",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gus Van Sant",
+      "values": [
+        "švýcarského",
+        "polského",
+        "amerického",
+        "australského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

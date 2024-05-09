@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle prezidenta",
+  "questions": [
+    {
+      "key": "Václav Klaus",
+      "values": [
+        "Indonésie",
+        "Nigérie",
+        "Česká republika",
+        "Namibie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sajjid Alí Chameneí",
+      "values": [
+        "Čad",
+        "Československo",
+        "Írán",
+        "Uganda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Salome Zurabišviliová",
+      "values": [
+        "Litva",
+        "Gruzie",
+        "Rwanda",
+        "Bulharsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jacob Zuma",
+      "values": [
+        "Izrael",
+        "Malta",
+        "Madagaskar",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bolesław Bierut",
+      "values": [
+        "Pero",
+        "Polsko",
+        "Libanon",
+        "Slovinsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "René Coty",
+      "values": [
+        "Francie",
+        "Uzbekistán",
+        "Mexiko",
+        "Bělorusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "José Mujica",
+      "values": [
+        "Rwanda",
+        "Uruguay",
+        "Burkina Faso",
+        "Rovníková Guinea"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Francisco Macias Nguema",
+      "values": [
+        "Rovníková Guinea",
+        "Jemen",
+        "Mongolsko",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lennart Meri",
+      "values": [
+        "Nikaragua",
+        "Ázerbájdžán",
+        "Španělsko",
+        "Estonsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mary McAleeseová",
+      "values": [
+        "Estonsko",
+        "Etiopie",
+        "Irsko",
+        "Lotyšsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

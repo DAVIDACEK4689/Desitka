@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vegetariána?",
+  "questions": [
+    {
+      "key": "Iva Kubelková",
+      "values": [
+        "britského",
+        "italského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Leonardo da Vinci",
+      "values": [
+        "slovenského",
+        "amerického",
+        "italského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaroslav Dušek",
+      "values": [
+        "slovenského",
+        "českého",
+        "irského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cillian Murphy",
+      "values": [
+        "španělského",
+        "irského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Richard Wagner",
+      "values": [
+        "ruského",
+        "německého",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zuzana Norisová",
+      "values": [
+        "kanadského",
+        "italského",
+        "britského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nela Boudová",
+      "values": [
+        "irského",
+        "britského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jana Paulová",
+      "values": [
+        "britského",
+        "českého",
+        "italského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Kupka",
+      "values": [
+        "ruského",
+        "amerického",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel Höger",
+      "values": [
+        "amerického",
+        "britského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

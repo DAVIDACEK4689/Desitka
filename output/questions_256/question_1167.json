@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "Kryštof Kolumbus",
+      "values": [
+        "italského",
+        "britského",
+        "švýcarského",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gina Lollobrigida",
+      "values": [
+        "švýcarského",
+        "kanadského",
+        "německého",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dalibor Gondík",
+      "values": [
+        "českého",
+        "britského",
+        "kanadského",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Helena Langšádlová",
+      "values": [
+        "maďarského",
+        "českého",
+        "švýcarského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adam Michna z Otradovic",
+      "values": [
+        "českého",
+        "amerického",
+        "francouzského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Matyáš z Arrasu",
+      "values": [
+        "švýcarského",
+        "českého",
+        "francouzského",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Doubravka Přemyslovna",
+      "values": [
+        "kanadského",
+        "českého",
+        "francouzského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ludmila Javorová",
+      "values": [
+        "českého",
+        "portugalského",
+        "švýcarského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Timothy McVeigh",
+      "values": [
+        "amerického",
+        "švýcarského",
+        "italského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Giulio Andreotti",
+      "values": [
+        "britského",
+        "portugalského",
+        "kanadského",
+        "italského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

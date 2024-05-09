@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] evropského podnikatele?",
+  "questions": [
+    {
+      "key": "Niki Lauda",
+      "values": [
+        "řeckého",
+        "ruského",
+        "nizozemského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alfred Nobel",
+      "values": [
+        "britského",
+        "italského",
+        "slovenského",
+        "švédského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ondřej Kania",
+      "values": [
+        "rakouského",
+        "ukrajinského",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Východoevropský oligarcha",
+      "values": [
+        "španělského",
+        "britského",
+        "belgického",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Richard Branson",
+      "values": [
+        "francouzského",
+        "britského",
+        "polského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Antonín Charouz",
+      "values": [
+        "řeckého",
+        "britského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Henri Dunant",
+      "values": [
+        "polského",
+        "švýcarského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Hlavenka",
+      "values": [
+        "českého",
+        "ruského",
+        "britského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hugo Ferdinand Boss",
+      "values": [
+        "německého",
+        "ruského",
+        "švýcarského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavel Bratinka",
+      "values": [
+        "belgického",
+        "českého",
+        "polského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

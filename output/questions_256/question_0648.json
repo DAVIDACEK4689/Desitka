@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Chili con carne",
+      "values": [
+        "polskou",
+        "tureckou",
+        "arménskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rizoto",
+      "values": [
+        "finskou",
+        "thajskou",
+        "italskou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chipotle",
+      "values": [
+        "korejskou",
+        "britskou",
+        "čínskou",
+        "mexickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bouillabaisse",
+      "values": [
+        "francouzskou",
+        "vietnamskou",
+        "italskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pomazánkové máslo",
+      "values": [
+        "českou",
+        "dominikánskou",
+        "gruzínskou",
+        "belgickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tagliatelle",
+      "values": [
+        "australskou",
+        "italskou",
+        "švédskou",
+        "islandskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Krabí tyčinka",
+      "values": [
+        "japonskou",
+        "islandskou",
+        "čínskou",
+        "dominikánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Baileys Irish Cream",
+      "values": [
+        "ukrajinskou",
+        "korejskou",
+        "irskou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hrstková polévka",
+      "values": [
+        "německou",
+        "kanadskou",
+        "českou",
+        "islandskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gose",
+      "values": [
+        "švédskou",
+        "německou",
+        "arabskou",
+        "belgickou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle katastrofy",
+  "questions": [
+    {
+      "key": "Havárie elektrárny Fukušima I",
+      "values": [
+        "Indie",
+        "Sovětský svaz",
+        "Maďarsko",
+        "Japonsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bhópálská katastrofa",
+      "values": [
+        "Spojené království",
+        "Turecko",
+        "Maďarsko",
+        "Indie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Uhelné prázdniny 1979",
+      "values": [
+        "Maďarsko",
+        "Indie",
+        "Japonsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Střelba na základní škole v Bělehradě",
+      "values": [
+        "Srbsko",
+        "Česko",
+        "Jamajka",
+        "Jižní Korea"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kyštymská katastrofa",
+      "values": [
+        "Indie",
+        "Turecko",
+        "Sovětský svaz",
+        "Srbsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hladomor v Bengálsku 1943",
+      "values": [
+        "Srbsko",
+        "Indie",
+        "Maďarsko",
+        "Jamajka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nedělinova katastrofa",
+      "values": [
+        "Sovětský svaz",
+        "Rakousko",
+        "Jižní Korea",
+        "Indie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tajfun Tip",
+      "values": [
+        "Japonsko",
+        "Sovětský svaz",
+        "Jamajka",
+        "Jižní Korea"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hurikán Sandy",
+      "values": [
+        "Jamajka",
+        "Sovětský svaz",
+        "Maďarsko",
+        "Spojené království"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sivaský masakr",
+      "values": [
+        "Turecko",
+        "Maďarsko",
+        "Indie",
+        "Srbsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte oblast podle ptáka",
+  "questions": [
+    {
+      "key": "Čáp bílý",
+      "values": [
+        "Antarktida",
+        "Severní Amerika",
+        "Afrika",
+        "Orientální oblast"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kachna divoká",
+      "values": [
+        "Antarktida",
+        "Severní Amerika",
+        "Orientální oblast",
+        "Afrika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tučňák císařský",
+      "values": [
+        "Jižní Amerika",
+        "Afrika",
+        "celosvětové rozšíření",
+        "Antarktida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lyska černá",
+      "values": [
+        "Afrika",
+        "Orientální oblast",
+        "Jižní oceán",
+        "celosvětové rozšíření"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ara hyacintový",
+      "values": [
+        "Jižní Amerika",
+        "Jižní oceán",
+        "Orientální oblast",
+        "celosvětové rozšíření"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Plameňák růžový",
+      "values": [
+        "Orientální oblast",
+        "Severní Amerika",
+        "Jižní oceán",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sup bělohlavý",
+      "values": [
+        "Antarktida",
+        "Jižní Amerika",
+        "Afrika",
+        "Orientální oblast"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Orlosup bradatý",
+      "values": [
+        "Orientální oblast",
+        "Jižní Amerika",
+        "Afrika",
+        "Antarktida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Papoušík Fischerův",
+      "values": [
+        "Severní Amerika",
+        "Afrika",
+        "Jižní Amerika",
+        "Jižní oceán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Berneška velká",
+      "values": [
+        "Antarktida",
+        "Jižní Amerika",
+        "celosvětové rozšíření",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

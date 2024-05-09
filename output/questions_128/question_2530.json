@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Luis Suárez",
+      "values": [
+        "tožského",
+        "norského",
+        "kolumbijského",
+        "uruguayského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Škrtel",
+      "values": [
+        "amerického",
+        "slovenského",
+        "československého",
+        "tožského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michael Owen",
+      "values": [
+        "ukrajinského",
+        "anglického",
+        "portugalského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gonzalo Higuaín",
+      "values": [
+        "rumunského",
+        "ruského",
+        "anglického",
+        "argentinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Pavelka",
+      "values": [
+        "českého",
+        "kamerunského",
+        "gruzínského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fernando Morientes",
+      "values": [
+        "tožského",
+        "polského",
+        "rakouského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lorenzo Insigne",
+      "values": [
+        "rakouského",
+        "bulharského",
+        "tureckého",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "James Maddison",
+      "values": [
+        "rumunského",
+        "anglického",
+        "portugalského",
+        "tožského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alberto Gilardino",
+      "values": [
+        "srbského",
+        "italského",
+        "gambijského",
+        "ekvádorského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andrij Lunin",
+      "values": [
+        "mexického",
+        "ukrajinského",
+        "portugalského",
+        "českého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

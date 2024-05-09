@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Ozzy Osbourne",
+      "values": [
+        "britského",
+        "gruzínského",
+        "amerického",
+        "argentinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bruce Dickinson",
+      "values": [
+        "kolumbijského",
+        "britského",
+        "alžírského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Radek Pastrňák",
+      "values": [
+        "českého",
+        "kanadského",
+        "britského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Joe Cocker",
+      "values": [
+        "amerického",
+        "britského",
+        "jihokorejského",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jára Kohout",
+      "values": [
+        "českého",
+        "mexického",
+        "belgického",
+        "alžírského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Garou",
+      "values": [
+        "jihoafrického",
+        "kanadského",
+        "islandského",
+        "portorického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Facundo Arana",
+      "values": [
+        "argentinského",
+        "nizozemského",
+        "britského",
+        "jihokorejského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ondřej Bauer",
+      "values": [
+        "dánského",
+        "českého",
+        "švýcarského",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jesse Tyler Ferguson",
+      "values": [
+        "amerického",
+        "švédského",
+        "moldavského",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Angèle",
+      "values": [
+        "britského",
+        "německého",
+        "belgického",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Robert De Niro",
+      "values": [
+        "českého",
+        "norského",
+        "amerického",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čeněk Šlégl",
+      "values": [
+        "nizozemského",
+        "italského",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomáš Vorel",
+      "values": [
+        "slovenského",
+        "ukrajinského",
+        "českého",
+        "srbského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lars von Trier",
+      "values": [
+        "nizozemského",
+        "norského",
+        "švédského",
+        "dánského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Éric Rohmer",
+      "values": [
+        "finského",
+        "srbského",
+        "francouzského",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jean Dujardin",
+      "values": [
+        "ukrajinského",
+        "irského",
+        "francouzského",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Billy Wilder",
+      "values": [
+        "amerického",
+        "norského",
+        "japonského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jacques Tati",
+      "values": [
+        "ruského",
+        "francouzského",
+        "britského",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Maximilian Schell",
+      "values": [
+        "mexického",
+        "rakouského",
+        "francouzského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Peter Bogdanovich",
+      "values": [
+        "německého",
+        "francouzského",
+        "amerického",
+        "norského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

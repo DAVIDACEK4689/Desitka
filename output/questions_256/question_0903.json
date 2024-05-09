@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Pelyněk",
+      "values": [
+        "Brazílie",
+        "Austrálie",
+        "Mexiko",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Břečťan",
+      "values": [
+        "Mongolsko",
+        "Česko",
+        "Nový Zéland",
+        "Austrálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kávovník",
+      "values": [
+        "Brazílie",
+        "Austrálie",
+        "Madagaskar",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gerbera",
+      "values": [
+        "Brazílie",
+        "Česko",
+        "Madagaskar",
+        "Mexiko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cesmína paraguayská",
+      "values": [
+        "Česko",
+        "Brazílie",
+        "Austrálie",
+        "Mongolsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Javor jasanolistý",
+      "values": [
+        "Mongolsko",
+        "Česko",
+        "Brazílie",
+        "Mexiko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Soterek obecný",
+      "values": [
+        "Česko",
+        "Mongolsko",
+        "Austrálie",
+        "Nový Zéland"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kurkumovník",
+      "values": [
+        "Austrálie",
+        "Brazílie",
+        "Madagaskar",
+        "Mexiko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Banisteriopsis caapi",
+      "values": [
+        "Brazílie",
+        "Austrálie",
+        "Mexiko",
+        "Madagaskar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pastala rozprostřená",
+      "values": [
+        "Brazílie",
+        "Česko",
+        "Austrálie",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

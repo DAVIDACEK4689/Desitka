@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] román?",
+  "questions": [
+    {
+      "key": "Na západní frontě klid",
+      "values": [
+        "německý",
+        "americký",
+        "francouzský",
+        "italský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Velký Gatsby",
+      "values": [
+        "německý",
+        "australský",
+        "americký",
+        "francouzský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sophiina volba",
+      "values": [
+        "francouzský",
+        "španělský",
+        "americký",
+        "anglický"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Válka s Mloky",
+      "values": [
+        "český",
+        "anglický",
+        "americký",
+        "španělský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Frankenstein",
+      "values": [
+        "anglický",
+        "irský",
+        "německý",
+        "ruský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jméno růže",
+      "values": [
+        "australský",
+        "anglický",
+        "italský",
+        "ruský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bílá velryba",
+      "values": [
+        "německý",
+        "australský",
+        "španělský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petrolejové lampy",
+      "values": [
+        "německý",
+        "italský",
+        "australský",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Forrest Gump",
+      "values": [
+        "americký",
+        "španělský",
+        "australský",
+        "italský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Obsluhoval jsem anglického krále",
+      "values": [
+        "český",
+        "irský",
+        "německý",
+        "francouzský"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

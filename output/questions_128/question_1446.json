@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] kulturu?",
+  "questions": [
+    {
+      "key": "Kibuc",
+      "values": [
+        "vatikánskou",
+        "španělskou",
+        "izraelskou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tři moudré opice",
+      "values": [
+        "argentinskou",
+        "angolskou",
+        "finskou",
+        "japonskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Yankee",
+      "values": [
+        "švédskou",
+        "americkou",
+        "maďarskou",
+        "brazilskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dvanáct bobulí révy",
+      "values": [
+        "italskou",
+        "americkou",
+        "finskou",
+        "španělskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Harmonium",
+      "values": [
+        "dominikánskou",
+        "tureckou",
+        "indickou",
+        "řeckou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Noc kostelů",
+      "values": [
+        "dominikánskou",
+        "českou",
+        "australskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oblečená Maja",
+      "values": [
+        "vatikánskou",
+        "ázerbájdžánskou",
+        "španělskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Siglo de Oro",
+      "values": [
+        "italskou",
+        "íránskou",
+        "finskou",
+        "španělskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sirtaki",
+      "values": [
+        "argentinskou",
+        "řeckou",
+        "novozélandskou",
+        "vatikánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Herr Mannelig",
+      "values": [
+        "švédskou",
+        "novozélandskou",
+        "havajskou",
+        "čínskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Harry Maguire",
+      "values": [
+        "chilského",
+        "arménského",
+        "alžírského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jozef Chovanec",
+      "values": [
+        "rakouského",
+        "finského",
+        "československého",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kamil Čontofalský",
+      "values": [
+        "ghanského",
+        "českého",
+        "slovenského",
+        "gruzínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michael Ballack",
+      "values": [
+        "francouzského",
+        "ghanského",
+        "německého",
+        "alžírského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "David Bystroň",
+      "values": [
+        "českého",
+        "rakouského",
+        "belgického",
+        "alžírského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rio Ferdinand",
+      "values": [
+        "ekvádorského",
+        "ruského",
+        "argentinského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Radek Černý",
+      "values": [
+        "českého",
+        "kanadského",
+        "skotského",
+        "československého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jack Wilshere",
+      "values": [
+        "anglického",
+        "rakouského",
+        "švýcarského",
+        "ghanského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Branislav Ivanović",
+      "values": [
+        "kamerunského",
+        "srbského",
+        "norského",
+        "severoirského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marcelo Salas",
+      "values": [
+        "chilského",
+        "kamerunského",
+        "československého",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

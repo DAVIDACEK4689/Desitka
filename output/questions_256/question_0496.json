@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Winston Churchill",
+      "values": [
+        "britského",
+        "běloruského",
+        "litevského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "George Bernard Shaw",
+      "values": [
+        "ruského",
+        "australského",
+        "izraelského",
+        "irského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alexandr Mitrofanov",
+      "values": [
+        "italského",
+        "českého",
+        "běloruského",
+        "ázerbájdžánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Thor Heyerdahl",
+      "values": [
+        "rakouského",
+        "belgického",
+        "norského",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Susanna Tamarová",
+      "values": [
+        "norského",
+        "polského",
+        "italského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alfred Kubin",
+      "values": [
+        "italského",
+        "rakouského",
+        "kolumbijského",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stanislav Rudolf",
+      "values": [
+        "řeckého",
+        "českého",
+        "kanadského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nathaniel Hawthorne",
+      "values": [
+        "mexického",
+        "vietnamského",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Maurice Maeterlinck",
+      "values": [
+        "kolumbijského",
+        "irského",
+        "belgického",
+        "kyrgyzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Michal",
+      "values": [
+        "kanadského",
+        "libanonského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

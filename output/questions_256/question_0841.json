@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Bratislava",
+      "values": [
+        "Dunaj",
+        "Tibera",
+        "Seina",
+        "Labe"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Štrasburk",
+      "values": [
+        "Mandava",
+        "Rýn",
+        "Hornád",
+        "Vltava"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Přelouč",
+      "values": [
+        "Svratka",
+        "Úhlava",
+        "Labe",
+        "Úslava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ružomberok",
+      "values": [
+        "Spréva",
+        "Svratka",
+        "Váha",
+        "Seina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Spišská Nová Ves",
+      "values": [
+        "Hornád",
+        "Seina",
+        "Volha",
+        "Váha"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Frymburk",
+      "values": [
+        "Váha",
+        "Svratka",
+        "Visla",
+        "Vltava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nova Kachovka",
+      "values": [
+        "Dněpr",
+        "Něva",
+        "Těrek",
+        "Lužická Nisa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ostia Antica",
+      "values": [
+        "Inn",
+        "Tibera",
+        "Ohře",
+        "Tis"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Raabs an der Thaya",
+      "values": [
+        "Vltava",
+        "Úslava",
+        "Tibera",
+        "Dyje"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nezvěstice",
+      "values": [
+        "Úslava",
+        "Dyje",
+        "Temže",
+        "Labe"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Oscar Wilde",
+      "values": [
+        "skotského",
+        "irského",
+        "španělského",
+        "vietnamského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hans Christian Andersen",
+      "values": [
+        "anglického",
+        "ruského",
+        "srbského",
+        "dánského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bob Dylan",
+      "values": [
+        "ukrajinského",
+        "ruského",
+        "amerického",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michal Horáček",
+      "values": [
+        "amerického",
+        "chilského",
+        "irského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miguel de Cervantes y Saavedra",
+      "values": [
+        "španělského",
+        "ruského",
+        "norského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ho Či Min",
+      "values": [
+        "vietnamského",
+        "španělského",
+        "irského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Hora",
+      "values": [
+        "kanadského",
+        "italského",
+        "českého",
+        "srbského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaroslav Hutka",
+      "values": [
+        "srbského",
+        "francouzského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "William Faulkner",
+      "values": [
+        "amerického",
+        "anglického",
+        "francouzského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ján Kollár",
+      "values": [
+        "srbského",
+        "slovenského",
+        "španělského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

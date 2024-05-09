@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Svíčková na smetaně",
+      "values": [
+        "švýcarskou",
+        "dánskou",
+        "chorvatskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zabijačka",
+      "values": [
+        "kanadskou",
+        "českou",
+        "maďarskou",
+        "tureckou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Raki",
+      "values": [
+        "francouzskou",
+        "tureckou",
+        "středoamerickou",
+        "finskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Quiche",
+      "values": [
+        "indickou",
+        "tureckou",
+        "francouzskou",
+        "čínskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hovězí po burgundsku",
+      "values": [
+        "anglickou",
+        "francouzskou",
+        "rakouskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bouquet garni",
+      "values": [
+        "středoamerickou",
+        "francouzskou",
+        "portugalskou",
+        "australskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Horalky",
+      "values": [
+        "ruskou",
+        "gruzínskou",
+        "polskou",
+        "slovenskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Masála",
+      "values": [
+        "indickou",
+        "německou",
+        "perskou",
+        "balkánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kohout na víně",
+      "values": [
+        "francouzskou",
+        "německou",
+        "vietnamskou",
+        "indickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pečená Aljaška",
+      "values": [
+        "americkou",
+        "francouzskou",
+        "italskou",
+        "rakouskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

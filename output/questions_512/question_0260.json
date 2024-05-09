@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle politické strany",
+  "questions": [
+    {
+      "key": "Hamás",
+      "values": [
+        "Izrael",
+        "Slovensko",
+        "Palestina",
+        "Libanon"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Svoboda a přímá demokracie",
+      "values": [
+        "Německo",
+        "Slovensko",
+        "Palestina",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fatah",
+      "values": [
+        "Československo",
+        "Palestina",
+        "Libanon",
+        "Izrael"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Právo Respekt Odbornost",
+      "values": [
+        "Rusko",
+        "Česko",
+        "Československo",
+        "Egypt"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Svobodní",
+      "values": [
+        "Česko",
+        "Československo",
+        "Spojené království",
+        "Egypt"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Národní obec fašistická",
+      "values": [
+        "Spojené království",
+        "Česko",
+        "Německo",
+        "Československo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sme rodina",
+      "values": [
+        "Německo",
+        "Rusko",
+        "Slovensko",
+        "Polsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Občanská platforma",
+      "values": [
+        "Československo",
+        "Palestina",
+        "Polsko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Křesťanskodemokratická unie",
+      "values": [
+        "Polsko",
+        "Německo",
+        "Izrael",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Klub angažovaných nestraníků",
+      "values": [
+        "Česko",
+        "Spojené království",
+        "Slovensko",
+        "Palestina"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

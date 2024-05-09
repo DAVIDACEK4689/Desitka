@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte sport podle německého sportovce",
+  "questions": [
+    {
+      "key": "Alexander Zverev",
+      "values": [
+        "gymnasta",
+        "stolní tenista",
+        "biatlonista",
+        "tenista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Leon Draisaitl",
+      "values": [
+        "tenista",
+        "pilot",
+        "lední hokejista",
+        "basketbalista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bastian Schweinsteiger",
+      "values": [
+        "fotbalista",
+        "pilot",
+        "strongmani",
+        "basketbalista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Antonio Rüdiger",
+      "values": [
+        "fotbalista",
+        "šermíř",
+        "biatlonista",
+        "jezdec"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jens Lehmann",
+      "values": [
+        "cyklista",
+        "strongmani",
+        "fotbalista",
+        "boxer"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "André Schürrle",
+      "values": [
+        "lední hokejista",
+        "biatlonista",
+        "fotbalista",
+        "stolní tenista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sepp Maier",
+      "values": [
+        "pilot",
+        "lední hokejista",
+        "fotbalista",
+        "basketbalista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Johann Trollmann",
+      "values": [
+        "boxer",
+        "tenista",
+        "strongmani",
+        "skeletonisté"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert Dietrich",
+      "values": [
+        "gymnasta",
+        "lední hokejista",
+        "skeletonisté",
+        "biatlonista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kevin Trapp",
+      "values": [
+        "horolezec",
+        "bobista",
+        "fotbalista",
+        "golfista"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

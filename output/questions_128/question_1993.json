@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Oscar Wilde",
+      "values": [
+        "novozélandského",
+        "rakouského",
+        "irského",
+        "libanonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Haruki Murakami",
+      "values": [
+        "maďarského",
+        "japonského",
+        "rumunského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ibráhím ibn Jákúb",
+      "values": [
+        "čínského",
+        "španělského",
+        "chorvatského",
+        "belgického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Matej Bel",
+      "values": [
+        "španělského",
+        "peruánského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alan Marshall",
+      "values": [
+        "estonského",
+        "australského",
+        "norského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gustáv Murín",
+      "values": [
+        "švédského",
+        "českého",
+        "slovenského",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Martin Walser",
+      "values": [
+        "německého",
+        "jihoafrického",
+        "japonského",
+        "tanzanského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Franz Grillparzer",
+      "values": [
+        "portugalského",
+        "rakouského",
+        "kubánského",
+        "belgického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ödön von Horváth",
+      "values": [
+        "egyptského",
+        "polského",
+        "japonského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oldřich Sirovátka",
+      "values": [
+        "českého",
+        "brazilského",
+        "španělského",
+        "finského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

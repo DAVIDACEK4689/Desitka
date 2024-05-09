@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Michael Jackson",
+      "values": [
+        "švédského",
+        "argentinského",
+        "italského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miro Šmajda",
+      "values": [
+        "amerického",
+        "slovenského",
+        "japonského",
+        "litevského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ilja Hurník",
+      "values": [
+        "švýcarského",
+        "ukrajinského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zbyněk Bobr Horák",
+      "values": [
+        "rakouského",
+        "českého",
+        "litevského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hanuš Bartoň",
+      "values": [
+        "rakouského",
+        "litevského",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nino Rota",
+      "values": [
+        "španělského",
+        "irského",
+        "italského",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eugen Suchoň",
+      "values": [
+        "slovenského",
+        "norského",
+        "ruského",
+        "litevského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "František Chaun",
+      "values": [
+        "českého",
+        "švédského",
+        "ukrajinského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Macy Gray",
+      "values": [
+        "italského",
+        "řeckého",
+        "amerického",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "César Antonovič Kjui",
+      "values": [
+        "švédského",
+        "slovenského",
+        "australského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

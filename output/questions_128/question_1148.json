@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle požáru",
+  "questions": [
+    {
+      "key": "Lesní požár v Českosaském Švýcarsku",
+      "values": [
+        "2022",
+        "2006",
+        "2023",
+        "1995"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Žhářský útok ve Vítkově",
+      "values": [
+        "2019",
+        "2009",
+        "1923",
+        "2000"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Požár Ústavu sociální péče v Měděnci",
+      "values": [
+        "2020",
+        "2017",
+        "2013",
+        "1984"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Velký požár Londýna",
+      "values": [
+        "1984",
+        "1666",
+        "2012",
+        "1998"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Let Air France 4590",
+      "values": [
+        "2019",
+        "2023",
+        "2000",
+        "2012"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lahaina",
+      "values": [
+        "2023",
+        "1923",
+        "1998",
+        "2013"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Výbuch plynu v panelovém domě v Prešově",
+      "values": [
+        "2019",
+        "2023",
+        "2006",
+        "2000"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Let Swissair 111",
+      "values": [
+        "2019",
+        "2017",
+        "2020",
+        "1998"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Velké zemětřesení v Kantó",
+      "values": [
+        "1923",
+        "1998",
+        "2013",
+        "1962"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Žhářský útok na Kyoto Animation",
+      "values": [
+        "1995",
+        "2019",
+        "2012",
+        "1923"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

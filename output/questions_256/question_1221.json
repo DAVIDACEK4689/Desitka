@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle archeologické lokality",
+  "questions": [
+    {
+      "key": "Kartágo",
+      "values": [
+        "Tunisko",
+        "Írán",
+        "Itálie",
+        "Chorvatsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ravenna",
+      "values": [
+        "Německo",
+        "Itálie",
+        "Albánie",
+        "Litva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lascaux",
+      "values": [
+        "Egypt",
+        "Francie",
+        "Albánie",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Luxorský chrám",
+      "values": [
+        "Česko",
+        "Egypt",
+        "Chorvatsko",
+        "Indonésie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zliv",
+      "values": [
+        "Rakousko",
+        "Albánie",
+        "Španělsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Paestum",
+      "values": [
+        "Izrael",
+        "Itálie",
+        "Federativní státy Mikronésie",
+        "Francie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chattušaš",
+      "values": [
+        "Turecko",
+        "Malta",
+        "Ukrajina",
+        "Írán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Megido",
+      "values": [
+        "Izrael",
+        "Řecko",
+        "Itálie",
+        "Chorvatsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Peschiera del Garda",
+      "values": [
+        "Pákistán",
+        "Itálie",
+        "Srí Lanka",
+        "Rakousko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Herodium",
+      "values": [
+        "Jordánsko",
+        "Malta",
+        "Jihoafrická republika",
+        "Izrael"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

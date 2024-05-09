@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] film?",
+  "questions": [
+    {
+      "key": "Valerie a týden divů",
+      "values": [
+        "sovětský",
+        "československý",
+        "čínský",
+        "irský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rockaway Capital",
+      "values": [
+        "ukrajinský",
+        "švédský",
+        "český",
+        "československý"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zakletá Ella",
+      "values": [
+        "slovenský",
+        "irský",
+        "novozélandský",
+        "český"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nejasná zpráva o konci světa",
+      "values": [
+        "irský",
+        "český",
+        "čínský",
+        "novozélandský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ten svetr si nesvlíkej",
+      "values": [
+        "irský",
+        "novozélandský",
+        "československý",
+        "jugoslávský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Něžný barbar",
+      "values": [
+        "čínský",
+        "český",
+        "slovenský",
+        "sovětský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Madla zpívá Evropě",
+      "values": [
+        "český",
+        "čínský",
+        "sovětský",
+        "jugoslávský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Naše bláznivá rodina",
+      "values": [
+        "slovenský",
+        "sovětský",
+        "ukrajinský",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Něco z Alenky",
+      "values": [
+        "československý",
+        "čínský",
+        "ukrajinský",
+        "slovenský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Moje levá noha",
+      "values": [
+        "irský",
+        "jugoslávský",
+        "československý",
+        "jihoafrický"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

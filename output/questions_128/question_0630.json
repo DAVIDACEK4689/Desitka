@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle prezidenta",
+  "questions": [
+    {
+      "key": "Alexandr Lukašenko",
+      "values": [
+        "Dominikánská republika",
+        "Bělorusko",
+        "Francie",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nicolás Maduro",
+      "values": [
+        "Afghánistán",
+        "Venezuela",
+        "Rusko",
+        "Namibie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Antonio López de Santa Anna",
+      "values": [
+        "Litva",
+        "Španělsko",
+        "Mexiko",
+        "Moldavsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cristina Fernández de Kirchner",
+      "values": [
+        "Mexiko",
+        "Argentina",
+        "Irsko",
+        "Guatemala"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Muhammad Siad Barre",
+      "values": [
+        "Čad",
+        "Čečenci",
+        "Salvador",
+        "Somálsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pavlo Skoropadskyj",
+      "values": [
+        "Pákistán",
+        "Tanzanie",
+        "Etiopie",
+        "Ukrajina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sergej Abramov",
+      "values": [
+        "Namibie",
+        "Lotyšsko",
+        "Čečenci",
+        "Nikaragua"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Juan Manuel Santos",
+      "values": [
+        "Kolumbie",
+        "Kamerun",
+        "Řecko",
+        "Írán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Milan Kučan",
+      "values": [
+        "Indie",
+        "Uganda",
+        "Slovinsko",
+        "Česká republika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Daniel Noboa",
+      "values": [
+        "Moldavsko",
+        "Ekvádor",
+        "Libérie",
+        "Bulharsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

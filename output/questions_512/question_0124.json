@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] svatého?",
+  "questions": [
+    {
+      "key": "Svatá Ludmila",
+      "values": [
+        "řeckého",
+        "indického",
+        "anglického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Svatý Patrik",
+      "values": [
+        "německého",
+        "indického",
+        "irského",
+        "anglického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Svatý Prokop",
+      "values": [
+        "španělského",
+        "německého",
+        "irského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Svatý Vavřinec",
+      "values": [
+        "rakouského",
+        "českého",
+        "libanonského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alexej Nikolajevič",
+      "values": [
+        "libanonského",
+        "českého",
+        "ruského",
+        "anglického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Svatý Šebestián",
+      "values": [
+        "italského",
+        "českého",
+        "řeckého",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hildegarda z Bingenu",
+      "values": [
+        "irského",
+        "německého",
+        "egyptského",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Svatý Ivan",
+      "values": [
+        "portugalského",
+        "alžírského",
+        "libanonského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Svatá Filoména",
+      "values": [
+        "italského",
+        "francouzského",
+        "irského",
+        "alžírského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Terezie Benedikta od Kříže",
+      "values": [
+        "německého",
+        "egyptského",
+        "libanonského",
+        "indického"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

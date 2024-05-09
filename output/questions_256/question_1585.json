@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Jožo Ráž",
+      "values": [
+        "slovenského",
+        "švédského",
+        "amerického",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kevin Costner",
+      "values": [
+        "amerického",
+        "španělského",
+        "jamajského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Enrique Iglesias",
+      "values": [
+        "španělského",
+        "brazilského",
+        "švýcarského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Shawn Mendes",
+      "values": [
+        "kanadského",
+        "jihoafrického",
+        "ruského",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David Duchovny",
+      "values": [
+        "norského",
+        "portorického",
+        "amerického",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Haubert",
+      "values": [
+        "finského",
+        "amerického",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jim Čert",
+      "values": [
+        "britského",
+        "českého",
+        "italského",
+        "belgického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Maître Gims",
+      "values": [
+        "amerického",
+        "francouzského",
+        "jamajského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaime Lorente",
+      "values": [
+        "jihoafrického",
+        "španělského",
+        "švédského",
+        "jihokorejského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sammy Hagar",
+      "values": [
+        "rumunského",
+        "slovenského",
+        "amerického",
+        "jihoafrického"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] politiku?",
+  "questions": [
+    {
+      "key": "Vražda Jána Kuciaka a Martiny Kušnírové",
+      "values": [
+        "gruzínského",
+        "malajsijského",
+        "švýcarského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pravý sektor",
+      "values": [
+        "ukrajinského",
+        "libyjského",
+        "namibijského",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Boloňský proces",
+      "values": [
+        "evropského",
+        "italského",
+        "tureckého",
+        "severokorejského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Šťastné pondělí",
+      "values": [
+        "islandského",
+        "angolského",
+        "dánského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zákon o návratu",
+      "values": [
+        "řeckého",
+        "izraelského",
+        "rakouského",
+        "mosambického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Občanský institut",
+      "values": [
+        "somálského",
+        "ázerbájdžánského",
+        "českého",
+        "tureckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Skvělá izolace",
+      "values": [
+        "islandského",
+        "libyjského",
+        "britského",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zelená kniha",
+      "values": [
+        "italského",
+        "tureckého",
+        "jemenského",
+        "libyjského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lidoví mudžáhedíni",
+      "values": [
+        "íránského",
+        "argentinského",
+        "běloruského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tři nejaderné zásady",
+      "values": [
+        "běloruského",
+        "japonského",
+        "íránského",
+        "libyjského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

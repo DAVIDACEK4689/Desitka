@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle souostroví",
+  "questions": [
+    {
+      "key": "Falklandy",
+      "values": [
+        "Finsko",
+        "Japonsko",
+        "Spojené království",
+        "Chorvatsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alandy",
+      "values": [
+        "Argentina",
+        "Ekvádor",
+        "Norsko",
+        "Finsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kajmanské ostrovy",
+      "values": [
+        "Spojené království",
+        "Austrálie",
+        "Itálie",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nová země",
+      "values": [
+        "Japonsko",
+        "Spojené království",
+        "Rusko",
+        "Španělsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kyklady",
+      "values": [
+        "Španělsko",
+        "Nový Zéland",
+        "Řecko",
+        "Norsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Saint Pierre a Miquelon",
+      "values": [
+        "Spojené království",
+        "Francie",
+        "Rusko",
+        "Indonésie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Murano",
+      "values": [
+        "Austrálie",
+        "Norsko",
+        "Japonsko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dodekany",
+      "values": [
+        "Rusko",
+        "Itálie",
+        "Řecko",
+        "Finsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Solovecké ostrovy",
+      "values": [
+        "Španělsko",
+        "Finsko",
+        "Rusko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Egejské ostrovy",
+      "values": [
+        "Francie",
+        "Řecko",
+        "Norsko",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

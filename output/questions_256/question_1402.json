@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte oblast podle ptáka",
+  "questions": [
+    {
+      "key": "Čáp bílý",
+      "values": [
+        "Jižní Amerika",
+        "Antarktida",
+        "Afrika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Páv korunkatý",
+      "values": [
+        "Antarktida",
+        "Jižní oceán",
+        "Orientální oblast",
+        "Severní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čáp černý",
+      "values": [
+        "Jižní oceán",
+        "Orientální oblast",
+        "Afrika",
+        "Střední Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Plameňák růžový",
+      "values": [
+        "Afrika",
+        "Jižní Amerika",
+        "Orientální oblast",
+        "Tichý oceán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Papoušek senegalský",
+      "values": [
+        "Střední Amerika",
+        "Atlantský oceán",
+        "Afrika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Konipas horský",
+      "values": [
+        "Orientální oblast",
+        "Jižní oceán",
+        "celosvětové rozšíření",
+        "Antarktida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pyrura zelenolící",
+      "values": [
+        "Antarktida",
+        "Jižní Amerika",
+        "Orientální oblast",
+        "Afrika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Holub stěhovavý",
+      "values": [
+        "Severní Amerika",
+        "Orientální oblast",
+        "Atlantský oceán",
+        "Afrika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alka malá",
+      "values": [
+        "Tichý oceán",
+        "Orientální oblast",
+        "Severní Amerika",
+        "Atlantský oceán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bukáček malý",
+      "values": [
+        "Atlantský oceán",
+        "Afrika",
+        "Střední Amerika",
+        "Orientální oblast"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

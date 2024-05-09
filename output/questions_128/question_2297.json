@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Otakar Vávra",
+      "values": [
+        "britského",
+        "českého",
+        "maďarského",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Moris Issa",
+      "values": [
+        "českého",
+        "polského",
+        "australského",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ben Stiller",
+      "values": [
+        "novozélandského",
+        "polského",
+        "australského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Čestmír Suška",
+      "values": [
+        "hongkongského",
+        "českého",
+        "ruského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Guillermo del Toro",
+      "values": [
+        "sovětského",
+        "ruského",
+        "mexického",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sydney Pollack",
+      "values": [
+        "slovinského",
+        "amerického",
+        "indického",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavel Švanda ze Semčic",
+      "values": [
+        "britského",
+        "finského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Florian David Fitz",
+      "values": [
+        "německého",
+        "španělského",
+        "novozélandského",
+        "australského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Frank Miller",
+      "values": [
+        "amerického",
+        "ukrajinského",
+        "nizozemského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Milan Růžička",
+      "values": [
+        "švýcarského",
+        "českého",
+        "německého",
+        "španělského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

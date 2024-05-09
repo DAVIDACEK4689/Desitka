@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vegetariána?",
+  "questions": [
+    {
+      "key": "Iva Kubelková",
+      "values": [
+        "rakouského",
+        "německého",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pamela Anderson",
+      "values": [
+        "slovenského",
+        "kanadského",
+        "izraelského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zuzana Norisová",
+      "values": [
+        "slovenského",
+        "italského",
+        "britského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert Kodym",
+      "values": [
+        "španělského",
+        "britského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Uršula Kluková",
+      "values": [
+        "amerického",
+        "rakouského",
+        "českého",
+        "indického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Iva Pazderková",
+      "values": [
+        "amerického",
+        "ruského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eduard Tomáš",
+      "values": [
+        "amerického",
+        "českého",
+        "indického",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Peter Dinklage",
+      "values": [
+        "německého",
+        "amerického",
+        "australského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sadie Sink",
+      "values": [
+        "ruského",
+        "irského",
+        "izraelského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Radim Špaček",
+      "values": [
+        "českého",
+        "italského",
+        "amerického",
+        "španělského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

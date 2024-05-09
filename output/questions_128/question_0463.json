@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Laďka Kozderková",
+      "values": [
+        "nizozemskou",
+        "dánskou",
+        "francouzskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Esther Mertová",
+      "values": [
+        "českou",
+        "izraelskou",
+        "americkou",
+        "irskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Katarina Wittová",
+      "values": [
+        "novozélandskou",
+        "íránskou",
+        "finskou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sima Martausová",
+      "values": [
+        "slovenskou",
+        "srbskou",
+        "švédskou",
+        "řeckou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jarmila Horáková",
+      "values": [
+        "českou",
+        "rakouskou",
+        "ruskou",
+        "bulharskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jana Andrsová",
+      "values": [
+        "srbskou",
+        "bulharskou",
+        "švédskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Veronika Korytářová",
+      "values": [
+        "dánskou",
+        "českou",
+        "mexickou",
+        "italskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Katherine McNamara",
+      "values": [
+        "argentinskou",
+        "tureckou",
+        "švýcarskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Katarína Hasprová",
+      "values": [
+        "slovenskou",
+        "španělskou",
+        "německou",
+        "švýcarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Deborah Kerrová",
+      "values": [
+        "britskou",
+        "brazilskou",
+        "indickou",
+        "českou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

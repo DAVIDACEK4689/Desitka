@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Marakuja",
+      "values": [
+        "Nový Zéland",
+        "Brazílie",
+        "Česko",
+        "Madagaskar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bledule jarní",
+      "values": [
+        "Japonsko",
+        "Česko",
+        "Austrálie",
+        "Mongolsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Blahočet ztepilý",
+      "values": [
+        "Japonsko",
+        "Austrálie",
+        "Madagaskar",
+        "Mongolsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ježatka kuří noha",
+      "values": [
+        "Japonsko",
+        "Mongolsko",
+        "Brazílie",
+        "Madagaskar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Přeslička bahenní",
+      "values": [
+        "Austrálie",
+        "Japonsko",
+        "Česko",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jabloň lesní",
+      "values": [
+        "Česko",
+        "Mexiko",
+        "Brazílie",
+        "Madagaskar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jalovec čínský",
+      "values": [
+        "Brazílie",
+        "Mexiko",
+        "Japonsko",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Akácie sivozelená",
+      "values": [
+        "Austrálie",
+        "Česko",
+        "Madagaskar",
+        "Brazílie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Borovice zakrslá",
+      "values": [
+        "Madagaskar",
+        "Mongolsko",
+        "Mexiko",
+        "Japonsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Písečnice",
+      "values": [
+        "Japonsko",
+        "Mexiko",
+        "Austrálie",
+        "Brazílie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

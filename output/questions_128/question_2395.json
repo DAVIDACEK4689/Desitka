@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Pretorie",
+      "values": [
+        "Jihoafrická republika",
+        "Nikaragua",
+        "Indie",
+        "Angola"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lemesos",
+      "values": [
+        "Kamerun",
+        "Etiopie",
+        "Kypr",
+        "Benin"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Narva",
+      "values": [
+        "Nikaragua",
+        "Západní Sahara",
+        "Ukrajina",
+        "Estonsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pápa",
+      "values": [
+        "Německo",
+        "Jordánsko",
+        "Tuvalu",
+        "Maďarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vaasa",
+      "values": [
+        "Finsko",
+        "Portugalsko",
+        "Malta",
+        "Mosambik"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Homs",
+      "values": [
+        "Sýrie",
+        "Tuvalu",
+        "Nigérie",
+        "Švýcarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Manisa",
+      "values": [
+        "Česko",
+        "Rumunsko",
+        "Turecko",
+        "Srí Lanka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dobšiná",
+      "values": [
+        "Ukrajina",
+        "Řecko",
+        "Slovensko",
+        "Tunisko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Erdenet",
+      "values": [
+        "Turkmenistán",
+        "Mongolsko",
+        "Jemen",
+        "Súdán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Spišská Belá",
+      "values": [
+        "Komora",
+        "Černá Hora",
+        "Slovensko",
+        "Madagaskar"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

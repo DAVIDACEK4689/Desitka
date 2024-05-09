@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Cristiano Ronaldo",
+      "values": [
+        "německého",
+        "portugalského",
+        "brazilského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Antonín Panenka",
+      "values": [
+        "španělského",
+        "italského",
+        "československého",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Patrik Berger",
+      "values": [
+        "anglického",
+        "senegalského",
+        "českého",
+        "československého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bobby Charlton",
+      "values": [
+        "nigerijského",
+        "českého",
+        "portugalského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jakub Brabec",
+      "values": [
+        "rakouského",
+        "českého",
+        "srbského",
+        "egyptského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miroslav Stoch",
+      "values": [
+        "kamerunského",
+        "chorvatského",
+        "uruguayského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marco Reus",
+      "values": [
+        "německého",
+        "ekvádorského",
+        "polského",
+        "argentinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stanislav Vlček",
+      "values": [
+        "německého",
+        "argentinského",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roberto Firmino",
+      "values": [
+        "brazilského",
+        "německého",
+        "rakouského",
+        "anglického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Julián Álvarez",
+      "values": [
+        "skotského",
+        "německého",
+        "anglického",
+        "argentinského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Marcelo Vieira",
+      "values": [
+        "řeckého",
+        "českého",
+        "mongolského",
+        "brazilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Luiz",
+      "values": [
+        "kanadského",
+        "brazilského",
+        "norského",
+        "lucemburského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Declan Rice",
+      "values": [
+        "severoirského",
+        "bulharského",
+        "zimbabwského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alessandro Nesta",
+      "values": [
+        "venezuelského",
+        "italského",
+        "polského",
+        "marockého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Yira Sor",
+      "values": [
+        "nigerijského",
+        "francouzského",
+        "finského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Juan Guillermo Cuadrado",
+      "values": [
+        "maďarského",
+        "dánského",
+        "kolumbijského",
+        "kamerunského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robert Enke",
+      "values": [
+        "gruzínského",
+        "španělského",
+        "finského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Brian Laudrup",
+      "values": [
+        "dánského",
+        "kanadského",
+        "bulharského",
+        "paraguayského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Youri Djorkaeff",
+      "values": [
+        "kostarického",
+        "francouzského",
+        "portugalského",
+        "paraguayského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tony Adams",
+      "values": [
+        "nigerijského",
+        "ruského",
+        "anglického",
+        "finského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

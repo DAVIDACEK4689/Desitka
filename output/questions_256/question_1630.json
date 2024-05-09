@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Tomáš Čvančara",
+      "values": [
+        "gambijského",
+        "českého",
+        "albánského",
+        "kamerunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jakub Řezníček",
+      "values": [
+        "kolumbijského",
+        "českého",
+        "ekvádorského",
+        "ghanského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mojmír Chytil",
+      "values": [
+        "rakouského",
+        "anglického",
+        "českého",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luis Enrique Martínez García",
+      "values": [
+        "československého",
+        "španělského",
+        "argentinského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ruud van Nistelrooy",
+      "values": [
+        "nigerijského",
+        "chilského",
+        "nizozemského",
+        "brazilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bernardo Silva",
+      "values": [
+        "skotského",
+        "portugalského",
+        "rumunského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Leroy Sané",
+      "values": [
+        "německého",
+        "sovětského",
+        "nigerijského",
+        "gruzínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marco Asensio",
+      "values": [
+        "španělského",
+        "polského",
+        "ukrajinského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alessandro Nesta",
+      "values": [
+        "uruguayského",
+        "ukrajinského",
+        "sovětského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Rezek",
+      "values": [
+        "uruguayského",
+        "bulharského",
+        "českého",
+        "skotského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

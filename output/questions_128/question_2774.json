@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] architekta?",
+  "questions": [
+    {
+      "key": "Josef Gočár",
+      "values": [
+        "finského",
+        "polského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Matyáš z Arrasu",
+      "values": [
+        "španělského",
+        "francouzského",
+        "českého",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oscar Niemeyer",
+      "values": [
+        "slovenského",
+        "brazilského",
+        "finského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Havlíček",
+      "values": [
+        "českého",
+        "amerického",
+        "italského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Johann Lucas von Hildebrandt",
+      "values": [
+        "rakouského",
+        "nizozemského",
+        "norského",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Renzo Piano",
+      "values": [
+        "italského",
+        "slovinského",
+        "japonského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladimir Tatlin",
+      "values": [
+        "ruského",
+        "polského",
+        "českého",
+        "chorvatského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Camillo Sitte",
+      "values": [
+        "španělského",
+        "rakouského",
+        "brazilského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adolf Benš",
+      "values": [
+        "amerického",
+        "českého",
+        "belgického",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karl Kohn",
+      "values": [
+        "francouzského",
+        "amerického",
+        "nizozemského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Ženeva",
+      "values": [
+        "Švýcarsko",
+        "Jordánsko",
+        "Ekvádor",
+        "Pákistán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mety",
+      "values": [
+        "Černá Hora",
+        "Francie",
+        "Súdán",
+        "Nepál"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Steyr",
+      "values": [
+        "Severní Korea",
+        "Bhútán",
+        "Rakousko",
+        "Irsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "El Alamein",
+      "values": [
+        "Egypt",
+        "Vietnam",
+        "Rakousko",
+        "Ekvádor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sveti Vlas",
+      "values": [
+        "Východní Timor",
+        "Botswana",
+        "Bulharsko",
+        "Ghana"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mestia",
+      "values": [
+        "Gruzie",
+        "Thajsko",
+        "Bolívie",
+        "Švýcarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Čačak",
+      "values": [
+        "Kazachstán",
+        "Srbsko",
+        "Brazílie",
+        "Libanon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Starnberg",
+      "values": [
+        "Ghana",
+        "Itálie",
+        "Ukrajina",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Joensuu",
+      "values": [
+        "Vanuatu",
+        "Tuvalu",
+        "Portugalsko",
+        "Finsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Episkopi",
+      "values": [
+        "Kypr",
+        "Jemen",
+        "Niger",
+        "Zambie"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

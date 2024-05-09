@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte kontinent podle fauny",
+  "questions": [
+    {
+      "key": "Panda červená",
+      "values": [
+        "Asie",
+        "Evropa",
+        "Antarktida",
+        "Severní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hyena skvrnitá",
+      "values": [
+        "Střední Amerika",
+        "Evropa",
+        "Afrika",
+        "Asie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pralesnička strašná",
+      "values": [
+        "Afrika",
+        "Střední Amerika",
+        "Severní Amerika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Levhart obláčkový",
+      "values": [
+        "Afrika",
+        "Střední Amerika",
+        "Asie",
+        "Antarktida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tuleň leopardí",
+      "values": [
+        "Antarktida",
+        "Střední Amerika",
+        "Jižní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Herkules antilský",
+      "values": [
+        "Evropa",
+        "Jižní Amerika",
+        "Asie",
+        "Severní Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fauna Česka",
+      "values": [
+        "Asie",
+        "Evropa",
+        "Afrika",
+        "Antarktida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nosorožec jávský",
+      "values": [
+        "Asie",
+        "Střední Amerika",
+        "Antarktida",
+        "Severní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dželada",
+      "values": [
+        "Evropa",
+        "Jižní Amerika",
+        "Afrika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Skákavka černá",
+      "values": [
+        "Střední Amerika",
+        "Evropa",
+        "Severní Amerika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

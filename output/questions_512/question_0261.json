@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle politické strany",
+  "questions": [
+    {
+      "key": "ANO 2011",
+      "values": [
+        "Spojené království",
+        "Slovensko",
+        "Polsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Občanské fórum",
+      "values": [
+        "Izrael",
+        "Česko",
+        "Československo",
+        "Libanon"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sudetoněmecká strana",
+      "values": [
+        "Rusko",
+        "Egypt",
+        "Československo",
+        "Slovensko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Strana zelených",
+      "values": [
+        "Česko",
+        "Palestina",
+        "Libanon",
+        "Izrael"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Republikánská strana zemědělského a malorolnického lidu",
+      "values": [
+        "Egypt",
+        "Česko",
+        "Izrael",
+        "Československo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kresťanskodemokratické hnutie",
+      "values": [
+        "Slovensko",
+        "Rusko",
+        "Spojené království",
+        "Československo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Labouristická strana",
+      "values": [
+        "Izrael",
+        "Slovensko",
+        "Spojené království",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Občanské hnutí",
+      "values": [
+        "Libanon",
+        "Československo",
+        "Izrael",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Strana národní jednoty",
+      "values": [
+        "Československo",
+        "Egypt",
+        "Palestina",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Za ľudí",
+      "values": [
+        "Libanon",
+        "Polsko",
+        "Egypt",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

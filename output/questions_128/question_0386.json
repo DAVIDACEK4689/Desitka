@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Slavnosti sněženek",
+      "values": [
+        "Jiří Menzel",
+        "Pavel Juráček",
+        "Václav Vorlíček",
+        "Tomáš Vorel"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jak básníkům chutná život",
+      "values": [
+        "Svatopluk Innemann",
+        "Pavel Juráček",
+        "Dušan Klein",
+        "Jindřich Honzl"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "U mě dobrý",
+      "values": [
+        "Martin Horský",
+        "Jan Hřebejk",
+        "Jiří Sequens",
+        "Ondřej Trojan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kráska v nesnázích",
+      "values": [
+        "Evald Schorm",
+        "Jan Hřebejk",
+        "Ondřej Trojan",
+        "Dušan Klein"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nestyda",
+      "values": [
+        "Václav Wasserman",
+        "Martin Horský",
+        "Bohdan Sláma",
+        "Jan Hřebejk"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Noční motýl",
+      "values": [
+        "Václav Wasserman",
+        "Jindřich Honzl",
+        "Zdeněk Podskalský",
+        "Václav Krška"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bourák",
+      "values": [
+        "Pavel Juráček",
+        "Ondřej Trojan",
+        "Filip Renč",
+        "Jiří Vejdělek"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zločin v šantánu",
+      "values": [
+        "Miloslav Šmídmajer",
+        "Jiří Menzel",
+        "Jaroslav Papoušek",
+        "David Ondříček"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Valentin Dobrotivý",
+      "values": [
+        "Jan Švankmajer",
+        "Martin Frič",
+        "Jindřich Honzl",
+        "David Ondříček"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nejlepší člověk",
+      "values": [
+        "Karel Steklý",
+        "Václav Wasserman",
+        "Miloslav Šmídmajer",
+        "Jaromil Jireš"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

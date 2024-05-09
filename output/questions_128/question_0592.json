@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte sport podle britského sportovce",
+  "questions": [
+    {
+      "key": "Tyson Fury",
+      "values": [
+        "golfista",
+        "jezdec",
+        "boxer",
+        "lední hokejista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aleister Crowley",
+      "values": [
+        "lední hokejista",
+        "cyklista",
+        "golfista",
+        "horolezec"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mark Cavendish",
+      "values": [
+        "boxer",
+        "cyklista",
+        "lední hokejista",
+        "golfista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lennox Lewis",
+      "values": [
+        "hráči snookeru",
+        "automobilový závodník",
+        "cyklista",
+        "boxer"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Anthony Joshua",
+      "values": [
+        "boxer",
+        "golfista",
+        "horolezec",
+        "hráči snookeru"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "George Mallory",
+      "values": [
+        "lední hokejista",
+        "horolezec",
+        "tenista",
+        "jezdec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adam Yates",
+      "values": [
+        "cyklista",
+        "golfista",
+        "hráči snookeru",
+        "lední hokejista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cameron Norrie",
+      "values": [
+        "golfista",
+        "tenista",
+        "boxer",
+        "automobilový závodník"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Simon Yates",
+      "values": [
+        "cyklista",
+        "automobilový závodník",
+        "bobista",
+        "boxer"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fred Perry",
+      "values": [
+        "cyklista",
+        "tenista",
+        "horolezec",
+        "jezdec"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

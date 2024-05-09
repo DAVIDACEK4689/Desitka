@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] lékaře?",
+  "questions": [
+    {
+      "key": "Jan Cimický",
+      "values": [
+        "rakouského",
+        "slovenského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Hnízdil",
+      "values": [
+        "italského",
+        "německého",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Baruch Goldstein",
+      "values": [
+        "britského",
+        "izraelského",
+        "českého",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Hamza",
+      "values": [
+        "českého",
+        "rakouského",
+        "čínského",
+        "jihoafrického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cesare Lombroso",
+      "values": [
+        "čínského",
+        "brazilského",
+        "albánského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimir Michajlovič Bechtěrev",
+      "values": [
+        "jihoafrického",
+        "ruského",
+        "brazilského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karl Heidler von Heilborn",
+      "values": [
+        "německého",
+        "britského",
+        "českého",
+        "brazilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Milan Mixa",
+      "values": [
+        "francouzského",
+        "švédského",
+        "švýcarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ignazio Cassis",
+      "values": [
+        "irského",
+        "izraelského",
+        "italského",
+        "švýcarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alexandr Alexandrovič Bogdanov",
+      "values": [
+        "švýcarského",
+        "francouzského",
+        "rakouského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

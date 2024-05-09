@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "Galileo Galilei",
+      "values": [
+        "italského",
+        "švýcarského",
+        "kanadského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Edward a Lorraine Warrenovi",
+      "values": [
+        "francouzského",
+        "amerického",
+        "litevského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Čunek",
+      "values": [
+        "kanadského",
+        "britského",
+        "monackého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sabrina Salerno",
+      "values": [
+        "italského",
+        "českého",
+        "portugalského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Polyxena Czerninová",
+      "values": [
+        "českého",
+        "maďarského",
+        "monackého",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "János Áder",
+      "values": [
+        "maďarského",
+        "francouzského",
+        "britského",
+        "litevského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jacques Cartier",
+      "values": [
+        "monackého",
+        "francouzského",
+        "německého",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Orseolo",
+      "values": [
+        "maďarského",
+        "monackého",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jean Vanier",
+      "values": [
+        "kanadského",
+        "německého",
+        "monackého",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Armin Laschet",
+      "values": [
+        "maďarského",
+        "českého",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

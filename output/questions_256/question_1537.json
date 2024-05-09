@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Madonna",
+      "values": [
+        "slovenskou",
+        "novozélandskou",
+        "americkou",
+        "irskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Linda Finková",
+      "values": [
+        "švédskou",
+        "finskou",
+        "novozélandskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dolly Parton",
+      "values": [
+        "italskou",
+        "ruskou",
+        "americkou",
+        "maďarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Annie Girardotová",
+      "values": [
+        "jihokorejskou",
+        "americkou",
+        "francouzskou",
+        "novozélandskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Camila Cabello",
+      "values": [
+        "německou",
+        "americkou",
+        "mexickou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mia Farrowová",
+      "values": [
+        "americkou",
+        "finskou",
+        "uruguayskou",
+        "japonskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zara Larsson",
+      "values": [
+        "nizozemskou",
+        "švédskou",
+        "ruskou",
+        "německou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gabriella Jiráčková",
+      "values": [
+        "britskou",
+        "islandskou",
+        "českou",
+        "ruskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "AquaBabes",
+      "values": [
+        "polskou",
+        "českou",
+        "izraelskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cristin Miliotiová",
+      "values": [
+        "francouzskou",
+        "českou",
+        "americkou",
+        "japonskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

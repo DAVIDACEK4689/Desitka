@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalového trenéra?",
+  "questions": [
+    {
+      "key": "Jiří Jarošík",
+      "values": [
+        "českého",
+        "portugalského",
+        "rumunského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Diego Simeone",
+      "values": [
+        "brazilského",
+        "argentinského",
+        "polského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Luboš Kubík",
+      "values": [
+        "dánského",
+        "belgického",
+        "norského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Moyes",
+      "values": [
+        "maďarského",
+        "skotského",
+        "mexického",
+        "bulharského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaap Stam",
+      "values": [
+        "slovenského",
+        "německého",
+        "velšského",
+        "nizozemského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaroslav Netolička",
+      "values": [
+        "portugalského",
+        "českého",
+        "rumunského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Roberto Di Matteo",
+      "values": [
+        "italského",
+        "portugalského",
+        "bulharského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mário Zagallo",
+      "values": [
+        "brazilského",
+        "německého",
+        "rakouského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Samec",
+      "values": [
+        "českého",
+        "tureckého",
+        "španělského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "František Jura",
+      "values": [
+        "českého",
+        "maďarského",
+        "španělského",
+        "australského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

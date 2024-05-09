@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Luxor",
+      "values": [
+        "Sýrie",
+        "Egypt",
+        "Rakousko",
+        "Thajsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bělehrad",
+      "values": [
+        "Malajsie",
+        "Ukrajina",
+        "Srbsko",
+        "Portugalsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bukurešť",
+      "values": [
+        "Thajsko",
+        "Švýcarsko",
+        "Brazílie",
+        "Rumunsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zadar",
+      "values": [
+        "Austrálie",
+        "Švédsko",
+        "Chorvatsko",
+        "Turecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "São Paulo",
+      "values": [
+        "Turecko",
+        "Brazílie",
+        "Gruzie",
+        "Švédsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Svit",
+      "values": [
+        "Slovensko",
+        "Švýcarsko",
+        "Nový Zéland",
+        "Grónsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Podgorica",
+      "values": [
+        "Rakousko",
+        "Černá Hora",
+        "Japonsko",
+        "Kazachstán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Temešvár",
+      "values": [
+        "Rumunsko",
+        "Keňa",
+        "Slovinsko",
+        "Saúdská Arábie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tiraspol",
+      "values": [
+        "Mongolsko",
+        "Rumunsko",
+        "Moldavsko",
+        "Pero"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lindos",
+      "values": [
+        "Ukrajina",
+        "Řecko",
+        "Belgie",
+        "Grónsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

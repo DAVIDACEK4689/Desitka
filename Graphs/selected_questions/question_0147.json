@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Budapešť",
+      "values": [
+        "Maďarsko",
+        "Súdán",
+        "Japonsko",
+        "Uzbekistán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Brusel",
+      "values": [
+        "Gruzie",
+        "Belgie",
+        "Grónsko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Curych",
+      "values": [
+        "Litva",
+        "Severní Makedonie",
+        "Mongolsko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Haag",
+      "values": [
+        "Jordánsko",
+        "Indonésie",
+        "Thajsko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Damašek",
+      "values": [
+        "Írán",
+        "Sýrie",
+        "Malta",
+        "Španělsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Maribor",
+      "values": [
+        "Mongolsko",
+        "Slovinsko",
+        "Senegal",
+        "Sýrie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nové Dillí",
+      "values": [
+        "Norsko",
+        "Belgie",
+        "Ukrajina",
+        "Indie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Káthmándú",
+      "values": [
+        "Kazachstán",
+        "Keňa",
+        "Nepál",
+        "Sýrie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nairobi",
+      "values": [
+        "Thajsko",
+        "Írán",
+        "Keňa",
+        "Švýcarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kluž",
+      "values": [
+        "Slovensko",
+        "Rumunsko",
+        "Keňa",
+        "Albánie"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

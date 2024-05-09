@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Berlín",
+      "values": [
+        "Loira",
+        "Spréva",
+        "Váha",
+        "Berounka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sokolov",
+      "values": [
+        "Ohře",
+        "Berounka",
+        "Inn",
+        "Dněpr"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stříbrná Skalice",
+      "values": [
+        "Dunaj",
+        "Berounka",
+        "Sázava",
+        "Loira"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Železný Brod",
+      "values": [
+        "Otava",
+        "Těrek",
+        "Spréva",
+        "Jizera"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Troja",
+      "values": [
+        "Ploučnice",
+        "Vltava",
+        "Ohře",
+        "Visla"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Český Šternberk",
+      "values": [
+        "Sázava",
+        "Tis",
+        "Úslava",
+        "Inn"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Weitra",
+      "values": [
+        "Cidlina",
+        "Lužnice",
+        "Vltava",
+        "Labe"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Řež",
+      "values": [
+        "Vltava",
+        "Malše",
+        "Ohře",
+        "Chrudimka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Telgárt",
+      "values": [
+        "Spréva",
+        "Hron",
+        "Berounka",
+        "Úslava"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tušť",
+      "values": [
+        "Temže",
+        "Ploučnice",
+        "Visla",
+        "Lužnice"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

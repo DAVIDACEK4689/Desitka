@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva u Slavkova",
+      "values": [
+        "1805",
+        "1945",
+        "1648",
+        "2022"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vyproštění francouzských vojáků ze základny Karin",
+      "values": [
+        "1813",
+        "1683",
+        "1993",
+        "1526"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Kresčaku",
+      "values": [
+        "1813",
+        "1683",
+        "1942",
+        "1346"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Zborova",
+      "values": [
+        "1917",
+        "1836",
+        "1789",
+        "1976"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Osvobození Československa",
+      "values": [
+        "1945",
+        "1917",
+        "1648",
+        "1976"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva na Sommě",
+      "values": [
+        "1916",
+        "1620",
+        "1836",
+        "1415"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva o Berlín",
+      "values": [
+        "1757",
+        "1526",
+        "1945",
+        "1805"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Operace Market Garden",
+      "values": [
+        "1812",
+        "1410",
+        "1943",
+        "1944"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Sokolova",
+      "values": [
+        "1431",
+        "1813",
+        "1620",
+        "1943"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva o Okinawu",
+      "values": [
+        "1918",
+        "1945",
+        "1648",
+        "1757"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

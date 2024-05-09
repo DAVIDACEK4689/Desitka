@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte sport podle československého sportovce",
+  "questions": [
+    {
+      "key": "Leo Gudas",
+      "values": [
+        "stolní tenista",
+        "basketbalista",
+        "lední hokejista",
+        "boxer"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vladimír Dzurilla",
+      "values": [
+        "automobilový závodník",
+        "lední hokejista",
+        "judista",
+        "šachista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Černík",
+      "values": [
+        "basketbalista",
+        "automobilový závodník",
+        "lední hokejista",
+        "volejbalista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vlastimil Hort",
+      "values": [
+        "cyklista",
+        "plavec",
+        "šachista",
+        "horolezec"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaromír Geršl",
+      "values": [
+        "automobilový závodník",
+        "basketbalista",
+        "zápasník",
+        "sportovní střelec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marián Bezák",
+      "values": [
+        "tenista",
+        "basketbalista",
+        "lední hokejista",
+        "pozemní hokejista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Paleček",
+      "values": [
+        "atlet",
+        "akrobatický letec",
+        "biatlonista",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Škoda",
+      "values": [
+        "fotbalista",
+        "horolezec",
+        "cyklista",
+        "kajakář"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miloš Otto Bondy",
+      "values": [
+        "zápasník",
+        "automobilový závodník",
+        "vodní lyžař",
+        "stolní tenista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ľubomír Ftáčnik",
+      "values": [
+        "fotbalista",
+        "šachista",
+        "judista",
+        "basketbalista"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

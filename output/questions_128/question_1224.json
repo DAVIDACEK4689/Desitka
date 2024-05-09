@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] kulturu?",
+  "questions": [
+    {
+      "key": "Bludný Holanďan",
+      "values": [
+        "kubánskou",
+        "australskou",
+        "arménskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Persepolis",
+      "values": [
+        "brazilskou",
+        "ázerbájdžánskou",
+        "íránskou",
+        "gruzínskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Siesta",
+      "values": [
+        "španělskou",
+        "ruskou",
+        "tureckou",
+        "řeckou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Joulupukki",
+      "values": [
+        "německou",
+        "finskou",
+        "britskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Las Fallas",
+      "values": [
+        "angolskou",
+        "tureckou",
+        "kubánskou",
+        "španělskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vyšyvanka",
+      "values": [
+        "indickou",
+        "finskou",
+        "ukrajinskou",
+        "indonéskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Merengue",
+      "values": [
+        "dominikánskou",
+        "íránskou",
+        "švédskou",
+        "brazilskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vánoční strom republiky",
+      "values": [
+        "českou",
+        "britskou",
+        "čínskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chirurgická maska",
+      "values": [
+        "japonskou",
+        "nizozemskou",
+        "arménskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mošava",
+      "values": [
+        "havajskou",
+        "španělskou",
+        "izraelskou",
+        "mexickou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

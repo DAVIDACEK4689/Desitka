@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte rok podle železniční nehody",
+  "questions": [
+    {
+      "key": "Železniční nehoda u Stéblové",
+      "values": [
+        "1969",
+        "1960",
+        "1989",
+        "2008"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Železniční nehoda u Krouny",
+      "values": [
+        "1995",
+        "1928",
+        "1957",
+        "2013"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Železniční nehoda u Spálova",
+      "values": [
+        "1989",
+        "2007",
+        "1990",
+        "1970"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Železniční nehoda v Podivíně",
+      "values": [
+        "1962",
+        "2019",
+        "1950",
+        "1995"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Železniční nehoda u Vraňan",
+      "values": [
+        "1988",
+        "1953",
+        "2007",
+        "2013"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Srážka vlaků u Bahanagy",
+      "values": [
+        "1966",
+        "1995",
+        "2023",
+        "1970"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Železniční nehoda u Perninku",
+      "values": [
+        "2004",
+        "2020",
+        "2023",
+        "1970"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Železniční nehoda ve Vranovicích",
+      "values": [
+        "1839",
+        "2007",
+        "2008",
+        "1895"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Železniční nehoda u Nových Kopist",
+      "values": [
+        "1966",
+        "2020",
+        "2023",
+        "1989"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Železniční nehoda v Bezděčíně",
+      "values": [
+        "1969",
+        "1960",
+        "1958",
+        "2008"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

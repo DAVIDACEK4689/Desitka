@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] revolucionáře?",
+  "questions": [
+    {
+      "key": "Adolf Hitler",
+      "values": [
+        "gruzínského",
+        "německého",
+        "čínského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josif Vissarionovič Stalin",
+      "values": [
+        "kubánského",
+        "egyptského",
+        "německého",
+        "gruzínského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fidel Castro",
+      "values": [
+        "kubánského",
+        "ruského",
+        "německého",
+        "čínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eva Perónová",
+      "values": [
+        "argentinského",
+        "mexického",
+        "gruzínského",
+        "egyptského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ho Či Min",
+      "values": [
+        "gruzínského",
+        "bulharského",
+        "vietnamského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ernst Röhm",
+      "values": [
+        "bulharského",
+        "argentinského",
+        "německého",
+        "mexického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Felix Edmundovič Dzeržinskij",
+      "values": [
+        "argentinského",
+        "polského",
+        "bulharského",
+        "čínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rosa Luxemburgová",
+      "values": [
+        "bulharského",
+        "polského",
+        "německého",
+        "egyptského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gamál Násir",
+      "values": [
+        "čínského",
+        "egyptského",
+        "kubánského",
+        "vietnamského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sergej Mironovič Kirov",
+      "values": [
+        "ruského",
+        "argentinského",
+        "gruzínského",
+        "polského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

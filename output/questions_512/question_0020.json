@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte město podle sportovní události",
+  "questions": [
+    {
+      "key": "Mistrovství světa ve fotbale žen 2023",
+      "values": [
+        "Záhřeb",
+        "Barcelona",
+        "Baku",
+        "Sydney"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zimní olympijské hry 2022",
+      "values": [
+        "Brusel",
+        "Vancouver",
+        "Peking",
+        "Buenos Aires"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství světa v ledním hokeji 1996",
+      "values": [
+        "Minsk",
+        "Sydney",
+        "Baku",
+        "Peking"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mistrovství Evropy ve fotbale 1976",
+      "values": [
+        "Santiago de Chile",
+        "Buenos Aires",
+        "Záhřeb",
+        "Peking"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "PDC Mistrovství světa v šipkách",
+      "values": [
+        "Baku",
+        "Sydney",
+        "Peking",
+        "Londýn"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Letní olympijské hry 1948",
+      "values": [
+        "Londýn",
+        "Barcelona",
+        "Vancouver",
+        "Záhřeb"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Letní olympijské hry 1992",
+      "values": [
+        "Barcelona",
+        "Záhřeb",
+        "Minsk",
+        "Baku"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Letní olympijské hry 2000",
+      "values": [
+        "Minsk",
+        "Sydney",
+        "Barcelona",
+        "Peking"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mistrovství světa ve fotbale 1978",
+      "values": [
+        "Santiago de Chile",
+        "Vancouver",
+        "Baku",
+        "Buenos Aires"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zimní olympijské hry 2010",
+      "values": [
+        "Brusel",
+        "Sydney",
+        "Vancouver",
+        "Barcelona"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

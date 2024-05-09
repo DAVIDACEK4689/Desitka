@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Dublin",
+      "values": [
+        "Nigérie",
+        "Irsko",
+        "Albánie",
+        "Chorvatsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vladivostok",
+      "values": [
+        "Slovinsko",
+        "Japonsko",
+        "Alžírsko",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rijeka",
+      "values": [
+        "Chorvatsko",
+        "Estonsko",
+        "Litva",
+        "Gruzie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alanya",
+      "values": [
+        "Francie",
+        "Angola",
+        "Turecko",
+        "Uruguay"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pescara",
+      "values": [
+        "Polsko",
+        "Libye",
+        "Indie",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Omiš",
+      "values": [
+        "Chorvatsko",
+        "Tanzanie",
+        "Surinam",
+        "Malta"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Torrevieja",
+      "values": [
+        "Lotyšsko",
+        "Chorvatsko",
+        "Švýcarsko",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Galway",
+      "values": [
+        "Indonésie",
+        "Německo",
+        "Irsko",
+        "Lotyšsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Volos",
+      "values": [
+        "Švédsko",
+        "Řecko",
+        "Nizozemsko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pesaro",
+      "values": [
+        "Lotyšsko",
+        "Jihoafrická republika",
+        "Finsko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

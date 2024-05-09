@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Václav Neckář",
+      "values": [
+        "švýcarského",
+        "gruzínského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bob Marley",
+      "values": [
+        "skotského",
+        "španělského",
+        "srbského",
+        "jamajského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimír Kratina",
+      "values": [
+        "českého",
+        "moldavského",
+        "španělského",
+        "islandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Andy Gibb",
+      "values": [
+        "izraelského",
+        "argentinského",
+        "britského",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hozier",
+      "values": [
+        "portorického",
+        "irského",
+        "ruského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Laco Lučenič",
+      "values": [
+        "slovenského",
+        "dánského",
+        "uruguayského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "GG Allin",
+      "values": [
+        "gruzínského",
+        "amerického",
+        "polského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Milan Nytra",
+      "values": [
+        "dánského",
+        "australského",
+        "českého",
+        "gruzínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Peter Cetera",
+      "values": [
+        "chorvatského",
+        "amerického",
+        "jihoafrického",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Florent Pagny",
+      "values": [
+        "francouzského",
+        "českého",
+        "německého",
+        "švédského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

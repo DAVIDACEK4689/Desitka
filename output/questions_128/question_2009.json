@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Reveň kadeřavá",
+      "values": [
+        "Mongolsko",
+        "Brazílie",
+        "Nový Zéland",
+        "Madagaskar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pelyněk estragon",
+      "values": [
+        "Madagaskar",
+        "Nový Zéland",
+        "Mongolsko",
+        "Austrálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ananasovník",
+      "values": [
+        "Brazílie",
+        "Mexiko",
+        "Mongolsko",
+        "Japonsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kuklík městský",
+      "values": [
+        "Nový Zéland",
+        "Japonsko",
+        "Česko",
+        "Brazílie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vrbovka",
+      "values": [
+        "Nový Zéland",
+        "Austrálie",
+        "Mexiko",
+        "Japonsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lnice",
+      "values": [
+        "Japonsko",
+        "Mongolsko",
+        "Mexiko",
+        "Brazílie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Katrán tatarský",
+      "values": [
+        "Česko",
+        "Japonsko",
+        "Mongolsko",
+        "Mexiko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mračňák Theophrastův",
+      "values": [
+        "Česko",
+        "Mexiko",
+        "Mongolsko",
+        "Madagaskar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rdesno peprník",
+      "values": [
+        "Nový Zéland",
+        "Mongolsko",
+        "Česko",
+        "Madagaskar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bedrník větší",
+      "values": [
+        "Madagaskar",
+        "Austrálie",
+        "Brazílie",
+        "Česko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

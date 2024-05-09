@@ -1,0 +1,105 @@
+{
+  "text": "Určete bojiště podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva o Berlín",
+      "values": [
+        "Rakousko",
+        "Afghánistán",
+        "Albánie",
+        "Braniborsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Invaze na Sicílii",
+      "values": [
+        "Španělsko",
+        "Ukrajina",
+        "Itálie",
+        "Austrálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Varny",
+      "values": [
+        "Francie",
+        "Bulharsko",
+        "Austrálie",
+        "Indie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Marenga",
+      "values": [
+        "Finsko",
+        "Itálie",
+        "Slovensko",
+        "Německo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Gorlice",
+      "values": [
+        "Polsko",
+        "Japonsko",
+        "Uganda",
+        "Bulharsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Cambrai",
+      "values": [
+        "Bělorusko",
+        "Egypt",
+        "Francie",
+        "Indie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Mühldorfu",
+      "values": [
+        "Mexiko",
+        "Německo",
+        "Srbsko",
+        "Turecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u řeky Tollense",
+      "values": [
+        "Libye",
+        "Německo",
+        "Bělorusko",
+        "Bavorsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Arcole",
+      "values": [
+        "Itálie",
+        "Německo",
+        "Izrael",
+        "Libye"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Worringenu",
+      "values": [
+        "Vietnam",
+        "Estonsko",
+        "Bělorusko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

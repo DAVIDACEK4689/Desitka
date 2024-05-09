@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] leteckou společnost?",
+  "questions": [
+    {
+      "key": "Ryanair",
+      "values": [
+        "slovenskou",
+        "československou",
+        "irskou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Delta Air Lines",
+      "values": [
+        "čínskou",
+        "americkou",
+        "belgickou",
+        "lotyšskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Smartwings Group",
+      "values": [
+        "slovenskou",
+        "českou",
+        "slovinskou",
+        "srbskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Qantas",
+      "values": [
+        "rumunskou",
+        "chorvatskou",
+        "německou",
+        "australskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ethiopian Airlines",
+      "values": [
+        "maďarskou",
+        "saúdskou",
+        "etiopskou",
+        "slovinskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Air Europa",
+      "values": [
+        "španělskou",
+        "maďarskou",
+        "lucemburskou",
+        "íránskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Corendon Airlines",
+      "values": [
+        "tureckou",
+        "lotyšskou",
+        "belgickou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Southwest Airlines",
+      "values": [
+        "belgickou",
+        "rumunskou",
+        "americkou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "SunExpress",
+      "values": [
+        "tureckou",
+        "řeckou",
+        "chorvatskou",
+        "americkou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Croatia Airlines",
+      "values": [
+        "řeckou",
+        "chorvatskou",
+        "novozélandskou",
+        "mexickou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

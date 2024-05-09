@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle olympijské hry",
+  "questions": [
+    {
+      "key": "Zimní olympijské hry 2026",
+      "values": [
+        "Rusko",
+        "Řecko",
+        "Itálie",
+        "Spojené království"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Letní olympijské hry 2020",
+      "values": [
+        "Japonsko",
+        "Austrálie",
+        "Brazílie",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zimní olympijské hry 2018",
+      "values": [
+        "Mexiko",
+        "Francie",
+        "Jižní Korea",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Letní olympijské hry 2016",
+      "values": [
+        "Brazílie",
+        "Japonsko",
+        "Rusko",
+        "Finsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zimní olympijské hry 2014",
+      "values": [
+        "Rusko",
+        "Francie",
+        "Španělsko",
+        "Mexiko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Letní olympijské hry 2012",
+      "values": [
+        "Austrálie",
+        "Francie",
+        "Brazílie",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Letní olympijské hry 1992",
+      "values": [
+        "Jižní Korea",
+        "Japonsko",
+        "Španělsko",
+        "Finsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Letní olympijské hry 2000",
+      "values": [
+        "Spojené království",
+        "Itálie",
+        "Austrálie",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Letní olympijské hry 2004",
+      "values": [
+        "Řecko",
+        "Itálie",
+        "Jugoslávie",
+        "Mexiko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Letní olympijské hry 1988",
+      "values": [
+        "Jižní Korea",
+        "Finsko",
+        "Japonsko",
+        "Brazílie"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

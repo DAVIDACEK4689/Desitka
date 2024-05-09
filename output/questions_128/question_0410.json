@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] dramatický film?",
+  "questions": [
+    {
+      "key": "Zlatí úhoři",
+      "values": [
+        "japonský",
+        "americký",
+        "maďarský",
+        "československý"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Díra u Hanušovic",
+      "values": [
+        "český",
+        "novozélandský",
+        "americký",
+        "dánský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Five Feet Apart",
+      "values": [
+        "maďarský",
+        "ruský",
+        "novozélandský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "O slavnosti a hostech",
+      "values": [
+        "československý",
+        "jihokorejský",
+        "český",
+        "slovenský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Král psanec",
+      "values": [
+        "mexický",
+        "britský",
+        "německý",
+        "francouzský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Poslední metro",
+      "values": [
+        "československý",
+        "francouzský",
+        "japonský",
+        "estonský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Prokletí domu Hajnů",
+      "values": [
+        "australský",
+        "francouzský",
+        "britský",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Napola",
+      "values": [
+        "estonský",
+        "jihokorejský",
+        "německý",
+        "ruský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Na Zlatém jezeře",
+      "values": [
+        "mexický",
+        "sovětský",
+        "italský",
+        "britský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Městem chodí Mikuláš",
+      "values": [
+        "český",
+        "maďarský",
+        "německý",
+        "francouzský"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

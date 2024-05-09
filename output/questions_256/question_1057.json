@@ -1,0 +1,105 @@
+{
+  "text": "Určete rok podle letecké nehody",
+  "questions": [
+    {
+      "key": "LZ 129 Hindenburg",
+      "values": [
+        "1937",
+        "1976",
+        "1985",
+        "2015"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Let US Airways 1549",
+      "values": [
+        "2001",
+        "1968",
+        "1973",
+        "2009"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Let United Airlines 93",
+      "values": [
+        "1985",
+        "2001",
+        "2015",
+        "2002"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Let American Airlines 11",
+      "values": [
+        "1919",
+        "1976",
+        "2001",
+        "1975"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Let Air France 4590",
+      "values": [
+        "1975",
+        "2000",
+        "1985",
+        "1976"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Let American Airlines 77",
+      "values": [
+        "1928",
+        "1991",
+        "1994",
+        "2001"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Let Lauda Air 004",
+      "values": [
+        "1991",
+        "2015",
+        "2014",
+        "1975"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Srážka letadel nad Überlingenem",
+      "values": [
+        "1975",
+        "1973",
+        "2002",
+        "1996"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Let Kogalymavia 9268",
+      "values": [
+        "2002",
+        "1972",
+        "2015",
+        "1976"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mnichovská tragédie",
+      "values": [
+        "2018",
+        "1958",
+        "1996",
+        "2014"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

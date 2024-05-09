@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Zdena Hadrbolcová",
+      "values": [
+        "českou",
+        "řeckou",
+        "indickou",
+        "brazilskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Beyoncé",
+      "values": [
+        "americkou",
+        "nizozemskou",
+        "jihokorejskou",
+        "jihoafrickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michaela Horká",
+      "values": [
+        "nizozemskou",
+        "českou",
+        "tureckou",
+        "uzbeckou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Helga Čočková",
+      "values": [
+        "jihokorejskou",
+        "irskou",
+        "mexickou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rebel Wilson",
+      "values": [
+        "francouzskou",
+        "australskou",
+        "bulharskou",
+        "českou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Julie Christie",
+      "values": [
+        "kubánskou",
+        "českou",
+        "britskou",
+        "izraelskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Portia de Rossi",
+      "values": [
+        "brazilskou",
+        "novozélandskou",
+        "izraelskou",
+        "australskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Julia Jentsch",
+      "values": [
+        "jihoafrickou",
+        "německou",
+        "tureckou",
+        "argentinskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Valeria Bruni Tedeschiová",
+      "values": [
+        "francouzskou",
+        "italskou",
+        "německou",
+        "irskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Barbara Hershey",
+      "values": [
+        "kanadskou",
+        "indickou",
+        "švýcarskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

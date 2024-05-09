@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Charlotte Ella Gottová",
+      "values": [
+        "maďarskou",
+        "izraelskou",
+        "japonskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Patricie Fuxová",
+      "values": [
+        "českou",
+        "ukrajinskou",
+        "švýcarskou",
+        "moldavskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Emma Robertsová",
+      "values": [
+        "americkou",
+        "nizozemskou",
+        "polskou",
+        "uruguayskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dana Vlková",
+      "values": [
+        "norskou",
+        "maďarskou",
+        "kubánskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zooey Deschanelová",
+      "values": [
+        "jamajskou",
+        "norskou",
+        "portugalskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Melanie Thornton",
+      "values": [
+        "německou",
+        "polskou",
+        "australskou",
+        "řeckou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zuzana Stirská",
+      "values": [
+        "srbskou",
+        "indickou",
+        "českou",
+        "slovenskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Krysta Rodriguez",
+      "values": [
+        "uruguayskou",
+        "americkou",
+        "moldavskou",
+        "barbadoskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Macy Gray",
+      "values": [
+        "americkou",
+        "norskou",
+        "japonskou",
+        "kolumbijskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jana Lewitová",
+      "values": [
+        "nizozemskou",
+        "českou",
+        "moldavskou",
+        "kanadskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

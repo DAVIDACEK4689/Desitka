@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte město podle české kultury",
+  "questions": [
+    {
+      "key": "Velký strahovský stadion",
+      "values": [
+        "České Budějovice",
+        "Praha",
+        "Karlovy Vary",
+        "Český Brod"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kofola",
+      "values": [
+        "Krnov",
+        "Český Brod",
+        "Jičín",
+        "Chlumec nad Cidlinou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lunetic",
+      "values": [
+        "Bečov nad Teplou",
+        "Litvínov",
+        "Krnov",
+        "Nepomuk"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Čechomor",
+      "values": [
+        "Valašské Meziříčí",
+        "Litvínov",
+        "Svitavy",
+        "Nepomuk"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Relikviář svatého Maura",
+      "values": [
+        "Valašské Meziříčí",
+        "Litvínov",
+        "Karlovy Vary",
+        "Bečov nad Teplou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mňága a Žďorp",
+      "values": [
+        "Valašské Meziříčí",
+        "Svitavy",
+        "Jičín",
+        "Krnov"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Olomoucké tvarůžky",
+      "values": [
+        "Krnov",
+        "Karlovy Vary",
+        "Chlumec nad Cidlinou",
+        "Loštice"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rumcajs",
+      "values": [
+        "Jičín",
+        "Karlovy Vary",
+        "Český Brod",
+        "Svitavy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Becherovka",
+      "values": [
+        "Nepomuk",
+        "Valašské Meziříčí",
+        "Bečov nad Teplou",
+        "Karlovy Vary"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rukopis zelenohorský",
+      "values": [
+        "Praha",
+        "Jičín",
+        "Karlovy Vary",
+        "Nepomuk"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] hudební skupinu?",
+  "questions": [
+    {
+      "key": "Roxette",
+      "values": [
+        "nizozemskou",
+        "švédskou",
+        "jihoafrickou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "The Cranberries",
+      "values": [
+        "britskou",
+        "německou",
+        "jihoafrickou",
+        "irskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ramones",
+      "values": [
+        "chorvatskou",
+        "jihoafrickou",
+        "francouzskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alphaville",
+      "values": [
+        "švédskou",
+        "slovenskou",
+        "německou",
+        "českou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Daft Punk",
+      "values": [
+        "francouzskou",
+        "irskou",
+        "kanadskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Il Volo",
+      "values": [
+        "ruskou",
+        "irskou",
+        "německou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "ATMO music",
+      "values": [
+        "německou",
+        "českou",
+        "švédskou",
+        "jihoafrickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Twice",
+      "values": [
+        "kanadskou",
+        "nizozemskou",
+        "francouzskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rednex",
+      "values": [
+        "irskou",
+        "švýcarskou",
+        "italskou",
+        "švédskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "2 Unlimited",
+      "values": [
+        "italskou",
+        "německou",
+        "nizozemskou",
+        "švédskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

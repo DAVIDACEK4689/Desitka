@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] malíře?",
+  "questions": [
+    {
+      "key": "Pablo Picasso",
+      "values": [
+        "španělského",
+        "polského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Claude Monet",
+      "values": [
+        "francouzského",
+        "norského",
+        "japonského",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Egon Schiele",
+      "values": [
+        "německého",
+        "italského",
+        "rakouského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Edvard Munch",
+      "values": [
+        "norského",
+        "japonského",
+        "nizozemského",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Édouard Manet",
+      "values": [
+        "francouzského",
+        "belgického",
+        "španělského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tony Curtis",
+      "values": [
+        "polského",
+        "amerického",
+        "belgického",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Giuseppe Arcimboldo",
+      "values": [
+        "nizozemského",
+        "norského",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pieter Bruegel",
+      "values": [
+        "nizozemského",
+        "rakouského",
+        "amerického",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Adalbert Stifter",
+      "values": [
+        "finského",
+        "belgického",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Arnold Schoenberg",
+      "values": [
+        "japonského",
+        "norského",
+        "ukrajinského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

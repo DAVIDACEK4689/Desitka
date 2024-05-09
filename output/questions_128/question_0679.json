@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle historického území",
+  "questions": [
+    {
+      "key": "Laponsko",
+      "values": [
+        "Chorvatsko",
+        "Slovensko",
+        "Rumunsko",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chebsko",
+      "values": [
+        "Rusko",
+        "Slovensko",
+        "Německo",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Moravské enklávy ve Slezsku",
+      "values": [
+        "Itálie",
+        "Slovinsko",
+        "Francie",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aragonské království",
+      "values": [
+        "Španělsko",
+        "Lotyšsko",
+        "Polsko",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kastilské království",
+      "values": [
+        "Slovensko",
+        "Itálie",
+        "Španělsko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bádensko",
+      "values": [
+        "Německo",
+        "Madagaskar",
+        "Česko",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Korutanské vévodství",
+      "values": [
+        "Lotyšsko",
+        "Polsko",
+        "Rakousko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mazovsko",
+      "values": [
+        "Slovensko",
+        "Chorvatsko",
+        "Polsko",
+        "Španělsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Brunšvické vévodství",
+      "values": [
+        "Německo",
+        "Jihoafrická republika",
+        "Rumunsko",
+        "Belgie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Náchodské panství",
+      "values": [
+        "Česko",
+        "Rakousko",
+        "Polsko",
+        "Belgie"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

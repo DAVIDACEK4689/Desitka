@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte oblast podle ptáka",
+  "questions": [
+    {
+      "key": "Kachna divoká",
+      "values": [
+        "Střední Amerika",
+        "Severní Amerika",
+        "celosvětové rozšíření",
+        "Jižní oceán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vrabec polní",
+      "values": [
+        "Orientální oblast",
+        "Severní Amerika",
+        "Antarktida",
+        "Střední Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kachna domácí",
+      "values": [
+        "Střední Amerika",
+        "Severní Amerika",
+        "Afrika",
+        "Tichý oceán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sup bělohlavý",
+      "values": [
+        "Antarktida",
+        "Severní Amerika",
+        "celosvětové rozšíření",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tučňák Humboldtův",
+      "values": [
+        "Jižní Amerika",
+        "Střední Amerika",
+        "Atlantský oceán",
+        "Severní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mandelík hajní",
+      "values": [
+        "Antarktida",
+        "Atlantský oceán",
+        "Afrika",
+        "Tichý oceán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ara kaninda",
+      "values": [
+        "Afrika",
+        "Jižní oceán",
+        "Střední Amerika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ťuhýk šedý",
+      "values": [
+        "Antarktida",
+        "Jižní Amerika",
+        "Tichý oceán",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bažant zlatý",
+      "values": [
+        "Střední Amerika",
+        "Orientální oblast",
+        "Jižní oceán",
+        "Antarktida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bělokur horský",
+      "values": [
+        "Severní Amerika",
+        "Střední Amerika",
+        "Tichý oceán",
+        "Atlantský oceán"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

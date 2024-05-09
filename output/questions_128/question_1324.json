@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte činnost podle člověka",
+  "questions": [
+    {
+      "key": "Sedlák",
+      "values": [
+        "doprava",
+        "náboženství",
+        "komunikační profese",
+        "zemědělství"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jurodiví",
+      "values": [
+        "doprava",
+        "náboženství",
+        "komunikační profese",
+        "zemědělství"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Duchovní",
+      "values": [
+        "zemědělství",
+        "náboženství",
+        "komunikační profese",
+        "doprava"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Církevní otcové",
+      "values": [
+        "náboženství",
+        "komunikační profese",
+        "zemědělství",
+        "doprava"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Baráčník",
+      "values": [
+        "náboženství",
+        "doprava",
+        "zemědělství",
+        "komunikační profese"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mniška",
+      "values": [
+        "zemědělství",
+        "náboženství",
+        "doprava",
+        "komunikační profese"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Duchovenstvo",
+      "values": [
+        "doprava",
+        "náboženství",
+        "komunikační profese",
+        "zemědělství"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chodec",
+      "values": [
+        "náboženství",
+        "doprava",
+        "zemědělství",
+        "komunikační profese"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chalupník",
+      "values": [
+        "komunikační profese",
+        "náboženství",
+        "doprava",
+        "zemědělství"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mluvčí",
+      "values": [
+        "doprava",
+        "zemědělství",
+        "komunikační profese",
+        "náboženství"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

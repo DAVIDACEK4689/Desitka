@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle fotbalu",
+  "questions": [
+    {
+      "key": "Pohár FAČR",
+      "values": [
+        "Španělsko",
+        "Spojené království",
+        "Československo",
+        "Irsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství světa ve fotbale 2010",
+      "values": [
+        "Japonsko",
+        "Jihoafrická republika",
+        "Saúdská Arábie",
+        "Irsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Italská fotbalová reprezentace",
+      "values": [
+        "Dánsko",
+        "Rakousko",
+        "Indonésie",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "El Clásico",
+      "values": [
+        "Itálie",
+        "Jižní Korea",
+        "Irsko",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mistrovství Evropy ve fotbale hráčů do 21 let 2023",
+      "values": [
+        "Gruzie",
+        "San Marino",
+        "Dánsko",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mistrovství světa ve fotbale hráčů do 20 let 2023",
+      "values": [
+        "Československo",
+        "Japonsko",
+        "Indonésie",
+        "San Marino"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Saudi Professional League",
+      "values": [
+        "Saúdská Arábie",
+        "Itálie",
+        "Egypt",
+        "Indonésie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vršovický dloubák",
+      "values": [
+        "Dánsko",
+        "Československo",
+        "Česko",
+        "Egypt"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Velšská fotbalová reprezentace",
+      "values": [
+        "Japonsko",
+        "Česko",
+        "Wales",
+        "Irsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Konfederace afrického fotbalu",
+      "values": [
+        "Rakousko",
+        "Irsko",
+        "Jihoafrická republika",
+        "Egypt"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

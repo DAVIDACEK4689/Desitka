@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Erich Maria Remarque",
+      "values": [
+        "chilského",
+        "novozélandského",
+        "portugalského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Erik Erikson",
+      "values": [
+        "běloruského",
+        "novozélandského",
+        "kubánského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hugo Pavel",
+      "values": [
+        "amerického",
+        "rumunského",
+        "českého",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fanda Mrázek",
+      "values": [
+        "jihoafrického",
+        "gruzínského",
+        "kolumbijského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Louise Pennyová",
+      "values": [
+        "švédského",
+        "dánského",
+        "kanadského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vratislav Preclík",
+      "values": [
+        "italského",
+        "srbského",
+        "irského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nikolaj Stěpanovič Gumiljov",
+      "values": [
+        "ruského",
+        "řeckého",
+        "jihoafrického",
+        "libanonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Elena Lacková",
+      "values": [
+        "argentinského",
+        "slovenského",
+        "ázerbájdžánského",
+        "íránského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Theodor Fontane",
+      "values": [
+        "portugalského",
+        "mexického",
+        "německého",
+        "bulharského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michal Hvorecký",
+      "values": [
+        "bulharského",
+        "kanadského",
+        "peruánského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

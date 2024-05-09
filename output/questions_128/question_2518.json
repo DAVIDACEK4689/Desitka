@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Kukuřice",
+      "values": [
+        "Mexiko",
+        "Brazílie",
+        "Mongolsko",
+        "Austrálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Olivovník",
+      "values": [
+        "Mexiko",
+        "Česko",
+        "Japonsko",
+        "Austrálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Líska",
+      "values": [
+        "Madagaskar",
+        "Mongolsko",
+        "Nový Zéland",
+        "Mexiko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Heřmánkovec nevonný",
+      "values": [
+        "Česko",
+        "Mexiko",
+        "Brazílie",
+        "Madagaskar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hrušeň",
+      "values": [
+        "Česko",
+        "Mongolsko",
+        "Nový Zéland",
+        "Japonsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Čistec lesní",
+      "values": [
+        "Madagaskar",
+        "Česko",
+        "Austrálie",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Laskavec krvavý",
+      "values": [
+        "Austrálie",
+        "Mongolsko",
+        "Brazílie",
+        "Mexiko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Orobinec úzkolistý",
+      "values": [
+        "Česko",
+        "Madagaskar",
+        "Mongolsko",
+        "Japonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Damaroň jižní",
+      "values": [
+        "Mexiko",
+        "Nový Zéland",
+        "Mongolsko",
+        "Brazílie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Srdečník",
+      "values": [
+        "Mexiko",
+        "Japonsko",
+        "Madagaskar",
+        "Austrálie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

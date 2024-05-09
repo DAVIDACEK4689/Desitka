@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle českého sportovce",
+  "questions": [
+    {
+      "key": "Pavel Bém",
+      "values": [
+        "gymnasta",
+        "cyklista",
+        "tenista",
+        "horolezec"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Bříza",
+      "values": [
+        "judista",
+        "stolní tenista",
+        "bojový umělec",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Amálie Hilgertová",
+      "values": [
+        "kajakář",
+        "plavec",
+        "šachista",
+        "jezdec"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Korbel",
+      "values": [
+        "skeletonisté",
+        "squashisté",
+        "stolní tenista",
+        "šipkaři"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zdeněk Douša",
+      "values": [
+        "rybář",
+        "fotbalista",
+        "gymnasta",
+        "basketbalista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel Treybal",
+      "values": [
+        "rybář",
+        "šachista",
+        "lyžař",
+        "jezdec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Kůrka",
+      "values": [
+        "jezdec",
+        "sportovní střelec",
+        "taekwondisté",
+        "šermíř"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Roman Meluzín",
+      "values": [
+        "rychlostní kanoista",
+        "skeletonisté",
+        "kajakář",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimír Nosek",
+      "values": [
+        "automobilový závodník",
+        "horolezec",
+        "golfista",
+        "jezdec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jakub Langhammer",
+      "values": [
+        "kanoista",
+        "lední hokejista",
+        "fotbalista",
+        "pozemní hokejista"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

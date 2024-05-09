@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Avicii",
+      "values": [
+        "švédského",
+        "australského",
+        "polského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Georg Friedrich Händel",
+      "values": [
+        "německého",
+        "řeckého",
+        "norského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dmitrij Šostakovič",
+      "values": [
+        "polského",
+        "francouzského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ota Balage",
+      "values": [
+        "brazilského",
+        "arménského",
+        "řeckého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roman Horký",
+      "values": [
+        "řeckého",
+        "britského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "John Denver",
+      "values": [
+        "argentinského",
+        "arménského",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Danny Elfman",
+      "values": [
+        "italského",
+        "britského",
+        "japonského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jitka Charvátová",
+      "values": [
+        "švýcarského",
+        "francouzského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alex Švamberk",
+      "values": [
+        "brazilského",
+        "finského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dermot Kennedy",
+      "values": [
+        "argentinského",
+        "slovenského",
+        "irského",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

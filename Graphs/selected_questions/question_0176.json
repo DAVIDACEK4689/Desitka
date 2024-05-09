@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "Agáta Hanychová",
+      "values": [
+        "kanadského",
+        "českého",
+        "maďarského",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joe Biden",
+      "values": [
+        "kanadského",
+        "švýcarského",
+        "amerického",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Nedvěd",
+      "values": [
+        "italského",
+        "českého",
+        "švýcarského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dana Němcová",
+      "values": [
+        "německého",
+        "amerického",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "José Mourinho",
+      "values": [
+        "kanadského",
+        "portugalského",
+        "švýcarského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andrea Bocelli",
+      "values": [
+        "českého",
+        "italského",
+        "portugalského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Robert Kennedy",
+      "values": [
+        "britského",
+        "amerického",
+        "švýcarského",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Sokol",
+      "values": [
+        "českého",
+        "francouzského",
+        "portugalského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alessandro Volta",
+      "values": [
+        "švýcarského",
+        "kanadského",
+        "italského",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jean Cocteau",
+      "values": [
+        "portugalského",
+        "italského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

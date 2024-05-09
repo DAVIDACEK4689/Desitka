@@ -1,0 +1,105 @@
+{
+  "text": "Určete sport podle české sportovkyně",
+  "questions": [
+    {
+      "key": "Karolína Plíšková",
+      "values": [
+        "basketbalistka",
+        "stolní tenistka",
+        "lední hokejistky",
+        "tenistka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kateřina Emmons",
+      "values": [
+        "basketbalistka",
+        "rychlobruslařka",
+        "veslařka",
+        "sportovní střelkyně"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nicole Vaidišová",
+      "values": [
+        "volejbalistka",
+        "plavkyně",
+        "tenistka",
+        "golfistky"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lada Vondrová",
+      "values": [
+        "atletka",
+        "krasobruslařka",
+        "orientační běžkyně",
+        "florbalistky"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tereza Fajksová",
+      "values": [
+        "volejbalistka",
+        "krasobruslařka",
+        "fotbalistka",
+        "atletka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kristýna Kolocová",
+      "values": [
+        "šachistky",
+        "florbalistky",
+        "golfistky",
+        "volejbalistka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Veronika Třinecká",
+      "values": [
+        "šachistky",
+        "florbalistky",
+        "fotbalistka",
+        "golfistky"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Barbora Horáčková",
+      "values": [
+        "lední hokejistky",
+        "stolní tenistka",
+        "golfistky",
+        "lukostřelkyně"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lada Kozlíková",
+      "values": [
+        "krasobruslařka",
+        "házenkářka",
+        "cyklistka",
+        "lední hokejistky"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michaela Kubečková",
+      "values": [
+        "lukostřelkyně",
+        "házenkářka",
+        "florbalistky",
+        "fotbalistka"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

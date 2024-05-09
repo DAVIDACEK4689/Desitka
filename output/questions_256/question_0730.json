@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Jan Kanyza",
+      "values": [
+        "rakouského",
+        "novozélandského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vítězslav Jandák",
+      "values": [
+        "mexického",
+        "kanadského",
+        "sovětského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Robin Ferro",
+      "values": [
+        "britského",
+        "dánského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Charles Aznavour",
+      "values": [
+        "francouzského",
+        "islandského",
+        "jihoafrického",
+        "čínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Emil Burian",
+      "values": [
+        "rakouského",
+        "novozélandského",
+        "českého",
+        "argentinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sean Combs",
+      "values": [
+        "amerického",
+        "ruského",
+        "chilského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Emil Artur Longen",
+      "values": [
+        "českého",
+        "irského",
+        "indického",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Christopher Castile",
+      "values": [
+        "tureckého",
+        "argentinského",
+        "maďarského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rudolph Valentino",
+      "values": [
+        "portorického",
+        "českého",
+        "italského",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hansi Hinterseer",
+      "values": [
+        "novozélandského",
+        "čínského",
+        "rakouského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Zdeněk Troška",
+      "values": [
+        "amerického",
+        "českého",
+        "ukrajinského",
+        "hongkongského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Christopher Nolan",
+      "values": [
+        "amerického",
+        "ruského",
+        "mexického",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Igor Chaun",
+      "values": [
+        "kanadského",
+        "švédského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Taika Waititi",
+      "values": [
+        "ukrajinského",
+        "hongkongského",
+        "srbského",
+        "novozélandského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Emil Horváth",
+      "values": [
+        "britského",
+        "slovenského",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tate Donovan",
+      "values": [
+        "polského",
+        "amerického",
+        "britského",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Krištof Veselý",
+      "values": [
+        "slovenského",
+        "amerického",
+        "britského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michal Dočekal",
+      "values": [
+        "českého",
+        "hongkongského",
+        "srbského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zach Braff",
+      "values": [
+        "amerického",
+        "rakouského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Clark Gregg",
+      "values": [
+        "srbského",
+        "hongkongského",
+        "ukrajinského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

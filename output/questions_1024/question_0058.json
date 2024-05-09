@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] křesťana?",
+  "questions": [
+    {
+      "key": "Stanislav Gross",
+      "values": [
+        "rakouského",
+        "amerického",
+        "českého",
+        "skotského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kim Kardashianová",
+      "values": [
+        "maďarského",
+        "německého",
+        "amerického",
+        "skotského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Otto von Habsburg",
+      "values": [
+        "norského",
+        "indického",
+        "německého",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "René Descartes",
+      "values": [
+        "německého",
+        "francouzského",
+        "skotského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Theodore Roosevelt",
+      "values": [
+        "norského",
+        "amerického",
+        "německého",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Čankajšek",
+      "values": [
+        "čínského",
+        "českého",
+        "dánského",
+        "skotského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Giordano Bruno",
+      "values": [
+        "norského",
+        "dánského",
+        "italského",
+        "anglického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nick Jonas",
+      "values": [
+        "německého",
+        "indického",
+        "skotského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Svatý Florián",
+      "values": [
+        "švýcarského",
+        "německého",
+        "rakouského",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hugenoti",
+      "values": [
+        "francouzského",
+        "anglického",
+        "australského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

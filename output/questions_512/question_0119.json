@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Rudolf Hrušínský",
+      "values": [
+        "českého",
+        "španělského",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavel Liška",
+      "values": [
+        "jihoafrického",
+        "čínského",
+        "indického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Milan Lasica",
+      "values": [
+        "čínského",
+        "venezuelského",
+        "slovenského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Kachyňa",
+      "values": [
+        "guatemalského",
+        "českého",
+        "rakouského",
+        "čínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Langmiler",
+      "values": [
+        "amerického",
+        "indického",
+        "českého",
+        "čínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Klaus Kinski",
+      "values": [
+        "indického",
+        "kanadského",
+        "německého",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Theo James",
+      "values": [
+        "indického",
+        "sovětského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Casey Affleck",
+      "values": [
+        "irského",
+        "australského",
+        "marockého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Batěk",
+      "values": [
+        "ruského",
+        "francouzského",
+        "českého",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ralf Wolter",
+      "values": [
+        "irského",
+        "dánského",
+        "německého",
+        "indického"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

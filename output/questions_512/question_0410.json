@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle archeologické lokality",
+  "questions": [
+    {
+      "key": "Pompeje",
+      "values": [
+        "Itálie",
+        "Litva",
+        "Rakousko",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Babylón",
+      "values": [
+        "Litva",
+        "Kambodža",
+        "Irák",
+        "Chorvatsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sevilla",
+      "values": [
+        "Španělsko",
+        "Francie",
+        "Slovensko",
+        "Pákistán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gízská nekropole",
+      "values": [
+        "Slovensko",
+        "Řecko",
+        "Egypt",
+        "Španělsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Altamira",
+      "values": [
+        "Rakousko",
+        "Španělsko",
+        "Francie",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lascaux",
+      "values": [
+        "Španělsko",
+        "Pero",
+        "Francie",
+        "Izrael"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ninive",
+      "values": [
+        "Izrael",
+        "Irák",
+        "Itálie",
+        "Tunisko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aréna v Pule",
+      "values": [
+        "Kambodža",
+        "Egypt",
+        "Izrael",
+        "Chorvatsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Attika",
+      "values": [
+        "Pero",
+        "Řecko",
+        "Tunisko",
+        "Egypt"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pantelleria",
+      "values": [
+        "Turecko",
+        "Slovensko",
+        "Egypt",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

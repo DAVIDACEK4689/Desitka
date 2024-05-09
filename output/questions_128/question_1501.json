@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte sport podle československého sportovce",
+  "questions": [
+    {
+      "key": "František Cipro",
+      "values": [
+        "fotbalista",
+        "basketbalista",
+        "automobilový závodník",
+        "pozemní hokejista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Bříza",
+      "values": [
+        "volejbalista",
+        "akrobatický letec",
+        "lední hokejista",
+        "basketbalista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Richard Dostálek",
+      "values": [
+        "biatlonista",
+        "fotbalista",
+        "automobilový závodník",
+        "cyklista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miroslav Fryčer",
+      "values": [
+        "akrobatický letec",
+        "lední hokejista",
+        "cyklista",
+        "šachista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cyril Suk",
+      "values": [
+        "plavec",
+        "lední hokejista",
+        "horolezec",
+        "tenista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lubomír Kaválek",
+      "values": [
+        "šachista",
+        "automobilový závodník",
+        "kanoista",
+        "horolezec"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bohumil Turek",
+      "values": [
+        "kanoista",
+        "automobilový závodník",
+        "biatlonista",
+        "sportovní střelec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miloš Adamec",
+      "values": [
+        "boxer",
+        "fotbalista",
+        "zápasník",
+        "šachista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stanislav Šilhán",
+      "values": [
+        "pozemní hokejista",
+        "horolezec",
+        "automobilový závodník",
+        "veslař"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oto Haščák",
+      "values": [
+        "pozemní hokejista",
+        "boxer",
+        "lední hokejista",
+        "automobilový závodník"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

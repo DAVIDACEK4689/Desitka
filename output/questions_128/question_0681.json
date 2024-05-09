@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle historického území",
+  "questions": [
+    {
+      "key": "Franky",
+      "values": [
+        "Řecko",
+        "Německo",
+        "Írán",
+        "Lotyšsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kladské hrabství",
+      "values": [
+        "Slovinsko",
+        "Írán",
+        "Česko",
+        "Rakousko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Savojsko",
+      "values": [
+        "Írán",
+        "Slovensko",
+        "Francie",
+        "Slovinsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Krumlovské vévodství",
+      "values": [
+        "Polsko",
+        "Lotyšsko",
+        "Švédsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Český koutek",
+      "values": [
+        "Švédsko",
+        "Írán",
+        "Ukrajina",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vestfálsko",
+      "values": [
+        "Rumunsko",
+        "Německo",
+        "Španělsko",
+        "Švédsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Natal",
+      "values": [
+        "Rusko",
+        "Řecko",
+        "Německo",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kosovo pole",
+      "values": [
+        "Jihoafrická republika",
+        "Srbsko",
+        "Švédsko",
+        "Lotyšsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Leónské království",
+      "values": [
+        "Itálie",
+        "Španělsko",
+        "Srbsko",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chorásán",
+      "values": [
+        "Slovinsko",
+        "Chorvatsko",
+        "Francie",
+        "Írán"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

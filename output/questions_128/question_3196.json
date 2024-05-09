@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] právníka?",
+  "questions": [
+    {
+      "key": "Bill Clinton",
+      "values": [
+        "lotyšského",
+        "českého",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Kosatík",
+      "values": [
+        "peruánského",
+        "ruského",
+        "českého",
+        "argentinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roland Freisler",
+      "values": [
+        "amerického",
+        "ukrajinského",
+        "německého",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zdeněk Kessler",
+      "values": [
+        "českého",
+        "rakouského",
+        "švýcarského",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bohumil Baxa",
+      "values": [
+        "českého",
+        "peruánského",
+        "švýcarského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Kozánek",
+      "values": [
+        "rakouského",
+        "ruského",
+        "estonského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Juho Kusti Paasikivi",
+      "values": [
+        "finského",
+        "amerického",
+        "švýcarského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eric Holder",
+      "values": [
+        "polského",
+        "amerického",
+        "britského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Otto Georg Thierack",
+      "values": [
+        "polského",
+        "chorvatského",
+        "rakouského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Emil Constantinescu",
+      "values": [
+        "rumunského",
+        "slovenského",
+        "argentinského",
+        "lotyšského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

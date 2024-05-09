@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Petr Kellner",
+      "values": [
+        "britského",
+        "českého",
+        "švýcarského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zdeněk Bakala",
+      "values": [
+        "rakouského",
+        "řeckého",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Baťa mladší",
+      "values": [
+        "ruského",
+        "španělského",
+        "švédského",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Levi Strauss",
+      "values": [
+        "nizozemského",
+        "amerického",
+        "řeckého",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Larry Flynt",
+      "values": [
+        "německého",
+        "italského",
+        "amerického",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andrew Carnegie",
+      "values": [
+        "amerického",
+        "rakouského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jozef Tkáč",
+      "values": [
+        "slovenského",
+        "polského",
+        "libanonského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rudolf Dassler",
+      "values": [
+        "nizozemského",
+        "německého",
+        "českého",
+        "libanonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Louis Blériot",
+      "values": [
+        "brazilského",
+        "francouzského",
+        "řeckého",
+        "jihoafrického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Florentino Pérez",
+      "values": [
+        "španělského",
+        "indického",
+        "polského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

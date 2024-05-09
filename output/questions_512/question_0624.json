@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] právníka?",
+  "questions": [
+    {
+      "key": "Karel Jaromír Erben",
+      "values": [
+        "maďarského",
+        "českého",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Kramář",
+      "values": [
+        "ukrajinského",
+        "maďarského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michelle Obamová",
+      "values": [
+        "ruského",
+        "amerického",
+        "polského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ondřej Dostál",
+      "values": [
+        "řeckého",
+        "českého",
+        "slovenského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aleksandar Vučić",
+      "values": [
+        "estonského",
+        "ukrajinského",
+        "německého",
+        "srbského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Beau Biden",
+      "values": [
+        "slovenského",
+        "amerického",
+        "rakouského",
+        "estonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Edward Kennedy",
+      "values": [
+        "ruského",
+        "amerického",
+        "francouzského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oleksij Reznikov",
+      "values": [
+        "amerického",
+        "rakouského",
+        "polského",
+        "ukrajinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lajos Kossuth",
+      "values": [
+        "ruského",
+        "rakouského",
+        "polského",
+        "maďarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Katerina Sakellaropulosová",
+      "values": [
+        "rakouského",
+        "ruského",
+        "řeckého",
+        "českého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

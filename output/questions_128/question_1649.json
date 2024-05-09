@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle organizace",
+  "questions": [
+    {
+      "key": "Společenství nezávislých států",
+      "values": [
+        "Bělorusko",
+        "Uganda",
+        "Jugoslávie",
+        "Belgie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Panevropská unie",
+      "values": [
+        "Česko",
+        "Francie",
+        "Bělorusko",
+        "Izrael"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Scotland Yard",
+      "values": [
+        "Spojené království",
+        "Bělorusko",
+        "Švédsko",
+        "Norsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "TÜV",
+      "values": [
+        "Itálie",
+        "Dánsko",
+        "Německo",
+        "Bělorusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vrchní velitelství spojeneckých sil v Evropě",
+      "values": [
+        "Nizozemsko",
+        "Itálie",
+        "Belgie",
+        "Japonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mezinárodní cyklistická unie",
+      "values": [
+        "Dánsko",
+        "Spojené království",
+        "Francie",
+        "Švýcarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mezinárodní síť pro eliminaci znečištění",
+      "values": [
+        "Itálie",
+        "Švédsko",
+        "Uganda",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Židovský národní fond",
+      "values": [
+        "Izrael",
+        "Česko",
+        "Polsko",
+        "Bělorusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Iconic Houses",
+      "values": [
+        "Itálie",
+        "Nizozemsko",
+        "Norsko",
+        "Uganda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Combat 18",
+      "values": [
+        "Bělorusko",
+        "Švýcarsko",
+        "Spojené království",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

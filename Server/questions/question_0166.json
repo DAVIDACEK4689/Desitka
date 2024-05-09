@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "Karel Schwarzenberg",
+      "values": [
+        "britského",
+        "kanadského",
+        "českého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Emil Hácha",
+      "values": [
+        "českého",
+        "švýcarského",
+        "francouzského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miroslav Kalousek",
+      "values": [
+        "švýcarského",
+        "českého",
+        "portugalského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Strach",
+      "values": [
+        "německého",
+        "britského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Silvio Berlusconi",
+      "values": [
+        "amerického",
+        "francouzského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Caravaggio",
+      "values": [
+        "britského",
+        "italského",
+        "kanadského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vasco da Gama",
+      "values": [
+        "portugalského",
+        "italského",
+        "kanadského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Helena Bavorská",
+      "values": [
+        "portugalského",
+        "britského",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Shia LaBeouf",
+      "values": [
+        "českého",
+        "amerického",
+        "italského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Caroline Kennedyová",
+      "values": [
+        "italského",
+        "kanadského",
+        "francouzského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

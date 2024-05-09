@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "William Shakespeare",
+      "values": [
+        "portugalského",
+        "anglického",
+        "německého",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Otokar Březina",
+      "values": [
+        "českého",
+        "maďarského",
+        "rumunského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Leonard Cohen",
+      "values": [
+        "indického",
+        "kanadského",
+        "rakouského",
+        "vietnamského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tobiáš Jirous",
+      "values": [
+        "španělského",
+        "českého",
+        "řeckého",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Šrí Činmoj",
+      "values": [
+        "italského",
+        "vietnamského",
+        "indického",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Boris Vian",
+      "values": [
+        "francouzského",
+        "anglického",
+        "německého",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Fendrych",
+      "values": [
+        "českého",
+        "norského",
+        "chilského",
+        "indického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lubor Kasal",
+      "values": [
+        "vietnamského",
+        "polského",
+        "belgického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stanislav Komárek",
+      "values": [
+        "českého",
+        "maďarského",
+        "německého",
+        "indického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paul Éluard",
+      "values": [
+        "francouzského",
+        "polského",
+        "anglického",
+        "indického"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

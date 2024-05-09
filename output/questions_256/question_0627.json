@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [žánr] film?",
+  "questions": [
+    {
+      "key": "Mrazík",
+      "values": [
+        "hudební",
+        "dokumentární",
+        "špionážní",
+        "pohádkový"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Red 2",
+      "values": [
+        "špionážní",
+        "fantastický",
+        "dokumentární",
+        "pohádkový"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jak vycvičit draka",
+      "values": [
+        "hudební",
+        "dokumentární",
+        "dětský",
+        "špionážní"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Polární expres",
+      "values": [
+        "špionážní",
+        "fantastický",
+        "dětský",
+        "pohádkový"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Agent bez minulosti",
+      "values": [
+        "dokumentární",
+        "pohádkový",
+        "dětský",
+        "špionážní"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zpívej",
+      "values": [
+        "dětský",
+        "pohádkový",
+        "hudební",
+        "špionážní"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tři přání pro Popelku",
+      "values": [
+        "hudební",
+        "fantastický",
+        "pohádkový",
+        "dokumentární"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fontána pro Zuzanu",
+      "values": [
+        "dětský",
+        "pohádkový",
+        "fantastický",
+        "hudební"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bourneův odkaz",
+      "values": [
+        "fantastický",
+        "dětský",
+        "špionážní",
+        "dokumentární"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bourneovo ultimátum",
+      "values": [
+        "fantastický",
+        "dokumentární",
+        "dětský",
+        "špionážní"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

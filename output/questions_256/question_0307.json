@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Bratislava",
+      "values": [
+        "Belgie",
+        "Laos",
+        "Nepál",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nesebar",
+      "values": [
+        "Zambie",
+        "Bulharsko",
+        "Řecko",
+        "Paraguay"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kremže",
+      "values": [
+        "Izrael",
+        "Rakousko",
+        "Afghánistán",
+        "Laos"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Utrecht",
+      "values": [
+        "Česko",
+        "Eritrea",
+        "Nizozemsko",
+        "Somálsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Omiš",
+      "values": [
+        "Chorvatsko",
+        "Kazachstán",
+        "Slovinsko",
+        "Ukrajina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Turku",
+      "values": [
+        "Honduras",
+        "Finsko",
+        "Bangladéš",
+        "Estonsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cetinje",
+      "values": [
+        "Izrael",
+        "Švédsko",
+        "Černá Hora",
+        "Niger"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tokaj",
+      "values": [
+        "Thajsko",
+        "Mosambik",
+        "Kolumbie",
+        "Maďarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vitebsk",
+      "values": [
+        "Uzbekistán",
+        "Libanon",
+        "Bělorusko",
+        "Slovensko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mali Lošinj",
+      "values": [
+        "Chorvatsko",
+        "Namibie",
+        "Vietnam",
+        "Kapverdy"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

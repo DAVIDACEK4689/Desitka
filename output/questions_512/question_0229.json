@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte moře podle přístavního města",
+  "questions": [
+    {
+      "key": "Kaliningrad",
+      "values": [
+        "Baltské moře",
+        "Bílé moře",
+        "Karibské moře",
+        "Marmarské moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Riga",
+      "values": [
+        "Severní moře",
+        "Baltské moře",
+        "Marmarské moře",
+        "Irské moře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Liverpool",
+      "values": [
+        "Baltské moře",
+        "Irské moře",
+        "Karibské moře",
+        "Severní moře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Haag",
+      "values": [
+        "Severní moře",
+        "Azovské moře",
+        "Rudé moře",
+        "Bílé moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Göteborg",
+      "values": [
+        "Bílé moře",
+        "Marmarské moře",
+        "Severní moře",
+        "Karibské moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Taba",
+      "values": [
+        "Černé moře",
+        "Rudé moře",
+        "Bílé moře",
+        "Baltské moře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Svinoústí",
+      "values": [
+        "Azovské moře",
+        "Baltské moře",
+        "Marmarské moře",
+        "Karibské moře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lübeck",
+      "values": [
+        "Irské moře",
+        "Marmarské moře",
+        "Baltské moře",
+        "Černé moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Klaipėda",
+      "values": [
+        "Irské moře",
+        "Rudé moře",
+        "Marmarské moře",
+        "Baltské moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jalta",
+      "values": [
+        "Bílé moře",
+        "Černé moře",
+        "Irské moře",
+        "Marmarské moře"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

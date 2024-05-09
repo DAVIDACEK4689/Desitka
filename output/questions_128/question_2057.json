@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistku?",
+  "questions": [
+    {
+      "key": "Jelena Rybakinová",
+      "values": [
+        "tuniskou",
+        "ruskou",
+        "britskou",
+        "lotyšskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Caroline Wozniacká",
+      "values": [
+        "dánskou",
+        "egyptskou",
+        "kanadskou",
+        "rakouskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Regina Kordová",
+      "values": [
+        "polskou",
+        "americkou",
+        "československou",
+        "čínskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nikola Bartůňková",
+      "values": [
+        "českou",
+        "maďarskou",
+        "řeckou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Anastasija Potapovová",
+      "values": [
+        "brazilskou",
+        "ruskou",
+        "švýcarskou",
+        "černohorskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Justine Heninová",
+      "values": [
+        "slovenskou",
+        "rakouskou",
+        "řeckou",
+        "belgickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Andrea Jaegerová",
+      "values": [
+        "belgickou",
+        "americkou",
+        "slovenskou",
+        "zimbabwskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Amanda Anisimovová",
+      "values": [
+        "americkou",
+        "švýcarskou",
+        "černohorskou",
+        "indickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Evonne Goolagongová",
+      "values": [
+        "australskou",
+        "československou",
+        "egyptskou",
+        "řeckou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michaëlla Krajiceková",
+      "values": [
+        "německou",
+        "španělskou",
+        "brazilskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

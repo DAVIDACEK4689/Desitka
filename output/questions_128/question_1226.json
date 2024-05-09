@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vraha?",
+  "questions": [
+    {
+      "key": "Anders Behring Breivik",
+      "values": [
+        "německého",
+        "norského",
+        "australského",
+        "izraelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bonnie a Clyde",
+      "values": [
+        "tureckého",
+        "amerického",
+        "japonského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Varg Vikernes",
+      "values": [
+        "amerického",
+        "ruského",
+        "norského",
+        "egyptského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Peca",
+      "values": [
+        "amerického",
+        "českého",
+        "německého",
+        "saúdskoarabského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marie Fikáčková",
+      "values": [
+        "amerického",
+        "britského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Kulík",
+      "values": [
+        "izraelského",
+        "německého",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "František Saidl",
+      "values": [
+        "slovenského",
+        "ruského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Felix Felixovič Jusupov",
+      "values": [
+        "amerického",
+        "japonského",
+        "ruského",
+        "saúdskoarabského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marc Dutroux",
+      "values": [
+        "tureckého",
+        "australského",
+        "belgického",
+        "egyptského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "John Hinckley",
+      "values": [
+        "ruského",
+        "francouzského",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte obor podle průkopníka",
+  "questions": [
+    {
+      "key": "Eliška Junková",
+      "values": [
+        "sport",
+        "automobilismus",
+        "kinematografie",
+        "letectví"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jawed Karim",
+      "values": [
+        "železnice",
+        "počítač",
+        "sport",
+        "internet"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chad Hurley",
+      "values": [
+        "kinematografie",
+        "automobilismus",
+        "sport",
+        "internet"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "George Stephenson",
+      "values": [
+        "automobilismus",
+        "počítač",
+        "železnice",
+        "letectví"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Isambard Kingdom Brunel",
+      "values": [
+        "internet",
+        "automobilismus",
+        "železnice",
+        "letectví"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Nálepa",
+      "values": [
+        "letectví",
+        "sport",
+        "počítač",
+        "železnice"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vannevar Bush",
+      "values": [
+        "internet",
+        "letectví",
+        "kinematografie",
+        "automobilismus"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Joseph Marie Jacquard",
+      "values": [
+        "automobilismus",
+        "počítač",
+        "kinematografie",
+        "železnice"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joseph Kittinger",
+      "values": [
+        "počítač",
+        "železnice",
+        "letectví",
+        "internet"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andrew Grove",
+      "values": [
+        "internet",
+        "počítač",
+        "letectví",
+        "automobilismus"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

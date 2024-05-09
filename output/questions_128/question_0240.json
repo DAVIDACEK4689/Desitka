@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle gotické stavby",
+  "questions": [
+    {
+      "key": "Spišský hrad",
+      "values": [
+        "Portugalsko",
+        "Česko",
+        "Slovensko",
+        "Švédsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oravský hrad",
+      "values": [
+        "Itálie",
+        "Česko",
+        "Slovensko",
+        "Portugalsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Trenčínský hrad",
+      "values": [
+        "Česko",
+        "Švédsko",
+        "Slovensko",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vlašský dvůr",
+      "values": [
+        "Slovensko",
+        "Česko",
+        "Polsko",
+        "Německo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Castel del Monte",
+      "values": [
+        "Německo",
+        "Itálie",
+        "Portugalsko",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Klášter jeronymitů",
+      "values": [
+        "Švédsko",
+        "Slovensko",
+        "Portugalsko",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marksburg",
+      "values": [
+        "Slovensko",
+        "Itálie",
+        "Švédsko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Krásna Hôrka",
+      "values": [
+        "Slovensko",
+        "Německo",
+        "Švédsko",
+        "Portugalsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Prostředkovický špýchar",
+      "values": [
+        "Rakousko",
+        "Česko",
+        "Polsko",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Štola Myší díra",
+      "values": [
+        "Portugalsko",
+        "Slovensko",
+        "Rakousko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

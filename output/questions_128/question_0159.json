@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle provincie",
+  "questions": [
+    {
+      "key": "Buenos Aires",
+      "values": [
+        "Finsko",
+        "Argentina",
+        "Arménie",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Asturie",
+      "values": [
+        "Indonésie",
+        "Španělsko",
+        "Írán",
+        "Arménie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Balúčistán",
+      "values": [
+        "Dominikánská republika",
+        "Pákistán",
+        "Arménie",
+        "Irsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Severní Holandsko",
+      "values": [
+        "Prusko",
+        "Nizozemsko",
+        "Argentina",
+        "Thajsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Severní Brabantsko",
+      "values": [
+        "Nizozemsko",
+        "Argentina",
+        "Jižní Korea",
+        "Indonésie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pandžšír",
+      "values": [
+        "Arménie",
+        "Írán",
+        "Afghánistán",
+        "Pákistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Qom",
+      "values": [
+        "Argentina",
+        "Jižní Korea",
+        "Írán",
+        "Indonésie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Západní Kapsko",
+      "values": [
+        "Nizozemsko",
+        "Jihoafrická republika",
+        "Jižní Korea",
+        "Vietnam"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fárs",
+      "values": [
+        "Írán",
+        "Thajsko",
+        "Prusko",
+        "Afghánistán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Overijssel",
+      "values": [
+        "Pákistán",
+        "Írán",
+        "Nizozemsko",
+        "Arménie"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

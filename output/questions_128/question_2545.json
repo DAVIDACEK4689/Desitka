@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Tomáš Petrášek",
+      "values": [
+        "chilského",
+        "českého",
+        "mexického",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ondřej Čelůstka",
+      "values": [
+        "finského",
+        "českého",
+        "švýcarského",
+        "alžírského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Edgar Davids",
+      "values": [
+        "portugalského",
+        "nizozemského",
+        "nigerijského",
+        "anglického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mychajlo Mudryk",
+      "values": [
+        "ukrajinského",
+        "francouzského",
+        "rakouského",
+        "kostarického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Arturo Vidal",
+      "values": [
+        "australského",
+        "italského",
+        "peruánského",
+        "chilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "André Schürrle",
+      "values": [
+        "německého",
+        "tureckého",
+        "tožského",
+        "severoirského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Joaquín Sánchez Rodríguez",
+      "values": [
+        "albánského",
+        "španělského",
+        "československého",
+        "černohorského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Daniel Zítka",
+      "values": [
+        "sovětského",
+        "polského",
+        "českého",
+        "kostarického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robert Vágner",
+      "values": [
+        "československého",
+        "slovenského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Walter Casagrande",
+      "values": [
+        "švédského",
+        "norského",
+        "amerického",
+        "brazilského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte oblast podle ptáka",
+  "questions": [
+    {
+      "key": "Kachna divoká",
+      "values": [
+        "Střední Amerika",
+        "Severní Amerika",
+        "Orientální oblast",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kachna domácí",
+      "values": [
+        "Tichý oceán",
+        "Severní Amerika",
+        "Střední Amerika",
+        "Antarktida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tučňák Humboldtův",
+      "values": [
+        "Jižní Amerika",
+        "Indický oceán",
+        "Jižní oceán",
+        "celosvětové rozšíření"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ara kaninda",
+      "values": [
+        "Afrika",
+        "Jižní Amerika",
+        "Severní Amerika",
+        "Střední Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bažant zlatý",
+      "values": [
+        "celosvětové rozšíření",
+        "Jižní oceán",
+        "Orientální oblast",
+        "Atlantský oceán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Orel jestřábí",
+      "values": [
+        "celosvětové rozšíření",
+        "Orientální oblast",
+        "Jižní Amerika",
+        "Atlantský oceán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Moho hnědý",
+      "values": [
+        "Severní Amerika",
+        "Indický oceán",
+        "Tichý oceán",
+        "Antarktida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pštros somálský",
+      "values": [
+        "Afrika",
+        "Antarktida",
+        "Jižní Amerika",
+        "Indický oceán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Buřňák Cookův",
+      "values": [
+        "Střední Amerika",
+        "Antarktida",
+        "Jižní Amerika",
+        "Tichý oceán"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ara marakána",
+      "values": [
+        "Jižní oceán",
+        "Jižní Amerika",
+        "Střední Amerika",
+        "celosvětové rozšíření"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Zinédine Zidane",
+      "values": [
+        "slovenského",
+        "řeckého",
+        "mongolského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Casemiro",
+      "values": [
+        "ghanského",
+        "brazilského",
+        "srbského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lothar Matthäus",
+      "values": [
+        "venezuelského",
+        "francouzského",
+        "německého",
+        "chorvatského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robinho",
+      "values": [
+        "brazilského",
+        "slovinského",
+        "dánského",
+        "marockého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Javier Zanetti",
+      "values": [
+        "kolumbijského",
+        "paraguayského",
+        "argentinského",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Giuseppe Meazza",
+      "values": [
+        "švédského",
+        "italského",
+        "mongolského",
+        "islandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rafael van der Vaart",
+      "values": [
+        "peruánského",
+        "dánského",
+        "belgického",
+        "nizozemského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tommy Lawrence",
+      "values": [
+        "lucemburského",
+        "skotského",
+        "mongolského",
+        "marockého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jean Tigana",
+      "values": [
+        "italského",
+        "švédského",
+        "belgického",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fábio Coentrão",
+      "values": [
+        "portugalského",
+        "belgického",
+        "kostarického",
+        "peruánského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

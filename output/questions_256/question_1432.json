@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle státního symbolu",
+  "questions": [
+    {
+      "key": "Varan komodský",
+      "values": [
+        "Česká republika",
+        "Indonésie",
+        "Estonsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lípa malolistá",
+      "values": [
+        "Izrael",
+        "Japonsko",
+        "Česká republika",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dudek chocholatý",
+      "values": [
+        "Izrael",
+        "Japonsko",
+        "Nový Zéland",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Řád čestné legie",
+      "values": [
+        "Estonsko",
+        "Německo",
+        "Francie",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pravda vítězí",
+      "values": [
+        "Česká republika",
+        "Spojené království",
+        "Izrael",
+        "Švýcarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Italská vlajka",
+      "values": [
+        "Spojené království",
+        "Jižní Korea",
+        "Itálie",
+        "Česká republika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hymna Spojeného království",
+      "values": [
+        "Francie",
+        "Švýcarsko",
+        "Nový Zéland",
+        "Maďarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ibišek syrský",
+      "values": [
+        "Maďarsko",
+        "Indie",
+        "Itálie",
+        "Jižní Korea"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Italská hymna",
+      "values": [
+        "Spojené království",
+        "Itálie",
+        "Německo",
+        "Izrael"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Turul",
+      "values": [
+        "Maďarsko",
+        "Německo",
+        "Indie",
+        "Spojené království"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

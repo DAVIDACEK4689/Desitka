@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Paul Verlaine",
+      "values": [
+        "španělského",
+        "skotského",
+        "britského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bertolt Brecht",
+      "values": [
+        "polského",
+        "anglického",
+        "německého",
+        "vietnamského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Václav Koubek",
+      "values": [
+        "českého",
+        "ruského",
+        "amerického",
+        "palestinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kingsley Amis",
+      "values": [
+        "albánského",
+        "maďarského",
+        "sovětského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Koblasa",
+      "values": [
+        "srbského",
+        "českého",
+        "italského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ľubomír Feldek",
+      "values": [
+        "perského",
+        "slovenského",
+        "irského",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Shel Silverstein",
+      "values": [
+        "švédského",
+        "německého",
+        "kubánského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Luís de Camões",
+      "values": [
+        "belgického",
+        "indického",
+        "srbského",
+        "portugalského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Émile Verhaeren",
+      "values": [
+        "gruzínského",
+        "slovinského",
+        "norského",
+        "belgického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimír Burda",
+      "values": [
+        "českého",
+        "albánského",
+        "britského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

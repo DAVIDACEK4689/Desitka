@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Ondřej Gregor Brzobohatý",
+      "values": [
+        "venezuelského",
+        "českého",
+        "guatemalského",
+        "novozélandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Felix Holzmann",
+      "values": [
+        "belgického",
+        "novozélandského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jozef Kroner",
+      "values": [
+        "brazilského",
+        "slovenského",
+        "jihokorejského",
+        "portorického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Václav Upír Krejčí",
+      "values": [
+        "českého",
+        "novozélandského",
+        "švédského",
+        "jihoafrického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David Duchovny",
+      "values": [
+        "amerického",
+        "nizozemského",
+        "švýcarského",
+        "jihoafrického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Matthew Broderick",
+      "values": [
+        "australského",
+        "amerického",
+        "nizozemského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jason Priestley",
+      "values": [
+        "německého",
+        "norského",
+        "kanadského",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marián Geišberg",
+      "values": [
+        "slovenského",
+        "marockého",
+        "italského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Matthias Schweighöfer",
+      "values": [
+        "amerického",
+        "venezuelského",
+        "ukrajinského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jim Belushi",
+      "values": [
+        "polského",
+        "jihoafrického",
+        "maďarského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

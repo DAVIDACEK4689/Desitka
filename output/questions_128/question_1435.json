@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "Marek Eben",
+      "values": [
+        "českého",
+        "amerického",
+        "maďarského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fernão de Magalhães",
+      "values": [
+        "švýcarského",
+        "portugalského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Giorgia Meloniová",
+      "values": [
+        "francouzského",
+        "maďarského",
+        "italského",
+        "litevského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Pekař",
+      "values": [
+        "litevského",
+        "amerického",
+        "českého",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zuzana Roithová",
+      "values": [
+        "monackého",
+        "maďarského",
+        "českého",
+        "litevského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ludmila Javorová",
+      "values": [
+        "českého",
+        "maďarského",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nina Nováková",
+      "values": [
+        "kanadského",
+        "německého",
+        "českého",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marie Svatošová",
+      "values": [
+        "maďarského",
+        "britského",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ilona Rakouská",
+      "values": [
+        "švýcarského",
+        "maďarského",
+        "britského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Francesco Cossiga",
+      "values": [
+        "českého",
+        "litevského",
+        "švýcarského",
+        "italského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Praha",
+      "values": [
+        "Hornád",
+        "Rýn",
+        "Vltava",
+        "Otava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Řím",
+      "values": [
+        "Ploučnice",
+        "Úhlava",
+        "Lužická Nisa",
+        "Tibera"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cheb",
+      "values": [
+        "Ohře",
+        "Radbuza",
+        "Sázava",
+        "Otava"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Valašské Meziříčí",
+      "values": [
+        "Bečva",
+        "Tis",
+        "Úhlava",
+        "Hornád"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Štrasburk",
+      "values": [
+        "Eufrat",
+        "Rýn",
+        "Otava",
+        "Spréva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Basilej",
+      "values": [
+        "Rýn",
+        "Loira",
+        "Bečva",
+        "Metuje"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Budyšín",
+      "values": [
+        "Rýn",
+        "Vltava",
+        "Spréva",
+        "Něva"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mohuč",
+      "values": [
+        "Svratka",
+        "Rýn",
+        "Hornád",
+        "Cidlina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vyšší Brod",
+      "values": [
+        "Cidlina",
+        "Sázava",
+        "Dunaj",
+        "Vltava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Týn nad Vltavou",
+      "values": [
+        "Labe",
+        "Mandava",
+        "Loira",
+        "Lužnice"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

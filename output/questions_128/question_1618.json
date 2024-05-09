@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle amerického sportovce",
+  "questions": [
+    {
+      "key": "Bobby Fischer",
+      "values": [
+        "boxer",
+        "šachista",
+        "horolezec",
+        "automobilový závodník"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Wilt Chamberlain",
+      "values": [
+        "basketbalista",
+        "surfař",
+        "baseballisté",
+        "horolezec"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ben Shelton",
+      "values": [
+        "horolezec",
+        "tenista",
+        "bobista",
+        "basketbalista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jack Hughes",
+      "values": [
+        "horolezec",
+        "lední hokejista",
+        "golfista",
+        "cyklista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lou Gehrig",
+      "values": [
+        "baseballisté",
+        "taekwondisté",
+        "golfista",
+        "bobista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Frederick Cook",
+      "values": [
+        "tenista",
+        "horolezec",
+        "lední hokejista",
+        "taekwondisté"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jake LaMotta",
+      "values": [
+        "basketbalista",
+        "boxer",
+        "šachista",
+        "surfař"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "John Muir",
+      "values": [
+        "lední hokejista",
+        "horolezec",
+        "zápasník",
+        "boxer"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marcos Giron",
+      "values": [
+        "tenista",
+        "automobilový závodník",
+        "baseballisté",
+        "golfista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexa Bliss",
+      "values": [
+        "horolezec",
+        "zápasník",
+        "basketbalista",
+        "parašutista"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

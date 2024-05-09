@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] tank?",
+  "questions": [
+    {
+      "key": "Panzerkampfwagen VI Tiger",
+      "values": [
+        "švédský",
+        "sovětský",
+        "německý",
+        "turecký"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Panzerkampfwagen IV",
+      "values": [
+        "izraelský",
+        "britský",
+        "švédský",
+        "německý"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Panzerkampfwagen III",
+      "values": [
+        "polský",
+        "maďarský",
+        "německý",
+        "sovětský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Panzerkampfwagen E",
+      "values": [
+        "německý",
+        "izraelský",
+        "turecký",
+        "italský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "M3 Lee",
+      "values": [
+        "izraelský",
+        "německý",
+        "francouzský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "TOG2",
+      "values": [
+        "švédský",
+        "britský",
+        "izraelský",
+        "čínský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Panzerkampfwagen VII Löwe",
+      "values": [
+        "německý",
+        "turecký",
+        "jihokorejský",
+        "sovětský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "7TP",
+      "values": [
+        "maďarský",
+        "švédský",
+        "čínský",
+        "polský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mk VIII Challenger",
+      "values": [
+        "britský",
+        "izraelský",
+        "sovětský",
+        "americký"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "BPz 3 Büffel",
+      "values": [
+        "americký",
+        "turecký",
+        "německý",
+        "izraelský"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

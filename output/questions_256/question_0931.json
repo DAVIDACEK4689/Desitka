@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Barcelona",
+      "values": [
+        "Uruguay",
+        "Slovinsko",
+        "Španělsko",
+        "Malta"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Syrakusy",
+      "values": [
+        "Itálie",
+        "Bulharsko",
+        "Jihoafrická republika",
+        "Řecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Baku",
+      "values": [
+        "Estonsko",
+        "Švýcarsko",
+        "Švédsko",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Varna",
+      "values": [
+        "Bulharsko",
+        "Libanon",
+        "Gruzie",
+        "Řecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kotor",
+      "values": [
+        "Černá Hora",
+        "Bulharsko",
+        "Jordánsko",
+        "Irsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chania",
+      "values": [
+        "Kypr",
+        "Jihoafrická republika",
+        "Angola",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Budva",
+      "values": [
+        "Jordánsko",
+        "Tanzanie",
+        "Černá Hora",
+        "Angola"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kronštadt",
+      "values": [
+        "Angola",
+        "Rusko",
+        "Uruguay",
+        "Jamajka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Izola",
+      "values": [
+        "Malta",
+        "Ekvádor",
+        "Slovinsko",
+        "Alžírsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sidón",
+      "values": [
+        "Saúdská Arábie",
+        "Libanon",
+        "Egypt",
+        "Ukrajina"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

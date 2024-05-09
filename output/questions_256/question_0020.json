@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle vlády",
+  "questions": [
+    {
+      "key": "Vláda Petra Nečase",
+      "values": [
+        "Německo",
+        "Slovenská republika",
+        "Česká republika",
+        "Spojené království"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Druhá vláda Mirka Topolánka",
+      "values": [
+        "Československo",
+        "Spojené království",
+        "Česká republika",
+        "Slovenská republika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vláda Miloše Zemana",
+      "values": [
+        "Německo",
+        "Spojené království",
+        "Česká republika",
+        "Slovenská republika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "První vláda Klementa Gottwalda",
+      "values": [
+        "Spojené království",
+        "Československo",
+        "Slovenská republika",
+        "Německo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "První vláda Václava Klause",
+      "values": [
+        "Německo",
+        "Česká republika",
+        "Československo",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vláda Josefa Tošovského",
+      "values": [
+        "Německo",
+        "Česká republika",
+        "Slovenská republika",
+        "Československo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Třetí vláda Roberta Fica",
+      "values": [
+        "Slovenská republika",
+        "Německo",
+        "Česká republika",
+        "Československo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vláda Petera Pellegriniho",
+      "values": [
+        "Spojené království",
+        "Slovenská republika",
+        "Česká republika",
+        "Německo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vláda Adolfa Hitlera",
+      "values": [
+        "Slovenská republika",
+        "Německo",
+        "Spojené království",
+        "Československo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "První vláda Roberta Fica",
+      "values": [
+        "Československo",
+        "Česká republika",
+        "Slovenská republika",
+        "Německo"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

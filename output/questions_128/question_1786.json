@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] televizní pořad?",
+  "questions": [
+    {
+      "key": "Pohlreichův souboj restaurací",
+      "values": [
+        "britský",
+        "francouzský",
+        "český",
+        "slovenský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistři zastavárny",
+      "values": [
+        "francouzský",
+        "slovenský",
+        "americký",
+        "belgický"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hry bez hranic",
+      "values": [
+        "francouzský",
+        "kanadský",
+        "britský",
+        "belgický"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Držte krok s Kardashians",
+      "values": [
+        "americký",
+        "francouzský",
+        "německý",
+        "český"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mikýřova úžasná pouť internetem",
+      "values": [
+        "belgický",
+        "český",
+        "americký",
+        "slovenský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jackass",
+      "values": [
+        "francouzský",
+        "slovenský",
+        "americký",
+        "britský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hip Hap Hop",
+      "values": [
+        "český",
+        "britský",
+        "belgický",
+        "francouzský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Otázky Václava Moravce",
+      "values": [
+        "britský",
+        "slovenský",
+        "americký",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Naši nejlepší",
+      "values": [
+        "německý",
+        "kanadský",
+        "francouzský",
+        "český"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Válka skladů",
+      "values": [
+        "britský",
+        "kanadský",
+        "americký",
+        "slovenský"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

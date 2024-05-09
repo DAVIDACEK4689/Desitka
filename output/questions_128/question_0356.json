@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva o Berlín",
+      "values": [
+        "1648",
+        "1941",
+        "1945",
+        "1461"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Brunanburhu",
+      "values": [
+        "1969",
+        "1953",
+        "937",
+        "1940"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva o letiště Hostomel",
+      "values": [
+        "2022",
+        "1278",
+        "1437",
+        "1793"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva o Nizozemsko",
+      "values": [
+        "1940",
+        "1434",
+        "1813",
+        "1643"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva o Habartov",
+      "values": [
+        "1859",
+        "1938",
+        "1415",
+        "1461"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u San Felice",
+      "values": [
+        "1827",
+        "1865",
+        "1620",
+        "1332"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Mühldorfu",
+      "values": [
+        "1427",
+        "1976",
+        "1664",
+        "1322"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Desavy",
+      "values": [
+        "1792",
+        "907",
+        "1626",
+        "1253"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čtyřdenní bitva",
+      "values": [
+        "1214",
+        "1919",
+        "1687",
+        "1666"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Nýrska",
+      "values": [
+        "1437",
+        "1805",
+        "1758",
+        "1467"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

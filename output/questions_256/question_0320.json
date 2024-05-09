@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Tirana",
+      "values": [
+        "Albánie",
+        "Ázerbájdžán",
+        "Lotyšsko",
+        "Ukrajina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Larnaka",
+      "values": [
+        "Uganda",
+        "Kypr",
+        "Botswana",
+        "Eritrea"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Korint",
+      "values": [
+        "Řecko",
+        "Venezuela",
+        "Gruzie",
+        "Rumunsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Primorsko",
+      "values": [
+        "Thajsko",
+        "Bulharsko",
+        "Indonésie",
+        "Malta"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Coimbra",
+      "values": [
+        "Laos",
+        "Portugalsko",
+        "Argentina",
+        "Paraguay"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ouagadougou",
+      "values": [
+        "Nizozemsko",
+        "Kambodža",
+        "Burkina Faso",
+        "Turecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Locarno",
+      "values": [
+        "Maďarsko",
+        "Austrálie",
+        "Švýcarsko",
+        "Indie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oran",
+      "values": [
+        "Bolívie",
+        "Alžírsko",
+        "Sýrie",
+        "Indonésie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fribourg",
+      "values": [
+        "Jemen",
+        "Bulharsko",
+        "Madagaskar",
+        "Švýcarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Derna",
+      "values": [
+        "Libye",
+        "Uzbekistán",
+        "Norsko",
+        "Vietnam"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

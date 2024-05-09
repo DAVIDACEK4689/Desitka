@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] generála?",
+  "questions": [
+    {
+      "key": "Sergej Šojgu",
+      "values": [
+        "britského",
+        "ruského",
+        "izraelského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andrej Andrejevič Vlasov",
+      "values": [
+        "československého",
+        "ruského",
+        "chorvatského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Walter Model",
+      "values": [
+        "izraelského",
+        "německého",
+        "sovětského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gennadij Židko",
+      "values": [
+        "britského",
+        "slovenského",
+        "japonského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rudolf Viest",
+      "values": [
+        "československého",
+        "německého",
+        "izraelského",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "William Tecumseh Sherman",
+      "values": [
+        "finského",
+        "francouzského",
+        "amerického",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Leopold Bavorský",
+      "values": [
+        "bulharského",
+        "sovětského",
+        "německého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miroslav Kácha",
+      "values": [
+        "dánského",
+        "českého",
+        "britského",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dominique Joseph Vandamme",
+      "values": [
+        "italského",
+        "španělského",
+        "francouzského",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hugo Vojta",
+      "values": [
+        "francouzského",
+        "chorvatského",
+        "českého",
+        "československého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

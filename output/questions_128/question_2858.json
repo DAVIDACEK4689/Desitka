@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] revolucionáře?",
+  "questions": [
+    {
+      "key": "Adolf Hitler",
+      "values": [
+        "francouzského",
+        "německého",
+        "bulharského",
+        "čínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ho Či Min",
+      "values": [
+        "vietnamského",
+        "polského",
+        "kubánského",
+        "čínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gamál Násir",
+      "values": [
+        "egyptského",
+        "polského",
+        "kubánského",
+        "gruzínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Georgi Dimitrov",
+      "values": [
+        "kubánského",
+        "bulharského",
+        "čínského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jakov Jurovskij",
+      "values": [
+        "egyptského",
+        "vietnamského",
+        "ruského",
+        "argentinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Emiliano Zapata",
+      "values": [
+        "gruzínského",
+        "bulharského",
+        "mexického",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Võ Nguyên Giáp",
+      "values": [
+        "polského",
+        "francouzského",
+        "kubánského",
+        "vietnamského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Antoine Simon",
+      "values": [
+        "gruzínského",
+        "francouzského",
+        "kubánského",
+        "vietnamského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexandr Parvus",
+      "values": [
+        "čínského",
+        "ruského",
+        "egyptského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vladimir Alexandrovič Rusanov",
+      "values": [
+        "ruského",
+        "kubánského",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

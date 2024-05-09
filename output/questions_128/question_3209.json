@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Čistá duše",
+      "values": [
+        "Ron Howard",
+        "Gore Verbinski",
+        "John McTiernan",
+        "Mark Waters"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Terminátor Genisys",
+      "values": [
+        "Dean Parisot",
+        "Steven Spielberg",
+        "Alan Taylor",
+        "Robert Redford"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vodní svět",
+      "values": [
+        "Martin Scorsese",
+        "Irwin Allen",
+        "Kevin Reynolds",
+        "Charles Shyer"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Metropolis",
+      "values": [
+        "Fritz Lang",
+        "Dean Parisot",
+        "Danny DeVito",
+        "George Roy Hill"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Walk the Line",
+      "values": [
+        "Ruben Fleischer",
+        "James Mangold",
+        "Frank Darabont",
+        "Joel Schumacher"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Úsvit planety opic",
+      "values": [
+        "David Zucker",
+        "Matt Reeves",
+        "Rian Johnson",
+        "Rob Cohen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Válka o planetu opic",
+      "values": [
+        "Matt Reeves",
+        "Richard Donner",
+        "Danny DeVito",
+        "Sylvester Stallone"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pekelní andělé",
+      "values": [
+        "Howard Hughes",
+        "John McTiernan",
+        "Pete Docter",
+        "Alan Pakula"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Perný den",
+      "values": [
+        "Peter Segal",
+        "Richard Lester",
+        "Woody Allen",
+        "Garry Marshall"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Carrie",
+      "values": [
+        "David Silverman",
+        "Brian De Palma",
+        "Kathryn Bigelowová",
+        "Mike Nichols"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

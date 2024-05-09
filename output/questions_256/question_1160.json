@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Robert Lewandowski",
+      "values": [
+        "polského",
+        "portugalského",
+        "ghanského",
+        "kosovského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kaká",
+      "values": [
+        "nigerijského",
+        "chorvatského",
+        "brazilského",
+        "ghanského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Virgil van Dijk",
+      "values": [
+        "nizozemského",
+        "amerického",
+        "kosovského",
+        "uruguayského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michel Platini",
+      "values": [
+        "maďarského",
+        "řeckého",
+        "kolumbijského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alessandro Del Piero",
+      "values": [
+        "švédského",
+        "irského",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Joshua Kimmich",
+      "values": [
+        "anglického",
+        "německého",
+        "nigerijského",
+        "ghanského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lukas Podolski",
+      "values": [
+        "mongolského",
+        "norského",
+        "řeckého",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jens Lehmann",
+      "values": [
+        "německého",
+        "uruguayského",
+        "maďarského",
+        "anglického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jairzinho",
+      "values": [
+        "brazilského",
+        "kanadského",
+        "chorvatského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Benjamin Pavard",
+      "values": [
+        "francouzského",
+        "nigerijského",
+        "německého",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

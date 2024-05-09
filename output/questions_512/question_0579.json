@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] ateistu?",
+  "questions": [
+    {
+      "key": "Keanu Reeves",
+      "values": [
+        "britského",
+        "kanadského",
+        "slovinského",
+        "běloruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lavrentij Pavlovič Berija",
+      "values": [
+        "irského",
+        "albánského",
+        "polského",
+        "gruzínského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "George Bernard Shaw",
+      "values": [
+        "irského",
+        "arménského",
+        "islandského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Arthur Schopenhauer",
+      "values": [
+        "německého",
+        "arménského",
+        "kanadského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stellan Skarsgård",
+      "values": [
+        "běloruského",
+        "švédského",
+        "maďarského",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vojtěch Filip",
+      "values": [
+        "polského",
+        "německého",
+        "českého",
+        "bulharského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Simone de Beauvoir",
+      "values": [
+        "francouzského",
+        "švýcarského",
+        "islandského",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Peter Fonda",
+      "values": [
+        "maďarského",
+        "španělského",
+        "židovského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Béla Bartók",
+      "values": [
+        "maďarského",
+        "švýcarského",
+        "arménského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Linus Torvalds",
+      "values": [
+        "finského",
+        "bulharského",
+        "běloruského",
+        "islandského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

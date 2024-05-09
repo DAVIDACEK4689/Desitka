@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Taťána Kuchařová",
+      "values": [
+        "argentinskou",
+        "českou",
+        "americkou",
+        "kanadskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gigi Hadid",
+      "values": [
+        "americkou",
+        "ukrajinskou",
+        "australskou",
+        "dánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Monica Bellucciová",
+      "values": [
+        "českou",
+        "italskou",
+        "izraelskou",
+        "irskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Renata Langmannová",
+      "values": [
+        "německou",
+        "slovenskou",
+        "českou",
+        "irskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Little Caprice",
+      "values": [
+        "českou",
+        "americkou",
+        "dánskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eva Herzigová",
+      "values": [
+        "českou",
+        "ukrajinskou",
+        "francouzskou",
+        "dánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Radka Rosická",
+      "values": [
+        "australskou",
+        "českou",
+        "maďarskou",
+        "slovenskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Veronika Kopřivová",
+      "values": [
+        "irskou",
+        "ruskou",
+        "australskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Léa Seydouxová",
+      "values": [
+        "americkou",
+        "britskou",
+        "argentinskou",
+        "francouzskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Barbora Podzimková",
+      "values": [
+        "italskou",
+        "českou",
+        "švýcarskou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

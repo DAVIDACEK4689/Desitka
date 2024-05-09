@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Achraf Hakimi",
+      "values": [
+        "marockého",
+        "albánského",
+        "slovinského",
+        "tureckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Edgar Davids",
+      "values": [
+        "panamského",
+        "finského",
+        "gruzínského",
+        "nizozemského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Benjamin Mendy",
+      "values": [
+        "černohorského",
+        "lucemburského",
+        "rumunského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mario Kempes",
+      "values": [
+        "německého",
+        "francouzského",
+        "argentinského",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stanley Matthews",
+      "values": [
+        "anglického",
+        "argentinského",
+        "nigerijského",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ian Wright",
+      "values": [
+        "uruguayského",
+        "chorvatského",
+        "anglického",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Romano Floriani Mussolini",
+      "values": [
+        "amerického",
+        "černohorského",
+        "mexického",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stevan Jovetić",
+      "values": [
+        "kosovského",
+        "brazilského",
+        "kostarického",
+        "černohorského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Divock Origi",
+      "values": [
+        "dánského",
+        "belgického",
+        "baskického",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paul Ince",
+      "values": [
+        "německého",
+        "anglického",
+        "slovinského",
+        "marockého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

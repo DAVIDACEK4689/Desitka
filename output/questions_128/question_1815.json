@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle geografie",
+  "questions": [
+    {
+      "key": "Athény",
+      "values": [
+        "Barbados",
+        "Írán",
+        "Řecko",
+        "Pákistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Polder",
+      "values": [
+        "Eritrea",
+        "Kazachstán",
+        "Bulharsko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Svobodné území Terst",
+      "values": [
+        "Saúdská Arábie",
+        "Norsko",
+        "Svatý Vincenc a Grenadiny",
+        "Slovinsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Uzavřená zóna Černobylské jaderné elektrárny",
+      "values": [
+        "Ukrajina",
+        "Mongolsko",
+        "Mauritánie",
+        "Malajsie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kyrenaika",
+      "values": [
+        "Saúdská Arábie",
+        "Itálie",
+        "Jihoafrická republika",
+        "Libye"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Betánie",
+      "values": [
+        "Jordánsko",
+        "Spojené království",
+        "Vatikán",
+        "Austrálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tasmanovo moře",
+      "values": [
+        "Palestina",
+        "Slovinsko",
+        "Itálie",
+        "Austrálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Apia",
+      "values": [
+        "Samoa",
+        "Kazachstán",
+        "Srbsko",
+        "Německo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pago Pago",
+      "values": [
+        "Mexiko",
+        "Chorvatsko",
+        "Pero",
+        "Americká Samoa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kabylie",
+      "values": [
+        "Norsko",
+        "Alžírsko",
+        "Turkmenistán",
+        "Řecko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

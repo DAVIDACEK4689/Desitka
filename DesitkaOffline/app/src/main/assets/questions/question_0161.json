@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] cyklistu?",
+  "questions": [
+    {
+      "key": "Vlasta Burian",
+      "values": [
+        "amerického",
+        "českého",
+        "dánského",
+        "československého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tadej Pogačar",
+      "values": [
+        "britského",
+        "amerického",
+        "slovenského",
+        "slovinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Peter Sagan",
+      "values": [
+        "slovenského",
+        "slovinského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jonas Vingegaard",
+      "values": [
+        "dánského",
+        "nizozemského",
+        "slovinského",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lance Armstrong",
+      "values": [
+        "belgického",
+        "britského",
+        "československého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Primož Roglič",
+      "values": [
+        "československého",
+        "slovenského",
+        "slovinského",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Wout van Aert",
+      "values": [
+        "amerického",
+        "československého",
+        "belgického",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mathieu van der Poel",
+      "values": [
+        "českého",
+        "nizozemského",
+        "belgického",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bratři Pospíšilové",
+      "values": [
+        "československého",
+        "belgického",
+        "amerického",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chris Froome",
+      "values": [
+        "nizozemského",
+        "britského",
+        "belgického",
+        "českého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

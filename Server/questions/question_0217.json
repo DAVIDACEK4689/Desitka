@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle narození",
+  "questions": [
+    {
+      "key": "Lev Nikolajevič Tolstoj",
+      "values": [
+        "Egypt",
+        "Rusko",
+        "Libye",
+        "Portugalsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rafael Nadal",
+      "values": [
+        "Turecko",
+        "Uganda",
+        "Španělsko",
+        "Egypt"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Blanka z Valois",
+      "values": [
+        "Uganda",
+        "Francie",
+        "Vietnam",
+        "Portugalsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fernão de Magalhães",
+      "values": [
+        "Dánsko",
+        "Portugalsko",
+        "Uganda",
+        "Jamajka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Barbora z Nikomédie",
+      "values": [
+        "Francie",
+        "Barbados",
+        "Španělsko",
+        "Turecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vitalij Kličko",
+      "values": [
+        "Vietnam",
+        "Slovinsko",
+        "Kyrgyzstán",
+        "Uganda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ho Či Min",
+      "values": [
+        "Jamajka",
+        "Bělorusko",
+        "Vietnam",
+        "Moldavsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ernst Gideon von Laudon",
+      "values": [
+        "Lotyšsko",
+        "Uganda",
+        "Španělsko",
+        "Slovinsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Igor Stravinskij",
+      "values": [
+        "Portugalsko",
+        "Rusko",
+        "Barbados",
+        "Slovinsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Maia Sanduová",
+      "values": [
+        "Turecko",
+        "Moldavsko",
+        "Francie",
+        "Libye"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

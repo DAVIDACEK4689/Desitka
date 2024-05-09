@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Berenika Kohoutová",
+      "values": [
+        "řeckou",
+        "brazilskou",
+        "portugalskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martina Kociánová",
+      "values": [
+        "portugalskou",
+        "jamajskou",
+        "českou",
+        "brazilskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Olga Matušková",
+      "values": [
+        "švýcarskou",
+        "indickou",
+        "ukrajinskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ellie Goulding",
+      "values": [
+        "britskou",
+        "českou",
+        "portugalskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sarah Connor",
+      "values": [
+        "kolumbijskou",
+        "jihokorejskou",
+        "kanadskou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tove Lo",
+      "values": [
+        "švédskou",
+        "španělskou",
+        "peruánskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ciara",
+      "values": [
+        "srbskou",
+        "americkou",
+        "novozélandskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Indra Vostrá",
+      "values": [
+        "irskou",
+        "jihokorejskou",
+        "britskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Anneke van Giersbergen",
+      "values": [
+        "srbskou",
+        "nizozemskou",
+        "ukrajinskou",
+        "islandskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Imany",
+      "values": [
+        "italskou",
+        "norskou",
+        "francouzskou",
+        "ruskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

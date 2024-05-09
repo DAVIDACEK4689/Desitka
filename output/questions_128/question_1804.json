@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] šlechtice?",
+  "questions": [
+    {
+      "key": "Záviš z Falkenštejna",
+      "values": [
+        "českého",
+        "monackého",
+        "britského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Clement Attlee",
+      "values": [
+        "slezského",
+        "britského",
+        "chorvatského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Štěpán Báthory",
+      "values": [
+        "uherského",
+        "švédského",
+        "německého",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Filipína Welserová",
+      "values": [
+        "rakouského",
+        "italského",
+        "gruzínského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan z Dražic",
+      "values": [
+        "dánského",
+        "portugalského",
+        "slezského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Matyáš Gallas",
+      "values": [
+        "českého",
+        "ruského",
+        "řeckého",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hugues de Payens",
+      "values": [
+        "ruského",
+        "portugalského",
+        "švédského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "William Pitt",
+      "values": [
+        "dánského",
+        "britského",
+        "nizozemského",
+        "monackého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Filip Hyacint z Lobkovic",
+      "values": [
+        "českého",
+        "britského",
+        "německého",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Carl von Linde",
+      "values": [
+        "ruského",
+        "španělského",
+        "monackého",
+        "německého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

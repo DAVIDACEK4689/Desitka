@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Mahátma Gándhí",
+      "values": [
+        "kanadského",
+        "venezuelského",
+        "indického",
+        "afghánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Albert Speer",
+      "values": [
+        "ruského",
+        "německého",
+        "myanmarského",
+        "panamského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Hannig",
+      "values": [
+        "venezuelského",
+        "nizozemského",
+        "českého",
+        "zimbabwského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Hynek",
+      "values": [
+        "italského",
+        "pruského",
+        "českého",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Željko Ražnatović",
+      "values": [
+        "srbského",
+        "anglického",
+        "italského",
+        "kolumbijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Helmut Schmidt",
+      "values": [
+        "brazilského",
+        "německého",
+        "tureckého",
+        "pruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ján Kubiš",
+      "values": [
+        "sovětského",
+        "slovenského",
+        "amerického",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dag Hammarskjöld",
+      "values": [
+        "ruského",
+        "katarského",
+        "brazilského",
+        "švédského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Randolph Churchill",
+      "values": [
+        "madagaskarského",
+        "venezuelského",
+        "československého",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Franz Josef Strauß",
+      "values": [
+        "španělského",
+        "německého",
+        "zimbabwského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

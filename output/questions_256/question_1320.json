@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Luka Modrić",
+      "values": [
+        "chilského",
+        "portugalského",
+        "nigerijského",
+        "chorvatského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Paolo Maldini",
+      "values": [
+        "nigerijského",
+        "slovinského",
+        "belgického",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Remco Evenepoel",
+      "values": [
+        "baskického",
+        "skotského",
+        "belgického",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Isco",
+      "values": [
+        "českého",
+        "německého",
+        "španělského",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Unai Emery",
+      "values": [
+        "skotského",
+        "maďarského",
+        "chilského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Silva",
+      "values": [
+        "zimbabwského",
+        "španělského",
+        "uruguayského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ansu Fati",
+      "values": [
+        "argentinského",
+        "polského",
+        "španělského",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dele Alli",
+      "values": [
+        "zimbabwského",
+        "slovinského",
+        "portugalského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bill Goldberg",
+      "values": [
+        "amerického",
+        "norského",
+        "slovinského",
+        "skotského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kyle Walker",
+      "values": [
+        "kosovského",
+        "dánského",
+        "anglického",
+        "českého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Drážďany",
+      "values": [
+        "Jizera",
+        "Úhlava",
+        "Labe",
+        "Lužnice"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bechyně",
+      "values": [
+        "Ohře",
+        "Úhlava",
+        "Lužnice",
+        "Něva"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kazaň",
+      "values": [
+        "Hron",
+        "Chrudimka",
+        "Malše",
+        "Volha"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Levý Hradec",
+      "values": [
+        "Ohře",
+        "Bečva",
+        "Jizera",
+        "Vltava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chust",
+      "values": [
+        "Tis",
+        "Metuje",
+        "Cidlina",
+        "Jizera"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Doubravník",
+      "values": [
+        "Svratka",
+        "Lužická Nisa",
+        "Jizera",
+        "Metuje"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Azov",
+      "values": [
+        "Don",
+        "Berounka",
+        "Spréva",
+        "Dunaj"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Doudleby",
+      "values": [
+        "Rýn",
+        "Svratka",
+        "Metuje",
+        "Malše"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Reading",
+      "values": [
+        "Spréva",
+        "Úhlava",
+        "Temže",
+        "Tibera"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Střelské Hoštice",
+      "values": [
+        "Otava",
+        "Něva",
+        "Chrudimka",
+        "Sebnice"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zločince?",
+  "questions": [
+    {
+      "key": "Pablo Escobar",
+      "values": [
+        "australského",
+        "britského",
+        "italského",
+        "kolumbijského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Joaquín Guzmán",
+      "values": [
+        "kolumbijského",
+        "maďarského",
+        "italského",
+        "mexického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oscar Pistorius",
+      "values": [
+        "amerického",
+        "francouzského",
+        "jihoafrického",
+        "izraelského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miguel Rodríguez Orejuela",
+      "values": [
+        "australského",
+        "kolumbijského",
+        "německého",
+        "jihoafrického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavel Opočenský",
+      "values": [
+        "izraelského",
+        "australského",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Robert Tempel",
+      "values": [
+        "ruského",
+        "českého",
+        "pákistánského",
+        "kolumbijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bonnie Parker",
+      "values": [
+        "amerického",
+        "britského",
+        "jihoafrického",
+        "izraelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sundance Kid",
+      "values": [
+        "amerického",
+        "australského",
+        "pákistánského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ariel Castro",
+      "values": [
+        "francouzského",
+        "amerického",
+        "jihoafrického",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaroslav Řehák",
+      "values": [
+        "ukrajinského",
+        "italského",
+        "českého",
+        "bulharského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

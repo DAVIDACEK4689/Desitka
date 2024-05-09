@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Side",
+      "values": [
+        "Maroko",
+        "Pero",
+        "Turecko",
+        "Omán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Taškent",
+      "values": [
+        "Řecko",
+        "Súdán",
+        "Uzbekistán",
+        "Indonésie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eger",
+      "values": [
+        "Zambie",
+        "Ukrajina",
+        "Maďarsko",
+        "Alžírsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Phnompenh",
+      "values": [
+        "Turecko",
+        "Turkmenistán",
+        "Řecko",
+        "Kambodža"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Retz",
+      "values": [
+        "Rakousko",
+        "Ázerbájdžán",
+        "Nový Zéland",
+        "Pákistán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Arnhem",
+      "values": [
+        "Švédsko",
+        "Jihoafrická republika",
+        "Litva",
+        "Nizozemsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Senj",
+      "values": [
+        "Švýcarsko",
+        "Chorvatsko",
+        "Uganda",
+        "Gambie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Butrint",
+      "values": [
+        "Senegal",
+        "Albánie",
+        "Island",
+        "Norsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Byblos",
+      "values": [
+        "Libanon",
+        "Senegal",
+        "Saúdská Arábie",
+        "Jordánsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bangui",
+      "values": [
+        "Island",
+        "Burkina Faso",
+        "Spojené království",
+        "Středoafrická republika"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

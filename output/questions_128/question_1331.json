@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte město podle parku",
+  "questions": [
+    {
+      "key": "Branišovský les",
+      "values": [
+        "Budapešť",
+        "Jihlava",
+        "České Budějovice",
+        "Ostrava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Markétin ostrov",
+      "values": [
+        "Budapešť",
+        "Berlín",
+        "Hradec Králové",
+        "Brno"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Wilsonův les",
+      "values": [
+        "Plzeň",
+        "Třebíč",
+        "Brno",
+        "Přerov"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Városliget",
+      "values": [
+        "Plzeň",
+        "České Budějovice",
+        "Budapešť",
+        "Hradec Králové"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Park Špilberk",
+      "values": [
+        "Budapešť",
+        "Brno",
+        "Třebíč",
+        "Hradec Králové"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Akátky",
+      "values": [
+        "Berlín",
+        "Brno",
+        "Hradec Králové",
+        "Jihlava"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Park Bohumila Hrabala",
+      "values": [
+        "České Budějovice",
+        "Přerov",
+        "Berlín",
+        "Brno"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hasskova zahrada",
+      "values": [
+        "Berlín",
+        "Třebíč",
+        "Brno",
+        "Plzeň"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jubilejní háj",
+      "values": [
+        "Přerov",
+        "České Budějovice",
+        "Londýn",
+        "Třebíč"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Krajíčkova stráň",
+      "values": [
+        "Třebíč",
+        "Brno",
+        "Ostrava",
+        "Přerov"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

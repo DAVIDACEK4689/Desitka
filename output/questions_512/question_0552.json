@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vegetariána?",
+  "questions": [
+    {
+      "key": "Leonardo da Vinci",
+      "values": [
+        "kanadského",
+        "českého",
+        "německého",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aneta Langerová",
+      "values": [
+        "amerického",
+        "českého",
+        "španělského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nela Boudová",
+      "values": [
+        "českého",
+        "indického",
+        "italského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Brigitte Bardotová",
+      "values": [
+        "australského",
+        "izraelského",
+        "francouzského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "George Bernard Shaw",
+      "values": [
+        "francouzského",
+        "nizozemského",
+        "izraelského",
+        "irského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mayim Bialik",
+      "values": [
+        "australského",
+        "irského",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Líza Simpsonová",
+      "values": [
+        "českého",
+        "australského",
+        "amerického",
+        "indického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Dědeček",
+      "values": [
+        "britského",
+        "českého",
+        "německého",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Juval Noach Harari",
+      "values": [
+        "kanadského",
+        "českého",
+        "amerického",
+        "izraelského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Linda McCartney",
+      "values": [
+        "amerického",
+        "australského",
+        "indického",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

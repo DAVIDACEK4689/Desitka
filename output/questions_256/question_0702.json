@@ -1,0 +1,105 @@
+{
+  "text": "Určete rok podle dopravy",
+  "questions": [
+    {
+      "key": "Tatra",
+      "values": [
+        "1850",
+        "2003",
+        "2019",
+        "1668"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tunelový komplex Blanka",
+      "values": [
+        "1953",
+        "1850",
+        "2015",
+        "1956"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Operace Entebbe",
+      "values": [
+        "1939",
+        "2019",
+        "1953",
+        "1976"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bounty",
+      "values": [
+        "1789",
+        "2016",
+        "1939",
+        "1850"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ejpovický tunel",
+      "values": [
+        "2018",
+        "1850",
+        "1947",
+        "2008"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Let Smartwings QS1125",
+      "values": [
+        "1939",
+        "2019",
+        "2010",
+        "1850"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Etihad Airways",
+      "values": [
+        "2016",
+        "2018",
+        "2003",
+        "1917"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Evropská dohoda o mezinárodní silniční přepravě nebezpečných věcí",
+      "values": [
+        "1953",
+        "2018",
+        "1957",
+        "1789"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pohádky o mašinkách",
+      "values": [
+        "1953",
+        "1956",
+        "1975",
+        "1947"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Avignonský most",
+      "values": [
+        "1995",
+        "1953",
+        "1985",
+        "1668"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

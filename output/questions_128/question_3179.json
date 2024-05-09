@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Tomáš Vaclík",
+      "values": [
+        "italského",
+        "amerického",
+        "kostarického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "George Best",
+      "values": [
+        "severoirského",
+        "tožského",
+        "marockého",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Ødegaard",
+      "values": [
+        "norského",
+        "ekvádorského",
+        "československého",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Rada",
+      "values": [
+        "českého",
+        "španělského",
+        "jamajského",
+        "tožského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "James Milner",
+      "values": [
+        "severoirského",
+        "anglického",
+        "islandského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marcelo Brozović",
+      "values": [
+        "islandského",
+        "ekvádorského",
+        "chorvatského",
+        "gruzínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dušan Tadić",
+      "values": [
+        "gambijského",
+        "kanadského",
+        "srbského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fredrik Ljungberg",
+      "values": [
+        "švédského",
+        "slovinského",
+        "rakouského",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert Hrubý",
+      "values": [
+        "českého",
+        "argentinského",
+        "francouzského",
+        "černohorského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Roberto Donadoni",
+      "values": [
+        "italského",
+        "japonského",
+        "ruského",
+        "paraguayského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

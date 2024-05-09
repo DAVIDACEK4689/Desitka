@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte obor podle průkopníka",
+  "questions": [
+    {
+      "key": "Ferdinand Porsche",
+      "values": [
+        "automobilismus",
+        "letectví",
+        "kinematografie",
+        "počítač"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karl Benz",
+      "values": [
+        "kinematografie",
+        "letectví",
+        "automobilismus",
+        "počítač"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Charles Lindbergh",
+      "values": [
+        "automobilismus",
+        "počítač",
+        "internet",
+        "letectví"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sergey Brin",
+      "values": [
+        "železnice",
+        "sport",
+        "internet",
+        "počítač"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alois Negrelli",
+      "values": [
+        "sport",
+        "železnice",
+        "internet",
+        "počítač"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Richard Evelyn Byrd",
+      "values": [
+        "sport",
+        "kinematografie",
+        "letectví",
+        "internet"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Otto Lilienthal",
+      "values": [
+        "letectví",
+        "sport",
+        "počítač",
+        "železnice"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Wilhelm Maybach",
+      "values": [
+        "letectví",
+        "automobilismus",
+        "internet",
+        "kinematografie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Maxmilián Švagrovský",
+      "values": [
+        "internet",
+        "železnice",
+        "sport",
+        "letectví"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Armand Peugeot",
+      "values": [
+        "automobilismus",
+        "železnice",
+        "sport",
+        "kinematografie"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

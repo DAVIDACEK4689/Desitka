@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] muslima?",
+  "questions": [
+    {
+      "key": "Ramzan Kadyrov",
+      "values": [
+        "ukrajinského",
+        "ruského",
+        "egyptského",
+        "tureckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Muhammad Ali",
+      "values": [
+        "francouzského",
+        "tureckého",
+        "amerického",
+        "egyptského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mike Tyson",
+      "values": [
+        "egyptského",
+        "íránského",
+        "amerického",
+        "ugandského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Recep Tayyip Erdoğan",
+      "values": [
+        "ruského",
+        "tureckého",
+        "ugandského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karim Benzema",
+      "values": [
+        "egyptského",
+        "francouzského",
+        "íránského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chabib Nurmagomedov",
+      "values": [
+        "egyptského",
+        "íránského",
+        "francouzského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Idi Amin",
+      "values": [
+        "egyptského",
+        "ugandského",
+        "ukrajinského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ice Cube",
+      "values": [
+        "ugandského",
+        "tureckého",
+        "francouzského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rúholláh Chomejní",
+      "values": [
+        "ruského",
+        "íránského",
+        "francouzského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sajjid Alí Chameneí",
+      "values": [
+        "egyptského",
+        "amerického",
+        "íránského",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

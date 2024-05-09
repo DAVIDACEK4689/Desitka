@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalového trenéra?",
+  "questions": [
+    {
+      "key": "Jaroslav Šilhavý",
+      "values": [
+        "chilského",
+        "uruguayského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Julian Nagelsmann",
+      "values": [
+        "ruského",
+        "dánského",
+        "německého",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luboš Kozel",
+      "values": [
+        "norského",
+        "českého",
+        "ruského",
+        "anglického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jürgen Klinsmann",
+      "values": [
+        "německého",
+        "slovenského",
+        "portugalského",
+        "uruguayského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fabio Capello",
+      "values": [
+        "norského",
+        "skotského",
+        "maďarského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fabrizio Ravanelli",
+      "values": [
+        "německého",
+        "italského",
+        "polského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rudolf Otepka",
+      "values": [
+        "španělského",
+        "českého",
+        "rakouského",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stefano Pioli",
+      "values": [
+        "chorvatského",
+        "maďarského",
+        "mexického",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Juraj Šimurka",
+      "values": [
+        "slovenského",
+        "maďarského",
+        "australského",
+        "anglického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Daniel Passarella",
+      "values": [
+        "argentinského",
+        "rakouského",
+        "bulharského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

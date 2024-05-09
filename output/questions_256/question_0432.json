@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Operace Overlord",
+      "values": [
+        "1939",
+        "1944",
+        "1954",
+        "1941"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Borodina",
+      "values": [
+        "1812",
+        "1697",
+        "1758",
+        "1815"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Solferina",
+      "values": [
+        "1789",
+        "1859",
+        "1683",
+        "937"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Štěrbohol",
+      "values": [
+        "1814",
+        "1757",
+        "1953",
+        "1877"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Operace Telemark",
+      "values": [
+        "1859",
+        "1424",
+        "1905",
+        "1942"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva o zámek Itter",
+      "values": [
+        "1066",
+        "1812",
+        "1565",
+        "1945"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Ořechova",
+      "values": [
+        "1040",
+        "1945",
+        "1939",
+        "1849"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Velké obležení Malty",
+      "values": [
+        "1212",
+        "1798",
+        "1565",
+        "1066"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Gorlice",
+      "values": [
+        "1954",
+        "1066",
+        "1915",
+        "1809"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Omdurmánu",
+      "values": [
+        "937",
+        "1812",
+        "1898",
+        "1938"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

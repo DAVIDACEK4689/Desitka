@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Tereza Mašková",
+      "values": [
+        "českou",
+        "islandskou",
+        "finskou",
+        "japonskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dáša Vokatá",
+      "values": [
+        "českou",
+        "rumunskou",
+        "indickou",
+        "kolumbijskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Aťka Janoušková",
+      "values": [
+        "barbadoskou",
+        "portugalskou",
+        "českou",
+        "řeckou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sabrina Salerno",
+      "values": [
+        "nizozemskou",
+        "australskou",
+        "italskou",
+        "indickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zara Larsson",
+      "values": [
+        "americkou",
+        "kubánskou",
+        "polskou",
+        "švédskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Loona",
+      "values": [
+        "kolumbijskou",
+        "brazilskou",
+        "nizozemskou",
+        "indickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Idina Menzel",
+      "values": [
+        "chorvatskou",
+        "japonskou",
+        "americkou",
+        "izraelskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Charlotte Wessels",
+      "values": [
+        "kubánskou",
+        "nizozemskou",
+        "japonskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joan Sutherlandová",
+      "values": [
+        "kubánskou",
+        "kanadskou",
+        "českou",
+        "australskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bernadette Peters",
+      "values": [
+        "brazilskou",
+        "německou",
+        "chorvatskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

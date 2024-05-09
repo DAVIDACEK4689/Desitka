@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Jeruzalém",
+      "values": [
+        "Izrael",
+        "Eritrea",
+        "Maďarsko",
+        "Srí Lanka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tbilisi",
+      "values": [
+        "Slovinsko",
+        "Venezuela",
+        "Norsko",
+        "Gruzie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rabat",
+      "values": [
+        "Uzbekistán",
+        "Maroko",
+        "Sýrie",
+        "Bolívie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tromsø",
+      "values": [
+        "Norsko",
+        "Kazachstán",
+        "Středoafrická republika",
+        "Zambie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Islámábád",
+      "values": [
+        "Irák",
+        "Pákistán",
+        "Írán",
+        "Severní Korea"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aškelon",
+      "values": [
+        "Izrael",
+        "Grónsko",
+        "Gruzie",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kampala",
+      "values": [
+        "Uganda",
+        "Středoafrická republika",
+        "Madagaskar",
+        "Ghana"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Maputo",
+      "values": [
+        "Chorvatsko",
+        "Rusko",
+        "Mosambik",
+        "Rakousko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hajdarábád",
+      "values": [
+        "Japonsko",
+        "Alžírsko",
+        "Kyrgyzstán",
+        "Indie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Krujë",
+      "values": [
+        "Indonésie",
+        "Maďarsko",
+        "Albánie",
+        "Bangladéš"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

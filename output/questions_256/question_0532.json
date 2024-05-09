@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] lékaře?",
+  "questions": [
+    {
+      "key": "Sigmund Freud",
+      "values": [
+        "amerického",
+        "ruského",
+        "rakouského",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zdeněk Hřib",
+      "values": [
+        "britského",
+        "francouzského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gabor Maté",
+      "values": [
+        "amerického",
+        "ruského",
+        "německého",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Juscelino Kubitschek de Oliveira",
+      "values": [
+        "brazilského",
+        "francouzského",
+        "slovenského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ben Carson",
+      "values": [
+        "švýcarského",
+        "irského",
+        "amerického",
+        "izraelského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luigi Galvani",
+      "values": [
+        "slovenského",
+        "polského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tom Philipp",
+      "values": [
+        "izraelského",
+        "irského",
+        "českého",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Martin Bojar",
+      "values": [
+        "rakouského",
+        "českého",
+        "jihoafrického",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Katarína Vlčková",
+      "values": [
+        "slovenského",
+        "britského",
+        "ruského",
+        "jihoafrického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gustave Le Bon",
+      "values": [
+        "britského",
+        "francouzského",
+        "českého",
+        "jihoafrického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

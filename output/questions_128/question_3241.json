@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] firmu?",
+  "questions": [
+    {
+      "key": "Samsung",
+      "values": [
+        "jihokorejskou",
+        "japonskou",
+        "nizozemskou",
+        "belgickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mattel",
+      "values": [
+        "slovenskou",
+        "americkou",
+        "československou",
+        "belgickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Maersk",
+      "values": [
+        "slovenskou",
+        "švýcarskou",
+        "dánskou",
+        "švédskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Danone",
+      "values": [
+        "maďarskou",
+        "saúdskoarabskou",
+        "vietnamskou",
+        "francouzskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "SIG Sauer",
+      "values": [
+        "švýcarskou",
+        "irskou",
+        "českou",
+        "maďarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Smirnoff",
+      "values": [
+        "britskou",
+        "americkou",
+        "irskou",
+        "švédskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zippo",
+      "values": [
+        "japonskou",
+        "americkou",
+        "izraelskou",
+        "kanadskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pojazdy Szynowe Pesa Bydgoszcz",
+      "values": [
+        "polskou",
+        "rumunskou",
+        "finskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chloé",
+      "values": [
+        "nizozemskou",
+        "kanadskou",
+        "francouzskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Parmalat",
+      "values": [
+        "ukrajinskou",
+        "německou",
+        "španělskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [typ] organizaci?",
+  "questions": [
+    {
+      "key": "Mafie",
+      "values": [
+        "partyzánskou",
+        "humanitární",
+        "zločineckou",
+        "šlechtickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "NAFTA",
+      "values": [
+        "fotografickou",
+        "zločineckou",
+        "vzdělávací",
+        "mezinárodní"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nadnárodní korporace",
+      "values": [
+        "leteckou",
+        "hospodářskou",
+        "fotografickou",
+        "zaniklou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Frankofonie",
+      "values": [
+        "mezinárodní",
+        "humanitární",
+        "náboženskou",
+        "ekologickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "International Air Transport Association",
+      "values": [
+        "zločineckou",
+        "jazykovou",
+        "partyzánskou",
+        "leteckou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lidová fronta pro osvobození Palestiny",
+      "values": [
+        "partyzánskou",
+        "fotografickou",
+        "šlechtickou",
+        "zaniklou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sluňákov",
+      "values": [
+        "vědeckou",
+        "ekologickou",
+        "fiktivní",
+        "humanitární"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oxfam",
+      "values": [
+        "vzdělávací",
+        "ekologickou",
+        "humanitární",
+        "fotografickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sacra Corona Unita",
+      "values": [
+        "humanitární",
+        "fotografickou",
+        "zdravotnickou",
+        "zločineckou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "FIPRESCI",
+      "values": [
+        "mezinárodní",
+        "fotografickou",
+        "ekologickou",
+        "hospodářskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

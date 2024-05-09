@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Ammán",
+      "values": [
+        "Vanuatu",
+        "Venezuela",
+        "Bhútán",
+        "Jordánsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Abuja",
+      "values": [
+        "Západní Sahara",
+        "Srí Lanka",
+        "Nigérie",
+        "Kambodža"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Montreux",
+      "values": [
+        "Mosambik",
+        "Estonsko",
+        "Nepál",
+        "Švýcarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Monterrey",
+      "values": [
+        "Bělorusko",
+        "Kypr",
+        "Mexiko",
+        "Estonsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hierapolis",
+      "values": [
+        "Norsko",
+        "Honduras",
+        "Turecko",
+        "Kiribati"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Deva",
+      "values": [
+        "Rumunsko",
+        "Togo",
+        "Gruzie",
+        "Ekvádor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oral",
+      "values": [
+        "Kazachstán",
+        "Kolumbie",
+        "Srí Lanka",
+        "Gruzie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oršava",
+      "values": [
+        "Chorvatsko",
+        "Východní Timor",
+        "Slovensko",
+        "Rumunsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tira",
+      "values": [
+        "Libye",
+        "Nikaragua",
+        "Nizozemsko",
+        "Izrael"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Shëngjin",
+      "values": [
+        "Belgie",
+        "Súdán",
+        "Itálie",
+        "Albánie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

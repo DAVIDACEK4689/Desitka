@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte moře podle přístavního města",
+  "questions": [
+    {
+      "key": "Hurghada",
+      "values": [
+        "Rudé moře",
+        "Severní moře",
+        "Irské moře",
+        "Bílé moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Malmö",
+      "values": [
+        "Karibské moře",
+        "Černé moře",
+        "Baltské moře",
+        "Azovské moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kiel",
+      "values": [
+        "Karibské moře",
+        "Marmarské moře",
+        "Severní moře",
+        "Baltské moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ostende",
+      "values": [
+        "Karibské moře",
+        "Severní moře",
+        "Bílé moře",
+        "Rudé moře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Suez",
+      "values": [
+        "Rudé moře",
+        "Černé moře",
+        "Karibské moře",
+        "Marmarské moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Visby",
+      "values": [
+        "Karibské moře",
+        "Bílé moře",
+        "Azovské moře",
+        "Baltské moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tekirdağ",
+      "values": [
+        "Bílé moře",
+        "Karibské moře",
+        "Marmarské moře",
+        "Baltské moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Reni",
+      "values": [
+        "Irské moře",
+        "Černé moře",
+        "Bílé moře",
+        "Azovské moře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Heničesk",
+      "values": [
+        "Irské moře",
+        "Rudé moře",
+        "Marmarské moře",
+        "Azovské moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Čornomorsk",
+      "values": [
+        "Bílé moře",
+        "Černé moře",
+        "Baltské moře",
+        "Marmarské moře"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Antverpy",
+      "values": [
+        "Belgie",
+        "Angola",
+        "Estonsko",
+        "Turecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Caorle",
+      "values": [
+        "Nizozemsko",
+        "Estonsko",
+        "Portugalsko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Šibenik",
+      "values": [
+        "Chorvatsko",
+        "Finsko",
+        "Albánie",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lemesos",
+      "values": [
+        "Švédsko",
+        "Kypr",
+        "Senegal",
+        "Gruzie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Luanda",
+      "values": [
+        "Angola",
+        "Maroko",
+        "Belgie",
+        "Litva"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Taganrog",
+      "values": [
+        "Rusko",
+        "Slovinsko",
+        "Argentina",
+        "Tunisko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Barranquilla",
+      "values": [
+        "Libérie",
+        "Dánsko",
+        "Dominikánská republika",
+        "Kolumbie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Samsun",
+      "values": [
+        "Turecko",
+        "Ázerbájdžán",
+        "Bangladéš",
+        "Kamerun"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kanazawa",
+      "values": [
+        "Rusko",
+        "Togo",
+        "Japonsko",
+        "Litva"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tisno",
+      "values": [
+        "Lotyšsko",
+        "Japonsko",
+        "Chorvatsko",
+        "Sierra Leone"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

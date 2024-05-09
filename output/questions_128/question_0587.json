@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fyzika?",
+  "questions": [
+    {
+      "key": "Richard Feynman",
+      "values": [
+        "švédského",
+        "německého",
+        "dánského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Max Planck",
+      "values": [
+        "izraelského",
+        "německého",
+        "maďarského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Luigi Galvani",
+      "values": [
+        "bulharského",
+        "běloruského",
+        "izraelského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Henry Cavendish",
+      "values": [
+        "německého",
+        "rumunského",
+        "íránského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hermann von Helmholtz",
+      "values": [
+        "sovětského",
+        "australského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Philipp Lenard",
+      "values": [
+        "izraelského",
+        "polského",
+        "kanadského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Athanasius Kircher",
+      "values": [
+        "britského",
+        "rakouského",
+        "španělského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Georges Louis Leclerc de Buffon",
+      "values": [
+        "britského",
+        "běloruského",
+        "francouzského",
+        "indického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anton Zeilinger",
+      "values": [
+        "ukrajinského",
+        "slovenského",
+        "rakouského",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Johannes Diderik van der Waals",
+      "values": [
+        "maďarského",
+        "nizozemského",
+        "australského",
+        "německého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

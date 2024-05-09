@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle metra",
+  "questions": [
+    {
+      "key": "Metro v Budapešti",
+      "values": [
+        "Turecko",
+        "Švédsko",
+        "Maďarsko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Metro v Paříži",
+      "values": [
+        "Rakousko",
+        "Norsko",
+        "Francie",
+        "Švédsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Metro v Římě",
+      "values": [
+        "Itálie",
+        "Švýcarsko",
+        "Belgie",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Metro v Madridu",
+      "values": [
+        "Španělsko",
+        "Severní Korea",
+        "Itálie",
+        "Bělorusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Metro v Miláně",
+      "values": [
+        "Švýcarsko",
+        "Rusko",
+        "Belgie",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dorfbahn Serfaus",
+      "values": [
+        "Rakousko",
+        "Bulharsko",
+        "Nizozemsko",
+        "Španělsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Metro v Glasgow",
+      "values": [
+        "Česko",
+        "Maďarsko",
+        "Norsko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Metro v Bruselu",
+      "values": [
+        "Belgie",
+        "Nizozemsko",
+        "Rumunsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Metro v Dnipru",
+      "values": [
+        "Rumunsko",
+        "Německo",
+        "Spojené království",
+        "Ukrajina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Metro v Minsku",
+      "values": [
+        "Rusko",
+        "Bělorusko",
+        "Řecko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

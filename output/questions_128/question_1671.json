@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [období] malíře?",
+  "questions": [
+    {
+      "key": "Michelangelo Buonarroti",
+      "values": [
+        "renesančního",
+        "secesního",
+        "rokokového",
+        "romantického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Édouard Manet",
+      "values": [
+        "realistického",
+        "gotického",
+        "rokokového",
+        "romantického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eugène Delacroix",
+      "values": [
+        "romantického",
+        "barokního",
+        "renesančního",
+        "rokokového"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Giorgio Vasari",
+      "values": [
+        "rokokového",
+        "renesančního",
+        "romantického",
+        "barokního"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Krásný sloh",
+      "values": [
+        "secesního",
+        "barokního",
+        "gotického",
+        "romantického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Antoine Watteau",
+      "values": [
+        "rokokového",
+        "realistického",
+        "secesního",
+        "barokního"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hugo Baar",
+      "values": [
+        "renesančního",
+        "secesního",
+        "realistického",
+        "gotického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gentile Bellini",
+      "values": [
+        "gotického",
+        "rokokového",
+        "barokního",
+        "renesančního"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Koloman Moser",
+      "values": [
+        "romantického",
+        "secesního",
+        "barokního",
+        "renesančního"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Albrecht Altdorfer",
+      "values": [
+        "realistického",
+        "barokního",
+        "rokokového",
+        "renesančního"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

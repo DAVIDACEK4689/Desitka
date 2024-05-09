@@ -1,0 +1,105 @@
+{
+  "text": "Určete rok podle konfliktu",
+  "questions": [
+    {
+      "key": "Operace Spojenecká síla",
+      "values": [
+        "2011",
+        "2014",
+        "1999",
+        "1989"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rwandská genocida",
+      "values": [
+        "1994",
+        "2005",
+        "2018",
+        "2007"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Masakr na náměstí Nebeského klidu",
+      "values": [
+        "1989",
+        "2017",
+        "2022",
+        "2005"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Palachův týden",
+      "values": [
+        "2007",
+        "1989",
+        "2003",
+        "2014"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Druhá libanonská válka",
+      "values": [
+        "1992",
+        "2006",
+        "1989",
+        "2018"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Válka v Podněstří",
+      "values": [
+        "2007",
+        "1992",
+        "2023",
+        "1991"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Operace Rozhodná síla",
+      "values": [
+        "1994",
+        "1995",
+        "2022",
+        "2023"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Operace Ochranné ostří",
+      "values": [
+        "1989",
+        "2011",
+        "1992",
+        "2014"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Válka v severozápadním Pákistánu",
+      "values": [
+        "2022",
+        "2001",
+        "1991",
+        "2018"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Operace Ovocný sad",
+      "values": [
+        "2005",
+        "2007",
+        "1992",
+        "1991"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

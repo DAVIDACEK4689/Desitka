@@ -1,0 +1,105 @@
+{
+  "text": "Určete povolání podle fiktivní postavy",
+  "questions": [
+    {
+      "key": "James Bond",
+      "values": [
+        "špión",
+        "vědec",
+        "zločinec",
+        "student"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Darth Vader",
+      "values": [
+        "kuchař",
+        "detektiv",
+        "vynálezce",
+        "letec"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chandler Bing",
+      "values": [
+        "kuchař",
+        "zločinec",
+        "podnikatel",
+        "vědec"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luke Skywalker",
+      "values": [
+        "umělec",
+        "letec",
+        "špión",
+        "mág"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Patroklos",
+      "values": [
+        "spisovatel",
+        "detektiv",
+        "válečník",
+        "umělec"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lara Croft",
+      "values": [
+        "archeolog",
+        "kuchař",
+        "vynálezce",
+        "student"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Barbar Conan",
+      "values": [
+        "špión",
+        "válečník",
+        "vědec",
+        "pedagog"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rumburak",
+      "values": [
+        "vladař",
+        "vědec",
+        "mág",
+        "politik"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dj Arnoštek",
+      "values": [
+        "hudebník",
+        "pedagog",
+        "vladař",
+        "umělec"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dana Scullyová",
+      "values": [
+        "kuchař",
+        "zpěvák",
+        "detektiv",
+        "vědec"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

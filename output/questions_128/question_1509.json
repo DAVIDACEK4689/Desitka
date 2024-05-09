@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte sport podle československého sportovce",
+  "questions": [
+    {
+      "key": "Jan Kodeš",
+      "values": [
+        "plavec",
+        "cyklista",
+        "zápasník",
+        "tenista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miloslav Mečíř",
+      "values": [
+        "tenista",
+        "automobilový závodník",
+        "lední hokejista",
+        "volejbalista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Lála",
+      "values": [
+        "cyklista",
+        "plavec",
+        "sportovní střelec",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oldřich Machač",
+      "values": [
+        "judista",
+        "šachista",
+        "automobilový závodník",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Hubáček",
+      "values": [
+        "atlet",
+        "basketbalista",
+        "akrobatický letec",
+        "plavec"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Richard Réti",
+      "values": [
+        "šachista",
+        "horolezec",
+        "stolní tenista",
+        "tenista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ivan Masařík",
+      "values": [
+        "lední hokejista",
+        "stolní tenista",
+        "volejbalista",
+        "biatlonista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ernest Bokroš",
+      "values": [
+        "plavec",
+        "zápasník",
+        "lední hokejista",
+        "atlet"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vítězslav Ďuriš",
+      "values": [
+        "fotbalista",
+        "horolezec",
+        "veslař",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Filip Šilhan",
+      "values": [
+        "volejbalista",
+        "vodní lyžař",
+        "horolezec",
+        "kanoista"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

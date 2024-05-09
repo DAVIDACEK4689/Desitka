@@ -1,0 +1,105 @@
+{
+  "text": "Určete bojiště podle bitvy",
+  "questions": [
+    {
+      "key": "Vyproštění francouzských vojáků ze základny Karin",
+      "values": [
+        "Rakousko",
+        "Braniborsko",
+        "Chorvatsko",
+        "Norsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Kresčaku",
+      "values": [
+        "Turecko",
+        "Maďarsko",
+        "Sasko",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Operace Overlord",
+      "values": [
+        "Libye",
+        "Uganda",
+        "Norsko",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva na Sommě",
+      "values": [
+        "Řecko",
+        "Sasko",
+        "Polsko",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva o Berlín",
+      "values": [
+        "Španělsko",
+        "Německo",
+        "Řecko",
+        "Braniborsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva o Narvik",
+      "values": [
+        "Itálie",
+        "Německo",
+        "Norsko",
+        "Libye"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Azincourtu",
+      "values": [
+        "Ukrajina",
+        "Francie",
+        "Norsko",
+        "Německo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Dunkerque",
+      "values": [
+        "Uganda",
+        "Braniborsko",
+        "Francie",
+        "Slovensko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Operace Entebbe",
+      "values": [
+        "Uganda",
+        "Spojené království",
+        "Slovensko",
+        "Norsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva o Monte Cassino",
+      "values": [
+        "Slovensko",
+        "Libye",
+        "Itálie",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

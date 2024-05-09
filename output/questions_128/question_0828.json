@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Budapešť",
+      "values": [
+        "Malše",
+        "Dunaj",
+        "Hron",
+        "Visla"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tišnov",
+      "values": [
+        "Polenz",
+        "Eufrat",
+        "Ploučnice",
+        "Svratka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Starý Plzenec",
+      "values": [
+        "Bečva",
+        "Úslava",
+        "Svratka",
+        "Ohře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Považská Bystrica",
+      "values": [
+        "Labe",
+        "Berounka",
+        "Dněpr",
+        "Váha"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chocerady",
+      "values": [
+        "Lužnice",
+        "Těrek",
+        "Radbuza",
+        "Sázava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bad Füssing",
+      "values": [
+        "Inn",
+        "Úslava",
+        "Eufrat",
+        "Tibera"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Skřivany",
+      "values": [
+        "Labe",
+        "Visla",
+        "Cidlina",
+        "Don"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Neuss",
+      "values": [
+        "Sebnice",
+        "Rýn",
+        "Cidlina",
+        "Lužnice"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Velichov",
+      "values": [
+        "Lužnice",
+        "Ohře",
+        "Metuje",
+        "Tibera"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dolní Heršpice",
+      "values": [
+        "Sázava",
+        "Svratka",
+        "Eufrat",
+        "Dunaj"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

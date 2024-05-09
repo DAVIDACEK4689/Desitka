@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Pavel Horváth",
+      "values": [
+        "belgického",
+        "českého",
+        "kamerunského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Thibaut Courtois",
+      "values": [
+        "belgického",
+        "marockého",
+        "norského",
+        "anglického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eusébio",
+      "values": [
+        "rakouského",
+        "rumunského",
+        "portugalského",
+        "srbského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Kouba",
+      "values": [
+        "italského",
+        "československého",
+        "irského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marcus Rashford",
+      "values": [
+        "sovětského",
+        "senegalského",
+        "severoirského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kasper Schmeichel",
+      "values": [
+        "marockého",
+        "bulharského",
+        "kanadského",
+        "dánského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Christian Pulišić",
+      "values": [
+        "ekvádorského",
+        "senegalského",
+        "alžírského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Kliment",
+      "values": [
+        "českého",
+        "ruského",
+        "amerického",
+        "gambijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vitor Roque",
+      "values": [
+        "českého",
+        "sovětského",
+        "brazilského",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Samir Nasri",
+      "values": [
+        "sovětského",
+        "norského",
+        "francouzského",
+        "polského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

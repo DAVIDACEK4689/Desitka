@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Bratislava",
+      "values": [
+        "Portugalsko",
+        "Irsko",
+        "Česko",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Brusel",
+      "values": [
+        "Maďarsko",
+        "Rakousko",
+        "Slovensko",
+        "Belgie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Manchester",
+      "values": [
+        "Spojené království",
+        "Nizozemsko",
+        "Rakousko",
+        "Belgie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Brighton",
+      "values": [
+        "Německo",
+        "Portugalsko",
+        "Polsko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Komárno",
+      "values": [
+        "Dánsko",
+        "Itálie",
+        "Portugalsko",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jena",
+      "values": [
+        "Itálie",
+        "Česko",
+        "Německo",
+        "Nizozemsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cork",
+      "values": [
+        "Irsko",
+        "Itálie",
+        "Portugalsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Darmstadt",
+      "values": [
+        "Itálie",
+        "Německo",
+        "Slovensko",
+        "Maďarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paderborn",
+      "values": [
+        "Německo",
+        "Česko",
+        "Spojené království",
+        "Irsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Newport",
+      "values": [
+        "Spojené království",
+        "Německo",
+        "Portugalsko",
+        "Belgie"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

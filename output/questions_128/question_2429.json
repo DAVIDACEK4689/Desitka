@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] videohru?",
+  "questions": [
+    {
+      "key": "Indiana Jones",
+      "values": [
+        "americkou",
+        "francouzskou",
+        "japonskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Diablo IV",
+      "values": [
+        "ruskou",
+        "nizozemskou",
+        "srbskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dota 2",
+      "values": [
+        "americkou",
+        "německou",
+        "švédskou",
+        "islandskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gothic",
+      "values": [
+        "slovenskou",
+        "německou",
+        "australskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Final Fantasy XV",
+      "values": [
+        "japonskou",
+        "islandskou",
+        "americkou",
+        "kanadskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Doom II",
+      "values": [
+        "švédskou",
+        "ruskou",
+        "americkou",
+        "islandskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Azumanga daió",
+      "values": [
+        "japonskou",
+        "ukrajinskou",
+        "rakouskou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Myst",
+      "values": [
+        "kanadskou",
+        "americkou",
+        "islandskou",
+        "rakouskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cuphead",
+      "values": [
+        "finskou",
+        "dánskou",
+        "polskou",
+        "kanadskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Castle Wolfenstein",
+      "values": [
+        "kanadskou",
+        "běloruskou",
+        "americkou",
+        "nizozemskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

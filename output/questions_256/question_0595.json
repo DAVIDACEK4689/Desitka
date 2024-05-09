@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Taťána Kuchařová",
+      "values": [
+        "dánskou",
+        "českou",
+        "japonskou",
+        "irskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eliška Bučková",
+      "values": [
+        "polskou",
+        "českou",
+        "australskou",
+        "japonskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Renata Langmannová",
+      "values": [
+        "českou",
+        "indickou",
+        "dánskou",
+        "polskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ivanka Trumpová",
+      "values": [
+        "australskou",
+        "americkou",
+        "namibijskou",
+        "jihoafrickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Radka Rosická",
+      "values": [
+        "namibijskou",
+        "českou",
+        "dánskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Maya Hawkeová",
+      "values": [
+        "americkou",
+        "slovenskou",
+        "brazilskou",
+        "namibijskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Barbora Podzimková",
+      "values": [
+        "českou",
+        "nizozemskou",
+        "izraelskou",
+        "maďarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Elen Černá",
+      "values": [
+        "italskou",
+        "irskou",
+        "českou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Laetitia Casta",
+      "values": [
+        "maďarskou",
+        "jihoafrickou",
+        "francouzskou",
+        "polskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Blac Chyna",
+      "values": [
+        "italskou",
+        "rakouskou",
+        "americkou",
+        "australskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vynálezce?",
+  "questions": [
+    {
+      "key": "Galileo Galilei",
+      "values": [
+        "kanadského",
+        "maďarského",
+        "řeckého",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Benjamin Franklin",
+      "values": [
+        "kanadského",
+        "švédského",
+        "italského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Louis Pasteur",
+      "values": [
+        "rakouského",
+        "maďarského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rudolf Diesel",
+      "values": [
+        "švédského",
+        "sovětského",
+        "švýcarského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hans Ledwinka",
+      "values": [
+        "německého",
+        "řeckého",
+        "rakouského",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "George Westinghouse",
+      "values": [
+        "švýcarského",
+        "amerického",
+        "sovětského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "John Deere",
+      "values": [
+        "švýcarského",
+        "ruského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hérón Alexandrijský",
+      "values": [
+        "českého",
+        "maďarského",
+        "německého",
+        "řeckého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alois Senefelder",
+      "values": [
+        "kanadského",
+        "rakouského",
+        "německého",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Les Paul",
+      "values": [
+        "amerického",
+        "belgického",
+        "švýcarského",
+        "českého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

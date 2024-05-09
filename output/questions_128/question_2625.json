@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] literární dílo?",
+  "questions": [
+    {
+      "key": "Gulliverovy cesty",
+      "values": [
+        "irské",
+        "anglické",
+        "americké",
+        "ruské"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexandreis",
+      "values": [
+        "české",
+        "finské",
+        "polské",
+        "čínské"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Slovo o pluku Igorově",
+      "values": [
+        "finské",
+        "ruské",
+        "polské",
+        "francouzské"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Láska za časů cholery",
+      "values": [
+        "polské",
+        "ruské",
+        "francouzské",
+        "španělské"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pansofia",
+      "values": [
+        "německé",
+        "české",
+        "pruské",
+        "francouzské"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Walden",
+      "values": [
+        "rakouské",
+        "italské",
+        "americké",
+        "irské"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dubliňané",
+      "values": [
+        "velšské",
+        "polské",
+        "čínské",
+        "irské"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gettysburský projev",
+      "values": [
+        "české",
+        "anglické",
+        "finské",
+        "americké"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rhonabwyho sen",
+      "values": [
+        "ruské",
+        "španělské",
+        "velšské",
+        "pruské"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rudá jízda",
+      "values": [
+        "ruské",
+        "japonské",
+        "americké",
+        "rakouské"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kytaristu?",
+  "questions": [
+    {
+      "key": "Ladislav Štaidl",
+      "values": [
+        "brazilského",
+        "argentinského",
+        "českého",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nikola Muchová",
+      "values": [
+        "německého",
+        "slovenského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bella Ramsey",
+      "values": [
+        "britského",
+        "německého",
+        "kanadského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vlastimil Třešňák",
+      "values": [
+        "australského",
+        "českého",
+        "slovenského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miroslav Chrástka",
+      "values": [
+        "českého",
+        "švédského",
+        "italského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "The Edge",
+      "values": [
+        "norského",
+        "mexického",
+        "irského",
+        "jihoafrického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roland Grapow",
+      "values": [
+        "norského",
+        "amerického",
+        "maďarského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Buddy Guy",
+      "values": [
+        "brazilského",
+        "amerického",
+        "nizozemského",
+        "jihoafrického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "John Lee Hooker",
+      "values": [
+        "českého",
+        "jamajského",
+        "amerického",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tommy Emmanuel",
+      "values": [
+        "brazilského",
+        "francouzského",
+        "australského",
+        "dánského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

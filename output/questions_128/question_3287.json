@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Clint Eastwood",
+      "values": [
+        "amerického",
+        "chilského",
+        "bulharského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Patrik Děrgel",
+      "values": [
+        "gruzínského",
+        "marockého",
+        "českého",
+        "indického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Otomar Korbelář",
+      "values": [
+        "guatemalského",
+        "japonského",
+        "českého",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jamie Foxx",
+      "values": [
+        "australského",
+        "izraelského",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Daniel Roesner",
+      "values": [
+        "portugalského",
+        "novozélandského",
+        "německého",
+        "čínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miroslav Hrabě",
+      "values": [
+        "indického",
+        "českého",
+        "rakouského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zdeněk Gina Hašler",
+      "values": [
+        "ruského",
+        "českého",
+        "mexického",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Carel Struycken",
+      "values": [
+        "ruského",
+        "thajského",
+        "gruzínského",
+        "nizozemského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Johann Nepomuk Nestroy",
+      "values": [
+        "chorvatského",
+        "rakouského",
+        "amerického",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hasan Zahirović",
+      "values": [
+        "belgického",
+        "sovětského",
+        "bosenského",
+        "německého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

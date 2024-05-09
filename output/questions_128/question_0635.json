@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle prezidenta",
+  "questions": [
+    {
+      "key": "Nicolae Ceaușescu",
+      "values": [
+        "Mongolsko",
+        "Rwanda",
+        "Uruguay",
+        "Rumunsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Maia Sanduová",
+      "values": [
+        "Izrael",
+        "Moldavsko",
+        "Ghana",
+        "Malta"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nursultan Nazarbajev",
+      "values": [
+        "Čad",
+        "Paraguay",
+        "Kazachstán",
+        "Etiopie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Raymond Poincaré",
+      "values": [
+        "Irsko",
+        "Francie",
+        "Mexiko",
+        "Španělsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nataša Pircová Musarová",
+      "values": [
+        "Libanon",
+        "Island",
+        "Tanzanie",
+        "Slovinsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Muhammad Chátamí",
+      "values": [
+        "Ekvádor",
+        "Írán",
+        "Niger",
+        "Arménie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Enrique Peña Nieto",
+      "values": [
+        "Moldavsko",
+        "Turkmenistán",
+        "Mexiko",
+        "Somálsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pieter Willem Botha",
+      "values": [
+        "Kyrgyzstán",
+        "Jihoafrická republika",
+        "Gruzie",
+        "Jemen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexandre Millerand",
+      "values": [
+        "Burkina Faso",
+        "Francie",
+        "Brazílie",
+        "Jugoslávie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ryszard Kaczorowski",
+      "values": [
+        "Kazachstán",
+        "Polsko",
+        "Německo",
+        "Somálsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

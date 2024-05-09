@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Luís Figo",
+      "values": [
+        "portugalského",
+        "chorvatského",
+        "skotského",
+        "venezuelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "João Cancelo",
+      "values": [
+        "kolumbijského",
+        "portugalského",
+        "norského",
+        "ghanského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nicolas Anelka",
+      "values": [
+        "ghanského",
+        "argentinského",
+        "islandského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Joško Gvardiol",
+      "values": [
+        "nizozemského",
+        "rakouského",
+        "chorvatského",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luca Toni",
+      "values": [
+        "kamerunského",
+        "italského",
+        "švédského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Serhou Guirassy",
+      "values": [
+        "slovinského",
+        "nizozemského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Diego Godín",
+      "values": [
+        "uruguayského",
+        "českého",
+        "ruského",
+        "zimbabwského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Claudio Caniggia",
+      "values": [
+        "bulharského",
+        "dánského",
+        "rakouského",
+        "argentinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Claudio Bravo",
+      "values": [
+        "kolumbijského",
+        "paraguayského",
+        "chilského",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ralf Rangnick",
+      "values": [
+        "venezuelského",
+        "francouzského",
+        "španělského",
+        "německého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

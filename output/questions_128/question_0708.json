@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Dobytí Bastily",
+      "values": [
+        "1071",
+        "1789",
+        "1991",
+        "1745"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Slavná revoluce",
+      "values": [
+        "1937",
+        "1298",
+        "1571",
+        "1688"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Třetí bitva u Yper",
+      "values": [
+        "1917",
+        "1071",
+        "1298",
+        "1253"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Ořechova",
+      "values": [
+        "1979",
+        "1664",
+        "1945",
+        "1634"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva na Berezině",
+      "values": [
+        "1812",
+        "1944",
+        "1697",
+        "1453"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Operace Bouře 333",
+      "values": [
+        "1979",
+        "1968",
+        "1071",
+        "1704"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zničení Svazu Z",
+      "values": [
+        "1941",
+        "1702",
+        "1789",
+        "1288"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Boyne",
+      "values": [
+        "1813",
+        "1485",
+        "1690",
+        "1298"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Operace Panzerfaust",
+      "values": [
+        "495",
+        "1456",
+        "1904",
+        "1944"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Operace Forager",
+      "values": [
+        "1302",
+        "1944",
+        "1453",
+        "1421"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

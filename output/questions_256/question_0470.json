@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [národnost] komunistu?",
+  "questions": [
+    {
+      "key": "Pablo Picasso",
+      "values": [
+        "rumunského",
+        "maďarského",
+        "chilského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ivan Olbracht",
+      "values": [
+        "rumunského",
+        "sovětského",
+        "bulharského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dean Reed",
+      "values": [
+        "sovětského",
+        "amerického",
+        "mexického",
+        "československého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jim Jones",
+      "values": [
+        "kambodžského",
+        "amerického",
+        "maďarského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rosa Luxemburgová",
+      "values": [
+        "rumunského",
+        "německého",
+        "polského",
+        "bulharského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Georgi Dimitrov",
+      "values": [
+        "bulharského",
+        "jugoslávského",
+        "československého",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Isadora Duncanová",
+      "values": [
+        "bulharského",
+        "českého",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Egon Krenz",
+      "values": [
+        "italského",
+        "sovětského",
+        "vietnamského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gennadij Zjuganov",
+      "values": [
+        "vietnamského",
+        "kambodžského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Richard Sorge",
+      "values": [
+        "polského",
+        "maďarského",
+        "jugoslávského",
+        "německého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

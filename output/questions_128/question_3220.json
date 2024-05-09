@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Na nože",
+      "values": [
+        "Arthur Penn",
+        "George Roy Hill",
+        "Richard Lester",
+        "Rian Johnson"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ospalá díra",
+      "values": [
+        "Robert Benton",
+        "McG",
+        "Tim Burton",
+        "Harold Becker"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Beetlejuice",
+      "values": [
+        "Tim Burton",
+        "Jonathan Demme",
+        "David Fincher",
+        "Barry Levinson"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gran Torino",
+      "values": [
+        "Clint Eastwood",
+        "Robert Rodriguez",
+        "Sam Raimi",
+        "Nick Cassavetes"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Donnie Darko",
+      "values": [
+        "Walter Hill",
+        "Richard Kelly",
+        "George Lucas",
+        "Steven Spielberg"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Život brouka",
+      "values": [
+        "Richard Fleischer",
+        "John Lasseter",
+        "Michael Bay",
+        "Chris Wedge"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rychlejší než smrt",
+      "values": [
+        "Ruben Fleischer",
+        "Sam Raimi",
+        "Bryan Singer",
+        "Robert Redford"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Božský Evan",
+      "values": [
+        "Oliver Stone",
+        "Ivan Passer",
+        "Charles Shyer",
+        "Tom Shadyac"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Půlnoční nebe",
+      "values": [
+        "Darren Aronofsky",
+        "Joel Schumacher",
+        "Jim Jarmusch",
+        "George Clooney"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Země policajtů",
+      "values": [
+        "Godfrey Reggio",
+        "Walter Hill",
+        "Peter Hyams",
+        "James Mangold"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Kryštof Harant z Polžic a Bezdružic",
+      "values": [
+        "finského",
+        "rumunského",
+        "českého",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Niall Horan",
+      "values": [
+        "japonského",
+        "slovinského",
+        "irského",
+        "arménského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aram Chačaturjan",
+      "values": [
+        "polského",
+        "švýcarského",
+        "českého",
+        "arménského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Philip Glass",
+      "values": [
+        "amerického",
+        "českého",
+        "rakouského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ricardo Mollo",
+      "values": [
+        "švédského",
+        "maďarského",
+        "argentinského",
+        "estonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ruggero Leoncavallo",
+      "values": [
+        "ruského",
+        "litevského",
+        "belgického",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Domenico Scarlatti",
+      "values": [
+        "italského",
+        "norského",
+        "slovinského",
+        "jihoafrického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miloš Dvořáček",
+      "values": [
+        "řeckého",
+        "německého",
+        "litevského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "John Powell",
+      "values": [
+        "ukrajinského",
+        "argentinského",
+        "britského",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Blixa Bargeld",
+      "values": [
+        "švédského",
+        "německého",
+        "arménského",
+        "českého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Jiří Bartoška",
+      "values": [
+        "slovenského",
+        "italského",
+        "indického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Július Satinský",
+      "values": [
+        "čínského",
+        "ruského",
+        "slovenského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vítězslav Jandák",
+      "values": [
+        "španělského",
+        "českého",
+        "italského",
+        "chilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ladislav Hampl",
+      "values": [
+        "španělského",
+        "sovětského",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michal Hejný",
+      "values": [
+        "českého",
+        "francouzského",
+        "indického",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Broněk Černý",
+      "values": [
+        "českého",
+        "slovenského",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Leslie Nielsen",
+      "values": [
+        "dánského",
+        "sovětského",
+        "kanadského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jamie Foxx",
+      "values": [
+        "guatemalského",
+        "venezuelského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aaron Carter",
+      "values": [
+        "nizozemského",
+        "slovenského",
+        "sovětského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jason Priestley",
+      "values": [
+        "ruského",
+        "kanadského",
+        "chilského",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

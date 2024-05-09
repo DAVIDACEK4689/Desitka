@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] televizní stanici?",
+  "questions": [
+    {
+      "key": "TV Nova",
+      "values": [
+        "japonskou",
+        "českou",
+        "ruskou",
+        "kanadskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Prima Cool",
+      "values": [
+        "německou",
+        "finskou",
+        "českou",
+        "norskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "TV Markíza",
+      "values": [
+        "americkou",
+        "slovenskou",
+        "ruskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Prima Love",
+      "values": [
+        "německou",
+        "polskou",
+        "finskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "JOJ Family",
+      "values": [
+        "kanadskou",
+        "polskou",
+        "francouzskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cartoon Network",
+      "values": [
+        "americkou",
+        "japonskou",
+        "jihokorejskou",
+        "polskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "RTL Television",
+      "values": [
+        "kanadskou",
+        "norskou",
+        "francouzskou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "O2 TV Fotbal",
+      "values": [
+        "francouzskou",
+        "ruskou",
+        "britskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mediaset",
+      "values": [
+        "německou",
+        "norskou",
+        "jihokorejskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "TVN",
+      "values": [
+        "polskou",
+        "slovenskou",
+        "finskou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

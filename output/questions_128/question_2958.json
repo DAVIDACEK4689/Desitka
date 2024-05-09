@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Agáta Hanychová",
+      "values": [
+        "švýcarskou",
+        "českou",
+        "francouzskou",
+        "švédskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eva Mendes",
+      "values": [
+        "americkou",
+        "italskou",
+        "indickou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ursula Andressová",
+      "values": [
+        "brazilskou",
+        "americkou",
+        "australskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gabriela Kratochvílová",
+      "values": [
+        "argentinskou",
+        "českou",
+        "americkou",
+        "indickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Patricia Arquette",
+      "values": [
+        "ruskou",
+        "americkou",
+        "izraelskou",
+        "rakouskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Waris Dirie",
+      "values": [
+        "rakouskou",
+        "německou",
+        "dánskou",
+        "brazilskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Izabella Scorupco",
+      "values": [
+        "italskou",
+        "irskou",
+        "brazilskou",
+        "polskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karolína Mrozková",
+      "values": [
+        "českou",
+        "rakouskou",
+        "polskou",
+        "americkou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Edie Sedgwick",
+      "values": [
+        "ruskou",
+        "americkou",
+        "italskou",
+        "slovenskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jesse Jane",
+      "values": [
+        "kanadskou",
+        "polskou",
+        "americkou",
+        "venezuelskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filozofa?",
+  "questions": [
+    {
+      "key": "Platón",
+      "values": [
+        "nizozemského",
+        "perského",
+        "maďarského",
+        "řeckého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Erasmus Rotterdamský",
+      "values": [
+        "rakouského",
+        "nizozemského",
+        "španělského",
+        "egyptského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Empedoklés",
+      "values": [
+        "řeckého",
+        "sovětského",
+        "britského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mistr Eckhart",
+      "values": [
+        "slovinského",
+        "ukrajinského",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivan Dubský",
+      "values": [
+        "českého",
+        "dánského",
+        "ruského",
+        "perského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Irenej z Lyonu",
+      "values": [
+        "italského",
+        "nizozemského",
+        "indického",
+        "řeckého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alain de Botton",
+      "values": [
+        "egyptského",
+        "švýcarského",
+        "ruského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Milan Balabán",
+      "values": [
+        "českého",
+        "irského",
+        "polského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Romano Guardini",
+      "values": [
+        "německého",
+        "srbského",
+        "rakouského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Poseidónios",
+      "values": [
+        "kanadského",
+        "čínského",
+        "řeckého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

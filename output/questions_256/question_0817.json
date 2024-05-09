@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Vykoupení z věznice Shawshank",
+      "values": [
+        "Frank Darabont",
+        "Jon Turteltaub",
+        "Ang Lee",
+        "Stephen Sommers"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hledá se Nemo",
+      "values": [
+        "Andrew Stanton",
+        "Brad Bird",
+        "Stephen Sommers",
+        "Edward Zwick"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Smrtonosná past",
+      "values": [
+        "Terry Gilliam",
+        "Roger Kumble",
+        "Harold Ramis",
+        "John McTiernan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kmotr II",
+      "values": [
+        "Alan Taylor",
+        "Kevin Costner",
+        "Alfred Hitchcock",
+        "Francis Ford Coppola"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kokosy na sněhu",
+      "values": [
+        "Jon Turteltaub",
+        "David Zucker",
+        "Tim Burton",
+        "Keenen Ivory Wayans"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Údolí stínů",
+      "values": [
+        "Mike Nichols",
+        "Stephen Sommers",
+        "Randall Wallace",
+        "James Mangold"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vůně ženy",
+      "values": [
+        "Martin Scorsese",
+        "Randall Wallace",
+        "Robert Benton",
+        "Martin Brest"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Velmi nebezpečné známosti",
+      "values": [
+        "Roger Kumble",
+        "Jon Favreau",
+        "David Frankel",
+        "Ron Howard"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Takoví jsme byli",
+      "values": [
+        "William Friedkin",
+        "Sydney Pollack",
+        "Martin Brest",
+        "bratři Russoové"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Modrý samet",
+      "values": [
+        "Alan Taylor",
+        "Doug Liman",
+        "David Lynch",
+        "Fritz Lang"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

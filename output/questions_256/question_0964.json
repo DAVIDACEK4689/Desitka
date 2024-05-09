@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] šlechtice?",
+  "questions": [
+    {
+      "key": "Lev Nikolajevič Tolstoj",
+      "values": [
+        "švédského",
+        "ruského",
+        "slezského",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Konstantin von Neurath",
+      "values": [
+        "německého",
+        "českého",
+        "monackého",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Brooke Shieldsová",
+      "values": [
+        "ruského",
+        "chorvatského",
+        "italského",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luchino Visconti",
+      "values": [
+        "uherského",
+        "slovenského",
+        "italského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Smil Flaška z Pardubic",
+      "values": [
+        "německého",
+        "rakouského",
+        "monackého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Evžen de Beauharnais",
+      "values": [
+        "monackého",
+        "francouzského",
+        "polského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gebhard Leberecht von Blücher",
+      "values": [
+        "moravského",
+        "nizozemského",
+        "německého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gyula Andrássy mladší",
+      "values": [
+        "uherského",
+        "českého",
+        "nizozemského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lichnovští z Voštic",
+      "values": [
+        "slezského",
+        "nizozemského",
+        "italského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ottavio Piccolomini",
+      "values": [
+        "italského",
+        "německého",
+        "uherského",
+        "moravského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

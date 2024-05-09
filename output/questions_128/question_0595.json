@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] jaderného fyzika?",
+  "questions": [
+    {
+      "key": "Robert Oppenheimer",
+      "values": [
+        "francouzského",
+        "amerického",
+        "českého",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Harriet Brooks",
+      "values": [
+        "amerického",
+        "kanadského",
+        "francouzského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dana Drábová",
+      "values": [
+        "českého",
+        "kanadského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pierre Curie",
+      "values": [
+        "kanadského",
+        "českého",
+        "dánského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Niels Bohr",
+      "values": [
+        "českého",
+        "dánského",
+        "amerického",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Janouch",
+      "values": [
+        "českého",
+        "amerického",
+        "dánského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Louis Slotin",
+      "values": [
+        "francouzského",
+        "kanadského",
+        "amerického",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vojtěch Petráček",
+      "values": [
+        "amerického",
+        "dánského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivan Wilhelm",
+      "values": [
+        "kanadského",
+        "dánského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aage Niels Bohr",
+      "values": [
+        "kanadského",
+        "dánského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

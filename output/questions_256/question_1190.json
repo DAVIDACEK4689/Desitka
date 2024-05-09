@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Heidi Janků",
+      "values": [
+        "barbadoskou",
+        "izraelskou",
+        "švýcarskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Yvetta Blanarovičová",
+      "values": [
+        "ukrajinskou",
+        "českou",
+        "japonskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gabriela Partyšová",
+      "values": [
+        "brazilskou",
+        "španělskou",
+        "českou",
+        "polskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Amanda Seyfriedová",
+      "values": [
+        "italskou",
+        "mexickou",
+        "americkou",
+        "německou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vlasta Parkanová",
+      "values": [
+        "českou",
+        "španělskou",
+        "maďarskou",
+        "novozélandskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Julia Volkovová",
+      "values": [
+        "ruskou",
+        "německou",
+        "polskou",
+        "japonskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zdeňka Lorencová",
+      "values": [
+        "českou",
+        "jihokorejskou",
+        "kolumbijskou",
+        "irskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ginger Rogersová",
+      "values": [
+        "izraelskou",
+        "brazilskou",
+        "norskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Victoria Justice",
+      "values": [
+        "nizozemskou",
+        "peruánskou",
+        "americkou",
+        "irskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sandra Bernhard",
+      "values": [
+        "americkou",
+        "maďarskou",
+        "slovenskou",
+        "brazilskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle narození",
+  "questions": [
+    {
+      "key": "Ernst Gideon von Laudon",
+      "values": [
+        "Lotyšsko",
+        "Keňa",
+        "Jihoafrická republika",
+        "Paraguay"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "André Onana",
+      "values": [
+        "Ázerbájdžán",
+        "Island",
+        "Dánsko",
+        "Kamerun"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Egan Bernal",
+      "values": [
+        "Paraguay",
+        "Salvador",
+        "Bhútán",
+        "Kolumbie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Velemir Chlebnikov",
+      "values": [
+        "Irák",
+        "Ekvádor",
+        "Rusko",
+        "Gabon"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dina Boluarteová",
+      "values": [
+        "Bělorusko",
+        "Pero",
+        "Nigérie",
+        "Slovinsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Juan Borgia",
+      "values": [
+        "Moldavsko",
+        "Namibie",
+        "Itálie",
+        "Monako"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Džalál Talabání",
+      "values": [
+        "Finsko",
+        "Namibie",
+        "Uruguay",
+        "Irák"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sebastián Abreu",
+      "values": [
+        "Brazílie",
+        "Uruguay",
+        "Alžírsko",
+        "Mongolsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Richard Walther Darré",
+      "values": [
+        "Kosovo",
+        "Argentina",
+        "Portugalsko",
+        "Jamajka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nikos Anastasiadis",
+      "values": [
+        "Monako",
+        "Finsko",
+        "Kypr",
+        "Francie"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

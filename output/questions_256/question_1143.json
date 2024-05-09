@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] malíře?",
+  "questions": [
+    {
+      "key": "Pablo Picasso",
+      "values": [
+        "rakouského",
+        "slovenského",
+        "ukrajinského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Paul Gauguin",
+      "values": [
+        "francouzského",
+        "italského",
+        "nizozemského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Piet Mondrian",
+      "values": [
+        "britského",
+        "chorvatského",
+        "nizozemského",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Friedensreich Hundertwasser",
+      "values": [
+        "rakouského",
+        "norského",
+        "amerického",
+        "chorvatského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "David Lynch",
+      "values": [
+        "kolumbijského",
+        "japonského",
+        "amerického",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lucas Cranach starší",
+      "values": [
+        "japonského",
+        "belgického",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Odilon Redon",
+      "values": [
+        "kolumbijského",
+        "francouzského",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jurij Moravec",
+      "values": [
+        "rakouského",
+        "polského",
+        "ukrajinského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Antoine Watteau",
+      "values": [
+        "japonského",
+        "řeckého",
+        "norského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pieter Brueghel mladší",
+      "values": [
+        "nizozemského",
+        "amerického",
+        "britského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

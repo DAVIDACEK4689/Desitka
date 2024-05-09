@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] miliardáře?",
+  "questions": [
+    {
+      "key": "Karel Schwarzenberg",
+      "values": [
+        "ruského",
+        "ukrajinského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kim Kardashianová",
+      "values": [
+        "amerického",
+        "britského",
+        "ukrajinského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petro Porošenko",
+      "values": [
+        "ruského",
+        "slovenského",
+        "ukrajinského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Henry Ford",
+      "values": [
+        "slovenského",
+        "britského",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ivo Valenta",
+      "values": [
+        "slovenského",
+        "ukrajinského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vlastislav Bříza",
+      "values": [
+        "rakouského",
+        "britského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jitka Cechlová Komárková",
+      "values": [
+        "rakouského",
+        "českého",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Pudil",
+      "values": [
+        "rakouského",
+        "slovenského",
+        "ukrajinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eduard Kučera",
+      "values": [
+        "ukrajinského",
+        "slovenského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fred Trump",
+      "values": [
+        "britského",
+        "slovenského",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

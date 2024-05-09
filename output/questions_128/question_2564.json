@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte sport podle německého sportovce",
+  "questions": [
+    {
+      "key": "Philipp Nawrath",
+      "values": [
+        "stolní tenista",
+        "fotbalista",
+        "biatlonista",
+        "strongmani"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Franz Beckenbauer",
+      "values": [
+        "horolezec",
+        "biatlonista",
+        "fotbalista",
+        "akrobatický letec"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dominik Kahun",
+      "values": [
+        "skeletonisté",
+        "boxer",
+        "šachista",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Joshua Kimmich",
+      "values": [
+        "skeletonisté",
+        "fotbalista",
+        "horolezec",
+        "strongmani"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dirk Nowitzki",
+      "values": [
+        "biatlonista",
+        "basketbalista",
+        "horolezec",
+        "skeletonisté"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joachim Löw",
+      "values": [
+        "fotbalista",
+        "skeletonisté",
+        "horolezec",
+        "šermíř"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Leon Goretzka",
+      "values": [
+        "boxer",
+        "lední hokejista",
+        "šermíř",
+        "fotbalista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nick Heidfeld",
+      "values": [
+        "strongmani",
+        "fotbalista",
+        "pilot",
+        "gymnasta"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marco Sturm",
+      "values": [
+        "skeletonisté",
+        "lední hokejista",
+        "stolní tenista",
+        "bobista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hermann Lang",
+      "values": [
+        "pilot",
+        "tenista",
+        "boxer",
+        "skeletonisté"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

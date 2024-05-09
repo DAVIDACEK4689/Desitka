@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Vídeň",
+      "values": [
+        "Kazachstán",
+        "Španělsko",
+        "Ukrajina",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tokio",
+      "values": [
+        "Egypt",
+        "Mexiko",
+        "Japonsko",
+        "Španělsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luxor",
+      "values": [
+        "Litva",
+        "Belgie",
+        "Mexiko",
+        "Egypt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Salcburk",
+      "values": [
+        "Slovensko",
+        "Rakousko",
+        "Chorvatsko",
+        "Španělsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Soluň",
+      "values": [
+        "Island",
+        "Turecko",
+        "Řecko",
+        "Ukrajina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sofie",
+      "values": [
+        "Rumunsko",
+        "Thajsko",
+        "Izrael",
+        "Bulharsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ženeva",
+      "values": [
+        "Švýcarsko",
+        "Srbsko",
+        "Rumunsko",
+        "Belgie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bangkok",
+      "values": [
+        "Litva",
+        "Švýcarsko",
+        "Thajsko",
+        "Egypt"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Reykjavík",
+      "values": [
+        "Maďarsko",
+        "Srbsko",
+        "Island",
+        "Kazachstán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Haag",
+      "values": [
+        "Ukrajina",
+        "Německo",
+        "Belgie",
+        "Nizozemsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

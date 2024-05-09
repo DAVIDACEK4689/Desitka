@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Vašo Patejdl",
+      "values": [
+        "ruského",
+        "britského",
+        "slovenského",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lou Fanánek Hagen",
+      "values": [
+        "slovenského",
+        "českého",
+        "italského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Richard Müller",
+      "values": [
+        "kanadského",
+        "německého",
+        "slovenského",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Emil František Burian",
+      "values": [
+        "maďarského",
+        "německého",
+        "irského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gustav Mahler",
+      "values": [
+        "ruského",
+        "slovenského",
+        "německého",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel Hašler",
+      "values": [
+        "irského",
+        "kanadského",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Slávek Boura",
+      "values": [
+        "českého",
+        "slovenského",
+        "rakouského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Igor Stravinskij",
+      "values": [
+        "britského",
+        "amerického",
+        "ruského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Eben",
+      "values": [
+        "italského",
+        "českého",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Hejduk",
+      "values": [
+        "německého",
+        "francouzského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

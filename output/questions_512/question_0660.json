@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Tomáš Ujfaluši",
+      "values": [
+        "norského",
+        "českého",
+        "portugalského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Brian Priske",
+      "values": [
+        "nigerijského",
+        "dánského",
+        "slovenského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adam Hloušek",
+      "values": [
+        "československého",
+        "německého",
+        "českého",
+        "severoirského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Paulo Dybala",
+      "values": [
+        "švédského",
+        "argentinského",
+        "chorvatského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michal Sadílek",
+      "values": [
+        "českého",
+        "kamerunského",
+        "portugalského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Iker Casillas",
+      "values": [
+        "nigerijského",
+        "španělského",
+        "francouzského",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tomáš Zápotočný",
+      "values": [
+        "kamerunského",
+        "kostarického",
+        "norského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Hušbauer",
+      "values": [
+        "českého",
+        "ekvádorského",
+        "australského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Filippo Inzaghi",
+      "values": [
+        "brazilského",
+        "rakouského",
+        "československého",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Yann Sommer",
+      "values": [
+        "portugalského",
+        "švýcarského",
+        "španělského",
+        "norského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

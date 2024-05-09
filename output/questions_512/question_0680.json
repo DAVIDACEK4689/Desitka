@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [národnost] marxistu?",
+  "questions": [
+    {
+      "key": "Vladimir Iljič Lenin",
+      "values": [
+        "ruského",
+        "českého",
+        "francouzského",
+        "chilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Egon Bondy",
+      "values": [
+        "českého",
+        "chilského",
+        "francouzského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dean Reed",
+      "values": [
+        "českého",
+        "amerického",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lee Harvey Oswald",
+      "values": [
+        "francouzského",
+        "chilského",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Friedrich Engels",
+      "values": [
+        "italského",
+        "slovinského",
+        "německého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Slavoj Žižek",
+      "values": [
+        "amerického",
+        "slovinského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Uhl",
+      "values": [
+        "chilského",
+        "českého",
+        "slovinského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bertolt Brecht",
+      "values": [
+        "chilského",
+        "německého",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Salvador Allende",
+      "values": [
+        "ruského",
+        "slovinského",
+        "amerického",
+        "chilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rosa Luxemburgová",
+      "values": [
+        "chilského",
+        "německého",
+        "slovinského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

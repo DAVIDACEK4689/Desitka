@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Atomové bombardování Hirošimy a Nagasaki",
+      "values": [
+        "1663",
+        "1793",
+        "1945",
+        "1610"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Azincourtu",
+      "values": [
+        "1302",
+        "1415",
+        "1854",
+        "1945"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Štěrbohol",
+      "values": [
+        "1419",
+        "1605",
+        "1757",
+        "2023"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva o Kyjevský kotel",
+      "values": [
+        "1941",
+        "1634",
+        "1471",
+        "1759"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Znojma",
+      "values": [
+        "1809",
+        "1643",
+        "1241",
+        "1214"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva o Tábor",
+      "values": [
+        "1741",
+        "1420",
+        "1421",
+        "1396"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Křeče",
+      "values": [
+        "1979",
+        "1332",
+        "1435",
+        "1863"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "První bitva u Mazurských jezer",
+      "values": [
+        "2001",
+        "1526",
+        "1914",
+        "1278"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva v Bismarckově moři",
+      "values": [
+        "1943",
+        "1663",
+        "1424",
+        "636"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Chrastavy",
+      "values": [
+        "1428",
+        "1687",
+        "1688",
+        "1988"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

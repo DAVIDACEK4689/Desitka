@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] malíře?",
+  "questions": [
+    {
+      "key": "Caravaggio",
+      "values": [
+        "italského",
+        "chorvatského",
+        "finského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oskar Kokoschka",
+      "values": [
+        "norského",
+        "italského",
+        "rakouského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Henri Matisse",
+      "values": [
+        "italského",
+        "norského",
+        "francouzského",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Adalbert Stifter",
+      "values": [
+        "rakouského",
+        "německého",
+        "švýcarského",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mark Rothko",
+      "values": [
+        "italského",
+        "francouzského",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nicolas Poussin",
+      "values": [
+        "řeckého",
+        "španělského",
+        "francouzského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fra Angelico",
+      "values": [
+        "chorvatského",
+        "polského",
+        "italského",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Giovanni Bellini",
+      "values": [
+        "italského",
+        "rakouského",
+        "norského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vlaho Bukovac",
+      "values": [
+        "francouzského",
+        "belgického",
+        "chorvatského",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cimabue",
+      "values": [
+        "rakouského",
+        "ruského",
+        "finského",
+        "italského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

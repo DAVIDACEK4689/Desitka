@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] svatého?",
+  "questions": [
+    {
+      "key": "Svatý Valentin",
+      "values": [
+        "velšského",
+        "rakouského",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zdislava z Lemberka",
+      "values": [
+        "českého",
+        "velšského",
+        "egyptského",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ignác z Loyoly",
+      "values": [
+        "španělského",
+        "anglického",
+        "řeckého",
+        "libanonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hildegarda z Bingenu",
+      "values": [
+        "italského",
+        "anglického",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kateřina Sienská",
+      "values": [
+        "italského",
+        "portugalského",
+        "irského",
+        "anglického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Becket",
+      "values": [
+        "rakouského",
+        "velšského",
+        "skotského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Svatá Cecilie",
+      "values": [
+        "portugalského",
+        "skotského",
+        "italského",
+        "egyptského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vladimír Petřek",
+      "values": [
+        "českého",
+        "polského",
+        "německého",
+        "anglického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dmitrij Donský",
+      "values": [
+        "italského",
+        "alžírského",
+        "egyptského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alois Gonzaga",
+      "values": [
+        "portugalského",
+        "italského",
+        "českého",
+        "velšského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

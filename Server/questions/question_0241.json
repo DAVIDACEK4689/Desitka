@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistku?",
+  "questions": [
+    {
+      "key": "Barbora Strýcová",
+      "values": [
+        "německou",
+        "českou",
+        "polskou",
+        "dánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kateřina Siniaková",
+      "values": [
+        "švýcarskou",
+        "ukrajinskou",
+        "ruskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Iga Świąteková",
+      "values": [
+        "polskou",
+        "švýcarskou",
+        "kanadskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ons Džabúrová",
+      "values": [
+        "tuniskou",
+        "dánskou",
+        "ruskou",
+        "kanadskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marie Bouzková",
+      "values": [
+        "českou",
+        "dánskou",
+        "tuniskou",
+        "polskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Steffi Grafová",
+      "values": [
+        "běloruskou",
+        "českou",
+        "německou",
+        "polskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andrea Sestini Hlaváčková",
+      "values": [
+        "švýcarskou",
+        "českou",
+        "běloruskou",
+        "dánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Maria Šarapovová",
+      "values": [
+        "německou",
+        "kanadskou",
+        "ruskou",
+        "běloruskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Leylah Fernandezová",
+      "values": [
+        "švýcarskou",
+        "tuniskou",
+        "americkou",
+        "kanadskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kristýna Plíšková",
+      "values": [
+        "českou",
+        "běloruskou",
+        "německou",
+        "kanadskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

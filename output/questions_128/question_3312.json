@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Jakub Kohák",
+      "values": [
+        "českého",
+        "indického",
+        "portorického",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rudolf Hrušínský nejstarší",
+      "values": [
+        "španělského",
+        "portorického",
+        "českého",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Václav Upír Krejčí",
+      "values": [
+        "maďarského",
+        "českého",
+        "kanadského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nick Cave",
+      "values": [
+        "australského",
+        "indického",
+        "maďarského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michal Balcar",
+      "values": [
+        "thajského",
+        "guatemalského",
+        "tureckého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Garrett Hedlund",
+      "values": [
+        "belgického",
+        "amerického",
+        "čínského",
+        "namibijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Arnošt Faltýnek",
+      "values": [
+        "českého",
+        "tureckého",
+        "portugalského",
+        "islandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Scott Caan",
+      "values": [
+        "amerického",
+        "tureckého",
+        "marockého",
+        "islandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alois Dvorský",
+      "values": [
+        "italského",
+        "německého",
+        "dánského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ryan Guzman",
+      "values": [
+        "irského",
+        "amerického",
+        "švédského",
+        "indického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

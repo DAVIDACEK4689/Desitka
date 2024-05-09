@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte téma podle filmu",
+  "questions": [
+    {
+      "key": "Poslední závod",
+      "values": [
+        "novinář",
+        "herec",
+        "sport",
+        "sebevražda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Americká krása",
+      "values": [
+        "sexualita",
+        "herec",
+        "spisovatel",
+        "cirkus"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kód Enigmy",
+      "values": [
+        "upír",
+        "novinář",
+        "sebevražda",
+        "židovská tematika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Muž jménem Otto",
+      "values": [
+        "učitel",
+        "herec",
+        "upír",
+        "sebevražda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vratné lahve",
+      "values": [
+        "loupež",
+        "novinář",
+        "spisovatel",
+        "učitel"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Smrtonosná past",
+      "values": [
+        "herec",
+        "cirkus",
+        "upír",
+        "loupež"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ženy v běhu",
+      "values": [
+        "sport",
+        "upír",
+        "učitel",
+        "novinář"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Náš vůdce",
+      "values": [
+        "automobil",
+        "sebevražda",
+        "sport",
+        "učitel"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Přes prsty",
+      "values": [
+        "dvojče",
+        "židovská tematika",
+        "sexualita",
+        "sport"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Skleněné peklo",
+      "values": [
+        "hasič",
+        "sport",
+        "upír",
+        "učitel"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

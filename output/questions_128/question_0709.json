@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva na Bílé hoře",
+      "values": [
+        "1428",
+        "1798",
+        "1565",
+        "1620"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva o Alamo",
+      "values": [
+        "1814",
+        "1836",
+        "1745",
+        "1461"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Slivice",
+      "values": [
+        "1945",
+        "1683",
+        "1435",
+        "1871"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva o zámek Itter",
+      "values": [
+        "1945",
+        "1865",
+        "1796",
+        "1438"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Magdeburská svatba",
+      "values": [
+        "1631",
+        "1421",
+        "1743",
+        "1634"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Falkirku",
+      "values": [
+        "1979",
+        "1745",
+        "1933",
+        "1298"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "První bitva u Breitenfeldu",
+      "values": [
+        "1631",
+        "1527",
+        "1813",
+        "1898"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Höchstädtu",
+      "values": [
+        "1435",
+        "1709",
+        "1428",
+        "1704"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Operace Suvorov",
+      "values": [
+        "1943",
+        "1437",
+        "1743",
+        "1040"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Krvavý týden",
+      "values": [
+        "1610",
+        "2022",
+        "1800",
+        "1871"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

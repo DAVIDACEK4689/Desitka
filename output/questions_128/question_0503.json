@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] právo?",
+  "questions": [
+    {
+      "key": "Edikt nantský",
+      "values": [
+        "anglické",
+        "polské",
+        "české",
+        "francouzské"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Scotland Yard",
+      "values": [
+        "novozélandské",
+        "izraelské",
+        "české",
+        "britské"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fair use",
+      "values": [
+        "polské",
+        "americké",
+        "francouzské",
+        "britské"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kontrolní hlášení DPH",
+      "values": [
+        "novozélandské",
+        "české",
+        "německé",
+        "anglické"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Limited liability company",
+      "values": [
+        "anglické",
+        "polské",
+        "indické",
+        "americké"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Právo ve Spojeném království",
+      "values": [
+        "britské",
+        "byzantské",
+        "české",
+        "francouzské"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Námořní kriminální vyšetřovací služba",
+      "values": [
+        "izraelské",
+        "britské",
+        "americké",
+        "byzantské"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zákoník Manuův",
+      "values": [
+        "izraelské",
+        "byzantské",
+        "indické",
+        "americké"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zvláštní agent",
+      "values": [
+        "anglické",
+        "byzantské",
+        "americké",
+        "polské"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Old Bailey",
+      "values": [
+        "byzantské",
+        "polské",
+        "britské",
+        "novozélandské"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

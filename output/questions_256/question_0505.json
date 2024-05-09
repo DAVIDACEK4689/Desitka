@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Fjodor Michajlovič Dostojevskij",
+      "values": [
+        "českého",
+        "ruského",
+        "maďarského",
+        "filipínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eduard Petiška",
+      "values": [
+        "britského",
+        "argentinského",
+        "nizozemského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karen Blixenová",
+      "values": [
+        "kolumbijského",
+        "filipínského",
+        "australského",
+        "dánského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lion Feuchtwanger",
+      "values": [
+        "filipínského",
+        "kolumbijského",
+        "německého",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Isla Fisherová",
+      "values": [
+        "ruského",
+        "australského",
+        "kanadského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Václav Renč",
+      "values": [
+        "švédského",
+        "britského",
+        "českého",
+        "jihoafrického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Knut Hamsun",
+      "values": [
+        "švédského",
+        "brazilského",
+        "jihoafrického",
+        "norského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alexandre Dumas",
+      "values": [
+        "francouzského",
+        "jihoafrického",
+        "dánského",
+        "filipínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Edgar Rice Burroughs",
+      "values": [
+        "brazilského",
+        "mexického",
+        "rumunského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Joseph Roth",
+      "values": [
+        "kyrgyzského",
+        "ázerbájdžánského",
+        "belgického",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Pizza",
+      "values": [
+        "tureckou",
+        "italskou",
+        "středomořskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rajská omáčka",
+      "values": [
+        "arabskou",
+        "českou",
+        "tureckou",
+        "finskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Turecká káva",
+      "values": [
+        "vietnamskou",
+        "slovenskou",
+        "americkou",
+        "belgickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Balzamikový ocet",
+      "values": [
+        "rakouskou",
+        "italskou",
+        "portugalskou",
+        "tureckou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tatranky",
+      "values": [
+        "českou",
+        "chorvatskou",
+        "americkou",
+        "indickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vegemite",
+      "values": [
+        "německou",
+        "australskou",
+        "dánskou",
+        "rakouskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Retsina",
+      "values": [
+        "korejskou",
+        "řeckou",
+        "čínskou",
+        "gruzínskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nori",
+      "values": [
+        "rakouskou",
+        "japonskou",
+        "chorvatskou",
+        "mexickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gumbo",
+      "values": [
+        "americkou",
+        "arménskou",
+        "slovenskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tuborg",
+      "values": [
+        "tureckou",
+        "portugalskou",
+        "arabskou",
+        "dánskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

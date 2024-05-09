@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kytaristu?",
+  "questions": [
+    {
+      "key": "František Sahula",
+      "values": [
+        "španělského",
+        "českého",
+        "irského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Richard Kruspe",
+      "values": [
+        "jihoafrického",
+        "německého",
+        "mexického",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Luboš Andršt",
+      "values": [
+        "českého",
+        "dánského",
+        "francouzského",
+        "finského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Artur Mikhaylov",
+      "values": [
+        "dánského",
+        "kanadského",
+        "českého",
+        "jihoafrického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Steve Morse",
+      "values": [
+        "maďarského",
+        "amerického",
+        "finského",
+        "jihoafrického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Daniel Krob",
+      "values": [
+        "českého",
+        "francouzského",
+        "argentinského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Al Di Meola",
+      "values": [
+        "amerického",
+        "irského",
+        "českého",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Adam Gontier",
+      "values": [
+        "italského",
+        "amerického",
+        "kanadského",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andrés Segovia",
+      "values": [
+        "nizozemského",
+        "španělského",
+        "jamajského",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sascha Gerstner",
+      "values": [
+        "maďarského",
+        "norského",
+        "německého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle geografie",
+  "questions": [
+    {
+      "key": "Aokigahara",
+      "values": [
+        "Eritrea",
+        "Srí Lanka",
+        "Island",
+        "Japonsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Judea a Samaří",
+      "values": [
+        "Moldavsko",
+        "Japonsko",
+        "Palestina",
+        "Svatý Vincenc a Grenadiny"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Italská říše",
+      "values": [
+        "Senegal",
+        "Namibie",
+        "Itálie",
+        "Svatá Lucie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Romandie",
+      "values": [
+        "Švýcarsko",
+        "Spojené království",
+        "Finsko",
+        "Malajsie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Italské historické státy",
+      "values": [
+        "Itálie",
+        "Švýcarsko",
+        "Srbsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Groningenské ložisko zemního plynu",
+      "values": [
+        "Mexiko",
+        "Nizozemsko",
+        "Řecko",
+        "Bulharsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kladská kotlina",
+      "values": [
+        "Indie",
+        "Polsko",
+        "Losotho",
+        "Botswana"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kingstown",
+      "values": [
+        "Losotho",
+        "Nizozemsko",
+        "Rovníková Guinea",
+        "Svatý Vincenc a Grenadiny"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Apšeronský poloostrov",
+      "values": [
+        "Svatý Kryštof a Nevis",
+        "Jordánsko",
+        "Ázerbájdžán",
+        "Lotyšsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Basseterre",
+      "values": [
+        "Svatý Kryštof a Nevis",
+        "Barbados",
+        "Island",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] klavíristu?",
+  "questions": [
+    {
+      "key": "Johannes Brahms",
+      "values": [
+        "maďarského",
+        "českého",
+        "německého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Skoumal",
+      "values": [
+        "maďarského",
+        "francouzského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aretha Franklinová",
+      "values": [
+        "maďarského",
+        "ruského",
+        "amerického",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sergej Rachmaninov",
+      "values": [
+        "ruského",
+        "italského",
+        "australského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dmitrij Šostakovič",
+      "values": [
+        "amerického",
+        "francouzského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ray Charles",
+      "values": [
+        "italského",
+        "rakouského",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vadim Petrov",
+      "values": [
+        "německého",
+        "australského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Spálený",
+      "values": [
+        "českého",
+        "ruského",
+        "britského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Adam Levine",
+      "values": [
+        "italského",
+        "amerického",
+        "polského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tom Odell",
+      "values": [
+        "polského",
+        "italského",
+        "rakouského",
+        "britského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

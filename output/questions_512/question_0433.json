@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] malíře?",
+  "questions": [
+    {
+      "key": "Salvador Dalí",
+      "values": [
+        "finského",
+        "španělského",
+        "mexického",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Caravaggio",
+      "values": [
+        "českého",
+        "ukrajinského",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Amedeo Modigliani",
+      "values": [
+        "italského",
+        "ruského",
+        "finského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Henrik Ibsen",
+      "values": [
+        "norského",
+        "českého",
+        "německého",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paul Cézanne",
+      "values": [
+        "rakouského",
+        "polského",
+        "ukrajinského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "El Greco",
+      "values": [
+        "mexického",
+        "německého",
+        "rakouského",
+        "řeckého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Friedensreich Hundertwasser",
+      "values": [
+        "ukrajinského",
+        "belgického",
+        "španělského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Musaši Mijamoto",
+      "values": [
+        "francouzského",
+        "českého",
+        "japonského",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Han van Meegeren",
+      "values": [
+        "finského",
+        "nizozemského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Helene Schjerfbecková",
+      "values": [
+        "ukrajinského",
+        "finského",
+        "japonského",
+        "německého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

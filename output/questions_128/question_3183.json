@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Horst Siegl",
+      "values": [
+        "černohorského",
+        "arménského",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Pavlenka",
+      "values": [
+        "chilského",
+        "belgického",
+        "českého",
+        "bulharského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miroslav Klose",
+      "values": [
+        "německého",
+        "chilského",
+        "mexického",
+        "tureckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kingsley Coman",
+      "values": [
+        "francouzského",
+        "ghanského",
+        "amerického",
+        "kostarického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jairzinho",
+      "values": [
+        "brazilského",
+        "uruguayského",
+        "velšského",
+        "gambijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jakub Mareš",
+      "values": [
+        "senegalského",
+        "gambijského",
+        "ekvádorského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Holenda",
+      "values": [
+        "peruánského",
+        "senegalského",
+        "českého",
+        "anglického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ricardo Carvalho",
+      "values": [
+        "japonského",
+        "tožského",
+        "portugalského",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marek Střeštík",
+      "values": [
+        "bulharského",
+        "českého",
+        "španělského",
+        "československého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Libor Žůrek",
+      "values": [
+        "slovenského",
+        "německého",
+        "portugalského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

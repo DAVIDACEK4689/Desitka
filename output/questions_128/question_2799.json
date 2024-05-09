@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Bernard Arnault",
+      "values": [
+        "švédského",
+        "italského",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dalibor Dědek",
+      "values": [
+        "britského",
+        "rakouského",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Hampl",
+      "values": [
+        "íránského",
+        "pákistánského",
+        "indického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eduardo Saverin",
+      "values": [
+        "brazilského",
+        "japonského",
+        "britského",
+        "běloruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Phil Knight",
+      "values": [
+        "dánského",
+        "amerického",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Dienstl",
+      "values": [
+        "jihoafrického",
+        "českého",
+        "španělského",
+        "libanonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Friedrich Wannieck",
+      "values": [
+        "běloruského",
+        "řeckého",
+        "libanonského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Giovanni Agnelli",
+      "values": [
+        "brazilského",
+        "indického",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Ander",
+      "values": [
+        "litevského",
+        "rakouského",
+        "českého",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Serge Borenstein",
+      "values": [
+        "slovinského",
+        "belgického",
+        "bangladéšského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

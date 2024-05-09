@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Terence Hill",
+      "values": [
+        "polského",
+        "rakouského",
+        "italského",
+        "izraelského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Brukner",
+      "values": [
+        "izraelského",
+        "českého",
+        "norského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Filip Antonio",
+      "values": [
+        "belgického",
+        "českého",
+        "islandského",
+        "jihoafrického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ondřej Červíček",
+      "values": [
+        "chilského",
+        "českého",
+        "belgického",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Geoffrey Rush",
+      "values": [
+        "australského",
+        "italského",
+        "chorvatského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Yannick Bisson",
+      "values": [
+        "českého",
+        "norského",
+        "jamajského",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tobias Menzies",
+      "values": [
+        "jamajského",
+        "chilského",
+        "britského",
+        "srbského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robert Sheehan",
+      "values": [
+        "britského",
+        "jamajského",
+        "guatemalského",
+        "irského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Manu Ríos",
+      "values": [
+        "španělského",
+        "guatemalského",
+        "japonského",
+        "tureckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Walton Goggins",
+      "values": [
+        "izraelského",
+        "španělského",
+        "kanadského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

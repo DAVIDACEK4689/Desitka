@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fyzika?",
+  "questions": [
+    {
+      "key": "René Descartes",
+      "values": [
+        "francouzského",
+        "španělského",
+        "švýcarského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Niels Bohr",
+      "values": [
+        "italského",
+        "dánského",
+        "rumunského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Josef Gerstner",
+      "values": [
+        "španělského",
+        "srbského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Max Planck",
+      "values": [
+        "amerického",
+        "srbského",
+        "německého",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "William Thomson",
+      "values": [
+        "rakouského",
+        "kanadského",
+        "irského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Věslav Michalik",
+      "values": [
+        "nizozemského",
+        "českého",
+        "ruského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Valentin Ceaușescu",
+      "values": [
+        "rumunského",
+        "italského",
+        "irského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Svante Arrhenius",
+      "values": [
+        "amerického",
+        "švédského",
+        "nizozemského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Louis de Broglie",
+      "values": [
+        "srbského",
+        "íránského",
+        "rumunského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Armin Delong",
+      "values": [
+        "českého",
+        "dánského",
+        "britského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

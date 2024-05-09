@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva u Waterloo",
+      "values": [
+        "1690",
+        "1332",
+        "1437",
+        "1815"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Operace Weserübung",
+      "values": [
+        "2024",
+        "1940",
+        "1697",
+        "1704"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u El Alameinu",
+      "values": [
+        "1632",
+        "1942",
+        "1332",
+        "2001"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Jílového",
+      "values": [
+        "1805",
+        "1919",
+        "1807",
+        "1905"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Operace Cobra",
+      "values": [
+        "1944",
+        "1632",
+        "1332",
+        "1945"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Brůdku",
+      "values": [
+        "1814",
+        "1904",
+        "1040",
+        "1947"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Husitské tažení k Baltu",
+      "values": [
+        "1176",
+        "1332",
+        "1433",
+        "1877"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva na řece Němen",
+      "values": [
+        "1815",
+        "1187",
+        "1920",
+        "1854"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Operace Crusader",
+      "values": [
+        "1428",
+        "1410",
+        "1177",
+        "1941"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Mühlberka",
+      "values": [
+        "1191",
+        "1040",
+        "1917",
+        "1547"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

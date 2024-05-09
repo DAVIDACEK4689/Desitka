@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Viktor Dyk",
+      "values": [
+        "chilského",
+        "českého",
+        "skotského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivan Martin Jirous",
+      "values": [
+        "dánského",
+        "ukrajinského",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Svatopluk Čech",
+      "values": [
+        "italského",
+        "anglického",
+        "kanadského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Hrubín",
+      "values": [
+        "chilského",
+        "kanadského",
+        "českého",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "František Gellner",
+      "values": [
+        "českého",
+        "ukrajinského",
+        "francouzského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kato",
+      "values": [
+        "rakouského",
+        "českého",
+        "kanadského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Serge Gainsbourg",
+      "values": [
+        "francouzského",
+        "kanadského",
+        "ukrajinského",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mikuláš Dačický z Heslova",
+      "values": [
+        "španělského",
+        "rakouského",
+        "českého",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jean Cocteau",
+      "values": [
+        "ruského",
+        "irského",
+        "francouzského",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michail Jurjevič Lermontov",
+      "values": [
+        "španělského",
+        "ruského",
+        "irského",
+        "německého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

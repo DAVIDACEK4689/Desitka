@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotografa?",
+  "questions": [
+    {
+      "key": "Karel Čapek",
+      "values": [
+        "jihoafrického",
+        "českého",
+        "anglického",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Robert Koch",
+      "values": [
+        "rakouského",
+        "německého",
+        "rumunského",
+        "kubánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Robert Mapplethorpe",
+      "values": [
+        "dánského",
+        "lucemburského",
+        "vietnamského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nicéphore Niépce",
+      "values": [
+        "francouzského",
+        "polského",
+        "brazilského",
+        "kubánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Klvaňa",
+      "values": [
+        "českého",
+        "kubánského",
+        "ruského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hubertus von Hohenlohe",
+      "values": [
+        "nizozemského",
+        "mexického",
+        "italského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nguyen Phuong Thao",
+      "values": [
+        "dánského",
+        "mexického",
+        "vietnamského",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stanisław Ignacy Witkiewicz",
+      "values": [
+        "amerického",
+        "rakouského",
+        "polského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Lukas",
+      "values": [
+        "českého",
+        "brazilského",
+        "švédského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bill Brandt",
+      "values": [
+        "jihoafrického",
+        "italského",
+        "brazilského",
+        "britského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

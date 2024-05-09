@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Sara Sandeva",
+      "values": [
+        "izraelskou",
+        "dánskou",
+        "českou",
+        "brazilskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Blake Lively",
+      "values": [
+        "brazilskou",
+        "americkou",
+        "francouzskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Amber Heardová",
+      "values": [
+        "německou",
+        "americkou",
+        "maďarskou",
+        "českou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kendall Jenner",
+      "values": [
+        "švýcarskou",
+        "australskou",
+        "americkou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ursula Andressová",
+      "values": [
+        "švýcarskou",
+        "rakouskou",
+        "jihoafrickou",
+        "kanadskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Maria Šarapovová",
+      "values": [
+        "americkou",
+        "ruskou",
+        "českou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gisele Bündchenová",
+      "values": [
+        "brazilskou",
+        "německou",
+        "jihoafrickou",
+        "izraelskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michaela Bakala",
+      "values": [
+        "ukrajinskou",
+        "izraelskou",
+        "českou",
+        "kanadskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Veronika Zemanová",
+      "values": [
+        "izraelskou",
+        "českou",
+        "slovenskou",
+        "argentinskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Angie Harmon",
+      "values": [
+        "izraelskou",
+        "rakouskou",
+        "americkou",
+        "jihoafrickou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

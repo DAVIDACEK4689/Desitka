@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] evropskou kulturu?",
+  "questions": [
+    {
+      "key": "Tapas",
+      "values": [
+        "běloruskou",
+        "francouzskou",
+        "dánskou",
+        "španělskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Flamenco",
+      "values": [
+        "nizozemskou",
+        "maďarskou",
+        "španělskou",
+        "arménskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Barbizonská škola",
+      "values": [
+        "arménskou",
+        "českou",
+        "nizozemskou",
+        "francouzskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "La Befana",
+      "values": [
+        "běloruskou",
+        "italskou",
+        "dánskou",
+        "polskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ferragosto",
+      "values": [
+        "britskou",
+        "španělskou",
+        "ukrajinskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vyšyvanka",
+      "values": [
+        "arménskou",
+        "ukrajinskou",
+        "irskou",
+        "gruzínskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Duduk",
+      "values": [
+        "španělskou",
+        "tureckou",
+        "běloruskou",
+        "arménskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Absolut",
+      "values": [
+        "švédskou",
+        "irskou",
+        "ukrajinskou",
+        "rakouskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kadaif",
+      "values": [
+        "italskou",
+        "maďarskou",
+        "tureckou",
+        "rakouskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stańczyk",
+      "values": [
+        "polskou",
+        "arménskou",
+        "německou",
+        "španělskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

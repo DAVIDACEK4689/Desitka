@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Bern",
+      "values": [
+        "Černá Hora",
+        "Východní Timor",
+        "Estonsko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sárvár",
+      "values": [
+        "Burkina Faso",
+        "Maďarsko",
+        "Bělorusko",
+        "Kolumbie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Braga",
+      "values": [
+        "Botswana",
+        "Portugalsko",
+        "Indie",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Šrí Džajavardanapura Kotte",
+      "values": [
+        "Finsko",
+        "Chorvatsko",
+        "Malajsie",
+        "Srí Lanka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Byblos",
+      "values": [
+        "Brazílie",
+        "Srí Lanka",
+        "Libanon",
+        "Indonésie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Banjul",
+      "values": [
+        "Grónsko",
+        "Gambie",
+        "Vanuatu",
+        "Východní Timor"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Makasar",
+      "values": [
+        "Konžská republika",
+        "Saúdská Arábie",
+        "Komora",
+        "Indonésie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Barcelos",
+      "values": [
+        "Portugalsko",
+        "Grónsko",
+        "Burkina Faso",
+        "Východní Timor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stepancminda",
+      "values": [
+        "Malta",
+        "Gruzie",
+        "Severní Korea",
+        "Lotyšsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Modrý Kameň",
+      "values": [
+        "Vietnam",
+        "Slovensko",
+        "Jižní Korea",
+        "Finsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] šlechtice?",
+  "questions": [
+    {
+      "key": "Tycho Brahe",
+      "values": [
+        "slezského",
+        "chorvatského",
+        "slovenského",
+        "dánského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Anthony Eden",
+      "values": [
+        "polského",
+        "britského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ernest Rutherford",
+      "values": [
+        "nizozemského",
+        "uherského",
+        "britského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lisa del Giocondo",
+      "values": [
+        "italského",
+        "slezského",
+        "britského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Novalis",
+      "values": [
+        "francouzského",
+        "chorvatského",
+        "slovenského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Pořízka",
+      "values": [
+        "českého",
+        "uherského",
+        "moravského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Imrich Tököly",
+      "values": [
+        "britského",
+        "slovenského",
+        "francouzského",
+        "uherského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karl Friedrich Hieronymus von Münchhausen",
+      "values": [
+        "rakouského",
+        "německého",
+        "dánského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vojtěch z Pernštejna",
+      "values": [
+        "německého",
+        "dánského",
+        "rakouského",
+        "moravského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hasso von Manteuffel",
+      "values": [
+        "švédského",
+        "britského",
+        "španělského",
+        "německého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

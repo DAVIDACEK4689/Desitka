@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Dante Alighieri",
+      "values": [
+        "kubánského",
+        "chilského",
+        "italského",
+        "iráckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Angela Merkelová",
+      "values": [
+        "kubánského",
+        "chilského",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Riva Krieglová",
+      "values": [
+        "československého",
+        "kubánského",
+        "polského",
+        "indického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Georgij Maximilianovič Malenkov",
+      "values": [
+        "sovětského",
+        "maďarského",
+        "ruského",
+        "bulharského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Luiz Inácio Lula da Silva",
+      "values": [
+        "brazilského",
+        "chorvatského",
+        "amerického",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michail Saakašvili",
+      "values": [
+        "nizozemského",
+        "španělského",
+        "vietnamského",
+        "ukrajinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gerhard Schröder",
+      "values": [
+        "kanadského",
+        "britského",
+        "libyjského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ernest Denis",
+      "values": [
+        "ruského",
+        "venezuelského",
+        "francouzského",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lev Kameněv",
+      "values": [
+        "italského",
+        "jihoafrického",
+        "ruského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Glenda Jacksonová",
+      "values": [
+        "britského",
+        "argentinského",
+        "chorvatského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

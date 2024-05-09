@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] muslima?",
+  "questions": [
+    {
+      "key": "Recep Tayyip Erdoğan",
+      "values": [
+        "ruského",
+        "afghánského",
+        "tureckého",
+        "kazašského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rúholláh Chomejní",
+      "values": [
+        "afghánského",
+        "íránského",
+        "ruského",
+        "myanmarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Roxolana",
+      "values": [
+        "ukrajinského",
+        "egyptského",
+        "ugandského",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Omar Sy",
+      "values": [
+        "tureckého",
+        "francouzského",
+        "chorvatského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nursultan Nazarbajev",
+      "values": [
+        "afghánského",
+        "kazašského",
+        "amerického",
+        "pákistánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dynastie Pahlaví",
+      "values": [
+        "egyptského",
+        "amerického",
+        "íránského",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kádžárovci",
+      "values": [
+        "íránského",
+        "pákistánského",
+        "ukrajinského",
+        "kazašského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mahershala Ali",
+      "values": [
+        "amerického",
+        "ukrajinského",
+        "českého",
+        "katarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rohingové",
+      "values": [
+        "myanmarského",
+        "albánského",
+        "ukrajinského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alois Bohdan Brixius",
+      "values": [
+        "ugandského",
+        "myanmarského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

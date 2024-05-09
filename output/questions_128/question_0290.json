@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] matematika?",
+  "questions": [
+    {
+      "key": "Galileo Galilei",
+      "values": [
+        "švédského",
+        "italského",
+        "polského",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Max Born",
+      "values": [
+        "švédského",
+        "německého",
+        "britského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mikuláš Kusánský",
+      "values": [
+        "rakouského",
+        "švýcarského",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Hilbert",
+      "values": [
+        "slovenského",
+        "německého",
+        "srbského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Edward Witten",
+      "values": [
+        "slovenského",
+        "maďarského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Křišťan z Prachatic",
+      "values": [
+        "švýcarského",
+        "ruského",
+        "indického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Tilšer",
+      "values": [
+        "amerického",
+        "českého",
+        "britského",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marian Rejewski",
+      "values": [
+        "rumunského",
+        "polského",
+        "ruského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Émile Borel",
+      "values": [
+        "švédského",
+        "britského",
+        "srbského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pavel Florenskij",
+      "values": [
+        "íránského",
+        "ruského",
+        "švýcarského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

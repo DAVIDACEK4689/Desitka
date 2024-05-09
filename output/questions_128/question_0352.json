@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva v Kurském oblouku",
+      "values": [
+        "1525",
+        "1853",
+        "1943",
+        "1942"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Cullodenu",
+      "values": [
+        "1396",
+        "1862",
+        "1746",
+        "1973"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva na Kulikovském poli",
+      "values": [
+        "1898",
+        "1380",
+        "1389",
+        "1424"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Obléhání hradu Sion",
+      "values": [
+        "1423",
+        "1437",
+        "2024",
+        "1619"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Brodů",
+      "values": [
+        "1525",
+        "1943",
+        "1941",
+        "1468"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Mukdenu",
+      "values": [
+        "1389",
+        "1905",
+        "1687",
+        "533"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nivellova ofenzíva",
+      "values": [
+        "1919",
+        "1917",
+        "1849",
+        "1944"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Strauchova dvora",
+      "values": [
+        "1993",
+        "1191",
+        "1423",
+        "1898"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva na Něvě",
+      "values": [
+        "1702",
+        "1240",
+        "1420",
+        "1919"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Krašniku",
+      "values": [
+        "1914",
+        "1651",
+        "1812",
+        "1917"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

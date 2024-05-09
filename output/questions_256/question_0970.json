@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle etnické skupiny",
+  "questions": [
+    {
+      "key": "Volyňští Češi",
+      "values": [
+        "Austrálie",
+        "Ukrajina",
+        "Izrael",
+        "Írán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kašubové",
+      "values": [
+        "Rusko",
+        "Polsko",
+        "Singapur",
+        "Afghánistán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zulové",
+      "values": [
+        "Singapur",
+        "Madagaskar",
+        "Jihoafrická republika",
+        "Izrael"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čerkesové",
+      "values": [
+        "Rusko",
+        "Slovinsko",
+        "Myanmar",
+        "Nepál"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Koptové",
+      "values": [
+        "Česko",
+        "Rusko",
+        "Etiopie",
+        "Egypt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pársové",
+      "values": [
+        "Madagaskar",
+        "Spojené království",
+        "Indie",
+        "Egypt"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jakuti",
+      "values": [
+        "Jihoafrická republika",
+        "Rusko",
+        "Izrael",
+        "Ukrajina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gruzíni",
+      "values": [
+        "Ukrajina",
+        "Rusko",
+        "Španělsko",
+        "Nigérie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Čukčové",
+      "values": [
+        "Maďarsko",
+        "Afghánistán",
+        "Etiopie",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hutuové",
+      "values": [
+        "Singapur",
+        "Španělsko",
+        "Rwanda",
+        "Etiopie"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

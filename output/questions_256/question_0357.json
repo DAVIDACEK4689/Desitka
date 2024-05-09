@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vraha?",
+  "questions": [
+    {
+      "key": "Jiří Kajínek",
+      "values": [
+        "ruského",
+        "britského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bonnie a Clyde",
+      "values": [
+        "německého",
+        "amerického",
+        "egyptského",
+        "belgického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Igor Girkin",
+      "values": [
+        "ruského",
+        "rakouského",
+        "belgického",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Vlasák",
+      "values": [
+        "amerického",
+        "izraelského",
+        "belgického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Peter Scully",
+      "values": [
+        "australského",
+        "egyptského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Patricia Krenwinkel",
+      "values": [
+        "slovenského",
+        "amerického",
+        "britského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bohumír Ďuričko",
+      "values": [
+        "izraelského",
+        "japonského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "František Saidl",
+      "values": [
+        "britského",
+        "českého",
+        "japonského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Charles Harrelson",
+      "values": [
+        "slovenského",
+        "amerického",
+        "belgického",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eric Harris",
+      "values": [
+        "francouzského",
+        "norského",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

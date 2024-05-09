@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle prezidenta",
+  "questions": [
+    {
+      "key": "Miloš Zeman",
+      "values": [
+        "Česká republika",
+        "Libanon",
+        "Irák",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lech Wałęsa",
+      "values": [
+        "Česká republika",
+        "Kamerun",
+        "Polsko",
+        "Bulharsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Viktor Černomyrdin",
+      "values": [
+        "Namibie",
+        "Rusko",
+        "Afghánistán",
+        "Burkina Faso"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karl Renner",
+      "values": [
+        "Libanon",
+        "Čad",
+        "Jugoslávie",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dilma Rousseffová",
+      "values": [
+        "Brazílie",
+        "Slovensko",
+        "Gabon",
+        "Srbsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Walter Scheel",
+      "values": [
+        "Německo",
+        "Senegal",
+        "Tunisko",
+        "Jugoslávie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pál Schmitt",
+      "values": [
+        "Ghana",
+        "Francie",
+        "Maďarsko",
+        "Tunisko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kersti Kaljulaidová",
+      "values": [
+        "Angola",
+        "Estonsko",
+        "Zambie",
+        "Uzbekistán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sandro Pertini",
+      "values": [
+        "Irsko",
+        "Ázerbájdžán",
+        "Slovensko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vytautas Landsbergis",
+      "values": [
+        "Slovensko",
+        "Lotyšsko",
+        "Litva",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

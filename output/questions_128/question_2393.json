@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Ulánbátar",
+      "values": [
+        "Bhútán",
+        "Malajsie",
+        "Mongolsko",
+        "Kolumbie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Salamanca",
+      "values": [
+        "Španělsko",
+        "Vietnam",
+        "Írán",
+        "Somálsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Palmýra",
+      "values": [
+        "Kazachstán",
+        "Západní Sahara",
+        "Sýrie",
+        "Izrael"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Amritsar",
+      "values": [
+        "Etiopie",
+        "Bolívie",
+        "Indie",
+        "Saúdská Arábie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bangui",
+      "values": [
+        "Gabon",
+        "Středoafrická republika",
+        "Eritrea",
+        "Austrálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dülmen",
+      "values": [
+        "Grónsko",
+        "Německo",
+        "Komora",
+        "Gambie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dudince",
+      "values": [
+        "Kolumbie",
+        "Súdán",
+        "Slovensko",
+        "Namibie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mujnak",
+      "values": [
+        "Uzbekistán",
+        "Vietnam",
+        "Brunej",
+        "Litva"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rechovot",
+      "values": [
+        "Kambodža",
+        "Palau",
+        "Pákistán",
+        "Izrael"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bandar Abbás",
+      "values": [
+        "Írán",
+        "Západní Sahara",
+        "Senegal",
+        "Severní Makedonie"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

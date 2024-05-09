@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle regionu",
+  "questions": [
+    {
+      "key": "Střední Anatolie",
+      "values": [
+        "Etiopie",
+        "Turecko",
+        "Portugalsko",
+        "Dánsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kalábrie",
+      "values": [
+        "Turecko",
+        "Belgie",
+        "Itálie",
+        "Dánsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bretaň",
+      "values": [
+        "Etiopie",
+        "Francie",
+        "Belgie",
+        "Turecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Apulie",
+      "values": [
+        "Etiopie",
+        "Belgie",
+        "Itálie",
+        "Dánsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jižní Tyrolsko",
+      "values": [
+        "Belgie",
+        "Francie",
+        "Itálie",
+        "Portugalsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Piemont",
+      "values": [
+        "Dánsko",
+        "Portugalsko",
+        "Etiopie",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ligurie",
+      "values": [
+        "Itálie",
+        "Belgie",
+        "Francie",
+        "Argentina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Abruzzo",
+      "values": [
+        "Dánsko",
+        "Etiopie",
+        "Itálie",
+        "Portugalsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Altiplano",
+      "values": [
+        "Argentina",
+        "Itálie",
+        "Dánsko",
+        "Turecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sjælland",
+      "values": [
+        "Itálie",
+        "Portugalsko",
+        "Argentina",
+        "Dánsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

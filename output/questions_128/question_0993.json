@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Cristiano Ronaldo",
+      "values": [
+        "lucemburského",
+        "portugalského",
+        "dánského",
+        "kosovského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eric Cantona",
+      "values": [
+        "řeckého",
+        "francouzského",
+        "černohorského",
+        "tureckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marcus Rashford",
+      "values": [
+        "dánského",
+        "anglického",
+        "baskického",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Leroy Sané",
+      "values": [
+        "bulharského",
+        "chorvatského",
+        "mexického",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Walter Mazzarri",
+      "values": [
+        "ghanského",
+        "japonského",
+        "italského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marek Bakoš",
+      "values": [
+        "irského",
+        "venezuelského",
+        "tureckého",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sufján Amrabat",
+      "values": [
+        "japonského",
+        "chorvatského",
+        "nizozemského",
+        "islandského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luiz Gustavo",
+      "values": [
+        "brazilského",
+        "finského",
+        "slovinského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lukáš Budínský",
+      "values": [
+        "českého",
+        "kamerunského",
+        "rumunského",
+        "kostarického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomas Brolin",
+      "values": [
+        "československého",
+        "řeckého",
+        "švédského",
+        "tureckého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

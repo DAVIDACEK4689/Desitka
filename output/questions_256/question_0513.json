@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebníka?",
+  "questions": [
+    {
+      "key": "Jiří Šlitr",
+      "values": [
+        "švýcarského",
+        "českého",
+        "řeckého",
+        "arménského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "River Phoenix",
+      "values": [
+        "španělského",
+        "amerického",
+        "ukrajinského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tomáš Břínek",
+      "values": [
+        "australského",
+        "jihokorejského",
+        "norského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Macháček",
+      "values": [
+        "českého",
+        "irského",
+        "bulharského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Max Cavalera",
+      "values": [
+        "italského",
+        "rumunského",
+        "irského",
+        "brazilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Daron Malakian",
+      "values": [
+        "jugoslávského",
+        "amerického",
+        "arménského",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fatboy Slim",
+      "values": [
+        "britského",
+        "českého",
+        "portorického",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "DeeThane",
+      "values": [
+        "švédského",
+        "bulharského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ziggy Marley",
+      "values": [
+        "španělského",
+        "švýcarského",
+        "chorvatského",
+        "jamajského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aphex Twin",
+      "values": [
+        "českého",
+        "arménského",
+        "amerického",
+        "irského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

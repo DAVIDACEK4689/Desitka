@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Andrea Bezděková",
+      "values": [
+        "slovenskou",
+        "českou",
+        "ruskou",
+        "australskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivana Trumpová",
+      "values": [
+        "francouzskou",
+        "českou",
+        "ukrajinskou",
+        "kanadskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nina Dobrevová",
+      "values": [
+        "francouzskou",
+        "kanadskou",
+        "izraelskou",
+        "německou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavlína Němcová",
+      "values": [
+        "maďarskou",
+        "českou",
+        "brazilskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ginger Aldenová",
+      "values": [
+        "italskou",
+        "australskou",
+        "americkou",
+        "švýcarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Amanda Lear",
+      "values": [
+        "rakouskou",
+        "irskou",
+        "francouzskou",
+        "kanadskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexis Bledel",
+      "values": [
+        "irskou",
+        "britskou",
+        "americkou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sabrina Salerno",
+      "values": [
+        "rakouskou",
+        "italskou",
+        "kanadskou",
+        "izraelskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Patricia Arquette",
+      "values": [
+        "brazilskou",
+        "ukrajinskou",
+        "švýcarskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Renáta Czadernová",
+      "values": [
+        "českou",
+        "kanadskou",
+        "americkou",
+        "brazilskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

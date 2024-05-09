@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] hokejového trenéra?",
+  "questions": [
+    {
+      "key": "Ivan Hlinka",
+      "values": [
+        "slovenského",
+        "československého",
+        "lotyšského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jukka Jalonen",
+      "values": [
+        "ruského",
+        "německého",
+        "lotyšského",
+        "finského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladislav Treťjak",
+      "values": [
+        "slovenského",
+        "kanadského",
+        "ruského",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jari Kurri",
+      "values": [
+        "německého",
+        "slovenského",
+        "ruského",
+        "finského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vincent Lukáč",
+      "values": [
+        "finského",
+        "slovenského",
+        "kanadského",
+        "československého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Clint Malarchuk",
+      "values": [
+        "československého",
+        "lotyšského",
+        "německého",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Václav Roziňák",
+      "values": [
+        "ruského",
+        "československého",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Esa Tikkanen",
+      "values": [
+        "finského",
+        "německého",
+        "kanadského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ján Starší",
+      "values": [
+        "finského",
+        "československého",
+        "slovenského",
+        "lotyšského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Harijs Vītoliņš",
+      "values": [
+        "amerického",
+        "lotyšského",
+        "ruského",
+        "finského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

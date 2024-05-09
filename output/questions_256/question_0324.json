@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Pula",
+      "values": [
+        "Grónsko",
+        "Chorvatsko",
+        "Nizozemsko",
+        "Libanon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pretorie",
+      "values": [
+        "Jihoafrická republika",
+        "Německo",
+        "Uzbekistán",
+        "Středoafrická republika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Visegrád",
+      "values": [
+        "Thajsko",
+        "Maďarsko",
+        "Alžírsko",
+        "Bulharsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lund",
+      "values": [
+        "Senegal",
+        "Švédsko",
+        "Ekvádor",
+        "Egypt"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Grindavík",
+      "values": [
+        "Kypr",
+        "Paraguay",
+        "Francie",
+        "Island"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rosario",
+      "values": [
+        "Myanmar",
+        "Argentina",
+        "Turecko",
+        "Bulharsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dubnica nad Váhom",
+      "values": [
+        "Botswana",
+        "Austrálie",
+        "Spojené království",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Komárom",
+      "values": [
+        "Severní Korea",
+        "Turecko",
+        "Maďarsko",
+        "Severní Makedonie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Picunda",
+      "values": [
+        "Indonésie",
+        "Německo",
+        "Abcházie",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mccheta",
+      "values": [
+        "Libérie",
+        "Severní Makedonie",
+        "Gruzie",
+        "Německo"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filozofa?",
+  "questions": [
+    {
+      "key": "Friedrich Nietzsche",
+      "values": [
+        "německého",
+        "rakouského",
+        "italského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ľudovít Štúr",
+      "values": [
+        "švédského",
+        "španělského",
+        "perského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Auguste Comte",
+      "values": [
+        "švýcarského",
+        "rakouského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bertrand Russell",
+      "values": [
+        "německého",
+        "amerického",
+        "britského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pierre Abélard",
+      "values": [
+        "švédského",
+        "českého",
+        "francouzského",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Heinrich Hertz",
+      "values": [
+        "německého",
+        "francouzského",
+        "amerického",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Walter Benjamin",
+      "values": [
+        "rakouského",
+        "německého",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oswald Spengler",
+      "values": [
+        "řeckého",
+        "německého",
+        "nizozemského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Matouš Klácel",
+      "values": [
+        "italského",
+        "rakouského",
+        "slovinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alfons Ferdinand Šťastný",
+      "values": [
+        "španělského",
+        "švýcarského",
+        "slovinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

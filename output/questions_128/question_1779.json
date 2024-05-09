@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle narození",
+  "questions": [
+    {
+      "key": "Igor Stravinskij",
+      "values": [
+        "Rusko",
+        "Malta",
+        "Uzbekistán",
+        "Chorvatsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Peter Jackson",
+      "values": [
+        "Nový Zéland",
+        "Salvador",
+        "Somálsko",
+        "Japonsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jicchak Šamir",
+      "values": [
+        "Libye",
+        "Bělorusko",
+        "Brunej",
+        "Pákistán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dilma Rousseffová",
+      "values": [
+        "Severní Korea",
+        "Albánie",
+        "Indie",
+        "Brazílie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Abiy Ahmed",
+      "values": [
+        "Etiopie",
+        "Uganda",
+        "Moldavsko",
+        "Srbsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jacobo Árbenz Guzmán",
+      "values": [
+        "Nikaragua",
+        "Guatemala",
+        "Thajsko",
+        "Uzbekistán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Diego Godín",
+      "values": [
+        "Svatá Lucie",
+        "Jemen",
+        "Namibie",
+        "Uruguay"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Žambůrek",
+      "values": [
+        "Česko",
+        "Srbsko",
+        "Lucembursko",
+        "Gambie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Thiago Motta",
+      "values": [
+        "Brazílie",
+        "Namibie",
+        "Irsko",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Suthida",
+      "values": [
+        "Portoriko",
+        "Francie",
+        "Saúdská Arábie",
+        "Thajsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

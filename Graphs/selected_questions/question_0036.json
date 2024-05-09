@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Edgar Allan Poe",
+      "values": [
+        "amerického",
+        "norského",
+        "anglického",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Johann Wolfgang von Goethe",
+      "values": [
+        "německého",
+        "českého",
+        "kanadského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Voltaire",
+      "values": [
+        "norského",
+        "vietnamského",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Otokar Březina",
+      "values": [
+        "španělského",
+        "srbského",
+        "českého",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "František Halas",
+      "values": [
+        "kanadského",
+        "španělského",
+        "skotského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Howard Phillips Lovecraft",
+      "values": [
+        "rakouského",
+        "italského",
+        "irského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jakub Deml",
+      "values": [
+        "českého",
+        "rakouského",
+        "amerického",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Friedrich Schiller",
+      "values": [
+        "německého",
+        "dánského",
+        "chilského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Taras Ševčenko",
+      "values": [
+        "anglického",
+        "ukrajinského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavel Josef Šafařík",
+      "values": [
+        "chilského",
+        "slovenského",
+        "francouzského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

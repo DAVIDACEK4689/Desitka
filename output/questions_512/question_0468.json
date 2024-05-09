@@ -1,0 +1,105 @@
+{
+  "text": "Určete povolání podle fiktivní postavy",
+  "questions": [
+    {
+      "key": "Indiana Jones",
+      "values": [
+        "politik",
+        "podnikatel",
+        "letec",
+        "archeolog"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Král Artuš",
+      "values": [
+        "spisovatel",
+        "válečník",
+        "letec",
+        "sportovec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Superman",
+      "values": [
+        "pedagog",
+        "špión",
+        "reportér",
+        "vladař"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chandler Bing",
+      "values": [
+        "podnikatel",
+        "vynálezce",
+        "mafián",
+        "politik"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jack Sparrow",
+      "values": [
+        "student",
+        "herec",
+        "zločinec",
+        "reportér"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Padmé Amidala",
+      "values": [
+        "herec",
+        "vědec",
+        "politik",
+        "mág"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Velkoadmirál Thrawn",
+      "values": [
+        "reportér",
+        "letec",
+        "pedagog",
+        "válečník"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gimli",
+      "values": [
+        "letec",
+        "špión",
+        "herec",
+        "válečník"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Joey Tribbiani",
+      "values": [
+        "herec",
+        "mág",
+        "reportér",
+        "zločinec"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tintin",
+      "values": [
+        "reportér",
+        "vědec",
+        "politik",
+        "student"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

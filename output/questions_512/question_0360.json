@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] šlechtice?",
+  "questions": [
+    {
+      "key": "Sophia Lorenová",
+      "values": [
+        "italského",
+        "švédského",
+        "ruského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Záviš z Falkenštejna",
+      "values": [
+        "slovenského",
+        "uherského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Wernher von Braun",
+      "values": [
+        "britského",
+        "nizozemského",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Arnošt z Pardubic",
+      "values": [
+        "uherského",
+        "českého",
+        "nizozemského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bernard Montgomery",
+      "values": [
+        "ruského",
+        "nizozemského",
+        "švédského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kateřina Vilemína Zaháňská",
+      "values": [
+        "slezského",
+        "uherského",
+        "italského",
+        "moravského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ernest Rutherford",
+      "values": [
+        "uherského",
+        "britského",
+        "švédského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Peter Phillips",
+      "values": [
+        "ruského",
+        "britského",
+        "slovenského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Luchino Visconti",
+      "values": [
+        "italského",
+        "slovenského",
+        "dánského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jane Goodallová",
+      "values": [
+        "italského",
+        "slezského",
+        "nizozemského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

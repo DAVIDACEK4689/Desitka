@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotografa?",
+  "questions": [
+    {
+      "key": "Gina Lollobrigida",
+      "values": [
+        "anglického",
+        "lucemburského",
+        "mexického",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lewis Carroll",
+      "values": [
+        "anglického",
+        "rakouského",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pattie Boydová",
+      "values": [
+        "sovětského",
+        "brazilského",
+        "anglického",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaroslav Achab Haidler",
+      "values": [
+        "rumunského",
+        "nizozemského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ernst Ludwig Kirchner",
+      "values": [
+        "vietnamského",
+        "dánského",
+        "německého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Wilhelm Brasse",
+      "values": [
+        "nizozemského",
+        "polského",
+        "lucemburského",
+        "anglického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Xaver Boštík",
+      "values": [
+        "jihoafrického",
+        "sovětského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Edward Steichen",
+      "values": [
+        "jihoafrického",
+        "lucemburského",
+        "rakouského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tomáš Pospěch",
+      "values": [
+        "vietnamského",
+        "českého",
+        "rumunského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Wolfgang Tillmans",
+      "values": [
+        "dánského",
+        "lucemburského",
+        "německého",
+        "vietnamského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

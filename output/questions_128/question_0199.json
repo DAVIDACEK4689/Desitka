@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle ledovcového jezera",
+  "questions": [
+    {
+      "key": "Gardské jezero",
+      "values": [
+        "Itálie",
+        "Spojené království",
+        "Slovinsko",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Štrbské pleso",
+      "values": [
+        "Slovensko",
+        "Polsko",
+        "Rakousko",
+        "Německo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Plešné jezero",
+      "values": [
+        "Česko",
+        "Slovinsko",
+        "Rakousko",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Königssee",
+      "values": [
+        "Rakousko",
+        "Česko",
+        "Německo",
+        "Spojené království"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chiemské jezero",
+      "values": [
+        "Slovinsko",
+        "Slovensko",
+        "Polsko",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Popradské pleso",
+      "values": [
+        "Česko",
+        "Polsko",
+        "Slovensko",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eibsee",
+      "values": [
+        "Rakousko",
+        "Slovinsko",
+        "Německo",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Veľké Hincovo pleso",
+      "values": [
+        "Česko",
+        "Itálie",
+        "Spojené království",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Iseo",
+      "values": [
+        "Itálie",
+        "Česko",
+        "Německo",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mały Staw",
+      "values": [
+        "Slovensko",
+        "Česko",
+        "Rakousko",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

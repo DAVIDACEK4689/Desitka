@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [národnost] marxistu?",
+  "questions": [
+    {
+      "key": "Egon Bondy",
+      "values": [
+        "německého",
+        "českého",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lee Harvey Oswald",
+      "values": [
+        "italského",
+        "slovinského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Slavoj Žižek",
+      "values": [
+        "slovinského",
+        "ruského",
+        "českého",
+        "chilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bertolt Brecht",
+      "values": [
+        "německého",
+        "italského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rosa Luxemburgová",
+      "values": [
+        "amerického",
+        "francouzského",
+        "ruského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Luchino Visconti",
+      "values": [
+        "slovinského",
+        "italského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jürgen Habermas",
+      "values": [
+        "ruského",
+        "chilského",
+        "rakouského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Angela Davisová",
+      "values": [
+        "francouzského",
+        "amerického",
+        "slovinského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Kosík",
+      "values": [
+        "českého",
+        "slovinského",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexandra Kollontajová",
+      "values": [
+        "slovinského",
+        "německého",
+        "ruského",
+        "chilského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

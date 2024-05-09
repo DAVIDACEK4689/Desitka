@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Lev Nikolajevič Tolstoj",
+      "values": [
+        "německého",
+        "ruského",
+        "polského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Radko Pytlík",
+      "values": [
+        "německého",
+        "českého",
+        "chilského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ferdinand Peroutka",
+      "values": [
+        "ruského",
+        "vietnamského",
+        "českého",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oskar Kokoschka",
+      "values": [
+        "novozélandského",
+        "izraelského",
+        "rakouského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stanislav Motl",
+      "values": [
+        "rakouského",
+        "španělského",
+        "dánského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lope de Vega",
+      "values": [
+        "ukrajinského",
+        "španělského",
+        "řeckého",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bear Grylls",
+      "values": [
+        "francouzského",
+        "britského",
+        "švýcarského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paolo Villaggio",
+      "values": [
+        "izraelského",
+        "italského",
+        "švédského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ibráhím ibn Jákúb",
+      "values": [
+        "italského",
+        "španělského",
+        "ruského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Justine Musk",
+      "values": [
+        "kanadského",
+        "rakouského",
+        "novozélandského",
+        "chilského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

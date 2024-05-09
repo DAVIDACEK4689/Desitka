@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Milan Kundera",
+      "values": [
+        "francouzského",
+        "českého",
+        "srbského",
+        "perského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ho Či Min",
+      "values": [
+        "německého",
+        "kubánského",
+        "íránského",
+        "vietnamského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Christian Morgenstern",
+      "values": [
+        "palestinského",
+        "německého",
+        "italského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Thomas Hardy",
+      "values": [
+        "portugalského",
+        "anglického",
+        "japonského",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tony Ducháček",
+      "values": [
+        "albánského",
+        "rumunského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ellen Jilemnická",
+      "values": [
+        "portugalského",
+        "australského",
+        "českého",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zbyněk Havlíček",
+      "values": [
+        "polského",
+        "íránského",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Víctor Jara",
+      "values": [
+        "belgického",
+        "maďarského",
+        "chilského",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Hanč",
+      "values": [
+        "ukrajinského",
+        "polského",
+        "kanadského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vít Kremlička",
+      "values": [
+        "německého",
+        "českého",
+        "ruského",
+        "čínského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

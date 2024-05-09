@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [typ] terorismus?",
+  "questions": [
+    {
+      "key": "Útoky v Norsku v červenci 2011",
+      "values": [
+        "nacionalistický",
+        "náboženský",
+        "komunistický",
+        "státní"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Konflikt v Severním Irsku",
+      "values": [
+        "nacionalistický",
+        "státní",
+        "komunistický",
+        "náboženský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Euskadi Ta Askatasuna",
+      "values": [
+        "nacionalistický",
+        "náboženský",
+        "komunistický",
+        "státní"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kosovská osvobozenecká armáda",
+      "values": [
+        "nacionalistický",
+        "náboženský",
+        "státní",
+        "komunistický"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Íránské revoluční gardy",
+      "values": [
+        "náboženský",
+        "komunistický",
+        "nacionalistický",
+        "státní"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Útok sarinem v tokijském metru",
+      "values": [
+        "náboženský",
+        "komunistický",
+        "nacionalistický",
+        "státní"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Operace Kondor",
+      "values": [
+        "komunistický",
+        "náboženský",
+        "nacionalistický",
+        "státní"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Revoluční ozbrojené síly Kolumbie",
+      "values": [
+        "náboženský",
+        "státní",
+        "nacionalistický",
+        "komunistický"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rudé brigády",
+      "values": [
+        "státní",
+        "nacionalistický",
+        "náboženský",
+        "komunistický"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Občanská válka v Kolumbii",
+      "values": [
+        "komunistický",
+        "nacionalistický",
+        "státní",
+        "náboženský"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte moře podle přístavního města",
+  "questions": [
+    {
+      "key": "Helsinky",
+      "values": [
+        "Baltské moře",
+        "Bílé moře",
+        "Severní moře",
+        "Marmarské moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dunkerk",
+      "values": [
+        "Baltské moře",
+        "Severní moře",
+        "Azovské moře",
+        "Irské moře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Caracas",
+      "values": [
+        "Bílé moře",
+        "Azovské moře",
+        "Marmarské moře",
+        "Karibské moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aarhus",
+      "values": [
+        "Černé moře",
+        "Baltské moře",
+        "Karibské moře",
+        "Rudé moře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Espoo",
+      "values": [
+        "Karibské moře",
+        "Severní moře",
+        "Azovské moře",
+        "Baltské moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Liepāja",
+      "values": [
+        "Baltské moře",
+        "Bílé moře",
+        "Rudé moře",
+        "Černé moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pori",
+      "values": [
+        "Karibské moře",
+        "Bílé moře",
+        "Irské moře",
+        "Baltské moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rowy",
+      "values": [
+        "Karibské moře",
+        "Azovské moře",
+        "Severní moře",
+        "Baltské moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kadıköy",
+      "values": [
+        "Baltské moře",
+        "Bílé moře",
+        "Karibské moře",
+        "Marmarské moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Arendal",
+      "values": [
+        "Severní moře",
+        "Irské moře",
+        "Baltské moře",
+        "Černé moře"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

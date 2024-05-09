@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] anarchistu?",
+  "questions": [
+    {
+      "key": "Lev Nikolajevič Tolstoj",
+      "values": [
+        "ruského",
+        "německého",
+        "španělského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Guillaume Apollinaire",
+      "values": [
+        "německého",
+        "belgického",
+        "francouzského",
+        "litevského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marie Majerová",
+      "values": [
+        "amerického",
+        "ukrajinského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Boris Vian",
+      "values": [
+        "francouzského",
+        "italského",
+        "litevského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jacques Prévert",
+      "values": [
+        "francouzského",
+        "německého",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paul Signac",
+      "values": [
+        "amerického",
+        "argentinského",
+        "rakouského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Terence McKenna",
+      "values": [
+        "argentinského",
+        "španělského",
+        "litevského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jean Genet",
+      "values": [
+        "britského",
+        "litevského",
+        "francouzského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Carlo Carrà",
+      "values": [
+        "argentinského",
+        "českého",
+        "italského",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Buenaventura Durruti",
+      "values": [
+        "španělského",
+        "českého",
+        "litevského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

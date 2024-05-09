@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filozofa?",
+  "questions": [
+    {
+      "key": "František Palacký",
+      "values": [
+        "českého",
+        "ruského",
+        "slovenského",
+        "perského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Theodore Kaczynski",
+      "values": [
+        "slovenského",
+        "francouzského",
+        "amerického",
+        "perského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Blaise Pascal",
+      "values": [
+        "amerického",
+        "francouzského",
+        "perského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Georg Wilhelm Friedrich Hegel",
+      "values": [
+        "indického",
+        "slovinského",
+        "rakouského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Daniel Kroupa",
+      "values": [
+        "slovinského",
+        "italského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eckhart Tolle",
+      "values": [
+        "nizozemského",
+        "rakouského",
+        "německého",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Aldous Huxley",
+      "values": [
+        "nizozemského",
+        "amerického",
+        "perského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Epikúros",
+      "values": [
+        "francouzského",
+        "amerického",
+        "českého",
+        "řeckého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Herbert Spencer",
+      "values": [
+        "dánského",
+        "řeckého",
+        "perského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Terezie Benedikta od Kříže",
+      "values": [
+        "amerického",
+        "německého",
+        "indického",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

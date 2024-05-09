@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] biatlonistku?",
+  "questions": [
+    {
+      "key": "Markéta Davidová",
+      "values": [
+        "běloruskou",
+        "francouzskou",
+        "norskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Veronika Vítková",
+      "values": [
+        "českou",
+        "běloruskou",
+        "slovenskou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dorothea Wiererová",
+      "values": [
+        "slovenskou",
+        "italskou",
+        "norskou",
+        "českou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jitka Landová",
+      "values": [
+        "českou",
+        "finskou",
+        "norskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Laura Dahlmeierová",
+      "values": [
+        "italskou",
+        "německou",
+        "slovenskou",
+        "švédskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eliška Václavíková",
+      "values": [
+        "českou",
+        "francouzskou",
+        "švédskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hanna Öbergová",
+      "values": [
+        "německou",
+        "švédskou",
+        "francouzskou",
+        "českou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lisa Vittozziová",
+      "values": [
+        "italskou",
+        "slovenskou",
+        "českou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Darja Domračevová",
+      "values": [
+        "francouzskou",
+        "norskou",
+        "finskou",
+        "běloruskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ingrid Landmark Tandrevoldová",
+      "values": [
+        "norskou",
+        "francouzskou",
+        "slovenskou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

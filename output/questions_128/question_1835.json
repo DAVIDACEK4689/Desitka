@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Enver Hodža",
+      "values": [
+        "nizozemského",
+        "albánského",
+        "čínského",
+        "bolivijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lajos Kossuth",
+      "values": [
+        "maďarského",
+        "českého",
+        "amerického",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Leonid Pasečnik",
+      "values": [
+        "ukrajinského",
+        "peruánského",
+        "mongolského",
+        "jemenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stanley Baldwin",
+      "values": [
+        "kambodžského",
+        "belgického",
+        "pruského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alice Weidelová",
+      "values": [
+        "estonského",
+        "německého",
+        "černohorského",
+        "grenadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Valentín Paniagua",
+      "values": [
+        "zimbabwského",
+        "švýcarského",
+        "peruánského",
+        "dominikánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nicolas de Condorcet",
+      "values": [
+        "egyptského",
+        "chorvatského",
+        "iráckého",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Wilhelm Gustloff",
+      "values": [
+        "švýcarského",
+        "pruského",
+        "ekvádorského",
+        "bulharského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bernadette Chiracová",
+      "values": [
+        "estonského",
+        "indického",
+        "rakouského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "William Joyce",
+      "values": [
+        "ekvádorského",
+        "srbského",
+        "britského",
+        "pákistánského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

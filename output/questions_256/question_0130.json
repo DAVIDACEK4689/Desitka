@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Johann Wolfgang von Goethe",
+      "values": [
+        "rumunského",
+        "perského",
+        "norského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Ladislav Čelakovský",
+      "values": [
+        "dánského",
+        "rakouského",
+        "anglického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Henrik Ibsen",
+      "values": [
+        "norského",
+        "rakouského",
+        "indického",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marc Chagall",
+      "values": [
+        "českého",
+        "kubánského",
+        "francouzského",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jean Racine",
+      "values": [
+        "francouzského",
+        "dánského",
+        "polského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Kabeš",
+      "values": [
+        "českého",
+        "maďarského",
+        "vietnamského",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Dachovský",
+      "values": [
+        "maďarského",
+        "portugalského",
+        "českého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Bojar",
+      "values": [
+        "dánského",
+        "italského",
+        "řeckého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Maurice Maeterlinck",
+      "values": [
+        "vietnamského",
+        "amerického",
+        "belgického",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ellen Jilemnická",
+      "values": [
+        "francouzského",
+        "slovenského",
+        "polského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

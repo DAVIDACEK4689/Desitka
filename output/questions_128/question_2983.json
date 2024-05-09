@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] román?",
+  "questions": [
+    {
+      "key": "Anna Kareninová",
+      "values": [
+        "ruský",
+        "americký",
+        "španělský",
+        "švédský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Komu zvoní hrana",
+      "values": [
+        "americký",
+        "rakouský",
+        "britský",
+        "japonský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Námi to končí",
+      "values": [
+        "čínský",
+        "britský",
+        "maďarský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Utrpení knížete Sternenhocha",
+      "values": [
+        "český",
+        "španělský",
+        "francouzský",
+        "švédský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zapadlí vlastenci",
+      "values": [
+        "český",
+        "švédský",
+        "francouzský",
+        "polský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Anna Elliotová",
+      "values": [
+        "italský",
+        "anglický",
+        "rakouský",
+        "americký"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Naslouchač",
+      "values": [
+        "český",
+        "japonský",
+        "britský",
+        "norský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Příběhy Tří říší",
+      "values": [
+        "španělský",
+        "italský",
+        "čínský",
+        "francouzský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Poklad ve Stříbrném jezeře",
+      "values": [
+        "irský",
+        "český",
+        "německý",
+        "italský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Studna osamění",
+      "values": [
+        "polský",
+        "anglický",
+        "britský",
+        "francouzský"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

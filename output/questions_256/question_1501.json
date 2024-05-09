@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte pohoří podle přehradní nádrže",
+  "questions": [
+    {
+      "key": "Přehrada Desná",
+      "values": [
+        "Křižanovská vrchovina",
+        "Drahanská vrchovina",
+        "Táborská pahorkatina",
+        "Jizerské hory"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vodní nádrž Nechranice",
+      "values": [
+        "Novohradské podhůří",
+        "Šumava",
+        "Mostecká pánev",
+        "Železná hora"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vodní nádrž Štěchovice",
+      "values": [
+        "Benešovská pahorkatina",
+        "Pražská plošina",
+        "Vizovická vrchovina",
+        "Podorlická pahorkatina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vodní nádrž Hostivař",
+      "values": [
+        "Pražská plošina",
+        "Benešovská pahorkatina",
+        "Táborská pahorkatina",
+        "Mostecká pánev"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vodní nádrž Těrlicko",
+      "values": [
+        "Vizovická vrchovina",
+        "Podbeskydská pahorkatina",
+        "Mostecká pánev",
+        "Táborská pahorkatina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Luhačovická přehrada",
+      "values": [
+        "Železná hora",
+        "Novohradské podhůří",
+        "Táborská pahorkatina",
+        "Vizovická vrchovina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vodní nádrž Baška",
+      "values": [
+        "Podbeskydská pahorkatina",
+        "Táborská pahorkatina",
+        "Mostecká pánev",
+        "Křižanovská vrchovina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vodní nádrž Bedřichov",
+      "values": [
+        "Pražská plošina",
+        "Železná hora",
+        "Jizerské hory",
+        "Novohradské podhůří"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kacabaja",
+      "values": [
+        "Táborská pahorkatina",
+        "Pražská plošina",
+        "Novohradské podhůří",
+        "Podbeskydská pahorkatina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vodní nádrž Opatovice",
+      "values": [
+        "Tepelská vrchovina",
+        "Benešovská pahorkatina",
+        "Drahanská vrchovina",
+        "Mostecká pánev"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

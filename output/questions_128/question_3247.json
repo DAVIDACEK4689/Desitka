@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] firmu?",
+  "questions": [
+    {
+      "key": "IKEA",
+      "values": [
+        "sovětskou",
+        "indickou",
+        "švédskou",
+        "japonskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Unilever",
+      "values": [
+        "norskou",
+        "britskou",
+        "čínskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Realme",
+      "values": [
+        "československou",
+        "maltskou",
+        "čínskou",
+        "maďarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Novartis",
+      "values": [
+        "kanadskou",
+        "švýcarskou",
+        "irskou",
+        "sovětskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cargill",
+      "values": [
+        "americkou",
+        "britskou",
+        "kanadskou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oriflame",
+      "values": [
+        "irskou",
+        "rakouskou",
+        "švédskou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bulgari",
+      "values": [
+        "italskou",
+        "kanadskou",
+        "slovenskou",
+        "saúdskoarabskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Target",
+      "values": [
+        "saúdskoarabskou",
+        "americkou",
+        "českou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Iceland",
+      "values": [
+        "japonskou",
+        "britskou",
+        "ruskou",
+        "polskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alpiq",
+      "values": [
+        "švýcarskou",
+        "sovětskou",
+        "belgickou",
+        "vietnamskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

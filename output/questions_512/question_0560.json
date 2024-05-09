@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Radoslav Brzobohatý",
+      "values": [
+        "slovenského",
+        "českého",
+        "brazilského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miloš Havel",
+      "values": [
+        "nizozemského",
+        "českého",
+        "řeckého",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jeff Bezos",
+      "values": [
+        "rakouského",
+        "amerického",
+        "slovenského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Simona Kijonková",
+      "values": [
+        "brazilského",
+        "českého",
+        "slovenského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tomáš Chrenek",
+      "values": [
+        "jihoafrického",
+        "řeckého",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Východoevropský oligarcha",
+      "values": [
+        "ukrajinského",
+        "ruského",
+        "britského",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michaela Bakala",
+      "values": [
+        "libanonského",
+        "slovenského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rudolf Jelínek",
+      "values": [
+        "českého",
+        "jihoafrického",
+        "francouzského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michael Thonet",
+      "values": [
+        "italského",
+        "švédského",
+        "ruského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Flavio Briatore",
+      "values": [
+        "italského",
+        "francouzského",
+        "slovenského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

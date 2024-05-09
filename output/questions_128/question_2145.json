@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle premiéra",
+  "questions": [
+    {
+      "key": "Peter Pellegrini",
+      "values": [
+        "Švédsko",
+        "Arménie",
+        "Slovensko",
+        "Libanon"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mikuláš Dzurinda",
+      "values": [
+        "Rumunsko",
+        "Slovinsko",
+        "Japonsko",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "János Kádár",
+      "values": [
+        "Finsko",
+        "Gruzie",
+        "Česko",
+        "Maďarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ion Antonescu",
+      "values": [
+        "Rumunsko",
+        "Austrálie",
+        "Senegal",
+        "Moldavsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stanley Baldwin",
+      "values": [
+        "Gruzie",
+        "Spojené království",
+        "Jugoslávie",
+        "Nizozemsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Abiy Ahmed",
+      "values": [
+        "Etiopie",
+        "Řecko",
+        "Senegal",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Süleyman Demirel",
+      "values": [
+        "Grónsko",
+        "Turecko",
+        "Švédsko",
+        "Lucembursko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Léon Blum",
+      "values": [
+        "Estonsko",
+        "Maroko",
+        "Irsko",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gulbuddín Hekmatjár",
+      "values": [
+        "Grónsko",
+        "Izrael",
+        "Afghánistán",
+        "Indie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Victor Ponta",
+      "values": [
+        "Řecko",
+        "Austrálie",
+        "Rumunsko",
+        "Izrael"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

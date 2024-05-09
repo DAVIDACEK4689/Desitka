@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Věra Špinarová",
+      "values": [
+        "norskou",
+        "českou",
+        "ruskou",
+        "indickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jana Paulová",
+      "values": [
+        "českou",
+        "izraelskou",
+        "barbadoskou",
+        "finskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ivana Jirešová",
+      "values": [
+        "izraelskou",
+        "španělskou",
+        "finskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jana Kirschner",
+      "values": [
+        "maďarskou",
+        "italskou",
+        "slovenskou",
+        "uruguayskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Doro Pesch",
+      "values": [
+        "německou",
+        "indickou",
+        "americkou",
+        "polskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Šárka Rezková",
+      "values": [
+        "českou",
+        "německou",
+        "španělskou",
+        "japonskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Maja Velšicová",
+      "values": [
+        "maďarskou",
+        "norskou",
+        "slovenskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Emma Drobná",
+      "values": [
+        "brazilskou",
+        "australskou",
+        "slovenskou",
+        "barbadoskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Irene Cara",
+      "values": [
+        "finskou",
+        "mexickou",
+        "americkou",
+        "kanadskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Laurie Anderson",
+      "values": [
+        "norskou",
+        "finskou",
+        "islandskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

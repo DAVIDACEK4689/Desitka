@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebníka?",
+  "questions": [
+    {
+      "key": "Jakub Prachař",
+      "values": [
+        "jamajského",
+        "českého",
+        "švédského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Vondráček",
+      "values": [
+        "chorvatského",
+        "amerického",
+        "českého",
+        "arménského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vít Rotter",
+      "values": [
+        "českého",
+        "brazilského",
+        "jihokorejského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Kučaj",
+      "values": [
+        "australského",
+        "amerického",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jeremy Renner",
+      "values": [
+        "chorvatského",
+        "španělského",
+        "amerického",
+        "brazilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomáš Břínek",
+      "values": [
+        "českého",
+        "irského",
+        "rakouského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Otomar Korbelář",
+      "values": [
+        "amerického",
+        "kanadského",
+        "arménského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michael Hutchence",
+      "values": [
+        "slovenského",
+        "britského",
+        "australského",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michal Zelenka",
+      "values": [
+        "amerického",
+        "rakouského",
+        "brazilského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Skrillex",
+      "values": [
+        "jihokorejského",
+        "španělského",
+        "arménského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

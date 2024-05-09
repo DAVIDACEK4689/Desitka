@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] firmu?",
+  "questions": [
+    {
+      "key": "Spotify",
+      "values": [
+        "českou",
+        "švédskou",
+        "italskou",
+        "slovenskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Philips",
+      "values": [
+        "ruskou",
+        "dánskou",
+        "nizozemskou",
+        "slovinskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Swarovski",
+      "values": [
+        "francouzskou",
+        "jihokorejskou",
+        "španělskou",
+        "rakouskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Midjourney",
+      "values": [
+        "slovinskou",
+        "americkou",
+        "českou",
+        "irskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tencent",
+      "values": [
+        "španělskou",
+        "čínskou",
+        "francouzskou",
+        "japonskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dedoles",
+      "values": [
+        "norskou",
+        "slovenskou",
+        "americkou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Altria Group",
+      "values": [
+        "americkou",
+        "československou",
+        "nizozemskou",
+        "irskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Husqvarna",
+      "values": [
+        "švédskou",
+        "irskou",
+        "francouzskou",
+        "španělskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Podnik zahraničního obchodu",
+      "values": [
+        "italskou",
+        "československou",
+        "izraelskou",
+        "norskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Prusa Research",
+      "values": [
+        "japonskou",
+        "francouzskou",
+        "českou",
+        "španělskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

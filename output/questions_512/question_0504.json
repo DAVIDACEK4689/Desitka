@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle amerického sportovce",
+  "questions": [
+    {
+      "key": "Ken Block",
+      "values": [
+        "šachista",
+        "automobilový závodník",
+        "basketbalista",
+        "lední hokejista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kobe Bryant",
+      "values": [
+        "basketbalista",
+        "baseballisté",
+        "cyklista",
+        "automobilový závodník"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paul Newman",
+      "values": [
+        "horolezec",
+        "baseballisté",
+        "automobilový závodník",
+        "lední hokejista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jake Paul",
+      "values": [
+        "boxer",
+        "tenista",
+        "horolezec",
+        "lední hokejista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Carroll Shelby",
+      "values": [
+        "automobilový závodník",
+        "baseballisté",
+        "tenista",
+        "basketbalista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stephen Curry",
+      "values": [
+        "baseballisté",
+        "cyklista",
+        "basketbalista",
+        "tenista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alex Honnold",
+      "values": [
+        "šachista",
+        "golfista",
+        "horolezec",
+        "lední hokejista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Wilt Chamberlain",
+      "values": [
+        "golfista",
+        "cyklista",
+        "lední hokejista",
+        "basketbalista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Joe DiMaggio",
+      "values": [
+        "automobilový závodník",
+        "boxer",
+        "baseballisté",
+        "golfista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jimmy Connors",
+      "values": [
+        "šachista",
+        "automobilový závodník",
+        "golfista",
+        "tenista"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

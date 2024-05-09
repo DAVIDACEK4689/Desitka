@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] videohru?",
+  "questions": [
+    {
+      "key": "The Last of Us",
+      "values": [
+        "rakouskou",
+        "americkou",
+        "německou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Divoké kmeny",
+      "values": [
+        "ukrajinskou",
+        "německou",
+        "slovenskou",
+        "finskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Diablo IV",
+      "values": [
+        "polskou",
+        "americkou",
+        "německou",
+        "čínskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Escape from Tarkov",
+      "values": [
+        "ruskou",
+        "japonskou",
+        "švédskou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dark Souls",
+      "values": [
+        "ukrajinskou",
+        "japonskou",
+        "ruskou",
+        "německou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Metal Gear Solid",
+      "values": [
+        "polskou",
+        "japonskou",
+        "finskou",
+        "čínskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Max Payne",
+      "values": [
+        "polskou",
+        "finskou",
+        "rakouskou",
+        "německou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Clash Royale",
+      "values": [
+        "čínskou",
+        "finskou",
+        "nizozemskou",
+        "běloruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Duke Nukem 3D",
+      "values": [
+        "čínskou",
+        "polskou",
+        "americkou",
+        "švédskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Far Cry 3",
+      "values": [
+        "finskou",
+        "čínskou",
+        "kanadskou",
+        "švédskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

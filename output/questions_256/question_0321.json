@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Vilnius",
+      "values": [
+        "Litva",
+        "Východní Timor",
+        "Švédsko",
+        "Černá Hora"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Minsk",
+      "values": [
+        "Španělsko",
+        "Eritrea",
+        "Jihoafrická republika",
+        "Bělorusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Addis Abeba",
+      "values": [
+        "Jemen",
+        "Etiopie",
+        "Egypt",
+        "Alžírsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mogadišo",
+      "values": [
+        "Laos",
+        "Chorvatsko",
+        "Somálsko",
+        "Ázerbájdžán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sucre",
+      "values": [
+        "Nový Zéland",
+        "Kyrgyzstán",
+        "Bělorusko",
+        "Bolívie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vientiane",
+      "values": [
+        "Laos",
+        "Malajsie",
+        "Japonsko",
+        "Estonsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Breda",
+      "values": [
+        "Myanmar",
+        "Jihoafrická republika",
+        "Thajsko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Irbíl",
+      "values": [
+        "Irák",
+        "Malta",
+        "Maroko",
+        "Portugalsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Novigrad",
+      "values": [
+        "Chorvatsko",
+        "Řecko",
+        "Malajsie",
+        "Izrael"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rize",
+      "values": [
+        "Angola",
+        "Honduras",
+        "Turecko",
+        "Egypt"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

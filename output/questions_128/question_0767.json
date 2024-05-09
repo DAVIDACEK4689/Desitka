@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] evropského podnikatele?",
+  "questions": [
+    {
+      "key": "Igor Matovič",
+      "values": [
+        "španělského",
+        "českého",
+        "slovenského",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomáš Chrenek",
+      "values": [
+        "polského",
+        "českého",
+        "ruského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michail Chodorkovskij",
+      "values": [
+        "italského",
+        "polského",
+        "ruského",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bohumír Ďuričko",
+      "values": [
+        "slovenského",
+        "českého",
+        "litevského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "David Bohbot",
+      "values": [
+        "běloruského",
+        "českého",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tomáš Horáček",
+      "values": [
+        "ukrajinského",
+        "českého",
+        "monackého",
+        "belgického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Koum",
+      "values": [
+        "ukrajinského",
+        "českého",
+        "polského",
+        "běloruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jindřich Hudeček",
+      "values": [
+        "řeckého",
+        "švýcarského",
+        "nizozemského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stavros Niarchos",
+      "values": [
+        "belgického",
+        "českého",
+        "německého",
+        "řeckého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Matěj Hlaváček",
+      "values": [
+        "španělského",
+        "polského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Aneta Vignerová",
+      "values": [
+        "americkou",
+        "švýcarskou",
+        "polskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kourtney Kardashian",
+      "values": [
+        "francouzskou",
+        "japonskou",
+        "venezuelskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jessica Bielová",
+      "values": [
+        "německou",
+        "japonskou",
+        "jihoafrickou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jeanne Hébuterneová",
+      "values": [
+        "rakouskou",
+        "argentinskou",
+        "maďarskou",
+        "francouzskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Selena",
+      "values": [
+        "argentinskou",
+        "americkou",
+        "namibijskou",
+        "švédskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Famke Janssenová",
+      "values": [
+        "ukrajinskou",
+        "polskou",
+        "venezuelskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Brooklyn Decker",
+      "values": [
+        "brazilskou",
+        "polskou",
+        "ruskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michaela Kociánová",
+      "values": [
+        "ukrajinskou",
+        "rakouskou",
+        "brazilskou",
+        "slovenskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nikola Uhlířová",
+      "values": [
+        "nizozemskou",
+        "českou",
+        "brazilskou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lois Chiles",
+      "values": [
+        "italskou",
+        "švýcarskou",
+        "slovenskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

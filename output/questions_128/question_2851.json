@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Strakonice",
+      "values": [
+        "Radbuza",
+        "Hornád",
+        "Otava",
+        "Seina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Židlochovice",
+      "values": [
+        "Svratka",
+        "Lužnice",
+        "Visla",
+        "Otava"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Slatiňany",
+      "values": [
+        "Labe",
+        "Ploučnice",
+        "Chrudimka",
+        "Svratka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nova Kachovka",
+      "values": [
+        "Emže",
+        "Dněpr",
+        "Ploučnice",
+        "Úhlava"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Strachotín",
+      "values": [
+        "Váha",
+        "Dyje",
+        "Dněpr",
+        "Polenz"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ladná",
+      "values": [
+        "Tibera",
+        "Dunaj",
+        "Dyje",
+        "Emže"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Strečno",
+      "values": [
+        "Váha",
+        "Ploučnice",
+        "Volha",
+        "Hron"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sandoměř",
+      "values": [
+        "Metuje",
+        "Rýn",
+        "Inn",
+        "Visla"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stepancminda",
+      "values": [
+        "Lužická Nisa",
+        "Těrek",
+        "Sázava",
+        "Chrudimka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Todi",
+      "values": [
+        "Rýn",
+        "Temže",
+        "Visla",
+        "Tibera"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

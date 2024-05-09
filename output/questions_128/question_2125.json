@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Johan Cruijff",
+      "values": [
+        "nigerijského",
+        "nizozemského",
+        "norského",
+        "kosovského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michel Platini",
+      "values": [
+        "gruzínského",
+        "severoirského",
+        "portugalského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kasper Schmeichel",
+      "values": [
+        "japonského",
+        "skotského",
+        "dánského",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Valon Behrami",
+      "values": [
+        "kolumbijského",
+        "tureckého",
+        "kosovského",
+        "brazilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexandre Pato",
+      "values": [
+        "srbského",
+        "gruzínského",
+        "bulharského",
+        "brazilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Abdullahi Tanko",
+      "values": [
+        "finského",
+        "nigerijského",
+        "kosovského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tomáš Abrahám",
+      "values": [
+        "kostarického",
+        "českého",
+        "rumunského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "John Stones",
+      "values": [
+        "rakouského",
+        "nizozemského",
+        "polského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Massimo Ambrosini",
+      "values": [
+        "italského",
+        "španělského",
+        "kosovského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ian Walker",
+      "values": [
+        "švédského",
+        "belgického",
+        "ghanského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

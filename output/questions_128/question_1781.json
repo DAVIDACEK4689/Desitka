@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Karel Sabina",
+      "values": [
+        "kubánského",
+        "filipínského",
+        "českého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Susanna Tamarová",
+      "values": [
+        "italského",
+        "ruského",
+        "kanadského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "William Butler Yeats",
+      "values": [
+        "francouzského",
+        "libanonského",
+        "martinického",
+        "irského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Richard Pachman",
+      "values": [
+        "uruguayského",
+        "gruzínského",
+        "českého",
+        "estonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Šolom Alejchem",
+      "values": [
+        "peruánského",
+        "ruského",
+        "kyrgyzského",
+        "egyptského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vlastimil Rada",
+      "values": [
+        "filipínského",
+        "afghánského",
+        "polského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stanisław Przybyszewski",
+      "values": [
+        "španělského",
+        "litevského",
+        "irského",
+        "polského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Naim Frashëri",
+      "values": [
+        "černohorského",
+        "novozélandského",
+        "australského",
+        "albánského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ephraim Kishon",
+      "values": [
+        "estonského",
+        "irského",
+        "švédského",
+        "maďarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ivan Krasko",
+      "values": [
+        "německého",
+        "českého",
+        "egyptského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [žánr] videohru?",
+  "questions": [
+    {
+      "key": "Mortal Kombat",
+      "values": [
+        "hudební",
+        "bojovou",
+        "akční",
+        "strategickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hledání min",
+      "values": [
+        "akční",
+        "závodní",
+        "logickou",
+        "karetní"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Total War",
+      "values": [
+        "bojovou",
+        "sportovní",
+        "logickou",
+        "strategickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Angry Birds",
+      "values": [
+        "sportovní",
+        "bojovou",
+        "závodní",
+        "logickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hearts of Iron IV",
+      "values": [
+        "hudební",
+        "strategickou",
+        "sportovní",
+        "závodní"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hearthstone",
+      "values": [
+        "karetní",
+        "závodní",
+        "logickou",
+        "strategickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kantai Collection",
+      "values": [
+        "logickou",
+        "akční",
+        "karetní",
+        "hudební"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Need for Speed Unbound",
+      "values": [
+        "závodní",
+        "karetní",
+        "sportovní",
+        "logickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Splinter Cell",
+      "values": [
+        "hudební",
+        "akční",
+        "karetní",
+        "logickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "The Crew Motorfest",
+      "values": [
+        "bojovou",
+        "akční",
+        "sportovní",
+        "závodní"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

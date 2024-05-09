@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] videohru?",
+  "questions": [
+    {
+      "key": "Minecraft",
+      "values": [
+        "ruskou",
+        "finskou",
+        "švédskou",
+        "japonskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roblox",
+      "values": [
+        "americkou",
+        "britskou",
+        "švédskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Indiana Jones",
+      "values": [
+        "německou",
+        "americkou",
+        "ruskou",
+        "finskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "The Last of Us",
+      "values": [
+        "americkou",
+        "britskou",
+        "japonskou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pokémon",
+      "values": [
+        "japonskou",
+        "ruskou",
+        "finskou",
+        "americkou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fortnite Battle Royale",
+      "values": [
+        "britskou",
+        "finskou",
+        "ruskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tetris",
+      "values": [
+        "britskou",
+        "americkou",
+        "ruskou",
+        "německou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "League of Legends",
+      "values": [
+        "ruskou",
+        "americkou",
+        "japonskou",
+        "finskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Grand Theft Auto V",
+      "values": [
+        "japonskou",
+        "finskou",
+        "britskou",
+        "švédskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Grand Theft Auto",
+      "values": [
+        "švédskou",
+        "britskou",
+        "finskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

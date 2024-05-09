@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] klavíristu?",
+  "questions": [
+    {
+      "key": "Jaromír Vomáčka",
+      "values": [
+        "japonského",
+        "amerického",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Carl Maria von Weber",
+      "values": [
+        "britského",
+        "polského",
+        "německého",
+        "čínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zuzana Růžičková",
+      "values": [
+        "německého",
+        "japonského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Maria Anna Mozartová",
+      "values": [
+        "rakouského",
+        "ukrajinského",
+        "španělského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Billy Preston",
+      "values": [
+        "francouzského",
+        "ukrajinského",
+        "australského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fanny Mendelssohnová",
+      "values": [
+        "českého",
+        "britského",
+        "německého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Joaquín Rodrigo",
+      "values": [
+        "španělského",
+        "ukrajinského",
+        "britského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lukáš Klánský",
+      "values": [
+        "českého",
+        "kanadského",
+        "slovenského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alan Menken",
+      "values": [
+        "australského",
+        "gruzínského",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marek Brezovský",
+      "values": [
+        "slovenského",
+        "maďarského",
+        "španělského",
+        "finského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

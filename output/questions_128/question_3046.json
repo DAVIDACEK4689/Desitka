@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Jack London",
+      "values": [
+        "estonského",
+        "kubánského",
+        "brazilského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bear Grylls",
+      "values": [
+        "íránského",
+        "japonského",
+        "britského",
+        "peruánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Heinrich Böll",
+      "values": [
+        "mexického",
+        "španělského",
+        "filipínského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Peter Handke",
+      "values": [
+        "rakouského",
+        "bulharského",
+        "kubánského",
+        "ázerbájdžánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mario Vargas Llosa",
+      "values": [
+        "argentinského",
+        "peruánského",
+        "kanadského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Věra Nosková",
+      "values": [
+        "běloruského",
+        "českého",
+        "španělského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Reinsberg",
+      "values": [
+        "malajsijského",
+        "nigerijského",
+        "norského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Nálevka",
+      "values": [
+        "afghánského",
+        "peruánského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Yrsa Sigurðardóttir",
+      "values": [
+        "kubánského",
+        "estonského",
+        "islandského",
+        "srbského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Winfried Georg Sebald",
+      "values": [
+        "německého",
+        "jihoafrického",
+        "švédského",
+        "kyrgyzského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

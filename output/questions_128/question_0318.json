@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte režisérku podle filmu",
+  "questions": [
+    {
+      "key": "S tebou mě baví svět",
+      "values": [
+        "Kathryn Bigelowová",
+        "Alice Nellis",
+        "Marie Poledňáková",
+        "Nora Ephronová"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jak se krotí krokodýli",
+      "values": [
+        "Marie Poledňáková",
+        "Patty Jenkinsová",
+        "Alice Nellis",
+        "Chloé Zhaová"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Po čem ženy touží",
+      "values": [
+        "Nancy Meyers",
+        "Martha Coolidge",
+        "Patty Jenkinsová",
+        "Leni Riefenstahlová"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dva lidi v zoo",
+      "values": [
+        "Nora Ephronová",
+        "Věra Chytilová",
+        "Marie Poledňáková",
+        "Alice Nellis"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Úplné zatmění",
+      "values": [
+        "Agnieszka Hollandová",
+        "Patty Jenkinsová",
+        "Mary Harronová",
+        "Leni Riefenstahlová"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Faunovo velmi pozdní odpoledne",
+      "values": [
+        "Věra Chytilová",
+        "Agnieszka Hollandová",
+        "Nora Ephronová",
+        "Mary Harronová"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Smrt čeká všude",
+      "values": [
+        "Sofia Coppola",
+        "Kathryn Bigelowová",
+        "Alice Nellis",
+        "Leni Riefenstahlová"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Podzim v New Yorku",
+      "values": [
+        "Catherine Hardwicke",
+        "Marie Poledňáková",
+        "Joan Chen",
+        "Mary Harronová"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Země nomádů",
+      "values": [
+        "Chloé Zhaová",
+        "Nancy Meyers",
+        "Catherine Hardwicke",
+        "Nora Ephronová"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Šašek a královna",
+      "values": [
+        "Martha Coolidge",
+        "Leni Riefenstahlová",
+        "Věra Chytilová",
+        "Nancy Meyers"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

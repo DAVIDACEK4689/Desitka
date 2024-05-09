@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Can Yaman",
+      "values": [
+        "guatemalského",
+        "čínského",
+        "amerického",
+        "tureckého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Milan Lasica",
+      "values": [
+        "slovenského",
+        "indického",
+        "mexického",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Antonín Duchoslav",
+      "values": [
+        "norského",
+        "českého",
+        "švédského",
+        "portorického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tobiáš Jirous",
+      "values": [
+        "izraelského",
+        "českého",
+        "venezuelského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dan Bilzerian",
+      "values": [
+        "amerického",
+        "rakouského",
+        "švédského",
+        "islandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Bruder",
+      "values": [
+        "německého",
+        "českého",
+        "sovětského",
+        "malajsijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Travis Fimmel",
+      "values": [
+        "španělského",
+        "australského",
+        "norského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Giuliano Gemma",
+      "values": [
+        "amerického",
+        "jamajského",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eddie Izzard",
+      "values": [
+        "britského",
+        "italského",
+        "polského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Gelnar",
+      "values": [
+        "českého",
+        "irského",
+        "malajsijského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

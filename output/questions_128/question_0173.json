@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle válku",
+  "questions": [
+    {
+      "key": "Války růží",
+      "values": [
+        "Anglie",
+        "Portugalsko",
+        "starověký Řím",
+        "Uganda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Druhá čečenská válka",
+      "values": [
+        "Izrael",
+        "Rusko",
+        "Japonsko",
+        "Etiopie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Válka s emuy",
+      "values": [
+        "Pákistán",
+        "Uganda",
+        "Austrálie",
+        "Sýrie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "První opiová válka",
+      "values": [
+        "Polsko",
+        "Srbsko",
+        "Austrálie",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Balkánské tažení",
+      "values": [
+        "Chorvatsko",
+        "Pero",
+        "Španělsko",
+        "Etiopie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zápisky o válce galské",
+      "values": [
+        "Itálie",
+        "Etiopie",
+        "starověký Řím",
+        "Sovětský svaz"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Povstání Níká",
+      "values": [
+        "Byzantská říše",
+        "starověký Řím",
+        "Japonsko",
+        "Mexiko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pyrrhovy války",
+      "values": [
+        "Pákistán",
+        "Sovětský svaz",
+        "starověký Řím",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mexická válka za nezávislost",
+      "values": [
+        "Ruské impérium",
+        "Irsko",
+        "Španělsko",
+        "Mexiko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dácké války",
+      "values": [
+        "Ruské impérium",
+        "starověký Řím",
+        "Sýrie",
+        "Ukrajina"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle archeologické lokality",
+  "questions": [
+    {
+      "key": "Kréta",
+      "values": [
+        "Řecko",
+        "Španělsko",
+        "Egypt",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Machu Picchu",
+      "values": [
+        "Itálie",
+        "Izrael",
+        "Španělsko",
+        "Pero"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Trója",
+      "values": [
+        "Tunisko",
+        "Itálie",
+        "Španělsko",
+        "Turecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hallstatt",
+      "values": [
+        "Itálie",
+        "Izrael",
+        "Rakousko",
+        "Turecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Soluň",
+      "values": [
+        "Irák",
+        "Tunisko",
+        "Řecko",
+        "Egypt"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Údolí králů",
+      "values": [
+        "Egypt",
+        "Řecko",
+        "Pero",
+        "Irák"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Forum Romanum",
+      "values": [
+        "Itálie",
+        "Kambodža",
+        "Irák",
+        "Turecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Syrakusy",
+      "values": [
+        "Itálie",
+        "Řecko",
+        "Tunisko",
+        "Izrael"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mykény",
+      "values": [
+        "Řecko",
+        "Turecko",
+        "Tunisko",
+        "Izrael"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Göbekli Tepe",
+      "values": [
+        "Řecko",
+        "Turecko",
+        "Izrael",
+        "Egypt"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Ivana Chýlková",
+      "values": [
+        "českou",
+        "ruskou",
+        "dánskou",
+        "novozélandskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gal Gadotová",
+      "values": [
+        "americkou",
+        "maďarskou",
+        "izraelskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Carola Braunbocková",
+      "values": [
+        "australskou",
+        "čínskou",
+        "německou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Julie Jurištová",
+      "values": [
+        "indickou",
+        "německou",
+        "českou",
+        "španělskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sara Gilbertová",
+      "values": [
+        "kanadskou",
+        "rakouskou",
+        "jihoafrickou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Andie MacDowell",
+      "values": [
+        "novozélandskou",
+        "americkou",
+        "irskou",
+        "australskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Emmanuelle Chriqui",
+      "values": [
+        "australskou",
+        "rakouskou",
+        "českou",
+        "kanadskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marcia Crossová",
+      "values": [
+        "švýcarskou",
+        "americkou",
+        "maďarskou",
+        "českou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eva Asterová",
+      "values": [
+        "švédskou",
+        "izraelskou",
+        "uzbeckou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Elke Winkens",
+      "values": [
+        "německou",
+        "kanadskou",
+        "americkou",
+        "švédskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Predrag Bjelac",
+      "values": [
+        "brazilského",
+        "argentinského",
+        "irského",
+        "srbského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vojtěch Havelka",
+      "values": [
+        "českého",
+        "srbského",
+        "ruského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Kopečný",
+      "values": [
+        "českého",
+        "polského",
+        "ukrajinského",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Brian Austin Green",
+      "values": [
+        "polského",
+        "jamajského",
+        "mexického",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Max Schmeling",
+      "values": [
+        "jamajského",
+        "německého",
+        "indického",
+        "mexického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mark Keller",
+      "values": [
+        "guatemalského",
+        "německého",
+        "francouzského",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivan Palúch",
+      "values": [
+        "slovenského",
+        "portorického",
+        "jamajského",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marián Mitaš",
+      "values": [
+        "izraelského",
+        "slovenského",
+        "švédského",
+        "venezuelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Edward Furlong",
+      "values": [
+        "irského",
+        "amerického",
+        "britského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sofie Gråbøl",
+      "values": [
+        "jamajského",
+        "dánského",
+        "kanadského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

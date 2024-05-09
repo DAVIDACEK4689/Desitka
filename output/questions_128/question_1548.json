@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] elektronického hudebníka?",
+  "questions": [
+    {
+      "key": "Avicii",
+      "values": [
+        "švédského",
+        "českého",
+        "finského",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Frank Zappa",
+      "values": [
+        "belgického",
+        "amerického",
+        "francouzského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vangelis",
+      "values": [
+        "italského",
+        "amerického",
+        "řeckého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Markus Persson",
+      "values": [
+        "belgického",
+        "řeckého",
+        "švédského",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miloslav Kabeláč",
+      "values": [
+        "českého",
+        "finského",
+        "řeckého",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sufjan Stevens",
+      "values": [
+        "irského",
+        "amerického",
+        "francouzského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "TheFatRat",
+      "values": [
+        "francouzského",
+        "řeckého",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Melissa Reese",
+      "values": [
+        "belgického",
+        "řeckého",
+        "amerického",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Edgard Varèse",
+      "values": [
+        "italského",
+        "irského",
+        "francouzského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Perturbator",
+      "values": [
+        "francouzského",
+        "řeckého",
+        "německého",
+        "irského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

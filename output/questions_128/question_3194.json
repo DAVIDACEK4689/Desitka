@@ -1,0 +1,105 @@
+{
+  "text": "Určete oceán podle moře",
+  "questions": [
+    {
+      "key": "Černé moře",
+      "values": [
+        "Tichý oceán",
+        "Atlantský oceán",
+        "Jižní oceán",
+        "Indický oceán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rudé moře",
+      "values": [
+        "Indický oceán",
+        "Atlantský oceán",
+        "Tichý oceán",
+        "Jižní oceán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sargasové moře",
+      "values": [
+        "Tichý oceán",
+        "Atlantský oceán",
+        "Indický oceán",
+        "Jižní oceán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Norské moře",
+      "values": [
+        "Atlantský oceán",
+        "Indický oceán",
+        "Jižní oceán",
+        "Tichý oceán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Arabské moře",
+      "values": [
+        "Indický oceán",
+        "Jižní oceán",
+        "Tichý oceán",
+        "Atlantský oceán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Beringovo moře",
+      "values": [
+        "Jižní oceán",
+        "Atlantský oceán",
+        "Indický oceán",
+        "Tichý oceán"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Irské moře",
+      "values": [
+        "Indický oceán",
+        "Atlantský oceán",
+        "Jižní oceán",
+        "Tichý oceán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Korálové moře",
+      "values": [
+        "Tichý oceán",
+        "Atlantský oceán",
+        "Indický oceán",
+        "Jižní oceán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Andamanské moře",
+      "values": [
+        "Tichý oceán",
+        "Indický oceán",
+        "Atlantský oceán",
+        "Jižní oceán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Východočínské moře",
+      "values": [
+        "Atlantský oceán",
+        "Indický oceán",
+        "Jižní oceán",
+        "Tichý oceán"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

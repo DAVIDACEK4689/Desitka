@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] dramatický film?",
+  "questions": [
+    {
+      "key": "Všichni dobří rodáci",
+      "values": [
+        "francouzský",
+        "jihokorejský",
+        "český",
+        "estonský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dobří holubi se vracejí",
+      "values": [
+        "český",
+        "japonský",
+        "sovětský",
+        "německý"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nebeští jezdci",
+      "values": [
+        "britský",
+        "japonský",
+        "český",
+        "americký"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zamilovaný Shakespeare",
+      "values": [
+        "americký",
+        "estonský",
+        "francouzský",
+        "britský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Případ pro začínajícího kata",
+      "values": [
+        "španělský",
+        "maďarský",
+        "izraelský",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dobrodruzi",
+      "values": [
+        "maďarský",
+        "italský",
+        "kanadský",
+        "francouzský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Domácí péče",
+      "values": [
+        "český",
+        "ruský",
+        "japonský",
+        "sovětský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kohout plaší smrt",
+      "values": [
+        "sovětský",
+        "německý",
+        "československý",
+        "japonský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jazzový zpěvák",
+      "values": [
+        "mexický",
+        "český",
+        "americký",
+        "francouzský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Každý den odvahu",
+      "values": [
+        "španělský",
+        "československý",
+        "německý",
+        "mexický"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

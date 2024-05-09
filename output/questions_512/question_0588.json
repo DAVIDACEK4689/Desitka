@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenoristu?",
+  "questions": [
+    {
+      "key": "Karel Gott",
+      "values": [
+        "amerického",
+        "českého",
+        "italského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michael Jackson",
+      "values": [
+        "amerického",
+        "slovenského",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Štefan Margita",
+      "values": [
+        "slovenského",
+        "italského",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Andrea Bocelli",
+      "values": [
+        "slovenského",
+        "amerického",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Luciano Pavarotti",
+      "values": [
+        "britského",
+        "amerického",
+        "italského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robert Plant",
+      "values": [
+        "španělského",
+        "amerického",
+        "slovenského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Škroup",
+      "values": [
+        "amerického",
+        "britského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marian Vojtko",
+      "values": [
+        "slovenského",
+        "amerického",
+        "italského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Enrico Caruso",
+      "values": [
+        "českého",
+        "italského",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Peter Dvorský",
+      "values": [
+        "britského",
+        "slovenského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

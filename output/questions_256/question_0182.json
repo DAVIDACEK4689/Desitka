@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Miloš Forman",
+      "values": [
+        "českého",
+        "srbského",
+        "švédského",
+        "malajsijského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eduard Bass",
+      "values": [
+        "českého",
+        "tureckého",
+        "marockého",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Boris Hybner",
+      "values": [
+        "německého",
+        "českého",
+        "izraelského",
+        "marockého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Klaus Kinski",
+      "values": [
+        "srbského",
+        "islandského",
+        "irského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ethan Hawke",
+      "values": [
+        "nizozemského",
+        "australského",
+        "španělského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Albano Carrisi",
+      "values": [
+        "italského",
+        "sovětského",
+        "portorického",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Jíra",
+      "values": [
+        "rakouského",
+        "venezuelského",
+        "ukrajinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Christopher Chaplin",
+      "values": [
+        "islandského",
+        "ruského",
+        "švýcarského",
+        "srbského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Guy Pearce",
+      "values": [
+        "australského",
+        "jihoafrického",
+        "španělského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lars Mikkelsen",
+      "values": [
+        "polského",
+        "nizozemského",
+        "ruského",
+        "dánského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

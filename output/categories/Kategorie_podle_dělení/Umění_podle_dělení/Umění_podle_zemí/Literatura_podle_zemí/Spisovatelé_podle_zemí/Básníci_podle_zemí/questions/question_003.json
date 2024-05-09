@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Edgar Allan Poe",
+      "values": [
+        "německého",
+        "francouzského",
+        "amerického",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Viktor Dyk",
+      "values": [
+        "českého",
+        "francouzského",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Johann Wolfgang von Goethe",
+      "values": [
+        "amerického",
+        "dánského",
+        "německého",
+        "skotského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivan Martin Jirous",
+      "values": [
+        "českého",
+        "skotského",
+        "francouzského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Voltaire",
+      "values": [
+        "italského",
+        "francouzského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Svatopluk Čech",
+      "values": [
+        "francouzského",
+        "německého",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Otokar Březina",
+      "values": [
+        "amerického",
+        "francouzského",
+        "irského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Hrubín",
+      "values": [
+        "anglického",
+        "španělského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Halas",
+      "values": [
+        "českého",
+        "irského",
+        "dánského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "František Gellner",
+      "values": [
+        "francouzského",
+        "českého",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

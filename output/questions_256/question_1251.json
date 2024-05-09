@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Jiří Krampol",
+      "values": [
+        "českého",
+        "dánského",
+        "švédského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nicolas Cage",
+      "values": [
+        "amerického",
+        "novozélandského",
+        "hongkongského",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Zeman",
+      "values": [
+        "srbského",
+        "německého",
+        "mexického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Christoph Waltz",
+      "values": [
+        "rakouského",
+        "australského",
+        "polského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Steve Buscemi",
+      "values": [
+        "amerického",
+        "japonského",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Brdečka",
+      "values": [
+        "českého",
+        "srbského",
+        "španělského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Adriano Celentano",
+      "values": [
+        "italského",
+        "švédského",
+        "srbského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Éric Rohmer",
+      "values": [
+        "srbského",
+        "slovenského",
+        "rakouského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Salzer",
+      "values": [
+        "českého",
+        "slovenského",
+        "kanadského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert Rodriguez",
+      "values": [
+        "kanadského",
+        "amerického",
+        "irského",
+        "polského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle archeologické lokality",
+  "questions": [
+    {
+      "key": "Machu Picchu",
+      "values": [
+        "Itálie",
+        "Turecko",
+        "Litva",
+        "Pero"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Soluň",
+      "values": [
+        "Řecko",
+        "Pero",
+        "Kambodža",
+        "Jordánsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Syrakusy",
+      "values": [
+        "Chorvatsko",
+        "Irák",
+        "Itálie",
+        "Tunisko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ravenna",
+      "values": [
+        "Itálie",
+        "Pero",
+        "Česko",
+        "Jordánsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Obrazce na planině Nazca",
+      "values": [
+        "Turecko",
+        "Pero",
+        "Egypt",
+        "Španělsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Uruk",
+      "values": [
+        "Kambodža",
+        "Egypt",
+        "Irák",
+        "Pero"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Arles",
+      "values": [
+        "Španělsko",
+        "Francie",
+        "Litva",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gíza",
+      "values": [
+        "Egypt",
+        "Rakousko",
+        "Řecko",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Carnuntum",
+      "values": [
+        "Španělsko",
+        "Rakousko",
+        "Francie",
+        "Litva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mennofer",
+      "values": [
+        "Irák",
+        "Řecko",
+        "Španělsko",
+        "Egypt"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

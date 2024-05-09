@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] právníka?",
+  "questions": [
+    {
+      "key": "Alois Rašín",
+      "values": [
+        "francouzského",
+        "polského",
+        "estonského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Viktor Orbán",
+      "values": [
+        "maďarského",
+        "českého",
+        "ruského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marián Čalfa",
+      "values": [
+        "srbského",
+        "řeckého",
+        "ruského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Otakar Foltýn",
+      "values": [
+        "polského",
+        "amerického",
+        "českého",
+        "estonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robert Kerndl",
+      "values": [
+        "srbského",
+        "českého",
+        "polského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaroslav Krejčí",
+      "values": [
+        "českého",
+        "polského",
+        "britského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Hájek",
+      "values": [
+        "srbského",
+        "německého",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Denys Monastyrskyj",
+      "values": [
+        "rakouského",
+        "slovenského",
+        "ukrajinského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Daniel Lipšic",
+      "values": [
+        "maďarského",
+        "řeckého",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michael Kohajda",
+      "values": [
+        "ukrajinského",
+        "srbského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

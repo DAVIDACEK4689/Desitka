@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle úmrtí",
+  "questions": [
+    {
+      "key": "Falco",
+      "values": [
+        "Švédsko",
+        "Lucembursko",
+        "Gibraltar",
+        "Dominikánská republika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zuzana Burianová",
+      "values": [
+        "Gibraltar",
+        "Švýcarsko",
+        "Gabon",
+        "Turecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Princ Henrik",
+      "values": [
+        "Itálie",
+        "Alžírsko",
+        "Rusko",
+        "Dánsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Enver Paša",
+      "values": [
+        "Řecko",
+        "Česko",
+        "Tádžikistán",
+        "Kolumbie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Atahualpa",
+      "values": [
+        "Pero",
+        "Lucembursko",
+        "Belgie",
+        "Panama"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fernando Botero",
+      "values": [
+        "Maďarsko",
+        "Venezuela",
+        "Singapur",
+        "Monako"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Markéta Parmská",
+      "values": [
+        "Uruguay",
+        "Turecko",
+        "Itálie",
+        "Ukrajina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hage Geingob",
+      "values": [
+        "Honduras",
+        "Namibie",
+        "Gruzie",
+        "Nepál"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alvin Lee",
+      "values": [
+        "Jihoafrická republika",
+        "Litva",
+        "Afghánistán",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gerhard Palitzsch",
+      "values": [
+        "Kolumbie",
+        "Alžírsko",
+        "Turecko",
+        "Maďarsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

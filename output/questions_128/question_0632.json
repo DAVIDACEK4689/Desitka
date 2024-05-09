@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle prezidenta",
+  "questions": [
+    {
+      "key": "Karl Dönitz",
+      "values": [
+        "Etiopie",
+        "Německo",
+        "Rumunsko",
+        "Turkmenistán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Daniel Ortega",
+      "values": [
+        "Ekvádor",
+        "Zambie",
+        "Kosovo",
+        "Nikaragua"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Guðni Thorlacius Jóhannesson",
+      "values": [
+        "Čad",
+        "Moldavsko",
+        "Kamerun",
+        "Island"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Serdar Berdimuhamedow",
+      "values": [
+        "Senegal",
+        "Rovníková Guinea",
+        "Turkmenistán",
+        "Nigérie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Thomas Sankara",
+      "values": [
+        "Burkina Faso",
+        "Gabon",
+        "Egypt",
+        "Libanon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Muhammadu Buhari",
+      "values": [
+        "Egypt",
+        "Nigérie",
+        "Izrael",
+        "Lotyšsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Muhammad Dáúd Chán",
+      "values": [
+        "Jugoslávie",
+        "Afghánistán",
+        "Kyrgyzstán",
+        "Bulharsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kgalema Motlanthe",
+      "values": [
+        "Island",
+        "Somálsko",
+        "Bulharsko",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zelimchan Jandarbijev",
+      "values": [
+        "Brazílie",
+        "Bulharsko",
+        "Čečenci",
+        "Afghánistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mário Soares",
+      "values": [
+        "Nikaragua",
+        "Německo",
+        "Portugalsko",
+        "Bulharsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

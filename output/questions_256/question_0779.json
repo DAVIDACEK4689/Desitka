@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle úmrtí",
+  "questions": [
+    {
+      "key": "Ivan Luťanský",
+      "values": [
+        "Afghánistán",
+        "Singapur",
+        "Vietnam",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lech Kaczyński",
+      "values": [
+        "Vietnam",
+        "Rusko",
+        "Bolívie",
+        "Spojené království"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "David Livingstone",
+      "values": [
+        "Dominikánská republika",
+        "Monako",
+        "Zambie",
+        "Afghánistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robert Mugabe",
+      "values": [
+        "Japonsko",
+        "Itálie",
+        "Německo",
+        "Singapur"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Richard Salzmann",
+      "values": [
+        "Japonsko",
+        "Švédsko",
+        "Česko",
+        "Panama"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pjotr Ivanovič Bagration",
+      "values": [
+        "Španělsko",
+        "Rusko",
+        "Irsko",
+        "Pero"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Władysław Sikorski",
+      "values": [
+        "Irsko",
+        "Gibraltar",
+        "Libye",
+        "Irák"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Douglas Sternberg",
+      "values": [
+        "Švýcarsko",
+        "Itálie",
+        "Brazílie",
+        "Singapur"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Velemir Chlebnikov",
+      "values": [
+        "Belgie",
+        "Grónsko",
+        "Rusko",
+        "Libye"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Václav Hrdlička",
+      "values": [
+        "Grónsko",
+        "Švýcarsko",
+        "Česko",
+        "Rakousko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] ledního hokejistu?",
+  "questions": [
+    {
+      "key": "Petr Mrázek",
+      "values": [
+        "ruského",
+        "slovinského",
+        "českého",
+        "československého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dominik Kahun",
+      "values": [
+        "slovenského",
+        "československého",
+        "německého",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andrej Nestrašil",
+      "values": [
+        "českého",
+        "rumunského",
+        "švýcarského",
+        "lotyšského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Robert Kovařík",
+      "values": [
+        "českého",
+        "německého",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Saku Koivu",
+      "values": [
+        "rakouského",
+        "rumunského",
+        "finského",
+        "československého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michal Handzuš",
+      "values": [
+        "švýcarského",
+        "slovenského",
+        "rumunského",
+        "československého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ladislav Troják",
+      "values": [
+        "švédského",
+        "rakouského",
+        "švýcarského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Raimo Helminen",
+      "values": [
+        "ruského",
+        "československého",
+        "finského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vladimír Bednář",
+      "values": [
+        "slovinského",
+        "britského",
+        "československého",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Kulíček",
+      "values": [
+        "lotyšského",
+        "polského",
+        "československého",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

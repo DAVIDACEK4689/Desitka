@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] klavíristu?",
+  "questions": [
+    {
+      "key": "Václav Kopta",
+      "values": [
+        "rakouského",
+        "českého",
+        "italského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zdeněk Merta",
+      "values": [
+        "maďarského",
+        "italského",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Władysław Szpilman",
+      "values": [
+        "polského",
+        "maďarského",
+        "norského",
+        "finského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ève Curie",
+      "values": [
+        "maďarského",
+        "českého",
+        "francouzského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ludovico Einaudi",
+      "values": [
+        "amerického",
+        "rakouského",
+        "francouzského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Amy Lee",
+      "values": [
+        "amerického",
+        "polského",
+        "rakouského",
+        "australského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nina Simone",
+      "values": [
+        "finského",
+        "ruského",
+        "amerického",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miloš Bok",
+      "values": [
+        "finského",
+        "australského",
+        "českého",
+        "čínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kygo",
+      "values": [
+        "norského",
+        "rakouského",
+        "amerického",
+        "izraelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexandr Nikolajevič Skrjabin",
+      "values": [
+        "australského",
+        "norského",
+        "ruského",
+        "britského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

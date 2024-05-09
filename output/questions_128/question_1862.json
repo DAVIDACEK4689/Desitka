@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Sean Connery",
+      "values": [
+        "rakouského",
+        "peruánského",
+        "skotského",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Remco Evenepoel",
+      "values": [
+        "belgického",
+        "baskického",
+        "německého",
+        "severoirského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Antonio Conte",
+      "values": [
+        "marockého",
+        "italského",
+        "mongolského",
+        "československého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mason Mount",
+      "values": [
+        "ruského",
+        "anglického",
+        "zimbabwského",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hugo Sánchez",
+      "values": [
+        "maďarského",
+        "brazilského",
+        "mexického",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Claude Makélélé",
+      "values": [
+        "francouzského",
+        "venezuelského",
+        "chilského",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nermin Crnkić",
+      "values": [
+        "amerického",
+        "ruského",
+        "kanadského",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stefano Pioli",
+      "values": [
+        "kamerunského",
+        "ukrajinského",
+        "italského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Éric Davis",
+      "values": [
+        "maďarského",
+        "panamského",
+        "chorvatského",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Raphaël Guerreiro",
+      "values": [
+        "portugalského",
+        "kostarického",
+        "srbského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

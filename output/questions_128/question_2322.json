@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte britského režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Americká krása",
+      "values": [
+        "Ken Annakin",
+        "Terry Gilliam",
+        "John Guillermin",
+        "Sam Mendes"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Temný rytíř povstal",
+      "values": [
+        "Richard Attenborough",
+        "Christopher Nolan",
+        "Mike Figgis",
+        "Alex Cox"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kapitán Phillips",
+      "values": [
+        "Paul Greengrass",
+        "Richard Attenborough",
+        "Roger Michell",
+        "Stephen Daldry"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Milionář z chatrče",
+      "values": [
+        "Terry Gilliam",
+        "Terence Young",
+        "Peter Howitt",
+        "Danny Boyle"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Diamanty jsou věčné",
+      "values": [
+        "Julian Jarrold",
+        "Tony Scott",
+        "Lewis Gilbert",
+        "Guy Hamilton"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Princ egyptský",
+      "values": [
+        "John Schlesinger",
+        "Simon Wells",
+        "Roger Michell",
+        "Alex Cox"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Úsměv Mony Lisy",
+      "values": [
+        "Danny Boyle",
+        "Edgar Wright",
+        "Mike Newell",
+        "Terry Gilliam"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Baby Driver",
+      "values": [
+        "Stephen Daldry",
+        "Edgar Wright",
+        "Roger Michell",
+        "Stephen Hopkins"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lovci lvů",
+      "values": [
+        "Richard Attenborough",
+        "Guy Hamilton",
+        "Ridley Scott",
+        "Stephen Hopkins"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ztraceni ve vesmíru",
+      "values": [
+        "Anthony Minghella",
+        "John Guillermin",
+        "Alex Cox",
+        "Stephen Hopkins"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

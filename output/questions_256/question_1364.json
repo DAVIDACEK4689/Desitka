@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] román?",
+  "questions": [
+    {
+      "key": "Evžen Oněgin",
+      "values": [
+        "ruský",
+        "polský",
+        "španělský",
+        "anglický"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vojna a mír",
+      "values": [
+        "ruský",
+        "německý",
+        "italský",
+        "britský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nekonečný příběh",
+      "values": [
+        "italský",
+        "anglický",
+        "americký",
+        "německý"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gargantua a Pantagruel",
+      "values": [
+        "japonský",
+        "francouzský",
+        "slovenský",
+        "polský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Továrna na absolutno",
+      "values": [
+        "polský",
+        "americký",
+        "český",
+        "italský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Plechový bubínek",
+      "values": [
+        "britský",
+        "americký",
+        "německý",
+        "čínský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kříž u potoka",
+      "values": [
+        "rakouský",
+        "anglický",
+        "český",
+        "americký"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Buddenbrookovi",
+      "values": [
+        "polský",
+        "německý",
+        "italský",
+        "slovenský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ztracený symbol",
+      "values": [
+        "francouzský",
+        "polský",
+        "americký",
+        "irský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Valčík na rozloučenou",
+      "values": [
+        "polský",
+        "slovenský",
+        "český",
+        "irský"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

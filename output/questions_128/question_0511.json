@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Lotrando a Zubejda",
+      "values": [
+        "Karel Smyczek",
+        "Pavel Juráček",
+        "Jan Hřebejk",
+        "Alice Nellis"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dařbuján a Pandrhola",
+      "values": [
+        "Jan Svěrák",
+        "Tomáš Bařina",
+        "Martin Frič",
+        "Bohdan Sláma"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Škola základ života",
+      "values": [
+        "Bořivoj Zeman",
+        "Jan Hřebejk",
+        "Václav Krška",
+        "Martin Frič"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Šťastný smolař",
+      "values": [
+        "František Vláčil",
+        "Karel Steklý",
+        "Jiří Strach",
+        "Jaroslav Papoušek"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ve stínu",
+      "values": [
+        "Jaroslav Papoušek",
+        "Jan Prušinovský",
+        "Jaromil Jireš",
+        "David Ondříček"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kdo hledá zlaté dno",
+      "values": [
+        "Václav Krška",
+        "Svatopluk Innemann",
+        "Vojtěch Jasný",
+        "Jiří Menzel"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Muž na Měsíci",
+      "values": [
+        "Karel Steklý",
+        "Tomáš Bařina",
+        "Miloš Forman",
+        "Jindřich Polák"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Velká filmová loupež",
+      "values": [
+        "Ondřej Trojan",
+        "Petr Jákl",
+        "David Ondříček",
+        "Oldřich Lipský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hvězda padá vzhůru",
+      "values": [
+        "Petr Zelenka",
+        "Jiří Menzel",
+        "Miroslav Sobota",
+        "Ladislav Rychman"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Český Robinson",
+      "values": [
+        "Jan Schmidt",
+        "Svatopluk Innemann",
+        "Filip Renč",
+        "Dušan Klein"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

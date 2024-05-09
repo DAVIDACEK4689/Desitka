@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle archeologické lokality",
+  "questions": [
+    {
+      "key": "Luxor",
+      "values": [
+        "Česko",
+        "Egypt",
+        "Německo",
+        "Izrael"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Masada",
+      "values": [
+        "Sýrie",
+        "Maďarsko",
+        "Izrael",
+        "Írán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pireus",
+      "values": [
+        "Írán",
+        "Gruzie",
+        "Ukrajina",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Krak des Chevaliers",
+      "values": [
+        "Tanzanie",
+        "Německo",
+        "Ukrajina",
+        "Sýrie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tarsus",
+      "values": [
+        "Pákistán",
+        "Albánie",
+        "Sýrie",
+        "Turecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kolébka lidstva",
+      "values": [
+        "Česko",
+        "Malta",
+        "Jihoafrická republika",
+        "Rakousko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nakáda",
+      "values": [
+        "Egypt",
+        "Izrael",
+        "Slovensko",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cipori",
+      "values": [
+        "Tunisko",
+        "Pákistán",
+        "Rusko",
+        "Izrael"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Starigradská pláň",
+      "values": [
+        "Pero",
+        "Německo",
+        "Chorvatsko",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bibracte",
+      "values": [
+        "Albánie",
+        "Francie",
+        "Polsko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

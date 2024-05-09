@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Havlíčkův Brod",
+      "values": [
+        "Dyje",
+        "Dunaj",
+        "Sázava",
+        "Bečva"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rumburk",
+      "values": [
+        "Svratka",
+        "Loira",
+        "Mandava",
+        "Tibera"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Týn nad Vltavou",
+      "values": [
+        "Mandava",
+        "Lužnice",
+        "Ohře",
+        "Tibera"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Starý Plzenec",
+      "values": [
+        "Rýn",
+        "Berounka",
+        "Ohře",
+        "Úslava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Laa an der Thaya",
+      "values": [
+        "Rýn",
+        "Dyje",
+        "Loira",
+        "Volha"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chur",
+      "values": [
+        "Ohře",
+        "Metuje",
+        "Rýn",
+        "Hornád"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Krásné Březno",
+      "values": [
+        "Mandava",
+        "Labe",
+        "Hron",
+        "Sázava"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Čerkasy",
+      "values": [
+        "Sázava",
+        "Dněpr",
+        "Chrudimka",
+        "Spréva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ptyč",
+      "values": [
+        "Hron",
+        "Berounka",
+        "Svratka",
+        "Cidlina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hohenau an der March",
+      "values": [
+        "Hornád",
+        "Vltava",
+        "Dyje",
+        "Úslava"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

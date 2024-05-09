@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vegetariána?",
+  "questions": [
+    {
+      "key": "Adolf Hitler",
+      "values": [
+        "španělského",
+        "irského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Richard Wagner",
+      "values": [
+        "ruského",
+        "izraelského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robert Kodym",
+      "values": [
+        "českého",
+        "britského",
+        "indického",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "George Bernard Shaw",
+      "values": [
+        "rakouského",
+        "slovenského",
+        "francouzského",
+        "irského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel Nešpor",
+      "values": [
+        "indického",
+        "nizozemského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sam Altman",
+      "values": [
+        "izraelského",
+        "amerického",
+        "australského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Přemysl Pitter",
+      "values": [
+        "italského",
+        "slovenského",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Helena Houdová",
+      "values": [
+        "španělského",
+        "českého",
+        "izraelského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adriano Celentano",
+      "values": [
+        "německého",
+        "rakouského",
+        "francouzského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Paavo Nurmi",
+      "values": [
+        "rakouského",
+        "finského",
+        "britského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

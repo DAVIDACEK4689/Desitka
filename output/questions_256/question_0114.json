@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte stranu podle mezinárodní smlouvy",
+  "questions": [
+    {
+      "key": "Druhá minská dohoda",
+      "values": [
+        "Ukrajina",
+        "Svatý stolec",
+        "Izrael",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dohody z Osla",
+      "values": [
+        "Svatý stolec",
+        "Izrael",
+        "Sovětský svaz",
+        "Uherské království"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Schengenská smlouva",
+      "values": [
+        "Nizozemsko",
+        "Ukrajina",
+        "Evropská unie",
+        "Svatý stolec"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "SALT",
+      "values": [
+        "České království",
+        "Evropská unie",
+        "Rusko",
+        "Sovětský svaz"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Koupě Louisiany",
+      "values": [
+        "Nizozemsko",
+        "Rusko",
+        "Francie",
+        "Izrael"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fundamentální články",
+      "values": [
+        "Svatý stolec",
+        "České království",
+        "Rusko",
+        "Evropská unie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lateránské smlouvy",
+      "values": [
+        "Izrael",
+        "České království",
+        "Svatý stolec",
+        "Nizozemsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "AETR",
+      "values": [
+        "Francie",
+        "Ukrajina",
+        "Evropská unie",
+        "Spojené království"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Amsterodamská smlouva",
+      "values": [
+        "Evropská unie",
+        "Francie",
+        "Sovětský svaz",
+        "Uherské království"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Smlouva z Nice",
+      "values": [
+        "Francie",
+        "Evropská unie",
+        "Svatý stolec",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Karel Kryl",
+      "values": [
+        "českého",
+        "vietnamského",
+        "mexického",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Leonard Cohen",
+      "values": [
+        "kanadského",
+        "švýcarského",
+        "vietnamského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Linda",
+      "values": [
+        "kubánského",
+        "perského",
+        "kanadského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lawrence Ferlinghetti",
+      "values": [
+        "amerického",
+        "norského",
+        "ruského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alfred de Musset",
+      "values": [
+        "francouzského",
+        "indického",
+        "kanadského",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pietro Aretino",
+      "values": [
+        "čínského",
+        "norského",
+        "italského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Řehoř z Nazianzu",
+      "values": [
+        "slovenského",
+        "islandského",
+        "řeckého",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexej Konstantinovič Tolstoj",
+      "values": [
+        "perského",
+        "ruského",
+        "slovenského",
+        "tureckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ľudmila Podjavorinská",
+      "values": [
+        "rakouského",
+        "slovenského",
+        "maďarského",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mary Wortley Montagu",
+      "values": [
+        "irského",
+        "ukrajinského",
+        "anglického",
+        "čínského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle premiéra",
+  "questions": [
+    {
+      "key": "Vladimir Iljič Lenin",
+      "values": [
+        "Rusko",
+        "Chorvatsko",
+        "Francie",
+        "Indie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Paroubek",
+      "values": [
+        "Česko",
+        "Španělsko",
+        "Egypt",
+        "Švédsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Benjamin Netanjahu",
+      "values": [
+        "Izrael",
+        "Švédsko",
+        "Bulharsko",
+        "Norsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Golda Meirová",
+      "values": [
+        "Izrael",
+        "Jugoslávie",
+        "Indie",
+        "Turecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jicchak Rabin",
+      "values": [
+        "Ázerbájdžán",
+        "Finsko",
+        "Izrael",
+        "Jugoslávie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ariel Šaron",
+      "values": [
+        "Egypt",
+        "Izrael",
+        "Rusko",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Harold Wilson",
+      "values": [
+        "Estonsko",
+        "Spojené království",
+        "Itálie",
+        "Bulharsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "János Kádár",
+      "values": [
+        "Slovensko",
+        "Portugalsko",
+        "Česko",
+        "Maďarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zoran Milanović",
+      "values": [
+        "Ukrajina",
+        "Portugalsko",
+        "Nizozemsko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Robert Schuman",
+      "values": [
+        "Chorvatsko",
+        "Turecko",
+        "Slovensko",
+        "Francie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

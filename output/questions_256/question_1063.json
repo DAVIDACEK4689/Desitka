@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte téma podle filmu",
+  "questions": [
+    {
+      "key": "Poslední závod",
+      "values": [
+        "novinář",
+        "nemoc",
+        "loupež",
+        "sport"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kód Enigmy",
+      "values": [
+        "sebevražda",
+        "politik",
+        "móda",
+        "životní prostředí"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vratné lahve",
+      "values": [
+        "židovská tematika",
+        "anděl",
+        "učitel",
+        "zvíře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ženy v běhu",
+      "values": [
+        "letectví",
+        "spisovatel",
+        "sexualita",
+        "sport"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Přes prsty",
+      "values": [
+        "hasič",
+        "životní prostředí",
+        "móda",
+        "sport"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kapitán Phillips",
+      "values": [
+        "pirát",
+        "novinář",
+        "anděl",
+        "spisovatel"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Muž z oceli",
+      "values": [
+        "politik",
+        "kanibalismus",
+        "novinář",
+        "letectví"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eurotrip",
+      "values": [
+        "skinheads",
+        "upír",
+        "dvojče",
+        "sport"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zamilovaný Shakespeare",
+      "values": [
+        "spisovatel",
+        "životní prostředí",
+        "dvojče",
+        "židovská tematika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Charlieho malá tajemství",
+      "values": [
+        "sebevražda",
+        "letectví",
+        "imigrace",
+        "zvíře"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

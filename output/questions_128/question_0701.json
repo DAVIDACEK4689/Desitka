@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle hradu",
+  "questions": [
+    {
+      "key": "Hofburg",
+      "values": [
+        "Sýrie",
+        "Rakousko",
+        "Rusko",
+        "Španělsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Budínský hrad",
+      "values": [
+        "Maďarsko",
+        "Írán",
+        "Francie",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Predjamský hrad",
+      "values": [
+        "Slovinsko",
+        "Slovensko",
+        "Turecko",
+        "Finsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pevnost Hohensalzburg",
+      "values": [
+        "Izrael",
+        "Jordánsko",
+        "Španělsko",
+        "Rakousko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chillon",
+      "values": [
+        "Ukrajina",
+        "Švýcarsko",
+        "Rusko",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pevnost Carcassonne",
+      "values": [
+        "Rusko",
+        "Řecko",
+        "Francie",
+        "Jordánsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ibelin",
+      "values": [
+        "Řecko",
+        "Japonsko",
+        "Izrael",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Masjaf",
+      "values": [
+        "Slovensko",
+        "Švýcarsko",
+        "Írán",
+        "Sýrie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alanyjská pevnost",
+      "values": [
+        "Irsko",
+        "Řecko",
+        "Rakousko",
+        "Turecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Krak de Montréal",
+      "values": [
+        "Španělsko",
+        "Jordánsko",
+        "Japonsko",
+        "Turecko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

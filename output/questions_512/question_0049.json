@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte rok podle politiky",
+  "questions": [
+    {
+      "key": "Pražské jaro",
+      "values": [
+        "1968",
+        "1920",
+        "2006",
+        "1967"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Atentát na Johna Fitzgeralda Kennedyho",
+      "values": [
+        "1830",
+        "1963",
+        "2020",
+        "1918"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Brexit",
+      "values": [
+        "2004",
+        "2010",
+        "1867",
+        "2020"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Závěrečný akt Konference o bezpečnosti a spolupráci v Evropě",
+      "values": [
+        "1975",
+        "2016",
+        "1968",
+        "1860"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Washingtonská deklarace",
+      "values": [
+        "2018",
+        "2006",
+        "1918",
+        "1865"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kroměřížský sněm",
+      "values": [
+        "2014",
+        "2017",
+        "1848",
+        "1917"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Červencová revoluce",
+      "values": [
+        "1776",
+        "1830",
+        "1865",
+        "1967"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Schengenská smlouva",
+      "values": [
+        "2013",
+        "1967",
+        "1985",
+        "1917"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Saintgermainská smlouva",
+      "values": [
+        "1967",
+        "1919",
+        "1925",
+        "1963"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Curzonova linie",
+      "values": [
+        "1919",
+        "1945",
+        "1995",
+        "2006"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

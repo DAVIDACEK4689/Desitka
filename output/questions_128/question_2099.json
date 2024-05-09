@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle vesnice",
+  "questions": [
+    {
+      "key": "Svatý Mořic",
+      "values": [
+        "Norsko",
+        "Rusko",
+        "Švýcarsko",
+        "Belgie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Grindelwald",
+      "values": [
+        "Rumunsko",
+        "Řecko",
+        "Ukrajina",
+        "Švýcarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chatyň",
+      "values": [
+        "Řecko",
+        "Francie",
+        "Egypt",
+        "Bělorusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jasná Poljana",
+      "values": [
+        "Řecko",
+        "Egypt",
+        "Rusko",
+        "Bělorusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vézelay",
+      "values": [
+        "Švýcarsko",
+        "Bělorusko",
+        "Francie",
+        "Egypt"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Verbier",
+      "values": [
+        "Švýcarsko",
+        "Rumunsko",
+        "Egypt",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vesnická památková zóna",
+      "values": [
+        "Belgie",
+        "Česko",
+        "Švýcarsko",
+        "Rumunsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gordes",
+      "values": [
+        "Egypt",
+        "Bělorusko",
+        "Ukrajina",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Velyki Soročynci",
+      "values": [
+        "Švýcarsko",
+        "Řecko",
+        "Rumunsko",
+        "Ukrajina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Passchendaele",
+      "values": [
+        "Norsko",
+        "Rumunsko",
+        "Belgie",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

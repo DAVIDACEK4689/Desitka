@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Petr Dědek",
+      "values": [
+        "španělského",
+        "francouzského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Daniel Častvaj",
+      "values": [
+        "britského",
+        "českého",
+        "bangladéšského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Phineas Taylor Barnum",
+      "values": [
+        "pákistánského",
+        "švédského",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Paul Allen",
+      "values": [
+        "mexického",
+        "českého",
+        "indického",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Joseph Bruce Ismay",
+      "values": [
+        "brazilského",
+        "britského",
+        "libanonského",
+        "belgického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dmitrij Kovtun",
+      "values": [
+        "libanonského",
+        "litevského",
+        "indického",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ted Turner",
+      "values": [
+        "litevského",
+        "brazilského",
+        "amerického",
+        "běloruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robert Todd Lincoln",
+      "values": [
+        "švédského",
+        "amerického",
+        "monackého",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vincenzo Florio",
+      "values": [
+        "ukrajinského",
+        "mexického",
+        "slovenského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dick Clark",
+      "values": [
+        "jihoafrického",
+        "běloruského",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

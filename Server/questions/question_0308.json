@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vegetariána?",
+  "questions": [
+    {
+      "key": "Iva Kubelková",
+      "values": [
+        "italského",
+        "českého",
+        "německého",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tomáš Klus",
+      "values": [
+        "amerického",
+        "italského",
+        "irského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cillian Murphy",
+      "values": [
+        "irského",
+        "slovenského",
+        "německého",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Romain Rolland",
+      "values": [
+        "ruského",
+        "českého",
+        "francouzského",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nela Boudová",
+      "values": [
+        "irského",
+        "českého",
+        "italského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Robert Kodym",
+      "values": [
+        "kanadského",
+        "amerického",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Höger",
+      "values": [
+        "italského",
+        "amerického",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Millie Bobby Brownová",
+      "values": [
+        "českého",
+        "amerického",
+        "britského",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jim Carrey",
+      "values": [
+        "irského",
+        "španělského",
+        "francouzského",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mayim Bialik",
+      "values": [
+        "rakouského",
+        "amerického",
+        "francouzského",
+        "irského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

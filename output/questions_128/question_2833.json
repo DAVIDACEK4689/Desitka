@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Hradec Králové",
+      "values": [
+        "Váha",
+        "Inn",
+        "Labe",
+        "Chrudimka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oxford",
+      "values": [
+        "Don",
+        "Temže",
+        "Tibera",
+        "Těrek"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Veverská Bítýška",
+      "values": [
+        "Tibera",
+        "Radbuza",
+        "Svratka",
+        "Ploučnice"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kamjanske",
+      "values": [
+        "Volha",
+        "Dněpr",
+        "Chrudimka",
+        "Metuje"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kufstein",
+      "values": [
+        "Úslava",
+        "Volha",
+        "Inn",
+        "Loira"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Torgau",
+      "values": [
+        "Hron",
+        "Tibera",
+        "Labe",
+        "Váha"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Szolnok",
+      "values": [
+        "Spréva",
+        "Emže",
+        "Tis",
+        "Rýn"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Přítluky",
+      "values": [
+        "Svratka",
+        "Volha",
+        "Těrek",
+        "Dyje"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nagymaros",
+      "values": [
+        "Mandava",
+        "Hron",
+        "Jizera",
+        "Dunaj"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Očakiv",
+      "values": [
+        "Dněpr",
+        "Seina",
+        "Něva",
+        "Eufrat"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

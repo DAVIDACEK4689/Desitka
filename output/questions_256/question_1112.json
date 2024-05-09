@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte rok podle železniční nehody",
+  "questions": [
+    {
+      "key": "Železniční nehoda u Stéblové",
+      "values": [
+        "2019",
+        "1895",
+        "1943",
+        "1960"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Železniční nehoda u Řikonína",
+      "values": [
+        "1990",
+        "2019",
+        "1950",
+        "1970"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Železniční nehoda u Krouny",
+      "values": [
+        "2007",
+        "1995",
+        "1960",
+        "1962"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Železniční nehoda u Šakvic",
+      "values": [
+        "2019",
+        "1962",
+        "1953",
+        "1950"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Železniční nehoda u Spálova",
+      "values": [
+        "1995",
+        "1990",
+        "1960",
+        "1970"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Železniční nehoda v Eschede",
+      "values": [
+        "1953",
+        "1998",
+        "1943",
+        "1960"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Železniční nehoda v Podivíně",
+      "values": [
+        "1998",
+        "2023",
+        "2019",
+        "1950"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nezajištěná jízda vlaku u Martinic",
+      "values": [
+        "2007",
+        "2019",
+        "1943",
+        "1995"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Železniční nehoda u Vraňan",
+      "values": [
+        "1995",
+        "2007",
+        "1962",
+        "1953"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Železniční nehoda u Církvic",
+      "values": [
+        "2020",
+        "2007",
+        "1970",
+        "1962"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

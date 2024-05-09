@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] román?",
+  "questions": [
+    {
+      "key": "Sophiina volba",
+      "values": [
+        "maďarský",
+        "český",
+        "americký",
+        "ruský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Forrest Gump",
+      "values": [
+        "italský",
+        "britský",
+        "polský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dobrodružství Huckleberryho Finna",
+      "values": [
+        "polský",
+        "americký",
+        "francouzský",
+        "norský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kniha smíchu a zapomnění",
+      "values": [
+        "australský",
+        "český",
+        "maďarský",
+        "kanadský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tanec s draky",
+      "values": [
+        "švédský",
+        "maďarský",
+        "kanadský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Putování na západ",
+      "values": [
+        "norský",
+        "japonský",
+        "slovenský",
+        "čínský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Myši Natálie Mooshabrové",
+      "values": [
+        "australský",
+        "norský",
+        "japonský",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Soumrak dne",
+      "values": [
+        "francouzský",
+        "britský",
+        "americký",
+        "kanadský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Příběh inženýra lidských duší",
+      "values": [
+        "český",
+        "kanadský",
+        "polský",
+        "americký"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Černé koráby",
+      "values": [
+        "rakouský",
+        "polský",
+        "americký",
+        "anglický"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

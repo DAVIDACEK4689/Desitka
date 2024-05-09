@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Ursula von der Leyenová",
+      "values": [
+        "turkmenského",
+        "německého",
+        "anglického",
+        "argentinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Engliš",
+      "values": [
+        "venezuelského",
+        "mexického",
+        "moldavského",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gustav Slamečka",
+      "values": [
+        "slovenského",
+        "polského",
+        "pruského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ján Langoš",
+      "values": [
+        "eritrejského",
+        "vietnamského",
+        "kanadského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Barack Obama starší",
+      "values": [
+        "marockého",
+        "keňského",
+        "estonského",
+        "íránského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexandre de Beauharnais",
+      "values": [
+        "československého",
+        "grenadského",
+        "francouzského",
+        "albánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vojislav Šešelj",
+      "values": [
+        "zimbabwského",
+        "srbského",
+        "francouzského",
+        "ghanského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Napoleon Jérôme Bonaparte",
+      "values": [
+        "jihoafrického",
+        "etiopského",
+        "francouzského",
+        "myanmarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eduard Bernstein",
+      "values": [
+        "grenadského",
+        "maltského",
+        "slovenského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Elly Schleinová",
+      "values": [
+        "panamského",
+        "italského",
+        "nigerského",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

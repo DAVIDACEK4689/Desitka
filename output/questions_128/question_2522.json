@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] generála?",
+  "questions": [
+    {
+      "key": "Hynek Blaško",
+      "values": [
+        "amerického",
+        "českého",
+        "albánského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Omar Bradley",
+      "values": [
+        "búrského",
+        "sovětského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zachary Taylor",
+      "values": [
+        "finského",
+        "českého",
+        "dánského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Erkinger ze Seinsheimu",
+      "values": [
+        "německého",
+        "albánského",
+        "italského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Knud Bartels",
+      "values": [
+        "kanadského",
+        "slovenského",
+        "izraelského",
+        "dánského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "František Alexandr Zach",
+      "values": [
+        "ruského",
+        "polského",
+        "českého",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Herci Halevi",
+      "values": [
+        "izraelského",
+        "italského",
+        "polského",
+        "chorvatského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bohuslav Laštovička",
+      "values": [
+        "německého",
+        "československého",
+        "amerického",
+        "albánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oleg Cokov",
+      "values": [
+        "francouzského",
+        "ruského",
+        "albánského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Čeněk Kudláček",
+      "values": [
+        "řeckého",
+        "československého",
+        "finského",
+        "izraelského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

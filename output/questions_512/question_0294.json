@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] evropskou kulturu?",
+  "questions": [
+    {
+      "key": "Den svatého Patrika",
+      "values": [
+        "řeckou",
+        "irskou",
+        "španělskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Beltain",
+      "values": [
+        "českou",
+        "maďarskou",
+        "nizozemskou",
+        "irskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Korida",
+      "values": [
+        "českou",
+        "španělskou",
+        "ruskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tramping",
+      "values": [
+        "českou",
+        "španělskou",
+        "řeckou",
+        "irskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vilém Tell",
+      "values": [
+        "švýcarskou",
+        "maďarskou",
+        "nizozemskou",
+        "španělskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gopnik",
+      "values": [
+        "ruskou",
+        "tureckou",
+        "švýcarskou",
+        "řeckou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Flamenco",
+      "values": [
+        "španělskou",
+        "maďarskou",
+        "irskou",
+        "řeckou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Matrjoška",
+      "values": [
+        "švýcarskou",
+        "irskou",
+        "ruskou",
+        "řeckou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Toreador",
+      "values": [
+        "španělskou",
+        "českou",
+        "nizozemskou",
+        "tureckou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Siesta",
+      "values": [
+        "irskou",
+        "švýcarskou",
+        "ruskou",
+        "španělskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

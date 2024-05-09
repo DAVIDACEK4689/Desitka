@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle premiéra",
+  "questions": [
+    {
+      "key": "Bohuslav Sobotka",
+      "values": [
+        "Česko",
+        "Turecko",
+        "Lucembursko",
+        "Kosovo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Boris Johnson",
+      "values": [
+        "Etiopie",
+        "Spojené království",
+        "Slovinsko",
+        "Senegal"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Naréndra Módí",
+      "values": [
+        "Švédsko",
+        "Senegal",
+        "Maďarsko",
+        "Indie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Edward Heath",
+      "values": [
+        "Portugalsko",
+        "Spojené království",
+        "Francie",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Urho Kaleva Kekkonen",
+      "values": [
+        "Itálie",
+        "Island",
+        "Finsko",
+        "Austrálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dorin Recean",
+      "values": [
+        "Maroko",
+        "Irák",
+        "Egypt",
+        "Moldavsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Albin Kurti",
+      "values": [
+        "Kosovo",
+        "Pákistán",
+        "Egypt",
+        "Island"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Džuničiró Koizumi",
+      "values": [
+        "Turecko",
+        "Austrálie",
+        "Japonsko",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Édouard Adolphe Casimir Joseph Mortier",
+      "values": [
+        "Francie",
+        "Ukrajina",
+        "Rumunsko",
+        "Irsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Muhammad Hasan Achund",
+      "values": [
+        "Moldavsko",
+        "Afghánistán",
+        "Grónsko",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

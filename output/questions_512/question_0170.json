@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Vavřinec Hradilek",
+      "values": [
+        "norského",
+        "jihoafrického",
+        "kanadského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tom Hanks",
+      "values": [
+        "tureckého",
+        "ruského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hugo Haas",
+      "values": [
+        "maďarského",
+        "sovětského",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lukáš Hejlík",
+      "values": [
+        "španělského",
+        "norského",
+        "českého",
+        "čínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Johnny Galecki",
+      "values": [
+        "švédského",
+        "čínského",
+        "rakouského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dave Bautista",
+      "values": [
+        "českého",
+        "nizozemského",
+        "amerického",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "David Carradine",
+      "values": [
+        "novozélandského",
+        "amerického",
+        "srbského",
+        "malajsijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nick Cave",
+      "values": [
+        "švédského",
+        "španělského",
+        "australského",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michael Nyqvist",
+      "values": [
+        "venezuelského",
+        "jihoafrického",
+        "švédského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dušan Kollár",
+      "values": [
+        "ukrajinského",
+        "sovětského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

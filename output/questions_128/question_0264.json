@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle archeologické lokality",
+  "questions": [
+    {
+      "key": "Soluň",
+      "values": [
+        "Kambodža",
+        "Německo",
+        "Řecko",
+        "Rakousko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Efez",
+      "values": [
+        "Rakousko",
+        "Polsko",
+        "Indonésie",
+        "Turecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aquileia",
+      "values": [
+        "Polsko",
+        "Itálie",
+        "Írán",
+        "Řecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kafarnaum",
+      "values": [
+        "Tanzanie",
+        "Indonésie",
+        "Izrael",
+        "Švýcarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Butrint",
+      "values": [
+        "Sýrie",
+        "Polsko",
+        "Albánie",
+        "Maďarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mari",
+      "values": [
+        "Izrael",
+        "Chorvatsko",
+        "Sýrie",
+        "Srí Lanka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Domica",
+      "values": [
+        "Irák",
+        "Slovensko",
+        "Rakousko",
+        "Maďarsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Meroe",
+      "values": [
+        "Egypt",
+        "Rusko",
+        "Litva",
+        "Španělsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Taršíš",
+      "values": [
+        "Rakousko",
+        "Maďarsko",
+        "Španělsko",
+        "Slovensko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Thébská nekropole",
+      "values": [
+        "Litva",
+        "Itálie",
+        "Malta",
+        "Egypt"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

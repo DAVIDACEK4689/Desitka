@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle archeologické lokality",
+  "questions": [
+    {
+      "key": "Trója",
+      "values": [
+        "Španělsko",
+        "Turecko",
+        "Pákistán",
+        "Irák"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Údolí králů",
+      "values": [
+        "Pákistán",
+        "Egypt",
+        "Řecko",
+        "Rakousko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mykény",
+      "values": [
+        "Litva",
+        "Egypt",
+        "Řecko",
+        "Kambodža"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Masada",
+      "values": [
+        "Izrael",
+        "Chorvatsko",
+        "Irák",
+        "Rakousko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Herculaneum",
+      "values": [
+        "Řecko",
+        "Francie",
+        "Itálie",
+        "Pákistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaffa",
+      "values": [
+        "Izrael",
+        "Řecko",
+        "Rakousko",
+        "Slovensko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Olivová hora",
+      "values": [
+        "Izrael",
+        "Egypt",
+        "Irák",
+        "Pákistán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Aquileia",
+      "values": [
+        "Jordánsko",
+        "Litva",
+        "Itálie",
+        "Izrael"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Thermopyly",
+      "values": [
+        "Francie",
+        "Řecko",
+        "Jordánsko",
+        "Izrael"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mohendžodaro",
+      "values": [
+        "Rakousko",
+        "Jordánsko",
+        "Pákistán",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "Emil Hácha",
+      "values": [
+        "francouzského",
+        "německého",
+        "českého",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Macaulay Culkin",
+      "values": [
+        "portugalského",
+        "britského",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "José Mourinho",
+      "values": [
+        "kanadského",
+        "českého",
+        "portugalského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zdeněk Nekula",
+      "values": [
+        "portugalského",
+        "kanadského",
+        "švýcarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gian Lorenzo Bernini",
+      "values": [
+        "italského",
+        "amerického",
+        "českého",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Světlana Allilujevová",
+      "values": [
+        "kanadského",
+        "německého",
+        "britského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Václav Hořejší",
+      "values": [
+        "italského",
+        "českého",
+        "portugalského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Matyáš z Arrasu",
+      "values": [
+        "českého",
+        "francouzského",
+        "německého",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Albano Carrisi",
+      "values": [
+        "italského",
+        "německého",
+        "švýcarského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marco Pantani",
+      "values": [
+        "německého",
+        "italského",
+        "maďarského",
+        "britského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] bank?",
+  "questions": [
+    {
+      "key": "Erste Group",
+      "values": [
+        "britský",
+        "maďarský",
+        "rakouský",
+        "švýcarský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "KBC Bank",
+      "values": [
+        "maďarský",
+        "belgický",
+        "rakouský",
+        "francouzský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Société Générale",
+      "values": [
+        "francouzský",
+        "německý",
+        "švýcarský",
+        "rakouský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "UBS",
+      "values": [
+        "rakouský",
+        "švýcarský",
+        "maďarský",
+        "německý"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "BNP Paribas",
+      "values": [
+        "belgický",
+        "francouzský",
+        "ruský",
+        "německý"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Credit Suisse",
+      "values": [
+        "belgický",
+        "britský",
+        "švýcarský",
+        "francouzský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Deutsche Bank",
+      "values": [
+        "ruský",
+        "francouzský",
+        "švýcarský",
+        "německý"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Commerzbank",
+      "values": [
+        "německý",
+        "rakouský",
+        "britský",
+        "belgický"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Allianz",
+      "values": [
+        "francouzský",
+        "britský",
+        "německý",
+        "maďarský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sberbank",
+      "values": [
+        "německý",
+        "francouzský",
+        "ruský",
+        "rakouský"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Pyšná princezna",
+      "values": [
+        "Karel Zeman",
+        "Jaromil Jireš",
+        "Jaroslav Papoušek",
+        "Bořivoj Zeman"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Na samotě u lesa",
+      "values": [
+        "Miloš Forman",
+        "Otakar Vávra",
+        "Jiří Menzel",
+        "Ondřej Trojan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tajemství hradu v Karpatech",
+      "values": [
+        "Jindřich Polák",
+        "Ondřej Trojan",
+        "Svatopluk Innemann",
+        "Oldřich Lipský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Už zase skáču přes kaluže",
+      "values": [
+        "Karel Smyczek",
+        "Oldřich Lipský",
+        "Věra Chytilová",
+        "Karel Kachyňa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Muži v naději",
+      "values": [
+        "Vojtěch Jasný",
+        "Jiří Vejdělek",
+        "Karel Zeman",
+        "Filip Renč"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ženy v pokušení",
+      "values": [
+        "Jiří Vejdělek",
+        "Pavel Juráček",
+        "Jan Prušinovský",
+        "Evald Schorm"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ikarie XB 1",
+      "values": [
+        "Jan Svěrák",
+        "Jindřich Polák",
+        "Jan Schmidt",
+        "Zdeněk Podskalský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pytlákova schovanka",
+      "values": [
+        "Dušan Klein",
+        "Martin Frič",
+        "Jan Svěrák",
+        "Hynek Bočan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kdo hledá zlaté dno",
+      "values": [
+        "Jiří Menzel",
+        "Antonín Moskalyk",
+        "Martin Frič",
+        "Ondřej Trojan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "ROMing",
+      "values": [
+        "Saša Gedeon",
+        "Jan Schmidt",
+        "Václav Krška",
+        "Jiří Vejdělek"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

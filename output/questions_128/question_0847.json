@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte jazyk podle opery",
+  "questions": [
+    {
+      "key": "Prodaná nevěsta",
+      "values": [
+        "maďarština",
+        "italština",
+        "čeština",
+        "ruština"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Figarova svatba",
+      "values": [
+        "maďarština",
+        "němčina",
+        "francouzština",
+        "italština"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Braniboři v Čechách",
+      "values": [
+        "maďarština",
+        "francouzština",
+        "italština",
+        "čeština"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Žebrácká opera",
+      "values": [
+        "angličtina",
+        "čeština",
+        "italština",
+        "ruština"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Čarostřelec",
+      "values": [
+        "ruština",
+        "němčina",
+        "maďarština",
+        "italština"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sedlák kavalír",
+      "values": [
+        "italština",
+        "ruština",
+        "maďarština",
+        "francouzština"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hoffmannovy povídky",
+      "values": [
+        "italština",
+        "němčina",
+        "čeština",
+        "francouzština"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lucie z Lammermooru",
+      "values": [
+        "němčina",
+        "angličtina",
+        "francouzština",
+        "italština"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Výlety páně Broučkovy",
+      "values": [
+        "čeština",
+        "francouzština",
+        "němčina",
+        "maďarština"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Král a uhlíř",
+      "values": [
+        "francouzština",
+        "maďarština",
+        "italština",
+        "čeština"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

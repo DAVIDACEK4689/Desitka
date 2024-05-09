@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Megan Fox",
+      "values": [
+        "americkou",
+        "jihoafrickou",
+        "izraelskou",
+        "českou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Andrea Verešová",
+      "values": [
+        "kanadskou",
+        "slovenskou",
+        "indickou",
+        "namibijskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Daniela Peštová",
+      "values": [
+        "australskou",
+        "slovenskou",
+        "českou",
+        "indickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Iveta Vítová",
+      "values": [
+        "polskou",
+        "českou",
+        "americkou",
+        "irskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Brooke Shieldsová",
+      "values": [
+        "irskou",
+        "kanadskou",
+        "americkou",
+        "brazilskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaime Pressly",
+      "values": [
+        "japonskou",
+        "maďarskou",
+        "americkou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kate Bosworthová",
+      "values": [
+        "slovenskou",
+        "americkou",
+        "irskou",
+        "argentinskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kat Graham",
+      "values": [
+        "maďarskou",
+        "britskou",
+        "americkou",
+        "kanadskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Linda Vojtová",
+      "values": [
+        "nizozemskou",
+        "českou",
+        "irskou",
+        "izraelskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Elle Macphersonová",
+      "values": [
+        "rakouskou",
+        "australskou",
+        "českou",
+        "kanadskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

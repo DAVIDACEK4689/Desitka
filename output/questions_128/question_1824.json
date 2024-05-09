@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Boris Jelcin",
+      "values": [
+        "ruského",
+        "francouzského",
+        "španělského",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ján Čarnogurský",
+      "values": [
+        "slovenského",
+        "maďarského",
+        "indického",
+        "myanmarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ngô Ðình Diệm",
+      "values": [
+        "českého",
+        "panamského",
+        "vietnamského",
+        "kolumbijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "José Martí",
+      "values": [
+        "iráckého",
+        "dominikánského",
+        "estonského",
+        "kubánského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Giulio Andreotti",
+      "values": [
+        "portugalského",
+        "dominikánského",
+        "italského",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Matthias Erzberger",
+      "values": [
+        "německého",
+        "maďarského",
+        "rumunského",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Wesley Clark",
+      "values": [
+        "rumunského",
+        "amerického",
+        "gruzínského",
+        "peruánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Radoslav Procházka",
+      "values": [
+        "bosenského",
+        "slovenského",
+        "marockého",
+        "maltského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Subháš Čandra Bós",
+      "values": [
+        "litevského",
+        "malajsijského",
+        "indického",
+        "chilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roman Golovčenko",
+      "values": [
+        "pruského",
+        "běloruského",
+        "ukrajinského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebníka?",
+  "questions": [
+    {
+      "key": "Jakub Prachař",
+      "values": [
+        "amerického",
+        "německého",
+        "českého",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ondřej Brousek",
+      "values": [
+        "švédského",
+        "českého",
+        "kanadského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Richard Wagner",
+      "values": [
+        "švédského",
+        "slovenského",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Axl Rose",
+      "values": [
+        "francouzského",
+        "jihokorejského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Neckář",
+      "values": [
+        "rakouského",
+        "německého",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Adam Kajumi",
+      "values": [
+        "nizozemského",
+        "českého",
+        "francouzského",
+        "jihokorejského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kylie Minogue",
+      "values": [
+        "australského",
+        "nizozemského",
+        "německého",
+        "jihokorejského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Malásek",
+      "values": [
+        "nizozemského",
+        "německého",
+        "českého",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomáš Břínek",
+      "values": [
+        "australského",
+        "nizozemského",
+        "českého",
+        "švédského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stevie Wonder",
+      "values": [
+        "rakouského",
+        "švédského",
+        "arménského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

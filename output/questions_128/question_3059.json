@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Wayne Rooney",
+      "values": [
+        "polského",
+        "švýcarského",
+        "maďarského",
+        "anglického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michal Papadopulos",
+      "values": [
+        "českého",
+        "gruzínského",
+        "severoirského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Simone Inzaghi",
+      "values": [
+        "alžírského",
+        "italského",
+        "tureckého",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivan Perišić",
+      "values": [
+        "uruguayského",
+        "rakouského",
+        "norského",
+        "chorvatského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Wesley Sneijder",
+      "values": [
+        "českého",
+        "rakouského",
+        "nizozemského",
+        "kolumbijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kenny Dalglish",
+      "values": [
+        "skotského",
+        "dánského",
+        "chorvatského",
+        "černohorského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Edvard Lasota",
+      "values": [
+        "českého",
+        "kamerunského",
+        "senegalského",
+        "islandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Mičola",
+      "values": [
+        "kostarického",
+        "severoirského",
+        "českého",
+        "tožského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marc Cucurella",
+      "values": [
+        "australského",
+        "španělského",
+        "slovenského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tom Lockyer",
+      "values": [
+        "nizozemského",
+        "francouzského",
+        "argentinského",
+        "velšského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

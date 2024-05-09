@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle prezidenta",
+  "questions": [
+    {
+      "key": "Javier Milei",
+      "values": [
+        "Argentina",
+        "Čečenci",
+        "Somálsko",
+        "Estonsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Andrzej Duda",
+      "values": [
+        "Ukrajina",
+        "Francie",
+        "Polsko",
+        "Rwanda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Carl Gustaf Emil Mannerheim",
+      "values": [
+        "Afghánistán",
+        "Slovinsko",
+        "Rumunsko",
+        "Finsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Husní Mubárak",
+      "values": [
+        "Pákistán",
+        "Rwanda",
+        "Rusko",
+        "Egypt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Draupadí Murmúová",
+      "values": [
+        "Rakousko",
+        "Francie",
+        "Indie",
+        "Česká republika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marcelo Rebelo de Sousa",
+      "values": [
+        "Portugalsko",
+        "Litva",
+        "Polsko",
+        "Venezuela"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jicchak Ben Cvi",
+      "values": [
+        "Řecko",
+        "Izrael",
+        "Gabon",
+        "Uganda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paul Kagame",
+      "values": [
+        "Somálsko",
+        "Salvador",
+        "Lotyšsko",
+        "Rwanda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nataša Pircová Musarová",
+      "values": [
+        "Jugoslávie",
+        "Slovinsko",
+        "Jihoafrická republika",
+        "Rwanda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Islam Karimov",
+      "values": [
+        "Uganda",
+        "Írán",
+        "Rumunsko",
+        "Uzbekistán"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

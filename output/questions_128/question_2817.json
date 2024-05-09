@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] atentátníka?",
+  "questions": [
+    {
+      "key": "Jan Kubiš",
+      "values": [
+        "francouzského",
+        "českého",
+        "anglického",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lee Harvey Oswald",
+      "values": [
+        "českého",
+        "ruského",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Valčík",
+      "values": [
+        "anglického",
+        "polského",
+        "srbského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Šoupal",
+      "values": [
+        "srbského",
+        "ruského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fanny Kaplanová",
+      "values": [
+        "ruského",
+        "srbského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Georg Elser",
+      "values": [
+        "ruského",
+        "francouzského",
+        "srbského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sirhan Sirhan",
+      "values": [
+        "srbského",
+        "francouzského",
+        "amerického",
+        "anglického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Valerie Solanasová",
+      "values": [
+        "francouzského",
+        "českého",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Carl Friedrich Goerdeler",
+      "values": [
+        "amerického",
+        "srbského",
+        "ruského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Muhamed Mehmedbasić",
+      "values": [
+        "srbského",
+        "francouzského",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Ronaldinho",
+      "values": [
+        "nizozemského",
+        "zimbabwského",
+        "brazilského",
+        "bulharského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mario Balotelli",
+      "values": [
+        "chilského",
+        "argentinského",
+        "chorvatského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ondřej Čelůstka",
+      "values": [
+        "nizozemského",
+        "španělského",
+        "českého",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "João Cancelo",
+      "values": [
+        "portugalského",
+        "nigerijského",
+        "brazilského",
+        "chilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Raheem Sterling",
+      "values": [
+        "irského",
+        "anglického",
+        "dánského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Erich Brabec",
+      "values": [
+        "bulharského",
+        "ghanského",
+        "českého",
+        "uruguayského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rafael Benítez",
+      "values": [
+        "portugalského",
+        "brazilského",
+        "finského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Siniša Mihajlović",
+      "values": [
+        "německého",
+        "kostarického",
+        "srbského",
+        "bulharského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roberto De Zerbi",
+      "values": [
+        "mexického",
+        "chorvatského",
+        "srbského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jesús Navas",
+      "values": [
+        "španělského",
+        "německého",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

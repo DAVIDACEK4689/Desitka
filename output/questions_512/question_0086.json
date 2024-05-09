@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Surströmming",
+      "values": [
+        "vietnamskou",
+        "brazilskou",
+        "švédskou",
+        "belgickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jalapeño",
+      "values": [
+        "mexickou",
+        "polskou",
+        "španělskou",
+        "středomořskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Boloňská omáčka",
+      "values": [
+        "islandskou",
+        "polskou",
+        "rakouskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vepřo knedlo zelo",
+      "values": [
+        "švédskou",
+        "chorvatskou",
+        "českou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ratatouille",
+      "values": [
+        "francouzskou",
+        "vietnamskou",
+        "britskou",
+        "španělskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Čubrica",
+      "values": [
+        "balkánskou",
+        "americkou",
+        "portugalskou",
+        "rakouskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chorvatská kuchyně",
+      "values": [
+        "belgickou",
+        "švýcarskou",
+        "chorvatskou",
+        "středomořskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karbanátek",
+      "values": [
+        "ruskou",
+        "islandskou",
+        "rakouskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Poutine",
+      "values": [
+        "slovenskou",
+        "ukrajinskou",
+        "kanadskou",
+        "německou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Udon",
+      "values": [
+        "švédskou",
+        "polskou",
+        "japonskou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Gal Gadotová",
+      "values": [
+        "izraelskou",
+        "kanadskou",
+        "japonskou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavlína Němcová",
+      "values": [
+        "německou",
+        "polskou",
+        "českou",
+        "irskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petra Němcová",
+      "values": [
+        "švýcarskou",
+        "americkou",
+        "slovenskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hana Mašlíková",
+      "values": [
+        "argentinskou",
+        "ruskou",
+        "polskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Barbora Podzimková",
+      "values": [
+        "českou",
+        "francouzskou",
+        "namibijskou",
+        "izraelskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gabriella Jiráčková",
+      "values": [
+        "švédskou",
+        "americkou",
+        "českou",
+        "australskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anita Pallenbergová",
+      "values": [
+        "nizozemskou",
+        "irskou",
+        "německou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Carey Lowellová",
+      "values": [
+        "jihoafrickou",
+        "polskou",
+        "americkou",
+        "dánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lucie Smatanová",
+      "values": [
+        "izraelskou",
+        "venezuelskou",
+        "českou",
+        "japonskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ilona Jirotková",
+      "values": [
+        "českou",
+        "kanadskou",
+        "dánskou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

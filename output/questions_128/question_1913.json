@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] cyklistu?",
+  "questions": [
+    {
+      "key": "Bratři Pospíšilové",
+      "values": [
+        "lucemburského",
+        "československého",
+        "slovenského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alberto Contador",
+      "values": [
+        "německého",
+        "lucemburského",
+        "portugalského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mathias Vacek",
+      "values": [
+        "portugalského",
+        "českého",
+        "lucemburského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jacques Anquetil",
+      "values": [
+        "nizozemského",
+        "francouzského",
+        "rakouského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jozef Regec",
+      "values": [
+        "kolumbijského",
+        "československého",
+        "lucemburského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jai Hindley",
+      "values": [
+        "australského",
+        "německého",
+        "italského",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Konečný",
+      "values": [
+        "amerického",
+        "českého",
+        "britského",
+        "lucemburského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Filippo Ganna",
+      "values": [
+        "amerického",
+        "lucemburského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rafał Majka",
+      "values": [
+        "amerického",
+        "slovenského",
+        "polského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ryszard Szurkowski",
+      "values": [
+        "portugalského",
+        "českého",
+        "australského",
+        "polského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Marek Jankulovski",
+      "values": [
+        "českého",
+        "ukrajinského",
+        "uruguayského",
+        "marockého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavel Srniček",
+      "values": [
+        "německého",
+        "českého",
+        "švédského",
+        "chilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Pavlenka",
+      "values": [
+        "severoirského",
+        "kolumbijského",
+        "ghanského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roberto Firmino",
+      "values": [
+        "českého",
+        "skotského",
+        "bulharského",
+        "brazilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Florin Niță",
+      "values": [
+        "japonského",
+        "rumunského",
+        "kanadského",
+        "kamerunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "David Silva",
+      "values": [
+        "španělského",
+        "australského",
+        "slovinského",
+        "finského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tim Sparv",
+      "values": [
+        "finského",
+        "velšského",
+        "brazilského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Srđan Plavšić",
+      "values": [
+        "švédského",
+        "kolumbijského",
+        "srbského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andrej Aršavin",
+      "values": [
+        "ruského",
+        "australského",
+        "chilského",
+        "finského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ivan Schranz",
+      "values": [
+        "kamerunského",
+        "slovenského",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

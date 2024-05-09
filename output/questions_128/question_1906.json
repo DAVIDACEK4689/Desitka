@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Székesfehérvár",
+      "values": [
+        "Etiopie",
+        "Maďarsko",
+        "Litva",
+        "Gabon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Acapulco",
+      "values": [
+        "Mexiko",
+        "Súdán",
+        "Vanuatu",
+        "Albánie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Östersund",
+      "values": [
+        "Švédsko",
+        "Komora",
+        "Omán",
+        "Vanuatu"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zwettl",
+      "values": [
+        "Rakousko",
+        "Malta",
+        "Keňa",
+        "Angola"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kristiansand",
+      "values": [
+        "Nizozemsko",
+        "Norsko",
+        "Abcházie",
+        "Uganda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kvéta",
+      "values": [
+        "Irsko",
+        "Pákistán",
+        "Omán",
+        "Rumunsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hnúšťa",
+      "values": [
+        "Chorvatsko",
+        "Jemen",
+        "Libye",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Siem Reap",
+      "values": [
+        "Kolumbie",
+        "Kambodža",
+        "Chorvatsko",
+        "Omán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Silistra",
+      "values": [
+        "Portugalsko",
+        "Bulharsko",
+        "Slovensko",
+        "Severní Makedonie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Viana do Castelo",
+      "values": [
+        "Lotyšsko",
+        "Portugalsko",
+        "Nikaragua",
+        "Norsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Žilina",
+      "values": [
+        "Váha",
+        "Jizera",
+        "Loira",
+        "Radbuza"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nelahozeves",
+      "values": [
+        "Něva",
+        "Labe",
+        "Bečva",
+        "Vltava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Brezno",
+      "values": [
+        "Bečva",
+        "Tis",
+        "Těrek",
+        "Hron"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rakka",
+      "values": [
+        "Eufrat",
+        "Polenz",
+        "Úslava",
+        "Emže"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Raabs an der Thaya",
+      "values": [
+        "Bečva",
+        "Chrudimka",
+        "Dyje",
+        "Sázava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Valtířov",
+      "values": [
+        "Labe",
+        "Dyje",
+        "Spréva",
+        "Inn"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Horní Heršpice",
+      "values": [
+        "Svratka",
+        "Hron",
+        "Lužnice",
+        "Visla"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dešenice",
+      "values": [
+        "Svratka",
+        "Ploučnice",
+        "Sebnice",
+        "Úhlava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nemecká",
+      "values": [
+        "Vltava",
+        "Úhlava",
+        "Hron",
+        "Chrudimka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Poissy",
+      "values": [
+        "Dyje",
+        "Těrek",
+        "Tis",
+        "Seina"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

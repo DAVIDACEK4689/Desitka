@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] automobilku?",
+  "questions": [
+    {
+      "key": "Tatra",
+      "values": [
+        "francouzskou",
+        "jihokorejskou",
+        "českou",
+        "španělskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jawa",
+      "values": [
+        "britskou",
+        "japonskou",
+        "jihokorejskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Praga",
+      "values": [
+        "španělskou",
+        "českou",
+        "švédskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Toyota",
+      "values": [
+        "americkou",
+        "jihokorejskou",
+        "španělskou",
+        "japonskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Volvo Cars",
+      "values": [
+        "švédskou",
+        "japonskou",
+        "jihokorejskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Peugeot",
+      "values": [
+        "čínskou",
+        "jihokorejskou",
+        "francouzskou",
+        "německou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Citroën",
+      "values": [
+        "francouzskou",
+        "americkou",
+        "španělskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Subaru",
+      "values": [
+        "japonskou",
+        "českou",
+        "nizozemskou",
+        "maďarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ikarus",
+      "values": [
+        "maďarskou",
+        "českou",
+        "americkou",
+        "švédskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chrysler",
+      "values": [
+        "španělskou",
+        "čínskou",
+        "americkou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

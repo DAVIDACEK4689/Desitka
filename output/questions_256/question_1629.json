@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] muslima?",
+  "questions": [
+    {
+      "key": "Mike Tyson",
+      "values": [
+        "amerického",
+        "íránského",
+        "tureckého",
+        "katarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ice Cube",
+      "values": [
+        "německého",
+        "ruského",
+        "amerického",
+        "albánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Malcolm X",
+      "values": [
+        "řeckého",
+        "amerického",
+        "francouzského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gamál Násir",
+      "values": [
+        "egyptského",
+        "kazašského",
+        "německého",
+        "tureckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Pelikán",
+      "values": [
+        "afghánského",
+        "českého",
+        "kazašského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rinat Achmetov",
+      "values": [
+        "ukrajinského",
+        "amerického",
+        "tureckého",
+        "íránského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bénazír Bhuttová",
+      "values": [
+        "pákistánského",
+        "albánského",
+        "katarského",
+        "afghánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Muhammad Umar",
+      "values": [
+        "chorvatského",
+        "ruského",
+        "afghánského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čeng Che",
+      "values": [
+        "čínského",
+        "ruského",
+        "kazašského",
+        "íránského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dennis Schröder",
+      "values": [
+        "myanmarského",
+        "egyptského",
+        "íránského",
+        "německého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

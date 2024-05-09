@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] hudební skupinu?",
+  "questions": [
+    {
+      "key": "Lollipopz",
+      "values": [
+        "českou",
+        "irskou",
+        "ruskou",
+        "kubánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martha a Tena",
+      "values": [
+        "českou",
+        "bosenskou",
+        "slovenskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "East 17",
+      "values": [
+        "chorvatskou",
+        "britskou",
+        "švédskou",
+        "australskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pentatonix",
+      "values": [
+        "španělskou",
+        "islandskou",
+        "americkou",
+        "slovinskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pussycat Dolls",
+      "values": [
+        "americkou",
+        "německou",
+        "slovinskou",
+        "dánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Las Ketchup",
+      "values": [
+        "španělskou",
+        "francouzskou",
+        "americkou",
+        "norskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "The Shadows",
+      "values": [
+        "estonskou",
+        "britskou",
+        "kubánskou",
+        "českou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Peter Bič Project",
+      "values": [
+        "slovenskou",
+        "maďarskou",
+        "dánskou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cascada",
+      "values": [
+        "španělskou",
+        "maďarskou",
+        "dánskou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "The Hollies",
+      "values": [
+        "ruskou",
+        "finskou",
+        "kanadskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filozofa?",
+  "questions": [
+    {
+      "key": "Karl Marx",
+      "values": [
+        "českého",
+        "švýcarského",
+        "německého",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Umberto Eco",
+      "values": [
+        "kanadského",
+        "italského",
+        "nizozemského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Erasmus Rotterdamský",
+      "values": [
+        "indického",
+        "nizozemského",
+        "amerického",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Aldous Huxley",
+      "values": [
+        "kanadského",
+        "indického",
+        "dánského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Anaximandros",
+      "values": [
+        "dánského",
+        "řeckého",
+        "indického",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Órigenés",
+      "values": [
+        "ruského",
+        "švédského",
+        "italského",
+        "řeckého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Kropotkin",
+      "values": [
+        "nizozemského",
+        "slovinského",
+        "perského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nassim Nicholas Taleb",
+      "values": [
+        "ruského",
+        "španělského",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mary Wollstonecraftová",
+      "values": [
+        "maďarského",
+        "britského",
+        "řeckého",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Leo Strauss",
+      "values": [
+        "amerického",
+        "dánského",
+        "ruského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

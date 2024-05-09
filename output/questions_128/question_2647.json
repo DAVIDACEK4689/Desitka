@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Lana Del Rey",
+      "values": [
+        "americkou",
+        "kolumbijskou",
+        "uruguayskou",
+        "brazilskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lindsay Lohan",
+      "values": [
+        "japonskou",
+        "novozélandskou",
+        "ruskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jana Robbová",
+      "values": [
+        "českou",
+        "ukrajinskou",
+        "italskou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mireille Darcová",
+      "values": [
+        "francouzskou",
+        "kolumbijskou",
+        "izraelskou",
+        "španělskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Klára Vytisková",
+      "values": [
+        "českou",
+        "jamajskou",
+        "peruánskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michaela Nosková",
+      "values": [
+        "maďarskou",
+        "moldavskou",
+        "brazilskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Beáta Dubasová",
+      "values": [
+        "kubánskou",
+        "norskou",
+        "srbskou",
+        "slovenskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mária Podhradská",
+      "values": [
+        "ruskou",
+        "slovenskou",
+        "kolumbijskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gigliola Cinquetti",
+      "values": [
+        "švýcarskou",
+        "italskou",
+        "nizozemskou",
+        "rumunskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Moya Brennan",
+      "values": [
+        "irskou",
+        "španělskou",
+        "finskou",
+        "indickou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

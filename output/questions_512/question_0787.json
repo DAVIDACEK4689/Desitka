@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistku?",
+  "questions": [
+    {
+      "key": "Barbora Strýcová",
+      "values": [
+        "americkou",
+        "českou",
+        "lotyšskou",
+        "srbskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Iga Świąteková",
+      "values": [
+        "chorvatskou",
+        "polskou",
+        "řeckou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marie Bouzková",
+      "values": [
+        "australskou",
+        "polskou",
+        "srbskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Andrea Sestini Hlaváčková",
+      "values": [
+        "ukrajinskou",
+        "československou",
+        "německou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Leylah Fernandezová",
+      "values": [
+        "švýcarskou",
+        "kanadskou",
+        "tuniskou",
+        "australskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Simona Halepová",
+      "values": [
+        "japonskou",
+        "dánskou",
+        "španělskou",
+        "rumunskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sára Bejlek",
+      "values": [
+        "kanadskou",
+        "českou",
+        "australskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chris Evertová",
+      "values": [
+        "srbskou",
+        "americkou",
+        "německou",
+        "běloruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Regina Kordová",
+      "values": [
+        "japonskou",
+        "americkou",
+        "československou",
+        "dánskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Darja Kasatkinová",
+      "values": [
+        "ruskou",
+        "chorvatskou",
+        "německou",
+        "českou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

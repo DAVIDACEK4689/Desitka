@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Radoslav Brzobohatý",
+      "values": [
+        "kanadského",
+        "českého",
+        "mexického",
+        "libanonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Antonín Baťa",
+      "values": [
+        "britského",
+        "belgického",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Antonín Čermák",
+      "values": [
+        "jihoafrického",
+        "amerického",
+        "českého",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tomáš Březina",
+      "values": [
+        "amerického",
+        "českého",
+        "italského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Hampl",
+      "values": [
+        "polského",
+        "libanonského",
+        "českého",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michael Thonet",
+      "values": [
+        "francouzského",
+        "švýcarského",
+        "německého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Wayne Rogers",
+      "values": [
+        "amerického",
+        "nizozemského",
+        "belgického",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karol Konárik",
+      "values": [
+        "slovenského",
+        "mexického",
+        "britského",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Emanuel Viktor Voska",
+      "values": [
+        "nizozemského",
+        "ukrajinského",
+        "amerického",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Valentino Garavani",
+      "values": [
+        "brazilského",
+        "italského",
+        "slovenského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

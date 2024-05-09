@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] právníka?",
+  "questions": [
+    {
+      "key": "Petr Pithart",
+      "values": [
+        "finského",
+        "slovenského",
+        "lotyšského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ladislav Rašín",
+      "values": [
+        "polského",
+        "českého",
+        "slovinského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lajos Kossuth",
+      "values": [
+        "argentinského",
+        "švýcarského",
+        "slovenského",
+        "maďarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Otakar Klapka",
+      "values": [
+        "brazilského",
+        "rumunského",
+        "ukrajinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Camille Desmoulins",
+      "values": [
+        "lotyšského",
+        "francouzského",
+        "amerického",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michal Bobek",
+      "values": [
+        "ruského",
+        "ukrajinského",
+        "brazilského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Valentín Paniagua",
+      "values": [
+        "srbského",
+        "francouzského",
+        "peruánského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Milan Jančík",
+      "values": [
+        "finského",
+        "chorvatského",
+        "českého",
+        "lotyšského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andrew Schapiro",
+      "values": [
+        "izraelského",
+        "finského",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jerry Springer",
+      "values": [
+        "francouzského",
+        "izraelského",
+        "amerického",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

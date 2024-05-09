@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Monika Absolonová",
+      "values": [
+        "maďarskou",
+        "českou",
+        "jamajskou",
+        "rumunskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Debbie Harry",
+      "values": [
+        "peruánskou",
+        "americkou",
+        "řeckou",
+        "uruguayskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Radka Fišarová",
+      "values": [
+        "kubánskou",
+        "švýcarskou",
+        "nizozemskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marka Míková",
+      "values": [
+        "portugalskou",
+        "mexickou",
+        "italskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Queen Latifah",
+      "values": [
+        "americkou",
+        "izraelskou",
+        "slovenskou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Caroline Polachek",
+      "values": [
+        "uruguayskou",
+        "moldavskou",
+        "ukrajinskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zuzana Kolářová",
+      "values": [
+        "českou",
+        "maďarskou",
+        "novozélandskou",
+        "portugalskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Raye",
+      "values": [
+        "britskou",
+        "italskou",
+        "chorvatskou",
+        "kolumbijskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Papia Ghoshal",
+      "values": [
+        "uruguayskou",
+        "francouzskou",
+        "jihokorejskou",
+        "indickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Yvonne Sanchez",
+      "values": [
+        "rumunskou",
+        "českou",
+        "novozélandskou",
+        "peruánskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

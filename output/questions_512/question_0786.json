@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Ostře sledované vlaky",
+      "values": [
+        "Jiří Menzel",
+        "Václav Vorlíček",
+        "Karel Steklý",
+        "Jan Schmidt"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tři veteráni",
+      "values": [
+        "Jan Svěrák",
+        "Oldřich Lipský",
+        "Karel Zeman",
+        "Hynek Bočan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jak básníci přicházejí o iluze",
+      "values": [
+        "Dušan Klein",
+        "Miloslav Šmídmajer",
+        "Tomáš Bařina",
+        "Petr Jákl"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jak básníci čekají na zázrak",
+      "values": [
+        "Martin Horský",
+        "Ladislav Rychman",
+        "Dušan Klein",
+        "Jan Svěrák"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Requiem pro panenku",
+      "values": [
+        "Jan Schmidt",
+        "David Ondříček",
+        "Tomáš Vorel",
+        "Filip Renč"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Honza málem králem",
+      "values": [
+        "Karel Smyczek",
+        "Vojtěch Jasný",
+        "Bořivoj Zeman",
+        "Filip Renč"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vratné lahve",
+      "values": [
+        "Jan Svěrák",
+        "Bohdan Sláma",
+        "Jaroslav Papoušek",
+        "Jiří Strach"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Upír z Feratu",
+      "values": [
+        "Juraj Herz",
+        "Filip Renč",
+        "Václav Vorlíček",
+        "Robert Sedláček"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jedna ruka netleská",
+      "values": [
+        "Václav Vorlíček",
+        "David Ondříček",
+        "Marie Poledňáková",
+        "Juraj Herz"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lásky jedné plavovlásky",
+      "values": [
+        "Ladislav Smoljak",
+        "Karel Smyczek",
+        "Jindřich Polák",
+        "Miloš Forman"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

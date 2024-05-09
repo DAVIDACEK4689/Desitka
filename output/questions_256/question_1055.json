@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] televizní pořad?",
+  "questions": [
+    {
+      "key": "Pohlreichův souboj restaurací",
+      "values": [
+        "britský",
+        "americký",
+        "slovenský",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kdo přežije",
+      "values": [
+        "francouzský",
+        "český",
+        "americký",
+        "německý"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistři zastavárny",
+      "values": [
+        "německý",
+        "český",
+        "americký",
+        "britský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jirka vysvětluje věci",
+      "values": [
+        "německý",
+        "český",
+        "britský",
+        "americký"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hry bez hranic",
+      "values": [
+        "německý",
+        "slovenský",
+        "francouzský",
+        "americký"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sama doma",
+      "values": [
+        "slovenský",
+        "britský",
+        "americký",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Držte krok s Kardashians",
+      "values": [
+        "slovenský",
+        "americký",
+        "český",
+        "britský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ein Kessel Buntes",
+      "values": [
+        "německý",
+        "britský",
+        "slovenský",
+        "americký"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mikýřova úžasná pouť internetem",
+      "values": [
+        "francouzský",
+        "český",
+        "německý",
+        "britský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Klíče od pevnosti Boyard",
+      "values": [
+        "americký",
+        "německý",
+        "francouzský",
+        "slovenský"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

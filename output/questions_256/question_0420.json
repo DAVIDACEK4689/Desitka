@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vévodu?",
+  "questions": [
+    {
+      "key": "Marie Terezie",
+      "values": [
+        "českého",
+        "britského",
+        "lucemburského",
+        "franského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Habsburkové",
+      "values": [
+        "franského",
+        "britského",
+        "rakouského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Albrecht z Valdštejna",
+      "values": [
+        "španělského",
+        "českého",
+        "britského",
+        "franského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ladislav Pohrobek",
+      "values": [
+        "španělského",
+        "britského",
+        "rakouského",
+        "franského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rudolf Habsburský",
+      "values": [
+        "rakouského",
+        "britského",
+        "španělského",
+        "franského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jošt Moravský",
+      "values": [
+        "britského",
+        "českého",
+        "rakouského",
+        "lucemburského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladislav Český",
+      "values": [
+        "lucemburského",
+        "rakouského",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Filip Švábský",
+      "values": [
+        "britského",
+        "rakouského",
+        "franského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Smělý",
+      "values": [
+        "lucemburského",
+        "českého",
+        "španělského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "José Antonio Primo de Rivera",
+      "values": [
+        "rakouského",
+        "španělského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

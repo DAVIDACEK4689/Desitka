@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] tank?",
+  "questions": [
+    {
+      "key": "Merkava",
+      "values": [
+        "izraelský",
+        "německý",
+        "sovětský",
+        "japonský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Panther KF51",
+      "values": [
+        "britský",
+        "jihokorejský",
+        "švédský",
+        "německý"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Panzerkampfwagen IV",
+      "values": [
+        "americký",
+        "německý",
+        "japonský",
+        "maďarský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "M60 Patton",
+      "values": [
+        "izraelský",
+        "švédský",
+        "americký",
+        "maďarský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "C1 Ariete",
+      "values": [
+        "francouzský",
+        "italský",
+        "švédský",
+        "britský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Panzerkampfwagen E",
+      "values": [
+        "maďarský",
+        "německý",
+        "italský",
+        "britský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Panzerkampfwagen II",
+      "values": [
+        "švýcarský",
+        "švédský",
+        "maďarský",
+        "německý"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "M46 Patton",
+      "values": [
+        "britský",
+        "francouzský",
+        "americký",
+        "švýcarský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "TOG2",
+      "values": [
+        "italský",
+        "americký",
+        "britský",
+        "francouzský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Typ 10",
+      "values": [
+        "švýcarský",
+        "jihokorejský",
+        "japonský",
+        "francouzský"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

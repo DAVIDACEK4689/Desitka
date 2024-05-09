@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle premiéra",
+  "questions": [
+    {
+      "key": "Miloš Zeman",
+      "values": [
+        "Polsko",
+        "Portugalsko",
+        "Ukrajina",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bohuslav Sobotka",
+      "values": [
+        "Irák",
+        "Česko",
+        "Grónsko",
+        "Etiopie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vladimír Mečiar",
+      "values": [
+        "Lucembursko",
+        "Ázerbájdžán",
+        "Srbsko",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Philippe Pétain",
+      "values": [
+        "Moldavsko",
+        "Etiopie",
+        "Maďarsko",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Iveta Radičová",
+      "values": [
+        "Island",
+        "Finsko",
+        "Slovensko",
+        "Rumunsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jules Mazarin",
+      "values": [
+        "Pákistán",
+        "Estonsko",
+        "Ázerbájdžán",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ehud Barak",
+      "values": [
+        "Švédsko",
+        "Jugoslávie",
+        "Irák",
+        "Izrael"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jicchak Šamir",
+      "values": [
+        "Nizozemsko",
+        "Jugoslávie",
+        "Izrael",
+        "Maďarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karol Sidor",
+      "values": [
+        "Japonsko",
+        "Slovensko",
+        "Španělsko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ehud Olmert",
+      "values": [
+        "Izrael",
+        "Turecko",
+        "Dánsko",
+        "Francie"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

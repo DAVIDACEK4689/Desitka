@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle českého sportovce",
+  "questions": [
+    {
+      "key": "Ivan Lendl",
+      "values": [
+        "skeletonisté",
+        "cyklista",
+        "zápasník",
+        "tenista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ondřej Kacetl",
+      "values": [
+        "lyžař",
+        "lední hokejista",
+        "baseballisté",
+        "boxer"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ondřej Synek",
+      "values": [
+        "plavec",
+        "veslař",
+        "volejbalista",
+        "rybář"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gustav Ginzel",
+      "values": [
+        "plavec",
+        "basketbalista",
+        "horolezec",
+        "kajakář"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jakub Lev",
+      "values": [
+        "boxer",
+        "kickboxeři",
+        "lední hokejista",
+        "volejbalista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Marha",
+      "values": [
+        "tenista",
+        "horolezec",
+        "lyžař",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vlastimil Moravec",
+      "values": [
+        "volejbalista",
+        "šermíř",
+        "cyklista",
+        "boxer"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Kořínek",
+      "values": [
+        "volejbalista",
+        "bojový umělec",
+        "lední hokejista",
+        "kanoista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Patrik Miškář",
+      "values": [
+        "veslař",
+        "lední hokejista",
+        "horolezec",
+        "kanoista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Bělina",
+      "values": [
+        "volejbalista",
+        "basketbalista",
+        "horolezec",
+        "veslař"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

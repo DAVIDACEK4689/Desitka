@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] společnost?",
+  "questions": [
+    {
+      "key": "Lužičtí Srbové",
+      "values": [
+        "nizozemskou",
+        "japonskou",
+        "německou",
+        "sovětskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mara Salvatrucha",
+      "values": [
+        "honduraskou",
+        "filipínskou",
+        "nizozemskou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marie Kristina z Kentu",
+      "values": [
+        "britskou",
+        "skotskou",
+        "thajskou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Obyvatelstvo Itálie",
+      "values": [
+        "etiopskou",
+        "polskou",
+        "nizozemskou",
+        "italskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pitralon",
+      "values": [
+        "italskou",
+        "thajskou",
+        "německou",
+        "filipínskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Moravská národnost",
+      "values": [
+        "českou",
+        "skotskou",
+        "etiopskou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "National Health Service",
+      "values": [
+        "britskou",
+        "ruskou",
+        "americkou",
+        "srbskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Udmurti",
+      "values": [
+        "honduraskou",
+        "ruskou",
+        "japonskou",
+        "indickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kšatrija",
+      "values": [
+        "srbskou",
+        "americkou",
+        "českou",
+        "indickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vidovdan",
+      "values": [
+        "srbskou",
+        "nizozemskou",
+        "japonskou",
+        "etiopskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

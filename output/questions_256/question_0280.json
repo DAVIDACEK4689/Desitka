@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Sevilla",
+      "values": [
+        "Španělsko",
+        "Egypt",
+        "Alžírsko",
+        "Honduras"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dillí",
+      "values": [
+        "Indie",
+        "Island",
+        "Slovinsko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Džidda",
+      "values": [
+        "Bangladéš",
+        "Finsko",
+        "Saúdská Arábie",
+        "Moldavsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chania",
+      "values": [
+        "Nigérie",
+        "Řecko",
+        "Venezuela",
+        "Myanmar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mosul",
+      "values": [
+        "Tádžikistán",
+        "Gambie",
+        "Irák",
+        "Nizozemsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vyborg",
+      "values": [
+        "Malajsie",
+        "Rusko",
+        "Irsko",
+        "Mongolsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mauthausen",
+      "values": [
+        "Jemen",
+        "Island",
+        "Rakousko",
+        "Kolumbie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Évora",
+      "values": [
+        "Severní Korea",
+        "Keňa",
+        "Rumunsko",
+        "Portugalsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bad Aussee",
+      "values": [
+        "Pero",
+        "Tunisko",
+        "Rakousko",
+        "Rumunsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karaganda",
+      "values": [
+        "Bangladéš",
+        "Mexiko",
+        "Kazachstán",
+        "Turecko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

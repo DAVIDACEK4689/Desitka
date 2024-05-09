@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Dubrovník",
+      "values": [
+        "Libye",
+        "Ázerbájdžán",
+        "Kyrgyzstán",
+        "Chorvatsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Monastir",
+      "values": [
+        "Tunisko",
+        "Ekvádor",
+        "Somálsko",
+        "Togo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Delft",
+      "values": [
+        "Nizozemsko",
+        "Malajsie",
+        "Moldavsko",
+        "Ghana"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "La Plata",
+      "values": [
+        "Vietnam",
+        "Slovensko",
+        "Argentina",
+        "Gruzie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fribourg",
+      "values": [
+        "Konžská republika",
+        "Uzbekistán",
+        "Švýcarsko",
+        "Rakousko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nauplion",
+      "values": [
+        "Moldavsko",
+        "Severní Korea",
+        "Irák",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Amasya",
+      "values": [
+        "Západní Sahara",
+        "Turecko",
+        "Tanzanie",
+        "Norsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pinsk",
+      "values": [
+        "Bělorusko",
+        "Thajsko",
+        "Eritrea",
+        "Egypt"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Puerto Vallarta",
+      "values": [
+        "Island",
+        "Mexiko",
+        "Írán",
+        "Srí Lanka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Harar",
+      "values": [
+        "Sýrie",
+        "Etiopie",
+        "Moldavsko",
+        "Portugalsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

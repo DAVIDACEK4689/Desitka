@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] právníka?",
+  "questions": [
+    {
+      "key": "Alexej Navalnyj",
+      "values": [
+        "izraelského",
+        "brazilského",
+        "litevského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alexander Hamilton",
+      "values": [
+        "amerického",
+        "řeckého",
+        "polského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Katerina Sakellaropulosová",
+      "values": [
+        "britského",
+        "řeckého",
+        "izraelského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ludwig Czech",
+      "values": [
+        "rakouského",
+        "maďarského",
+        "slovenského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Milan Čič",
+      "values": [
+        "italského",
+        "srbského",
+        "slovenského",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dominic Raab",
+      "values": [
+        "britského",
+        "estonského",
+        "slovinského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Enrique Peña Nieto",
+      "values": [
+        "francouzského",
+        "mexického",
+        "maďarského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Juraj Slávik",
+      "values": [
+        "řeckého",
+        "slovenského",
+        "italského",
+        "estonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Alois Sudiprav Rettig",
+      "values": [
+        "amerického",
+        "brazilského",
+        "českého",
+        "izraelského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Megyn Kellyová",
+      "values": [
+        "litevského",
+        "amerického",
+        "slovenského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

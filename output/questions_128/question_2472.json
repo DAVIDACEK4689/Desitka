@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filozofa?",
+  "questions": [
+    {
+      "key": "Theodore Kaczynski",
+      "values": [
+        "slovenského",
+        "sovětského",
+        "ukrajinského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Baruch Spinoza",
+      "values": [
+        "nizozemského",
+        "slovinského",
+        "švédského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Johann Gottfried Herder",
+      "values": [
+        "finského",
+        "perského",
+        "indického",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gelasius Dobner",
+      "values": [
+        "indického",
+        "australského",
+        "bulharského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mary Wollstonecraftová",
+      "values": [
+        "egyptského",
+        "řeckého",
+        "britského",
+        "španělského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "György Lukács",
+      "values": [
+        "maďarského",
+        "egyptského",
+        "čínského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Raymond Aron",
+      "values": [
+        "francouzského",
+        "českého",
+        "švýcarského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Christian Wolff",
+      "values": [
+        "ruského",
+        "německého",
+        "polského",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alfred Weber",
+      "values": [
+        "brazilského",
+        "řeckého",
+        "australského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sergej Nikolajevič Bulgakov",
+      "values": [
+        "ruského",
+        "rakouského",
+        "čínského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] román?",
+  "questions": [
+    {
+      "key": "Důmyslný rytíř Don Quijote de la Mancha",
+      "values": [
+        "španělský",
+        "slovenský",
+        "rakouský",
+        "americký"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paní Bovaryová",
+      "values": [
+        "francouzský",
+        "ruský",
+        "australský",
+        "anglický"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Báječná léta pod psa",
+      "values": [
+        "italský",
+        "český",
+        "britský",
+        "anglický"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hledání ztraceného času",
+      "values": [
+        "španělský",
+        "francouzský",
+        "australský",
+        "čínský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ostrov pokladů",
+      "values": [
+        "čínský",
+        "anglický",
+        "francouzský",
+        "rakouský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Na východ od ráje",
+      "values": [
+        "španělský",
+        "americký",
+        "britský",
+        "slovenský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andělé a démoni",
+      "values": [
+        "rakouský",
+        "americký",
+        "německý",
+        "anglický"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pilíře země",
+      "values": [
+        "německý",
+        "australský",
+        "anglický",
+        "americký"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Židovka z Toleda",
+      "values": [
+        "polský",
+        "francouzský",
+        "německý",
+        "italský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dítě číslo 44",
+      "values": [
+        "americký",
+        "rakouský",
+        "německý",
+        "britský"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

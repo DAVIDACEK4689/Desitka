@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Miloš Kopecký",
+      "values": [
+        "českého",
+        "irského",
+        "španělského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ladislav Křížek",
+      "values": [
+        "sovětského",
+        "ruského",
+        "českého",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vilém Čok",
+      "values": [
+        "jihoafrického",
+        "českého",
+        "sovětského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivo Pešák",
+      "values": [
+        "českého",
+        "italského",
+        "finského",
+        "jamajského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Hannig",
+      "values": [
+        "českého",
+        "německého",
+        "australského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mika",
+      "values": [
+        "slovenského",
+        "jihoafrického",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Maluma",
+      "values": [
+        "norského",
+        "argentinského",
+        "srbského",
+        "kolumbijského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Sklenář",
+      "values": [
+        "skotského",
+        "českého",
+        "španělského",
+        "moldavského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Christopher Bowes",
+      "values": [
+        "amerického",
+        "jamajského",
+        "britského",
+        "skotského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zucchero",
+      "values": [
+        "portorického",
+        "španělského",
+        "italského",
+        "jihoafrického"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

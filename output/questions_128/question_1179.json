@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte oblast podle ptáka",
+  "questions": [
+    {
+      "key": "Jeřáb popelavý",
+      "values": [
+        "Tichý oceán",
+        "Antarktida",
+        "Severní Amerika",
+        "Jižní oceán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Žluna šedá",
+      "values": [
+        "Orientální oblast",
+        "celosvětové rozšíření",
+        "Tichý oceán",
+        "Atlantský oceán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Amazoňan modročelý",
+      "values": [
+        "Střední Amerika",
+        "Indický oceán",
+        "Atlantský oceán",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ibis posvátný",
+      "values": [
+        "Afrika",
+        "Jižní oceán",
+        "Tichý oceán",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lžičák pestrý",
+      "values": [
+        "Indický oceán",
+        "Severní Amerika",
+        "Afrika",
+        "Střední Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Husice liščí",
+      "values": [
+        "Severní Amerika",
+        "celosvětové rozšíření",
+        "Afrika",
+        "Antarktida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čečetka tmavá",
+      "values": [
+        "Indický oceán",
+        "Atlantský oceán",
+        "Severní Amerika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Drop kori",
+      "values": [
+        "celosvětové rozšíření",
+        "Afrika",
+        "Orientální oblast",
+        "Severní Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Orel jasnohlasý",
+      "values": [
+        "Orientální oblast",
+        "Atlantský oceán",
+        "Afrika",
+        "celosvětové rozšíření"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Racek tříprstý",
+      "values": [
+        "Jižní Amerika",
+        "Antarktida",
+        "Severní Amerika",
+        "Atlantský oceán"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

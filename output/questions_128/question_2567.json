@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Jan Svěrák",
+      "values": [
+        "sovětského",
+        "českého",
+        "mexického",
+        "novozélandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Přemysl Kočí",
+      "values": [
+        "španělského",
+        "kanadského",
+        "íránského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Emilio Estevez",
+      "values": [
+        "britského",
+        "hongkongského",
+        "rakouského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Evald Schorm",
+      "values": [
+        "chorvatského",
+        "českého",
+        "islandského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaromil Jireš",
+      "values": [
+        "českého",
+        "finského",
+        "švýcarského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Luděk Eliáš",
+      "values": [
+        "českého",
+        "britského",
+        "dánského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Roscoe Arbuckle",
+      "values": [
+        "amerického",
+        "sovětského",
+        "německého",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oleh Sencov",
+      "values": [
+        "hongkongského",
+        "australského",
+        "maďarského",
+        "ukrajinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimír Borský",
+      "values": [
+        "estonského",
+        "francouzského",
+        "švýcarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Philippe Sollers",
+      "values": [
+        "mexického",
+        "francouzského",
+        "amerického",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Viktor Preiss",
+      "values": [
+        "amerického",
+        "českého",
+        "britského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jon Bon Jovi",
+      "values": [
+        "brazilského",
+        "amerického",
+        "izraelského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavel Dobeš",
+      "values": [
+        "finského",
+        "islandského",
+        "alžírského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Václav Lebeda",
+      "values": [
+        "moldavského",
+        "srbského",
+        "českého",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Joey Tempest",
+      "values": [
+        "kolumbijského",
+        "švédského",
+        "islandského",
+        "izraelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexi Laiho",
+      "values": [
+        "chorvatského",
+        "finského",
+        "jihoafrického",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gordon Lightfoot",
+      "values": [
+        "gruzínského",
+        "amerického",
+        "kanadského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "David Byrne",
+      "values": [
+        "brazilského",
+        "skotského",
+        "kanadského",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "The Big Bopper",
+      "values": [
+        "jihokorejského",
+        "jamajského",
+        "amerického",
+        "brazilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "John Cho",
+      "values": [
+        "chorvatského",
+        "novozélandského",
+        "nizozemského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

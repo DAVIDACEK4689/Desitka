@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle historického území",
+  "questions": [
+    {
+      "key": "Moravské markrabství",
+      "values": [
+        "Česko",
+        "Německo",
+        "Řecko",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Švábsko",
+      "values": [
+        "Německo",
+        "Polsko",
+        "Francie",
+        "Írán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Opavské knížectví",
+      "values": [
+        "Česko",
+        "Madagaskar",
+        "Španělsko",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Epirus",
+      "values": [
+        "Slovinsko",
+        "Jihoafrická republika",
+        "Řecko",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Austrasie",
+      "values": [
+        "Lotyšsko",
+        "Francie",
+        "Rumunsko",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Iónie",
+      "values": [
+        "Řecko",
+        "Lotyšsko",
+        "Slovinsko",
+        "Srbsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kapsko",
+      "values": [
+        "Madagaskar",
+        "Jihoafrická republika",
+        "Švédsko",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Velké Řecko",
+      "values": [
+        "Slovinsko",
+        "Chorvatsko",
+        "Švédsko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "La Mancha",
+      "values": [
+        "Ukrajina",
+        "Rakousko",
+        "Španělsko",
+        "Polsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Svealand",
+      "values": [
+        "Belgie",
+        "Švédsko",
+        "Rumunsko",
+        "Srbsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

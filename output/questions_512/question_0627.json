@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Kylie Jennerová",
+      "values": [
+        "českou",
+        "americkou",
+        "izraelskou",
+        "italskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andrea Růžičková",
+      "values": [
+        "slovenskou",
+        "britskou",
+        "rakouskou",
+        "brazilskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paris Hilton",
+      "values": [
+        "americkou",
+        "českou",
+        "brazilskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Iveta Maurerová",
+      "values": [
+        "australskou",
+        "dánskou",
+        "českou",
+        "ruskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bella Thorne",
+      "values": [
+        "izraelskou",
+        "britskou",
+        "americkou",
+        "maďarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Halle Berryová",
+      "values": [
+        "švýcarskou",
+        "americkou",
+        "izraelskou",
+        "rakouskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karolína Kurková",
+      "values": [
+        "kanadskou",
+        "českou",
+        "ruskou",
+        "jihoafrickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Madelyn Clineová",
+      "values": [
+        "rakouskou",
+        "americkou",
+        "ruskou",
+        "českou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cindy Crawford",
+      "values": [
+        "brazilskou",
+        "americkou",
+        "ruskou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Selena",
+      "values": [
+        "britskou",
+        "francouzskou",
+        "kanadskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

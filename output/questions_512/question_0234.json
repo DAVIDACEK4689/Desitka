@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] šlechtický rod?",
+  "questions": [
+    {
+      "key": "Rožmberkové",
+      "values": [
+        "skotský",
+        "český",
+        "litevský",
+        "turecký"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jagellonci",
+      "values": [
+        "francouzský",
+        "uherský",
+        "ukrajinský",
+        "litevský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Medicejové",
+      "values": [
+        "italský",
+        "rakouský",
+        "skotský",
+        "litevský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vítkovci",
+      "values": [
+        "uherský",
+        "český",
+        "litevský",
+        "turecký"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dohalští z Dohalic",
+      "values": [
+        "ukrajinský",
+        "český",
+        "uherský",
+        "německý"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bartoňové z Dobenína",
+      "values": [
+        "rakouský",
+        "uherský",
+        "anglický",
+        "český"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Piastovci",
+      "values": [
+        "německý",
+        "polský",
+        "španělský",
+        "rakouský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ronovci",
+      "values": [
+        "český",
+        "německý",
+        "litevský",
+        "anglický"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vratislavové z Mitrovic",
+      "values": [
+        "německý",
+        "český",
+        "španělský",
+        "uherský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oldenburkové",
+      "values": [
+        "německý",
+        "ukrajinský",
+        "turecký",
+        "polský"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

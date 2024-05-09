@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalového trenéra?",
+  "questions": [
+    {
+      "key": "Bobby Charlton",
+      "values": [
+        "velšského",
+        "anglického",
+        "ruského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaroslav Hřebík",
+      "values": [
+        "chilského",
+        "českého",
+        "německého",
+        "mexického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dušan Uhrin mladší",
+      "values": [
+        "belgického",
+        "velšského",
+        "irského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ryan Giggs",
+      "values": [
+        "ruského",
+        "norského",
+        "velšského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Maurizio Sarri",
+      "values": [
+        "italského",
+        "velšského",
+        "německého",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Roberto Martínez",
+      "values": [
+        "rakouského",
+        "polského",
+        "irského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Edvard Lasota",
+      "values": [
+        "německého",
+        "argentinského",
+        "ruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sean Dyche",
+      "values": [
+        "srbského",
+        "anglického",
+        "argentinského",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bernd Schuster",
+      "values": [
+        "německého",
+        "norského",
+        "švédského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Walter Zenga",
+      "values": [
+        "tureckého",
+        "českého",
+        "italského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

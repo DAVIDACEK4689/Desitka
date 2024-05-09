@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Jeřáb oskeruše",
+      "values": [
+        "Česko",
+        "Mexiko",
+        "Madagaskar",
+        "Mongolsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Koniklec",
+      "values": [
+        "Mongolsko",
+        "Mexiko",
+        "Austrálie",
+        "Brazílie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kakaovník pravý",
+      "values": [
+        "Mongolsko",
+        "Madagaskar",
+        "Nový Zéland",
+        "Brazílie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Juka",
+      "values": [
+        "Mongolsko",
+        "Madagaskar",
+        "Mexiko",
+        "Brazílie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Šrucha",
+      "values": [
+        "Brazílie",
+        "Austrálie",
+        "Madagaskar",
+        "Mexiko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chamedorea sličná",
+      "values": [
+        "Mexiko",
+        "Nový Zéland",
+        "Austrálie",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alokázie",
+      "values": [
+        "Mongolsko",
+        "Austrálie",
+        "Brazílie",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Brugmansie",
+      "values": [
+        "Brazílie",
+        "Mexiko",
+        "Mongolsko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ledvinovník",
+      "values": [
+        "Austrálie",
+        "Česko",
+        "Brazílie",
+        "Nový Zéland"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jedovatec",
+      "values": [
+        "Brazílie",
+        "Nový Zéland",
+        "Mexiko",
+        "Mongolsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

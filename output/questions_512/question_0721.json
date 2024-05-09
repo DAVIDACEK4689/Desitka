@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle narození",
+  "questions": [
+    {
+      "key": "Rafael Nadal",
+      "values": [
+        "Finsko",
+        "Španělsko",
+        "Portugalsko",
+        "Řecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Barbora z Nikomédie",
+      "values": [
+        "Nigérie",
+        "Japonsko",
+        "Írán",
+        "Turecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ernst Gideon von Laudon",
+      "values": [
+        "Kolumbie",
+        "Nikaragua",
+        "Egypt",
+        "Lotyšsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Luiz Inácio Lula da Silva",
+      "values": [
+        "Řecko",
+        "Slovinsko",
+        "Brazílie",
+        "Nikaragua"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Valtteri Bottas",
+      "values": [
+        "Finsko",
+        "Angola",
+        "Kamerun",
+        "Venezuela"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Daniel Ortega",
+      "values": [
+        "Nigérie",
+        "Malta",
+        "Indie",
+        "Nikaragua"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Husní Mubárak",
+      "values": [
+        "Nikaragua",
+        "Egypt",
+        "Rusko",
+        "Senegal"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eduardo Camavinga",
+      "values": [
+        "Nikaragua",
+        "Bělorusko",
+        "Angola",
+        "Mosambik"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Carlos Castaneda",
+      "values": [
+        "Nikaragua",
+        "Nizozemsko",
+        "Španělsko",
+        "Pero"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hassanal Bolkiah",
+      "values": [
+        "Nikaragua",
+        "Brunej",
+        "Maroko",
+        "Malta"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

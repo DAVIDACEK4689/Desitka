@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] hudební skupinu?",
+  "questions": [
+    {
+      "key": "Blackpink",
+      "values": [
+        "jihokorejskou",
+        "slovinskou",
+        "švédskou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ramones",
+      "values": [
+        "americkou",
+        "nizozemskou",
+        "finskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Skillet",
+      "values": [
+        "americkou",
+        "českou",
+        "španělskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Děda Mládek Illegal Band",
+      "values": [
+        "nizozemskou",
+        "českou",
+        "chorvatskou",
+        "maďarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ylvis",
+      "values": [
+        "americkou",
+        "chorvatskou",
+        "norskou",
+        "estonskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "LuŠtěLa",
+      "values": [
+        "španělskou",
+        "švédskou",
+        "irskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "AquaBabes",
+      "values": [
+        "švédskou",
+        "ruskou",
+        "českou",
+        "chorvatskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Midnight Oil",
+      "values": [
+        "australskou",
+        "českou",
+        "britskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Three Days Grace",
+      "values": [
+        "maďarskou",
+        "kanadskou",
+        "italskou",
+        "slovinskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Smash Mouth",
+      "values": [
+        "chorvatskou",
+        "americkou",
+        "švýcarskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

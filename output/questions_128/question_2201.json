@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] lékaře?",
+  "questions": [
+    {
+      "key": "Zdeněk Hřib",
+      "values": [
+        "rakouského",
+        "amerického",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Nesvadba",
+      "values": [
+        "českého",
+        "německého",
+        "ruského",
+        "izraelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Christiaan Barnard",
+      "values": [
+        "amerického",
+        "jihoafrického",
+        "čínského",
+        "afghánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaroslav Hlava",
+      "values": [
+        "jihoafrického",
+        "kanadského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bohumil Eiselt",
+      "values": [
+        "irského",
+        "českého",
+        "jihoafrického",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Philipp Terč",
+      "values": [
+        "amerického",
+        "slovenského",
+        "kanadského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Samuel von Basch",
+      "values": [
+        "rakouského",
+        "irského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Břetislav Lyčka",
+      "values": [
+        "švýcarského",
+        "australského",
+        "českého",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "John Carew Eccles",
+      "values": [
+        "australského",
+        "britského",
+        "jihoafrického",
+        "afghánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavel Jansa",
+      "values": [
+        "slovenského",
+        "kanadského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

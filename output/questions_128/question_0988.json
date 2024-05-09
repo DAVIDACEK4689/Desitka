@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Lukáš Hradecký",
+      "values": [
+        "finského",
+        "norského",
+        "bulharského",
+        "kamerunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Diego Simeone",
+      "values": [
+        "finského",
+        "ukrajinského",
+        "argentinského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Álvaro Morata",
+      "values": [
+        "španělského",
+        "uruguayského",
+        "francouzského",
+        "islandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Léonard Kweuke",
+      "values": [
+        "portugalského",
+        "kamerunského",
+        "ghanského",
+        "zimbabwského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adriano Leite Ribeiro",
+      "values": [
+        "norského",
+        "brazilského",
+        "finského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "César Azpilicueta",
+      "values": [
+        "černohorského",
+        "španělského",
+        "kamerunského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Denis Law",
+      "values": [
+        "kanadského",
+        "slovenského",
+        "nigerijského",
+        "skotského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jorge Campos",
+      "values": [
+        "kolumbijského",
+        "mexického",
+        "baskického",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dejan Kulusevski",
+      "values": [
+        "brazilského",
+        "dánského",
+        "švédského",
+        "bulharského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roberto Donadoni",
+      "values": [
+        "skotského",
+        "portugalského",
+        "italského",
+        "chorvatského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

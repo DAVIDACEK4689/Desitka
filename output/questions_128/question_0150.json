@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte obor podle průkopníka",
+  "questions": [
+    {
+      "key": "Blaise Pascal",
+      "values": [
+        "internet",
+        "sport",
+        "automobilismus",
+        "počítač"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ada Lovelace",
+      "values": [
+        "kinematografie",
+        "automobilismus",
+        "počítač",
+        "letectví"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Charles Babbage",
+      "values": [
+        "automobilismus",
+        "letectví",
+        "kinematografie",
+        "počítač"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ivan Sutherland",
+      "values": [
+        "sport",
+        "internet",
+        "železnice",
+        "automobilismus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nicolaus Otto",
+      "values": [
+        "sport",
+        "automobilismus",
+        "kinematografie",
+        "železnice"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Richard Stallman",
+      "values": [
+        "počítač",
+        "letectví",
+        "internet",
+        "automobilismus"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marc Andreessen",
+      "values": [
+        "letectví",
+        "automobilismus",
+        "kinematografie",
+        "internet"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "George Boole",
+      "values": [
+        "sport",
+        "počítač",
+        "kinematografie",
+        "automobilismus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "William Boeing",
+      "values": [
+        "automobilismus",
+        "kinematografie",
+        "sport",
+        "letectví"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Clive Sinclair",
+      "values": [
+        "kinematografie",
+        "sport",
+        "počítač",
+        "internet"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Kolja",
+      "values": [
+        "Ivan Passer",
+        "Jan Svěrák",
+        "David Ondříček",
+        "Bořivoj Zeman"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tajemství hradu v Karpatech",
+      "values": [
+        "Jan Schmidt",
+        "Věra Chytilová",
+        "Hynek Bočan",
+        "Oldřich Lipský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Panna a netvor",
+      "values": [
+        "Juraj Herz",
+        "Zdeněk Podskalský",
+        "Dušan Klein",
+        "Martin Frič"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ztracená brána",
+      "values": [
+        "Zdeněk Tyc",
+        "Jiří Strach",
+        "Marie Poledňáková",
+        "Dušan Klein"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ukradená vzducholoď",
+      "values": [
+        "Zdeněk Troška",
+        "Karel Zeman",
+        "Jan Schmidt",
+        "Karel Smyczek"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Akumulátor 1",
+      "values": [
+        "Zdeněk Troška",
+        "Vojtěch Jasný",
+        "Karel Zeman",
+        "Jan Svěrák"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Něžné vlny",
+      "values": [
+        "Karel Zeman",
+        "Bořivoj Zeman",
+        "Evald Schorm",
+        "Jiří Vejdělek"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pravidla lži",
+      "values": [
+        "Miloš Forman",
+        "Robert Sedláček",
+        "Miloslav Šmídmajer",
+        "Evald Schorm"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rodina je základ státu",
+      "values": [
+        "Vít Olmer",
+        "Zbyněk Brynych",
+        "Václav Vorlíček",
+        "Robert Sedláček"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ene bene",
+      "values": [
+        "Otakar Vávra",
+        "Alice Nellis",
+        "Zdeněk Podskalský",
+        "Ladislav Smoljak"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

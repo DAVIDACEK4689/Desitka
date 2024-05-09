@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle politické strany",
+  "questions": [
+    {
+      "key": "Sudetoněmecká strana",
+      "values": [
+        "Izrael",
+        "Švédsko",
+        "Libanon",
+        "Československo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sme rodina",
+      "values": [
+        "Slovensko",
+        "Pero",
+        "Izrael",
+        "Československo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marek Hilšer do Senátu",
+      "values": [
+        "Řecko",
+        "Polsko",
+        "Česko",
+        "Argentina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nezávislí",
+      "values": [
+        "Pero",
+        "Česko",
+        "Irsko",
+        "Rakousko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Britská unie fašistů",
+      "values": [
+        "Česko",
+        "Polsko",
+        "Spojené království",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "MPLA",
+      "values": [
+        "Itálie",
+        "Spojené království",
+        "Irsko",
+        "Angola"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Liberálně sociální unie",
+      "values": [
+        "Československo",
+        "Spojené království",
+        "Ukrajina",
+        "Irsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Katáib",
+      "values": [
+        "Nizozemsko",
+        "Libanon",
+        "Polsko",
+        "Turecko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kachol lavan",
+      "values": [
+        "Slovinsko",
+        "Maďarsko",
+        "Německo",
+        "Izrael"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "NEOS",
+      "values": [
+        "Rusko",
+        "Rakousko",
+        "Jihoafrická republika",
+        "Argentina"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

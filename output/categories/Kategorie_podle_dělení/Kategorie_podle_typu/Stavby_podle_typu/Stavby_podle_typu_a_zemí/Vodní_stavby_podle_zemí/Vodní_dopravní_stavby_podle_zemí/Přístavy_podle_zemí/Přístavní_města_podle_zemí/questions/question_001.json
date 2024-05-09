@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Benátky",
+      "values": [
+        "Itálie",
+        "Dánsko",
+        "Francie",
+        "Portugalsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kaliningrad",
+      "values": [
+        "Rusko",
+        "Izrael",
+        "Norsko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gdaňsk",
+      "values": [
+        "Polsko",
+        "Dánsko",
+        "Švédsko",
+        "Portugalsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Málaga",
+      "values": [
+        "Francie",
+        "Brazílie",
+        "Turecko",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tel Aviv",
+      "values": [
+        "Japonsko",
+        "Chorvatsko",
+        "Ukrajina",
+        "Izrael"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dublin",
+      "values": [
+        "Irsko",
+        "Egypt",
+        "Finsko",
+        "Turecko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Valencie",
+      "values": [
+        "Švédsko",
+        "Irsko",
+        "Turecko",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rio de Janeiro",
+      "values": [
+        "Brazílie",
+        "Ukrajina",
+        "Polsko",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hurghada",
+      "values": [
+        "Egypt",
+        "Francie",
+        "Japonsko",
+        "Lotyšsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marsá Alam",
+      "values": [
+        "Lotyšsko",
+        "Egypt",
+        "Španělsko",
+        "Ukrajina"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

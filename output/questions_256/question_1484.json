@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fyzika?",
+  "questions": [
+    {
+      "key": "Benjamin Franklin",
+      "values": [
+        "francouzského",
+        "íránského",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Wilhelm Conrad Röntgen",
+      "values": [
+        "českého",
+        "irského",
+        "íránského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Henri Becquerel",
+      "values": [
+        "francouzského",
+        "britského",
+        "italského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michail Lomonosov",
+      "values": [
+        "kanadského",
+        "ruského",
+        "rumunského",
+        "dánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ernest Orlando Lawrence",
+      "values": [
+        "amerického",
+        "maďarského",
+        "dánského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Heinrich Hertz",
+      "values": [
+        "německého",
+        "švédského",
+        "italského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Adam Scheinherr",
+      "values": [
+        "českého",
+        "švédského",
+        "britského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Henry Cavendish",
+      "values": [
+        "britského",
+        "srbského",
+        "rakouského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Thomas Young",
+      "values": [
+        "českého",
+        "britského",
+        "srbského",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Daniel Bernoulli",
+      "values": [
+        "švýcarského",
+        "českého",
+        "švédského",
+        "srbského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

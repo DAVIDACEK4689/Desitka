@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filozofa?",
+  "questions": [
+    {
+      "key": "Jan Patočka",
+      "values": [
+        "rakouského",
+        "egyptského",
+        "českého",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rudolf Steiner",
+      "values": [
+        "maďarského",
+        "irského",
+        "španělského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Henry David Thoreau",
+      "values": [
+        "amerického",
+        "bulharského",
+        "řeckého",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Walter Benjamin",
+      "values": [
+        "německého",
+        "polského",
+        "italského",
+        "byzantského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Džaláleddín Balchí Rúmí",
+      "values": [
+        "indického",
+        "perského",
+        "australského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Georg Cantor",
+      "values": [
+        "čínského",
+        "byzantského",
+        "polského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mahariši Maheš Jógi",
+      "values": [
+        "perského",
+        "italského",
+        "indického",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Giambattista Vico",
+      "values": [
+        "německého",
+        "amerického",
+        "nizozemského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Díogenés Laertios",
+      "values": [
+        "čínského",
+        "řeckého",
+        "švýcarského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Amedeo Molnár",
+      "values": [
+        "čínského",
+        "brazilského",
+        "českého",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

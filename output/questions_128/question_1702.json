@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zločince?",
+  "questions": [
+    {
+      "key": "David Rath",
+      "values": [
+        "maďarského",
+        "britského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pavel Minařík",
+      "values": [
+        "německého",
+        "italského",
+        "českého",
+        "mexického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Charles Sobhraj",
+      "values": [
+        "francouzského",
+        "slovenského",
+        "izraelského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Peter Scully",
+      "values": [
+        "bulharského",
+        "jihoafrického",
+        "australského",
+        "izraelského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Viktor But",
+      "values": [
+        "britského",
+        "německého",
+        "ruského",
+        "jihoafrického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ladislav Mácha",
+      "values": [
+        "ukrajinského",
+        "jihoafrického",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Andreas Baader",
+      "values": [
+        "francouzského",
+        "australského",
+        "italského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dmitrij Timofejevič Jazov",
+      "values": [
+        "izraelského",
+        "ruského",
+        "italského",
+        "jihoafrického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Béla Kiss",
+      "values": [
+        "britského",
+        "ukrajinského",
+        "maďarského",
+        "izraelského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Salvatore Giuliano",
+      "values": [
+        "britského",
+        "francouzského",
+        "italského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

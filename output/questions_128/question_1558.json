@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte město podle firmy",
+  "questions": [
+    {
+      "key": "Tchibo",
+      "values": [
+        "Mnichov",
+        "Amsterdam",
+        "Vídeň",
+        "Hamburk"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "KBC Bank",
+      "values": [
+        "Brusel",
+        "Amsterdam",
+        "Mnichov",
+        "Vídeň"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "AEG",
+      "values": [
+        "Amsterdam",
+        "Brusel",
+        "Mnichov",
+        "Frankfurt nad Mohanem"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "MAN",
+      "values": [
+        "Berlín",
+        "Mnichov",
+        "Frankfurt nad Mohanem",
+        "Hamburk"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Deutsche Bank",
+      "values": [
+        "Hamburk",
+        "Frankfurt nad Mohanem",
+        "Mnichov",
+        "Amsterdam"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Café Hawelka",
+      "values": [
+        "Mnichov",
+        "Vídeň",
+        "Berlín",
+        "Frankfurt nad Mohanem"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Foodora",
+      "values": [
+        "Brusel",
+        "Vídeň",
+        "Hamburk",
+        "Berlín"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Crytek",
+      "values": [
+        "Mnichov",
+        "Berlín",
+        "Frankfurt nad Mohanem",
+        "Vídeň"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hotel Adlon",
+      "values": [
+        "Berlín",
+        "Frankfurt nad Mohanem",
+        "Hamburk",
+        "Amsterdam"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "CNH Industrial",
+      "values": [
+        "Frankfurt nad Mohanem",
+        "Hamburk",
+        "Berlín",
+        "Amsterdam"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] operu?",
+  "questions": [
+    {
+      "key": "Opera v Sydney",
+      "values": [
+        "australskou",
+        "německou",
+        "americkou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Národní divadlo Brno",
+      "values": [
+        "francouzskou",
+        "českou",
+        "rakouskou",
+        "australskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "La Scala",
+      "values": [
+        "rakouskou",
+        "italskou",
+        "českou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Prozatímní divadlo",
+      "values": [
+        "českou",
+        "ruskou",
+        "italskou",
+        "britskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vídeňská státní opera",
+      "values": [
+        "australskou",
+        "německou",
+        "britskou",
+        "rakouskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Metropolitní opera",
+      "values": [
+        "českou",
+        "americkou",
+        "rakouskou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Smetanova Litomyšl",
+      "values": [
+        "českou",
+        "italskou",
+        "německou",
+        "rakouskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Velké divadlo",
+      "values": [
+        "českou",
+        "ruskou",
+        "francouzskou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Royal Opera House",
+      "values": [
+        "ruskou",
+        "britskou",
+        "italskou",
+        "německou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Opéra national de Paris",
+      "values": [
+        "australskou",
+        "francouzskou",
+        "českou",
+        "rakouskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

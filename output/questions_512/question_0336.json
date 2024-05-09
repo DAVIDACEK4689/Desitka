@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] literaturu?",
+  "questions": [
+    {
+      "key": "Čtyři dohody",
+      "values": [
+        "islandskou",
+        "mexickou",
+        "německou",
+        "indickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Májovci",
+      "values": [
+        "českou",
+        "francouzskou",
+        "švýcarskou",
+        "islandskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Manga",
+      "values": [
+        "španělskou",
+        "italskou",
+        "japonskou",
+        "belgickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ruchovci",
+      "values": [
+        "italskou",
+        "českou",
+        "francouzskou",
+        "mexickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kámasútra",
+      "values": [
+        "japonskou",
+        "americkou",
+        "mexickou",
+        "indickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sturm und Drang",
+      "values": [
+        "americkou",
+        "německou",
+        "italskou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zbytečný člověk",
+      "values": [
+        "ruskou",
+        "italskou",
+        "britskou",
+        "španělskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mrtvé duše",
+      "values": [
+        "indickou",
+        "ruskou",
+        "mexickou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Guru",
+      "values": [
+        "britskou",
+        "ruskou",
+        "francouzskou",
+        "indickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tintin",
+      "values": [
+        "indickou",
+        "belgickou",
+        "španělskou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

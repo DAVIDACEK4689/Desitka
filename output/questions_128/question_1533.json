@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Georg Friedrich Händel",
+      "values": [
+        "ukrajinského",
+        "rumunského",
+        "německého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Hannig",
+      "values": [
+        "belgického",
+        "arménského",
+        "českého",
+        "brazilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Giovanni Pierluigi da Palestrina",
+      "values": [
+        "italského",
+        "ruského",
+        "belgického",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ivan Tásler",
+      "values": [
+        "slovenského",
+        "slovinského",
+        "maďarského",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Astrud Gilberto",
+      "values": [
+        "rumunského",
+        "kanadského",
+        "brazilského",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mick Gordon",
+      "values": [
+        "australského",
+        "rakouského",
+        "norského",
+        "slovinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexandr Glazunov",
+      "values": [
+        "finského",
+        "švýcarského",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chip Taylor",
+      "values": [
+        "ukrajinského",
+        "slovenského",
+        "amerického",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Trevor Rabin",
+      "values": [
+        "litevského",
+        "ukrajinského",
+        "kanadského",
+        "jihoafrického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Berg",
+      "values": [
+        "irského",
+        "brazilského",
+        "rumunského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

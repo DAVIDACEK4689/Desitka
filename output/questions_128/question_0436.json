@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Bari",
+      "values": [
+        "Guinea",
+        "Itálie",
+        "Alžírsko",
+        "Norsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lagos",
+      "values": [
+        "Nigérie",
+        "Západní Sahara",
+        "Ázerbájdžán",
+        "Kypr"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kotor",
+      "values": [
+        "Kypr",
+        "Alžírsko",
+        "Černá Hora",
+        "Indonésie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "La Rochelle",
+      "values": [
+        "Albánie",
+        "Namibie",
+        "Maroko",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dahab",
+      "values": [
+        "Venezuela",
+        "Egypt",
+        "Senegal",
+        "Kamerun"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Savona",
+      "values": [
+        "Maroko",
+        "Jamajka",
+        "Itálie",
+        "Jemen"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Liepāja",
+      "values": [
+        "Saúdská Arábie",
+        "Lotyšsko",
+        "Libye",
+        "Indonésie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Willemstad",
+      "values": [
+        "Tanzanie",
+        "Tunisko",
+        "Jemen",
+        "Nizozemsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Latákie",
+      "values": [
+        "Sýrie",
+        "Alžírsko",
+        "Lotyšsko",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Port Blair",
+      "values": [
+        "Kazachstán",
+        "Finsko",
+        "Jihoafrická republika",
+        "Indie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

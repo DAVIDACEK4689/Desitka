@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [typ] organizaci?",
+  "questions": [
+    {
+      "key": "Mezinárodní červený kříž",
+      "values": [
+        "zdravotnickou",
+        "ekologickou",
+        "politickou",
+        "partyzánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hospodářské společenství západoafrických států",
+      "values": [
+        "mezinárodní",
+        "šlechtickou",
+        "zločineckou",
+        "ekologickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kosovská osvobozenecká armáda",
+      "values": [
+        "vědeckou",
+        "partyzánskou",
+        "mezinárodní",
+        "šlechtickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Solncevská mafie",
+      "values": [
+        "fiktivní",
+        "zločineckou",
+        "leteckou",
+        "ekologickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Prozatímní irská republikánská armáda",
+      "values": [
+        "jazykovou",
+        "humanitární",
+        "fotografickou",
+        "partyzánskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Human Rights Watch",
+      "values": [
+        "náboženskou",
+        "fiktivní",
+        "šlechtickou",
+        "mezinárodní"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Asociace pro mezinárodní otázky",
+      "values": [
+        "vzdělávací",
+        "ekologickou",
+        "hospodářskou",
+        "jazykovou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Světová rada míru",
+      "values": [
+        "náboženskou",
+        "mezinárodní",
+        "politickou",
+        "leteckou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Instituto Cervantes",
+      "values": [
+        "vědeckou",
+        "ekologickou",
+        "jazykovou",
+        "šlechtickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Velitelství Hvězdné brány",
+      "values": [
+        "zločineckou",
+        "fiktivní",
+        "mezinárodní",
+        "leteckou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

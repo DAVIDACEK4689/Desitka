@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalistu?",
+  "questions": [
+    {
+      "key": "Ferenc Puskás",
+      "values": [
+        "peruánského",
+        "kanadského",
+        "španělského",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "José Antonio Reyes",
+      "values": [
+        "španělského",
+        "francouzského",
+        "baskického",
+        "bulharského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gabriel Batistuta",
+      "values": [
+        "kanadského",
+        "argentinského",
+        "baskického",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rijád Mahriz",
+      "values": [
+        "severoirského",
+        "finského",
+        "francouzského",
+        "černohorského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "André Schürrle",
+      "values": [
+        "německého",
+        "panamského",
+        "peruánského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dries Mertens",
+      "values": [
+        "belgického",
+        "srbského",
+        "španělského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jack Charlton",
+      "values": [
+        "anglického",
+        "francouzského",
+        "řeckého",
+        "ghanského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Quincy Promes",
+      "values": [
+        "řeckého",
+        "kamerunského",
+        "nigerijského",
+        "nizozemského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marcos Llorente",
+      "values": [
+        "kosovského",
+        "amerického",
+        "slovenského",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Guram Kašia",
+      "values": [
+        "srbského",
+        "venezuelského",
+        "gruzínského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Sofie",
+      "values": [
+        "Turkmenistán",
+        "Bělorusko",
+        "Bulharsko",
+        "Uzbekistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pula",
+      "values": [
+        "Chorvatsko",
+        "Maroko",
+        "Indonésie",
+        "Austrálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kuala Lumpur",
+      "values": [
+        "Malajsie",
+        "Izrael",
+        "Tunisko",
+        "Brazílie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Larnaka",
+      "values": [
+        "Černá Hora",
+        "Turkmenistán",
+        "Kypr",
+        "Pákistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Antiochie",
+      "values": [
+        "Turecko",
+        "Egypt",
+        "Slovinsko",
+        "Rumunsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Šibenik",
+      "values": [
+        "Černá Hora",
+        "Chorvatsko",
+        "Pákistán",
+        "Ekvádor"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chania",
+      "values": [
+        "Kambodža",
+        "Řecko",
+        "Nepál",
+        "Finsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lemesos",
+      "values": [
+        "Nepál",
+        "Indie",
+        "Česko",
+        "Kypr"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bloemfontein",
+      "values": [
+        "Ázerbájdžán",
+        "Jihoafrická republika",
+        "Írán",
+        "Brazílie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bursa",
+      "values": [
+        "Estonsko",
+        "Turecko",
+        "Mongolsko",
+        "Somálsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

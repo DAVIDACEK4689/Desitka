@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Ronaldinho",
+      "values": [
+        "argentinského",
+        "belgického",
+        "brazilského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomáš Petrášek",
+      "values": [
+        "skotského",
+        "kolumbijského",
+        "slovenského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kevin De Bruyne",
+      "values": [
+        "rakouského",
+        "švýcarského",
+        "belgického",
+        "ekvádorského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pepe",
+      "values": [
+        "portugalského",
+        "ekvádorského",
+        "kostarického",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Hübschman",
+      "values": [
+        "brazilského",
+        "českého",
+        "švýcarského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jindřich Staněk",
+      "values": [
+        "švýcarského",
+        "brazilského",
+        "českého",
+        "argentinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "André Onana",
+      "values": [
+        "nizozemského",
+        "kamerunského",
+        "československého",
+        "egyptského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vladimír Darida",
+      "values": [
+        "belgického",
+        "chorvatského",
+        "australského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Rozehnal",
+      "values": [
+        "brazilského",
+        "českého",
+        "uruguayského",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miroslav Klose",
+      "values": [
+        "německého",
+        "brazilského",
+        "italského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

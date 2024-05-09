@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] právníka?",
+  "questions": [
+    {
+      "key": "Emil Hácha",
+      "values": [
+        "řeckého",
+        "českého",
+        "slovenského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michelle Obamová",
+      "values": [
+        "řeckého",
+        "amerického",
+        "britského",
+        "peruánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zdeněk Mlynář",
+      "values": [
+        "českého",
+        "rakouského",
+        "lotyšského",
+        "peruánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jaroslav Krejčí",
+      "values": [
+        "českého",
+        "argentinského",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gerhard Schröder",
+      "values": [
+        "německého",
+        "estonského",
+        "francouzského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Katerina Sakellaropulosová",
+      "values": [
+        "ukrajinského",
+        "rakouského",
+        "řeckého",
+        "srbského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miroslav Antl",
+      "values": [
+        "ukrajinského",
+        "českého",
+        "lotyšského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František August Brauner",
+      "values": [
+        "německého",
+        "českého",
+        "polského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dragutin Pelikán",
+      "values": [
+        "francouzského",
+        "českého",
+        "řeckého",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jozef Moravčík",
+      "values": [
+        "peruánského",
+        "slovenského",
+        "polského",
+        "britského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

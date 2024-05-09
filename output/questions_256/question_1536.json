@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Chantal Poullain",
+      "values": [
+        "brazilskou",
+        "kanadskou",
+        "finskou",
+        "francouzskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eva Pilarová",
+      "values": [
+        "japonskou",
+        "českou",
+        "americkou",
+        "finskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nico",
+      "values": [
+        "německou",
+        "švédskou",
+        "slovenskou",
+        "izraelskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Aaliyah",
+      "values": [
+        "peruánskou",
+        "ukrajinskou",
+        "americkou",
+        "izraelskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cass Elliot",
+      "values": [
+        "australskou",
+        "polskou",
+        "americkou",
+        "novozélandskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Candice King",
+      "values": [
+        "japonskou",
+        "americkou",
+        "švédskou",
+        "mexickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Olivie Coco Rafajová",
+      "values": [
+        "nizozemskou",
+        "švýcarskou",
+        "japonskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sabrina Carpenter",
+      "values": [
+        "maďarskou",
+        "jihokorejskou",
+        "americkou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Angela Gossow",
+      "values": [
+        "peruánskou",
+        "britskou",
+        "brazilskou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Markéta Vojtěchová Ambrožová",
+      "values": [
+        "americkou",
+        "českou",
+        "norskou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [národnost] marxistu?",
+  "questions": [
+    {
+      "key": "Vladimir Iljič Lenin",
+      "values": [
+        "italského",
+        "rakouského",
+        "ruského",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dean Reed",
+      "values": [
+        "německého",
+        "ruského",
+        "italského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Friedrich Engels",
+      "values": [
+        "chilského",
+        "českého",
+        "ruského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Uhl",
+      "values": [
+        "českého",
+        "rakouského",
+        "francouzského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Salvador Allende",
+      "values": [
+        "slovinského",
+        "německého",
+        "chilského",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Simone de Beauvoir",
+      "values": [
+        "chilského",
+        "francouzského",
+        "slovinského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Antonio Gramsci",
+      "values": [
+        "italského",
+        "rakouského",
+        "chilského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Elfriede Jelineková",
+      "values": [
+        "slovinského",
+        "rakouského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Milan Machovec",
+      "values": [
+        "chilského",
+        "českého",
+        "amerického",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Herbert Marcuse",
+      "values": [
+        "chilského",
+        "amerického",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

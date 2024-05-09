@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte sport podle československého sportovce",
+  "questions": [
+    {
+      "key": "Jaromír Jágr",
+      "values": [
+        "fotbalista",
+        "kanoista",
+        "lední hokejista",
+        "automobilový závodník"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vlasta Burian",
+      "values": [
+        "tenista",
+        "automobilový závodník",
+        "kanoista",
+        "fotbalista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Klíma",
+      "values": [
+        "tenista",
+        "lední hokejista",
+        "fotbalista",
+        "kanoista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vladimír Růžička",
+      "values": [
+        "automobilový závodník",
+        "tenista",
+        "fotbalista",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miloš Havel",
+      "values": [
+        "tenista",
+        "lední hokejista",
+        "fotbalista",
+        "automobilový závodník"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Bican",
+      "values": [
+        "lední hokejista",
+        "automobilový závodník",
+        "tenista",
+        "fotbalista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Dopita",
+      "values": [
+        "lední hokejista",
+        "automobilový závodník",
+        "tenista",
+        "kanoista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lukáš Pollert",
+      "values": [
+        "tenista",
+        "kanoista",
+        "automobilový závodník",
+        "lední hokejista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivan Lendl",
+      "values": [
+        "fotbalista",
+        "lední hokejista",
+        "tenista",
+        "automobilový závodník"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eliška Junková",
+      "values": [
+        "tenista",
+        "kanoista",
+        "fotbalista",
+        "automobilový závodník"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

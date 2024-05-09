@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] ledního hokejistu?",
+  "questions": [
+    {
+      "key": "Tomáš Plekanec",
+      "values": [
+        "kanadského",
+        "českého",
+        "švýcarského",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michal Neuvirth",
+      "values": [
+        "českého",
+        "německého",
+        "ruského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kevin Fiala",
+      "values": [
+        "slovenského",
+        "švýcarského",
+        "slovinského",
+        "československého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Augustin Bubník",
+      "values": [
+        "sovětského",
+        "rakouského",
+        "československého",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ondřej Kacetl",
+      "values": [
+        "rakouského",
+        "českého",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zbyněk Michálek",
+      "values": [
+        "rakouského",
+        "českého",
+        "německého",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marián Hossa",
+      "values": [
+        "slovenského",
+        "českého",
+        "slovinského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Teemu Selänne",
+      "values": [
+        "finského",
+        "československého",
+        "slovinského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dominik Kahun",
+      "values": [
+        "ruského",
+        "slovinského",
+        "německého",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luděk Bukač",
+      "values": [
+        "československého",
+        "švýcarského",
+        "rakouského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

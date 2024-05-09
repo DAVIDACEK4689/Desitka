@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle válku",
+  "questions": [
+    {
+      "key": "Sovětská válka v Afghánistánu",
+      "values": [
+        "Ukrajina",
+        "Pákistán",
+        "Spojené království",
+        "Chorvatsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Druhá světová válka v Tichomoří",
+      "values": [
+        "Anglie",
+        "Pákistán",
+        "Austrálie",
+        "Uganda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Punské války",
+      "values": [
+        "starověký Řím",
+        "Pákistán",
+        "Súdán",
+        "Uganda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Druhá čečenská válka",
+      "values": [
+        "Spojené království",
+        "Polsko",
+        "Rusko",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Konflikt v Severním Irsku",
+      "values": [
+        "Spojené království",
+        "starověký Řím",
+        "Česko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alžírská válka",
+      "values": [
+        "Francie",
+        "Česko",
+        "Rusko",
+        "Izrael"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "První židovská válka",
+      "values": [
+        "Izrael",
+        "Anglie",
+        "Rusko",
+        "starověký Řím"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Druhá búrská válka",
+      "values": [
+        "Polsko",
+        "Pákistán",
+        "Austrálie",
+        "Anglie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Občanská válka v Somálsku",
+      "values": [
+        "Súdán",
+        "Izrael",
+        "Uganda",
+        "Austrálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Konflikt v Dárfúru",
+      "values": [
+        "Sovětský svaz",
+        "Chorvatsko",
+        "Ukrajina",
+        "Súdán"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

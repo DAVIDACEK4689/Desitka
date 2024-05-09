@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle prezidenta",
+  "questions": [
+    {
+      "key": "Zuzana Čaputová",
+      "values": [
+        "Moldavsko",
+        "Slovensko",
+        "Kosovo",
+        "Egypt"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Boris Jelcin",
+      "values": [
+        "Řecko",
+        "Ázerbájdžán",
+        "Rusko",
+        "Turkmenistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Viktor Juščenko",
+      "values": [
+        "Ukrajina",
+        "Mosambik",
+        "Gruzie",
+        "Somálsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gamál Násir",
+      "values": [
+        "Čečenci",
+        "Niger",
+        "Řecko",
+        "Egypt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Benito Juárez",
+      "values": [
+        "Bulharsko",
+        "Island",
+        "Lotyšsko",
+        "Mexiko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Leonid Kravčuk",
+      "values": [
+        "Pero",
+        "Ukrajina",
+        "Československo",
+        "Salvador"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mahmúd Ahmadínežád",
+      "values": [
+        "Bělorusko",
+        "Albánie",
+        "Írán",
+        "Maďarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sukarno",
+      "values": [
+        "Island",
+        "Čečenci",
+        "Indonésie",
+        "Burkina Faso"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nguyễn Phú Trọng",
+      "values": [
+        "Slovinsko",
+        "Francie",
+        "Mexiko",
+        "Vietnam"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "László Sólyom",
+      "values": [
+        "Maďarsko",
+        "Argentina",
+        "Itálie",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

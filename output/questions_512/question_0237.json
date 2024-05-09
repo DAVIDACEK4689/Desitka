@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [typ] stavbu?",
+  "questions": [
+    {
+      "key": "Sedm divů světa",
+      "values": [
+        "dopravní",
+        "průmyslovou",
+        "podzemní",
+        "historickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Metro",
+      "values": [
+        "podzemní",
+        "průmyslovou",
+        "zemědělskou",
+        "zahradní"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stoupání",
+      "values": [
+        "historickou",
+        "zemědělskou",
+        "průmyslovou",
+        "dopravní"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Věznice",
+      "values": [
+        "podzemní",
+        "zemědělskou",
+        "zahradní",
+        "obytnou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zwinger",
+      "values": [
+        "dopravní",
+        "historickou",
+        "průmyslovou",
+        "udržitelnou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pozemní komunikace",
+      "values": [
+        "obytnou",
+        "podzemní",
+        "zahradní",
+        "dopravní"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ropná rafinerie",
+      "values": [
+        "podzemní",
+        "dopravní",
+        "udržitelnou",
+        "průmyslovou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Poplužní dvůr",
+      "values": [
+        "dopravní",
+        "zahradní",
+        "historickou",
+        "zemědělskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Silo",
+      "values": [
+        "obytnou",
+        "zemědělskou",
+        "podzemní",
+        "historickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chodník",
+      "values": [
+        "zahradní",
+        "zemědělskou",
+        "průmyslovou",
+        "dopravní"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

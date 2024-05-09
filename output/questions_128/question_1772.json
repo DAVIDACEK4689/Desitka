@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle narození",
+  "questions": [
+    {
+      "key": "Rafael Nadal",
+      "values": [
+        "Rumunsko",
+        "Španělsko",
+        "Brazílie",
+        "Maroko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eusébio",
+      "values": [
+        "Mosambik",
+        "Myanmar",
+        "Slovinsko",
+        "Izrael"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gennadij Židko",
+      "values": [
+        "Nový Zéland",
+        "Thajsko",
+        "Španělsko",
+        "Uzbekistán"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aleksandar Mitrović",
+      "values": [
+        "Kyrgyzstán",
+        "Srbsko",
+        "Nigérie",
+        "Egypt"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kaisa Mäkäräinenová",
+      "values": [
+        "Finsko",
+        "Uzbekistán",
+        "Paraguay",
+        "Kazachstán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alfredo Stroessner",
+      "values": [
+        "Japonsko",
+        "Paraguay",
+        "Mosambik",
+        "Senegal"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Igor Dodon",
+      "values": [
+        "Gambie",
+        "Nepál",
+        "Kosovo",
+        "Moldavsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Trevor Taylor",
+      "values": [
+        "Panama",
+        "Svatá Lucie",
+        "Chorvatsko",
+        "Jamajka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Do Thu Trang",
+      "values": [
+        "Vietnam",
+        "Maroko",
+        "Lotyšsko",
+        "Černá Hora"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Camila Osoriová",
+      "values": [
+        "Venezuela",
+        "Severní Korea",
+        "Bělorusko",
+        "Kolumbie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

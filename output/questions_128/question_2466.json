@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filozofa?",
+  "questions": [
+    {
+      "key": "Anna Hogenová",
+      "values": [
+        "polského",
+        "bulharského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miloslav Ransdorf",
+      "values": [
+        "českého",
+        "nizozemského",
+        "švýcarského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ivan Iljin",
+      "values": [
+        "ruského",
+        "slovenského",
+        "italského",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Roland Barthes",
+      "values": [
+        "francouzského",
+        "nizozemského",
+        "švédského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chrýsippos ze Soloi",
+      "values": [
+        "řeckého",
+        "českého",
+        "perského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bruno Latour",
+      "values": [
+        "indického",
+        "amerického",
+        "francouzského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivan Sviták",
+      "values": [
+        "českého",
+        "egyptského",
+        "švýcarského",
+        "byzantského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marek Hrubec",
+      "values": [
+        "irského",
+        "ruského",
+        "českého",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Konfršt",
+      "values": [
+        "amerického",
+        "českého",
+        "maďarského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Otto Neurath",
+      "values": [
+        "indického",
+        "maďarského",
+        "ruského",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

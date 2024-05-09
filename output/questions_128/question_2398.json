@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "São Paulo",
+      "values": [
+        "Norsko",
+        "Libérie",
+        "Konžská republika",
+        "Brazílie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ochrid",
+      "values": [
+        "Niger",
+        "Nepál",
+        "Pákistán",
+        "Severní Makedonie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pattaya",
+      "values": [
+        "Malajsie",
+        "Thajsko",
+        "Finsko",
+        "Alžírsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Espoo",
+      "values": [
+        "Alžírsko",
+        "Chorvatsko",
+        "Finsko",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Guimarães",
+      "values": [
+        "Angola",
+        "Jižní Korea",
+        "Portugalsko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sliema",
+      "values": [
+        "Botswana",
+        "Gambie",
+        "Benin",
+        "Malta"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Samarra",
+      "values": [
+        "Brazílie",
+        "Irák",
+        "Jižní Korea",
+        "Laos"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Logroño",
+      "values": [
+        "Jihoafrická republika",
+        "Norsko",
+        "Španělsko",
+        "Malajsie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jonava",
+      "values": [
+        "Írán",
+        "Česko",
+        "Litva",
+        "Černá Hora"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fécamp",
+      "values": [
+        "Vanuatu",
+        "Gabon",
+        "Francie",
+        "Saúdská Arábie"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

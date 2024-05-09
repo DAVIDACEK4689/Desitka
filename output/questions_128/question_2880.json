@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Zdeněk Troška",
+      "values": [
+        "českého",
+        "slovinského",
+        "italského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Woody Allen",
+      "values": [
+        "amerického",
+        "australského",
+        "maďarského",
+        "belgického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kiefer Sutherland",
+      "values": [
+        "irského",
+        "kanadského",
+        "estonského",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Luis Buñuel",
+      "values": [
+        "japonského",
+        "ukrajinského",
+        "španělského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vladimír Michálek",
+      "values": [
+        "islandského",
+        "irského",
+        "českého",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dave Franco",
+      "values": [
+        "českého",
+        "rakouského",
+        "amerického",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Otakáro Schmidt",
+      "values": [
+        "českého",
+        "belgického",
+        "amerického",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mathieu Kassovitz",
+      "values": [
+        "slovinského",
+        "australského",
+        "íránského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alexander Hackenschmied",
+      "values": [
+        "slovenského",
+        "chorvatského",
+        "švédského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stanislav Štepka",
+      "values": [
+        "finského",
+        "slovenského",
+        "rakouského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

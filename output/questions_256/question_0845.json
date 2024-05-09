@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Karlovy Vary",
+      "values": [
+        "Mandava",
+        "Bečva",
+        "Ohře",
+        "Volha"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bělehrad",
+      "values": [
+        "Dunaj",
+        "Loira",
+        "Malše",
+        "Hornád"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mnichovo Hradiště",
+      "values": [
+        "Lužická Nisa",
+        "Váha",
+        "Jizera",
+        "Temže"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ulm",
+      "values": [
+        "Úhlava",
+        "Dunaj",
+        "Visla",
+        "Radbuza"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Perugia",
+      "values": [
+        "Cidlina",
+        "Lužická Nisa",
+        "Tibera",
+        "Chrudimka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Smolensk",
+      "values": [
+        "Dněpr",
+        "Malše",
+        "Ploučnice",
+        "Loira"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Arnhem",
+      "values": [
+        "Rýn",
+        "Dněpr",
+        "Spréva",
+        "Dunaj"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kachovka",
+      "values": [
+        "Eufrat",
+        "Lužnice",
+        "Bečva",
+        "Dněpr"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Troyes",
+      "values": [
+        "Chrudimka",
+        "Dyje",
+        "Seina",
+        "Vltava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Liptovský Hrádok",
+      "values": [
+        "Úhlava",
+        "Malše",
+        "Sebnice",
+        "Váha"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

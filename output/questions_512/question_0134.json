@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Clint Eastwood",
+      "values": [
+        "venezuelského",
+        "chilského",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chris Hemsworth",
+      "values": [
+        "sovětského",
+        "tureckého",
+        "australského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michael Clarke Duncan",
+      "values": [
+        "slovenského",
+        "marockého",
+        "maďarského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Maroš Kramár",
+      "values": [
+        "marockého",
+        "slovenského",
+        "španělského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ladislav Gerendáš",
+      "values": [
+        "indického",
+        "českého",
+        "chilského",
+        "malajsijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Taika Waititi",
+      "values": [
+        "novozélandského",
+        "španělského",
+        "ukrajinského",
+        "čínského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Charlbi Dean",
+      "values": [
+        "chilského",
+        "maďarského",
+        "jihoafrického",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "David Arquette",
+      "values": [
+        "irského",
+        "malajsijského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sean Combs",
+      "values": [
+        "českého",
+        "amerického",
+        "francouzského",
+        "čínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Daniel Roesner",
+      "values": [
+        "australského",
+        "sovětského",
+        "německého",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

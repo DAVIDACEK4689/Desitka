@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle českého sportovce",
+  "questions": [
+    {
+      "key": "Lukáš Krpálek",
+      "values": [
+        "akrobatický letec",
+        "lyžař",
+        "šermíř",
+        "judista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Filip Sajler",
+      "values": [
+        "horolezec",
+        "automobilový závodník",
+        "golfista",
+        "jezdec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Nováček",
+      "values": [
+        "tenista",
+        "bojový umělec",
+        "lyžař",
+        "boxer"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lukáš Pech",
+      "values": [
+        "taekwondisté",
+        "rybář",
+        "kickboxeři",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Hirt",
+      "values": [
+        "kickboxeři",
+        "cyklista",
+        "jezdec",
+        "akrobatický letec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lukáš Došek",
+      "values": [
+        "šipkaři",
+        "kajakář",
+        "kickboxeři",
+        "fotbalista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jindřich Vodílek",
+      "values": [
+        "cyklista",
+        "lední hokejista",
+        "gymnasta",
+        "sportovní střelec"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Martin Červenka",
+      "values": [
+        "baseballisté",
+        "lyžař",
+        "judista",
+        "tenista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Čuhel",
+      "values": [
+        "lyžař",
+        "fotbalista",
+        "baseballisté",
+        "cyklista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alipi Kostadinov",
+      "values": [
+        "basketbalista",
+        "rybář",
+        "cyklista",
+        "sportovní střelec"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

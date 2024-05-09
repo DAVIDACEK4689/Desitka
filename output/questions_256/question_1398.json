@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte oblast podle ptáka",
+  "questions": [
+    {
+      "key": "Rehek domácí",
+      "values": [
+        "Tichý oceán",
+        "Afrika",
+        "Severní Amerika",
+        "Orientální oblast"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pštros dvouprstý",
+      "values": [
+        "Jižní Amerika",
+        "Střední Amerika",
+        "celosvětové rozšíření",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ara ararauna",
+      "values": [
+        "Severní Amerika",
+        "Tichý oceán",
+        "Střední Amerika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Perlička kropenatá",
+      "values": [
+        "Afrika",
+        "Orientální oblast",
+        "Antarktida",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Loskuták posvátný",
+      "values": [
+        "Severní Amerika",
+        "Orientální oblast",
+        "Střední Amerika",
+        "Antarktida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Konipas luční",
+      "values": [
+        "Antarktida",
+        "celosvětové rozšíření",
+        "Afrika",
+        "Jižní oceán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pelikán bílý",
+      "values": [
+        "Antarktida",
+        "Afrika",
+        "Jižní oceán",
+        "Atlantský oceán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sojka chocholatá",
+      "values": [
+        "Tichý oceán",
+        "Jižní Amerika",
+        "Atlantský oceán",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Papoušík škraboškový",
+      "values": [
+        "Jižní oceán",
+        "Atlantský oceán",
+        "Severní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Terej modronohý",
+      "values": [
+        "Severní Amerika",
+        "Střední Amerika",
+        "Tichý oceán",
+        "Jižní oceán"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

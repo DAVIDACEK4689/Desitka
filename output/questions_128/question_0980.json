@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] klavíristu?",
+  "questions": [
+    {
+      "key": "Petr Skoumal",
+      "values": [
+        "rakouského",
+        "čínského",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vítězslav Novák",
+      "values": [
+        "českého",
+        "maďarského",
+        "čínského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Carl Thomas Mozart",
+      "values": [
+        "ukrajinského",
+        "gruzínského",
+        "rakouského",
+        "izraelského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Miloš Bok",
+      "values": [
+        "slovenského",
+        "rakouského",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaroslava Vernerová Pěchočová",
+      "values": [
+        "maďarského",
+        "kanadského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ivo Kahánek",
+      "values": [
+        "českého",
+        "německého",
+        "amerického",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pierre Boulez",
+      "values": [
+        "norského",
+        "japonského",
+        "francouzského",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bill Evans",
+      "values": [
+        "amerického",
+        "britského",
+        "ukrajinského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Milij Alexejevič Balakirev",
+      "values": [
+        "ruského",
+        "japonského",
+        "maďarského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "La Monte Young",
+      "values": [
+        "amerického",
+        "britského",
+        "rakouského",
+        "německého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

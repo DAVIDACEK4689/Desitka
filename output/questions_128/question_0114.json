@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] hudbu?",
+  "questions": [
+    {
+      "key": "Klub 27",
+      "values": [
+        "moldavskou",
+        "jamajskou",
+        "slovenskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hymna Spojeného království",
+      "values": [
+        "ruskou",
+        "českou",
+        "britskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Adeste fideles",
+      "values": [
+        "britskou",
+        "francouzskou",
+        "moldavskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Trampská hudba",
+      "values": [
+        "francouzskou",
+        "japonskou",
+        "českou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fujara",
+      "values": [
+        "slovenskou",
+        "maďarskou",
+        "švédskou",
+        "mexickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jódlování",
+      "values": [
+        "americkou",
+        "rakouskou",
+        "portugalskou",
+        "kolumbijskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Na krásném modrém Dunaji",
+      "values": [
+        "rakouskou",
+        "českou",
+        "indickou",
+        "peruánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mariachi",
+      "values": [
+        "španělskou",
+        "švédskou",
+        "německou",
+        "mexickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mořské varhany",
+      "values": [
+        "britskou",
+        "chorvatskou",
+        "německou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Morin chuur",
+      "values": [
+        "jihokorejskou",
+        "jamajskou",
+        "mongolskou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

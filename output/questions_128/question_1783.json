@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Jack Kerouac",
+      "values": [
+        "rumunského",
+        "amerického",
+        "paraguayského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Amal Clooney",
+      "values": [
+        "britského",
+        "japonského",
+        "čínského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Daisy Mrázková",
+      "values": [
+        "irského",
+        "novozélandského",
+        "malajsijského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Palivec",
+      "values": [
+        "afghánského",
+        "českého",
+        "kubánského",
+        "estonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jozef Miloslav Hurban",
+      "values": [
+        "islandského",
+        "amerického",
+        "slovenského",
+        "tanzanského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robert van Gulik",
+      "values": [
+        "islandského",
+        "švýcarského",
+        "nizozemského",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Lukeš",
+      "values": [
+        "švýcarského",
+        "českého",
+        "malajsijského",
+        "islandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jonáš Záborský",
+      "values": [
+        "slovenského",
+        "polského",
+        "belgického",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Colm Tóibín",
+      "values": [
+        "albánského",
+        "dánského",
+        "chorvatského",
+        "irského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "José Echegaray y Eizaguirre",
+      "values": [
+        "litevského",
+        "španělského",
+        "německého",
+        "estonského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

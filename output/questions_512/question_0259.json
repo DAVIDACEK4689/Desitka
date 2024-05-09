@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "Pavel Fischer",
+      "values": [
+        "britského",
+        "portugalského",
+        "českého",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jennifer Lopez",
+      "values": [
+        "německého",
+        "amerického",
+        "maďarského",
+        "kanadského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sophia Lorenová",
+      "values": [
+        "italského",
+        "českého",
+        "kanadského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Ovčáček",
+      "values": [
+        "německého",
+        "kanadského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Daniela Drtinová",
+      "values": [
+        "kanadského",
+        "britského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Apolena Rychlíková",
+      "values": [
+        "kanadského",
+        "německého",
+        "českého",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "John von Neumann",
+      "values": [
+        "švýcarského",
+        "českého",
+        "britského",
+        "maďarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Anežka Přemyslovna",
+      "values": [
+        "italského",
+        "německého",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dagmar Křížková",
+      "values": [
+        "českého",
+        "německého",
+        "italského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sonny Bono",
+      "values": [
+        "britského",
+        "maďarského",
+        "amerického",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

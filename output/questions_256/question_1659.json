@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] videohru?",
+  "questions": [
+    {
+      "key": "Tetris",
+      "values": [
+        "slovenskou",
+        "ruskou",
+        "jihokorejskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cyberpunk 2077",
+      "values": [
+        "polskou",
+        "finskou",
+        "ukrajinskou",
+        "americkou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Grand Theft Auto IV",
+      "values": [
+        "ruskou",
+        "polskou",
+        "britskou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Diablo III",
+      "values": [
+        "americkou",
+        "jihokorejskou",
+        "běloruskou",
+        "čínskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alan Wake",
+      "values": [
+        "finskou",
+        "ukrajinskou",
+        "britskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pokémon Go",
+      "values": [
+        "americkou",
+        "ruskou",
+        "japonskou",
+        "kanadskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Transport Tycoon",
+      "values": [
+        "britskou",
+        "finskou",
+        "německou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Overwatch",
+      "values": [
+        "dánskou",
+        "japonskou",
+        "polskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Final Fantasy XV",
+      "values": [
+        "finskou",
+        "běloruskou",
+        "nizozemskou",
+        "japonskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Thief",
+      "values": [
+        "japonskou",
+        "švédskou",
+        "dánskou",
+        "kanadskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

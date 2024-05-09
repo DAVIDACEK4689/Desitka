@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Alexandrie",
+      "values": [
+        "Irsko",
+        "Sýrie",
+        "Egypt",
+        "Argentina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jakarta",
+      "values": [
+        "Dominika",
+        "Západní Sahara",
+        "Indonésie",
+        "Švédsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Džidda",
+      "values": [
+        "Guinea",
+        "Saúdská Arábie",
+        "Řecko",
+        "Togo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Messina",
+      "values": [
+        "Itálie",
+        "Lotyšsko",
+        "Polsko",
+        "Brazílie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ostende",
+      "values": [
+        "Polsko",
+        "Chorvatsko",
+        "Belgie",
+        "Sierra Leone"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Espoo",
+      "values": [
+        "Finsko",
+        "Portugalsko",
+        "Francie",
+        "Argentina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kuşadası",
+      "values": [
+        "Francie",
+        "Turecko",
+        "Guinea",
+        "Indie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ferrol",
+      "values": [
+        "Estonsko",
+        "Belgie",
+        "Saúdská Arábie",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eleusis",
+      "values": [
+        "Gambie",
+        "Řecko",
+        "Egypt",
+        "Norsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Očakiv",
+      "values": [
+        "Západní Sahara",
+        "Togo",
+        "Libanon",
+        "Ukrajina"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

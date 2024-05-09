@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Pampelišky smetánky",
+      "values": [
+        "Madagaskar",
+        "Mexiko",
+        "Austrálie",
+        "Brazílie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jmelí bílé",
+      "values": [
+        "Nový Zéland",
+        "Mongolsko",
+        "Česko",
+        "Madagaskar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Maniok jedlý",
+      "values": [
+        "Nový Zéland",
+        "Česko",
+        "Brazílie",
+        "Mongolsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Citrus",
+      "values": [
+        "Mexiko",
+        "Mongolsko",
+        "Austrálie",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hruškovec přelahodný",
+      "values": [
+        "Nový Zéland",
+        "Madagaskar",
+        "Mexiko",
+        "Mongolsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kakaovník pravý",
+      "values": [
+        "Nový Zéland",
+        "Brazílie",
+        "Česko",
+        "Madagaskar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Řeřišnice luční",
+      "values": [
+        "Mexiko",
+        "Madagaskar",
+        "Mongolsko",
+        "Austrálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hlaváček jarní",
+      "values": [
+        "Česko",
+        "Austrálie",
+        "Brazílie",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paulinie nápojná",
+      "values": [
+        "Brazílie",
+        "Česko",
+        "Madagaskar",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chrastavec rolní",
+      "values": [
+        "Nový Zéland",
+        "Česko",
+        "Austrálie",
+        "Mexiko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

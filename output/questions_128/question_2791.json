@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Alexander Babiš",
+      "values": [
+        "francouzského",
+        "nizozemského",
+        "švýcarského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alois Hadamczik",
+      "values": [
+        "amerického",
+        "českého",
+        "slovenského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Steve Chen",
+      "values": [
+        "italského",
+        "litevského",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Antoni van Leeuwenhoek",
+      "values": [
+        "brazilského",
+        "francouzského",
+        "nizozemského",
+        "íránského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jiří Kejval",
+      "values": [
+        "jihoafrického",
+        "českého",
+        "polského",
+        "pákistánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Václav František Červený",
+      "values": [
+        "kanadského",
+        "českého",
+        "amerického",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaroslav Havel",
+      "values": [
+        "českého",
+        "francouzského",
+        "mexického",
+        "jihoafrického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "William Randolph Hearst",
+      "values": [
+        "britského",
+        "pákistánského",
+        "amerického",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Benjamin Graham",
+      "values": [
+        "britského",
+        "amerického",
+        "španělského",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marek Rosa",
+      "values": [
+        "kanadského",
+        "francouzského",
+        "běloruského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

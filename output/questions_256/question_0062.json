@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle prezidenta",
+  "questions": [
+    {
+      "key": "Tomáš Garrigue Masaryk",
+      "values": [
+        "Slovensko",
+        "Salvador",
+        "Indonésie",
+        "Československo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nicolae Ceaușescu",
+      "values": [
+        "Island",
+        "Bulharsko",
+        "Maďarsko",
+        "Rumunsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lech Wałęsa",
+      "values": [
+        "Slovinsko",
+        "Chorvatsko",
+        "Island",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jacques Chirac",
+      "values": [
+        "Francie",
+        "Etiopie",
+        "Indonésie",
+        "Ukrajina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ilham Alijev",
+      "values": [
+        "Pero",
+        "Írán",
+        "Ázerbájdžán",
+        "Francie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Katerina Sakellaropulosová",
+      "values": [
+        "Řecko",
+        "Mosambik",
+        "Írán",
+        "Maďarsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jacob Zuma",
+      "values": [
+        "Jihoafrická republika",
+        "Írán",
+        "Niger",
+        "Egypt"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Joachim Gauck",
+      "values": [
+        "Kosovo",
+        "Francie",
+        "Německo",
+        "Indie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bajram Begaj",
+      "values": [
+        "Uganda",
+        "Brazílie",
+        "Albánie",
+        "Pákistán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Theodor Heuss",
+      "values": [
+        "Moldavsko",
+        "Ázerbájdžán",
+        "Itálie",
+        "Německo"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

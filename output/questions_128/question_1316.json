@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Charles Baudelaire",
+      "values": [
+        "norského",
+        "francouzského",
+        "dánského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Walt Whitman",
+      "values": [
+        "anglického",
+        "islandského",
+        "indického",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bohuslav Brouk",
+      "values": [
+        "českého",
+        "řeckého",
+        "maďarského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Hugo Hilar",
+      "values": [
+        "švédského",
+        "belgického",
+        "českého",
+        "kubánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ondřej Hanus",
+      "values": [
+        "australského",
+        "slovenského",
+        "českého",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pierre de Ronsard",
+      "values": [
+        "italského",
+        "belgického",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jim Carroll",
+      "values": [
+        "švédského",
+        "kubánského",
+        "amerického",
+        "skotského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dmitrij Sergejevič Merežkovskij",
+      "values": [
+        "francouzského",
+        "amerického",
+        "ruského",
+        "kubánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nanao Sakaki",
+      "values": [
+        "srbského",
+        "albánského",
+        "skotského",
+        "japonského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Giambattista Marino",
+      "values": [
+        "chilského",
+        "českého",
+        "britského",
+        "italského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

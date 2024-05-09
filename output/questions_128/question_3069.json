@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Sadio Mané",
+      "values": [
+        "polského",
+        "tožského",
+        "skotského",
+        "senegalského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Luis Enrique Martínez García",
+      "values": [
+        "švédského",
+        "kolumbijského",
+        "španělského",
+        "tožského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Patrizio Stronati",
+      "values": [
+        "brazilského",
+        "českého",
+        "chorvatského",
+        "velšského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kazujoši Miura",
+      "values": [
+        "srbského",
+        "francouzského",
+        "japonského",
+        "gambijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Xavi Simons",
+      "values": [
+        "albánského",
+        "gambijského",
+        "nizozemského",
+        "paraguayského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lukáš Mareček",
+      "values": [
+        "alžírského",
+        "marockého",
+        "českého",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jakub Błaszczykowski",
+      "values": [
+        "slovinského",
+        "polského",
+        "albánského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Džaba Kankava",
+      "values": [
+        "portugalského",
+        "slovenského",
+        "gruzínského",
+        "severoirského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Diego Milito",
+      "values": [
+        "paraguayského",
+        "rumunského",
+        "argentinského",
+        "anglického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Giovanni Simeone",
+      "values": [
+        "argentinského",
+        "maďarského",
+        "bulharského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

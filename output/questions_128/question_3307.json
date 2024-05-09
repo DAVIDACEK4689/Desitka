@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Hugo Haas",
+      "values": [
+        "českého",
+        "indonéského",
+        "novozélandského",
+        "venezuelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Kostka",
+      "values": [
+        "brazilského",
+        "švédského",
+        "norského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michelle Yeoh",
+      "values": [
+        "nizozemského",
+        "malajsijského",
+        "ukrajinského",
+        "namibijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Wes Anderson",
+      "values": [
+        "italského",
+        "bosenského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marián Geišberg",
+      "values": [
+        "japonského",
+        "marockého",
+        "irského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vittorio Gassman",
+      "values": [
+        "chorvatského",
+        "švédského",
+        "italského",
+        "sovětského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bedřich Karen",
+      "values": [
+        "australského",
+        "britského",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Embeth Davidtz",
+      "values": [
+        "indonéského",
+        "českého",
+        "jamajského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Kůgel",
+      "values": [
+        "norského",
+        "českého",
+        "nizozemského",
+        "malajsijského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zdeněk Černín",
+      "values": [
+        "českého",
+        "irského",
+        "chorvatského",
+        "malajsijského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

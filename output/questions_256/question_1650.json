@@ -1,0 +1,105 @@
+{
+  "text": "Určete sport podle české sportovkyně",
+  "questions": [
+    {
+      "key": "Barbora Strýcová",
+      "values": [
+        "krasobruslařka",
+        "stolní tenistka",
+        "fotbalistka",
+        "tenistka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alena Zárybnická",
+      "values": [
+        "basketbalistka",
+        "horolezci",
+        "cyklistka",
+        "golfistky"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Žaneta Peřinová",
+      "values": [
+        "atletka",
+        "plavkyně",
+        "volejbalistka",
+        "florbalistky"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lucie Hradecká",
+      "values": [
+        "golfistky",
+        "lukostřelkyně",
+        "basketbalistka",
+        "tenistka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sára Bejlek",
+      "values": [
+        "tenistka",
+        "fotbalistka",
+        "lední hokejistky",
+        "házenkářka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Barbora Seemanová",
+      "values": [
+        "stolní tenistka",
+        "atletka",
+        "basketbalistka",
+        "plavkyně"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lada Vondrová",
+      "values": [
+        "cyklistka",
+        "tenistka",
+        "lukostřelkyně",
+        "atletka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Andrea Holíková",
+      "values": [
+        "golfistky",
+        "tenistka",
+        "florbalistky",
+        "krasobruslařka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eliška Březinová",
+      "values": [
+        "sportovní střelkyně",
+        "volejbalistka",
+        "basketbalistka",
+        "krasobruslařka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michaela Mertová",
+      "values": [
+        "sportovní střelkyně",
+        "plavkyně",
+        "atletka",
+        "volejbalistka"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistu?",
+  "questions": [
+    {
+      "key": "Sebastian Korda",
+      "values": [
+        "sovětského",
+        "německého",
+        "švédského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "John McEnroe",
+      "values": [
+        "uruguayského",
+        "srbského",
+        "amerického",
+        "chorvatského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stefan Edberg",
+      "values": [
+        "ruského",
+        "švédského",
+        "brazilského",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Juan Carlos Ferrero",
+      "values": [
+        "československého",
+        "španělského",
+        "dánského",
+        "chilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zdeněk Kolář",
+      "values": [
+        "britského",
+        "chilského",
+        "českého",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomás Martín Etcheverry",
+      "values": [
+        "ruského",
+        "švýcarského",
+        "japonského",
+        "argentinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ken Rosewall",
+      "values": [
+        "maďarského",
+        "australského",
+        "íránského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michael Stich",
+      "values": [
+        "srbského",
+        "řeckého",
+        "sovětského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marcos Giron",
+      "values": [
+        "ruského",
+        "francouzského",
+        "amerického",
+        "indického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tallon Griekspoor",
+      "values": [
+        "nizozemského",
+        "slovenského",
+        "argentinského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

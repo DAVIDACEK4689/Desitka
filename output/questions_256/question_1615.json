@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Waldemar Matuška",
+      "values": [
+        "českého",
+        "francouzského",
+        "slovenského",
+        "moldavského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Honza Musil",
+      "values": [
+        "ruského",
+        "maďarského",
+        "sovětského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michal Prokop",
+      "values": [
+        "portorického",
+        "maďarského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kuba Ryba",
+      "values": [
+        "českého",
+        "německého",
+        "italského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Hajíček",
+      "values": [
+        "nizozemského",
+        "českého",
+        "slovenského",
+        "jamajského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Yves Montand",
+      "values": [
+        "brazilského",
+        "francouzského",
+        "kolumbijského",
+        "portorického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stanislav Hranický",
+      "values": [
+        "islandského",
+        "britského",
+        "švédského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miroslav Paleček",
+      "values": [
+        "českého",
+        "irského",
+        "německého",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jason Derulo",
+      "values": [
+        "irského",
+        "italského",
+        "islandského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Milan Devinne",
+      "values": [
+        "španělského",
+        "jamajského",
+        "českého",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

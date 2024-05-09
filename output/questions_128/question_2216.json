@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle českého sportovce",
+  "questions": [
+    {
+      "key": "Petr Jákl",
+      "values": [
+        "tenista",
+        "boxer",
+        "judista",
+        "horolezec"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roman Málek",
+      "values": [
+        "ragbista",
+        "automobilový závodník",
+        "boxer",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tomáš Nosek",
+      "values": [
+        "volejbalista",
+        "bojový umělec",
+        "lední hokejista",
+        "baseballisté"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Martin Minařík",
+      "values": [
+        "horolezec",
+        "rybář",
+        "šachista",
+        "ragbista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rudolf Popler",
+      "values": [
+        "jezdec",
+        "šachista",
+        "kajakář",
+        "rychlostní kanoista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Michal Broš",
+      "values": [
+        "ragbista",
+        "lední hokejista",
+        "jezdec",
+        "rychlostní kanoista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Okáč",
+      "values": [
+        "basketbalista",
+        "ragbista",
+        "kickboxeři",
+        "fotbalista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jakub Dovalil",
+      "values": [
+        "sportovní střelec",
+        "pozemní hokejista",
+        "rychlostní kanoista",
+        "fotbalista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vladimír Borovička",
+      "values": [
+        "judista",
+        "boxer",
+        "šermíř",
+        "fotbalista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rudolf Cogan",
+      "values": [
+        "lední hokejista",
+        "basketbalista",
+        "rychlostní kanoista",
+        "judista"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

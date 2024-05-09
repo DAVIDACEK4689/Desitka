@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte moře podle přístavního města",
+  "questions": [
+    {
+      "key": "Istanbul",
+      "values": [
+        "Marmarské moře",
+        "Irské moře",
+        "Černé moře",
+        "Azovské moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Antverpy",
+      "values": [
+        "Bílé moře",
+        "Marmarské moře",
+        "Azovské moře",
+        "Severní moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bergen",
+      "values": [
+        "Severní moře",
+        "Baltské moře",
+        "Bílé moře",
+        "Rudé moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Santo Domingo",
+      "values": [
+        "Irské moře",
+        "Bílé moře",
+        "Azovské moře",
+        "Karibské moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dahab",
+      "values": [
+        "Bílé moře",
+        "Baltské moře",
+        "Azovské moře",
+        "Rudé moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Trabzon",
+      "values": [
+        "Černé moře",
+        "Irské moře",
+        "Baltské moře",
+        "Azovské moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Barranquilla",
+      "values": [
+        "Bílé moře",
+        "Rudé moře",
+        "Baltské moře",
+        "Karibské moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Belize City",
+      "values": [
+        "Bílé moře",
+        "Rudé moře",
+        "Karibské moře",
+        "Severní moře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Castries",
+      "values": [
+        "Karibské moře",
+        "Rudé moře",
+        "Bílé moře",
+        "Marmarské moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jastarnia",
+      "values": [
+        "Azovské moře",
+        "Baltské moře",
+        "Karibské moře",
+        "Rudé moře"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

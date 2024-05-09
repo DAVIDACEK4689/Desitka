@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] generála?",
+  "questions": [
+    {
+      "key": "Karl Hermann Frank",
+      "values": [
+        "ruského",
+        "britského",
+        "československého",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ramzan Kadyrov",
+      "values": [
+        "francouzského",
+        "španělského",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Řehka",
+      "values": [
+        "českého",
+        "amerického",
+        "ruského",
+        "československého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Francisco Franco",
+      "values": [
+        "německého",
+        "francouzského",
+        "československého",
+        "španělského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Charles de Gaulle",
+      "values": [
+        "britského",
+        "ruského",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Heliodor Píka",
+      "values": [
+        "španělského",
+        "československého",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "George Washington",
+      "values": [
+        "amerického",
+        "československého",
+        "českého",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Radola Gajda",
+      "values": [
+        "československého",
+        "ruského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Andor Šándor",
+      "values": [
+        "francouzského",
+        "britského",
+        "německého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sergěj Ingr",
+      "values": [
+        "českého",
+        "amerického",
+        "španělského",
+        "německého"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

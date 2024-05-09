@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Londýn",
+      "values": [
+        "Temže",
+        "Metuje",
+        "Lužnice",
+        "Vltava"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hamburk",
+      "values": [
+        "Rýn",
+        "Labe",
+        "Dněpr",
+        "Visla"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Louny",
+      "values": [
+        "Něva",
+        "Dunaj",
+        "Don",
+        "Ohře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Banská Bystrica",
+      "values": [
+        "Hron",
+        "Sázava",
+        "Eufrat",
+        "Chrudimka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stříbrná Skalice",
+      "values": [
+        "Sázava",
+        "Temže",
+        "Ploučnice",
+        "Úslava"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Židlochovice",
+      "values": [
+        "Spréva",
+        "Svratka",
+        "Lužnice",
+        "Ploučnice"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Voroněž",
+      "values": [
+        "Lužnice",
+        "Jizera",
+        "Don",
+        "Dněpr"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Řevnice",
+      "values": [
+        "Berounka",
+        "Ohře",
+        "Váha",
+        "Jizera"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mojžíř",
+      "values": [
+        "Labe",
+        "Ohře",
+        "Mandava",
+        "Radbuza"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kamenná kolonie",
+      "values": [
+        "Ohře",
+        "Svratka",
+        "Lužická Nisa",
+        "Volha"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

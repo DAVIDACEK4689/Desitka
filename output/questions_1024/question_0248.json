@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte sport podle olympijského vítěze",
+  "questions": [
+    {
+      "key": "Rafael Nadal",
+      "values": [
+        "tenis",
+        "fotbal",
+        "judo",
+        "akrobatické lyžování"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Roger Federer",
+      "values": [
+        "fotbal",
+        "biatlon",
+        "tenis",
+        "box"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pep Guardiola",
+      "values": [
+        "akrobatické lyžování",
+        "biatlon",
+        "judo",
+        "fotbal"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lukáš Krpálek",
+      "values": [
+        "judo",
+        "biatlon",
+        "fotbal",
+        "akrobatické lyžování"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Aleš Valenta",
+      "values": [
+        "akrobatické lyžování",
+        "tenis",
+        "judo",
+        "box"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladimir Kličko",
+      "values": [
+        "tenis",
+        "box",
+        "judo",
+        "fotbal"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexander Zverev",
+      "values": [
+        "box",
+        "judo",
+        "biatlon",
+        "tenis"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stan Wawrinka",
+      "values": [
+        "box",
+        "fotbal",
+        "biatlon",
+        "tenis"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oleksandr Usyk",
+      "values": [
+        "akrobatické lyžování",
+        "biatlon",
+        "judo",
+        "box"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Martin Fourcade",
+      "values": [
+        "box",
+        "akrobatické lyžování",
+        "judo",
+        "biatlon"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

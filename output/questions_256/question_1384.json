@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Princ a Večernice",
+      "values": [
+        "Roman Vávra",
+        "David Ondříček",
+        "Václav Vorlíček",
+        "Zdeněk Troška"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Peklo s princeznou",
+      "values": [
+        "František Vláčil",
+        "Miloš Forman",
+        "Jan Schmidt",
+        "Miloslav Šmídmajer"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sněženky a machři",
+      "values": [
+        "Evald Schorm",
+        "Zdeněk Podskalský",
+        "Karel Smyczek",
+        "Martin Horský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Panna a netvor",
+      "values": [
+        "Ondřej Trojan",
+        "Juraj Herz",
+        "Pavel Juráček",
+        "Bohdan Sláma"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eva tropí hlouposti",
+      "values": [
+        "Svatopluk Innemann",
+        "Zdeněk Troška",
+        "Martin Frič",
+        "Karel Lamač"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nejistá sezóna",
+      "values": [
+        "František Vláčil",
+        "Ladislav Smoljak",
+        "Robert Sedláček",
+        "Marie Poledňáková"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vejška",
+      "values": [
+        "Jiří Krejčík",
+        "Zdeněk Podskalský",
+        "Tomáš Vorel",
+        "Vojtěch Jasný"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kočár do Vídně",
+      "values": [
+        "Karel Kachyňa",
+        "Svatopluk Innemann",
+        "Ladislav Rychman",
+        "Jindřich Polák"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Divoké včely",
+      "values": [
+        "Oldřich Lipský",
+        "Bořivoj Zeman",
+        "Jiří Menzel",
+        "Bohdan Sláma"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Muž na Měsíci",
+      "values": [
+        "Ladislav Rychman",
+        "Petr Jákl",
+        "Oldřich Lipský",
+        "Miloš Forman"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

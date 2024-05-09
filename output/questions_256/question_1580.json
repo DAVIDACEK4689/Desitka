@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Calin",
+      "values": [
+        "španělského",
+        "českého",
+        "irského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ed Sheeran",
+      "values": [
+        "britského",
+        "australského",
+        "srbského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Roman Ondráček",
+      "values": [
+        "sovětského",
+        "srbského",
+        "argentinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vojtěch Drahokoupil",
+      "values": [
+        "moldavského",
+        "českého",
+        "brazilského",
+        "belgického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ondřej Havel",
+      "values": [
+        "britského",
+        "českého",
+        "jihokorejského",
+        "jihoafrického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marco Hietala",
+      "values": [
+        "jamajského",
+        "argentinského",
+        "švédského",
+        "finského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pavel Sedláček",
+      "values": [
+        "norského",
+        "belgického",
+        "jihokorejského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pavel Roth",
+      "values": [
+        "českého",
+        "islandského",
+        "nizozemského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kevin Jonas",
+      "values": [
+        "amerického",
+        "českého",
+        "španělského",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Andi Deris",
+      "values": [
+        "německého",
+        "rumunského",
+        "skotského",
+        "argentinského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

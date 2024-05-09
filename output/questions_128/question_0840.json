@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Stockholm",
+      "values": [
+        "Tanzanie",
+        "Švédsko",
+        "Togo",
+        "Gabon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Casablanca",
+      "values": [
+        "Francie",
+        "Japonsko",
+        "Maroko",
+        "Barbados"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alanya",
+      "values": [
+        "Bulharsko",
+        "Venezuela",
+        "Lotyšsko",
+        "Turecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Smyrna",
+      "values": [
+        "Německo",
+        "Turecko",
+        "Portugalsko",
+        "Bangladéš"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Brindisi",
+      "values": [
+        "Sierra Leone",
+        "Kazachstán",
+        "Itálie",
+        "Angola"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Izola",
+      "values": [
+        "Itálie",
+        "Černá Hora",
+        "Gambie",
+        "Slovinsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Santos",
+      "values": [
+        "Jihoafrická republika",
+        "Španělsko",
+        "Libérie",
+        "Brazílie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marsala",
+      "values": [
+        "Guinea",
+        "Portugalsko",
+        "Itálie",
+        "Namibie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cosenza",
+      "values": [
+        "Estonsko",
+        "Itálie",
+        "Belgie",
+        "Namibie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ystad",
+      "values": [
+        "Gabon",
+        "Jihoafrická republika",
+        "Dominika",
+        "Švédsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebníka?",
+  "questions": [
+    {
+      "key": "Benny Andersson",
+      "values": [
+        "slovenského",
+        "nizozemského",
+        "švédského",
+        "norského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bobby Farrell",
+      "values": [
+        "nizozemského",
+        "gruzínského",
+        "chorvatského",
+        "arménského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Demis Roussos",
+      "values": [
+        "řeckého",
+        "japonského",
+        "belgického",
+        "polského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kid Rock",
+      "values": [
+        "amerického",
+        "islandského",
+        "řeckého",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chris Fehn",
+      "values": [
+        "amerického",
+        "francouzského",
+        "norského",
+        "jugoslávského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lukáš Bundil",
+      "values": [
+        "belgického",
+        "českého",
+        "rumunského",
+        "portorického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Samko Dudík",
+      "values": [
+        "německého",
+        "slovenského",
+        "litevského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Seydler",
+      "values": [
+        "českého",
+        "ruského",
+        "izraelského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vytautas Landsbergis",
+      "values": [
+        "litevského",
+        "švýcarského",
+        "německého",
+        "rumunského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Paddy Considine",
+      "values": [
+        "indického",
+        "irského",
+        "britského",
+        "litevského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

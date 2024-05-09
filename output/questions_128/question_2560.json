@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte sport podle německého sportovce",
+  "questions": [
+    {
+      "key": "Sebastian Vettel",
+      "values": [
+        "lední hokejista",
+        "jezdec",
+        "pilot",
+        "stolní tenista"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexander von Humboldt",
+      "values": [
+        "bobista",
+        "biatlonista",
+        "horolezec",
+        "pilot"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kai Havertz",
+      "values": [
+        "fotbalista",
+        "horolezec",
+        "cyklista",
+        "šachista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jamal Musiala",
+      "values": [
+        "fotbalista",
+        "tenista",
+        "strongmani",
+        "basketbalista"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rudi Völler",
+      "values": [
+        "pilot",
+        "fotbalista",
+        "boxer",
+        "tenista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Timo Werner",
+      "values": [
+        "akrobatický letec",
+        "gymnasta",
+        "biatlonista",
+        "fotbalista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Erich Kühnhackl",
+      "values": [
+        "basketbalista",
+        "horolezec",
+        "lední hokejista",
+        "strongmani"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Emre Can",
+      "values": [
+        "cyklista",
+        "šermíř",
+        "stolní tenista",
+        "fotbalista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Timo Boll",
+      "values": [
+        "golfista",
+        "fotbalista",
+        "jezdec",
+        "stolní tenista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Toni Kurz",
+      "values": [
+        "golfista",
+        "horolezec",
+        "tenista",
+        "bobista"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

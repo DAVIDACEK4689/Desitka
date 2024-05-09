@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "Karel Schwarzenberg",
+      "values": [
+        "maďarského",
+        "britského",
+        "portugalského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Strach",
+      "values": [
+        "českého",
+        "kanadského",
+        "portugalského",
+        "monackého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vasco da Gama",
+      "values": [
+        "švýcarského",
+        "italského",
+        "portugalského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Caroline Kennedyová",
+      "values": [
+        "švýcarského",
+        "portugalského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaroslav Durych",
+      "values": [
+        "českého",
+        "maďarského",
+        "litevského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fernando Santos",
+      "values": [
+        "portugalského",
+        "českého",
+        "kanadského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Torquato Tasso",
+      "values": [
+        "amerického",
+        "švýcarského",
+        "monackého",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Michelle Hunzikerová",
+      "values": [
+        "italského",
+        "francouzského",
+        "kanadského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Giuseppe Conte",
+      "values": [
+        "maďarského",
+        "italského",
+        "portugalského",
+        "litevského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marcello Malpighi",
+      "values": [
+        "monackého",
+        "litevského",
+        "italského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

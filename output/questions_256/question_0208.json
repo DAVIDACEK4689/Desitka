@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Clint Eastwood",
+      "values": [
+        "sovětského",
+        "amerického",
+        "nizozemského",
+        "indického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vladimír Brabec",
+      "values": [
+        "českého",
+        "marockého",
+        "tureckého",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marcello Mastroianni",
+      "values": [
+        "venezuelského",
+        "italského",
+        "slovenského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaromír Dulava",
+      "values": [
+        "českého",
+        "britského",
+        "ruského",
+        "guatemalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Neil Patrick Harris",
+      "values": [
+        "dánského",
+        "amerického",
+        "izraelského",
+        "islandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hank Azaria",
+      "values": [
+        "tureckého",
+        "maďarského",
+        "australského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "John Belushi",
+      "values": [
+        "amerického",
+        "jamajského",
+        "rakouského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ladislav Hemmer",
+      "values": [
+        "italského",
+        "českého",
+        "guatemalského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jakub Gottwald",
+      "values": [
+        "irského",
+        "marockého",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ken Watanabe",
+      "values": [
+        "brazilského",
+        "norského",
+        "maďarského",
+        "japonského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

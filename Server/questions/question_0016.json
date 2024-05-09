@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [období] malíře?",
+  "questions": [
+    {
+      "key": "Leonardo da Vinci",
+      "values": [
+        "secesního",
+        "renesančního",
+        "romantického",
+        "realistického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alfons Mucha",
+      "values": [
+        "romantického",
+        "renesančního",
+        "secesního",
+        "realistického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michelangelo Buonarroti",
+      "values": [
+        "renesančního",
+        "realistického",
+        "secesního",
+        "barokního"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gustav Klimt",
+      "values": [
+        "realistického",
+        "romantického",
+        "secesního",
+        "renesančního"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Mánes",
+      "values": [
+        "barokního",
+        "romantického",
+        "secesního",
+        "renesančního"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rembrandt",
+      "values": [
+        "realistického",
+        "renesančního",
+        "barokního",
+        "secesního"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Raffael Santi",
+      "values": [
+        "barokního",
+        "romantického",
+        "renesančního",
+        "secesního"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Max Švabinský",
+      "values": [
+        "realistického",
+        "secesního",
+        "barokního",
+        "renesančního"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Vermeer",
+      "values": [
+        "secesního",
+        "realistického",
+        "barokního",
+        "renesančního"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Albrecht Dürer",
+      "values": [
+        "romantického",
+        "renesančního",
+        "realistického",
+        "barokního"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

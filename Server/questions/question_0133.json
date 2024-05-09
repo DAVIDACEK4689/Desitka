@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle univerzitního města",
+  "questions": [
+    {
+      "key": "Ostrava",
+      "values": [
+        "Slovensko",
+        "Maďarsko",
+        "Česko",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Benátky",
+      "values": [
+        "Portugalsko",
+        "Itálie",
+        "Německo",
+        "Rakousko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Opava",
+      "values": [
+        "Dánsko",
+        "Česko",
+        "Portugalsko",
+        "Německo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Štýrský Hradec",
+      "values": [
+        "Dánsko",
+        "Rakousko",
+        "Portugalsko",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Edinburgh",
+      "values": [
+        "Dánsko",
+        "Slovensko",
+        "Maďarsko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stuttgart",
+      "values": [
+        "Nizozemsko",
+        "Německo",
+        "Irsko",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nitra",
+      "values": [
+        "Slovensko",
+        "Polsko",
+        "Česko",
+        "Itálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Prešov",
+      "values": [
+        "Rakousko",
+        "Německo",
+        "Portugalsko",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bolzano",
+      "values": [
+        "Polsko",
+        "Dánsko",
+        "Maďarsko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Augsburg",
+      "values": [
+        "Maďarsko",
+        "Belgie",
+        "Německo",
+        "Irsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

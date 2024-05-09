@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] kulturu?",
+  "questions": [
+    {
+      "key": "Gejša",
+      "values": [
+        "tureckou",
+        "švýcarskou",
+        "egyptskou",
+        "japonskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Džíny",
+      "values": [
+        "čínskou",
+        "ázerbájdžánskou",
+        "nizozemskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Toreador",
+      "values": [
+        "tureckou",
+        "skotskou",
+        "nizozemskou",
+        "španělskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sokol",
+      "values": [
+        "vatikánskou",
+        "českou",
+        "francouzskou",
+        "ukrajinskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nahá Maja",
+      "values": [
+        "vietnamskou",
+        "skotskou",
+        "španělskou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kallikantzaros",
+      "values": [
+        "indonéskou",
+        "ukrajinskou",
+        "řeckou",
+        "mexickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Duduk",
+      "values": [
+        "arménskou",
+        "českou",
+        "kubánskou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Absolut",
+      "values": [
+        "švédskou",
+        "australskou",
+        "gruzínskou",
+        "izraelskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Carrom",
+      "values": [
+        "švédskou",
+        "arménskou",
+        "francouzskou",
+        "indickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kaišakunin",
+      "values": [
+        "japonskou",
+        "maďarskou",
+        "kubánskou",
+        "jihokorejskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle administrativního dělení",
+  "questions": [
+    {
+      "key": "Grónsko",
+      "values": [
+        "Švédsko",
+        "Dánsko",
+        "Norsko",
+        "Gruzie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Náhorní Karabach",
+      "values": [
+        "Bělorusko",
+        "Ukrajina",
+        "Ázerbájdžán",
+        "Mongolsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kyjev",
+      "values": [
+        "Ukrajina",
+        "Řecko",
+        "Švédsko",
+        "Dánsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Golanské výšiny",
+      "values": [
+        "Ázerbájdžán",
+        "Norsko",
+        "Izrael",
+        "Thajsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bangkok",
+      "values": [
+        "Tanzanie",
+        "Thajsko",
+        "Mongolsko",
+        "Gruzie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ciudad de México",
+      "values": [
+        "Mexiko",
+        "Izrael",
+        "Ukrajina",
+        "Thajsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Laponsko",
+      "values": [
+        "Řecko",
+        "Švédsko",
+        "Norsko",
+        "Thajsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Baku",
+      "values": [
+        "Švédsko",
+        "Ázerbájdžán",
+        "Ukrajina",
+        "Bělorusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Okres",
+      "values": [
+        "Polsko",
+        "Thajsko",
+        "Izrael",
+        "Gruzie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Minsk",
+      "values": [
+        "Bělorusko",
+        "Mexiko",
+        "Řecko",
+        "Gruzie"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

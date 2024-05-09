@@ -1,0 +1,105 @@
+{
+  "text": "Určete českého režiséra podle filmu",
+  "questions": [
+    {
+      "key": "S čerty nejsou žerty",
+      "values": [
+        "Oldřich Lipský",
+        "Filip Renč",
+        "Karel Kachyňa",
+        "Hynek Bočan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Slavnosti sněženek",
+      "values": [
+        "Jan Prušinovský",
+        "Jiří Menzel",
+        "Svatopluk Innemann",
+        "Jiří Sequens"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jak svět přichází o básníky",
+      "values": [
+        "Dušan Klein",
+        "Jiří Vejdělek",
+        "Jiří Sequens",
+        "Jan Schmidt"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Skřivánci na niti",
+      "values": [
+        "Jiří Menzel",
+        "Svatopluk Innemann",
+        "Pavel Juráček",
+        "Karel Smyczek"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Probudím se včera",
+      "values": [
+        "Tomáš Bařina",
+        "Evald Schorm",
+        "Vojtěch Jasný",
+        "Miloslav Šmídmajer"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ztracená brána",
+      "values": [
+        "Martin Horský",
+        "Marie Poledňáková",
+        "Jiří Strach",
+        "Vojtěch Jasný"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kuky se vrací",
+      "values": [
+        "Jiří Krejčík",
+        "Jan Svěrák",
+        "Zdeněk Zelenka",
+        "Jaroslav Papoušek"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Oznamuje se láskám vašim",
+      "values": [
+        "Ondřej Trojan",
+        "Hynek Bočan",
+        "Karel Kachyňa",
+        "Saša Gedeon"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Návrat idiota",
+      "values": [
+        "Saša Gedeon",
+        "Antonín Moskalyk",
+        "Martin Frič",
+        "Petr Zelenka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Láska rohatá",
+      "values": [
+        "Petr Zelenka",
+        "Hynek Bočan",
+        "Jindřich Polák",
+        "Karel Steklý"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle politické strany",
+  "questions": [
+    {
+      "key": "Starostové a nezávislí",
+      "values": [
+        "Polsko",
+        "Česko",
+        "Československo",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Věci veřejné",
+      "values": [
+        "Slovensko",
+        "Česko",
+        "Angola",
+        "Nizozemsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Občanská koalice",
+      "values": [
+        "Izrael",
+        "Nizozemsko",
+        "Polsko",
+        "Spojené království"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jabloko",
+      "values": [
+        "Palestina",
+        "Turecko",
+        "Egypt",
+        "Rusko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marek Hilšer do Senátu",
+      "values": [
+        "Česko",
+        "Slovensko",
+        "Československo",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Přísaha občanské hnutí",
+      "values": [
+        "Česko",
+        "Slovensko",
+        "Nizozemsko",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Německá sociálně demokratická strana dělnická v ČSR",
+      "values": [
+        "Československo",
+        "Angola",
+        "Slovensko",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rozumní",
+      "values": [
+        "Jihoafrická republika",
+        "Česko",
+        "Turecko",
+        "Německo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hnutí pěti hvězd",
+      "values": [
+        "Itálie",
+        "Izrael",
+        "Angola",
+        "Spojené království"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Moravské zemské hnutí",
+      "values": [
+        "Česko",
+        "Československo",
+        "Egypt",
+        "Ukrajina"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

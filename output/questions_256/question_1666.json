@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Oldřich Nový",
+      "values": [
+        "španělského",
+        "nizozemského",
+        "českého",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alice Cooper",
+      "values": [
+        "islandského",
+        "amerického",
+        "francouzského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaromír Mayer",
+      "values": [
+        "českého",
+        "dánského",
+        "australského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bobby Farrell",
+      "values": [
+        "nizozemského",
+        "jihoafrického",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Šimon Ornest",
+      "values": [
+        "německého",
+        "dánského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tony Bennett",
+      "values": [
+        "sovětského",
+        "švýcarského",
+        "rumunského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ivan Krajíček",
+      "values": [
+        "britského",
+        "kanadského",
+        "slovenského",
+        "kolumbijského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tom Araya",
+      "values": [
+        "španělského",
+        "irského",
+        "jihoafrického",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Beck",
+      "values": [
+        "francouzského",
+        "švýcarského",
+        "amerického",
+        "islandského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "David Draiman",
+      "values": [
+        "švédského",
+        "amerického",
+        "jihoafrického",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

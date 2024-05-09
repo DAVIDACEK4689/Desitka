@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Liberec",
+      "values": [
+        "Lužická Nisa",
+        "Něva",
+        "Seina",
+        "Temže"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lovosice",
+      "values": [
+        "Labe",
+        "Váha",
+        "Sebnice",
+        "Eufrat"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stráž pod Ralskem",
+      "values": [
+        "Chrudimka",
+        "Malše",
+        "Něva",
+        "Ploučnice"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Duisburg",
+      "values": [
+        "Jizera",
+        "Don",
+        "Emže",
+        "Rýn"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mauthausen",
+      "values": [
+        "Jizera",
+        "Otava",
+        "Malše",
+        "Dunaj"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fontainebleau",
+      "values": [
+        "Dunaj",
+        "Sebnice",
+        "Seina",
+        "Ohře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Skočov",
+      "values": [
+        "Seina",
+        "Inn",
+        "Polenz",
+        "Visla"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Honfleur",
+      "values": [
+        "Seina",
+        "Lužická Nisa",
+        "Radbuza",
+        "Berounka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Líšný",
+      "values": [
+        "Visla",
+        "Jizera",
+        "Volha",
+        "Radbuza"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tuněchody",
+      "values": [
+        "Dněpr",
+        "Chrudimka",
+        "Ohře",
+        "Jizera"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

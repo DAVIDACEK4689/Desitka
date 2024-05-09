@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] miliardáře?",
+  "questions": [
+    {
+      "key": "Andrej Babiš",
+      "values": [
+        "ukrajinského",
+        "britského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Kellner",
+      "values": [
+        "českého",
+        "ruského",
+        "britského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kanye West",
+      "values": [
+        "rakouského",
+        "britského",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bill Gates",
+      "values": [
+        "britského",
+        "rakouského",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mark Zuckerberg",
+      "values": [
+        "britského",
+        "rakouského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomáš Fiala",
+      "values": [
+        "ruského",
+        "českého",
+        "ukrajinského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michal Strnad",
+      "values": [
+        "ukrajinského",
+        "ruského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ralph Lauren",
+      "values": [
+        "amerického",
+        "ruského",
+        "rakouského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "John Pierpont Morgan",
+      "values": [
+        "amerického",
+        "britského",
+        "rakouského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Charlie Munger",
+      "values": [
+        "britského",
+        "ukrajinského",
+        "amerického",
+        "ruského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

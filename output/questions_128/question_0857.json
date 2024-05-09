@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte moře podle přístavního města",
+  "questions": [
+    {
+      "key": "Riga",
+      "values": [
+        "Bílé moře",
+        "Rudé moře",
+        "Černé moře",
+        "Baltské moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Göteborg",
+      "values": [
+        "Severní moře",
+        "Černé moře",
+        "Marmarské moře",
+        "Azovské moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lübeck",
+      "values": [
+        "Marmarské moře",
+        "Baltské moře",
+        "Azovské moře",
+        "Irské moře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Calais",
+      "values": [
+        "Černé moře",
+        "Severní moře",
+        "Marmarské moře",
+        "Karibské moře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stralsund",
+      "values": [
+        "Baltské moře",
+        "Černé moře",
+        "Marmarské moře",
+        "Azovské moře"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Frederikshavn",
+      "values": [
+        "Irské moře",
+        "Karibské moře",
+        "Azovské moře",
+        "Severní moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Feodosija",
+      "values": [
+        "Bílé moře",
+        "Černé moře",
+        "Rudé moře",
+        "Karibské moře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Willemstad",
+      "values": [
+        "Marmarské moře",
+        "Azovské moře",
+        "Bílé moře",
+        "Karibské moře"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Santa Marta",
+      "values": [
+        "Azovské moře",
+        "Karibské moře",
+        "Irské moře",
+        "Bílé moře"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ventspils",
+      "values": [
+        "Bílé moře",
+        "Azovské moře",
+        "Marmarské moře",
+        "Baltské moře"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

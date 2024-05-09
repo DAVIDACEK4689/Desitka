@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] lékaře?",
+  "questions": [
+    {
+      "key": "Heliodor Píka",
+      "values": [
+        "nizozemského",
+        "polského",
+        "australského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel Lewit",
+      "values": [
+        "italského",
+        "německého",
+        "jihoafrického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tom Philipp",
+      "values": [
+        "českého",
+        "francouzského",
+        "čínského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Frederick Banting",
+      "values": [
+        "švédského",
+        "brazilského",
+        "kanadského",
+        "australského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Arthur Schnitzler",
+      "values": [
+        "slovenského",
+        "rakouského",
+        "italského",
+        "albánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Macháček",
+      "values": [
+        "jihoafrického",
+        "českého",
+        "švýcarského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vladimír Krčméry",
+      "values": [
+        "brazilského",
+        "italského",
+        "slovenského",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marek Babjuk",
+      "values": [
+        "jihoafrického",
+        "nizozemského",
+        "čínského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rand Paul",
+      "values": [
+        "čínského",
+        "amerického",
+        "kanadského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Camillo Golgi",
+      "values": [
+        "chilského",
+        "slovenského",
+        "albánského",
+        "italského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

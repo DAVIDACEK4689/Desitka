@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte rok podle politiky",
+  "questions": [
+    {
+      "key": "Islámský stát",
+      "values": [
+        "1958",
+        "1789",
+        "2014",
+        "1788"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luhanská lidová republika",
+      "values": [
+        "1923",
+        "1992",
+        "2014",
+        "1860"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Svatá aliance",
+      "values": [
+        "2006",
+        "1815",
+        "1860",
+        "1776"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pátá Francouzská republika",
+      "values": [
+        "1998",
+        "1986",
+        "1958",
+        "2014"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Manifest českých spisovatelů",
+      "values": [
+        "1915",
+        "1917",
+        "1989",
+        "1923"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fundamentální články",
+      "values": [
+        "1923",
+        "1986",
+        "1871",
+        "1995"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Silvestrovské patenty",
+      "values": [
+        "1985",
+        "1789",
+        "1851",
+        "1907"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Amsterodamská smlouva",
+      "values": [
+        "1997",
+        "1952",
+        "1914",
+        "1920"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tylžský mír",
+      "values": [
+        "1807",
+        "1914",
+        "2013",
+        "2000"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Listy federalistů",
+      "values": [
+        "1788",
+        "2004",
+        "1955",
+        "1990"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

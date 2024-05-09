@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Tereza Pergnerová",
+      "values": [
+        "švýcarskou",
+        "izraelskou",
+        "českou",
+        "ruskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jaroslava Kretschmerová",
+      "values": [
+        "norskou",
+        "chorvatskou",
+        "českou",
+        "nizozemskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Libuše Geprtová",
+      "values": [
+        "belgickou",
+        "kanadskou",
+        "německou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Janet Jacksonová",
+      "values": [
+        "americkou",
+        "švýcarskou",
+        "britskou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rachel Bilsonová",
+      "values": [
+        "novozélandskou",
+        "americkou",
+        "tureckou",
+        "bulharskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Claudia Black",
+      "values": [
+        "bulharskou",
+        "australskou",
+        "českou",
+        "maďarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Naděžda Gajerová",
+      "values": [
+        "uzbeckou",
+        "českou",
+        "jihoafrickou",
+        "finskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Holly Hunter",
+      "values": [
+        "slovenskou",
+        "americkou",
+        "irskou",
+        "belgickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivana Karbanová",
+      "values": [
+        "českou",
+        "dánskou",
+        "argentinskou",
+        "kanadskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Joanna García",
+      "values": [
+        "indickou",
+        "kolumbijskou",
+        "americkou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

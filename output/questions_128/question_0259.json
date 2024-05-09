@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle archeologické lokality",
+  "questions": [
+    {
+      "key": "Trója",
+      "values": [
+        "Federativní státy Mikronésie",
+        "Litva",
+        "Sýrie",
+        "Turecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Abú Simbel",
+      "values": [
+        "Jihoafrická republika",
+        "Česko",
+        "Egypt",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Luxorský chrám",
+      "values": [
+        "Slovensko",
+        "Polsko",
+        "Pákistán",
+        "Egypt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Arkona",
+      "values": [
+        "Německo",
+        "Rusko",
+        "Irák",
+        "Litva"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Philae",
+      "values": [
+        "Litva",
+        "Egypt",
+        "Jordánsko",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Augustovo mauzoleum",
+      "values": [
+        "Německo",
+        "Izrael",
+        "Malta",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Abúsír",
+      "values": [
+        "Egypt",
+        "Maďarsko",
+        "Itálie",
+        "Pákistán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rusovce",
+      "values": [
+        "Afghánistán",
+        "Švýcarsko",
+        "Španělsko",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Věž v Jerichu",
+      "values": [
+        "Maďarsko",
+        "Slovensko",
+        "Indonésie",
+        "Izrael"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cueva de Nerja",
+      "values": [
+        "Španělsko",
+        "Pero",
+        "Polsko",
+        "Švýcarsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

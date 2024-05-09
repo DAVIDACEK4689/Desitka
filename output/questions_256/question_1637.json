@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte autora podle stavby",
+  "questions": [
+    {
+      "key": "Pražská Loreta",
+      "values": [
+        "Vladimír Karfík",
+        "Alois Dryák",
+        "Kilián Ignác Dientzenhofer",
+        "Josef Zítek"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mohyla míru",
+      "values": [
+        "Jaroslav Fragner",
+        "Václav Aulický",
+        "Jiří Stibral",
+        "Josef Fanta"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Průmyslový palác",
+      "values": [
+        "Věra Machoninová",
+        "Matěj Blecha",
+        "Friedrich Ohmann",
+        "Kilián Ignác Dientzenhofer"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vila Otto Petschka",
+      "values": [
+        "Carlo Lurago",
+        "Stanislav Franc",
+        "Norman Foster",
+        "Max Spielmann"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Památník Tomáše Bati",
+      "values": [
+        "Frank Lloyd Wright",
+        "Jaroslav Fragner",
+        "Adolf Loos",
+        "František Lýdie Gahura"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Klášter Svatý Jan pod Skalou",
+      "values": [
+        "Karel Filsak",
+        "Antonín Wiehl",
+        "Carlo Lurago",
+        "Emil Králíček"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Transbordér pod Hamrštejnem",
+      "values": [
+        "Frank Lloyd Wright",
+        "Martin Rajniš",
+        "Ladislav Machoň",
+        "Pavel Janák"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Letenský zámeček",
+      "values": [
+        "Věra Machoninová",
+        "Jan Kaplický",
+        "Antonín Balšánek",
+        "Vojtěch Ignác Ullmann"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Elektrárna Kolín",
+      "values": [
+        "Gustave Eiffel",
+        "Jaroslav Fragner",
+        "Carlo Lurago",
+        "Matěj Blecha"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaruškův dům",
+      "values": [
+        "Josef Gočár",
+        "Karel Prager",
+        "Stanislav Franc",
+        "Bohumír Čermák"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kytaristu?",
+  "questions": [
+    {
+      "key": "Richard Krajčo",
+      "values": [
+        "německého",
+        "mexického",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chris Cornell",
+      "values": [
+        "mexického",
+        "slovenského",
+        "amerického",
+        "jamajského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Joey Jordison",
+      "values": [
+        "amerického",
+        "dánského",
+        "maďarského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nick Cave",
+      "values": [
+        "britského",
+        "australského",
+        "nizozemského",
+        "irského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Juraj Štefánik",
+      "values": [
+        "brazilského",
+        "slovenského",
+        "španělského",
+        "finského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ivan Tásler",
+      "values": [
+        "jamajského",
+        "mexického",
+        "slovenského",
+        "argentinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jimmy Buffett",
+      "values": [
+        "amerického",
+        "mexického",
+        "jamajského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zoltán Báthory",
+      "values": [
+        "jamajského",
+        "finského",
+        "maďarského",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oldřich Krejčoves",
+      "values": [
+        "kanadského",
+        "českého",
+        "nizozemského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Libor Matejčik",
+      "values": [
+        "norského",
+        "izraelského",
+        "brazilského",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] panovníka?",
+  "questions": [
+    {
+      "key": "Alexandr Veliký",
+      "values": [
+        "egyptského",
+        "thajského",
+        "makedonského",
+        "etiopského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Veliký",
+      "values": [
+        "bavorského",
+        "franského",
+        "saského",
+        "albánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Šalomoun",
+      "values": [
+        "sumerského",
+        "rumunského",
+        "thajského",
+        "izraelského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Wittelsbachové",
+      "values": [
+        "izraelského",
+        "makedonského",
+        "bavorského",
+        "thajského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gilgameš",
+      "values": [
+        "albánského",
+        "afghánského",
+        "uherského",
+        "sumerského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Wettinové",
+      "values": [
+        "egyptského",
+        "monackého",
+        "thajského",
+        "saského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pyrrhos",
+      "values": [
+        "makedonského",
+        "uherského",
+        "monackého",
+        "perského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mamlúci",
+      "values": [
+        "sumerského",
+        "egyptského",
+        "rumunského",
+        "albánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Skanderbeg",
+      "values": [
+        "franského",
+        "rumunského",
+        "albánského",
+        "thajského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pchúmipchon Adunjadét",
+      "values": [
+        "izraelského",
+        "bavorského",
+        "makedonského",
+        "thajského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

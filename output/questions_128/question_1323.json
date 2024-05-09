@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle přístavu",
+  "questions": [
+    {
+      "key": "Łeba",
+      "values": [
+        "Belgie",
+        "Francie",
+        "Španělsko",
+        "Polsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rotterdamský přístav",
+      "values": [
+        "Belgie",
+        "Nizozemsko",
+        "Německo",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gdaňský přístav",
+      "values": [
+        "Polsko",
+        "Belgie",
+        "Turecko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hamburský přístav",
+      "values": [
+        "Španělsko",
+        "Nizozemsko",
+        "Belgie",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zlatý roh",
+      "values": [
+        "Španělsko",
+        "Nizozemsko",
+        "Francie",
+        "Turecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ustka",
+      "values": [
+        "Polsko",
+        "Německo",
+        "Nizozemsko",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sitges",
+      "values": [
+        "Španělsko",
+        "Belgie",
+        "Polsko",
+        "Německo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Denia",
+      "values": [
+        "Německo",
+        "Turecko",
+        "Španělsko",
+        "Belgie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Molo v Sopotech",
+      "values": [
+        "Polsko",
+        "Španělsko",
+        "Německo",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Antverpský přístav",
+      "values": [
+        "Německo",
+        "Belgie",
+        "Nizozemsko",
+        "Španělsko"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

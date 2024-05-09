@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Radko Pytlík",
+      "values": [
+        "českého",
+        "řeckého",
+        "belgického",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oskar Kokoschka",
+      "values": [
+        "rumunského",
+        "rakouského",
+        "maďarského",
+        "chilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lope de Vega",
+      "values": [
+        "kolumbijského",
+        "maďarského",
+        "španělského",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Paolo Villaggio",
+      "values": [
+        "italského",
+        "kanadského",
+        "litevského",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Justine Musk",
+      "values": [
+        "slovenského",
+        "libanonského",
+        "amerického",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marián Geišberg",
+      "values": [
+        "indického",
+        "filipínského",
+        "jihoafrického",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Chalíl Džibrán",
+      "values": [
+        "německého",
+        "ázerbájdžánského",
+        "japonského",
+        "libanonského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Carlo Collodi",
+      "values": [
+        "novozélandského",
+        "běloruského",
+        "italského",
+        "srbského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michael Ende",
+      "values": [
+        "argentinského",
+        "ukrajinského",
+        "německého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michael Servetus",
+      "values": [
+        "mexického",
+        "španělského",
+        "ruského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

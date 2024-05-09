@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebníka?",
+  "questions": [
+    {
+      "key": "Ryan Gosling",
+      "values": [
+        "kanadského",
+        "dánského",
+        "portorického",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Franz Schubert",
+      "values": [
+        "rakouského",
+        "bulharského",
+        "britského",
+        "jugoslávského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marek Hlavica",
+      "values": [
+        "brazilského",
+        "dánského",
+        "gruzínského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bill Cosby",
+      "values": [
+        "chorvatského",
+        "amerického",
+        "švédského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "La Toya Jackson",
+      "values": [
+        "řeckého",
+        "amerického",
+        "ukrajinského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr a Pavel Orm",
+      "values": [
+        "českého",
+        "ruského",
+        "norského",
+        "chorvatského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Astrid S",
+      "values": [
+        "švýcarského",
+        "francouzského",
+        "norského",
+        "ukrajinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anna Magdalena Bachová",
+      "values": [
+        "německého",
+        "českého",
+        "slovenského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mike Pratt",
+      "values": [
+        "jihokorejského",
+        "jugoslávského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vít Malinovský",
+      "values": [
+        "rakouského",
+        "českého",
+        "argentinského",
+        "irského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

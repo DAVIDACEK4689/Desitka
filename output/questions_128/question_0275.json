@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle prezidenta",
+  "questions": [
+    {
+      "key": "Antonín Zápotocký",
+      "values": [
+        "Dominikánská republika",
+        "Gabon",
+        "Slovinsko",
+        "Československo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rudolf Schuster",
+      "values": [
+        "Slovensko",
+        "Uganda",
+        "Česká republika",
+        "Nigérie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "George Weah",
+      "values": [
+        "Moldavsko",
+        "Libérie",
+        "Kyrgyzstán",
+        "Egypt"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chajim Weizmann",
+      "values": [
+        "Izrael",
+        "Severní Makedonie",
+        "Gruzie",
+        "Libérie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Porfirio Díaz",
+      "values": [
+        "Libanon",
+        "Estonsko",
+        "Mexiko",
+        "Irsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zín Abidín bin Alí",
+      "values": [
+        "Burkina Faso",
+        "Litva",
+        "Tunisko",
+        "Mongolsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Juho Kusti Paasikivi",
+      "values": [
+        "Maďarsko",
+        "Finsko",
+        "Uganda",
+        "Kamerun"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michel Temer",
+      "values": [
+        "Arménie",
+        "Česká republika",
+        "Ekvádor",
+        "Brazílie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Émile Loubet",
+      "values": [
+        "Francie",
+        "Malta",
+        "Jižní Korea",
+        "Kazachstán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ilir Meta",
+      "values": [
+        "Francie",
+        "Angola",
+        "Albánie",
+        "Turkmenistán"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

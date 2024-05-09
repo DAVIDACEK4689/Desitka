@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěváka?",
+  "questions": [
+    {
+      "key": "Bohuš Matuš",
+      "values": [
+        "českého",
+        "brazilského",
+        "novozélandského",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Plíhal",
+      "values": [
+        "novozélandského",
+        "českého",
+        "jihokorejského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Taron Egerton",
+      "values": [
+        "britského",
+        "chorvatského",
+        "nizozemského",
+        "alžírského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Arnošt Pátek",
+      "values": [
+        "amerického",
+        "moldavského",
+        "českého",
+        "gruzínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gustav Brom",
+      "values": [
+        "ruského",
+        "rumunského",
+        "českého",
+        "izraelského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kai",
+      "values": [
+        "sovětského",
+        "jihokorejského",
+        "kolumbijského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Antonín Linhart",
+      "values": [
+        "českého",
+        "chorvatského",
+        "britského",
+        "uruguayského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jack Antonoff",
+      "values": [
+        "amerického",
+        "sovětského",
+        "českého",
+        "argentinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stanislav Diviš",
+      "values": [
+        "srbského",
+        "irského",
+        "belgického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sergej Lazarev",
+      "values": [
+        "argentinského",
+        "italského",
+        "brazilského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

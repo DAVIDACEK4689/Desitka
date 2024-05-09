@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Valerij Zalužnyj",
+      "values": [
+        "dánského",
+        "filipínského",
+        "ukrajinského",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Julius Maggi",
+      "values": [
+        "bolivijského",
+        "egyptského",
+        "švýcarského",
+        "maďarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Edmund Burke",
+      "values": [
+        "tureckého",
+        "britského",
+        "gruzínského",
+        "argentinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dmytro Kuleba",
+      "values": [
+        "ukrajinského",
+        "švýcarského",
+        "srbského",
+        "haitského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Artur Axmann",
+      "values": [
+        "nigerského",
+        "ekvádorského",
+        "německého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Getúlio Vargas",
+      "values": [
+        "zimbabwského",
+        "brazilského",
+        "etiopského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Štěpán Széchenyi",
+      "values": [
+        "marockého",
+        "běloruského",
+        "francouzského",
+        "maďarského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Hromádka",
+      "values": [
+        "československého",
+        "keňského",
+        "panamského",
+        "afghánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gunnar Myrdal",
+      "values": [
+        "amerického",
+        "kanadského",
+        "etiopského",
+        "švédského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jo Coxová",
+      "values": [
+        "libyjského",
+        "britského",
+        "panamského",
+        "venezuelského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

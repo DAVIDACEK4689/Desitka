@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Vídeň",
+      "values": [
+        "Dunaj",
+        "Lužnice",
+        "Hornád",
+        "Labe"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tábor",
+      "values": [
+        "Lužnice",
+        "Volha",
+        "Tibera",
+        "Berounka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Přerov",
+      "values": [
+        "Seina",
+        "Bečva",
+        "Tibera",
+        "Jizera"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Osvětim",
+      "values": [
+        "Lužnice",
+        "Visla",
+        "Hornád",
+        "Eufrat"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sušice",
+      "values": [
+        "Otava",
+        "Hornád",
+        "Lužická Nisa",
+        "Cidlina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dnipro",
+      "values": [
+        "Dněpr",
+        "Lužická Nisa",
+        "Hron",
+        "Cidlina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mimoň",
+      "values": [
+        "Ploučnice",
+        "Hornád",
+        "Úhlava",
+        "Tibera"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stříbrná Skalice",
+      "values": [
+        "Váha",
+        "Malše",
+        "Sázava",
+        "Eufrat"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Toruň",
+      "values": [
+        "Spréva",
+        "Seina",
+        "Visla",
+        "Úhlava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hronov",
+      "values": [
+        "Vltava",
+        "Seina",
+        "Hornád",
+        "Metuje"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

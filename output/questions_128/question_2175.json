@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistu?",
+  "questions": [
+    {
+      "key": "Jannik Sinner",
+      "values": [
+        "nizozemského",
+        "francouzského",
+        "italského",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nick Kyrgios",
+      "values": [
+        "chilského",
+        "maďarského",
+        "ruského",
+        "australského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dalibor Svrčina",
+      "values": [
+        "brazilského",
+        "íránského",
+        "českého",
+        "kanadského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexei Popyrin",
+      "values": [
+        "chilského",
+        "australského",
+        "jihoafrického",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ilie Năstase",
+      "values": [
+        "rumunského",
+        "španělského",
+        "indického",
+        "chilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "René Lacoste",
+      "values": [
+        "italského",
+        "australského",
+        "francouzského",
+        "chorvatského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "David Škoch",
+      "values": [
+        "francouzského",
+        "chilského",
+        "československého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Roberto Bautista Agut",
+      "values": [
+        "španělského",
+        "uruguayského",
+        "brazilského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lloyd Harris",
+      "values": [
+        "jihoafrického",
+        "kanadského",
+        "ruského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sebastian Ofner",
+      "values": [
+        "rakouského",
+        "dánského",
+        "polského",
+        "britského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] šlechtický rod?",
+  "questions": [
+    {
+      "key": "Lobkovicové",
+      "values": [
+        "litevský",
+        "skotský",
+        "český",
+        "rakouský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bourboni",
+      "values": [
+        "moravský",
+        "francouzský",
+        "franský",
+        "český"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rurikovci",
+      "values": [
+        "německý",
+        "skotský",
+        "italský",
+        "ukrajinský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hohenzollernové",
+      "values": [
+        "francouzský",
+        "český",
+        "rakouský",
+        "německý"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rohanové",
+      "values": [
+        "litevský",
+        "anglický",
+        "polský",
+        "francouzský"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nosticové",
+      "values": [
+        "polský",
+        "český",
+        "rakouský",
+        "franský"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Esterházyové",
+      "values": [
+        "uherský",
+        "polský",
+        "italský",
+        "anglický"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Osmanská dynastie",
+      "values": [
+        "uherský",
+        "anglický",
+        "španělský",
+        "turecký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Podstatští z Prusinovic",
+      "values": [
+        "německý",
+        "moravský",
+        "uherský",
+        "anglický"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Páni ze Švamberka",
+      "values": [
+        "anglický",
+        "český",
+        "španělský",
+        "uherský"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

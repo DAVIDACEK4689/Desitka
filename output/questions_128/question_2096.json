@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Alina Kabajevová",
+      "values": [
+        "ruského",
+        "izraelského",
+        "singapurského",
+        "eritrejského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Hynek",
+      "values": [
+        "českého",
+        "kolumbijského",
+        "jemenského",
+        "chorvatského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dmitrij Peskov",
+      "values": [
+        "litevského",
+        "ruského",
+        "keňského",
+        "kyrgyzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Christine Lagardeová",
+      "values": [
+        "portugalského",
+        "černohorského",
+        "chorvatského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sixt z Ottersdorfu",
+      "values": [
+        "katarského",
+        "českého",
+        "jihoafrického",
+        "gruzínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Süleyman Demirel",
+      "values": [
+        "jihoafrického",
+        "tureckého",
+        "chorvatského",
+        "arménského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Norbert Hofer",
+      "values": [
+        "ázerbájdžánského",
+        "německého",
+        "rakouského",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marcel Mauss",
+      "values": [
+        "srbského",
+        "maltského",
+        "bolivijského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Boris Vsevolodovič Gromov",
+      "values": [
+        "ruského",
+        "albánského",
+        "slovenského",
+        "chilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gabriela Szabóová",
+      "values": [
+        "rumunského",
+        "lotyšského",
+        "pruského",
+        "norského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte kontinent podle fauny",
+  "questions": [
+    {
+      "key": "Axolotl mexický",
+      "values": [
+        "Severní Amerika",
+        "Asie",
+        "Evropa",
+        "Antarktida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lama alpaka",
+      "values": [
+        "Asie",
+        "Evropa",
+        "Severní Amerika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Medvěd baribal",
+      "values": [
+        "Afrika",
+        "Evropa",
+        "Antarktida",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hrabáč kapský",
+      "values": [
+        "Střední Amerika",
+        "Antarktida",
+        "Evropa",
+        "Afrika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zebra stepní",
+      "values": [
+        "Afrika",
+        "Evropa",
+        "Asie",
+        "Antarktida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Žirafa síťovaná",
+      "values": [
+        "Evropa",
+        "Afrika",
+        "Asie",
+        "Střední Amerika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kajman černý",
+      "values": [
+        "Severní Amerika",
+        "Jižní Amerika",
+        "Antarktida",
+        "Evropa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lachtan hřivnatý",
+      "values": [
+        "Jižní Amerika",
+        "Afrika",
+        "Asie",
+        "Severní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lvíček zlatý",
+      "values": [
+        "Evropa",
+        "Asie",
+        "Severní Amerika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Krokodýl čelnatý",
+      "values": [
+        "Afrika",
+        "Jižní Amerika",
+        "Severní Amerika",
+        "Střední Amerika"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] firmu?",
+  "questions": [
+    {
+      "key": "Brouk a Babka",
+      "values": [
+        "švýcarskou",
+        "norskou",
+        "československou",
+        "saúdskoarabskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Yandex",
+      "values": [
+        "ruskou",
+        "československou",
+        "italskou",
+        "belgickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sprandi",
+      "values": [
+        "polskou",
+        "izraelskou",
+        "kanadskou",
+        "saúdskoarabskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "PricewaterhouseCoopers",
+      "values": [
+        "francouzskou",
+        "nizozemskou",
+        "saúdskoarabskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Arriva",
+      "values": [
+        "britskou",
+        "rakouskou",
+        "americkou",
+        "československou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "GymBeam",
+      "values": [
+        "čínskou",
+        "kanadskou",
+        "dánskou",
+        "slovenskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Herbalife",
+      "values": [
+        "americkou",
+        "polskou",
+        "dánskou",
+        "španělskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "ThyssenKrupp",
+      "values": [
+        "německou",
+        "saúdskoarabskou",
+        "ruskou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pragotron",
+      "values": [
+        "jihokorejskou",
+        "československou",
+        "švýcarskou",
+        "polskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cofidis",
+      "values": [
+        "německou",
+        "finskou",
+        "saúdskoarabskou",
+        "francouzskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

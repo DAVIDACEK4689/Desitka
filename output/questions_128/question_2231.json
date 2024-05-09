@@ -1,0 +1,105 @@
+{
+  "text": "Určete sport podle české sportovkyně",
+  "questions": [
+    {
+      "key": "Kateřina Siniaková",
+      "values": [
+        "veslařka",
+        "tenistka",
+        "krasobruslařka",
+        "rychlobruslařka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hana Mašková",
+      "values": [
+        "krasobruslařka",
+        "veslařka",
+        "plavkyně",
+        "stolní tenistka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Iveta Miculyčová",
+      "values": [
+        "golfistky",
+        "sportovní střelkyně",
+        "cyklistka",
+        "horolezci"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kateřina Nekolná",
+      "values": [
+        "golfistky",
+        "atletka",
+        "lukostřelkyně",
+        "lední hokejistky"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Klára Koukalová",
+      "values": [
+        "basketbalistka",
+        "veslařka",
+        "tenistka",
+        "krasobruslařka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michaela Mertová",
+      "values": [
+        "horolezci",
+        "cyklistka",
+        "basketbalistka",
+        "atletka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Romana Kiecková",
+      "values": [
+        "florbalistky",
+        "sportovní střelkyně",
+        "šachistky",
+        "tenistka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miroslava Topinková Knapková",
+      "values": [
+        "florbalistky",
+        "orientační běžkyně",
+        "horolezci",
+        "veslařka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eva Horáková",
+      "values": [
+        "golfistky",
+        "basketbalistka",
+        "šachistky",
+        "florbalistky"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Anna Vodná",
+      "values": [
+        "atletka",
+        "plavkyně",
+        "stolní tenistka",
+        "házenkářka"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

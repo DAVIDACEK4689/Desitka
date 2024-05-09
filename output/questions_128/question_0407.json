@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] palnou zbraň?",
+  "questions": [
+    {
+      "key": "Colt 1911",
+      "values": [
+        "izraelskou",
+        "americkou",
+        "rakouskou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "M1 Garand",
+      "values": [
+        "izraelskou",
+        "švýcarskou",
+        "rakouskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "FN P90",
+      "values": [
+        "japonskou",
+        "italskou",
+        "belgickou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "FN SCAR",
+      "values": [
+        "polskou",
+        "rakouskou",
+        "americkou",
+        "švýcarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Beretta 92",
+      "values": [
+        "japonskou",
+        "italskou",
+        "rakouskou",
+        "polskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "FG 42",
+      "values": [
+        "polskou",
+        "izraelskou",
+        "německou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "FN MAG",
+      "values": [
+        "německou",
+        "americkou",
+        "rakouskou",
+        "belgickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Springfield M1903",
+      "values": [
+        "rakouskou",
+        "italskou",
+        "švýcarskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "M39 EMR",
+      "values": [
+        "italskou",
+        "americkou",
+        "izraelskou",
+        "britskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "IMI Negev",
+      "values": [
+        "britskou",
+        "polskou",
+        "italskou",
+        "izraelskou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

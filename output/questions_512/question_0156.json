@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Karel Kryl",
+      "values": [
+        "chilského",
+        "německého",
+        "srbského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tycho Brahe",
+      "values": [
+        "srbského",
+        "dánského",
+        "skotského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Hrubín",
+      "values": [
+        "indického",
+        "amerického",
+        "srbského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Oto Klempíř",
+      "values": [
+        "vietnamského",
+        "kanadského",
+        "českého",
+        "řeckého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Milan Knížák",
+      "values": [
+        "polského",
+        "kanadského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rudyard Kipling",
+      "values": [
+        "vietnamského",
+        "českého",
+        "anglického",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Heinrich Heine",
+      "values": [
+        "indického",
+        "maďarského",
+        "skotského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Edward Thomas",
+      "values": [
+        "vietnamského",
+        "anglického",
+        "řeckého",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sylvia Plathová",
+      "values": [
+        "indického",
+        "kanadského",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Federico García Lorca",
+      "values": [
+        "španělského",
+        "německého",
+        "chilského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

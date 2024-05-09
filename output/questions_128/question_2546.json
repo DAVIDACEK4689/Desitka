@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Adam Hloušek",
+      "values": [
+        "rakouského",
+        "islandského",
+        "českého",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Angelo Preciado",
+      "values": [
+        "ekvádorského",
+        "brazilského",
+        "sovětského",
+        "peruánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Sivok",
+      "values": [
+        "maďarského",
+        "rakouského",
+        "rumunského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Aleš Mandous",
+      "values": [
+        "švýcarského",
+        "mexického",
+        "českého",
+        "egyptského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marcel Sabitzer",
+      "values": [
+        "albánského",
+        "rakouského",
+        "skotského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mats Hummels",
+      "values": [
+        "chorvatského",
+        "německého",
+        "australského",
+        "černohorského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Glenn Hoddle",
+      "values": [
+        "černohorského",
+        "anglického",
+        "uruguayského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tomáš Poštulka",
+      "values": [
+        "sovětského",
+        "českého",
+        "nigerijského",
+        "srbského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Omar Sívori",
+      "values": [
+        "polského",
+        "albánského",
+        "argentinského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Roberto Dinamite",
+      "values": [
+        "gambijského",
+        "kamerunského",
+        "brazilského",
+        "ekvádorského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

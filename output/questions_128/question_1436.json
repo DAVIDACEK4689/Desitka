@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] římského katolíka?",
+  "questions": [
+    {
+      "key": "Jana Černochová",
+      "values": [
+        "kanadského",
+        "portugalského",
+        "českého",
+        "litevského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Gina Lollobrigida",
+      "values": [
+        "maďarského",
+        "kanadského",
+        "italského",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sandro Botticelli",
+      "values": [
+        "francouzského",
+        "italského",
+        "britského",
+        "monackého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Antonio Salieri",
+      "values": [
+        "francouzského",
+        "italského",
+        "britského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Anneliese Michel",
+      "values": [
+        "švýcarského",
+        "německého",
+        "litevského",
+        "monackého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Arne Novák",
+      "values": [
+        "portugalského",
+        "německého",
+        "českého",
+        "italského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Camillo Benso Cavour",
+      "values": [
+        "amerického",
+        "britského",
+        "italského",
+        "francouzského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oskar Lafontaine",
+      "values": [
+        "českého",
+        "kanadského",
+        "německého",
+        "litevského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Laura Pausini",
+      "values": [
+        "italského",
+        "francouzského",
+        "švýcarského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Přibyslava Česká",
+      "values": [
+        "portugalského",
+        "českého",
+        "litevského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

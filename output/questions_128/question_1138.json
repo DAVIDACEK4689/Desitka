@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Anna Fialová",
+      "values": [
+        "švédskou",
+        "českou",
+        "rakouskou",
+        "řeckou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alena Mihulová",
+      "values": [
+        "kolumbijskou",
+        "belgickou",
+        "bulharskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Olga Matušková",
+      "values": [
+        "českou",
+        "srbskou",
+        "jihoafrickou",
+        "finskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gabriela Míčová",
+      "values": [
+        "španělskou",
+        "českou",
+        "irskou",
+        "italskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Katheryn Winnicková",
+      "values": [
+        "jihoafrickou",
+        "kanadskou",
+        "australskou",
+        "finskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Heather Graham",
+      "values": [
+        "kubánskou",
+        "americkou",
+        "novozélandskou",
+        "kanadskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marg Helgenberger",
+      "values": [
+        "kubánskou",
+        "americkou",
+        "španělskou",
+        "ruskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rita Volk",
+      "values": [
+        "uzbeckou",
+        "řeckou",
+        "irskou",
+        "francouzskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Eliza Taylor",
+      "values": [
+        "dánskou",
+        "americkou",
+        "australskou",
+        "indickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zora Božinová",
+      "values": [
+        "českou",
+        "německou",
+        "jihoafrickou",
+        "čínskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

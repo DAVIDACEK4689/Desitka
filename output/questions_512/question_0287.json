@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Donald Trump",
+      "values": [
+        "slovenského",
+        "brazilského",
+        "švédského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Honoré de Balzac",
+      "values": [
+        "švýcarského",
+        "francouzského",
+        "argentinského",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel May",
+      "values": [
+        "argentinského",
+        "brazilského",
+        "švédského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dominik Dán",
+      "values": [
+        "slovenského",
+        "srbského",
+        "ruského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dan Brown",
+      "values": [
+        "maďarského",
+        "amerického",
+        "francouzského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gabor Maté",
+      "values": [
+        "kanadského",
+        "novozélandského",
+        "slovenského",
+        "izraelského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Amal Clooney",
+      "values": [
+        "španělského",
+        "britského",
+        "ruského",
+        "rakouského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rabíndranáth Thákur",
+      "values": [
+        "norského",
+        "indického",
+        "japonského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Placák",
+      "values": [
+        "švédského",
+        "českého",
+        "německého",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Schulz",
+      "values": [
+        "izraelského",
+        "českého",
+        "irského",
+        "italského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

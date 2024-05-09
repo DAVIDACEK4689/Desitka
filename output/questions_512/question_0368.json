@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] zpěvačku?",
+  "questions": [
+    {
+      "key": "Amy Winehouse",
+      "values": [
+        "skotskou",
+        "romskou",
+        "židovskou",
+        "velšskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Monika Bagárová",
+      "values": [
+        "skotskou",
+        "velšskou",
+        "židovskou",
+        "romskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Iva Bittová",
+      "values": [
+        "romskou",
+        "židovskou",
+        "skotskou",
+        "velšskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Barbra Streisandová",
+      "values": [
+        "romskou",
+        "velšskou",
+        "židovskou",
+        "skotskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Courtney Love",
+      "values": [
+        "romskou",
+        "skotskou",
+        "židovskou",
+        "velšskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zoë Kravitzová",
+      "values": [
+        "romskou",
+        "velšskou",
+        "židovskou",
+        "skotskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Annie Lennox",
+      "values": [
+        "skotskou",
+        "velšskou",
+        "romskou",
+        "židovskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Charlotte Gainsbourgová",
+      "values": [
+        "romskou",
+        "skotskou",
+        "velšskou",
+        "židovskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bonnie Tyler",
+      "values": [
+        "velšskou",
+        "židovskou",
+        "skotskou",
+        "romskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cass Elliot",
+      "values": [
+        "židovskou",
+        "skotskou",
+        "velšskou",
+        "romskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

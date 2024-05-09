@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Divizna velkokvětá",
+      "values": [
+        "Mexiko",
+        "Japonsko",
+        "Česko",
+        "Madagaskar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Prvosenka",
+      "values": [
+        "Mexiko",
+        "Madagaskar",
+        "Česko",
+        "Mongolsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Denivka",
+      "values": [
+        "Brazílie",
+        "Japonsko",
+        "Mongolsko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Árón plamatý",
+      "values": [
+        "Mongolsko",
+        "Mexiko",
+        "Japonsko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Černucha",
+      "values": [
+        "Nový Zéland",
+        "Mongolsko",
+        "Mexiko",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pukol",
+      "values": [
+        "Austrálie",
+        "Madagaskar",
+        "Česko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Černýš rolní",
+      "values": [
+        "Nový Zéland",
+        "Česko",
+        "Madagaskar",
+        "Mexiko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Echinopsis",
+      "values": [
+        "Nový Zéland",
+        "Brazílie",
+        "Mongolsko",
+        "Česko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kostřava ovčí",
+      "values": [
+        "Mongolsko",
+        "Česko",
+        "Mexiko",
+        "Austrálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Astřička kopinatá",
+      "values": [
+        "Mexiko",
+        "Brazílie",
+        "Madagaskar",
+        "Mongolsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

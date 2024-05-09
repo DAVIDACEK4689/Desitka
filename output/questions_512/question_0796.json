@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Salcburk",
+      "values": [
+        "Rakousko",
+        "Bolívie",
+        "Malajsie",
+        "Kazachstán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Split",
+      "values": [
+        "Chorvatsko",
+        "Nigérie",
+        "Jihoafrická republika",
+        "Gruzie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pchjongjang",
+      "values": [
+        "Severní Korea",
+        "Řecko",
+        "Česko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fatima",
+      "values": [
+        "Mongolsko",
+        "Portugalsko",
+        "Ekvádor",
+        "Abcházie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lucern",
+      "values": [
+        "Rumunsko",
+        "Japonsko",
+        "Tádžikistán",
+        "Švýcarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Addis Abeba",
+      "values": [
+        "Španělsko",
+        "Německo",
+        "Brazílie",
+        "Etiopie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Santa Cruz de Tenerife",
+      "values": [
+        "Kazachstán",
+        "Španělsko",
+        "Abcházie",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pamplona",
+      "values": [
+        "Bělorusko",
+        "Kypr",
+        "Kambodža",
+        "Španělsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Edirne",
+      "values": [
+        "Maroko",
+        "Keňa",
+        "Turecko",
+        "Vietnam"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tornaľa",
+      "values": [
+        "Tádžikistán",
+        "Kambodža",
+        "Slovensko",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

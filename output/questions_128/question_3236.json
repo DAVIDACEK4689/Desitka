@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] firmu?",
+  "questions": [
+    {
+      "key": "Ahold Delhaize",
+      "values": [
+        "britskou",
+        "švýcarskou",
+        "nizozemskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Patreon",
+      "values": [
+        "maltskou",
+        "americkou",
+        "švédskou",
+        "dánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bel Ami",
+      "values": [
+        "finskou",
+        "slovenskou",
+        "československou",
+        "rakouskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Strabag",
+      "values": [
+        "irskou",
+        "rakouskou",
+        "chorvatskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rotax",
+      "values": [
+        "belgickou",
+        "rakouskou",
+        "malajsijskou",
+        "německou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Logitech",
+      "values": [
+        "saúdskoarabskou",
+        "vietnamskou",
+        "irskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Eli Lilly and Company",
+      "values": [
+        "australskou",
+        "americkou",
+        "jihokorejskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "ZTE",
+      "values": [
+        "maďarskou",
+        "japonskou",
+        "rakouskou",
+        "čínskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Waggonbau Bautzen",
+      "values": [
+        "polskou",
+        "německou",
+        "izraelskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Shell USA",
+      "values": [
+        "americkou",
+        "britskou",
+        "francouzskou",
+        "chorvatskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

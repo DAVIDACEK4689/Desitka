@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Svit",
+      "values": [
+        "Myanmar",
+        "Gabon",
+        "Slovensko",
+        "Sýrie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Szombathely",
+      "values": [
+        "Malta",
+        "Maďarsko",
+        "Honduras",
+        "Brazílie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hévíz",
+      "values": [
+        "Irsko",
+        "Venezuela",
+        "Alžírsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hoi An",
+      "values": [
+        "Kapverdy",
+        "Vietnam",
+        "Kiribati",
+        "Indonésie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Balassagyarmat",
+      "values": [
+        "Venezuela",
+        "Litva",
+        "Island",
+        "Maďarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tetovo",
+      "values": [
+        "Severní Makedonie",
+        "Rumunsko",
+        "Turkmenistán",
+        "Brazílie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Estoril",
+      "values": [
+        "Portugalsko",
+        "Abcházie",
+        "Spojené království",
+        "Turkmenistán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kano",
+      "values": [
+        "Švýcarsko",
+        "Nigérie",
+        "Myanmar",
+        "Kiribati"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Cochabamba",
+      "values": [
+        "Kolumbie",
+        "Bolívie",
+        "Indonésie",
+        "Irsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sulejmánie",
+      "values": [
+        "Bolívie",
+        "Irák",
+        "Togo",
+        "Austrálie"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

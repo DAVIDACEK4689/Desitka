@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] modelku?",
+  "questions": [
+    {
+      "key": "Lela Vémola",
+      "values": [
+        "brazilskou",
+        "francouzskou",
+        "venezuelskou",
+        "slovenskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Iva Frühlingová",
+      "values": [
+        "polskou",
+        "českou",
+        "brazilskou",
+        "dánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dominika Myslivcová",
+      "values": [
+        "jihoafrickou",
+        "rakouskou",
+        "japonskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Anna Kurnikovová",
+      "values": [
+        "dánskou",
+        "ruskou",
+        "švýcarskou",
+        "maďarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lady Hamiltonová",
+      "values": [
+        "izraelskou",
+        "polskou",
+        "namibijskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nina Agdalová",
+      "values": [
+        "dánskou",
+        "ruskou",
+        "namibijskou",
+        "slovenskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Waris Dirie",
+      "values": [
+        "českou",
+        "německou",
+        "rakouskou",
+        "maďarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Famke Janssenová",
+      "values": [
+        "japonskou",
+        "nizozemskou",
+        "českou",
+        "izraelskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lilian Sarah Fischerová",
+      "values": [
+        "venezuelskou",
+        "českou",
+        "australskou",
+        "dánskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kaia Gerberová",
+      "values": [
+        "českou",
+        "kanadskou",
+        "americkou",
+        "argentinskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

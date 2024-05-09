@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] automobilku?",
+  "questions": [
+    {
+      "key": "Bugatti",
+      "values": [
+        "francouzskou",
+        "jugoslávskou",
+        "japonskou",
+        "španělskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "SsangYong",
+      "values": [
+        "jihokorejskou",
+        "indickou",
+        "rakouskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Nissan",
+      "values": [
+        "českou",
+        "japonskou",
+        "španělskou",
+        "švédskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ikarus",
+      "values": [
+        "českou",
+        "maďarskou",
+        "nizozemskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Husqvarna",
+      "values": [
+        "tureckou",
+        "španělskou",
+        "nizozemskou",
+        "švédskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bratislavské automobilové závody",
+      "values": [
+        "jihokorejskou",
+        "belgickou",
+        "slovenskou",
+        "švýcarskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "UAZ",
+      "values": [
+        "slovenskou",
+        "švýcarskou",
+        "ruskou",
+        "australskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rivian",
+      "values": [
+        "rakouskou",
+        "americkou",
+        "švýcarskou",
+        "českou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Navistar International",
+      "values": [
+        "švýcarskou",
+        "švédskou",
+        "americkou",
+        "nizozemskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Irizar",
+      "values": [
+        "maďarskou",
+        "švédskou",
+        "španělskou",
+        "japonskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

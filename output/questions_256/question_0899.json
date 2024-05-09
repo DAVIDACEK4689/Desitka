@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle flóry",
+  "questions": [
+    {
+      "key": "Heřmánek pravý",
+      "values": [
+        "Madagaskar",
+        "Česko",
+        "Mexiko",
+        "Brazílie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jasmín",
+      "values": [
+        "Mexiko",
+        "Mongolsko",
+        "Nový Zéland",
+        "Austrálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Brusnice brusinka",
+      "values": [
+        "Austrálie",
+        "Mongolsko",
+        "Brazílie",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jetel plazivý",
+      "values": [
+        "Česko",
+        "Austrálie",
+        "Brazílie",
+        "Mexiko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rozchodnice růžová",
+      "values": [
+        "Mexiko",
+        "Mongolsko",
+        "Brazílie",
+        "Austrálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hlošina úzkolistá",
+      "values": [
+        "Česko",
+        "Mongolsko",
+        "Mexiko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Chrpa luční",
+      "values": [
+        "Česko",
+        "Madagaskar",
+        "Mexiko",
+        "Austrálie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Řebčík",
+      "values": [
+        "Mongolsko",
+        "Madagaskar",
+        "Brazílie",
+        "Nový Zéland"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kakost krvavý",
+      "values": [
+        "Austrálie",
+        "Mexiko",
+        "Nový Zéland",
+        "Česko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kakost maličký",
+      "values": [
+        "Nový Zéland",
+        "Česko",
+        "Brazílie",
+        "Austrálie"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

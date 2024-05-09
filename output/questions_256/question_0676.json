@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle kraje",
+  "questions": [
+    {
+      "key": "Oslo",
+      "values": [
+        "Česko",
+        "Norsko",
+        "Švédsko",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kamčatský kraj",
+      "values": [
+        "Slovensko",
+        "Řecko",
+        "Rusko",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Žilinský kraj",
+      "values": [
+        "Slovensko",
+        "Norsko",
+        "Řecko",
+        "Švédsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bratislavský kraj",
+      "values": [
+        "Rusko",
+        "Česko",
+        "Slovensko",
+        "Norsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Epirus",
+      "values": [
+        "Česko",
+        "Rusko",
+        "Slovensko",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Banskobystrický kraj",
+      "values": [
+        "Česko",
+        "Norsko",
+        "Slovensko",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Prešovský kraj",
+      "values": [
+        "Rusko",
+        "Řecko",
+        "Slovensko",
+        "Norsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Thesálie",
+      "values": [
+        "Švédsko",
+        "Slovensko",
+        "Norsko",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Krasnojarský kraj",
+      "values": [
+        "Rusko",
+        "Česko",
+        "Norsko",
+        "Švédsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Krasnodarský kraj",
+      "values": [
+        "Řecko",
+        "Norsko",
+        "Rusko",
+        "Slovensko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

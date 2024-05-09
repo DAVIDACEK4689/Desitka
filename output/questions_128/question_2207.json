@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle českého sportovce",
+  "questions": [
+    {
+      "key": "Tomáš Berdych",
+      "values": [
+        "bojový umělec",
+        "tenista",
+        "cyklista",
+        "taekwondisté"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rostislav Klesla",
+      "values": [
+        "gymnasta",
+        "lední hokejista",
+        "veslař",
+        "volejbalista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Leopold Sulovský",
+      "values": [
+        "horolezec",
+        "zápasník",
+        "rychlostní kanoista",
+        "sportovní střelec"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Jelínek",
+      "values": [
+        "kajakář",
+        "tenista",
+        "fotbalista",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "David Bystroň",
+      "values": [
+        "ragbista",
+        "basketbalista",
+        "fotbalista",
+        "veslař"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anna Fernstädtová",
+      "values": [
+        "skeletonisté",
+        "rychlostní kanoista",
+        "golfista",
+        "lyžař"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Kelemen",
+      "values": [
+        "cyklista",
+        "veslař",
+        "squashisté",
+        "automobilový závodník"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Daniel Vacek",
+      "values": [
+        "cyklista",
+        "tenista",
+        "stolní tenista",
+        "bojový umělec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Leoš Friedl",
+      "values": [
+        "gymnasta",
+        "baseballisté",
+        "tenista",
+        "horolezec"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bronislav Danda",
+      "values": [
+        "šachista",
+        "zápasník",
+        "fotbalista",
+        "taekwondisté"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

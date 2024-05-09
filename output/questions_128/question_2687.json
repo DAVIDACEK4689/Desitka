@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle města",
+  "questions": [
+    {
+      "key": "Podgorica",
+      "values": [
+        "Černá Hora",
+        "Ekvádor",
+        "Brunej",
+        "Saúdská Arábie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oradea",
+      "values": [
+        "Litva",
+        "Kypr",
+        "Burkina Faso",
+        "Rumunsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vrútky",
+      "values": [
+        "Maroko",
+        "Gruzie",
+        "Lotyšsko",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Christchurch",
+      "values": [
+        "Pero",
+        "Nový Zéland",
+        "Etiopie",
+        "Niger"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lahti",
+      "values": [
+        "Malajsie",
+        "Rusko",
+        "Eritrea",
+        "Finsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ahmadábád",
+      "values": [
+        "Eritrea",
+        "Bhútán",
+        "Indie",
+        "Írán"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Peñíscola",
+      "values": [
+        "Tádžikistán",
+        "Namibie",
+        "Španělsko",
+        "Rakousko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Oš",
+      "values": [
+        "Botswana",
+        "Kyrgyzstán",
+        "Německo",
+        "Kazachstán"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Morelia",
+      "values": [
+        "Švýcarsko",
+        "Nigérie",
+        "Mexiko",
+        "Paraguay"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Landskrona",
+      "values": [
+        "Eritrea",
+        "Bulharsko",
+        "Švédsko",
+        "Somálsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

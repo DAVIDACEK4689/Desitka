@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte spisovatele podle literárního díla",
+  "questions": [
+    {
+      "key": "Farma zvířat",
+      "values": [
+        "George Orwell",
+        "Dante Alighieri",
+        "Friedrich Schiller",
+        "Oscar Wilde"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Božská komedie",
+      "values": [
+        "Friedrich Schiller",
+        "Alexandr Sergejevič Puškin",
+        "Dante Alighieri",
+        "Charles Dickens"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Obraz Doriana Graye",
+      "values": [
+        "Oscar Wilde",
+        "Jan Amos Komenský",
+        "Dante Alighieri",
+        "George Orwell"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bídníci",
+      "values": [
+        "Jan Amos Komenský",
+        "Victor Hugo",
+        "Dante Alighieri",
+        "Roald Dahl"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Evžen Oněgin",
+      "values": [
+        "Fjodor Michajlovič Dostojevskij",
+        "Alexandr Sergejevič Puškin",
+        "Charles Dickens",
+        "Martin Luther"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Labyrint světa a ráj srdce",
+      "values": [
+        "Jan Amos Komenský",
+        "Dante Alighieri",
+        "Charles Dickens",
+        "Roald Dahl"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Oliver Twist",
+      "values": [
+        "Victor Hugo",
+        "Alexandr Sergejevič Puškin",
+        "Charles Dickens",
+        "Fjodor Michajlovič Dostojevskij"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zločin a trest",
+      "values": [
+        "Johann Wolfgang von Goethe",
+        "Fjodor Michajlovič Dostojevskij",
+        "Oscar Wilde",
+        "Charles Dickens"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Utrpení mladého Werthera",
+      "values": [
+        "Johann Wolfgang von Goethe",
+        "Astrid Lindgrenová",
+        "Victor Hugo",
+        "Martin Luther"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karlík a továrna na čokoládu",
+      "values": [
+        "Alexandr Sergejevič Puškin",
+        "Friedrich Schiller",
+        "Oscar Wilde",
+        "Roald Dahl"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

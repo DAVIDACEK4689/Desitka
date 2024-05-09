@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle archeologické lokality",
+  "questions": [
+    {
+      "key": "Soluň",
+      "values": [
+        "Maďarsko",
+        "Česko",
+        "Ukrajina",
+        "Řecko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gízská nekropole",
+      "values": [
+        "Afghánistán",
+        "Tunisko",
+        "Egypt",
+        "Chorvatsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Akko",
+      "values": [
+        "Pákistán",
+        "Izrael",
+        "Tunisko",
+        "Slovensko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pireus",
+      "values": [
+        "Řecko",
+        "Francie",
+        "Irák",
+        "Tunisko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Thermopyly",
+      "values": [
+        "Řecko",
+        "Chorvatsko",
+        "Turecko",
+        "Sýrie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Palmýra",
+      "values": [
+        "Slovensko",
+        "Sýrie",
+        "Litva",
+        "Jordánsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Délos",
+      "values": [
+        "Řecko",
+        "Litva",
+        "Srí Lanka",
+        "Indonésie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ugarit",
+      "values": [
+        "Rakousko",
+        "Německo",
+        "Sýrie",
+        "Tunisko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Harappa",
+      "values": [
+        "Pákistán",
+        "Jihoafrická republika",
+        "Federativní státy Mikronésie",
+        "Írán"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hypogeum Ħal Saflieni",
+      "values": [
+        "Maďarsko",
+        "Turecko",
+        "Malta",
+        "Řecko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Johnny Cash",
+      "values": [
+        "argentinského",
+        "italského",
+        "amerického",
+        "belgického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Claude Debussy",
+      "values": [
+        "nizozemského",
+        "francouzského",
+        "rumunského",
+        "argentinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Modest Petrovič Musorgskij",
+      "values": [
+        "kanadského",
+        "ruského",
+        "irského",
+        "estonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karl Ditters von Dittersdorf",
+      "values": [
+        "českého",
+        "argentinského",
+        "rakouského",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dermot Kennedy",
+      "values": [
+        "finského",
+        "brazilského",
+        "argentinského",
+        "irského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jarda Hypochondr",
+      "values": [
+        "českého",
+        "australského",
+        "arménského",
+        "litevského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jules Massenet",
+      "values": [
+        "finského",
+        "francouzského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jaroslav Celba",
+      "values": [
+        "českého",
+        "maďarského",
+        "dánského",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "André Previn",
+      "values": [
+        "polského",
+        "řeckého",
+        "finského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Peter Sculthorpe",
+      "values": [
+        "švédského",
+        "estonského",
+        "slovinského",
+        "australského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

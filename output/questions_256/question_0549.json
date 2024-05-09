@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [národnost] hudební skupinu?",
+  "questions": [
+    {
+      "key": "Milli Vanilli",
+      "values": [
+        "chorvatskou",
+        "ukrajinskou",
+        "španělskou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Skyline",
+      "values": [
+        "norskou",
+        "českou",
+        "finskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "ATMO music",
+      "values": [
+        "australskou",
+        "italskou",
+        "českou",
+        "norskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ace of Base",
+      "values": [
+        "českou",
+        "ruskou",
+        "švédskou",
+        "francouzskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Čiperkové",
+      "values": [
+        "českou",
+        "bosenskou",
+        "irskou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Itzy",
+      "values": [
+        "jihokorejskou",
+        "australskou",
+        "francouzskou",
+        "finskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Buena Vista Social Club",
+      "values": [
+        "kubánskou",
+        "jihoafrickou",
+        "estonskou",
+        "švédskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Heilung",
+      "values": [
+        "jihokorejskou",
+        "chorvatskou",
+        "německou",
+        "britskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vengaboys",
+      "values": [
+        "kubánskou",
+        "nizozemskou",
+        "jihokorejskou",
+        "estonskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "The Dead South",
+      "values": [
+        "irskou",
+        "kanadskou",
+        "americkou",
+        "norskou"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] fotbalovou soutěž?",
+  "questions": [
+    {
+      "key": "Premier League",
+      "values": [
+        "portugalskou",
+        "anglickou",
+        "německou",
+        "skotskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "FA Cup",
+      "values": [
+        "skotskou",
+        "českou",
+        "anglickou",
+        "nizozemskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "EFL Championship",
+      "values": [
+        "anglickou",
+        "chorvatskou",
+        "českou",
+        "belgickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Malý fotbal",
+      "values": [
+        "portugalskou",
+        "nizozemskou",
+        "anglickou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ekstraklasa",
+      "values": [
+        "polskou",
+        "nizozemskou",
+        "portugalskou",
+        "skotskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Football League First Division",
+      "values": [
+        "anglickou",
+        "chorvatskou",
+        "německou",
+        "českou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Primeira Liga",
+      "values": [
+        "španělskou",
+        "portugalskou",
+        "tureckou",
+        "anglickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jupiler Pro League",
+      "values": [
+        "tureckou",
+        "skotskou",
+        "portugalskou",
+        "belgickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Supercopa de España",
+      "values": [
+        "českou",
+        "polskou",
+        "španělskou",
+        "německou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Serie B",
+      "values": [
+        "italskou",
+        "nizozemskou",
+        "francouzskou",
+        "polskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

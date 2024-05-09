@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle vlády",
+  "questions": [
+    {
+      "key": "Vláda Petra Nečase",
+      "values": [
+        "Česká republika",
+        "Polsko",
+        "Německo",
+        "Slovenská republika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vláda Ľudovíta Ódora",
+      "values": [
+        "Československo",
+        "Ukrajina",
+        "Slovenská republika",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vláda Igora Matoviče",
+      "values": [
+        "Slovenská republika",
+        "Česká republika",
+        "Spojené království",
+        "Německo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vláda Adolfa Hitlera",
+      "values": [
+        "Německo",
+        "Spojené království",
+        "Československo",
+        "Polsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vláda Rishiho Sunaka",
+      "values": [
+        "Česká republika",
+        "Spojené království",
+        "Slovenská republika",
+        "Československo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vláda Olafa Scholze",
+      "values": [
+        "Německo",
+        "Slovenská republika",
+        "Česká republika",
+        "Ukrajina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Britská monarchie",
+      "values": [
+        "Itálie",
+        "Slovenská republika",
+        "Spojené království",
+        "Československo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vláda Lutze Schwerina von Krosigka",
+      "values": [
+        "Spojené království",
+        "Německo",
+        "Polsko",
+        "Slovenská republika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Druhá vláda Vladimíra Mečiara",
+      "values": [
+        "Německo",
+        "Itálie",
+        "Spojené království",
+        "Slovenská republika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "První vláda Milana Hodži",
+      "values": [
+        "Ukrajina",
+        "Slovenská republika",
+        "Československo",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

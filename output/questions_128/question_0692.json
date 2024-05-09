@@ -1,0 +1,105 @@
+{
+  "text": "Určete bojiště podle bitvy",
+  "questions": [
+    {
+      "key": "Bitva v Teutoburském lese",
+      "values": [
+        "Japonsko",
+        "Izrael",
+        "Německo",
+        "Rakousko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Hattínu",
+      "values": [
+        "Nizozemsko",
+        "Mexiko",
+        "Francie",
+        "Izrael"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Gravelines",
+      "values": [
+        "Francie",
+        "Indie",
+        "Řecko",
+        "Senegal"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Doss Alto",
+      "values": [
+        "Itálie",
+        "Izrael",
+        "Rakousko",
+        "Bavorsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Valmy",
+      "values": [
+        "Afghánistán",
+        "Francie",
+        "Polsko",
+        "Sasko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Operace Dragoon",
+      "values": [
+        "Uganda",
+        "Austrálie",
+        "Slovinsko",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva na pláni Idistaviso",
+      "values": [
+        "Bulharsko",
+        "Nizozemsko",
+        "Gruzie",
+        "Německo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Adwy",
+      "values": [
+        "Spojené království",
+        "Etiopie",
+        "Uganda",
+        "Indonésie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Kamence Podolského",
+      "values": [
+        "Ukrajina",
+        "Indonésie",
+        "Chorvatsko",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva u Fontenoy",
+      "values": [
+        "Belgie",
+        "Řecko",
+        "Sasko",
+        "Nizozemsko"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Řím",
+      "values": [
+        "Lužická Nisa",
+        "Malše",
+        "Tibera",
+        "Rýn"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Řezno",
+      "values": [
+        "Hron",
+        "Tis",
+        "Dunaj",
+        "Bečva"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Žilina",
+      "values": [
+        "Seina",
+        "Rýn",
+        "Spréva",
+        "Váha"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bonn",
+      "values": [
+        "Temže",
+        "Bečva",
+        "Otava",
+        "Rýn"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Přeštice",
+      "values": [
+        "Loira",
+        "Metuje",
+        "Tis",
+        "Úhlava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nantes",
+      "values": [
+        "Loira",
+        "Bečva",
+        "Dyje",
+        "Lužická Nisa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bubeneč",
+      "values": [
+        "Vltava",
+        "Don",
+        "Volha",
+        "Malše"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bogatynia",
+      "values": [
+        "Dněpr",
+        "Rýn",
+        "Úslava",
+        "Lužická Nisa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Podivín",
+      "values": [
+        "Tibera",
+        "Dyje",
+        "Váha",
+        "Ploučnice"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kamjanske",
+      "values": [
+        "Hron",
+        "Dněpr",
+        "Sázava",
+        "Radbuza"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

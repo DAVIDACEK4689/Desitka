@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Milan Lasica",
+      "values": [
+        "slovenského",
+        "novozélandského",
+        "maďarského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kenneth Branagh",
+      "values": [
+        "dánského",
+        "britského",
+        "belgického",
+        "australského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ladislav Boháč",
+      "values": [
+        "německého",
+        "rakouského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jensen Ackles",
+      "values": [
+        "slovinského",
+        "švýcarského",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tinto Brass",
+      "values": [
+        "belgického",
+        "sovětského",
+        "ukrajinského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Valášek",
+      "values": [
+        "českého",
+        "hongkongského",
+        "maďarského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Marek Ťapák",
+      "values": [
+        "britského",
+        "slovenského",
+        "japonského",
+        "sovětského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gene Kelly",
+      "values": [
+        "finského",
+        "amerického",
+        "hongkongského",
+        "islandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Škoda",
+      "values": [
+        "českého",
+        "chorvatského",
+        "estonského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Colin Higgins",
+      "values": [
+        "amerického",
+        "indického",
+        "chorvatského",
+        "hongkongského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

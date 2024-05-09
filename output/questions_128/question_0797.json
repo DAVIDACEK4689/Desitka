@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Perkelt",
+      "values": [
+        "maďarskou",
+        "perskou",
+        "středomořskou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pastrami",
+      "values": [
+        "maďarskou",
+        "italskou",
+        "laoskou",
+        "židovskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pastis",
+      "values": [
+        "perskou",
+        "polskou",
+        "italskou",
+        "francouzskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bramboračka",
+      "values": [
+        "českou",
+        "britskou",
+        "francouzskou",
+        "vietnamskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Škubánky",
+      "values": [
+        "českou",
+        "brazilskou",
+        "vietnamskou",
+        "islandskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Termix",
+      "values": [
+        "českou",
+        "kanadskou",
+        "rakouskou",
+        "tureckou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Muffin",
+      "values": [
+        "australskou",
+        "americkou",
+        "tureckou",
+        "thajskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Frankfurtské párky",
+      "values": [
+        "německou",
+        "japonskou",
+        "židovskou",
+        "řeckou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kit Kat",
+      "values": [
+        "britskou",
+        "islandskou",
+        "dánskou",
+        "vietnamskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Kuře Marengo",
+      "values": [
+        "francouzskou",
+        "thajskou",
+        "tibetskou",
+        "gruzínskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

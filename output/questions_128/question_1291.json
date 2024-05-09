@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] hudebního skladatele?",
+  "questions": [
+    {
+      "key": "Joseph Haydn",
+      "values": [
+        "argentinského",
+        "rakouského",
+        "japonského",
+        "litevského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavel Březina",
+      "values": [
+        "švédského",
+        "rumunského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Erik Satie",
+      "values": [
+        "brazilského",
+        "arménského",
+        "kanadského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rjúiči Sakamoto",
+      "values": [
+        "nizozemského",
+        "japonského",
+        "českého",
+        "amerického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Florian Leopold Gassmann",
+      "values": [
+        "rakouského",
+        "argentinského",
+        "francouzského",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Henryk Górecki",
+      "values": [
+        "polského",
+        "estonského",
+        "rakouského",
+        "jihoafrického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavel Havlík",
+      "values": [
+        "ruského",
+        "nizozemského",
+        "českého",
+        "irského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kurt Weill",
+      "values": [
+        "arménského",
+        "německého",
+        "polského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Isaac Albéniz",
+      "values": [
+        "českého",
+        "španělského",
+        "maďarského",
+        "nizozemského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Andrej Šeban",
+      "values": [
+        "australského",
+        "slovenského",
+        "kanadského",
+        "arménského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

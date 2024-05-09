@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle tisícovky",
+  "questions": [
+    {
+      "key": "Praděd",
+      "values": [
+        "Maďarsko",
+        "Česko",
+        "Martinik",
+        "Francie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ben Nevis",
+      "values": [
+        "Rakousko",
+        "Chorvatsko",
+        "Martinik",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vrbatovo návrší",
+      "values": [
+        "Irsko",
+        "Izrael",
+        "Česko",
+        "Portugalsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Velký Rozsutec",
+      "values": [
+        "Irsko",
+        "Martinik",
+        "Chorvatsko",
+        "Slovensko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kékes",
+      "values": [
+        "Maďarsko",
+        "Spojené království",
+        "Francie",
+        "Rakousko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mont Ventoux",
+      "values": [
+        "Bulharsko",
+        "Francie",
+        "Spojené království",
+        "Irsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zlaté návrší",
+      "values": [
+        "Chorvatsko",
+        "Česko",
+        "Rakousko",
+        "Island"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Fichtelberg",
+      "values": [
+        "Martinik",
+        "Německo",
+        "Island",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Medvědín",
+      "values": [
+        "Spojené království",
+        "Portugalsko",
+        "Česko",
+        "Island"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Buzludža",
+      "values": [
+        "Francie",
+        "Spojené království",
+        "Bulharsko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

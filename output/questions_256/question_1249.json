@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Robert De Niro",
+      "values": [
+        "francouzského",
+        "novozélandského",
+        "španělského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zdeněk Podskalský",
+      "values": [
+        "švýcarského",
+        "italského",
+        "srbského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ondřej Trojan",
+      "values": [
+        "kanadského",
+        "českého",
+        "japonského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Lamač",
+      "values": [
+        "japonského",
+        "českého",
+        "švédského",
+        "novozélandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "David Vondráček",
+      "values": [
+        "britského",
+        "hongkongského",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Čestmír Suška",
+      "values": [
+        "slovenského",
+        "švýcarského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Telly Savalas",
+      "values": [
+        "japonského",
+        "rakouského",
+        "amerického",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Karel Weinlich",
+      "values": [
+        "amerického",
+        "hongkongského",
+        "českého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mel Brooks",
+      "values": [
+        "švédského",
+        "ukrajinského",
+        "dánského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jan Kačena",
+      "values": [
+        "hongkongského",
+        "novozélandského",
+        "českého",
+        "belgického"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

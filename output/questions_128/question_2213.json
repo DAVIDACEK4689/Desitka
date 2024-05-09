@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte sport podle českého sportovce",
+  "questions": [
+    {
+      "key": "Tomáš Macháč",
+      "values": [
+        "baseballisté",
+        "boxer",
+        "plavec",
+        "tenista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ladislav Lubina",
+      "values": [
+        "gymnasta",
+        "lední hokejista",
+        "šachista",
+        "stolní tenista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Kochta",
+      "values": [
+        "kanoista",
+        "lední hokejista",
+        "basketbalista",
+        "pozemní hokejista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Josef Kořenář",
+      "values": [
+        "jezdec",
+        "tenista",
+        "fotbalista",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Robert Cvek",
+      "values": [
+        "gymnasta",
+        "pozemní hokejista",
+        "šachista",
+        "automobilový závodník"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Josef Zimovčák",
+      "values": [
+        "cyklista",
+        "kanoista",
+        "ragbista",
+        "zápasník"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Denis Alijagić",
+      "values": [
+        "boxer",
+        "fotbalista",
+        "kajakář",
+        "veslař"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Karel Plášek",
+      "values": [
+        "volejbalista",
+        "šermíř",
+        "zápasník",
+        "lední hokejista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Miloslav Netušil",
+      "values": [
+        "volejbalista",
+        "gymnasta",
+        "ragbista",
+        "horolezec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Michal Krpálek",
+      "values": [
+        "gymnasta",
+        "judista",
+        "akrobatický letec",
+        "cyklista"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

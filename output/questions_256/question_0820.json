@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte amerického režiséra podle filmu",
+  "questions": [
+    {
+      "key": "Hanebný pancharti",
+      "values": [
+        "Clint Eastwood",
+        "Zack Snyder",
+        "Quentin Tarantino",
+        "Randall Wallace"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Dobrý Will Hunting",
+      "values": [
+        "Gus Van Sant",
+        "Terry Gilliam",
+        "Dennis Hopper",
+        "Terrence Malick"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Osm hrozných",
+      "values": [
+        "Christopher Nolan",
+        "Quentin Tarantino",
+        "Roger Kumble",
+        "Keenen Ivory Wayans"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rychlí a zběsilí",
+      "values": [
+        "David Frankel",
+        "Jonathan Demme",
+        "Justin Lin",
+        "Zack Snyder"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fabelmanovi",
+      "values": [
+        "Francis Ford Coppola",
+        "Alan Taylor",
+        "bratři Coenové",
+        "Steven Spielberg"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Beetlejuice",
+      "values": [
+        "Barry Levinson",
+        "Tim Burton",
+        "Kevin Reynolds",
+        "David Fincher"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Goyovy přízraky",
+      "values": [
+        "Jon Favreau",
+        "Gregory Hoblit",
+        "Sofia Coppola",
+        "Miloš Forman"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dračí srdce",
+      "values": [
+        "Rob Cohen",
+        "David Frankel",
+        "Miloš Forman",
+        "Andrew Stanton"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ztraceno v překladu",
+      "values": [
+        "Sofia Coppola",
+        "Randall Wallace",
+        "John Singleton",
+        "David Silverman"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Smrt jí sluší",
+      "values": [
+        "Dean Parisot",
+        "Robert Zemeckis",
+        "John Singleton",
+        "Gus Van Sant"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

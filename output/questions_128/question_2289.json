@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Ladislav Smoljak",
+      "values": [
+        "ukrajinského",
+        "českého",
+        "íránského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "David Ondříček",
+      "values": [
+        "českého",
+        "hongkongského",
+        "chorvatského",
+        "islandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ingmar Bergman",
+      "values": [
+        "českého",
+        "francouzského",
+        "švédského",
+        "mexického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Leonard Nimoy",
+      "values": [
+        "kanadského",
+        "slovinského",
+        "amerického",
+        "polského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tom Ford",
+      "values": [
+        "amerického",
+        "japonského",
+        "hongkongského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Brad Falchuk",
+      "values": [
+        "amerického",
+        "polského",
+        "rakouského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dziga Vertov",
+      "values": [
+        "britského",
+        "sovětského",
+        "norského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Pavel Hobl",
+      "values": [
+        "kanadského",
+        "německého",
+        "srbského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Saša Machov",
+      "values": [
+        "islandského",
+        "finského",
+        "českého",
+        "estonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tomáš Fassati",
+      "values": [
+        "polského",
+        "českého",
+        "indického",
+        "švédského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] evropského podnikatele?",
+  "questions": [
+    {
+      "key": "Oskar Schindler",
+      "values": [
+        "nizozemského",
+        "švýcarského",
+        "ruského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel Janeček",
+      "values": [
+        "českého",
+        "ukrajinského",
+        "řeckého",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Julija Tymošenková",
+      "values": [
+        "britského",
+        "slovenského",
+        "rakouského",
+        "ukrajinského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Andrej Danko",
+      "values": [
+        "slovenského",
+        "německého",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Hlávka",
+      "values": [
+        "ukrajinského",
+        "francouzského",
+        "českého",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Jan Barta",
+      "values": [
+        "českého",
+        "švédského",
+        "francouzského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Heinrich Schliemann",
+      "values": [
+        "švédského",
+        "ruského",
+        "německého",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zora Kolínska",
+      "values": [
+        "slovenského",
+        "řeckého",
+        "německého",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Antonín Charouz",
+      "values": [
+        "slovenského",
+        "ukrajinského",
+        "českého",
+        "britského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Albert Göring",
+      "values": [
+        "německého",
+        "řeckého",
+        "francouzského",
+        "švédského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

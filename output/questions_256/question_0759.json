@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Monika Absolonová",
+      "values": [
+        "švýcarskou",
+        "norskou",
+        "českou",
+        "německou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Markéta Irglová",
+      "values": [
+        "britskou",
+        "jihokorejskou",
+        "českou",
+        "nizozemskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michaela Tomešová",
+      "values": [
+        "jihokorejskou",
+        "americkou",
+        "ukrajinskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Katarína Knechtová",
+      "values": [
+        "brazilskou",
+        "slovenskou",
+        "kanadskou",
+        "francouzskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Blanka Šrůmová",
+      "values": [
+        "brazilskou",
+        "polskou",
+        "španělskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Anette Olzonová",
+      "values": [
+        "švédskou",
+        "nizozemskou",
+        "americkou",
+        "italskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Lucy Lawlessová",
+      "values": [
+        "maďarskou",
+        "uruguayskou",
+        "japonskou",
+        "novozélandskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Nelly Řehořová",
+      "values": [
+        "kanadskou",
+        "českou",
+        "jihokorejskou",
+        "americkou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kaczi",
+      "values": [
+        "polskou",
+        "českou",
+        "jihokorejskou",
+        "německou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sláva Vorlová",
+      "values": [
+        "ukrajinskou",
+        "ruskou",
+        "finskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

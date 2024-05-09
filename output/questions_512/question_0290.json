@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] spisovatele?",
+  "questions": [
+    {
+      "key": "Richard Wagner",
+      "values": [
+        "slovenského",
+        "českého",
+        "ruského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Milan Lasica",
+      "values": [
+        "nizozemského",
+        "dánského",
+        "srbského",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Karel Klostermann",
+      "values": [
+        "německého",
+        "slovenského",
+        "kanadského",
+        "dánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Radovan Karadžić",
+      "values": [
+        "srbského",
+        "německého",
+        "slovenského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Taras Ševčenko",
+      "values": [
+        "kanadského",
+        "kolumbijského",
+        "ukrajinského",
+        "jihoafrického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Joy Adamsonová",
+      "values": [
+        "italského",
+        "japonského",
+        "ruského",
+        "britského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Adalbert Stifter",
+      "values": [
+        "dánského",
+        "ruského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Osamu Dazai",
+      "values": [
+        "maďarského",
+        "argentinského",
+        "kanadského",
+        "japonského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hugo Pavel",
+      "values": [
+        "chilského",
+        "českého",
+        "brazilského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Konstantin Eduardovič Ciolkovskij",
+      "values": [
+        "italského",
+        "švédského",
+        "ruského",
+        "jihoafrického"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

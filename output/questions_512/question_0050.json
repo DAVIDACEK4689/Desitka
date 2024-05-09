@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] muslima?",
+  "questions": [
+    {
+      "key": "Ramzan Kadyrov",
+      "values": [
+        "ruského",
+        "tureckého",
+        "ugandského",
+        "egyptského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mike Tyson",
+      "values": [
+        "amerického",
+        "íránského",
+        "řeckého",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karim Benzema",
+      "values": [
+        "amerického",
+        "ruského",
+        "německého",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Idi Amin",
+      "values": [
+        "řeckého",
+        "ugandského",
+        "francouzského",
+        "katarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rúholláh Chomejní",
+      "values": [
+        "francouzského",
+        "ukrajinského",
+        "amerického",
+        "íránského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alexandr Litviněnko",
+      "values": [
+        "ruského",
+        "katarského",
+        "amerického",
+        "řeckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Malcolm X",
+      "values": [
+        "ugandského",
+        "německého",
+        "tureckého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Demet Özdemir",
+      "values": [
+        "kazašského",
+        "tureckého",
+        "francouzského",
+        "katarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Omar Sharif",
+      "values": [
+        "tureckého",
+        "amerického",
+        "katarského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Omar Sy",
+      "values": [
+        "francouzského",
+        "tureckého",
+        "kazašského",
+        "egyptského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [typ] organizaci?",
+  "questions": [
+    {
+      "key": "Schutzstaffel",
+      "values": [
+        "politickou",
+        "vědeckou",
+        "ekologickou",
+        "zločineckou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ukrajinská povstalecká armáda",
+      "values": [
+        "zločineckou",
+        "partyzánskou",
+        "humanitární",
+        "zaniklou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Gestapo",
+      "values": [
+        "fiktivní",
+        "humanitární",
+        "zločineckou",
+        "mezinárodní"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Fatah",
+      "values": [
+        "ekologickou",
+        "partyzánskou",
+        "fiktivní",
+        "politickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mezinárodní červený kříž",
+      "values": [
+        "zdravotnickou",
+        "partyzánskou",
+        "fiktivní",
+        "zločineckou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Organizace pro osvobození Palestiny",
+      "values": [
+        "fiktivní",
+        "vědeckou",
+        "politickou",
+        "partyzánskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jakuza",
+      "values": [
+        "ekologickou",
+        "zaniklou",
+        "vědeckou",
+        "zločineckou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "NAFTA",
+      "values": [
+        "mezinárodní",
+        "humanitární",
+        "zdravotnickou",
+        "vědeckou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Národní fronta osvobození Jižního Vietnamu",
+      "values": [
+        "partyzánskou",
+        "ekologickou",
+        "vědeckou",
+        "mezinárodní"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Soudní dvůr Evropské unie",
+      "values": [
+        "zločineckou",
+        "politickou",
+        "ekologickou",
+        "mezinárodní"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

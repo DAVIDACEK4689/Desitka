@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Dagmar Patrasová",
+      "values": [
+        "slovenskou",
+        "peruánskou",
+        "novozélandskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Soňa Norisová",
+      "values": [
+        "slovenskou",
+        "mexickou",
+        "nizozemskou",
+        "německou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jitka Zelenková",
+      "values": [
+        "českou",
+        "islandskou",
+        "německou",
+        "australskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Amanda Lear",
+      "values": [
+        "brazilskou",
+        "peruánskou",
+        "japonskou",
+        "francouzskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lída Nopová",
+      "values": [
+        "mexickou",
+        "indickou",
+        "polskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sharon den Adel",
+      "values": [
+        "ukrajinskou",
+        "italskou",
+        "peruánskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Zooey Deschanelová",
+      "values": [
+        "americkou",
+        "polskou",
+        "ruskou",
+        "finskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Inka Zemánková",
+      "values": [
+        "islandskou",
+        "izraelskou",
+        "indickou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jitka Vrbová",
+      "values": [
+        "brazilskou",
+        "českou",
+        "islandskou",
+        "nizozemskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hana Želenská",
+      "values": [
+        "islandskou",
+        "kolumbijskou",
+        "norskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

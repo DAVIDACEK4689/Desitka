@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Oskar Schindler",
+      "values": [
+        "íránského",
+        "monackého",
+        "německého",
+        "mexického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Frank Abagnale",
+      "values": [
+        "polského",
+        "amerického",
+        "ukrajinského",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sam Altman",
+      "values": [
+        "amerického",
+        "německého",
+        "švýcarského",
+        "pákistánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Václav Dejčmar",
+      "values": [
+        "ukrajinského",
+        "britského",
+        "běloruského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Joe Jackson",
+      "values": [
+        "amerického",
+        "brazilského",
+        "íránského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gordon Moore",
+      "values": [
+        "amerického",
+        "indického",
+        "dánského",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Josef Schroll",
+      "values": [
+        "rakouského",
+        "libanonského",
+        "íránského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "André Citroën",
+      "values": [
+        "kanadského",
+        "mexického",
+        "bangladéšského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mark Dzirasa",
+      "values": [
+        "brazilského",
+        "libanonského",
+        "íránského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Prescott Bush",
+      "values": [
+        "mexického",
+        "nizozemského",
+        "kanadského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

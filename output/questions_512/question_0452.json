@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Milan Rastislav Štefánik",
+      "values": [
+        "slovenského",
+        "libanonského",
+        "íránského",
+        "norského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Niccolò Machiavelli",
+      "values": [
+        "libyjského",
+        "německého",
+        "italského",
+        "chorvatského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eduard Heger",
+      "values": [
+        "bulharského",
+        "slovenského",
+        "sovětského",
+        "norského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marian Kotleba",
+      "values": [
+        "finského",
+        "anglického",
+        "slovenského",
+        "zimbabwského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Genrich Jagoda",
+      "values": [
+        "madagaskarského",
+        "sovětského",
+        "ruského",
+        "maďarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Alexander Hamilton",
+      "values": [
+        "nizozemského",
+        "amerického",
+        "polského",
+        "chilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Štefan Harabin",
+      "values": [
+        "běloruského",
+        "srbského",
+        "slovenského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Maroš Šefčovič",
+      "values": [
+        "německého",
+        "chilského",
+        "československého",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Džochar Dudajev",
+      "values": [
+        "argentinského",
+        "sovětského",
+        "iráckého",
+        "rumunského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Rustem Umerov",
+      "values": [
+        "ukrajinského",
+        "indického",
+        "kolumbijského",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

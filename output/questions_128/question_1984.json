@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle narození",
+  "questions": [
+    {
+      "key": "Riva Krieglová",
+      "values": [
+        "Rusko",
+        "Sýrie",
+        "Bělorusko",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Narghís Mohammadiová",
+      "values": [
+        "Maďarsko",
+        "Írán",
+        "Japonsko",
+        "Mosambik"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jacob Zuma",
+      "values": [
+        "Jihoafrická republika",
+        "Černá Hora",
+        "Madagaskar",
+        "Svatá Lucie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Yeonmi Parková",
+      "values": [
+        "Jordánsko",
+        "Venezuela",
+        "Severní Korea",
+        "Dánsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ronald Araújo",
+      "values": [
+        "Saúdská Arábie",
+        "Malta",
+        "Uruguay",
+        "Kypr"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Afric Simone",
+      "values": [
+        "Brazílie",
+        "Mosambik",
+        "Irsko",
+        "Polsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Moisés Caicedo",
+      "values": [
+        "Ekvádor",
+        "Irák",
+        "Chorvatsko",
+        "Mosambik"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Wulfila",
+      "values": [
+        "Turecko",
+        "Kypr",
+        "Jordánsko",
+        "Irsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "João Moutinho",
+      "values": [
+        "Portugalsko",
+        "Belgie",
+        "Etiopie",
+        "Lotyšsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Muhammad Hasan Achund",
+      "values": [
+        "Keňa",
+        "Chorvatsko",
+        "Afghánistán",
+        "Mongolsko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

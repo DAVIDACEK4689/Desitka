@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle úmrtí",
+  "questions": [
+    {
+      "key": "Lech Kaczyński",
+      "values": [
+        "Jamajka",
+        "Nový Zéland",
+        "Rusko",
+        "Rwanda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robert Mugabe",
+      "values": [
+        "Finsko",
+        "Maďarsko",
+        "Švédsko",
+        "Singapur"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pjotr Ivanovič Bagration",
+      "values": [
+        "Singapur",
+        "Rusko",
+        "Panama",
+        "Surinam"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jiří Douglas Sternberg",
+      "values": [
+        "Indie",
+        "Svatá Lucie",
+        "Sýrie",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Václav Hrdlička",
+      "values": [
+        "Libye",
+        "Rwanda",
+        "Česko",
+        "Svatá Lucie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alfredo Stroessner",
+      "values": [
+        "Brazílie",
+        "Nepál",
+        "Singapur",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Raphael Dwamena",
+      "values": [
+        "Namibie",
+        "Japonsko",
+        "Egypt",
+        "Albánie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Tuhaj Bej",
+      "values": [
+        "Ukrajina",
+        "Dominikánská republika",
+        "Jihoafrická republika",
+        "Finsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Chámis Kaddáfí",
+      "values": [
+        "Libye",
+        "Panama",
+        "Švédsko",
+        "Česko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Juan de la Cosa",
+      "values": [
+        "Kolumbie",
+        "Sýrie",
+        "Rakousko",
+        "Vietnam"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

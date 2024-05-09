@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Trdelník",
+      "values": [
+        "rakouskou",
+        "řeckou",
+        "středomořskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Čokoláda",
+      "values": [
+        "německou",
+        "mexickou",
+        "židovskou",
+        "brazilskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Šopský salát",
+      "values": [
+        "švýcarskou",
+        "čínskou",
+        "balkánskou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Cikorka",
+      "values": [
+        "islandskou",
+        "českou",
+        "rakouskou",
+        "australskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Anglická kuchyně",
+      "values": [
+        "islandskou",
+        "židovskou",
+        "korejskou",
+        "britskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Španělský ptáček",
+      "values": [
+        "francouzskou",
+        "českou",
+        "mexickou",
+        "rakouskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ghí",
+      "values": [
+        "britskou",
+        "maďarskou",
+        "brazilskou",
+        "indickou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Red Velvet Cake",
+      "values": [
+        "americkou",
+        "polskou",
+        "portugalskou",
+        "anglickou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pizza havaj",
+      "values": [
+        "švýcarskou",
+        "rakouskou",
+        "kanadskou",
+        "americkou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rumunská kuchyně",
+      "values": [
+        "portugalskou",
+        "islandskou",
+        "balkánskou",
+        "rakouskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

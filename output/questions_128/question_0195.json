@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte téma podle filmu",
+  "questions": [
+    {
+      "key": "Muž jménem Otto",
+      "values": [
+        "sexualita",
+        "sebevražda",
+        "učitel",
+        "křesťanská tematika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Zlatý podraz",
+      "values": [
+        "sériový vrah",
+        "nemoc",
+        "romská tematika",
+        "sport"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Od soumraku do úsvitu",
+      "values": [
+        "imigrace",
+        "kanibalismus",
+        "učitel",
+        "upír"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Muž z Acapulca",
+      "values": [
+        "nemoc",
+        "kometa",
+        "spisovatel",
+        "sériový vrah"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pravdivý příběh",
+      "values": [
+        "dvojče",
+        "nemoc",
+        "novinář",
+        "pirát"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Děsivé dědictví",
+      "values": [
+        "vlkodlak",
+        "sebevražda",
+        "policie",
+        "automobil"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Králíček Petr",
+      "values": [
+        "skinheads",
+        "zvíře",
+        "životní prostředí",
+        "policie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kozoroh 1",
+      "values": [
+        "herec",
+        "loupež",
+        "automobil",
+        "novinář"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Smrt panen",
+      "values": [
+        "novinář",
+        "sebevražda",
+        "skinheads",
+        "automobil"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Un été brûlant",
+      "values": [
+        "novinář",
+        "herec",
+        "sériový vrah",
+        "spisovatel"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

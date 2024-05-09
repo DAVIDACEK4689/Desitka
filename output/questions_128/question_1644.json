@@ -1,0 +1,105 @@
+{
+  "text": "Určete kontinent podle dinosaura",
+  "questions": [
+    {
+      "key": "Giganotosaurus",
+      "values": [
+        "Afrika",
+        "Asie",
+        "Jižní Amerika",
+        "Evropa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Therizinosaurus",
+      "values": [
+        "Asie",
+        "Severní Amerika",
+        "Afrika",
+        "Jižní Amerika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Burianosaurus augustai",
+      "values": [
+        "Evropa",
+        "Asie",
+        "Severní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Carcharodontosaurus",
+      "values": [
+        "Afrika",
+        "Evropa",
+        "Severní Amerika",
+        "Asie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Supersaurus",
+      "values": [
+        "Asie",
+        "Severní Amerika",
+        "Evropa",
+        "Afrika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Amphicoelias",
+      "values": [
+        "Evropa",
+        "Asie",
+        "Afrika",
+        "Severní Amerika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Protoceratops",
+      "values": [
+        "Asie",
+        "Jižní Amerika",
+        "Afrika",
+        "Evropa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Acrocanthosaurus",
+      "values": [
+        "Severní Amerika",
+        "Asie",
+        "Afrika",
+        "Evropa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sauroposeidon",
+      "values": [
+        "Asie",
+        "Evropa",
+        "Severní Amerika",
+        "Afrika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Euoplocephalus",
+      "values": [
+        "Severní Amerika",
+        "Afrika",
+        "Jižní Amerika",
+        "Asie"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

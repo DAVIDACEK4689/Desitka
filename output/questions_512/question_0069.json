@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] režiséra?",
+  "questions": [
+    {
+      "key": "Jiří Strach",
+      "values": [
+        "ruského",
+        "ukrajinského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Patrik Hartl",
+      "values": [
+        "českého",
+        "dánského",
+        "srbského",
+        "hongkongského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Christopher Nolan",
+      "values": [
+        "ukrajinského",
+        "ruského",
+        "německého",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Woody Allen",
+      "values": [
+        "norského",
+        "německého",
+        "amerického",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Přemysl Kočí",
+      "values": [
+        "ruského",
+        "českého",
+        "dánského",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vladimír Merta",
+      "values": [
+        "českého",
+        "ruského",
+        "dánského",
+        "slovenského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Auguste a Louis Lumièrové",
+      "values": [
+        "francouzského",
+        "švédského",
+        "norského",
+        "novozélandského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Smyczek",
+      "values": [
+        "českého",
+        "japonského",
+        "ruského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Dušan Rapoš",
+      "values": [
+        "norského",
+        "italského",
+        "slovenského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ed Harris",
+      "values": [
+        "amerického",
+        "dánského",
+        "britského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

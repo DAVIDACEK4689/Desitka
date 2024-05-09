@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] horolezce?",
+  "questions": [
+    {
+      "key": "Viktor Frankl",
+      "values": [
+        "rakouského",
+        "sovětského",
+        "československého",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Heinrich Harrer",
+      "values": [
+        "rakouského",
+        "československého",
+        "sovětského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Aron Ralston",
+      "values": [
+        "amerického",
+        "ruského",
+        "nepálského",
+        "sovětského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Maciej Berbeka",
+      "values": [
+        "českého",
+        "polského",
+        "novozélandského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Anatolij Bukrejev",
+      "values": [
+        "nepálského",
+        "italského",
+        "polského",
+        "sovětského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Vavroušek",
+      "values": [
+        "českého",
+        "německého",
+        "slovenského",
+        "španělského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Radoslav Groh",
+      "values": [
+        "novozélandského",
+        "ruského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Peter Habeler",
+      "values": [
+        "španělského",
+        "britského",
+        "českého",
+        "rakouského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Dan Osman",
+      "values": [
+        "nepálského",
+        "amerického",
+        "československého",
+        "novozélandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Miroslav Caban",
+      "values": [
+        "polského",
+        "španělského",
+        "slovenského",
+        "amerického"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

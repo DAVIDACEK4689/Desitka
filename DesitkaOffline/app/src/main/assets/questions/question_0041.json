@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Gdaňsk",
+      "values": [
+        "Dánsko",
+        "Polsko",
+        "Indonésie",
+        "Maroko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Soluň",
+      "values": [
+        "Řecko",
+        "Kypr",
+        "Dánsko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Alexandrie",
+      "values": [
+        "Finsko",
+        "Egypt",
+        "Senegal",
+        "Maroko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marsá Alam",
+      "values": [
+        "Lotyšsko",
+        "Brazílie",
+        "Egypt",
+        "Argentina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rimini",
+      "values": [
+        "Bulharsko",
+        "Nizozemsko",
+        "Belgie",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kapské Město",
+      "values": [
+        "Kypr",
+        "Jihoafrická republika",
+        "Chorvatsko",
+        "Španělsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bordeaux",
+      "values": [
+        "Brazílie",
+        "Rusko",
+        "Indonésie",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Taba",
+      "values": [
+        "Ukrajina",
+        "Švýcarsko",
+        "Portugalsko",
+        "Egypt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bergen",
+      "values": [
+        "Ázerbájdžán",
+        "Argentina",
+        "Norsko",
+        "Kypr"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Larnaka",
+      "values": [
+        "Finsko",
+        "Španělsko",
+        "Kypr",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

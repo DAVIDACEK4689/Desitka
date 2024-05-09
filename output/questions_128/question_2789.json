@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Donald Trump",
+      "values": [
+        "ukrajinského",
+        "amerického",
+        "nizozemského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Henry Ford",
+      "values": [
+        "amerického",
+        "monackého",
+        "brazilského",
+        "jihoafrického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bernard Tapie",
+      "values": [
+        "francouzského",
+        "jihoafrického",
+        "švýcarského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Václav Klement",
+      "values": [
+        "ukrajinského",
+        "indického",
+        "českého",
+        "libanonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pavel Bobošík",
+      "values": [
+        "libanonského",
+        "nizozemského",
+        "monackého",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fred Trump",
+      "values": [
+        "amerického",
+        "monackého",
+        "řeckého",
+        "bangladéšského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "John Elkann",
+      "values": [
+        "slovinského",
+        "švédského",
+        "švýcarského",
+        "italského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jaroslav Hausmann",
+      "values": [
+        "jihoafrického",
+        "českého",
+        "íránského",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Friedrich Egermann",
+      "values": [
+        "švýcarského",
+        "íránského",
+        "českého",
+        "brazilského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Peter Paško",
+      "values": [
+        "slovenského",
+        "nizozemského",
+        "italského",
+        "pákistánského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

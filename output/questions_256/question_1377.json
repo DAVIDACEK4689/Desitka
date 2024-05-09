@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Petrohrad",
+      "values": [
+        "Dunaj",
+        "Cidlina",
+        "Něva",
+        "Sázava"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Basilej",
+      "values": [
+        "Dyje",
+        "Rýn",
+        "Don",
+        "Temže"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Sezimovo Ústí",
+      "values": [
+        "Hron",
+        "Labe",
+        "Vltava",
+        "Lužnice"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hřensko",
+      "values": [
+        "Dněpr",
+        "Tis",
+        "Chrudimka",
+        "Labe"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Slatiňany",
+      "values": [
+        "Chrudimka",
+        "Eufrat",
+        "Váha",
+        "Tibera"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pasohlávky",
+      "values": [
+        "Jizera",
+        "Malše",
+        "Hornád",
+        "Dyje"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rakka",
+      "values": [
+        "Eufrat",
+        "Lužická Nisa",
+        "Tis",
+        "Váha"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tokaj",
+      "values": [
+        "Lužická Nisa",
+        "Tis",
+        "Loira",
+        "Bečva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Krhanice",
+      "values": [
+        "Don",
+        "Tis",
+        "Ploučnice",
+        "Sázava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Majdalena",
+      "values": [
+        "Chrudimka",
+        "Radbuza",
+        "Ploučnice",
+        "Lužnice"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

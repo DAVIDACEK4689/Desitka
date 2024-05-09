@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [národnost] komunistu?",
+  "questions": [
+    {
+      "key": "Ivan Olbracht",
+      "values": [
+        "českého",
+        "ukrajinského",
+        "italského",
+        "kambodžského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Erich Honecker",
+      "values": [
+        "německého",
+        "jugoslávského",
+        "ruského",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Todor Živkov",
+      "values": [
+        "italského",
+        "ukrajinského",
+        "vietnamského",
+        "bulharského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Erich Mielke",
+      "values": [
+        "německého",
+        "nizozemského",
+        "britského",
+        "chilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Cesare Pavese",
+      "values": [
+        "rumunského",
+        "slovenského",
+        "italského",
+        "československého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "John Reed",
+      "values": [
+        "chilského",
+        "amerického",
+        "československého",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nguyễn Xuân Phúc",
+      "values": [
+        "francouzského",
+        "vietnamského",
+        "slovenského",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Milovan Djilas",
+      "values": [
+        "řeckého",
+        "italského",
+        "ruského",
+        "jugoslávského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gracchus Babeuf",
+      "values": [
+        "francouzského",
+        "portugalského",
+        "kambodžského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miroslav Krleža",
+      "values": [
+        "portugalského",
+        "amerického",
+        "jugoslávského",
+        "rumunského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

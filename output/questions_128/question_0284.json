@@ -1,0 +1,105 @@
+{
+  "text": "Určete autora podle skladby",
+  "questions": [
+    {
+      "key": "Má vlast",
+      "values": [
+        "Johann Strauss mladší",
+        "Bedřich Smetana",
+        "Gustav Mahler",
+        "Edvard Grieg"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "West Side Story",
+      "values": [
+        "Leonard Bernstein",
+        "Benjamin Britten",
+        "Johann Sebastian Bach",
+        "Edvard Grieg"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pro Elišku",
+      "values": [
+        "Ludwig van Beethoven",
+        "Franz Lehár",
+        "Franz Schubert",
+        "Leonard Bernstein"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Malá noční hudba",
+      "values": [
+        "Wolfgang Amadeus Mozart",
+        "Gustav Mahler",
+        "Antonín Dvořák",
+        "Johann Sebastian Bach"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Veselá vdova",
+      "values": [
+        "Franz Lehár",
+        "Gustav Mahler",
+        "Franz Schubert",
+        "Johann Strauss mladší"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "BWV",
+      "values": [
+        "Bedřich Smetana",
+        "Franz Schubert",
+        "Johann Sebastian Bach",
+        "Ludwig van Beethoven"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Matoušovy pašije",
+      "values": [
+        "Gustav Mahler",
+        "Leonard Bernstein",
+        "Bedřich Smetana",
+        "Johann Sebastian Bach"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vánoční oratorium",
+      "values": [
+        "Gustav Mahler",
+        "Ludwig van Beethoven",
+        "Johann Sebastian Bach",
+        "Leonard Bernstein"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Suity pro sólové violoncello",
+      "values": [
+        "Benjamin Britten",
+        "Johann Sebastian Bach",
+        "Bedřich Smetana",
+        "Franz Schubert"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mše h moll",
+      "values": [
+        "Johann Sebastian Bach",
+        "Edvard Grieg",
+        "Ludwig van Beethoven",
+        "Franz Schubert"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

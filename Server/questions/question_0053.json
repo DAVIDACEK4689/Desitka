@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle archeologické lokality",
+  "questions": [
+    {
+      "key": "Řím",
+      "values": [
+        "Itálie",
+        "Rakousko",
+        "Turecko",
+        "Pero"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pompeje",
+      "values": [
+        "Turecko",
+        "Pero",
+        "Španělsko",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Luxor",
+      "values": [
+        "Irák",
+        "Egypt",
+        "Španělsko",
+        "Rakousko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Málaga",
+      "values": [
+        "Pero",
+        "Itálie",
+        "Španělsko",
+        "Rakousko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Babylón",
+      "values": [
+        "Rakousko",
+        "Tunisko",
+        "Egypt",
+        "Irák"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kartágo",
+      "values": [
+        "Egypt",
+        "Rakousko",
+        "Turecko",
+        "Tunisko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Angkor Vat",
+      "values": [
+        "Kambodža",
+        "Egypt",
+        "Španělsko",
+        "Irák"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sevilla",
+      "values": [
+        "Irák",
+        "Tunisko",
+        "Španělsko",
+        "Rakousko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rimini",
+      "values": [
+        "Rakousko",
+        "Řecko",
+        "Itálie",
+        "Izrael"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chrámová hora",
+      "values": [
+        "Řecko",
+        "Španělsko",
+        "Pero",
+        "Izrael"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Určete etnický původ podle Čecha",
+  "questions": [
+    {
+      "key": "Jana Černochová",
+      "values": [
+        "italský původ",
+        "arménský původ",
+        "chorvatský původ",
+        "polský původ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Klára Issová",
+      "values": [
+        "vietnamský původ",
+        "syrský původ",
+        "maďarský původ",
+        "britský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "David Černý",
+      "values": [
+        "etiopský původ",
+        "francouzský původ",
+        "židovský původ",
+        "ruský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Julius Zeyer",
+      "values": [
+        "francouzský původ",
+        "ukrajinský původ",
+        "chorvatský původ",
+        "židovský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hayato Okamura",
+      "values": [
+        "italský původ",
+        "japonský původ",
+        "slovenský původ",
+        "kanadský původ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Kavan",
+      "values": [
+        "britský původ",
+        "afghánský původ",
+        "italský původ",
+        "maďarský původ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rafael Kubelík",
+      "values": [
+        "ukrajinský původ",
+        "britský původ",
+        "maďarský původ",
+        "slovenský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Antonín Chittussi",
+      "values": [
+        "kanadský původ",
+        "vietnamský původ",
+        "italský původ",
+        "ukrajinský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andrej Poleščuk",
+      "values": [
+        "estonský původ",
+        "arménský původ",
+        "běloruský původ",
+        "italský původ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Leon Jakimič",
+      "values": [
+        "vietnamský původ",
+        "afghánský původ",
+        "francouzský původ",
+        "ruský původ"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

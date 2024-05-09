@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Marie Stuartovna",
+      "values": [
+        "řeckého",
+        "ukrajinského",
+        "skotského",
+        "dánského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "John Antoine Nau",
+      "values": [
+        "španělského",
+        "perského",
+        "francouzského",
+        "švýcarského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Pierre Corneille",
+      "values": [
+        "amerického",
+        "francouzského",
+        "vietnamského",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Charles Perrault",
+      "values": [
+        "rumunského",
+        "kubánského",
+        "norského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Kopta",
+      "values": [
+        "českého",
+        "chorvatského",
+        "německého",
+        "italského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jan Dubravius",
+      "values": [
+        "finského",
+        "českého",
+        "amerického",
+        "gruzínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Robert Frost",
+      "values": [
+        "řeckého",
+        "německého",
+        "kubánského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Richard Francis Burton",
+      "values": [
+        "vietnamského",
+        "sovětského",
+        "anglického",
+        "perského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Svámí Vivékánanda",
+      "values": [
+        "slovinského",
+        "rakouského",
+        "indického",
+        "čínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Angelo Poliziano",
+      "values": [
+        "rakouského",
+        "italského",
+        "anglického",
+        "dánského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

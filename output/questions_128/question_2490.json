@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] novináře?",
+  "questions": [
+    {
+      "key": "Radek John",
+      "values": [
+        "ukrajinského",
+        "kanadského",
+        "izraelského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Walt Whitman",
+      "values": [
+        "íránského",
+        "švédského",
+        "rakouského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Anna Wintourová",
+      "values": [
+        "nizozemského",
+        "britského",
+        "italského",
+        "arménského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ludvík Hess",
+      "values": [
+        "finského",
+        "ukrajinského",
+        "japonského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Petr Honzejk",
+      "values": [
+        "českého",
+        "belgického",
+        "kanadského",
+        "běloruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Petr Kamberský",
+      "values": [
+        "českého",
+        "italského",
+        "dánského",
+        "portugalského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jaroslav Hausmann",
+      "values": [
+        "bulharského",
+        "ukrajinského",
+        "českého",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Carlos Fuentes",
+      "values": [
+        "mexického",
+        "kanadského",
+        "australského",
+        "bulharského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Victor Adler",
+      "values": [
+        "rakouského",
+        "kubánského",
+        "australského",
+        "japonského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Libor Jan",
+      "values": [
+        "mexického",
+        "arménského",
+        "belgického",
+        "českého"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte zemi podle premiéra",
+  "questions": [
+    {
+      "key": "Vladimir Putin",
+      "values": [
+        "Rumunsko",
+        "Jugoslávie",
+        "Rusko",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Rishi Sunak",
+      "values": [
+        "Izrael",
+        "Irsko",
+        "Japonsko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Golda Meirová",
+      "values": [
+        "Izrael",
+        "Itálie",
+        "Švédsko",
+        "Island"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Sanna Marinová",
+      "values": [
+        "Srbsko",
+        "Ukrajina",
+        "Španělsko",
+        "Finsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Imre Nagy",
+      "values": [
+        "Etiopie",
+        "Jugoslávie",
+        "Moldavsko",
+        "Maďarsko"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Menachem Begin",
+      "values": [
+        "Egypt",
+        "Jugoslávie",
+        "Izrael",
+        "Polsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "David Lloyd George",
+      "values": [
+        "Norsko",
+        "Rumunsko",
+        "Spojené království",
+        "Itálie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hashim Thaçi",
+      "values": [
+        "Portugalsko",
+        "Kosovo",
+        "Dánsko",
+        "Rusko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Stanley Baldwin",
+      "values": [
+        "Arménie",
+        "Švédsko",
+        "Spojené království",
+        "Etiopie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Xavier Bettel",
+      "values": [
+        "Finsko",
+        "Estonsko",
+        "Ukrajina",
+        "Lucembursko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] filozofa?",
+  "questions": [
+    {
+      "key": "Tomáš Akvinský",
+      "values": [
+        "egyptského",
+        "maďarského",
+        "italského",
+        "rakouského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Démokritos",
+      "values": [
+        "italského",
+        "řeckého",
+        "německého",
+        "španělského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Carlos Castaneda",
+      "values": [
+        "srbského",
+        "slovinského",
+        "amerického",
+        "čínského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Petr Vopěnka",
+      "values": [
+        "sovětského",
+        "rakouského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Adam Weishaupt",
+      "values": [
+        "německého",
+        "italského",
+        "byzantského",
+        "australského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Peter Singer",
+      "values": [
+        "australského",
+        "italského",
+        "francouzského",
+        "srbského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Miguel de Unamuno",
+      "values": [
+        "španělského",
+        "rakouského",
+        "irského",
+        "brazilského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gabriel Marcel",
+      "values": [
+        "francouzského",
+        "amerického",
+        "švédského",
+        "britského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Daniel Dennett",
+      "values": [
+        "německého",
+        "sovětského",
+        "amerického",
+        "slovinského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Moses Mendelssohn",
+      "values": [
+        "bulharského",
+        "byzantského",
+        "německého",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

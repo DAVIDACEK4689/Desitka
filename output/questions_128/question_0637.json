@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herečku?",
+  "questions": [
+    {
+      "key": "Tereza Kostková",
+      "values": [
+        "novozélandskou",
+        "norskou",
+        "českou",
+        "irskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zuzana Kajnarová",
+      "values": [
+        "jihokorejskou",
+        "švýcarskou",
+        "českou",
+        "bermudskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Valentýna Bečková",
+      "values": [
+        "českou",
+        "bulharskou",
+        "jihokorejskou",
+        "kolumbijskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Phoebe Tonkin",
+      "values": [
+        "ruskou",
+        "bermudskou",
+        "australskou",
+        "italskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Tina Ruland",
+      "values": [
+        "srbskou",
+        "bulharskou",
+        "brazilskou",
+        "německou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Natasha Lyonne",
+      "values": [
+        "uruguayskou",
+        "izraelskou",
+        "americkou",
+        "jihoafrickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lexa Doig",
+      "values": [
+        "irskou",
+        "kanadskou",
+        "jihoafrickou",
+        "švýcarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nikola Ďuricová",
+      "values": [
+        "íránskou",
+        "slovenskou",
+        "irskou",
+        "brazilskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Adelaide Kane",
+      "values": [
+        "francouzskou",
+        "izraelskou",
+        "australskou",
+        "tureckou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alexis Knapp",
+      "values": [
+        "americkou",
+        "chorvatskou",
+        "německou",
+        "mexickou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

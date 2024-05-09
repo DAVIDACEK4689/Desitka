@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] hokejového trenéra?",
+  "questions": [
+    {
+      "key": "Václav Nedomanský",
+      "values": [
+        "německého",
+        "finského",
+        "československého",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Stanislav Neveselý",
+      "values": [
+        "amerického",
+        "lotyšského",
+        "československého",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vlastimil Bubník",
+      "values": [
+        "ruského",
+        "slovenského",
+        "amerického",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Stanislav Konopásek",
+      "values": [
+        "československého",
+        "lotyšského",
+        "německého",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vladimír Bouzek",
+      "values": [
+        "finského",
+        "ruského",
+        "lotyšského",
+        "československého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Josef Sršeň",
+      "values": [
+        "amerického",
+        "lotyšského",
+        "československého",
+        "finského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Zdeno Cíger",
+      "values": [
+        "lotyšského",
+        "slovenského",
+        "německého",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eduard Novák",
+      "values": [
+        "kanadského",
+        "ruského",
+        "československého",
+        "lotyšského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Michail Štalenkov",
+      "values": [
+        "ruského",
+        "německého",
+        "kanadského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Kulíček",
+      "values": [
+        "československého",
+        "finského",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

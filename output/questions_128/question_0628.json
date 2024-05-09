@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte stranu podle mezinárodní smlouvy",
+  "questions": [
+    {
+      "key": "Druhá minská dohoda",
+      "values": [
+        "Uherské království",
+        "Ukrajina",
+        "Izrael",
+        "Svatý stolec"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dohody z Osla",
+      "values": [
+        "Nizozemsko",
+        "Japonsko",
+        "Izrael",
+        "Spojené království"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Schengenská smlouva",
+      "values": [
+        "Rusko",
+        "Francie",
+        "Evropská unie",
+        "Ukrajina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "SALT",
+      "values": [
+        "Rusko",
+        "Sovětský svaz",
+        "Izrael",
+        "Francie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Koupě Louisiany",
+      "values": [
+        "Francie",
+        "Izrael",
+        "Svatý stolec",
+        "Sovětský svaz"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Fundamentální články",
+      "values": [
+        "Evropská unie",
+        "Spojené království",
+        "České království",
+        "Svatý stolec"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Lateránské smlouvy",
+      "values": [
+        "Sovětský svaz",
+        "Svatý stolec",
+        "Rusko",
+        "České království"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "AETR",
+      "values": [
+        "Spojené království",
+        "Japonsko",
+        "České království",
+        "Evropská unie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Amsterodamská smlouva",
+      "values": [
+        "Izrael",
+        "Spojené království",
+        "Japonsko",
+        "Evropská unie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Smlouva z Nice",
+      "values": [
+        "České království",
+        "Svatý stolec",
+        "Nizozemsko",
+        "Evropská unie"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

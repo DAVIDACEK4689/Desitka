@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Tom Cruise",
+      "values": [
+        "izraelského",
+        "venezuelského",
+        "amerického",
+        "jamajského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Liam Neeson",
+      "values": [
+        "českého",
+        "rakouského",
+        "guatemalského",
+        "irského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Filip Březina",
+      "values": [
+        "belgického",
+        "španělského",
+        "českého",
+        "guatemalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ladislav Chudík",
+      "values": [
+        "slovenského",
+        "jamajského",
+        "britského",
+        "ukrajinského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Daniel Brühl",
+      "values": [
+        "amerického",
+        "španělského",
+        "jamajského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Kreuzmann starší",
+      "values": [
+        "českého",
+        "venezuelského",
+        "tureckého",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tomáš Lipský",
+      "values": [
+        "švýcarského",
+        "kanadského",
+        "českého",
+        "japonského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Benjamin Bratt",
+      "values": [
+        "italského",
+        "jamajského",
+        "irského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Alois Senefelder",
+      "values": [
+        "brazilského",
+        "německého",
+        "australského",
+        "francouzského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Victor Garber",
+      "values": [
+        "rakouského",
+        "guatemalského",
+        "kanadského",
+        "tureckého"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

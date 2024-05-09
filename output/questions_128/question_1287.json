@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Řím",
+      "values": [
+        "Tibera",
+        "Dunaj",
+        "Loira",
+        "Cidlina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ostřihom",
+      "values": [
+        "Dunaj",
+        "Úslava",
+        "Bečva",
+        "Radbuza"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ingolstadt",
+      "values": [
+        "Seina",
+        "Dunaj",
+        "Tis",
+        "Něva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Velešín",
+      "values": [
+        "Chrudimka",
+        "Mandava",
+        "Bečva",
+        "Malše"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Velká Chuchle",
+      "values": [
+        "Vltava",
+        "Sebnice",
+        "Seina",
+        "Lužnice"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Velké Němčice",
+      "values": [
+        "Svratka",
+        "Ploučnice",
+        "Bečva",
+        "Chrudimka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Zadní Třebaň",
+      "values": [
+        "Temže",
+        "Berounka",
+        "Radbuza",
+        "Don"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Staré Hradiště",
+      "values": [
+        "Berounka",
+        "Labe",
+        "Vltava",
+        "Lužická Nisa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Černotín",
+      "values": [
+        "Bečva",
+        "Dunaj",
+        "Metuje",
+        "Úhlava"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Želnava",
+      "values": [
+        "Vltava",
+        "Lužnice",
+        "Svratka",
+        "Loira"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

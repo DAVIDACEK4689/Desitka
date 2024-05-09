@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] politika?",
+  "questions": [
+    {
+      "key": "Rudí Khmerové",
+      "values": [
+        "polského",
+        "maďarského",
+        "kambodžského",
+        "izraelského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Marija Zacharovová",
+      "values": [
+        "gruzínského",
+        "panamského",
+        "britského",
+        "ruského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Fjodor Jemeljaněnko",
+      "values": [
+        "ruského",
+        "filipínského",
+        "francouzského",
+        "nauruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Štefan Kuffa",
+      "values": [
+        "slovenského",
+        "kyrgyzského",
+        "nizozemského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Camille Desmoulins",
+      "values": [
+        "katarského",
+        "francouzského",
+        "ruského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "José Manuel Barroso",
+      "values": [
+        "běloruského",
+        "portugalského",
+        "afghánského",
+        "keňského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paul Kruger",
+      "values": [
+        "íránského",
+        "jihoafrického",
+        "libanonského",
+        "čínského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jean Rapp",
+      "values": [
+        "brazilského",
+        "francouzského",
+        "turkmenského",
+        "kubánského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "László Kövér",
+      "values": [
+        "kanadského",
+        "maďarského",
+        "vietnamského",
+        "pruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Margrethe Vestagerová",
+      "values": [
+        "islandského",
+        "irského",
+        "venezuelského",
+        "dánského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

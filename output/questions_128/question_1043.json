@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vynálezce?",
+  "questions": [
+    {
+      "key": "Galileo Galilei",
+      "values": [
+        "kanadského",
+        "italského",
+        "francouzského",
+        "řeckého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bratranci Veverkové",
+      "values": [
+        "švýcarského",
+        "francouzského",
+        "amerického",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bratři Montgolfierové",
+      "values": [
+        "švédského",
+        "ruského",
+        "amerického",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Hérón Alexandrijský",
+      "values": [
+        "řeckého",
+        "italského",
+        "maďarského",
+        "amerického"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Václav František Červený",
+      "values": [
+        "českého",
+        "kanadského",
+        "švédského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hippolyte Bayard",
+      "values": [
+        "kanadského",
+        "francouzského",
+        "maďarského",
+        "českého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Jan Zvoníček",
+      "values": [
+        "ukrajinského",
+        "českého",
+        "švédského",
+        "německého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Joseph Henry",
+      "values": [
+        "irského",
+        "řeckého",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "David Bushnell",
+      "values": [
+        "rakouského",
+        "kanadského",
+        "sovětského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "John Walter Christie",
+      "values": [
+        "rakouského",
+        "maďarského",
+        "amerického",
+        "polského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

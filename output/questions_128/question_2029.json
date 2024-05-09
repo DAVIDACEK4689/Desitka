@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] fotbalového reprezentanta?",
+  "questions": [
+    {
+      "key": "Ronaldinho",
+      "values": [
+        "arménského",
+        "brazilského",
+        "albánského",
+        "anglického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Matěj Vydra",
+      "values": [
+        "ukrajinského",
+        "dánského",
+        "italského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Gerd Müller",
+      "values": [
+        "německého",
+        "maďarského",
+        "kanadského",
+        "albánského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Micah Richards",
+      "values": [
+        "gruzínského",
+        "anglického",
+        "japonského",
+        "portugalského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "James Gomez",
+      "values": [
+        "českého",
+        "anglického",
+        "gambijského",
+        "ekvádorského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Nathan Aké",
+      "values": [
+        "srbského",
+        "slovinského",
+        "nizozemského",
+        "kostarického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Wilfried Zaha",
+      "values": [
+        "polského",
+        "anglického",
+        "gambijského",
+        "slovinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Luiz Gustavo",
+      "values": [
+        "bulharského",
+        "tureckého",
+        "arménského",
+        "brazilského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rafael Márquez",
+      "values": [
+        "brazilského",
+        "mexického",
+        "alžírského",
+        "islandského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Bolek",
+      "values": [
+        "maďarského",
+        "českého",
+        "švýcarského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

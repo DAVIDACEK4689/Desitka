@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] novináře?",
+  "questions": [
+    {
+      "key": "Vladimír Dvořák",
+      "values": [
+        "kanadského",
+        "rakouského",
+        "španělského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ladislav Jakl",
+      "values": [
+        "íránského",
+        "dánského",
+        "francouzského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Laco Novomeský",
+      "values": [
+        "italského",
+        "slovenského",
+        "švédského",
+        "japonského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marek Antoš",
+      "values": [
+        "českého",
+        "britského",
+        "německého",
+        "saúdskoarabského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Milena Balašová",
+      "values": [
+        "československého",
+        "irského",
+        "belgického",
+        "nizozemského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "José Saramago",
+      "values": [
+        "portugalského",
+        "italského",
+        "švédského",
+        "maďarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jozef Lettrich",
+      "values": [
+        "amerického",
+        "slovenského",
+        "irského",
+        "mexického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bohdan Chudoba",
+      "values": [
+        "českého",
+        "britského",
+        "kolumbijského",
+        "ruského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Charles Maurras",
+      "values": [
+        "amerického",
+        "francouzského",
+        "ruského",
+        "ukrajinského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "André Gorz",
+      "values": [
+        "československého",
+        "japonského",
+        "francouzského",
+        "polského"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

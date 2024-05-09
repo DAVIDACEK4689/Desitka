@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] román?",
+  "questions": [
+    {
+      "key": "Farma zvířat",
+      "values": [
+        "italský",
+        "slovenský",
+        "rakouský",
+        "anglický"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sophiina volba",
+      "values": [
+        "americký",
+        "japonský",
+        "rakouský",
+        "britský"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Hraničářův učeň",
+      "values": [
+        "japonský",
+        "australský",
+        "německý",
+        "francouzský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kmotr",
+      "values": [
+        "francouzský",
+        "americký",
+        "český",
+        "německý"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Válka světů",
+      "values": [
+        "americký",
+        "rakouský",
+        "anglický",
+        "český"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Doktor Živago",
+      "values": [
+        "slovenský",
+        "ruský",
+        "britský",
+        "španělský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Vyhoďme ho z kola ven",
+      "values": [
+        "slovenský",
+        "americký",
+        "francouzský",
+        "australský"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Most přes řeku Kwai",
+      "values": [
+        "japonský",
+        "francouzský",
+        "britský",
+        "anglický"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Růže pro Algernon",
+      "values": [
+        "australský",
+        "ruský",
+        "španělský",
+        "americký"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Milenci a vrazi",
+      "values": [
+        "australský",
+        "český",
+        "ruský",
+        "anglický"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

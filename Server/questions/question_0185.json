@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Paříž",
+      "values": [
+        "Seina",
+        "Malše",
+        "Dunaj",
+        "Visla"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mladá Boleslav",
+      "values": [
+        "Tibera",
+        "Jizera",
+        "Mandava",
+        "Dyje"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Klatovy",
+      "values": [
+        "Volha",
+        "Spréva",
+        "Úhlava",
+        "Eufrat"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Linec",
+      "values": [
+        "Dunaj",
+        "Hornád",
+        "Něva",
+        "Úhlava"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Trenčín",
+      "values": [
+        "Váha",
+        "Lužická Nisa",
+        "Seina",
+        "Tis"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Banská Bystrica",
+      "values": [
+        "Labe",
+        "Dněpr",
+        "Chrudimka",
+        "Hron"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ostřihom",
+      "values": [
+        "Loira",
+        "Metuje",
+        "Dunaj",
+        "Cidlina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Vaduz",
+      "values": [
+        "Jizera",
+        "Lužická Nisa",
+        "Spréva",
+        "Rýn"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mušov",
+      "values": [
+        "Svratka",
+        "Temže",
+        "Dyje",
+        "Ohře"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kaplice",
+      "values": [
+        "Malše",
+        "Dunaj",
+        "Radbuza",
+        "Chrudimka"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

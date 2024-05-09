@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] herce?",
+  "questions": [
+    {
+      "key": "Vavřinec Hradilek",
+      "values": [
+        "jihokorejského",
+        "mexického",
+        "srbského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Václav Kopta",
+      "values": [
+        "srbského",
+        "jihokorejského",
+        "argentinského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vlastimil Bedrna",
+      "values": [
+        "indického",
+        "maďarského",
+        "irského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Lior Raz",
+      "values": [
+        "portorického",
+        "čínského",
+        "norského",
+        "izraelského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Omar Sy",
+      "values": [
+        "českého",
+        "ruského",
+        "norského",
+        "francouzského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kevin Bacon",
+      "values": [
+        "izraelského",
+        "švýcarského",
+        "amerického",
+        "novozélandského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robert Bárta",
+      "values": [
+        "českého",
+        "čínského",
+        "portorického",
+        "tureckého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Arnošt Frauenberg",
+      "values": [
+        "ukrajinského",
+        "norského",
+        "srbského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Cyril Raffaelli",
+      "values": [
+        "guatemalského",
+        "francouzského",
+        "brazilského",
+        "marockého"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Eugene Levy",
+      "values": [
+        "argentinského",
+        "italského",
+        "rakouského",
+        "kanadského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

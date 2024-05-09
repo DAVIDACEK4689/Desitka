@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] podnikatele?",
+  "questions": [
+    {
+      "key": "Thomas Alva Edison",
+      "values": [
+        "amerického",
+        "řeckého",
+        "ukrajinského",
+        "českého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Karel Janeček",
+      "values": [
+        "kanadského",
+        "českého",
+        "ukrajinského",
+        "švédského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marian Kočner",
+      "values": [
+        "slovenského",
+        "švýcarského",
+        "jihoafrického",
+        "rakouského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Ondřej Kania",
+      "values": [
+        "řeckého",
+        "českého",
+        "brazilského",
+        "švýcarského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Colonel Sanders",
+      "values": [
+        "amerického",
+        "jihoafrického",
+        "ukrajinského",
+        "francouzského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Katarina Wittová",
+      "values": [
+        "britského",
+        "německého",
+        "švýcarského",
+        "ruského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Petr Hampl",
+      "values": [
+        "kanadského",
+        "českého",
+        "řeckého",
+        "brazilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nora Kabrheľová",
+      "values": [
+        "kanadského",
+        "jihoafrického",
+        "řeckého",
+        "slovenského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sergey Brin",
+      "values": [
+        "amerického",
+        "jihoafrického",
+        "ruského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pavel Baudiš",
+      "values": [
+        "českého",
+        "italského",
+        "slovenského",
+        "švýcarského"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

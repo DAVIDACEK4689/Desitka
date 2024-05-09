@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte zemi podle přístavního města",
+  "questions": [
+    {
+      "key": "Hurghada",
+      "values": [
+        "Bangladéš",
+        "Egypt",
+        "Kypr",
+        "Gabon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nagasaki",
+      "values": [
+        "Turecko",
+        "Japonsko",
+        "Libye",
+        "Lotyšsko"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ósaka",
+      "values": [
+        "Albánie",
+        "Japonsko",
+        "Jordánsko",
+        "Benin"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Salerno",
+      "values": [
+        "Černá Hora",
+        "Surinam",
+        "Itálie",
+        "Lotyšsko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Taranto",
+      "values": [
+        "Barbados",
+        "Řecko",
+        "Itálie",
+        "Dominikánská republika"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Kóbe",
+      "values": [
+        "Kypr",
+        "Maroko",
+        "Japonsko",
+        "Libanon"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Visby",
+      "values": [
+        "Kypr",
+        "Švédsko",
+        "Slovinsko",
+        "Izrael"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Esbjerg",
+      "values": [
+        "Švýcarsko",
+        "Jordánsko",
+        "Dánsko",
+        "Německo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Skagen",
+      "values": [
+        "Gruzie",
+        "Dánsko",
+        "Gambie",
+        "Itálie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kuressaare",
+      "values": [
+        "Estonsko",
+        "Irsko",
+        "Jemen",
+        "Malta"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

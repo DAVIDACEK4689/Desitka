@@ -1,0 +1,105 @@
+{
+  "text": "Poznejte rok podle bitvy",
+  "questions": [
+    {
+      "key": "Varšavské povstání",
+      "values": [
+        "1944",
+        "1690",
+        "1666",
+        "1298"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Brusilovova ofenzíva",
+      "values": [
+        "2024",
+        "1775",
+        "1836",
+        "1916"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bitva u Caporetta",
+      "values": [
+        "1254",
+        "1917",
+        "1933",
+        "1420"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bitva u Rakovníka",
+      "values": [
+        "937",
+        "1565",
+        "1620",
+        "1863"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Sekigahary",
+      "values": [
+        "1260",
+        "1807",
+        "1526",
+        "1600"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pařížské povstání",
+      "values": [
+        "1944",
+        "1756",
+        "1424",
+        "1954"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Bitva na Hampton Roads",
+      "values": [
+        "1741",
+        "1798",
+        "1859",
+        "1862"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Bělehradská operace",
+      "values": [
+        "1807",
+        "1942",
+        "1944",
+        "1346"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bitva u Kircholmu",
+      "values": [
+        "1991",
+        "1605",
+        "1456",
+        "1526"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nálet na Coventry",
+      "values": [
+        "1940",
+        "1297",
+        "1937",
+        "1865"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

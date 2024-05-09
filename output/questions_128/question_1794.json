@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] tenistku?",
+  "questions": [
+    {
+      "key": "Markéta Vondroušová",
+      "values": [
+        "českou",
+        "čínskou",
+        "italskou",
+        "ruskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Venus Williamsová",
+      "values": [
+        "běloruskou",
+        "lotyšskou",
+        "rumunskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Sára Bejlek",
+      "values": [
+        "argentinskou",
+        "lotyšskou",
+        "českou",
+        "japonskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sofia Keninová",
+      "values": [
+        "československou",
+        "řeckou",
+        "americkou",
+        "australskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Andrea Holíková",
+      "values": [
+        "americkou",
+        "rakouskou",
+        "českou",
+        "německou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Natalija Stevanovićová",
+      "values": [
+        "srbskou",
+        "chorvatskou",
+        "kanadskou",
+        "rakouskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Laura Siegemundová",
+      "values": [
+        "tuniskou",
+        "německou",
+        "belgickou",
+        "černohorskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Marion Bartoliová",
+      "values": [
+        "japonskou",
+        "francouzskou",
+        "italskou",
+        "argentinskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Dinara Safinová",
+      "values": [
+        "kanadskou",
+        "ruskou",
+        "brazilskou",
+        "belgickou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Renáta Tomanová",
+      "values": [
+        "československou",
+        "ukrajinskou",
+        "egyptskou",
+        "dánskou"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

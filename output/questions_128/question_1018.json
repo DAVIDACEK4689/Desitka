@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] vegetariána?",
+  "questions": [
+    {
+      "key": "Cillian Murphy",
+      "values": [
+        "italského",
+        "ruského",
+        "irského",
+        "slovenského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Robert Kodym",
+      "values": [
+        "nizozemského",
+        "australského",
+        "britského",
+        "českého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jim Carrey",
+      "values": [
+        "amerického",
+        "kanadského",
+        "slovenského",
+        "britského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Albert Schweitzer",
+      "values": [
+        "izraelského",
+        "belgického",
+        "rakouského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Juval Noach Harari",
+      "values": [
+        "francouzského",
+        "nizozemského",
+        "izraelského",
+        "ruského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Henry David Thoreau",
+      "values": [
+        "australského",
+        "španělského",
+        "nizozemského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kesha",
+      "values": [
+        "kanadského",
+        "amerického",
+        "italského",
+        "izraelského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Maurice Maeterlinck",
+      "values": [
+        "izraelského",
+        "belgického",
+        "francouzského",
+        "slovenského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Hana Horecká",
+      "values": [
+        "českého",
+        "indického",
+        "irského",
+        "kanadského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jessica Drake",
+      "values": [
+        "slovenského",
+        "australského",
+        "ruského",
+        "amerického"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

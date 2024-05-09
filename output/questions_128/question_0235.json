@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte rok podle politiky",
+  "questions": [
+    {
+      "key": "Vstup České republiky do Evropské unie",
+      "values": [
+        "1863",
+        "1809",
+        "2018",
+        "2004"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Vláda Jana Fischera",
+      "values": [
+        "1788",
+        "2012",
+        "1819",
+        "2010"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Schengenská smlouva",
+      "values": [
+        "1699",
+        "2015",
+        "1985",
+        "1991"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Chilský incident Václava Klause",
+      "values": [
+        "1995",
+        "2006",
+        "2011",
+        "1986"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Silvestrovské patenty",
+      "values": [
+        "1851",
+        "2022",
+        "1608",
+        "2004"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Prešpurský mír",
+      "values": [
+        "1795",
+        "1917",
+        "1992",
+        "1805"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Smlouva o všeobecném zákazu jaderných zkoušek",
+      "values": [
+        "2002",
+        "1699",
+        "1851",
+        "1996"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Kauza Hovory z Lán",
+      "values": [
+        "1809",
+        "1795",
+        "1945",
+        "2014"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Německé velvyslanectví v Praze",
+      "values": [
+        "1952",
+        "1917",
+        "1860",
+        "1989"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Ajgunská smlouva",
+      "values": [
+        "1714",
+        "1858",
+        "2018",
+        "1925"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

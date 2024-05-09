@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle souostroví",
+  "questions": [
+    {
+      "key": "Galapágy",
+      "values": [
+        "Nový Zéland",
+        "Rusko",
+        "Ekvádor",
+        "Spojené království"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ohňová země",
+      "values": [
+        "Francie",
+        "Argentina",
+        "Rusko",
+        "Nový Zéland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Normanské ostrovy",
+      "values": [
+        "Řecko",
+        "Finsko",
+        "Norsko",
+        "Spojené království"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Liparské ostrovy",
+      "values": [
+        "Argentina",
+        "Spojené království",
+        "Ekvádor",
+        "Itálie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Moluky",
+      "values": [
+        "Argentina",
+        "Finsko",
+        "Indonésie",
+        "Spojené království"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Diomedovy ostrovy",
+      "values": [
+        "Nový Zéland",
+        "Rusko",
+        "Španělsko",
+        "Argentina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Wallis a Futuna",
+      "values": [
+        "Rusko",
+        "Japonsko",
+        "Řecko",
+        "Francie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Andamany",
+      "values": [
+        "Řecko",
+        "Finsko",
+        "Indie",
+        "Argentina"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Sundské ostrovy",
+      "values": [
+        "Norsko",
+        "Indonésie",
+        "Řecko",
+        "Ekvádor"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Kornati",
+      "values": [
+        "Spojené království",
+        "Řecko",
+        "Norsko",
+        "Chorvatsko"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

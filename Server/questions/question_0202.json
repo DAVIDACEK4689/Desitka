@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [země] kuchyni?",
+  "questions": [
+    {
+      "key": "Surströmming",
+      "values": [
+        "polskou",
+        "švédskou",
+        "vietnamskou",
+        "arménskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Ramen",
+      "values": [
+        "ruskou",
+        "řeckou",
+        "japonskou",
+        "skotskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Melta",
+      "values": [
+        "americkou",
+        "italskou",
+        "brazilskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Čokoláda",
+      "values": [
+        "arménskou",
+        "švédskou",
+        "mexickou",
+        "vietnamskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Makrónky",
+      "values": [
+        "indickou",
+        "italskou",
+        "arménskou",
+        "francouzskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Rajská omáčka",
+      "values": [
+        "českou",
+        "středomořskou",
+        "španělskou",
+        "korejskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Tafelspitz",
+      "values": [
+        "japonskou",
+        "rakouskou",
+        "francouzskou",
+        "španělskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Wasabi",
+      "values": [
+        "americkou",
+        "japonskou",
+        "českou",
+        "arménskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Langoš",
+      "values": [
+        "maďarskou",
+        "italskou",
+        "ruskou",
+        "balkánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Pancetta",
+      "values": [
+        "maďarskou",
+        "španělskou",
+        "italskou",
+        "rakouskou"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

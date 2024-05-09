@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] básníka?",
+  "questions": [
+    {
+      "key": "Guillaume Apollinaire",
+      "values": [
+        "slovinského",
+        "slovenského",
+        "francouzského",
+        "chorvatského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Ludvík Kundera",
+      "values": [
+        "čínského",
+        "českého",
+        "irského",
+        "chorvatského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Emily Dickinsonová",
+      "values": [
+        "kanadského",
+        "irského",
+        "amerického",
+        "portugalského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Anton Günther",
+      "values": [
+        "německého",
+        "ukrajinského",
+        "slovinského",
+        "irského"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Jiří Langer",
+      "values": [
+        "polského",
+        "chilského",
+        "českého",
+        "indického"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Bohdan Kaminský",
+      "values": [
+        "ruského",
+        "českého",
+        "amerického",
+        "polského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tirso de Molina",
+      "values": [
+        "francouzského",
+        "španělského",
+        "německého",
+        "anglického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Paul Claudel",
+      "values": [
+        "švýcarského",
+        "francouzského",
+        "gruzínského",
+        "anglického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Wilhelm Busch",
+      "values": [
+        "slovinského",
+        "kubánského",
+        "kanadského",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Mahmúd Darwíš",
+      "values": [
+        "norského",
+        "japonského",
+        "polského",
+        "palestinského"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

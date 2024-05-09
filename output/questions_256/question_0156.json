@@ -1,0 +1,105 @@
+{
+  "text": "Jde o [období] malíře?",
+  "questions": [
+    {
+      "key": "Leonardo da Vinci",
+      "values": [
+        "secesního",
+        "realistického",
+        "gotického",
+        "renesančního"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Raffael Santi",
+      "values": [
+        "rokokového",
+        "renesančního",
+        "romantického",
+        "gotického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Tizian",
+      "values": [
+        "barokního",
+        "secesního",
+        "gotického",
+        "renesančního"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Pieter Bruegel",
+      "values": [
+        "romantického",
+        "realistického",
+        "renesančního",
+        "secesního"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Eugène Delacroix",
+      "values": [
+        "secesního",
+        "romantického",
+        "realistického",
+        "rokokového"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "František Kaván",
+      "values": [
+        "secesního",
+        "barokního",
+        "realistického",
+        "rokokového"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Hans von Aachen",
+      "values": [
+        "realistického",
+        "gotického",
+        "romantického",
+        "renesančního"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Donato Bramante",
+      "values": [
+        "rokokového",
+        "renesančního",
+        "romantického",
+        "realistického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Camille Corot",
+      "values": [
+        "romantického",
+        "rokokového",
+        "gotického",
+        "barokního"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Giovanni Bellini",
+      "values": [
+        "gotického",
+        "realistického",
+        "renesančního",
+        "rokokového"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

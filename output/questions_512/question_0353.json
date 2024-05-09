@@ -1,0 +1,105 @@
+{
+  "text": "Určete zemi podle sportovní události",
+  "questions": [
+    {
+      "key": "Clash of the Stars",
+      "values": [
+        "Česko",
+        "Andorra",
+        "Gruzie",
+        "Německo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mistrovství světa v ragby 2023",
+      "values": [
+        "Česko",
+        "Spojené království",
+        "Francie",
+        "Rusko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství světa ve fotbale 2010",
+      "values": [
+        "Gruzie",
+        "Spojené království",
+        "Jihoafrická republika",
+        "Česko"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství světa ve fotbale 2006",
+      "values": [
+        "Německo",
+        "Andorra",
+        "Mexiko",
+        "Španělsko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mistrovství světa v ragby 2019",
+      "values": [
+        "Japonsko",
+        "Česko",
+        "Singapur",
+        "Rusko"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mistrovství světa ve fotbale 1982",
+      "values": [
+        "Německo",
+        "Francie",
+        "Španělsko",
+        "Severní Makedonie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Mistrovství světa juniorů v ledním hokeji 2001",
+      "values": [
+        "Litva",
+        "Japonsko",
+        "Španělsko",
+        "Jihoafrická republika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mistrovství Evropy ve fotbale hráčů do 21 let 2023",
+      "values": [
+        "Andorra",
+        "Gruzie",
+        "Rusko",
+        "Singapur"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Mistrovství světa v ragby 2015",
+      "values": [
+        "Spojené království",
+        "Jihoafrická republika",
+        "Mexiko",
+        "Francie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Mistrovství světa juniorů v ledním hokeji 2000",
+      "values": [
+        "Mexiko",
+        "Andorra",
+        "Rusko",
+        "Německo"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

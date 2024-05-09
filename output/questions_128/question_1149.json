@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] malíře?",
+  "questions": [
+    {
+      "key": "Paul Stanley",
+      "values": [
+        "izraelského",
+        "nizozemského",
+        "amerického",
+        "novozélandského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Musaši Mijamoto",
+      "values": [
+        "polského",
+        "belgického",
+        "řeckého",
+        "japonského"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Jiří Klösel",
+      "values": [
+        "českého",
+        "mexického",
+        "běloruského",
+        "německého"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Stuart Sutcliffe",
+      "values": [
+        "polského",
+        "britského",
+        "kanadského",
+        "italského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nikolaj Konstantinovič Rerich",
+      "values": [
+        "nizozemského",
+        "ruského",
+        "finského",
+        "litevského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "August Macke",
+      "values": [
+        "španělského",
+        "mexického",
+        "amerického",
+        "německého"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Giacomo Balla",
+      "values": [
+        "mexického",
+        "novozélandského",
+        "italského",
+        "nizozemského"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Alan Bean",
+      "values": [
+        "izraelského",
+        "amerického",
+        "španělského",
+        "chilského"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Robert Campin",
+      "values": [
+        "amerického",
+        "nizozemského",
+        "běloruského",
+        "belgického"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Emil Orlik",
+      "values": [
+        "rakouského",
+        "amerického",
+        "izraelského",
+        "mexického"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

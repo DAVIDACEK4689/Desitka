@@ -1,0 +1,105 @@
+{
+  "text": "Doplňte řeku podle sídla",
+  "questions": [
+    {
+      "key": "Kolín",
+      "values": [
+        "Rýn",
+        "Seina",
+        "Visla",
+        "Labe"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Smíchov",
+      "values": [
+        "Ploučnice",
+        "Vltava",
+        "Visla",
+        "Úhlava"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Toruň",
+      "values": [
+        "Jizera",
+        "Visla",
+        "Lužická Nisa",
+        "Dunaj"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Bubeneč",
+      "values": [
+        "Úhlava",
+        "Jizera",
+        "Mandava",
+        "Vltava"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Libochovice",
+      "values": [
+        "Chrudimka",
+        "Ohře",
+        "Berounka",
+        "Mandava"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Plánice",
+      "values": [
+        "Rýn",
+        "Loira",
+        "Úslava",
+        "Hron"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Izmajil",
+      "values": [
+        "Dunaj",
+        "Labe",
+        "Temže",
+        "Lužická Nisa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Rachov",
+      "values": [
+        "Váha",
+        "Tis",
+        "Rýn",
+        "Hornád"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Nosislav",
+      "values": [
+        "Dněpr",
+        "Ohře",
+        "Inn",
+        "Svratka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Špandava",
+      "values": [
+        "Spréva",
+        "Cidlina",
+        "Otava",
+        "Radbuza"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "text": "Jedná se o [země] zpěvačku?",
+  "questions": [
+    {
+      "key": "Soňa Červená",
+      "values": [
+        "českou",
+        "mexickou",
+        "moldavskou",
+        "peruánskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Vanessa Paradis",
+      "values": [
+        "americkou",
+        "polskou",
+        "australskou",
+        "francouzskou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Valérie Čižmárová",
+      "values": [
+        "ruskou",
+        "finskou",
+        "kolumbijskou",
+        "českou"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "key": "Marta Töpferová",
+      "values": [
+        "českou",
+        "švédskou",
+        "norskou",
+        "irskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Gianna Nannini",
+      "values": [
+        "italskou",
+        "slovenskou",
+        "britskou",
+        "maďarskou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "key": "Edita Štaubertová",
+      "values": [
+        "uruguayskou",
+        "jamajskou",
+        "českou",
+        "indickou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Radka Coufalová",
+      "values": [
+        "švédskou",
+        "polskou",
+        "českou",
+        "barbadoskou"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "key": "Orianthi",
+      "values": [
+        "jamajskou",
+        "australskou",
+        "uruguayskou",
+        "maďarskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Olivia Olson",
+      "values": [
+        "jamajskou",
+        "americkou",
+        "britskou",
+        "švédskou"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "key": "Lola Albright",
+      "values": [
+        "německou",
+        "finskou",
+        "peruánskou",
+        "americkou"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}
